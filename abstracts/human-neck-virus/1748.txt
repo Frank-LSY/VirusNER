@@ -1,0 +1,40 @@
+
+
+1748. PLoS One. 2013;8(2):e56622. doi: 10.1371/journal.pone.0056622. Epub 2013 Feb 15.
+
+MicroRNA variants increase the risk of HPV-associated squamous cell carcinoma of 
+the oropharynx in never smokers.
+
+Song X(1), Sturgis EM, Liu J, Jin L, Wang Z, Zhang C, Wei Q, Li G.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas, United States of America.
+
+BACKGROUND: Both microRNAs and human papillomavirus (HPV) infection play an
+important role in the development and progression of oral squamous cell carcinoma
+(OSCC). In addition, microRNAs affect all facets of the immune/inflammation
+responses to infection, which may control HPV clearance. We thus hypothesized
+that microRNA polymorphisms modify the association between HPV16 seropositivity
+and OSCC risk.
+METHODS: Four single-nucleotide polymorphisms in microRNAs were genotyped and
+HPV16 serology was determined in 325 cases and 335 matched controls. Odds ratios 
+(ORs) and 95% confidence intervals (CIs) were calculated using univariate and
+multivariable logistic regression models.
+RESULTS: Overall, each polymorphism had no significant main effect on OSCC risk. 
+Compared with the risk among individuals with both miR146 rs2910164 GG genotype
+and HPV16 seronegativity, risk of OSCC was increased among those with CG or CC
+genotype and HPV16 seronegativity (OR, 1.2; 95% CI, 0.9-1.8), GG genotype and
+HPV16 seropositivity (OR, 3.0; 95% CI, 1.8-5.0), and CG or CC genotype and HPV16 
+seropositivity (OR, 4.7; 95% CI, 2.3-9.4). Similar results were found for miR149 
+rs2292832, miR196 rs11614913, and miR499 rs3746444. Analyses stratified by tumor 
+sites and smoking status showed that each polymorphism significantly increased
+the risk of HPV16-associated squamous cell carcinoma of the oropharynx (SCCOP),
+and such effect modification was particularly prominent in never smokers.
+CONCLUSIONS: Our results indicate that microRNA polymorphisms modify the risk of 
+OSCC associated with HPV16 seropositivity, particularly in patients with SCCOP
+and never smokers. Larger studies are needed to verify our findings.
+
+DOI: 10.1371/journal.pone.0056622 
+PMCID: PMC3574010
+PMID: 23457596  [Indexed for MEDLINE]

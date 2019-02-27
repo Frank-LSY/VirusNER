@@ -1,0 +1,38 @@
+
+
+1219. Mol Carcinog. 2011 Sep;50(9):680-8. doi: 10.1002/mc.20798. Epub 2011 May 11.
+
+Promoter methylation of cyclin A1 is associated with human papillomavirus 16
+induced head and neck squamous cell carcinoma independently of p53 mutation.
+
+Weiss D(1), Basel T, Sachse F, Braeuninger A, Rudack C.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Muenster, Germany.
+
+Aberrant promoter methylation of specific genes and infection with human
+papillomavirus 16 (HPV16) are known risk factors for the development of Head and 
+Neck Squamous Cell Carcinoma (HNSCC). Little knowledge exists on the interaction 
+of HPV16 infection and promoter methylation in HNSCC. The promoter methylation
+status of 12 genes (TIMP3, CDH1, CDKN2A, DAPK1, transcription factor 21 (TCF21), 
+CD44, MLH1, MGMT, RASSF1, cyclin A1 (CCNA1), LARS2, and CEBPA) was evaluated by
+methylation-specific polymerase chain reaction in 55 primary HNSCC and 31
+controls. The results were correlated with HPV16 status and clinicopathological
+characteristics. CCNA1 and p53 protein expression were additionally determined by
+immunohistochemistry and compared with p53 mutation status. Methylation of DAPK1 
+(P = 0.043), CCNA1 (P = 0.016) and TCF21 (P = 0.0005) was significantly more
+present in HNSCC than in controls. The genes TIMP3 (P = 0.018) and CCNA1 (P =
+0.015) showed higher methylation frequency in HPV16 positive HNSCC compared to
+HPV16 negative tumors. CCNA1 methylation did not correlate with CCNA1 protein
+expression and p53 mutation, respectively. Methylation of TCF21 was associated
+with higher age (P = 0.044) and nicotine abuse (P = 0.035). Methylation of CCNA1 
+was significantly more present in females (P = 0.003). Methylation of TCF21 and
+CCNA1 are important risk factors for HNSCC development. CCNA1 methylation may
+play a crucial role in HPV16-induced carcinogenesis of HNSCC independently of
+p53.
+
+Copyright © 2011 Wiley-Liss, Inc.
+
+DOI: 10.1002/mc.20798 
+PMID: 21563216  [Indexed for MEDLINE]

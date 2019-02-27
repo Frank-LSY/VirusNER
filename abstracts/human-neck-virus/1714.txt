@@ -1,0 +1,41 @@
+
+
+1714. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2011 Aug;46(8):675-80.
+
+[Effect of Epstein-Barr virus nuclear antigen 1 on cell proliferation and cell
+cycle in nasopharyngeal carcinoma cells].
+
+[Article in Chinese]
+
+Wan RQ(1), Li XP, Wang L, Lu J, Luo HN, Li G, Liu X, Zhang B.
+
+Author information: 
+(1)Department of Otorhinolarynology Head and Neck Surgery, Sourthern Medical
+University, Guangzhou, China.
+
+OBJECTIVE: To study the effect of Epstein-Barr virus nuclear antigen 1 (EBNA1) on
+cell proliferation and cell cycle in nasopharyngeal carcinoma (NPC) cells.
+METHODS: Recombinant lentivirus that encoded EBNA1 short hairpin RNA (shRNA) was 
+prepared. The C666-EBNA1 (CE) cells were transduced with lentivirus and selected 
+by fluorescence activated cell sorting (FACS) to repress EBNA1 expression. The
+protein expression levels of EBNA1 were examined by Western blot. The effect of
+EBNA1 silence on cell proliferation was analyzed by MTT assay and cell growth
+assay, respectively. Cell cycle was assessed by flow cytometry. The mRNA and
+protein levels of cell cycle regulators were examined by real-time PCR and
+Western blot.
+RESULTS: Recombinant lentivirus encoded EBNA1 shRNA was successfully constructed.
+The EBNA1 expression in CE cells was significantly reduced by lentivirus-mediated
+RNA interference. The results of cell counting and MTT assay showed that EBNA1
+down-regulation significantly inhibited cell growth in CE-shRNA EBNA1 cells (P < 
+0.05). Compared with the control group, the percentage of cells in G0-G1 phase
+was increased from (62.43 ± 6.62)% to (89.66 ± 0.64)% (t = -7.091, P = 0.002),
+and that in S phase was decreased from (34.93 ± 7.36)% to (7.82 ± 2.44)% (t =
+6.095, P = 0.004). The mRNA expressions of c-myc, CDK4, CDK6 and pRb were
+decreased by 65.60%, 34.06%, 41.05% and 55.29% respectively with the similar
+results in protein expression levels.
+CONCLUSIONS: Suppression of EBNA1 may inhibit the growth of nasopharyngeal
+carcinoma cells in vitro and induce a G1-phase cell cycle arrest, which might be 
+mediated by down-regulation of c-myc, CDK4, CDK6 and pRb.
+
+
+PMID: 22169551  [Indexed for MEDLINE]

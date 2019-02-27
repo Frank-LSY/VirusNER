@@ -1,0 +1,47 @@
+
+
+1535. Radiother Oncol. 2013 Sep;108(3):500-5. doi: 10.1016/j.radonc.2013.06.011. Epub
+2013 Aug 13.
+
+Radiosensitivity and effect of hypoxia in HPV positive head and neck cancer
+cells.
+
+Sørensen BS(1), Busk M, Olthof N, Speel EJ, Horsman MR, Alsner J, Overgaard J.
+
+Author information: 
+(1)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+Denmark. Electronic address: bsin@mail.dk.
+
+BACKGROUND AND PURPOSE: HPV associated Head and Neck Squamous Cell Carcinoma
+(HNSCC) represents a distinct subgroup of HNSCC characterized by a favorable
+prognosis and a distinct molecular biology. Previous data from the randomized
+DAHANCA 5 trial indicated that HPV positive tumors did not benefit from hypoxic
+modifications by Nimorazole during radiotherapy, whereas a significant benefit
+was observed in the HPV negative tumors. However, more studies have demonstrated 
+equal frequencies of hypoxic tumors among HPV-positive and HPV-negative tumors.
+The aim of the present study was to determine radiosensitivity, the impact of
+hypoxia and the effect of Nimorazole in HPV positive and HPV negative cell lines.
+MATERIALS AND METHOD: The used cell lines were: UDSCC2, UMSCC47 and UPCISCC90
+(HPV positive) and FaDuDD, UTSCC33 and UTSCC5 (HPV negative). Cells were cultured
+under normoxic or hypoxic conditions, and gene expression levels of previously
+established hypoxia induced genes were assessed by qPCR. Cells were irradiated
+with various doses under normoxia, hypoxia or hypoxia +1mM Nimorazole, and the
+clonogenic survival was determined.
+RESULTS: The HPV positive and HPV negative cell lines exhibited similar patterns 
+of upregulation of hypoxia induced genes in response to hypoxia. The HPV positive
+cell lines were up to 2.4 times more radiation sensitive than HPV negative cell
+lines. However, all HPV positive cells displayed the same response to hypoxia in 
+radiosensitivity, with an OER in the range 2.3-2.9, and a sensitizer effect of
+Nimorazole of 1.13-1.29, similar to HPV negative cells.
+CONCLUSIONS: Although HPV positive cells had a markedly higher radiosensitivity
+compared to HPV negative cells, they displayed the same relative radioresistance 
+under hypoxia and the same relative sensitizer effect of Nimorazole. The clinical
+observation that HPV positive patients do not seem to benefit from Nimorazole
+treatment is not due to inherent differences in hypoxia sensitivity or response
+to Nimorazole, but can be accounted for by the overall higher radiosensitivity of
+HPV positive cells.
+
+Copyright © 2013. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.radonc.2013.06.011 
+PMID: 23953409  [Indexed for MEDLINE]

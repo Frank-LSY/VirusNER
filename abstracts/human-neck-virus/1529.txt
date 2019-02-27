@@ -1,0 +1,40 @@
+
+
+1529. Int J Cancer. 2012 Jul 15;131(2):E74-85. doi: 10.1002/ijc.26497. Epub 2011 Nov
+19.
+
+Systemic and local human papillomavirus 16-specific T-cell immunity in patients
+with head and neck cancer.
+
+Heusinkveld M(1), Goedemans R, Briet RJ, Gelderblom H, Nortier JW, Gorter A, Smit
+VT, Langeveld AP, Jansen JC, van der Burg SH.
+
+Author information: 
+(1)Department of Clinical Oncology, Leiden University Medical Center, Leiden, The
+Netherlands.
+
+Squamous cell carcinomas of the head and neck (HNSCC), in particular those of the
+oropharynx, can be caused by human papilloma virus Type 16 (HPV16). Whereas these
+HPV-induced oropharyngeal carcinomas may express the HPV16 E6 and E7 oncoproteins
+and are associated with better survival, the nonvirally induced HNSCC are
+associated with overexpression of p53. In this study we assessed the presence of 
+systemic and local T cells reactive against these oncoproteins in HNSCC. An
+exploratory study on the presence, type and function of HPV16- and/or
+p53-specific T cells in the blood, tumor and/or metastatic lymph node as measured
+by several immune assays was performed in an unselected group of 50 patients with
+HNSCC. Tumor tissue was tested for HPV DNA and the overexpression of p53 protein.
+Almost all HPV16+ tumors were located in the oropharynx. Circulating HPV16- and
+p53-specific T cells were found in 17/47 and 7/45 tested patients. T cells were
+isolated from tumor cultures and/or lymph nodes of 20 patients. HPV16-specific T 
+cells were detected in six of eight HPV+ tumors, but in none of the 12
+HPV-tumors. Tumor-infiltrating p53-specific T cells were not detected. In depth
+analysis of the HPV16-specific T-cell response revealed that this response
+comprised a broad repertoire of CD4+ T-helper Type 1 and 2 cells, CD4+ regulatory
+T cells and CD8+ T cells reactive to HPV16. The local presence of HPV16-specific 
+T-cell immunity in HPV16-induced HNSCC implicates a role in the antitumor
+response and support the development of immunotherapy for HNSCC.
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.26497 
+PMID: 22020783  [Indexed for MEDLINE]

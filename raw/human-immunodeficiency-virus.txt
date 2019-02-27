@@ -1,0 +1,1842 @@
+
+1. J Infect Dis. 2017 Dec 1;216(suppl_9):S851-S856. doi: 10.1093/infdis/jix409.
+
+Key Factors Influencing the Emergence of Human Immunodeficiency Virus Drug
+Resistance in Low- and Middle-Income Countries.
+
+Wallis CL(1), Godfrey C(2), Fitzgibbon JE(3), Mellors JW(2)(4).
+
+Author information: 
+(1)Bio Analytical Research Corporation-South Africa and Lancet Laboratories,
+Johannesburg, South Africa.
+(2)HIV Research Branch, Therapeutics Research Program, Division of AIDS, National
+Institute of Allergy and Infectious Diseases, National Institutes of Health.
+(3)Drug Development and Clinical Sciences Branch, Therapeutics Research Program, 
+Division of AIDS, National Institute of Allergy and Infectious Diseases, National
+Institutes of Health.
+(4)Division of Infectious Diseases, Department of Medicine, University of
+Pittsburgh, Pennsylvania.
+
+The emergence and spread of human immunodeficiency virus (HIV) drug resistance
+from antiretroviral roll-out programs remain a threat to long-term control of the
+HIV-AIDS epidemic in low- and middle-income countries (LMICs). The patterns of
+drug resistance and factors driving emergence of resistance are complex and
+multifactorial. The key drivers of drug resistance in LMICs are reviewed here,
+and recommendations are made to limit their influence on antiretroviral therapy
+efficacy.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix409 
+PMCID: PMC5853971
+PMID: 29207000  [Indexed for MEDLINE]
+
+
+2. Cardiol Clin. 2018 Feb;36(1):161-170. doi: 10.1016/j.ccl.2017.09.005.
+
+A New Face of Cardiac Emergencies: Human Immunodeficiency Virus-Related Cardiac
+Disease.
+
+Tsabedze N(1), Vachiat A(1), Zachariah D(1), Manga P(2).
+
+Author information: 
+(1)Division of Cardiology, Department of Internal Medicine, Faculty of Health
+Sciences, University of Witwatersrand, 7 York Road, Parktown, Johannesburg 2000, 
+South Africa.
+(2)Division of Cardiology, Department of Internal Medicine, Faculty of Health
+Sciences, University of Witwatersrand, 7 York Road, Parktown, Johannesburg 2000, 
+South Africa. Electronic address: pravin.manga@wits.ac.za.
+
+The human immunodeficiency virus epidemic is a major health challenge of the
+twenty-first century as the transition from infectious complications to
+noncommunicable disease becomes more evident. These patients may present to the
+emergency department with a variety of cardiovascular diseases, such as acute
+coronary syndromes, heart failure, pericardial disease, infective endocarditis,
+venothromboembolism, and other conditions. Increased awareness is needed among
+health care professionals to enhance adequate identification and promote prompt
+management of these patients.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccl.2017.09.005 
+PMID: 29173676  [Indexed for MEDLINE]
+
+
+3. Front Med. 2017 Dec;11(4):480-489. doi: 10.1007/s11684-017-0594-8. Epub 2017 Nov 
+23.
+
+Immunological and virological characteristics of human immunodeficiency virus
+type 1 superinfection: implications in vaccine design.
+
+Gao Y(1), Tian W(1), Han X(2), Gao F(3)(4).
+
+Author information: 
+(1)Key Laboratory of AIDS Immunology of National Health and Family Planning
+Commission, Department of Laboratory Medicine, The First Affiliated Hospital,
+China Medical University, Shenyang, 110001, China.
+(2)Key Laboratory of AIDS Immunology of National Health and Family Planning
+Commission, Department of Laboratory Medicine, The First Affiliated Hospital,
+China Medical University, Shenyang, 110001, China. xxhan@yeah.net.
+(3)National Engineering Laboratory for AIDS Vaccine, School of Life Sciences,
+Jilin University, Changchun, 130012, China. fgao@duke.edu.
+(4)Department of Medicine, Duke University Medical Center, Durham, NC, 27710,
+USA. fgao@duke.edu.
+
+Superinfection is frequently detected among individuals infected by human
+immunodeficiency virus type I (HIV-1). Superinfection occurs at similar
+frequencies at acute and chronic infection stages but less frequently than
+primary infection. This observation indicates that the immune responses elicited 
+by natural HIV-1 infection may play a role in curb of superinfection; however,
+these responses are not sufficiently strong to completely prevent superinfection.
+Thus, a successful HIV-1 vaccine likely needs to induce more potent and broader
+immune responses than those elicited by primary infection. On the other hand,
+potent and broad neutralization responses are more often detected after
+superinfection than during monoinfection. This suggests that broadly neutralizing
+antibodies are more likely induced by sequential immunization of multiple
+different immunogens than with only one form of envelope glycoprotein immunogens.
+Understanding why the protection from superinfection by immunity induced by
+primary infection is insufficient and if superinfection can lead to
+cross-reactive immune responses will be highly informative for HIV-1 vaccine
+design.
+
+DOI: 10.1007/s11684-017-0594-8 
+PMCID: PMC5783723
+PMID: 29170914  [Indexed for MEDLINE]
+
+
+4. Cell Chem Biol. 2018 Jan 18;25(1):36-49. doi: 10.1016/j.chembiol.2017.10.007.
+Epub 2017 Nov 16.
+
+APOBEC Enzymes as Targets for Virus and Cancer Therapy.
+
+Olson ME(1), Harris RS(2), Harki DA(3).
+
+Author information: 
+(1)Department of Medicinal Chemistry, University of Minnesota, Minneapolis, MN
+55455, USA.
+(2)Howard Hughes Medical Institute, University of Minnesota, Minneapolis, MN
+55455, USA; Department of Biochemistry, Molecular Biology, and Biophysics,
+University of Minnesota, Minneapolis, MN 55455, USA; Institute for Molecular
+Virology, University of Minnesota, Minneapolis, MN 55455, USA; Masonic Cancer
+Center, University of Minnesota, Minneapolis, MN 55455, USA; Stem Cell Institute,
+University of Minnesota, Minneapolis, MN 55455, USA.
+(3)Department of Medicinal Chemistry, University of Minnesota, Minneapolis, MN
+55455, USA; Department of Biochemistry, Molecular Biology, and Biophysics,
+University of Minnesota, Minneapolis, MN 55455, USA; Masonic Cancer Center,
+University of Minnesota, Minneapolis, MN 55455, USA; Department of Chemistry,
+University of Minnesota, Minneapolis, MN 55455, USA; Stem Cell Institute,
+University of Minnesota, Minneapolis, MN 55455, USA. Electronic address:
+daharki@umn.edu.
+
+Human DNA cytosine-to-uracil deaminases catalyze mutations in both pathogen and
+cellular genomes. APOBEC3D, APOBEC3F, APOBEC3G, and APOBEC3H restrict human
+immunodeficiency virus 1 (HIV-1) infection in cells deficient in the viral
+infectivity factor (Vif), and have the potential to catalyze sublethal levels of 
+mutation in viral genomes in Vif-proficient cells. At least two APOBEC3 enzymes, 
+and in particular APOBEC3B, are sources of somatic mutagenesis in cancer cells
+that drive tumor evolution and may manifest clinically as recurrence, metastasis,
+and/or therapy resistance. Consequently, APOBEC3 enzymes are tantalizing targets 
+for developing chemical probes and therapeutic molecules to harness mutational
+processes in human disease. This review highlights recent efforts to chemically
+manipulate APOBEC3 activities.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.chembiol.2017.10.007 
+PMCID: PMC5775913
+PMID: 29153851  [Indexed for MEDLINE]
+
+
+5. J Infect Dis. 2017 Dec 1;216(suppl_9):S824-S828. doi: 10.1093/infdis/jix413.
+
+Current Status of Point-of-Care Testing for Human Immunodeficiency Virus Drug
+Resistance.
+
+Duarte HA(1), Panpradist N(2), Beck IA(3), Lutz B(2), Lai J(2), Kanthula
+RM(1)(3), Kantor R(4), Tripathi A(5)(6), Saravanan S(7), MacLeod IJ(8)(9), Chung 
+MH(10)(11), Zhang G(12), Yang C(12), Frenkel LM(1)(3)(10)(11)(13).
+
+Author information: 
+(1)Department of Pediatrics, Division of Infectious Diseases.
+(2)Department of Bioengineering, University of Washington.
+(3)Seattle Children's Research Instituten.
+(4)Department of Medicine, Division of Infectious Diseases.
+(5)Center for Biomedical Engineering, School of Engineering.
+(6)Alpert Medical School, Divisions of Biology and Medicine, Brown University,
+Providence.
+(7)YRG CARE, India.
+(8)Aldatu Biosciences, Harvard Life Lab.
+(9)Department of Immunology and Infectious Diseases, Harvard T.H. Chan School of 
+Public Health.
+(10)Department of Global Health.
+(11)Department of Medicine, Division of Allergy and Infectious Diseases,
+University of Washington.
+(12)Center for Global Health, Division of Global HIV and Tuberculosis, Centers
+for Disease Control and Prevention.
+(13)Department of Laboratory Medicine, Division of Virology, University of
+Washington.
+
+Healthcare delivery has advanced due to the implementation of point-of-care
+testing, which is often performed within minutes to hours in minimally equipped
+laboratories or at home. Technologic advances are leading to point-of-care kits
+that incorporate nucleic acid-based assays, including polymerase chain reaction, 
+isothermal amplification, ligation, and hybridization reactions. As a limited
+number of single-nucleotide polymorphisms are associated with clinically
+significant human immunodeficiency virus (HIV) drug resistance, assays to detect 
+these mutations have been developed. Early versions of these assays have been
+used in research. This review summarizes the principles underlying each assay and
+discusses strategic needs for their incorporation into the management of HIV
+infection.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix413 
+PMCID: PMC5853236
+PMID: 29040621  [Indexed for MEDLINE]
+
+
+6. J Infect Dis. 2017 Nov 27;216(9):1049-1050. doi: 10.1093/infdis/jix308.
+
+Investigation of Human Immunodeficiency Virus Outbreaks Among People Who Inject
+Drugs: Timely Diagnosis and Molecular Surveillance are Crucial.
+
+Paraskevis D(1).
+
+Author information: 
+(1)Department of Hygiene Epidemiology and Medical Statistics, Medical School,
+National and Kapodistrian University of Athens, Greece.
+
+Comment on
+    J Infect Dis. 2017 Nov 27;216(9):1053-1062.
+
+DOI: 10.1093/infdis/jix308 
+PMID: 29029266  [Indexed for MEDLINE]
+
+
+7. Virol J. 2017 Oct 6;14(1):192. doi: 10.1186/s12985-017-0855-9.
+
+Mucus and Mucins: do they have a role in the inhibition of the human
+immunodeficiency virus?
+
+Mall AS(1), Habte H(2), Mthembu Y(3), Peacocke J(3), de Beer C(4).
+
+Author information: 
+(1)Division of General Surgery, University of Cape Town and Immune Modulation and
+Biotherapeutics Discovery, Boehringer- Ingelheim, Danbury, USA.
+anwar.mall@uct.ac.za.
+(2)Discipline of Medical Virology, University of Stellenbosch & Tygerberg
+Hospital, Parow, South Africa.
+(3)Division of General Surgery, University of Cape Town and Immune Modulation and
+Biotherapeutics Discovery, Boehringer- Ingelheim, Danbury, USA.
+(4)Department of Surgery, Division of General Surgery, University of Cape Town,
+Observatory Cape, 7925, South Africa.
+
+BACKGROUND: Mucins are large O-linked glycosylated proteins which give mucus
+their gel-forming properties. There are indications that mucus and mucins in
+saliva, breast milk and in the cervical plug inhibit the human immunodeficiency
+virus (HIV-1) in an in vitro assay. Crude mucus gels form continuous layers on
+the epithelial surfaces of the major internal tracts of the body and protect
+these epithelial surfaces against aggressive luminal factors such as hydrochloric
+acid and pepsin proteolysis in the stomach lumen, the movement of hard faecal
+pellets in the colon at high pressure, the effects of shear against the vaginal
+epithelium during intercourse and the presence of foreign substances in the
+respiratory airways. Tumour-associated epitopes on mucins make them suitable as
+immune-targets on malignant epithelial cells, rendering mucins important as
+diagnostic and prognostic markers for various diseases, even influencing the
+design of mucin-based vaccines. Sub-Saharan Africa has the highest prevalence of 
+HIV-AIDS in the world. The main points of viral transmission are via the vaginal 
+epithelium during sexual intercourse and mother-to-child transmission during
+breast-feeding. There have been many studies showing that several body fluids
+have components that prevent the transmission of HIV-1 from infected to
+non-infected persons through various forms of contact. Crude saliva and its
+purified mucins, MUC5B and MUC7, and the purified mucins from breast milk, MUC1
+and MUC4 and pregnancy plug cervical mucus (MUC2, MUC5AC, MUC5B and MUC6),
+inhibit HIV-1 in an in vitro assay. There are conflicting reports of whether
+crude breast-milk inhibits HIV-1 in an in vitro assay. However studies with a
+humanised BLT mouse show that breast-milk does inhibit HIV and that
+breast-feeding is still advisable even amongst HIV-positive women in
+under-resourced areas, preferably in conjunction with anti-retroviral treatment.
+CONCLUSION: These findings raise questions of how such a naturally occurring
+biological substance such as mucus, with remarkable protective properties of
+epithelial surfaces against aggressive luminal factors in delicate locations,
+could be used as a tool in the fight against HIV-AIDS, which has reached epidemic
+proportions in sub-Saharan Africa.
+
+DOI: 10.1186/s12985-017-0855-9 
+PMCID: PMC5639604
+PMID: 28985745  [Indexed for MEDLINE]
+
+
+8. J Clin Virol. 2017 Nov;96:60-63. doi: 10.1016/j.jcv.2017.09.010. Epub 2017 Sep
+21.
+
+Evaluation of clinical sensitivity and specificity of hepatitis B virus (HBV),
+hepatitis C virus, and human immunodeficiency Virus-1 by cobas MPX: Detection of 
+occult HBV infection in an HBV-endemic area.
+
+Ha J(1), Park Y(1), Kim HS(2).
+
+Author information: 
+(1)Department of Laboratory Medicine, Yonsei University College of Medicine,
+Seoul, Republic of Korea.
+(2)Department of Laboratory Medicine, Yonsei University College of Medicine,
+Seoul, Republic of Korea. Electronic address: KIMHS54@yuhs.ac.
+
+BACKGROUND: Transfusion-transmitted infectious diseases remain a major concern
+for blood safety, particularly with hepatitis B virus (HBV), hepatitis C virus
+(HCV), and human immunodeficiency virus (HIV). Nucleic acid testing (NAT) in
+donor screening shortens the serologically negative window period and reduces
+virus transmission. The cobas MPX (Roche Molecular Systems, Inc., Branchburg, New
+Jersey) is a recently developed multiplex qualitative PCR system that enables the
+simultaneous detection of HBV, HCV, and HIV with improved sensitivity and
+throughput using cobas 6800 and 8800 instruments.
+OBJECTIVES: The aim of this study was to conduct an evaluation of the clinical
+sensitivity and specificity of cobas MPX detection of HBV, HCV, and HIV in
+clinical specimens.
+STUDY DESIGN: Among samples referred for HBV, HCV, and HIV-1 quantification at
+Severance Hospital, Yonsei University College of Medicine, positive samples were 
+selected to evaluate sensitivity. A total of 843 samples was tested using both
+cobas MPX and COBAS AmpliPrep/COBAS TaqMan Tests for HBV, HCV, and HIV-1 using
+the cobas 8800 system and a COBAS TaqMan 96 analyzer, respectively. Samples that 
+showed discrepancies were confirmed by nested PCR.
+CONCLUSIONS: The cobas MPX achieved excellent sensitivity and specificity for the
+detection of HBV, HCV, and HIV-1 in clinical samples. We found that the lower
+limit of detection (LOD) of blood screening by NAT actually improves clinical
+sensitivity, and occult HBV infection prevalence among healthy employees of the
+hospital was rather high.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2017.09.010 
+PMID: 28982042  [Indexed for MEDLINE]
+
+
+9. Int J Mol Sci. 2017 Oct 3;18(10). pii: E2091. doi: 10.3390/ijms18102091.
+
+Human Immunodeficiency Virus Proteins Mimic Human T Cell Receptors Inducing
+Cross-Reactive Antibodies.
+
+Root-Bernstein R(1).
+
+Author information: 
+(1)Department of Physiology, Michigan State University, 567 Wilson Road, Room
+2201, East Lansing, MI 48824 USA. rootbern@msu.edu.
+
+Human immunodeficiency virus (HIV) hides from the immune system in part by
+mimicking host antigens, including human leukocyte antigens. It is demonstrated
+here that HIV also mimics the V-β-D-J-β of approximately seventy percent of about
+600 randomly selected human T cell receptors (TCR). This degree of mimicry is
+greater than any other human pathogen, commensal or symbiotic organism studied.
+These data suggest that HIV may be evolving into a commensal organism just as
+simian immunodeficiency virus has done in some types of monkeys. The gp120
+envelope protein, Nef protein and Pol protein are particularly similar to host
+TCR, camouflaging HIV from the immune system and creating serious barriers to the
+development of safe HIV vaccines. One consequence of HIV mimicry of host TCR is
+that antibodies against HIV proteins have a significant probability of
+recognizing the corresponding TCR as antigenic targets, explaining the widespread
+observation of lymphocytotoxic autoantibodies in acquired immunodeficiency
+syndrome (AIDS). Quantitative enzyme-linked immunoadsorption assays (ELISA)
+demonstrated that every HIV antibody tested recognized at least one of twelve
+TCR, and as many as seven, with a binding constant in the 10-8 to 10-9 m range.
+HIV immunity also affects microbiome tolerance in ways that correlate with
+susceptibility to specific opportunistic infections.
+
+DOI: 10.3390/ijms18102091 
+PMCID: PMC5666773
+PMID: 28972547  [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflicts of interest.
+
+
+10. J Infect Dis. 2017 Dec 1;216(suppl_9):S829-S833. doi: 10.1093/infdis/jix397.
+
+Next-Generation Human Immunodeficiency Virus Sequencing for Patient Management
+and Drug Resistance Surveillance.
+
+Noguera-Julian M(1)(2)(3), Edgil D(4), Harrigan PR(5), Sandstrom P(6), Godfrey
+C(7), Paredes R(1)(2)(3)(8).
+
+Author information: 
+(1)IrsiCaixa AIDS Research Institute.
+(2)Universitat Autònoma de Barcelona.
+(3)Universitat de Vic-Universitat Central de Catalunya, Spain.
+(4)United States Agency for International Development.
+(5)British Columbia Centre for Excellence in HIV/AIDS, University of British
+Columbia.
+(6)National HIV and Retrovirology Laboratory, JC Wilt Infectious Diseases
+Research Centre, Public Health Agency of Canada, Canada.
+(7)Division of AIDS, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health.
+(8)Infectious Diseases Unit, Hospital Universitari Germans Trias i Pujol, Spain.
+
+High-quality, simplified, and low-cost human immunodeficiency virus (HIV) drug
+resistance tests that are able to provide timely actionable HIV resistance data
+at individual, population, and programmatic levels are needed to confront the
+emerging drug-resistant HIV epidemic. Next-generation sequencing technologies
+embedded in automated cloud-computing analysis environments are ideally suited
+for such endeavor. Whereas NGS can reduce costs over Sanger sequencing, automated
+analysis pipelines make NGS accessible to molecular laboratories regardless of
+the available bioinformatic skills. They can also produce highly structured,
+high-quality data that could be examined by healthcare officials and program
+managers on a real-time basis to allow timely public health action. Here we
+discuss the opportunities and challenges of such an approach.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix397 
+PMCID: PMC5853595
+PMID: 28968834  [Indexed for MEDLINE]
+
+
+11. J Infect Dis. 2017 Dec 1;216(suppl_9):S843-S846. doi: 10.1093/infdis/jix398.
+
+Human Immunodeficiency Virus Type 1 Drug Resistance Mutations Update.
+
+Shafer RW(1).
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, Stanford University
+School of Medicine.
+
+As treatment options coalesce around a smaller number of antiretroviral drugs
+(ARVs), data are emerging on the drug resistance mutations (DRMs) selected by the
+most widely used ARVs and on the impact of these DRMs on ARV susceptibility and
+virological response to first- and later-line treatment regimens. Recent studies 
+have described the DRMs that emerge in patients receiving tenofovir prodrugs, the
+nonnucleoside reverse transcriptase inhibitors efavirenz and rilpivirine,
+ritonavir-boosted lopinavir, and the integrase inhibitors raltegravir and
+elvitegravir. Several small studies have described DRMs that emerge in patients
+receiving dolutegravir.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix398 
+PMCID: PMC5853262
+PMID: 28968669  [Indexed for MEDLINE]
+
+
+12. Blood Purif. 2017;44(3):244-250. doi: 10.1159/000478966. Epub 2017 Oct 3.
+
+Prognostic Factors of Human Immunodeficiency Virus-Infected Patients on Chronic
+Hemodialysis.
+
+Laranjinha I(1), João Matias P, Dickson J, Estibeiro H, Boquinhas H, Barata JD.
+
+Author information: 
+(1)Department of Nephrology, Hospital de Santa Cruz, Lisbon, Portugal.
+
+BACKGROUND/AIMS: The number of human immunodeficiency virus (HIV)-infected
+patients on hemodialysis (HD) have increased, and their prognostic factors are
+still poorly clarified. The study aimed to identify factors that can influence
+the survival of HIV-infected patients on HD.
+METHODS: We performed a retrospective cohort study of 44 HIV-infected patients on
+HD.
+RESULTS: A total of 17 patients (39%) died. Median survival on HD was 30.8 months
+and the survival rate at 1 and 5 years was 82.5 and 62.9%, respectively. Male
+(relative risk [RR] 3.1, p = 0.040) and blacks (RR 2.5, p = 0.037) had higher
+risk of death. The patients who died had a shorter duration of HIV infection (p =
+0.028), had a higher viral load (p = 0.044), more opportunistic infections (p =
+0.013), and a lower serum albumin (p = 0.009). Lower serum albumin, nonsexual HIV
+transmission, viral load, opportunistic infections, and usage of catheters were
+associated with lower survival.
+CONCLUSION: Several demographic, viral, and dialysis variables may help to
+predict survival of this population. The intervention in these factors could
+improve their prognosis.
+
+© 2017 S. Karger AG, Basel.
+
+DOI: 10.1159/000478966 
+PMID: 28968598  [Indexed for MEDLINE]
+
+
+13. Annu Rev Virol. 2017 Sep 29;4(1):241-260. doi:
+10.1146/annurev-virology-101416-041654.
+
+Making Sense of Multifunctional Proteins: Human Immunodeficiency Virus Type 1
+Accessory and Regulatory Proteins and Connections to Transcription.
+
+Faust TB(1), Binning JM(2), Gross JD(2), Frankel AD(1).
+
+Author information: 
+(1)Department of Biochemistry and Biophysics, University of California, San
+Francisco, California 94158; email: tybifa@gmail.com , frankel@cgl.ucsf.edu.
+(2)Department of Pharmaceutical Chemistry, University of California, San
+Francisco, California 94158; email: jennifer.binning@ucsf.edu ,
+jdgross@cgl.ucsf.edu.
+
+Viruses are completely dependent upon cellular machinery to support replication
+and have therefore developed strategies to co-opt cellular processes to optimize 
+infection and counter host immune defenses. Many viruses, including human
+immunodeficiency virus type 1 (HIV-1), encode a relatively small number of genes.
+Viruses with limited genetic content often encode multifunctional proteins that
+function at multiple stages of the viral replication cycle. In this review, we
+discuss the functions of HIV-1 regulatory (Tat and Rev) and accessory (Vif, Vpr, 
+Vpu, and Nef) proteins. Each of these proteins has a highly conserved primary
+activity; however, numerous additional activities have been attributed to these
+viral proteins. We explore the possibility that HIV-1 proteins leverage their
+multifunctional nature to alter host transcriptional networks to elicit a diverse
+set of cellular responses. Although these transcriptional effects appear to
+benefit the virus, it is not yet clear whether they are strongly selected for
+during viral evolution or are a ripple effect from the primary function. As our
+detailed knowledge of these viral proteins improves, we will undoubtedly uncover 
+how the multifunctional nature of these HIV-1 regulatory and accessory proteins, 
+and in particular their transcriptional functions, work to drive viral
+pathogenesis.
+
+DOI: 10.1146/annurev-virology-101416-041654 
+PMCID: PMC5750048
+PMID: 28961413  [Indexed for MEDLINE]
+
+
+14. J Infect Dis. 2017 Sep 1;216(5):509-510. doi: 10.1093/infdis/jix343.
+
+Toward Understanding the When and Why of Human Immunodeficiency Virus-Associated 
+Stroke.
+
+Smith B(1).
+
+Author information: 
+(1)Section of Infections of the Nervous System, National Institute of
+Neurological Disorders and Stroke, National Institutes of Health, Bethesda,
+Maryland.
+
+Comment on
+    J Infect Dis. 2017 Sep 1;216(5):545-553.
+
+DOI: 10.1093/infdis/jix343 
+PMCID: PMC5854019
+PMID: 28931223  [Indexed for MEDLINE]
+
+
+15. JAMA Pediatr. 2017 Nov 1;171(11):1041-1042. doi:
+10.1001/jamapediatrics.2017.2397.
+
+Human Immunodeficiency Virus Preexposure Prophylaxis for Adolescent Men: How Do
+We Ensure Health Equity for At-Risk Young Men?
+
+Arrington-Sanders R(1).
+
+Author information: 
+(1)Division of General Pediatrics & Adolescent Medicine, Johns Hopkins
+University, Baltimore, Maryland.
+
+Comment on
+    JAMA Pediatr. 2017 Nov 1;171(11):1063-1071.
+
+DOI: 10.1001/jamapediatrics.2017.2397 
+PMID: 28873123  [Indexed for MEDLINE]
+
+
+16. J Alzheimers Dis. 2017;60(s1):S169-S193. doi: 10.3233/JAD-170473.
+
+An Overview of Human Immunodeficiency Virus Type 1-Associated Common Neurological
+Complications: Does Aging Pose a Challenge?
+
+Nookala AR(1), Mitra J(2), Chaudhari NS(1), Hegde ML(2)(3), Kumar A(1).
+
+Author information: 
+(1)Division of Pharmacology and Toxicology, School of Pharmacy, University of
+Missouri-Kansas City, Kansas City, MO, USA.
+(2)Department of Radiation Oncology, Houston Methodist Research Institute,
+Houston, TX, USA.
+(3)Weill Cornell Medical College of Cornell University, NY, USA.
+
+With increasing survival of patients infected with human immunodeficiency virus
+type 1 (HIV-1), the manifestation of heterogeneous neurological complications is 
+also increasing alarmingly in these patients. Currently, more than 30% of about
+40 million HIV-1 infected people worldwide develop central nervous system
+(CNS)-associated dysfunction, including dementia, sensory, and motor neuropathy. 
+Furthermore, the highly effective antiretroviral therapy has been shown to
+increase the prevalence of mild cognitive functions while reducing other
+HIV-1-associated neurological complications. On the contrary, the presence of
+neurological disorder frequently affects the outcome of conventional HIV-1
+therapy. Although, both the children and adults suffer from the post-HIV
+treatment-associated cognitive impairment, adults, especially depending on the
+age of disease onset, are more prone to CNS dysfunction. Thus, addressing
+neurological complications in an HIV-1-infected patient is a delicate balance of 
+several factors and requires characterization of the molecular signature of
+associated CNS disorders involving intricate cross-talk with HIV-1-derived
+neurotoxins and other cellular factors. In this review, we summarize some of the 
+current data supporting both the direct and indirect mechanisms, including
+neuro-inflammation and genome instability in association with aging, leading to
+CNS dysfunction after HIV-1 infection, and discuss the potential strategies
+addressing the treatment or prevention of HIV-1-mediated neurotoxicity.
+
+DOI: 10.3233/JAD-170473 
+PMCID: PMC6152920
+PMID: 28800335  [Indexed for MEDLINE]
+
+
+17. Annu Rev Virol. 2017 Sep 29;4(1):393-412. doi:
+10.1146/annurev-virology-101416-041703. Epub 2017 Jul 26.
+
+Humanized Mouse Models for Human Immunodeficiency Virus Infection.
+
+Marsden MD(1), Zack JA(1)(2).
+
+Author information: 
+(1)Department of Medicine, Division of Hematology and Oncology, University of
+California, Los Angeles, California 90095; email: mmarsden@ucla.edu.
+(2)Department of Microbiology, Immunology, and Molecular Genetics, University of 
+California, Los Angeles, California 90095; email: jzack@ucla.edu.
+
+Human immunodeficiency virus (HIV) remains a significant source of morbidity and 
+mortality worldwide. No effective vaccine is available to prevent HIV
+transmission, and although antiretroviral therapy can prevent disease
+progression, it does not cure HIV infection. Substantial effort is therefore
+currently directed toward basic research on HIV pathogenesis and persistence and 
+developing methods to stop the spread of the HIV epidemic and cure those
+individuals already infected with HIV. Humanized mice are versatile tools for the
+study of HIV and its interaction with the human immune system. These models
+generally consist of immunodeficient mice transplanted with human cells or
+reconstituted with a near-complete human immune system. Here, we describe the
+major humanized mouse models currently in use, and some recent advances that have
+been made in HIV research/therapeutics using these models.
+
+DOI: 10.1146/annurev-virology-101416-041703 
+PMID: 28746819  [Indexed for MEDLINE]
+
+
+18. Braz J Phys Ther. 2017 Nov - Dec;21(6):434-439. doi: 10.1016/j.bjpt.2017.06.010. 
+Epub 2017 Jul 3.
+
+Knee extension and flexion strength asymmetry in Human Immunodeficiency Virus
+positive subjects: a cross-sectional study.
+
+Oliveira VHF(1), Wiechmann SL(2), Narciso AMS(2), Deminice R(3).
+
+Author information: 
+(1)Universidade Estadual de Londrina (UEL), Departamento de Educação Física,
+Londrina, PR, Brazil.
+(2)Universidade Estadual de Londrina (UEL), Centro de Ciências da Saúde, Hospital
+das Clínicas, Londrina, PR, Brazil.
+(3)Universidade Estadual de Londrina (UEL), Departamento de Educação Física,
+Londrina, PR, Brazil. Electronic address: rdeminice@uel.br.
+
+BACKGROUND: Human Immunodeficiency Virus positive subjects present impairment in 
+muscle function, neural activation, balance, and gait. In other populations, all 
+of these factors have been associated with muscle strength asymmetry.
+OBJECTIVE: To investigate the existence of muscle strength asymmetry between
+dominant and non-dominant lower limbs and to determine the
+hamstrings-to-quadriceps strength ratio in Human Immunodeficiency Virus positive 
+subjects.
+METHODS: In this cross-sectional study, 48 subjects were included (22 men and 26 
+women; mean age 44.6 years), all of them under highly active antiretroviral
+therapy. They performed isokinetic strength efforts at speeds of 60°/s and 180°/s
+for knee extension and flexion in concentric-concentric mode.
+RESULTS: Peak torque was higher (p<0.01) at 60°/s for quadriceps (193, SD=57 vs. 
+173, SD=55% body mass) and hamstrings (97, SD=36 vs. 90, SD=37% body mass) in
+dominant compared to non-dominant. Similarly, peak torque was higher at 180°/s
+(quadriceps 128, SD=44 vs. 112, SD=42; hamstrings 64, SD=24 vs. 57, SD=26% body
+mass) in dominant. Average power was also higher for all muscle groups and
+speeds, comparing dominant with non-dominant. The hamstrings-to-quadriceps ratio 
+at 60°/s was 0.50 for dominant and 0.52 for non-dominant, and at 180°/s, it was
+0.51 for both limbs, with no significant difference between them. The percentage 
+of subjects with strength asymmetry ranged from 46 to 58%, depending upon muscle 
+group and speed analyzed.
+CONCLUSION: Human Immunodeficiency Virus positive subjects present muscle
+strength asymmetry between lower limbs, assessed through isokinetic dynamometry.
+
+Copyright © 2017 Associação Brasileira de Pesquisa e Pós-Graduação em
+Fisioterapia. Publicado por Elsevier Editora Ltda. All rights reserved.
+
+DOI: 10.1016/j.bjpt.2017.06.010 
+PMCID: PMC5693428
+PMID: 28720481  [Indexed for MEDLINE]
+
+
+19. Annu Rev Virol. 2017 Sep 29;4(1):261-285. doi:
+10.1146/annurev-virology-101416-041646. Epub 2017 Jul 17.
+
+The Molecular Basis for Human Immunodeficiency Virus Latency.
+
+Mbonye U(1), Karn J(1).
+
+Author information: 
+(1)Department of Molecular Biology and Microbiology, Case Western Reserve
+University School of Medicine, Cleveland, Ohio 44106; email:
+jonathan.karn@case.edu.
+
+Although potent combination antiretroviral therapy can effectively block viral
+replication in the host, human immunodeficiency virus (HIV) persists due to the
+existence of latent but replication-competent proviruses residing primarily in a 
+very small population of resting memory CD4+ T cells. Viral latency is
+established when the expression of the autoregulatory viral trans-activating
+factor Tat is reduced to subthreshold levels. The absence of Tat reduces HIV
+transcription and protein production to levels that make the host cell invisible 
+to the immune system and refractory to antiretroviral treatment. Key host cell
+mechanisms that drive HIV into latency are sequestration of transcription
+initiation factors, establishment of epigenetic barriers inactivating the
+proviral promoter, and blockage of the assembly of the host elongation factor
+P-TEFb. This comprehensive understanding of the molecular control of HIV
+transcription is leading to the development of optimized combinatorial
+reactivation and immune surveillance strategies designed to purge the latent
+viral reservoir.
+
+DOI: 10.1146/annurev-virology-101416-041646 
+PMID: 28715973  [Indexed for MEDLINE]
+
+
+20. Annu Rev Virol. 2017 Sep 29;4(1):309-325. doi:
+10.1146/annurev-virology-101416-041840. Epub 2017 Jul 17.
+
+A Consensus View of ESCRT-Mediated Human Immunodeficiency Virus Type 1
+Abscission.
+
+Lippincott-Schwartz J(1), Freed EO(2), van Engelenburg SB(3).
+
+Author information: 
+(1)Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, Virginia
+20147.
+(2)The Virus-Cell Interaction Section, HIV Dynamics and Replication Program,
+National Cancer Institute, Frederick, Maryland 21701.
+(3)Department of Biological Sciences, University of Denver, Denver, Colorado
+80210; email: schuyler.vanengelenburg@du.edu.
+
+The strong dependence of retroviruses, such as human immunodeficiency virus type 
+1 (HIV-1), on host cell factors is no more apparent than when the endosomal
+sorting complex required for transport (ESCRT) machinery is purposely disengaged.
+The resulting potent inhibition of retrovirus release underscores the importance 
+of understanding fundamental structure-function relationships at the ESCRT-HIV-1 
+interface. Recent studies utilizing advanced imaging technologies have helped
+clarify these relationships, overcoming hurdles to provide a range of potential
+models for ESCRT-mediated virus abscission. Here, we discuss these models in the 
+context of prior work detailing ESCRT machinery and the HIV-1 release process. To
+provide a template for further refinement, we propose a new working model for
+ESCRT-mediated HIV-1 release that reconciles disparate and seemingly conflicting 
+studies.
+
+DOI: 10.1146/annurev-virology-101416-041840 
+PMID: 28715971  [Indexed for MEDLINE]
+
+
+21. JAMA Pediatr. 2017 Sep 1;171(9):829-830. doi: 10.1001/jamapediatrics.2017.1702.
+
+Preventing Human Immunodeficiency Virus Acquisition in Youth-Generations at Risk.
+
+Mofenson LM(1).
+
+Author information: 
+(1)Elizabeth Glaser Pediatric AIDS Foundation, Washington, DC.
+
+DOI: 10.1001/jamapediatrics.2017.1702 
+PMID: 28715531  [Indexed for MEDLINE]
+
+
+22. J Infect Dis. 2017 Sep 15;216(6):619-621. doi: 10.1093/infdis/jix205.
+
+Chronic Kidney Disease in the Aging Human Immunodeficiency Virus-Infected
+Population.
+
+Kopp JB(1).
+
+Author information: 
+(1)Kidney Disease Section, National Institute of Diabetes and Digestive and
+Kidney Diseases, National Institutes of Health, Bethesda, Maryland.
+
+Erratum in
+    J Infect Dis. 2017 Sep 15;216(6):786.
+
+Comment on
+    J Infect Dis. 2017 Sep 15;216(6):622-631.
+
+DOI: 10.1093/infdis/jix205 
+PMCID: PMC5853916
+PMID: 28633285  [Indexed for MEDLINE]
+
+
+23. J Infect Dis. 2017 Mar 15;215(suppl_3):S128-S133. doi: 10.1093/infdis/jix005.
+
+Perspectives on Human Immunodeficiency Virus (HIV) Cure: HIV Persistence in
+Tissue.
+
+Boritz EA(1), Douek DC(1).
+
+Author information: 
+(1)Human Immunology Section, Vaccine Research Center, National Institute of
+Allergy and Infectious Diseases, National Institutes of Health, Bethesda,
+Maryland.
+
+The uneven anatomic distribution of cell subsets that harbor human
+immunodeficiency virus (HIV) during antiretroviral therapy (ART) complicates
+investigation of the barriers to HIV cure. Here we propose that while previous
+studies done largely in blood cells have led to important investigations into HIV
+latency, other important mechanisms of HIV persistence during ART may not be
+readily apparent in the bloodstream. We specifically consider as an example the
+question of ongoing HIV replication during ART. We discuss how growing
+understanding of key anatomic sanctuaries for the virus can inform future
+experiments aimed at further clarifying this issue.
+
+Published by Oxford University Press for the Infectious Diseases Society of
+America 2017. This work is written by (a) US Government employee(s) and is in the
+public domain in the US.
+
+DOI: 10.1093/infdis/jix005 
+PMCID: PMC5853386
+PMID: 28520970  [Indexed for MEDLINE]
+
+
+24. J Infect Dis. 2017 Mar 15;215(suppl_3):S134-S141. doi: 10.1093/infdis/jiw648.
+
+Measuring the Size of the Latent Human Immunodeficiency Virus Reservoir: The
+Present and Future of Evaluating Eradication Strategies.
+
+Henrich TJ(1), Deeks SG(2), Pillai SK(3).
+
+Author information: 
+(1)Division of Experimental Medicine.
+(2)Positive Health Program, and.
+(3)Blood Systems Research Institute and Department of Laboratory Medicine,
+University of California, San Francisco.
+
+One of the major barriers to the successful design and implementation of human
+immunodeficiency virus (HIV) curative strategies is the limited ability to
+sensitively, specifically, and precisely quantify and characterize the whole-body
+burden of replication-competent HIV in individuals on effective antiretroviral
+therapy. Here, we review the development and validation of assays that directly
+and indirectly measure the size and distribution of the reservoir in blood and
+tissues. We also discuss the role that treatment interruptions will have in
+validating these assays and ultimately as a "proof of cure."
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw648 
+PMCID: PMC5410981
+PMID: 28520968  [Indexed for MEDLINE]
+
+
+25. J Infect Dis. 2017 Mar 15;215(suppl_3):S142-S151. doi: 10.1093/infdis/jiw637.
+
+In Vivo Models of Human Immunodeficiency Virus Persistence and Cure Strategies.
+
+Nixon CC(1), Mavigner M(2), Silvestri G(3), Garcia JV(1).
+
+Author information: 
+(1)Division of Infectious Diseases, Center for AIDS Research, University of North
+Carolina at Chapel Hill School of Medicine.
+(2)Department of Pediatrics, Emory University School of Medicine, and.
+(3)Emory Vaccine Center and Yerkes National Primate Research Center, Emory
+University, Atlanta, Georgia.
+
+Current HIV therapy is not curative regardless of how soon after infection it is 
+initiated or how long it is administered, and therapy interruption almost
+invariably results in robust viral rebound. Human immunodeficiency virus
+persistence is therefore the major obstacle to a cure for AIDS. The testing and
+implementation of novel yet unproven approaches to HIV eradication that could
+compromise the health status of HIV-infected individuals might not be ethically
+warranted. Therefore, adequate in vitro and in vivo evidence of efficacy is
+needed to facilitate the clinical implementation of promising strategies for an
+HIV cure. Animal models of HIV infection have a strong and well-documented
+history of bridging the gap between laboratory discoveries and eventual clinical 
+implementation. More recently, animal models have been developed and implemented 
+for the in vivo evaluation of novel HIV cure strategies. In this article, we
+review the recent progress in this rapidly moving area of research, focusing on
+the two most promising model systems: humanized mice and nonhuman primates.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw637 
+PMCID: PMC5410984
+PMID: 28520967  [Indexed for MEDLINE]
+
+
+26. J Infect Dis. 2017 Mar 15;215(suppl_3):S119-S127. doi: 10.1093/infdis/jiw636.
+
+Clonal Expansion of Human Immunodeficiency Virus-Infected Cells and Human
+Immunodeficiency Virus Persistence During Antiretroviral Therapy.
+
+Mullins JI(1), Frenkel LM(2)(3).
+
+Author information: 
+(1)Departments of Microbiology, Medicine, Global Health and Laboratory Medicine, 
+University of Washington, Seattle, WA, US.
+(2)Departments of Pediatrics, Medicine, Global Health and Laboratory Medicine,
+University of Washington, Seattle, WA, US.
+(3)Center for Global Infectious Disease Research, Seattle Children's Research
+Institute, Seattle, WA, US.
+
+The latent HIV-1 reservoir in blood decays very slowly, even during prolonged
+suppression of viral replication by antiretroviral therapy (ART). Mechanisms for 
+reservoir persistence include replenishment through low-level viral replication, 
+longevity and homeostatic proliferation of memory T cells, and most recently
+appreciated, clonal expansion of HIV-infected cells. Clonally expanded cells make
+up a large and increasing fraction of the residual infected cell population on
+ART, and insertion of HIV proviruses into certain host cellular genes has been
+associated with this proliferation. That the vast majority of proviruses are
+defective clouds our assessment of the degree to which clonally expanded cells
+harbor infectious viruses, and thus the extent to which they contribute to
+reservoirs relevant to curing infection. This review summarizes past studies that
+have defined our current understanding and the gaps in our knowledge of the
+mechanisms by which proviral integration and clonal expansion sustain the HIV
+reservoir.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw636 
+PMID: 28520966  [Indexed for MEDLINE]
+
+
+27. J Infect Dis. 2017 Mar 15;215(suppl_3):S111-S118. doi: 10.1093/infdis/jiw618.
+
+Proviral Latency, Persistent Human Immunodeficiency Virus Infection, and the
+Development of Latency Reversing Agents.
+
+Margolis DM(1)(2)(3)(4), Archin NM(1)(2).
+
+Author information: 
+(1)UNC HIV Cure Center.
+(2)Department of Medicine, and.
+(3)Department of Microbiology & Immunology, University of North Carolina at
+Chapel Hill School of Medicine ; and.
+(4)Department of Epidemiology, University of North Carolina at Chapel Hill School
+of Public Health.
+
+Quiescent proviral genomes that persist during human immunodeficiency virus type 
+1 (HIV-1) infection despite effective antiretroviral therapy (ART) can fuel
+rebound viremia after ART interruption and is a central obstacle to the cure of
+HIV infection. The induction of quiescent provirus is the goal of a new class of 
+potential therapeutics, latency reversing agents (LRAs). The discovery,
+development, and testing of HIV LRAs is a key part of current efforts to develop 
+latency reversal and viral clearance strategies to eradicate established HIV
+infection. The development of LRAs is burdened by many uncertainties that make
+drug discovery difficult. The biology of HIV latency is complex and incompletely 
+understood. Potential targets for LRAs are host factors, and the potential
+toxicities of host-directed therapies in individuals that are otherwise
+clinically stable may be unacceptable. Assays to measure latency reversal and
+assess the effectiveness of potential therapeutics are complex and incompletely
+validated. Despite these obstacles, novel LRAs are under development and
+beginning to enter combination testing with viral clearance strategies. It is
+hoped that the steady advances in the development of LRAs now being paired with
+emerging immunotherapeutics to clear persistently infected cells will soon allow 
+measurable clinical advances toward an HIV cure.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw618 
+PMCID: PMC5410986
+PMID: 28520964  [Indexed for MEDLINE]
+
+
+28. Theor Biol Med Model. 2017 Apr 21;14(1):9. doi: 10.1186/s12976-017-0055-8.
+
+A highly pathogenic simian/human immunodeficiency virus effectively produces
+infectious virions compared with a less pathogenic virus in cell culture.
+
+Iwanami S(1), Kakizoe Y(1), Morita S(2), Miura T(3), Nakaoka S(4)(5), Iwami
+S(6)(7)(8).
+
+Author information: 
+(1)Department of Biology, Kyushu University, Nishi-ku, Fukuoka, Japan.
+(2)Department of Mathematical and Systems Engineering, Shizuoka University,
+Hamamatsu, Shizuoka, Japan.
+(3)Institute for Frontier Life and Medical Sciences, Kyoto University, Kyoto,
+Japan.
+(4)PRESTO, JST, Kawaguchi, Saitama, Japan.
+(5)Institute of Industrial Science, The University of Tokyo, Meguro-ku, Tokyo,
+Japan.
+(6)Department of Biology, Kyushu University, Nishi-ku, Fukuoka, Japan.
+siwami@kyushu-u.org.
+(7)PRESTO, JST, Kawaguchi, Saitama, Japan. siwami@kyushu-u.org.
+(8)CREST, JST, Kawaguchi, Saitama, Japan. siwami@kyushu-u.org.
+
+BACKGROUND: The host range of human immunodeficiency virus (HIV) is quite narrow.
+Therefore, analyzing HIV-1 pathogenesis in vivo has been limited owing to lack of
+appropriate animal model systems. To overcome this, chimeric simian and human
+immunodeficiency viruses (SHIVs) that encode HIV-1 Env and are infectious to
+macaques have been developed and used to investigate the pathogenicity of HIV-1
+in vivo. So far, we have many SHIV strains that show different pathogenesis in
+macaque experiments. However, dynamic aspects of SHIV infection have not been
+well understood. To fully understand the dynamic properties of SHIVs, we focused 
+on two representative strains-the highly pathogenic SHIV, SHIV-KS661, and the
+less pathogenic SHIV, SHIV-#64-and measured the time-course of experimental data 
+in cell culture.
+METHODS: We infected HSC-F with SHIV-KS661 and -#64 and measured the
+concentration of Nef-negative (target) and Nef-positive (infected) HSC-F cells,
+the total viral load, and the infectious viral load daily for 9 days. The
+experiments were repeated at two different multiplicities of infection, and a
+previously developed mathematical model incorporating the infectious and
+non-infectious viruses was fitted to the full dataset of each strain
+simultaneously to characterize the infection dynamics of these two strains.
+RESULTS AND CONCLUSIONS: We quantified virological indices including virus burst 
+sizes and basic reproduction number of both SHIV-KS661 and -#64. Comparing the
+burst size of total and infectious viruses (viral RNA copies and TCID50,
+respectively), we found that there was a statistically significant difference
+between the infectious virus burst size of SHIV-KS661 and -#64, while there was
+no significant difference between the total virus burst size. Furthermore, our
+analyses showed that the fraction of infectious virus among the produced
+SHIV-KS661 viruses, which is defined as the infectious viral load (TCID50/ml)
+divided by the total viral load (RNA copies/ml), is more than 10-fold higher than
+that of SHIV-#64 during overall infection (i.e., for 9 days). Taken together, we 
+conclude that the highly pathogenic SHIV produces infectious virions more
+effectively than the less pathogenic SHIV in cell culture.
+
+DOI: 10.1186/s12976-017-0055-8 
+PMCID: PMC5401468
+PMID: 28431573  [Indexed for MEDLINE]
+
+
+29. J Occup Health. 2017 May 25;59(3):304-308. doi: 10.1539/joh.16-0275-OP. Epub 2017
+Apr 5.
+
+A consensus for occupational health management of healthcare workers infected
+with human immunodeficiency virus, hepatitis B virus, and / or hepatitis C virus.
+
+Ishimaru T(1)(2)(3), Wada K(3)(4), Smith DR(5).
+
+Author information: 
+(1)Department of Health Management, Nishinihon Occupational Health Service
+Center.
+(2)Occupational Health Training Center, University of Occupational and
+Environmental Health.
+(3)The Research Group on Occupational Health for Health Care Workers, Japan
+Society for Occupational Health.
+(4)Bureau of International Health Cooperation, National Center for Global Health 
+and Medicine.
+(5)College of Public Health, Medical and Veterinary Sciences, James Cook
+University.
+
+Occupational health management plays an important role in the prevention of
+provider-to-patient transmission in healthcare workers infected with human
+immunodeficiency virus (HIV), hepatitis B virus (HBV), and/or hepatitis C virus
+(HCV). Therefore, the Japan Society for Occupational Health's Research Group on
+Occupational Health for Health Care Workers has proposed a consensus for the
+management of healthcare workers infected with HIV, HBV, and/or HCV based on
+recent evidence for each concerned group. The consensus recommends that: (1)
+employers in medical institutions should establish a policy of respecting the
+human rights of healthcare workers, management strategies for occupational blood 
+exposure, and occupational health consultation; (2) occupational health staff
+should appropriately assess the risk of provider-to-patient transmission of HIV, 
+HBV, and/or HCV infection and rearrange their tasks if necessary. When conducting
+risk assessment, occupational health staff should obtain informed consent and
+then cooperate with the physician in charge as well as infection control experts 
+in the workplace; (3) healthcare workers infected with HIV, HBV, and/or HCV
+should disclose their employment to their treating physician and consult with
+their doctor regarding the need for special considerations at work; and (4)
+supervisors and colleagues in medical institutions should correctly understand
+the risks of HIV, HBV, and HCV infection and should not engage in any behavior
+that leads to discrimination against colleagues infected with HIV, HBV, and/or
+HCV.
+
+DOI: 10.1539/joh.16-0275-OP 
+PMCID: PMC5478506
+PMID: 28381816  [Indexed for MEDLINE]
+
+
+30. ACS Nano. 2017 Apr 25;11(4):3890-3903. doi: 10.1021/acsnano.7b00275. Epub 2017
+Apr 6.
+
+Single-Particle Tracking of Human Immunodeficiency Virus Type 1 Productive Entry 
+into Human Primary Macrophages.
+
+Li Q(1)(2), Li W(2), Yin W(2), Guo J(3), Zhang ZP(2), Zeng D(2), Zhang X(2), Wu
+Y(3), Zhang XE(4), Cui Z(2).
+
+Author information: 
+(1)College of Life Science and Technology, Huazhong University of Science and
+Technology , Wuhan 430074, P.R. China.
+(2)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences , Wuhan 430071, P.R. China.
+(3)National Center for Biodefense and Infectious Diseases, Department of
+Molecular and Microbiology, George Mason University , Manassas, Virginia 20110,
+United States.
+(4)National Laboratory of Biomacromolecules, CAS Center for Excellence in
+Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences , Beijing
+100101, P.R. China.
+
+Macrophages are one of the major targets of human immunodeficiency virus (HIV-1),
+but the viral entry pathway remains poorly understood in these cells. Noninvasive
+virus labeling and single-virus tracking are effective tools for studying virus
+entry. Here, we constructed a quantum dot (QD)-encapsulated infectious HIV-1
+particle to track viral entry at a single-particle level in live human primary
+macrophages. QDs were encapsulated in HIV-1 virions by incorporating viral
+accessory protein Vpr-conjugated QDs during virus assembly. With the HIV-1
+particles encapsulating QDs, we monitored the early phase of viral infection in
+real time and observed that, during infection, HIV-1 was endocytosed in a
+clathrin-mediated manner; the particles were translocated into Rab5A-positive
+endosomes, and the core was released into the cytoplasm by viral
+envelope-mediated endosomal fusion. Drug inhibition assays verified that endosome
+fusion contributes to HIV-1 productive infection in primary macrophages.
+Additionally, we observed that a dynamic actin cytoskeleton is critical for HIV-1
+entry and intracellular migration in primary macrophages. HIV-1 dynamics and
+infection could be blocked by multiple different actin inhibitors. Our study
+revealed a productive entry pathway in macrophages that requires both endosomal
+function and actin dynamics, which may assist in the development of inhibitors to
+block the HIV entry in macrophages.
+
+DOI: 10.1021/acsnano.7b00275 
+PMID: 28371581  [Indexed for MEDLINE]
+
+
+31. BMC Res Notes. 2017 Mar 4;10(1):116. doi: 10.1186/s13104-017-2438-7.
+
+An unexpected diagnosis of human immunodeficiency virus-2 infection in an
+overseas visitor: a case report.
+
+Sohail A(1), Van Leer L(2), Holmes N(3)(4).
+
+Author information: 
+(1)Department of Infectious Diseases, Austin Health, 145 Studley Road,
+Heidelberg, VIC, Australia. asohail1@hotmail.com.
+(2)Department of General Medicine, Austin Health, Heidelberg, VIC, Australia.
+(3)Department of Infectious Diseases, Austin Health, 145 Studley Road,
+Heidelberg, VIC, Australia.
+(4)Department of Microbiology and Immunology, University of Melbourne, Melbourne,
+VIC, Australia.
+
+BACKGROUND: Human immunodeficiency virus 2 infection is endemic in West Africa
+but is also found in parts of Europe, North and South America, and India where it
+is thought to have been introduced secondary to migration and commercial trade
+ties. It is less common than Human immunodeficiency virus 1, with differences in 
+pathogenicity, lower rates of transmission, longer asymptomatic period and slower
+progression to acquired immunodeficiency syndrome. Human immunodeficiency virus 2
+is also associated with diagnostic challenges given the lack of commercially
+available diagnostic tests, and management challenges given intrinsic resistance 
+to many anti-retroviral therapies.
+CASE PRESENTATION: We describe a case of a 65 year old South Indian female,
+visiting her family in Australia, who presented with weight loss, pancytopaenia
+and generalised lymphadenopathy on a background of newly diagnosed congestive
+cardiac failure. Multiple investigations were performed to elucidate the cause of
+her presentation, with the eventual unexpected diagnosis of human
+immunodeficiency virus 2. She was commenced on anti-retroviral treatment and made
+a remarkable recovery.
+CONCLUSION: We describe the challenges associated with diagnosis of human
+immunodeficiency virus 2 due to lack of commercially available diagnostics, as
+well as the treatment and management challenges including the fact that human
+immunodeficiency virus 2 is intrinsically resistant to non-nucleoside reverse
+transcriptase inhibitors. Human immunodeficiency virus 2 infection should be
+considered in patients who present with symptoms and signs that do not point
+towards a clear diagnosis, such as unexplained pancytopaenia or lymphadenopathy, 
+and who have risk factors such as being from an endemic area or having had blood 
+transfusions, especially prior to the commencement of blood-borne virus screening
+of blood donors.
+
+DOI: 10.1186/s13104-017-2438-7 
+PMCID: PMC5336689
+PMID: 28259182  [Indexed for MEDLINE]
+
+
+32. Clin Infect Dis. 2017 Jun 15;64(12):1721-1723. doi: 10.1093/cid/cix117.
+
+Real-World Effectiveness of DAA Therapies in Human Immunodeficiency
+Virus/Hepatitis C Virus Coinfection: 996 Veterans Can't Be Wrong.
+
+Burton MJ(1)(2), Naggie S(3)(4)(5).
+
+Author information: 
+(1)G.V. Sonny Montgomery VA Medical Center, Jackson, Mississippi.
+(2)University of Mississippi Medical Center, Jackson.
+(3)Durham VA Medical Center.
+(4)Duke University School of Medicine, and.
+(5)Duke Clinical Research Institute, Durham, North Carolina.
+
+Comment on
+    Clin Infect Dis. 2017 Jun 15;64(12):1711-1720.
+
+DOI: 10.1093/cid/cix117 
+PMID: 28199517  [Indexed for MEDLINE]
+
+
+33. Am J Respir Cell Mol Biol. 2017 May;56(5):563-567. doi: 10.1165/rcmb.2016-0213TR.
+
+Pulmonary Innate Immune Dysfunction in Human Immunodeficiency Virus.
+
+Staitieh BS(1), Egea EE(1), Guidot DM(1)(2).
+
+Author information: 
+(1)1 Division of Pulmonary, Allergy, Critical Care, and Sleep Medicine, Emory
+University School of Medicine, Atlanta, Georgia; and.
+(2)2 the Atlanta Veterans Administration Medical Center, Decatur, Georgia.
+
+The advent of antiretroviral therapy has transformed infection by the type 1
+human immunodeficiency virus (HIV) from a rapidly fatal disease to a chronic
+illness with excellent long-term survival rates. Although HIV primarily targets
+the adaptive arm of host immunity, it simultaneously impacts the innate immune
+system, and has profound implications for lung health, even when viral
+suppression is achieved with antiretroviral therapy. The lung has evolved a
+unique array of innate immune defenses, and the pathophysiological interactions
+between HIV and the pulmonary innate immune system deserve particular attention. 
+In this review, we discuss work that elucidates how the components of innate
+immunity both respond to and are perturbed by infection with HIV.
+
+DOI: 10.1165/rcmb.2016-0213TR 
+PMCID: PMC5449488
+PMID: 27911588  [Indexed for MEDLINE]
+
+
+34. J Gen Virol. 2016 Dec;97(12):3413-3426. doi: 10.1099/jgv.0.000641. Epub 2016 Oct 
+21.
+
+Simian immunodeficiency virus SIVmac239 infection and simian human
+immunodeficiency virus SHIV89.6P infection result in progression to AIDS in
+cynomolgus macaques of Asian origin.
+
+Okamura T(1), Tsujimura Y(1), Soma S(2), Takahashi I(1), Matsuo K(3), Yasutomi
+Y(2).
+
+Author information: 
+(1)1​Laboratory of Immunoregulation and Vaccine Research, Tsukuba Primate
+Research Center, National Institutes of Biomedical Innovation, Health and
+Nutrition, Tsukuba, Ibaraki 305-0843, Japan.
+(2)1​Laboratory of Immunoregulation and Vaccine Research, Tsukuba Primate
+Research Center, National Institutes of Biomedical Innovation, Health and
+Nutrition, Tsukuba, Ibaraki 305-0843, Japan 2​Division of Immunoregulation,
+Department of Molecular and Experimental Medicine, Mie University Graduate School
+of Medicine, Tsu, Mie 514-8507, Japan.
+(3)3​Research and Development Department, Japan BCG Laboratory, Kiyose, Tokyo
+204-0022, Japan.
+
+Simian immunodeficiency virus (SIV) infection models in cynomolgus macaques are
+important for analysis of the pathogenesis of immunodeficiency virus and for
+studies on the efficacy of new vaccine candidates. However, very little is known 
+about the pathogenesis of SIV or simian human immunodeficiency virus (SHIV) in
+cynomolgus macaques from different Asian countries. In the present study, we
+analysed the infectivity and pathogenicity of CCR5-tropic SIVmac and those of
+dual-tropic SHIV89.6P inoculated into cynomolgus macaques in Indonesian,
+Malaysian or Philippine origin. The plasma viral loads in macaques infected with 
+either SIVmac239 or SHIV89.6P were maintained at high levels. CD4+ T cell levels 
+in macaques infected with SIVmac239 gradually decreased. All of the macaques
+infected with SHIV89.6P showed greatly reduced CD4+ T-cell numbers within 6 weeks
+of infection. Eight of the 11 macaques infected with SIVmac239 were killed due to
+AIDS symptoms after 2-4.5 years, while four of the five macaques infected with
+SHIV89.6P were killed due to AIDS symptoms after 1-3.5 years. We also analysed
+cynomolgus macaques infected intrarectally with repeated low, medium or high
+doses of SIVmac239, SIVmac251 or SHIV89.6P. Infection was confirmed by
+quantitative RT-PCR at more than 5000, 300 and 500 TCID50 for SIVmac239,
+SIVmac251 and SHIV89.6P, respectively. The present study indicates that
+cynomolgus macaques of Asian origin are highly susceptible to SIVmac and SHIV
+infection by both intravenous and mucosal routes. These models will be useful for
+studies on virus pathogenesis, vaccination and therapeutics against human
+immunodeficiency virus/AIDS.
+
+DOI: 10.1099/jgv.0.000641 
+PMID: 27902330  [Indexed for MEDLINE]
+
+
+35. Cardiol Clin. 2017 Feb;35(1):59-70. doi: 10.1016/j.ccl.2016.09.003.
+
+Cardiac Disease Associated with Human Immunodeficiency Virus Infection.
+
+Bloomfield GS(1), Leung C(2).
+
+Author information: 
+(1)Division of Cardiology, Duke Global Health Institute, Duke Clinical Research
+Institute, Duke University, 2400 Pratt Street, Durham, NC 27705, USA. Electronic 
+address: gerald.bloomfield@duke.edu.
+(2)Feinberg School of Medicine, Northwestern University, 420 East Superior
+Street, Chicago, IL 60611, USA.
+
+Over the last 2 decades human immunodeficiency virus (HIV) infection has become a
+chronic disease requiring long-term management. Aging, antiretroviral therapy,
+chronic inflammation, and several other factors contribute to the increased risk 
+of cardiovascular disease in patients infected with HIV. In low-income and
+middle-income countries where antiretroviral therapy access is limited, cardiac
+disease is most commonly related to opportunistic infections and end-stage
+manifestations of HIV/acquired immunodeficiency syndrome, including
+HIV-associated cardiomyopathy, pericarditis, and pulmonary arterial hypertension.
+Cardiovascular screening, prevention, and risk factor management are important
+factors in the management of patients infected with HIV worldwide.
+
+Copyright Â© 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ccl.2016.09.003 
+PMID: 27886790  [Indexed for MEDLINE]
+
+
+36. Viral Immunol. 2017 Jan/Feb;30(1):28-34. doi: 10.1089/vim.2016.0084. Epub 2016
+Nov 3.
+
+Human Immunodeficiency Virus-1 Impairs IFN-Alpha Production Induced by TLR-7
+Agonist in Plasmacytoid Dendritic Cells.
+
+Dhamanage A(1), Thakar M(1), Paranjape R(1).
+
+Author information: 
+(1)Department of Immunology, National AIDS Research Institute , Pune, India .
+
+Plasmacytoid dendritic cells (pDCs) play an important role in innate immune
+response against viruses, mainly through interferon-α (IFN-α) secretion. Impaired
+IFN-α secretion has been observed in patients with acute human immunodeficiency
+virus type 1 (HIV-1) infection and the reasons for this impairment are still
+obscure. To know the grounds behind this situation, HIV-1 viral copy numbers
+similar to those found in primary HIV-1 infection were used to stimulate
+peripheral blood mononuclear cells (PBMCs) and pDCs in this study. Intracellular 
+IFN-α production was seen as early as 2 h in pDCs with TLR-7 agonist (imiquimod) 
+stimulation, but HIV-1 required 48 h to induce secretion of IFN-α in supernatants
+and it was 10 times less compared to imiquimod. Thus, it shows that HIV-1 delays 
+and impairs IFN-α production from pDCs. Furthermore, the IFN-α inhibitory
+activity of HIV-1 was checked by stimulating PBMCs and pDCs with imiquimod either
+simultaneously with HIV-1 or after 2 h pre-exposure to HIV-1. Pre-exposure to
+HIV-1 resulted in significant reduction in IFN-α secretion by pDCs and PBMCs when
+compared to imiquimod alone. In addition, simultaneous stimulation of these
+populations with HIV-1 and imiquimod resulted in significant impairment in IFN-α 
+production in pDCs but not in PBMCs. HIV-1 not only fails to induce IFN-α in
+adequate quantities but also inhibits IFN-α secretary capacity of pDCs. HIV-1
+particles were found to bind CD303 receptor on pDC surface probably blocking
+initiation of cascade leading to IFN-α impairment. The understanding of the
+pathways that lead to this suppression may help in devising the HIV control
+strategies.
+
+DOI: 10.1089/vim.2016.0084 
+PMID: 27809682  [Indexed for MEDLINE]
+
+
+37. J Virol. 2016 Oct 28;90(22):10193-10208. Print 2016 Nov 15.
+
+Vif Proteins from Diverse Human Immunodeficiency Virus/Simian Immunodeficiency
+Virus Lineages Have Distinct Binding Sites in A3C.
+
+Zhang Z(1), Gu Q(1), Jaguva Vasudevan AA(1), Jeyaraj M(1), Schmidt S(2), Zielonka
+J(1), Perković M(1)(2), Heckel JO(3), Cichutek K(2), Häussinger D(1), Smits
+SH(4), Münk C(5).
+
+Author information: 
+(1)Clinic for Gastroenterology, Hepatology, and Infectiology, Medical Faculty,
+Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany.
+(2)Department of Medical Biotechnology, Paul-Ehrlich-Institut, Langen, Germany.
+(3)Zoo Landau in der Pfalz, Landau in der Pfalz, Germany.
+(4)Institute of Biochemistry, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, 
+Germany.
+(5)Clinic for Gastroenterology, Hepatology, and Infectiology, Medical Faculty,
+Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany
+carsten.muenk@med.uni-duesseldorf.de.
+
+Lentiviruses have evolved the Vif protein to counteract APOBEC3 (A3) restriction 
+factors by targeting them for proteasomal degradation. Previous studies have
+identified important residues in the interface of human immunodeficiency virus
+type 1 (HIV-1) Vif and human APOBEC3C (hA3C) or human APOBEC3F (hA3F). However,
+the interaction between primate A3C proteins and HIV-1 Vif or natural HIV-1 Vif
+variants is still poorly understood. Here, we report that HIV-1 Vif is inactive
+against A3Cs of rhesus macaques (rhA3C), sooty mangabey monkeys (smmA3C), and
+African green monkeys (agmA3C), while HIV-2, African green monkey simian
+immunodeficiency virus (SIVagm), and SIVmac Vif proteins efficiently mediate the 
+depletion of all tested A3Cs. We identified that residues N/H130 and Q133 in
+rhA3C and smmA3C are determinants for this HIV-1 Vif-triggered counteraction. We 
+also found that the HIV-1 Vif interaction sites in helix 4 of hA3C and hA3F
+differ. Vif alleles from diverse HIV-1 subtypes were tested for degradation
+activities related to hA3C. The subtype F-1 Vif was identified to be inactive for
+degradation of hA3C and hA3F. The residues that determined F-1 Vif inactivity in 
+the degradation of A3C/A3F were located in the C-terminal region (K167 and D182).
+Structural analysis of F-1 Vif revealed that impairing the internal salt bridge
+of E171-K167 restored reduction capacities to A3C/A3F. Furthermore, we found that
+D101 could also form an internal interaction with K167. Replacing D101 with
+glycine and R167 with lysine in NL4-3 Vif impaired its counteractivity to A3F and
+A3C. This finding indicates that internal interactions outside the A3 binding
+region in HIV-1 Vif influence the capacity to induce degradation of
+A3C/A3F.IMPORTANCE: The APOBEC3 restriction factors can serve as potential
+barriers to lentiviral cross-species transmissions. Vif proteins from
+lentiviruses counteract APOBEC3 by proteasomal degradation. In this study, we
+found that monkey-derived A3C, rhA3C and smmA3C, were resistant to HIV-1 Vif.
+This was determined by A3C residues N/H130 and Q133. However, HIV-2, SIVagm, and 
+SIVmac Vif proteins were found to be able to mediate the depletion of all tested 
+primate A3C proteins. In addition, we identified a natural HIV-1 Vif (F-1 Vif)
+that was inactive in the degradation of hA3C/hA3F. Here, we provide for the first
+time a model that explains how an internal salt bridge of E171-K167-D101
+influences Vif-mediated degradation of hA3C/hA3F. This finding provides a novel
+way to develop HIV-1 inhibitors by targeting the internal interactions of the Vif
+protein.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01497-16 
+PMCID: PMC5105656
+PMID: 27581978  [Indexed for MEDLINE]
+
+
+38. Macromol Biosci. 2017 Mar;17(3). doi: 10.1002/mabi.201600359. Epub 2016 Oct 17.
+
+Gold Nanocarriers for Macrophage-Targeted Therapy of Human Immunodeficiency
+Virus.
+
+Zazo H(1), Colino CI(1), Warzecha KT(2), Hoss M(3), Gbureck U(4), Trautwein C(2),
+Tacke F(2), Lanao JM(1), Bartneck M(2).
+
+Author information: 
+(1)Area of Pharmacy and Pharmaceutical Technology, University of Salamanca,
+Spain, Av. Lcdo Méndez Nieto, 37007, Salamanca, Spain.
+(2)Department of Medicine III, Medical Faculty, RWTH Aachen, Pauwelsstr. 30,
+52074, Aachen, Germany.
+(3)Electron Microscopic Facility (EMF), Medical Faculty, RWTH Aachen, Pauwelsstr.
+30, 52074, Aachen, Germany.
+(4)Department and Chair of Functional Materials in Medicine and Dentistry,
+University Hospital Würzburg, Pleicherwall 2, 97070, Würzburg, Germany.
+
+The human immunodeficiency virus (HIV) continues to be a global pandemic and
+there is an urgent need for innovative treatment. Immune cells represent a major 
+target of virus infection, but are also therapeutic targets. Currently, no
+antiretroviral therapy targets macrophages, which function as portal of entry and
+as major long-term deposit of HIV. It has been shown before that human
+macrophages efficiently internalize gold nanoparticles, a fact which might be
+used to target them with drug-nanoparticle conjugates. Here, the authors use gold
+nanocarriers to facilitate delivery of stavudine, a widely used antiretroviral
+drug, to primary human macrophages. Using an ease-of-use coupling method, a
+striking potentiation of stavudine intake by macrophages using gold nanocarriers 
+is shown. Further, the carriers induce a specific subtype of proinflammatory
+activation indicative for antiviral activity of macrophages, which suggests
+promising novel treatment options for HIV.
+
+© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/mabi.201600359 
+PMID: 27748547  [Indexed for MEDLINE]
+
+
+39. J Med Virol. 2017 Feb;89(2):257-266. doi: 10.1002/jmv.24641. Epub 2016 Aug 9.
+
+Molecular epidemiology of co-infection with hepatitis B virus and human
+immunodeficiency virus (HIV) among adult patients in Harare, Zimbabwe.
+
+Baudi I(1), Iijima S(1), Chin'ombe N(2), Mtapuri-Zinyowera S(3), Murakami S(1),
+Isogawa M(1), Hachiya A(4), Iwatani Y(4), Tanaka Y(1).
+
+Author information: 
+(1)Department of Virology and Liver Unit, Nagoya City University Graduate School 
+of Medical Sciences, Nagoya, Japan.
+(2)Department of Medical Microbiology, College of Health Sciences, University of 
+Zimbabwe, Harare, Zimbabwe.
+(3)National Microbiology Reference Laboratory, Ministry of Health and Child
+Welfare, Harare, Zimbabwe.
+(4)National Hospital Organization Nagoya Medical Center, Nagoya, Japan.
+
+The objective of this study was to determine the prevalence of co-infection with 
+hepatitis B virus (HBV) and human immunodeficiency virus (HIV) and the genetic
+characteristics of both viruses among pre-HIV-treatment patients in Harare,
+Zimbabwe. This cross-sectional survey involved 176 remnant plasma samples
+collected from consenting HIV patients (median age 35 [18-74]) between June and
+September 2014. HBV seromarkers were determined by high-sensitivity
+chemiluminescence assays. Molecular evolutionary analyses were conducted on the
+basal core promoter/precore (BCP/PC) and S regions of HBV, as well as part of the
+HIV pol region. Of the 176 participants (65.7% female), 19 (10.8%) were positive 
+for HBsAg (median 0.033 IU/ml (IQR 0.01-415). The HBsAg incidence was higher in
+men than women (P = 0.009). HBsAg-positive subjects had lower median CD4 counts
+(P = 0.016). HBV DNA was detectable in 12 HBsAg-positive samples (median 3.36 log
+cp/ml (2.86-4.51), seven being amplified and sequenced. All isolates were
+subgenotype A1 without HBV drug resistance mutations but each had at least one
+BCP/PC mutation. PreS deletion mutants and small S antigen variants M133I/T and
+D144G were identified. Of the 164 HIV isolates successfully genotyped, 163
+(99.4%) were HIV-1 subtype C and only one was HIV-1 subtype F1. Sixteen (9.8%)
+had at least one drug resistance mutation, predominantly non-nucleoside reverse
+transcriptase inhibitor-related mutations, observed mostly among female
+participants. This study shows that co-infection with HBV is present among HIV
+patients enrolling into HIV care in Zimbabwe, suggesting that HBV screening and
+monitoring programmes be strengthened in this context. J. Med. Virol. 89:257-266,
+2017. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24641 
+PMID: 27458715  [Indexed for MEDLINE]
+
+
+40. AIDS Patient Care STDS. 2016 Jul;30(7):291-306. doi: 10.1089/apc.2016.0100.
+
+Human Immunodeficiency Virus Immune Cell Receptors, Coreceptors, and Cofactors:
+Implications for Prevention and Treatment.
+
+Woodham AW(1), Skeate JG(1), Sanna AM(2), Taylor JR(1), Da Silva DM(2)(3), Cannon
+PM(1), Kast WM(1)(2)(3).
+
+Author information: 
+(1)1 Department of Molecular Microbiology and Immunology, University of Southern 
+California , Los Angeles, California.
+(2)2 Norris Comprehensive Cancer Center, University of Southern California , Los 
+Angeles, California.
+(3)3 Department of Obstetrics & Gynecology, University of Southern California ,
+Los Angeles, California.
+
+In the last three decades, extensive research on human immunodeficiency virus
+(HIV) has highlighted its capability to exploit a variety of strategies to enter 
+and infect immune cells. Although CD4(+) T cells are well known as the major HIV 
+target, with infection occurring through the canonical combination of the cluster
+of differentiation 4 (CD4) receptor and either the C-C chemokine receptor type 5 
+(CCR5) or C-X-C chemokine receptor type 4 (CXCR4) coreceptors, HIV has also been 
+found to enter other important immune cell types such as macrophages, dendritic
+cells, Langerhans cells, B cells, and granulocytes. Interestingly, the expression
+of distinct cellular cofactors partially regulates the rate in which HIV infects 
+each distinct cell type. Furthermore, HIV can benefit from the acquisition of new
+proteins incorporated into its envelope during budding events. While several
+publications have investigated details of how HIV manipulates particular cell
+types or subtypes, an up-to-date comprehensive review on HIV tropism for
+different immune cells is lacking. Therefore, this review is meant to focus on
+the different receptors, coreceptors, and cofactors that HIV exploits to enter
+particular immune cells. Additionally, prophylactic approaches that have targeted
+particular molecules associated with HIV entry and infection of different immune 
+cells will be discussed. Unveiling the underlying cellular receptors and
+cofactors that lead to HIV preference for specific immune cell populations is
+crucial in identifying novel preventative/therapeutic targets for comprehensive
+strategies to eliminate viral infection.
+
+DOI: 10.1089/apc.2016.0100 
+PMCID: PMC4948215
+PMID: 27410493  [Indexed for MEDLINE]
+
+
+41. JAMA. 2016 Jul 12;316(2):238. doi: 10.1001/jama.2016.7995.
+
+JAMA PATIENT PAGE. Human Immunodeficiency Virus.
+
+Malani PN.
+
+DOI: 10.1001/jama.2016.7995 
+PMID: 27404205  [Indexed for MEDLINE]
+
+
+42. Clin Geriatr Med. 2016 Aug;32(3):571-83. doi: 10.1016/j.cger.2016.02.010. Epub
+2016 May 31.
+
+Human Immunodeficiency Virus/Acquired Immunodeficiency Syndrome in Older Adults.
+
+Scott J(1), Goetz MB(2).
+
+Author information: 
+(1)Infectious Diseases Section, Department of Medicine, VA Greater Los Angeles
+Healthcare System, David Geffen School of Medicine at UCLA, 11301 Wilshire
+Boulevard, Los Angeles, CA 90073, USA.
+(2)Infectious Diseases Section, Department of Medicine, VA Greater Los Angeles
+Healthcare System, David Geffen School of Medicine at UCLA, 11301 Wilshire
+Boulevard, Los Angeles, CA 90073, USA. Electronic address: Matthew.Goetz@va.gov.
+
+Improved survival with combination antiretroviral therapy has led to a dramatic
+increase in the number of human immunodeficiency virus (HIV)-infected individuals
+50 years of age or older such that by 2020 more than 50% of HIV-infected persons 
+in the United States will be above this age. Recent studies confirm that
+antiretroviral therapy should be offered to all HIV-infected patients regardless 
+of age, symptoms, CD4+ cell count, or HIV viral load. However, when compared with
+HIV-uninfected populations, even with suppression of measurable HIV replication, 
+older individuals are at greater risk for cardiovascular disease, malignancies,
+liver disease, and other comorbidities.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.cger.2016.02.010 
+PMID: 27394024  [Indexed for MEDLINE]
+
+
+43. Jpn J Infect Dis. 2017 Mar 24;70(2):171-176. doi: 10.7883/yoken.JJID.2015.464.
+Epub 2016 Jun 30.
+
+The Epidemic of Human Immunodeficiency Virus, Hepatitis C Virus, and Syphilis
+Infection, and the Correlates of Sexually Transmitted Infections among Men Who
+Have Sex with Men in Zhenjiang, Jiangsu, China.
+
+Shen L(1), Liu X, Fu G, Hao S, Zhang M, Wang T, Yang J, Wu X, Mao L.
+
+Author information: 
+(1)Zhenjiang Center for Disease Control and Prevention.
+
+A cross sectional survey was performed to investigate the epidemic of human
+immunodeficiency virus (HIV), hepatitis C virus (HCV), syphilis, and HIV-1
+subtype infections among men who have sex with men (MSM) and to evaluate factors 
+that were correlated with sexually transmitted infections (STIs) among 657 MSM in
+Zhenjiang, Jiangsu, during 2012-2013. Data on socio-demographic parameters and
+risky behaviors were collected, and blood samples were obtained. In this survey, 
+the prevalence of STIs due to HIV (5.3%), HCV (0.6%), and syphilis (19.2%) were
+measured. Of 35 HIV-infected MSM, 1 (0.2%) and 17 (2.6%) were co-infected with
+HCV and syphilis. Among 33 samples with available HIV-1 genomic fragment
+sequences, 6.1% B, 72.7% CRF01_AE, and 21.2% CRF07_BC were identified.
+Multivariate logistic regression analysis showed that age > 30 years (odds ratio 
+[OR] 2.002; 95% confidence interval [CI], 1.144-3.502) and having had STI
+symptoms in the past year (OR, 11.673; 95% CI, 3.092-44.078) were positively
+correlated with having an STI, while consistent use of a condom when having sex
+with male partners (OR, 0.621; 95% CI, 0.408-0.945) was significantly associated 
+with a low STI rate. The worsening epidemic of HIV, HCV, and syphilis infections,
+and the prevalence of complex subtypes of HIV-1 and other risk factors suggest
+that effective intervention strategies should be strengthened for MSM in
+Zhenjiang, Jiangsu.
+
+DOI: 10.7883/yoken.JJID.2015.464 
+PMID: 27357977  [Indexed for MEDLINE]
+
+
+44. J Virol. 2016 Aug 12;90(17):7607-17. doi: 10.1128/JVI.00407-16. Print 2016 Sep 1.
+
+Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1
+and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source,
+Viral Trafficking, and Viral Replication.
+
+Dutartre H(1), Clavière M(2), Journo C(2), Mahieux R(2).
+
+Author information: 
+(1)Equipe Oncogenèse Rétrovirale, Equipe Labellisée Ligue Nationale Contre le
+Cancer, Centre International de Recherche en Infectiologie INSERM U1111-CNRS
+UMR5308, Ecole Normale Supérieure de Lyon, Université de Lyon 1, and LabEx
+ECOFECT, Université Lyon, Lyon, France helene.dutartre@ens-lyon.fr.
+(2)Equipe Oncogenèse Rétrovirale, Equipe Labellisée Ligue Nationale Contre le
+Cancer, Centre International de Recherche en Infectiologie INSERM U1111-CNRS
+UMR5308, Ecole Normale Supérieure de Lyon, Université de Lyon 1, and LabEx
+ECOFECT, Université Lyon, Lyon, France.
+
+Human immunodeficiency virus type 1 (HIV-1) and human T-lymphotropic virus type 1
+(HTLV-1) are complex retroviruses mainly infecting CD4(+) T lymphocytes. In
+addition, antigen-presenting cells such as dendritic cells (DCs) are targeted in 
+vivo by both viruses, although to a lesser extent. Interaction of HIV-1 with DCs 
+plays a key role in viral dissemination from the mucosa to CD4(+) T lymphocytes
+present in lymphoid organs. While similar mechanisms may occur for HTLV-1 as
+well, most HTLV-1 data were obtained from T-cell studies, and little is known
+regarding the trafficking of this virus in DCs. We first compared the efficiency 
+of cell-free versus cell-associated viral sources of both retroviruses at
+infecting DCs. We showed that both HIV-1 and HTLV-1 cell-free particles are
+poorly efficient at productively infecting DCs, except when DC-SIGN has been
+engaged. Furthermore, while SAMHD-1 accounts for restriction of cell-free HIV-1
+infection, it is not involved in HTLV-1 restriction. In addition, cell-free
+viruses lead mainly to a nonproductive DC infection, leading to trans-infection
+of T-cells, a process important for HIV-1 spread but not for that of HTLV-1.
+Finally, we show that T-DC cell-to-cell transfer implies viral trafficking in
+vesicles that may both increase productive infection of DCs ("cis-infection") and
+allow viral escape from immune surveillance. Altogether, these observations
+allowed us to draw a model of HTLV-1 and HIV-1 trafficking in DCs.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00407-16 
+PMCID: PMC4988172
+PMID: 27334587  [Indexed for MEDLINE]
+
+
+45. PLoS One. 2016 Jun 16;11(6):e0157709. doi: 10.1371/journal.pone.0157709.
+eCollection 2016.
+
+Dual Simian Foamy Virus/Human Immunodeficiency Virus Type 1 Infections in Persons
+from Côte d'Ivoire.
+
+Switzer WM(1), Tang S(1), Zheng H(1), Shankar A(1), Sprinkle PS(1), Sullivan
+V(1), Granade TC(1), Heneine W(1).
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention,
+Atlanta, GA 30329, United States of America.
+
+Zoonotic transmission of simian retroviruses in West-Central Africa occurring in 
+primate hunters has resulted in pandemic spread of human immunodeficiency viruses
+(HIVs) and human T-lymphotropic viruses (HTLVs). While simian foamy virus (SFV)
+and simian T- lymphotropic virus (STLV)-like infection were reported in healthy
+persons exposed to nonhuman primates (NHPs) in West-Central Africa, less is known
+about the distribution of these viruses in Western Africa and in hospitalized
+populations. We serologically screened for SFV and STLV infection using 1,529
+specimens collected between 1985 and 1997 from Côte d'Ivoire patients with high
+HIV prevalence. PCR amplification and analysis of SFV, STLV, and HIV/SIV
+sequences from PBMCs was used to investigate possible simian origin of infection.
+We confirmed SFV antibodies in three persons (0.2%), two of whom were
+HIV-1-infected. SFV polymerase (pol) and LTR sequences were detected in PBMC DNA 
+available for one HIV-infected person. Phylogenetic comparisons with new SFV
+sequences from African guenons showed infection likely originated from a
+Chlorocebus sabaeus monkey endemic to Côte d'Ivoire. 4.6% of persons were HTLV
+seropositive and PCR testing of PBMCs from 15 HTLV seroreactive persons
+identified nine with HTLV-1 and one with HTLV-2 LTR sequences. Phylogenetic
+analysis showed that two persons had STLV-1-like infections, seven were HTLV-1,
+and one was an HTLV-2 infection. 310/858 (53%), 8/858 (0.93%), and 18/858 (2.1%) 
+were HIV-1, HIV-2, and HIV-positive but undifferentiated by serology,
+respectively. No SIV sequences were found in persons with HIV-2 antibodies (n =
+1) or with undifferentiated HIV results (n = 7). We document SFV, STLV-1-like,
+and dual SFV/HIV infection in Côte d'Ivoire expanding the geographic range for
+zoonotic simian retrovirus transmission to West Africa. These findings highlight 
+the need to define the public health consequences of these infections. Studying
+dual HIV-1/SFV infections in immunocompromised populations may provide a new
+opportunity to better understand SFV pathogenicity and transmissibility in
+humans.
+
+DOI: 10.1371/journal.pone.0157709 
+PMCID: PMC4911074
+PMID: 27310836  [Indexed for MEDLINE]
+
+
+46. J Virol. 2016 Aug 12;90(17):7596-606. doi: 10.1128/JVI.00672-16. Print 2016 Sep
+1.
+
+Macrophages in Progressive Human Immunodeficiency Virus/Simian Immunodeficiency
+Virus Infections.
+
+DiNapoli SR(1), Hirsch VM(2), Brenchley JM(3).
+
+Author information: 
+(1)Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Bethesda, Maryland, USA.
+(2)Laboratory of Molecular Microbiology, NIAID, NIH, Bethesda, Maryland, USA.
+(3)Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Bethesda, Maryland, USA
+jbrenchl@mail.nih.gov.
+
+The cells that are targeted by primate lentiviruses (HIV and simian
+immunodeficiency virus [SIV]) are of intense interest given the renewed effort to
+identify potential cures for HIV. These viruses have been reported to infect
+multiple cell lineages of hematopoietic origin, including all phenotypic and
+functional CD4 T cell subsets. The two most commonly reported cell types that
+become infected in vivo are memory CD4 T cells and tissue-resident macrophages.
+Though viral infection of CD4 T cells is routinely detected in both HIV-infected 
+humans and SIV-infected Asian macaques, significant viral infection of
+macrophages is only routinely observed in animal models wherein CD4 T cells are
+almost entirely depleted. Here we review the roles of macrophages in lentiviral
+disease progression, the evidence that macrophages support viral replication in
+vivo, the animal models where macrophage-mediated replication of SIV is thought
+to occur, how the virus can interact with macrophages in vivo, pathologies
+thought to be attributed to viral replication within macrophages, how viral
+replication in macrophages might contribute to the asymptomatic phase of HIV/SIV 
+infection, and whether macrophages represent a long-lived reservoir for the
+virus.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00672-16 
+PMCID: PMC4988166
+PMID: 27307568  [Indexed for MEDLINE]
+
+
+47. RNA. 2016 Aug;22(8):1228-38. doi: 10.1261/rna.057299.116. Epub 2016 May 31.
+
+Analysis of the human immunodeficiency virus-1 RNA packageome.
+
+Eckwahl MJ(1), Arnion H(1), Kharytonchyk S(2), Zang T(3), Bieniasz PD(3),
+Telesnitsky A(2), Wolin SL(4).
+
+Author information: 
+(1)Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut
+06536, USA.
+(2)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
+Michigan 48109, USA.
+(3)Aaron Diamond AIDS Research Center, The Rockefeller University, New York, New 
+York 10016, USA Laboratory of Retrovirology, The Rockefeller University, New
+York, New York 10016, USA Howard Hughes Medical Institute, The Rockefeller
+University, New York, New York 10016, USA.
+(4)Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut
+06536, USA Department of Molecular Biophysics and Biochemistry, Yale School of
+Medicine, New Haven, Connecticut 06536, USA Yale Cancer Center, Yale School of
+Medicine, New Haven, Connecticut 06520, USA.
+
+All retroviruses package cellular RNAs into virions. Studies of murine leukemia
+virus (MLV) revealed that the major host cell RNAs encapsidated by this simple
+retrovirus were LTR retrotransposons and noncoding RNAs (ncRNAs). Several classes
+of ncRNAs appeared to be packaged by MLV shortly after synthesis, as precursors
+to tRNAs, small nuclear RNAs, and small nucleolar RNAs were all enriched in
+virions. To determine the extent to which the human immunodeficiency virus
+(HIV-1) packages similar RNAs, we used high-throughput sequencing to characterize
+the RNAs within infectious HIV-1 virions produced in CEM-SS T lymphoblastoid
+cells. We report that the most abundant cellular RNAs in HIV-1 virions are 7SL
+RNA and transcripts from numerous divergent and truncated members of the long
+interspersed element (LINE) and short interspersed element (SINE) families of
+retrotransposons. We also detected precursors to several tRNAs and small nuclear 
+RNAs as well as transcripts derived from the ribosomal DNA (rDNA) intergenic
+spacers. We show that packaging of a pre-tRNA requires the nuclear export
+receptor Exportin 5, indicating that HIV-1 recruits at least some newly made
+ncRNAs in the cytoplasm. Together, our work identifies the set of RNAs packaged
+by HIV-1 and reveals that early steps in HIV-1 assembly intersect with host cell 
+ncRNA biogenesis pathways.
+
+© 2016 Eckwahl et al.; Published by Cold Spring Harbor Laboratory Press for the
+RNA Society.
+
+DOI: 10.1261/rna.057299.116 
+PMCID: PMC4931115
+PMID: 27247436  [Indexed for MEDLINE]
+
+
+48. FEBS Lett. 2016 Jul;590(13):1858-76. doi: 10.1002/1873-3468.12186. Epub 2016 May 
+10.
+
+Super-resolved insights into human immunodeficiency virus biology.
+
+Hanne J(1)(2), Zila V(1), Heilemann M(3), Müller B(1), Kräusslich HG(1).
+
+Author information: 
+(1)Department of Infectious Diseases, Virology, University Hospital Heidelberg,
+Germany.
+(2)Optical Nanoscopy Division, German Cancer Research Center, Heidelberg,
+Germany.
+(3)Institute of Physical and Theoretical Chemistry, Goethe-University Frankfurt, 
+Germany.
+
+The recent development of fluorescence microscopy approaches overcoming the
+diffraction limit of light microscopy opened possibilities for studying
+small-scale cellular processes. The spatial resolution achieved by these novel
+techniques, together with the possibility to perform live-cell and multicolor
+imaging, make them ideally suited for visualization of native viruses and
+subviral structures within the complex environment of a host cell or organ, thus 
+providing fundamentally new possibilities for investigating virus-cell
+interactions. Here, we review the use of super-resolution microscopy approaches
+to study virus-cell interactions, and discuss recent insights into human
+immunodeficiency virus biology obtained by exploiting these novel techniques.
+
+© 2016 Federation of European Biochemical Societies.
+
+DOI: 10.1002/1873-3468.12186 
+PMID: 27117435  [Indexed for MEDLINE]
+
+
+49. Clin Vaccine Immunol. 2016 Apr 4;23(4):249-53. doi: 10.1128/CVI.00053-16. Print
+2016 Apr.
+
+Human Immunodeficiency Virus Diagnostic Testing: 30 Years of Evolution.
+
+Alexander TS(1).
+
+Author information: 
+(1)Summa Health, Department of Pathology and Laboratory Medicine, Akron, Ohio,
+USA, and Northeast Ohio Medical University, Rootstown, Ohio, USA
+alexandt@summahealth.org.
+
+A concern during the early AIDS epidemic was the lack of a test to identify
+individuals who carried the virus. The first HIV antibody test, developed in
+1985, was designed to screen blood products, not to diagnose AIDS. The
+first-generation assays detected IgG antibody and became positive 6 to 12 weeks
+postinfection. False-positive results occurred; thus, a two-test algorithm was
+developed using a Western blot or immunofluorescence test as a confirmatory
+procedure. The second-generation HIV test added recombinant antigens, and the
+third-generation HIV tests included IgM detection, reducing the test-negative
+window to approximately 3 weeks postinfection. Fourth- and fifth-generation HIV
+assays added p24 antigen detection to the screening assay, reducing the
+test-negative window to 11 to 14 days. A new algorithm addressed the
+fourth-generation assay's ability to detect both antibody and antigen and yet not
+differentiate between them. The fifth-generation HIV assay provides separate
+antigen and antibody results and will require yet another algorithm. HIV
+infection may now be detected approximately 2 weeks postexposure, with a reduced 
+number of false-positive results.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/CVI.00053-16 
+PMCID: PMC4820517
+PMID: 26936099  [Indexed for MEDLINE]
+
+
+50. Nurs Clin North Am. 2016 Mar;51(1):45-56. doi: 10.1016/j.cnur.2015.10.006. Epub
+2016 Jan 13.
+
+Updates on the Pharmacologic Treatment of Individuals with Human Immunodeficiency
+Virus.
+
+Young CJ(1).
+
+Author information: 
+(1)Vanderbilt University School of Nursing, 461 21st Avenue South, Nashville, TN 
+37240, USA. Electronic address: courtney.j.young@vanderbilt.edu.
+
+Human immunodeficiency virus has been affecting the human population for more
+than 30 years. During this time period, more effective, safe, simple, and
+tolerable pharmacologic agents have been developed. To date, there are 26
+antiretroviral agents available that are used either as a single agent or a
+coformulation in an antiretroviral regimen. The goal of these medications is to
+achieve viral suppression in individuals infected with human immunodeficiency
+virus. Evidence continues to support the most effective combinations. It is
+important that clinicians are knowledgeable of updates so as to provide the best 
+possible medical regimen for this population.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cnur.2015.10.006 
+PMID: 26897423  [Indexed for MEDLINE]
+

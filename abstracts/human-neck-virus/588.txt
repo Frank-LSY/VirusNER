@@ -1,0 +1,57 @@
+
+
+588. Oral Oncol. 2016 Oct;61:55-61. doi: 10.1016/j.oraloncology.2016.08.009. Epub 2016
+Aug 31.
+
+Low etiologic fraction for human papillomavirus in larynx squamous cell
+carcinoma.
+
+Taberna M(1), Resteghini C(2), Swanson B(3), Pickard RK(4), Jiang B(4), Xiao
+W(4), Mena M(5), Kreinbrink P(4), Chio E(6), Gillison ML(7).
+
+Author information: 
+(1)Department of Medical Oncology, Catalan Institute of Oncology (ICO), IDIBELL, 
+L'Hospitalet de Llobregat, Barcelona, Spain; Cancer Epidemiology Research
+Program, Catalan Institute of Oncology (ICO), IDIBELL, L'Hospitalet de Llobregat,
+Barcelona, Spain; University of Barcelona, Barcelona, Spain.
+(2)Head and Neck Medical Oncology Department, Fondazione IRCCS Istituto Nazionale
+Tumori, Milan, Italy.
+(3)Department of Pathology, The Ohio State University Medical Center, Columbus,
+OH, United States.
+(4)Department of Medicine, The Ohio State University, Columbus, OH, United
+States.
+(5)Cancer Epidemiology Research Program, Catalan Institute of Oncology (ICO),
+IDIBELL, L'Hospitalet de Llobregat, Barcelona, Spain.
+(6)Department of Otolaryngology, The Ohio State University Medical Center,
+Columbus, OH, United States.
+(7)Department of Medicine, The Ohio State University, Columbus, OH, United
+States. Electronic address: maura.gillison@osumc.edu.
+
+BACKGROUND: Human Papillomavirus (HPV) is a cause of oropharyngeal squamous cell 
+carcinoma (OPSCC), but its pathogenic role in larynx squamous cell carcinoma
+(LSCC) remains unclear.
+MATERIAL AND METHODS: A single-institutional, retrospective case-series was
+performed to estimate the etiological fraction (EF) for HPV in LSCC. Eligible
+cases included 436 consecutive cases of LSCC diagnosed (2005-2014) at The Ohio
+State University Medical Center. HPV DNA presence was detected by consensus
+primer PCR (Inno-LiPa) and HPV type-specific qPCR. HPV E6/E7 mRNA expression was 
+detected by type-specific qRT-PCR. Tumor p16 expression was evaluated by
+immunohistochemistry (IHC).
+RESULTS: HPV DNA was detected by Inno-LiPa in 54 of 404 (13.4%, 95% CI 10.2-17.1)
+evaluable samples but was confirmed by HPV type-specific qPCR in only 14 (3.5%,
+95% CI 1.9-5.7). Only 7 of 404 (1.7%, 95% CI 0.7-3.5) LSCC were positive for HPV 
+E6/E7 mRNA expression, including HPV16 (n=4) and 1 each for 11, 26 and 33. In the
+HPV11-positive tumor, Sanger sequencing discovered 6 nucleotide mutations in the 
+upstream regulation region, E6 and E7. Of 404 LSCC, 18 had strong and diffuse p16
+expression. In comparison to a gold standard of HPV E6/E7 mRNA expression, p16
+expression had a sensitivity of 71.4% (95% CI 29.0-96.3), specificity of 96.7%
+(95% CI 94.5-98.3), positive-predictive-value (PPV) of 27.8% (95% CI 9.7-53.5)
+and negative-predictive-value of 99.5% (95% CI 98.1-99.9).
+CONCLUSION: The EF for HPV in LSCC is low (1.7%) in a geographic region with high
+EF for OPSCC. Low-risk HPV may rarely cause LSCC. Finally, p16 expression has
+poor PPV for HPV in LSCC.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.08.009 
+PMID: 27688105  [Indexed for MEDLINE]

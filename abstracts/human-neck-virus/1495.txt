@@ -1,0 +1,42 @@
+
+
+1495. Int J Cancer. 2011 Apr 1;128(7):1596-605. doi: 10.1002/ijc.25474. Epub 2010 May
+24.
+
+Immortalization of oral keratinocytes by functional inactivation of the p53 and
+pRb pathways.
+
+Smeets SJ(1), van der Plas M, Schaaij-Visser TB, van Veen EA, van Meerloo J,
+Braakhuis BJ, Steenbergen RD, Brakenhoff RH.
+
+Author information: 
+(1)Department of Otolaryngology/Head-Neck Surgery, VU University Medical Center, 
+Amsterdam, The Netherlands.
+
+A subgroup of head and neck squamous cell carcinomas (HNSCCs) contains high-risk 
+human papillomavirus-type 16 (HPV16). The viral E6 and E7 oncoproteins inactivate
+the p53 and pRb proteins, respectively. We examined the causative effect of HPV16
+E6 and E7 expression on the immortalization of normal oral keratinocytes (OKCs)
+and compared the resulting phenotype with alternative ways of p53- and
+pRb-pathway abrogation frequently found in HNSCCs without HPV. Primary OKCs were 
+conditionally immortalized with temperature-sensitive SV40 large T-antigen and
+human telomerase, allowing these cells to return to their senescent primary state
+after temperature shift. HPV16 E6 and E7 were introduced to overcome senescence, 
+determined with population doubling (PD) as read-out. For comparison, we
+downregulated p53 and p16 by short hairpin RNA genes and expressed mutant
+p53R(175)H and cyclinD1. Expression of HPV16 E6 caused an extended life span
+similar to expression of mutant p53R(175)H or p53 knockdown. Expression of mutant
+p53R(175)H seemed to cause additional activation of the hypoxia and WNT signaling
+pathways. HPV16 E7 expression had no direct effect on lifespan, similar to p16
+knockdown or cyclinD1 expression. In combination with HPV16 E6 or other
+functional inactivations of p53, abrogation of the pRb-pathway by either HPV16 E7
+or other manipulations caused an immortal phenotype. Our data show the causative 
+role of HPV16 E6/E7 in early squamous carcinogenesis. Activity of each gene could
+be mimicked by other genetic events frequently found in HNSCC without HPV. This
+data provides the experimental proof of causal association of HPV in HNSCC
+carcinogenesis and further support the crucial role of the p53- and pRb-pathways.
+
+Copyright © 2010 UICC.
+
+DOI: 10.1002/ijc.25474 
+PMID: 20499310  [Indexed for MEDLINE]

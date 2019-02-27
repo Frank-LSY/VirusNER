@@ -1,0 +1,42 @@
+
+
+1449. Mutat Res. 2011 Jan 10;718(1-2):62-7. doi: 10.1016/j.mrgentox.2010.10.004. Epub
+2010 Nov 4.
+
+8-Oxoguanine DNA-glycosylase repair activity and expression: a comparison between
+cryopreserved isolated lymphocytes and EBV-derived lymphoblastoid cell lines.
+
+Mazzei F(1), Guarrera S, Allione A, Simonelli V, Narciso L, Barone F, Minoprio A,
+Ricceri F, Funaro A, D'Errico M, Vogel U, Matullo G, Dogliotti E.
+
+Author information: 
+(1)Department of Environment and Primary Prevention, Istituto Superiore di
+Sanità, Rome, Italy.
+
+Several lines of evidence suggest an association between oxidative DNA-damage
+repair capacity and cancer risk. In particular, a DNA-glycosylase assay for
+removal of 8-oxoguanine (8-oxoG) in peripheral blood mononuclear cells (PBMC) has
+been successfully applied to identify populations with increased risk for lung
+cancer and squamous cell carcinomas of head and neck. In order to verify whether 
+EBV-transformed lymphoblastoid cell lines (LCL) are a suitable surrogate for PBMC
+in specific DNA-repair phenotypic assays, a validation trial was conducted. PBMC 
+from 20 healthy subjects were collected and an aliquot was transformed with EBV
+to obtain LCL. The ability of cell-free extracts from both cell types to incise a
+3'-fluorescently labelled duplex oligonucleotide containing a single 8-oxoG (OGG 
+assay) was evaluated. Since this activity is mediated predominantly by OGG1, the 
+OGG1 gene expression was also measured. 8-oxoG DNA-glycosylase activity and OGG1 
+expression were significantly higher (p<0.0001) in LCL than in PBMC. However,
+while this assay was shown to be robust and reproducible when used on PBMC
+(intra-assay CV=8%), a high intra-culture variability was observed with LCL
+(intra-culture CV=16.8%). Neither differences on OGG1 gene expression nor the
+cell-cycle distribution seemed to account for this variability. Inter-individual 
+variability of OGG activity in PBMC and LCL was not associated with OGG1 gene
+expression. We have therefore established a non-radioactive cleavage assay that
+can be easily applied to measure OGG activity in human PBMC. The use of LCL for
+DNA-repair genotype-phenotype correlation studies seems to be inappropriate, at
+least with cell-free based functional assays.
+
+2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mrgentox.2010.10.004 
+PMID: 20971211  [Indexed for MEDLINE]

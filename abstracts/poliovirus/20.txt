@@ -1,0 +1,36 @@
+
+
+20. Curr Opin Virol. 2015 Aug;13:81-5. doi: 10.1016/j.coviro.2015.05.007. Epub 2015
+Jun 12.
+
+Cytotoxic and immunogenic mechanisms of recombinant oncolytic poliovirus.
+
+Brown MC(1), Gromeier M(2).
+
+Author information: 
+(1)Department of Molecular Genetics & Microbiology, Duke University Medical
+Center, Box 3020, Research Drive, Durham, NC 27710, USA; Department of
+Neurosurgery, Duke University Medical Center, Box 3020, Research Drive, Durham,
+NC 27710, USA.
+(2)Department of Molecular Genetics & Microbiology, Duke University Medical
+Center, Box 3020, Research Drive, Durham, NC 27710, USA; Department of
+Neurosurgery, Duke University Medical Center, Box 3020, Research Drive, Durham,
+NC 27710, USA. Electronic address: grome001@mc.duke.edu.
+
+An oncolytic virus (OV) based on poliovirus (PV), the highly attenuated
+polio/rhinovirus recombinant PVSRIPO, may deliver targeted inflammatory cancer
+cell killing; a principle that is showing promise in clinical trials for
+recurrent glioblastoma (GBM). The two decisive factors in PVSRIPO anti-tumor
+efficacy are selective cytotoxicity and its in situ immunogenic imprint. While
+our work is focused on what constitutes PVSRIPO cancer cytotoxicity, we are also 
+studying how this engenders host immune responses that are vital to tumor
+regression. We hypothesize that PVSRIPO cytotoxicity and immunogenicity are
+inextricably linked in essential, complimentary roles that define the
+anti-neoplastic response. Herein we delineate mechanisms we unraveled to decipher
+the basis for PVSRIPO cytotoxicity and its immunotherapeutic potential.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2015.05.007 
+PMCID: PMC4550519
+PMID: 26083317  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+2690. Otol Neurotol. 2010 Jan;31(1):31-41.
+
+A summary of the literature on global hearing impairment: current status and
+priorities for action.
+
+Tucci D(1), Merson MH, Wilson BS.
+
+Author information: 
+(1)Division of Otolaryngology Head and Neck Surgery, Department of Surgery, Duke 
+University Medical Center, Durham, North Carolina 27710, USA.
+tucci001@mc.duke.edu
+
+BACKGROUND: Hearing loss (HL) and deafness are global issues that affect at least
+278 million people worldwide. Two thirds of the people who have HL worldwide live
+in developing countries. Importantly, it is estimated that 50% of this HL can be 
+prevented. In developing countries, funding for prevention, early detection, and 
+rehabilitative programs is severely limited, and therefore, agencies must compete
+against priorities to treat life-threatening, pandemic diseases such as human
+immunodeficiency virus, malaria, and tuberculosis. Delays in diagnosis are
+common, and social attitudes, local customs, and cultural bias are contributing
+factors.
+OBJECTIVE: The purpose of this review is to gain an understanding of the
+prevalence of HL in the developing world and to focus attention on the growing
+need for both prevention and effective treatment programs. A second goal is to
+use this information to suggest priorities and approaches to address these
+problems worldwide.
+DATA SOURCES: The data were compiled from a review of the literature on the
+global impacts of hearing impairment and recently published reports on the
+prevalence and cause of hearing impairment in developing nations.
+CONCLUSION: The high prevalence of HL in the developing world is due to a variety
+of factors, including lack of widespread comprehensive immunization programs and 
+other medical care, and inadequate funds for intervention once HL is identified. 
+International organizations, governments, and nongovernment organizations have
+many opportunities to prevent and treat HL through cost-effective means.
+
+
+PMID: 20050266  [Indexed for MEDLINE]

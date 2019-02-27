@@ -1,0 +1,37 @@
+
+
+488. Cancer Gene Ther. 2009 May;16(5):383-92. doi: 10.1038/cgt.2008.90. Epub 2008 Nov 
+14.
+
+Combination therapy with radiation or cisplatin enhances the potency of Ad5/35
+chimeric oncolytic adenovirus in a preclinical model of head and neck cancer.
+
+Ganesh S(1), Gonzalez-Edick M, Gibbons D, Ge Y, VanRoey M, Robinson M, Jooss K.
+
+Author information: 
+(1)Cell Genesys Inc, South San Francisco, CA 94080, USA. ganeshshanti@yahoo.com
+
+Ad5/35 chimeric oncolytic viruses (OVs) have earlier been shown to increase the
+level of vector transduction, intratumoral virus spread and survival in a number 
+of xenograft models when compared with Ad5-based viruses. Because radiation and
+chemotherapy are the current standards of care for most cancer indications,
+Ad5/35 OVs have been tested here in combination with either radiation or
+chemotherapy in a head and neck cancer (HNC) xenograft model to determine whether
+such combination therapies enhance the potency of the virus, thereby leading to a
+greater therapeutic effect. In mice treated with either Ad5 OV (OV-5) or Ad5/35
+chimeric OV (OV-5T35H), there was a delay in tumor progression compared with
+animals treated with phosphate-buffered saline (PBS) alone. When Ad5/35 chimeric 
+OV and radiation were used in combination, there was a further delay in tumor
+progression, which resulted in a significant increase in the mean survival time
+of tumor-bearing mice compared with Ad5/35 or Ad5 OV monotherapy or to the
+combination of Ad5 OV with radiation, which was significantly less potent
+(P<0.0001) compared with the Ad5/35 OV plus radiation combination. Similarly, a
+combination of Ad5/35 chimeric OV with cisplatin significantly delayed tumor
+progression compared with Ad5/35 OV or Ad5 OV virus alone or with the combination
+of Ad5 virus with cisplatin (P<0.01). In summary, the combination of the potent
+Ad5/35 chimeric OV with either radiation or chemotherapy leads to significantly
+increased survival of mice bearing highly aggressive tumors, and may therefore
+offer an effective treatment strategy for patients with difficult to treat HNC.
+
+DOI: 10.1038/cgt.2008.90 
+PMID: 19011598  [Indexed for MEDLINE]

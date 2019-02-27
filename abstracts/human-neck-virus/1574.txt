@@ -1,0 +1,37 @@
+
+Conflict of interest statement: All the authors declare that they have no
+conflicts of interest.
+
+
+1574. Head Neck. 2013 Nov;35(11):1652-6. doi: 10.1002/hed.23209. Epub 2013 Jan 17.
+
+Definitive radiation therapy without chemotherapy for human
+papillomavirus-positive head and neck cancer.
+
+Chen AM(1), Zahra T, Daly ME, Farwell DG, Luu Q, Gandour-Edwards R, Vaughan AT.
+
+Author information: 
+(1)Department of Radiation Oncology, University of California Davis School of
+Medicine, Sacramento, California.
+
+BACKGROUND: To report a single institutional experience with definitive radiation
+therapy alone for human papillomavirus (HPV)-positive head and neck cancer.
+METHODS: A total of 67 patients were treated by radiation therapy alone to a
+median dose of 70 Gy (range, 66-72 Gy) for squamous cell carcinoma of the head
+and neck. Paraffin-embedded, formalin-fixed pretreatment tumor tissues were used 
+to establish HPV-positivity using standardized techniques of immunohistochemistry
+for p16 and polymerase chain reaction for HPV.
+RESULTS: In all, 23 patients with HPV-positive cancers were identified. With a
+median follow-up of 28 months (range, 6-85 months), the 3-year actuarial rates of
+overall survival, locoregional control, and distant metastasis-free survival were
+83%, 90%, and 88%, respectively.
+CONCLUSION: These findings attest to the exquisite radiosensitivity of
+HPV-positive head and neck cancer. The clinical outcomes observed from this
+selected series compare favorably with historical controls treated by more
+intensive chemoradiotherapy strategies.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23209 
+PMCID: PMC4757483
+PMID: 23335285  [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+
+
+2378. Head Neck Pathol. 2017 Sep;11(3):354-363. doi: 10.1007/s12105-016-0776-8. Epub
+2016 Dec 28.
+
+TILs in Head and Neck Cancer: Ready for Clinical Implementation and Why (Not)?
+
+De Meulenaere A(1), Vermassen T(2), Aspeslagh S(3), Vandecasteele K(4), Rottey
+S(2), Ferdinande L(5).
+
+Author information: 
+(1)Department of Medical Oncology, Ghent University Hospital, De Pintelaan 185,
+9000, Ghent, Belgium. astrid.demeulenaere@ugent.be.
+(2)Department of Medical Oncology, Ghent University Hospital, De Pintelaan 185,
+9000, Ghent, Belgium.
+(3)DITEP, Gustave Roussy Cancer Centre, rue Edouard-Vaillant 114, 94800,
+Villejuif, France.
+(4)Department of Radiation Oncology, Ghent University Hospital, De Pintelaan 185,
+9000, Ghent, Belgium.
+(5)Department of Pathology, Ghent University Hospital, De Pintelaan 185, 9000,
+Ghent, Belgium.
+
+The assessment of tumor infiltrating lymphocytes (TILs) has recently emerged as a
+prognostic biomarker in several solid tumors. Quantification and subtyping of
+TILs reflects the immune response in the tumor microenvironment, contributing to 
+either tumoral immune attack or escape and thereby affecting outcome. Despite the
+growing evidence of its value as prognosticator, TILs analysis has not yet found 
+its way to daily clinical practice. The aim of this review is to evaluate whether
+the current knowledge on TILs in head and neck cancer justifies its clinical
+implementation. Therefore, we summarize the data on TILs in squamous cell cancer 
+of the head and neck with focus on the most important subsets (T lymphocytes and 
+more specifically CD8+ cytotoxic T cells and FoxP3+ regulatory T cells) and
+site-specific characteristics such as Human Papilloma Virus infection. In
+addition, we discuss methodological problems and pitfalls that can account for
+discordant findings and that may hamper inclusion of TILs assessment in routine
+practice of pathologists and oncologists.
+
+DOI: 10.1007/s12105-016-0776-8 
+PMCID: PMC5550394
+PMID: 28032290  [Indexed for MEDLINE]

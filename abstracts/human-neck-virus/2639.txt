@@ -1,0 +1,40 @@
+
+
+2639. Int J Clin Exp Pathol. 2015 Sep 1;8(9):10995-1004. eCollection 2015.
+
+Prognostic value of TROP2 in human nasopharyngeal carcinoma.
+
+Guan GF(1), Zhang DJ(1), Wen LJ(1), Yu DJ(1), Zhao Y(1), Zhu L(1), Guo YY(1),
+Zheng Y(2).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, The Second Hospital of
+Jilin University Changchun 130041, P. R. China.
+(2)Department of Otolaryngology, Head and Neck Surgery, Tumor Hospital of Jilin
+Province Changchun 130012, P. R. China.
+
+BACKGROUND: There is increasing evidence demonstrating the role of human
+trophoblast cell surface antigen 2 (TROP2) in cancer development and progression.
+However, their prognostic value in Epstein-Barr virus (EBV) associated
+nasopharyngeal carcinoma (NPC) remains to be elucidated.
+METHOD: The prognostic significances of TROP2 and Ki-67 were determined by
+immunohistochemistry in 58 NPC samples. TROP2 mRNA expression level and
+biological functions were evaluated. The presence of EBV was assessed using in
+situ hybridization. Analyses were conducted on the association between each of
+these variables as well as clinical outcome.
+RESULTS: TROP2 was exhibited over expression in 64% of NPC samples and
+significantly associated with highly proliferative tumor cells (P = 0.05) and
+lymph node metastases (P = 0.03). Overexpression of TROP2 significantly
+correlated with worse overall survival (P = 0.026) and poor disease-free survival
+(P = 0.021). By univariate analysis, high expression of TROP2 significantly
+correlated with patients with distant metastases, Ki-67 and EBV infection.
+Multivariate analysis further revealed that TROP2 along with Ki-67 and distant
+metastasis are independent prognostic predictors for NPC patients.
+CONCLUSION: Our findings have demonstrated that overexpression of TROP2 appears
+to be an independent predictor for poor clinical outcome in NPC. The strong
+correlation of overexpression of TROP2 with Ki-67 and distant metastases
+indicates a potentially therapeutic strategies targeting TROP2 for NPC patients.
+
+
+PMCID: PMC4637632
+PMID: 26617817  [Indexed for MEDLINE]

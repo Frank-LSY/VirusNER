@@ -1,0 +1,40 @@
+
+
+2394. Br J Cancer. 2011 Mar 1;104(5):830-40. doi: 10.1038/bjc.2011.29. Epub 2011 Feb
+15.
+
+Different miRNA signatures of oral and pharyngeal squamous cell carcinomas: a
+prospective translational study.
+
+Lajer CB(1), Nielsen FC, Friis-Hansen L, Norrild B, Borup R, Garnæs E, Rossing M,
+Specht L, Therkildsen MH, Nauntofte B, Dabelsteen S, von Buchwald C.
+
+Author information: 
+(1)Department of Oto-rhino-laryngology, Head and Neck Surgery, Rigshospitalet,
+University of Copenhagen, Blegdamsvej 9, Copenhagen 2100, Denmark.
+christel.lajer@rh.regionh.dk
+
+BACKGROUND: MicroRNAs (miRNAs) are small non-coding RNAs, which regulate mRNA
+translation/decay, and may serve as biomarkers. We characterised the expression
+of miRNAs in clinically sampled oral and pharyngeal squamous cell carcinoma (OSCC
+and PSCC) and described the influence of human papilloma virus (HPV).
+METHODS: Biopsies obtained from 51 patients with OSCC/PSCC and 40 control
+patients were used for microarray analysis. The results were correlated to
+clinical data and HPV status. Supervised learning by support vector machines was 
+employed to generate a diagnostic miRNA signature.
+RESULTS: One hundred and fourteen miRNAs were differentially expressed between
+OSCC and normal oral epithelium, with the downregulation of miR-375 and
+upregulation of miR-31 as the most significant aberrations. Pharyngeal squamous
+cell carcinoma exhibited 38 differentially expressed miRNAs compared with normal 
+pharyngeal epithelium. Differences in the miRNA expression pattern of both normal
+epithelium and SCC were observed between the oral cavity compared with the
+pharynx. Human papilloma virus infection revealed perturbations of 21 miRNAs,
+most significantly in miR-127-3p and miR363. A molecular classifier including 61 
+miRNAs was generated for OSCC with an accuracy of 93%.
+CONCLUSION: MicroRNAs may serve as useful biomarkers in OSCC and PSCC. The
+influence of HPV on miRNA may provide a mechanism for the distinct clinical
+behaviour of HPV-infected tumours.
+
+DOI: 10.1038/bjc.2011.29 
+PMCID: PMC3048216
+PMID: 21326242  [Indexed for MEDLINE]

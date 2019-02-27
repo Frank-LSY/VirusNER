@@ -1,0 +1,36 @@
+
+
+3168. Allergy. 2010 Aug;65(8):986-95. doi: 10.1111/j.1398-9995.2009.02295.x. Epub 2009 
+Dec 21.
+
+Specific immunotherapy suppresses Th2 responses via modulating TIM1/TIM4
+interaction on dendritic cells.
+
+Zhao CQ(1), Li TL, He SH, Chen X, An YF, Wu WK, Zhou XH, Li P, Yang PC.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, the Second Hospital,
+Shanxi Medical University, Taiyuan, Shanxi, China. fahyj@126.com
+
+BACKGROUND: Specific immunotherapy (SIT) is the only curable remedy for allergic 
+disorders currently; however, the underlying mechanism is not fully understood
+yet. This study aimed to elucidate the mechanism of SIT on suppressing TIM4 (T
+cell immunoglobulin mucin domain molecule 4) expression in dendritic cells (DCs) 
+and modulating the skewed T helper 2 (Th2) responses in patients with airway
+allergy.
+METHODS: Twenty patients with allergic rhinitis (AR) were treated with SIT for 3 
+months. Before and after SIT, the expression of TIM4 in peripheral DC and TIM1 in
+Th2 cells was examined. The role of Fc gamma receptor (FcgammaR) I and II in
+modulating the expression of TIM4 in DCs was investigated.
+RESULTS: The interaction of TIM1/TIM4 played a critical role in sustaining the
+polarization status of Th2 cells in AR patients. Cross-linking FcgammaRI by
+antigen/IgG complexes increased the production of TIM4 by dendritic cells via
+upregulating tumor necrosis factor-alpha in DCs. Exposure to microbial products
+promoted the expression of FcgammaRI in DCs that further increased the expression
+of TIM4. Exposure to specific antigens alone upregulated the expression of
+FcgammaRII in DCs, that suppressed the expression of TIM4.
+CONCLUSIONS: We conclude that SIT suppresses the skewed Th2 responses via
+disrupting the interaction of TIM1/TIM4 in antigen-specific Th2 cells.
+
+DOI: 10.1111/j.1398-9995.2009.02295.x 
+PMID: 20028372  [Indexed for MEDLINE]

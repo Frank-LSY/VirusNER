@@ -1,0 +1,53 @@
+
+
+54. PLoS One. 2014 Nov 18;9(11):e113702. doi: 10.1371/journal.pone.0113702.
+eCollection 2014.
+
+Epstein-Barr virus and human papillomavirus infections and genotype distribution 
+in head and neck cancers.
+
+Deng Z(1), Uehara T(2), Maeda H(2), Hasegawa M(2), Matayoshi S(2), Kiyuna A(2),
+Agena S(2), Pan X(1), Zhang C(1), Yamashita Y(2), Xie M(3), Suzuki M(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Zhujiang Hospital,
+Southern Medical University, Guangzhou, China; Department of Otorhinolaryngology,
+Head and Neck Surgery, Graduate School of Medicine, University of the Ryukyus,
+Okinawa, Japan.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Graduate School of
+Medicine, University of the Ryukyus, Okinawa, Japan.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, Zhujiang Hospital,
+Southern Medical University, Guangzhou, China.
+
+Erratum in
+    PLoS One. 2015;10(3):e0118439.
+
+OBJECTIVE: To investigate the prevalence, genotypes, and prognostic values of
+Epstein-Barr virus (EBV) and human papillomavirus (HPV) infections in Japanese
+patients with different types of head and neck cancer (HNC).
+METHODS AND MATERIALS: HPV and EBV DNA, EBV genotypes and LMP-1 variants, and HPV
+mRNA expression were detected by PCR from fresh-frozen HNC samples. HPV genotypes
+were determined by direct sequencing, and EBV encoded RNA (EBER) was examined by 
+in situ hybridization.
+RESULTS: Of the 209 HNC patients, 63 (30.1%) had HPV infection, and HPV-16 was
+the most common subtype (86.9%). HPV E6/E7 mRNA expression was found in 23 of 60 
+(38.3%) HPV DNA-positive cases detected. The site of highest prevalence of HPV
+was the oropharynx (45.9%). Among 146 (69.9%) HNCs in which EBV DNA was
+identified, 107 (73.3%) and 27 (18.5%) contained types A and B, respectively, and
+124 (84.9%) showed the existence of del-LMP-1. However, only 13 (6.2%) HNCs were 
+positive for EBER, 12 (92.3%) of which derived from the nasopharynx. Co-infection
+of HPV and EBER was found in only 1.0% of HNCs and 10.0% of NPCs. Kaplan-Meier
+survival analysis showed significantly better disease-specific and overall
+survival in the HPV DNA+/mRNA+ oropharyngeal squamous cell carcinoma (OPC)
+patients than in the other OPC patients (P = 0.027 and 0.017, respectively).
+Multivariate analysis showed that stage T1-3 (P = 0.002) and HPV mRNA-positive
+status (P = 0.061) independently predicted better disease-specific survival. No
+significant difference in disease-specific survival was found between the
+EBER-positive and -negative NPC patients (P = 0.155).
+CONCLUSIONS: Our findings indicate that co-infection with HPV and EBV is rare in 
+HNC. Oropharyngeal SCC with active HPV infection was related to a highly
+favorable outcome, while EBV status was not prognostic in the NPC cohort.
+
+DOI: 10.1371/journal.pone.0113702 
+PMCID: PMC4236156
+PMID: 25405488  [Indexed for MEDLINE]

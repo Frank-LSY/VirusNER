@@ -1,0 +1,119 @@
+
+
+1900. J Virol. 2014 Jul;88(13):7307-16. doi: 10.1128/JVI.00621-14. Epub 2014 Apr 16.
+
+Global genomic diversity of human papillomavirus 6 based on 724 isolates and 190 
+complete genome sequences.
+
+Jelen MM(1), Chen Z(2), Kocjan BJ(1), Burt FJ(3), Chan PK(4), Chouhy D(5),
+Combrinck CE(3), Coutlée F(6), Estrade C(7), Ferenczy A(8), Fiander A(9), Franco 
+EL(10), Garland SM(11), Giri AA(5), González JV(12), Gröning A(13), Heidrich
+K(13), Hibbitts S(9), Hošnjak L(1), Luk TN(14), Marinic K(15), Matsukura T(16),
+Neumann A(13), Oštrbenk A(1), Picconi MA(12), Richardson H(17), Sagadin M(1),
+Sahli R(7), Seedat RY(18), Seme K(1), Severini A(19), Sinchi JL(15), Smahelova
+J(20), Tabrizi SN(11), Tachezy R(20), Tohme S(19), Uloza V(21), Vitkauskiene
+A(22), Wong YW(23), Zidovec Lepej S(24), Burk RD(25), Poljak M(26).
+
+Author information: 
+(1)Institute of Microbiology and Immunology, Faculty of Medicine, University of
+Ljubljana, Ljubljana, Slovenia.
+(2)Department of Pediatrics, Albert Einstein College of Medicine, New York, New
+York, USA.
+(3)Department of Medical Microbiology and Virology, Faculty of Health Sciences,
+University of the Free State, Bloemfontein, South Africa.
+(4)Department of Microbiology, Faculty of Medicine, Chinese University of Hong
+Kong, Prince of Wales Hospital, Hong Kong Special Administrative Region, China.
+(5)Human Virology Group, National Council of Scientific and Technical Research,
+Institute of Molecular and Cell Biology of Rosario, Rosario, Argentina.
+(6)Laboratoire de Virologie Moléculaire, Centre de Recherche, Centre Hospitalier 
+de L'Université de Montréal, Hôpital Notre-Dame-Pavillon Deschamps, Montréal,
+Québec, Canada.
+(7)Lausanne University Hospital (CHUV), Institute of Microbiology, Lausanne,
+Switzerland.
+(8)Department of Pathology, McGill University and Jewish General Hospital,
+Montréal, Québec, Canada.
+(9)Department of Obstetrics and Gynaecology, Cardiff University School of
+Medicine, Institute of Cancer and Genetics, Cardiff, United Kingdom.
+(10)Department of Oncology, Division of Cancer Epidemiology, McGill University,
+Montréal, Québec, Canada.
+(11)Department of Microbiology and Infectious Diseases, The Royal Women's
+Hospital, Parkville, Victoria, Australia Department of Obstetrics and
+Gynaecology, University of Melbourne, Victoria, Australia Murdoch Children's
+Research Institute, Parkville, Victoria, Australia.
+(12)Oncogenic Viruses Service, National Institute of Infectious Diseases-ANLIS
+Dr. Carlos G. Malbrán, Buenos Aires, Argentina.
+(13)Medizinisches Versorgungszentrum wagnerstibbe für Laboratoriumsmedizin und
+Pathologie GmbH, Hannover, Germany.
+(14)Dermatology Research Centre, The Chinese University of Hong Kong, Prince of
+Wales Hospital, Hong Kong Special Administrative Region, China Department of
+Health, Social Hygiene Service, Centre for Health Protection, Hong Kong Special
+Administrative Region, China.
+(15)Histocompatibility and Molecular Genetics Laboratory, Dr. Julio C. Perrando
+Hospital, Resistencia, Chaco, Argentina.
+(16)Ganshintetsu Memorial Laboratory, Department of Virology II, National
+Institute of Health, Tokyo, Japan.
+(17)Queen's Cancer Research Institute, Queen's University, Kingston, Ontario,
+Canada.
+(18)Department of Otorhinolaryngology, Faculty of Health Sciences, University of 
+the Free State, Bloemfontein, South Africa.
+(19)Viral Exanthemata and STD Section, National Microbiology Laboratory, Public
+Health Agency of Canada, Winnipeg, Manitoba, Canada.
+(20)Department of Experimental Virology, National Reference Laboratory for
+Papillomaviruses, Institute of Hematology and Blood Transfusion, Prague, Czech
+Republic.
+(21)Department of Otolaryngology, Lithuanian University of Health Sciences,
+Medical Academy, Kaunas, Lithuania.
+(22)Department of Laboratory Medicine, Lithuanian University of Health Sciences, 
+Medical Academy, Kaunas, Lithuania.
+(23)DNA Laboratories Sdn. Bhd., UKM-MTDC Technology Centre, Universti Kebangsaan 
+Malaysia, Bangi, Malaysia.
+(24)Department of Molecular Diagnostics, University Hospital for Infectious
+Diseases Dr. Fran Mihaljević, Zagreb, Croatia.
+(25)Departments of Microbiology and Immunology, Epidemiology and Population
+Health, Obstetrics and Gynecology and Women's Health, Albert Einstein College of 
+Medicine, New York, New York, USA Department of Pediatrics, Albert Einstein
+College of Medicine, New York, New York, USA.
+(26)Institute of Microbiology and Immunology, Faculty of Medicine, University of 
+Ljubljana, Ljubljana, Slovenia mario.poljak@mf.uni-lj.si.
+
+Human papillomavirus type 6 (HPV6) is the major etiological agent of anogenital
+warts and laryngeal papillomas and has been included in both the quadrivalent and
+nonavalent prophylactic HPV vaccines. This study investigated the global genomic 
+diversity of HPV6, using 724 isolates and 190 complete genomes from six
+continents, and the association of HPV6 genomic variants with geographical
+location, anatomical site of infection/disease, and gender. Initially, a 2,800-bp
+E5a-E5b-L1-LCR fragment was sequenced from 492/530 (92.8%) HPV6-positive samples 
+collected for this study. Among them, 130 exhibited at least one single
+nucleotide polymorphism (SNP), indel, or amino acid change in the E5a-E5b-L1-LCR 
+fragment and were sequenced in full. A global alignment and maximum likelihood
+tree of 190 complete HPV6 genomes (130 fully sequenced in this study and 60
+obtained from sequence repositories) revealed two variant lineages, A and B, and 
+five B sublineages: B1, B2, B3, B4, and B5. HPV6 (sub)lineage-specific SNPs and a
+960-bp representative region for whole-genome-based phylogenetic clustering
+within the L2 open reading frame were identified. Multivariate logistic
+regression analysis revealed that lineage B predominated globally. Sublineage B3 
+was more common in Africa and North and South America, and lineage A was more
+common in Asia. Sublineages B1 and B3 were associated with anogenital infections,
+indicating a potential lesion-specific predilection of some HPV6 sublineages.
+Females had higher odds for infection with sublineage B3 than males. In
+conclusion, a global HPV6 phylogenetic analysis revealed the existence of two
+variant lineages and five sublineages, showing some degree of ethnogeographic,
+gender, and/or disease predilection in their distribution.IMPORTANCE: This study 
+established the largest database of globally circulating HPV6 genomic variants
+and contributed a total of 130 new, complete HPV6 genome sequences to available
+sequence repositories. Two HPV6 variant lineages and five sublineages were
+identified and showed some degree of association with geographical location,
+anatomical site of infection/disease, and/or gender. We additionally identified
+several HPV6 lineage- and sublineage-specific SNPs to facilitate the
+identification of HPV6 variants and determined a representative region within the
+L2 gene that is suitable for HPV6 whole-genome-based phylogenetic analysis. This 
+study complements and significantly expands the current knowledge of HPV6 genetic
+diversity and forms a comprehensive basis for future epidemiological,
+evolutionary, functional, pathogenicity, vaccination, and molecular assay
+development studies.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00621-14 
+PMCID: PMC4054425
+PMID: 24741079  [Indexed for MEDLINE]

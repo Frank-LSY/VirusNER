@@ -1,0 +1,53 @@
+
+
+1318. PLoS Pathog. 2015 Feb 24;11(2):e1004677. doi: 10.1371/journal.ppat.1004677.
+eCollection 2015 Feb.
+
+Super-resolution imaging of ESCRT-proteins at HIV-1 assembly sites.
+
+Prescher J(1), Baumgärtel V(1), Ivanchenko S(1), Torrano AA(1), Bräuchle C(1),
+Müller B(2), Lamb DC(1).
+
+Author information: 
+(1)Physical Chemistry, Department of Chemistry, Nanosystem Initiative Munich
+(NIM), Center for Integrated Protein Science Munich (CiPSM) and Center for
+NanoScience (CeNS), Ludwig-Maximilians-Universität München, Munich, Germany.
+(2)Department of Infectious Diseases, Virology, Universitätsklinikum Heidelberg, 
+Heidelberg, Germany.
+
+The cellular endosomal sorting complex required for transport (ESCRT) machinery
+is involved in membrane budding processes, such as multivesicular biogenesis and 
+cytokinesis. In HIV-infected cells, HIV-1 hijacks the ESCRT machinery to drive
+HIV release. Early in the HIV-1 assembly process, the ESCRT-I protein Tsg101 and 
+the ESCRT-related protein ALIX are recruited to the assembly site. Further
+downstream, components such as the ESCRT-III proteins CHMP4 and CHMP2 form
+transient membrane associated lattices, which are involved in virus-host membrane
+fission. Although various geometries of ESCRT-III assemblies could be observed,
+the actual membrane constriction and fission mechanism is not fully understood.
+Fission might be driven from inside the HIV-1 budding neck by narrowing the
+membranes from the outside by larger lattices surrounding the neck, or from
+within the bud. Here, we use super-resolution fluorescence microscopy to
+elucidate the size and structure of the ESCRT components Tsg101, ALIX, CHMP4B and
+CHMP2A during HIV-1 budding below the diffraction limit. To avoid the deleterious
+effects of using fusion proteins attached to ESCRT components, we performed
+measurements on the endogenous protein or, in the case of CHMP4B, constructs
+modified with the small HA tag. Due to the transient nature of the ESCRT
+interactions, the fraction of HIV-1 assembly sites with colocalizing ESCRT
+complexes was low (1.5%-3.4%). All colocalizing ESCRT clusters exhibited closed, 
+circular structures with an average size (full-width at half-maximum) between 45 
+and 60 nm or a diameter (determined using a Ripley's L-function analysis) of
+roughly 60 to 100 nm. The size distributions for colocalizing clusters were
+narrower than for non-colocalizing clusters, and significantly smaller than the
+HIV-1 bud. Hence, our results support a membrane scission process driven by ESCRT
+protein assemblies inside a confined structure, such as the bud neck, rather than
+by large lattices around the neck or in the bud lumen. In the case of ALIX, a
+cloud of individual molecules surrounding the central clusters was often
+observed, which we attribute to ALIX molecules incorporated into the nascent
+HIV-1 Gag shell. Experiments performed using YFP-tagged Tsg101 led to an over
+10-fold increase in ESCRT structures colocalizing with HIV-1 budding sites
+indicating an influence of the fusion protein tag on the function of the ESCRT
+protein.
+
+DOI: 10.1371/journal.ppat.1004677 
+PMCID: PMC4339578
+PMID: 25710462  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+1638. J BUON. 2016 Jan-Feb;21(1):168-74.
+
+Human papilloma virus status evaluation and survival description in selected
+oropharyngeal and laryngeal squamous cell carcinoma patients from Hungary.
+
+Reka Fejer E(1), Abram Z, Zs Egyed J, Voidazan S, Toth E, Szentirmay Z, Kasler M.
+
+Author information: 
+(1)University of Medicine and Pharmacy of Targu Mures, Romania.
+
+PURPOSE: Many patients with oropharyngeal squamous cell carcinomas do not have
+any of the traditional risk factors associated with head and neck squamous cell
+cancers (HNSCC). Epidemiologic and molecular studies have identified human
+papillomavirus (HPV) as a causative agent, viral tumors presenting a better
+survival and being important risk factors together with the long established
+ones, tobacco and alcohol consumption, in head and neck cancers. The purpose of
+this study was to establish the incidence of HPV-associated HNSCCs, to identify
+the most frequent HPV type and to evaluate the overall survival and recurrence
+rates of HPV-positive cases in comparison with HPV-negative HNSCCs.
+METHODS: A retrospective analysis from the database of the National Institute of 
+Oncology from Budapest was performed and the following parameters were analyzed: 
+age, age at diagnosis, gender, primary tumor location, tumor histopathology, TNM 
+stage, HPV status, date of recurrence, last visit and date of death.
+RESULTS: Out of 81 patients with HNSCCs 55 (67.9%) were male and 26 (32.1%)
+female. HNSCCs were more frequent in men (2.11:1) and the majority of the
+patients (81.7%) were diagnosed in advanced stages (TNM III and IV). HPV status
+was evaluated in nearly half (48.14%) of the patients and HNSCCs were positive
+for HPV in 43.6% of the cases. These were more frequent in patients over 50 years
+(76.66%), in men (76.47%) and in oropharyngeal location (94.1%). HPV-16 type was 
+associated with malignancy in 82.35% of the cases. Disease recurrence was more
+frequent in HPV-negative (31.81%) vs HPV-positive cases (29.41%) and mortality
+rate was inferior in HPV-positive 33.33% vs negative (38.09%) tumors (p=0.52).
+CONCLUSIONS: In Hungary HNSCCs are more frequent in men than in women. HPV
+positivity is higher in men vs women and in oropharyngeal vs laryngeal location. 
+Overall survival rate was superior in HPV-positive vs HPV-negative cases. Disease
+recurrence was more frequent in HPV-negative vs HPV-positive cases.
+
+
+PMID: 27061545  [Indexed for MEDLINE]

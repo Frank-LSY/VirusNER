@@ -1,0 +1,53 @@
+
+
+1640. Tumour Biol. 2016 Jun;37(6):7907-13. doi: 10.1007/s13277-015-4694-2. Epub 2015
+Dec 23.
+
+TERT promoter hot spot mutations are frequent in Indian cervical and oral
+squamous cell carcinomas.
+
+Vinothkumar V(1), Arunkumar G(1), Revathidevi S(1), Arun K(1), Manikandan M(1),
+Rao AK(1), Rajkumar KS(2), Ajay C(2), Rajaraman R(2), Ramani R(3), Murugan AK(4),
+Munirajan AK(5).
+
+Author information: 
+(1)Department of Genetics, Dr. ALM PG Institute of Basic Medical Sciences,
+University of Madras, Taramani Campus, Chennai, Tamil Nadu, 600113, India.
+(2)Centre for Oncology, Government Royapettah Hospital & Kilpauk Medical College,
+Chennai, 600014, India.
+(3)Institute of Social Obstetrics and Government Kasturba Gandhi Hospital for
+Women and Children, Chennai, 600005, India.
+(4)Department of Molecular Oncology, King Faisal Specialist Hospital and Research
+Center, Riyadh, 11211, Saudi Arabia.
+(5)Department of Genetics, Dr. ALM PG Institute of Basic Medical Sciences,
+University of Madras, Taramani Campus, Chennai, Tamil Nadu, 600113, India.
+akmunirajan@gmail.com.
+
+Erratum in
+    Tumour Biol. 2016 May;37(5):7005.
+
+Squamous cell carcinoma (SCC) of the uterine cervix and oral cavity are most
+common cancers in India. Telomerase reverse transcriptase (TERT) overexpression
+is one of the hallmarks for cancer, and activation through promoter mutation
+C228T and C250T has been reported in variety of tumors and often shown to be
+associated with aggressive tumors. In the present study, we analyzed these two
+hot spot mutations in 181 primary tumors of the uterine cervix and oral cavity by
+direct DNA sequencing and correlated with patient's clinicopathological
+characteristics. We found relatively high frequency of TERT hot spot mutations in
+both cervical [21.4 % (30/140)] and oral [31.7 % (13/41)] squamous cell
+carcinomas. In cervical cancer, TERT promoter mutations were more prevalent
+(25 %) in human papilloma virus (HPV)-negative cases compared to HPV-positive
+cases (20.6 %), and both TERT promoter mutation and HPV infection were more
+commonly observed in advanced stage tumors (77 %). Similarly, the poor and
+moderately differentiated tumors of the uterine cervix had both the TERT hot spot
+mutations and HPV (16 and 18) at higher frequency (95.7 %). Interestingly, we
+observed eight homozygous mutations (six 228TT and two 250TT) only in cervical
+tumors, and all of them were found to be positive for high-risk HPV. To the best 
+of our knowledge, this is the first study from India reporting high prevalence of
+TERT promoter mutations in primary tumors of the uterine cervix and oral cavity. 
+Our results suggest that TERT reactivation through promoter mutation either alone
+or in association with the HPV oncogenes (E6 and E7) could play an important role
+in the carcinogenesis of cervical and oral cancers.
+
+DOI: 10.1007/s13277-015-4694-2 
+PMID: 26700669  [Indexed for MEDLINE]

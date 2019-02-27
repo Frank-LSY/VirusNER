@@ -1,0 +1,61 @@
+
+
+393. Cancer. 2015 Jun 15;121(12):1966-76. doi: 10.1002/cncr.29315. Epub 2015 Mar 2.
+
+Methylation status of HPV16 E2-binding sites classifies subtypes of
+HPV-associated oropharyngeal cancers.
+
+Reuschenbach M(1)(2), Huebbers CU(3), Prigge ES(1)(2), Bermejo JL(4), Kalteis
+MS(1)(2), Preuss SF(5), Seuthe IM(5), Kolligs J(3), Speel EJ(6), Olthof N(7),
+Kremer B(7), Wagner S(8), Klussmann JP(8), Vinokurova S(1)(2), von Knebel
+Doeberitz M(1)(2).
+
+Author information: 
+(1)Department of Applied Tumor Biology, Institute of Pathology, University of
+Heidelberg, Heidelberg, Germany.
+(2)Clinical Cooperation Unit, German Cancer Research Center, Heidelberg, Germany.
+(3)Jean-Uhrmacher Institute for Oto-Rhino-Laryngological Research, University of 
+Cologne, Cologne, Germany.
+(4)Institute of Medical Biometry and Informatics, University of Heidelberg,
+Heidelberg, Germany.
+(5)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+of Cologne, Cologne, Germany.
+(6)Department of Pathology, Maastricht University Medical Center, Maastricht, The
+Netherlands.
+(7)Department of Otorhinolaryngology, Maastricht University Medical Center,
+Maastricht, The Netherlands.
+(8)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen, Giessen, Germany.
+
+BACKGROUND: The human papillomavirus (HPV) E2 protein is a transcriptional
+repressor of the oncogenes E6/E7 and loss of E2 function is considered a key step
+in carcinogenesis. Integration of HPV into the host genome may disrupt the E2
+gene. Furthermore, methylation of CpG dinucleotides in E2-binding sites (E2BSs)
+in the HPV upstream regulatory region may interfere with transcriptional
+repression of E6 and E7 by E2. The authors hypothesized that the CpG methylation 
+status of E2BS identifies subtypes of HPV type 16 (HPV16)-associated
+oropharyngeal squamous cell cancers (OPSCC) in association with E2 gene integrity
+and viral integration.
+METHODS: Methylation of 10 CpG dinucleotides within the upstream regulatory
+region, encompassing E2BSs 1, 2, 3, and 4, was quantitatively analyzed by
+bisulfite pyrosequencing in 57 HPV16-associated OPSCC cases. E2 status was
+analyzed by gene amplification and quantitative real-time reverse
+transcriptase-polymerase chain reaction. Viral integration was determined by
+integration-specific polymerase chain reaction methods.
+RESULTS: Three subgroups with differential methylation at E2BS3 and E2BS 4 were
+identified: 1) complete methylation (>80%) associated with the presence of
+integrated HPV genomes with an intact E2 gene; 2) intermediate methylation levels
+(20%-80%) with predominantly episomal HPV genomes with intact E2; and 3) no
+methylation (<20%) with a disrupted E2 gene. Patients with high methylation
+levels tended to have a worse 5-year overall survival compared with patients with
+intermediate methylation (hazard ratio, 3.23; 95% confidence interval, 1.13-9.24 
+[P = .06]).
+CONCLUSIONS: Methylation of E2BS3 and E2BS4 in OPSCC is associated with E2
+integrity and viral physical status. It might explain deregulated viral oncogene 
+expression in the presence of E2. The prognostic significance of E2BS methylation
+for patients with HPV-associated OPSCC needs to be analyzed further.
+
+© 2015 American Cancer Society.
+
+DOI: 10.1002/cncr.29315 
+PMID: 25731880  [Indexed for MEDLINE]

@@ -1,0 +1,51 @@
+
+
+1150. Ann Oncol. 2017 Dec 1;28(12):3065-3069. doi: 10.1093/annonc/mdx535.
+
+Understanding personal risk of oropharyngeal cancer: risk-groups for oncogenic
+oral HPV infection and oropharyngeal cancer.
+
+D'Souza G(1), McNeel TS(2), Fakhry C(3).
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore.
+(2)Information Management Services, Inc., Calverton.
+(3)Department of Otolaryngology - Head and Neck Surgery, Johns Hopkins
+University, Baltimore, USA.
+
+Background: Incidence of human papillomavirus (HPV)-related oropharyngeal cancer 
+is increasing. There is interest in identifying healthy individuals most at risk 
+for development of oropharyngeal cancer to inform screening strategies.
+Patients and methods: All data are from 2009 to 2014, including 13 089 people
+ages 20-69 in the National Health and Nutrition Examination Survey (NHANES),
+oropharyngeal cancer cases from the Surveillance, Epidemiology, and End Results
+(SEER 18) registries (representing ∼28% of the US population), and oropharyngeal 
+cancer mortality from National Center for Health Statistics (NCHS). Primary study
+outcomes are (i) prevalence of oncogenic HPV DNA in an oral rinse and gargle
+sample, and (ii) incident oropharyngeal squamous cell cancer.
+Results: Oncogenic oral HPV DNA is detected in 3.5% of all adults age
+20-69 years; however, the lifetime risk of oropharyngeal cancer is low (37 per
+10 000). Among men 50-59 years old, 8.1% have an oncogenic oral HPV infection,
+2.1% have an oral HPV16 infection, yet only 0.7% will 'ever' develop
+oropharyngeal cancer in their lifetime. Oncogenic oral HPV prevalence was higher 
+in men than women, and increased with number of lifetime oral sexual partners and
+tobacco use. Men who currently smoked and had ≥5 lifetime oral sexual partners
+had 'elevated risk' (prevalence = 14.9%). Men with only one of these risk factors
+(i.e. either smoked and had 2-4 partners or did not smoke and had ≥5 partners)
+had 'medium risk' (7.3%). Regardless of what other risk factors participants had,
+oncogenic oral HPV prevalence was 'low' among those with only ≤1 lifetime oral
+sexual partner (women = 0.7% and men = 1.7%).
+Conclusions: Screening based upon oncogenic oral HPV detection would be
+challenging. Most groups have low oncogenic oral HPV prevalence. In addition to
+the large numbers of individuals who would need to be screened to identify
+prevalent oncogenic oral HPV, the lifetime risk of developing oropharyngeal caner
+among those with infection remains low.
+
+© The Author 2017. Published by Oxford University Press on behalf of the European
+Society for Medical Oncology. All rights reserved. For Permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/annonc/mdx535 
+PMCID: PMC5834136
+PMID: 29059337  [Indexed for MEDLINE]

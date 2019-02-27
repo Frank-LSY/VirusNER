@@ -1,0 +1,30 @@
+
+
+1571. Head Neck Pathol. 2014 Mar;8(1):50-8. doi: 10.1007/s12105-014-0528-6. Epub 2014
+Mar 5.
+
+Human papillomavirus and Epstein Barr virus in head and neck carcinomas:
+suggestions for the new WHO classification.
+
+Lewis JS Jr(1), Chernock RD.
+
+Author information: 
+(1)Division of Anatomic and Molecular Pathology, Department of Pathology and
+Immunology, Washington University School of Medicine, Campus Box 8118, 660 S.
+Euclid Ave., St. Louis, MO, 63110, USA, jlewis@path.wustl.edu.
+
+In the 9 years since the last World Health Organization (WHO) classification for 
+head and neck tumors, a great deal has changed. In particular, human
+papillomavirus (HPV) has emerged as the major etiologic agent and patient
+prognostic marker for squamous cell carcinoma, most profoundly in the oropharynx.
+It also casts a long shadow over all of the rest of head and neck cancer given
+its biologic and prognostic implications. By contrast, little has changed
+regarding our knowledge of Epstein-Barr virus in head and neck cancers, except as
+it relates to HPV in nonkeratinizing-type nasopharyngeal carcinomas. This article
+discusses some of the major advances in our understanding of virus-related
+squamous cell carcinoma of the head and neck and suggests several specific
+concepts and terminology for incorporation into the next WHO classification.
+
+DOI: 10.1007/s12105-014-0528-6 
+PMCID: PMC3950388
+PMID: 24595417  [Indexed for MEDLINE]

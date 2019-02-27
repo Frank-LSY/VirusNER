@@ -1,0 +1,53 @@
+
+
+2101. Semin Cancer Biol. 2018 Oct;52(Pt 2):228-240. doi:
+10.1016/j.semcancer.2018.01.008. Epub 2018 Jan 31.
+
+Head and neck squamous cell carcinoma: Genomics and emerging biomarkers for
+immunomodulatory cancer treatments.
+
+Solomon B(1), Young RJ(2), Rischin D(3).
+
+Author information: 
+(1)Department of Medical Oncology, Peter MacCallum Cancer Centre, 305 Grattan St,
+Melbourne, Victoria 3000, Australia; Research Division, Peter MacCallum Cancer
+Centre, 305 Grattan St, Melbourne, Victoria 3000, Australia; Sir Peter MacCallum 
+Department of Oncology, University of Melbourne, Parkville, Victoria 3052,
+Australia. Electronic address: ben.solomon@petermac.org.
+(2)Research Division, Peter MacCallum Cancer Centre, 305 Grattan St, Melbourne,
+Victoria 3000, Australia.
+(3)Department of Medical Oncology, Peter MacCallum Cancer Centre, 305 Grattan St,
+Melbourne, Victoria 3000, Australia; Sir Peter MacCallum Department of Oncology, 
+University of Melbourne, Parkville, Victoria 3052, Australia.
+
+Head and neck squamous cell carcinoma (HNSCC) comprises a heterogeneous group of 
+tumors that arise from the squamous epithelium of the oral cavity, oropharynx,
+larynx and hypopharynx. While many HNSCCs are related to classical etiologic
+factors of smoking and alcohol, a clinically, genomically, and immunologically
+distinct subgroup of tumors arise from the epithelium of the tonsil and the base 
+of tongue as a result of infection with Human Papilloma Virus (HPV). In this
+review we describe the genomic and immunologic landscape of HNSCC, highlighting
+differences between HPV-positive and HPV-negative HNSCC. While HPV-negative
+tumors are characterized by tobacco-associated mutations in genes including TP53 
+and CDKN2A, in HPV-positive HNSCC integration of viral genome from HPV into the
+host cellular genome results in expression of the E6 and E7 viral oncoproteins,
+with consequent degradation of p53 and functional inactivation of Rb. The immune 
+microenvironment of HNSCC is characterized by changes in immune cell populations,
+immune checkpoints, as well as tumor or microenvironmental factors that alter the
+balance of the immune milieu in favor of immunosuppression, allowing tumor
+evasion and escape from immune surveillance. Immune therapies, in particular
+those targeting the PD1 receptor or its ligand PD-L1, including nivolumab,
+pembrolizumab, durvalumab, and atezolizumab have shown significant efficacy in
+subsets of patients with HNSCC. Current trials are evaluating the efficacy of
+these agents in combination with chemotherapy, radiotherapy and other immune
+therapies including CTLA-4 and IDO-1 inhibitors. While biomarkers including PD-L1
+expression, PD-L2 expression and the interferon-gamma gene signature show
+potential to predict benefit from checkpoint inhibitor therapy - it is hoped that
+improved understanding of the genomic and immune landscape will lead to ways to
+improved strategies to stratify patients and to select which HNSCC are most
+likely to benefit from these therapies.
+
+Copyright © 2018 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.semcancer.2018.01.008 
+PMID: 29355614  [Indexed for MEDLINE]

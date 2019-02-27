@@ -1,0 +1,45 @@
+
+
+776. J Med Virol. 2015 Aug;87(8):1258-67. doi: 10.1002/jmv.24165. Epub 2015 May 4.
+
+Japanese encephalitis associated acute encephalitis syndrome cases in West
+Bengal, India: A sero-molecular evaluation in relation to clinico-pathological
+spectrum.
+
+Sarkar A(1), Datta S(2), Pathak BK(3), Mukhopadhyay SK(4), Chatterjee S(1).
+
+Author information: 
+(1)ICMR Virus, ID & BG Hospital, Kolkata, West Bengal, India.
+(2)IPGME&R, Kolkata, West Bengal, India.
+(3)Department of Biotechnology, St. Xavier's College, Kolkata, West Bengal,
+India.
+(4)Department of Microbiology, The University of Burdwan, Golapbag, Burdwan, West
+Bengal, India.
+
+Japanese encephalitis (JE) is a major public health problem in Asia and worldwide
+and it is responsible mainly for viral acute encephalitis syndrome (AES). The
+sole etiologic agent of JE is Japanese encephalitis virus (JEV). Although JE/AES 
+cases have been regarded traditionally as a disease of children, a growing number
+of patients with JE/AES cases are also seen in the adult age group every year in 
+the state of West Bengal, India in spite of vaccination. Therefore, a systematic 
+study was performed to differentiate and characterize the clinico-pathological
+parameters and viral diversity among the patients of different age groups. Viral 
+diversity was also evaluated from the JE/AES cases, depending on their disease
+severity. A total of 441 JE/AES cases were included in this study. By MAC-ELISA, 
+111 samples were found JEV IgM positive and among the IgM negative cases, 26
+samples were found RT-PCR positive against JEV infection. Neck rigidity, abnormal
+behavior, convulsion, protein in CSF, WBC in CSF, and aspartate transaminase in
+blood differed significantly among the patients of pediatric-adolescent and adult
+group in both IgM positive and RT-PCR positive cases. Viral diversity was
+increased significantly in the pediatric-adolescent group compared to adult
+patients. Interestingly, with the rise in disease severity the viral diversity
+was found to be increased among the patients, irrespective of their age
+distribution. Based on clinico-pathological parameters and analysis of viral
+diversity, it can be concluded that viral diversity which occurs naturally is
+likely to affect disease severity, especially in the patients of
+pediatric-adolescent group.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24165 
+PMID: 25939919  [Indexed for MEDLINE]

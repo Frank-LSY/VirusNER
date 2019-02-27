@@ -1,0 +1,36 @@
+
+
+3113. Breast Cancer Res. 2015 Jan 21;17:8. doi: 10.1186/s13058-014-0498-3.
+
+Molecular mechanism and clinical impact of APOBEC3B-catalyzed mutagenesis in
+breast cancer.
+
+Harris RS.
+
+Cancer genomic DNA sequences enable identification of all mutations and suggest
+targets for precision medicine. The identities and patterns of the mutations
+themselves also provide critical information for deducing the originating DNA
+damaging agents, causal molecular mechanisms, and thus additional therapeutic
+targets. A classic example is ultraviolet light, which crosslinks adjacent
+pyrimidines and leads to C-to-T transitions. A new example is the DNA cytosine
+deaminase APOBEC3B, which was identified recently as a source of DNA damage and
+mutagenesis in breast, head/neck, cervix, bladder, lung, ovary, and to lesser
+extents additional cancer types. This enzyme is normally an effector protein in
+the innate immune response to virus infection but upregulation in these cancer
+types causes elevated levels of genomic C-to-U deamination events, which manifest
+as C-to-T transitions and C-to-G transversions within distinct DNA trinucleotide 
+contexts (preferentially 5'-TCA and 5'-TCG). Genomic C-to-U deamination events
+within the same trinucleotide contexts also lead to cytosine mutation clusters
+(kataegis), and may precipitate visible chromosomal aberrations such as
+translocations. Clinical studies indicate that APOBEC3B upregulation correlates
+with poorer outcomes for estrogen receptor-positive breast cancer patients,
+including shorter durations of disease-free survival and overall survival after
+surgery. APOBEC3B may therefore have both diagnostic and prognostic potential.
+APOBEC3B may also be a candidate for therapeutic targeting because inhibition of 
+this non-essential enzyme is predicted to decrease tumor mutation rates and
+diminish the likelihood of undesirable mutation-dependent outcomes such as
+recurrence, metastasis, and the development of therapy resistant tumors.
+
+DOI: 10.1186/s13058-014-0498-3 
+PMCID: PMC4303225
+PMID: 25848704  [Indexed for MEDLINE]

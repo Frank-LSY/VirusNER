@@ -1,0 +1,39 @@
+
+
+3159. Cancer Immunol Immunother. 2011 Jan;60(1):61-73. doi: 10.1007/s00262-010-0919-9. 
+Epub 2010 Sep 17.
+
+Lenalidomide enhances antibody-dependent cellular cytotoxicity of solid tumor
+cells in vitro: influence of host immune and tumor markers.
+
+Wu L(1), Parton A, Lu L, Adams M, Schafer P, Bartlett JB.
+
+Author information: 
+(1)Celgene Corporation, 86 Morris Ave, Summit, NJ 07901, USA.
+
+We evaluated the effect of combining lenalidomide with therapeutic antibodies on 
+antibody-dependant cell-mediated cytotoxicity (ADCC) of solid tumor cells, and
+the requirement for expression of natural killer (NK) cell-activating receptors
+and their solid tumor surface ligands. Twenty-three human tumor cell lines
+(colon, breast, lung, head and neck, ovary, and bone sarcoma) were analyzed. NK
+effector cells were isolated from healthy donors, pre-treated with and without
+lenalidomide, and incubated with antibody-coated tumor cells to determine ADCC.
+In blocking experiments, NK cells were pre-incubated with anti-DNAM-1 or
+anti-NKG2D antibodies, and target colorectal cells were pre-incubated with
+anti-CD155 (PVR), anti-MIC-A/B, or anti-ULBP 3 antibodies. Differences between
+groups were assessed using unpaired and paired Student's t test and one-way
+ANOVA. Lenalidomide enhanced NK cell-mediated ADCC of trastuzumab- and
+cetuximab-coated tumor cells. Activity against colorectal cancer cells was
+dependent on target antigen expression, but independent of KRAS status and
+FcγRIIIa genotype. The extent of ADCC and its enhancement by lenalidomide
+correlated with NK cell expression of NKG2D and DNAM-1, and tumor cell expression
+of PVR and MIC-A. Blocking of NKG2D and, to a lesser extent, DNAM-1 inhibited
+ADCC. Anti-MIC-A/B monoclonal antibody blocked natural cytotoxicity, but not
+ADCC. Lenalidomide enhances the ability of IgG1-isotype antibodies to mediate
+ADCC of solid tumor cells, the extent of which is largely dependent on
+NKG2D-NKG2D ligand interactions, but appears to be independent of MIC-A/B. This
+provides a rationale for exploratory clinical studies and an assessment of
+potential biomarkers predictive of clinical benefit.
+
+DOI: 10.1007/s00262-010-0919-9 
+PMID: 20848094  [Indexed for MEDLINE]

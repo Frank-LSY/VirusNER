@@ -1,0 +1,42 @@
+
+
+2722. Cancer Epidemiol Biomarkers Prev. 2011 Jun;20(6):1230-7. doi:
+10.1158/1055-9965.EPI-10-1262. Epub 2011 Apr 5.
+
+Relationship between epidermal growth factor receptor status, p16(INK4A), and
+outcome in head and neck squamous cell carcinoma.
+
+Young RJ(1), Rischin D, Fisher R, McArthur GA, Fox SB, Peters LJ, Corry J, Lim A,
+Waldeck K, Solomon B.
+
+Author information: 
+(1)Research Division, Peter MacCallum Cancer Centre, Melbourne, Victoria,
+Australia.
+
+BACKGROUND: Human papilloma virus (HPV) infection is a powerful prognostic
+biomarker in head and neck squamous cell carcinoma (HNSCC). Increased epidermal
+growth factor receptor (EGFR) gene copy number and protein expression have been
+reported to be negative predictors of outcome. This study examined the
+relationship between HPV status, EGFR gene copy number, EGFR protein expression, 
+and clinical outcome in HNSCC patients treated with chemoradiation.
+METHODS: HPV status was determined using p16(INK4A) immunohistochemistry (IHC),
+EGFR gene copy number was evaluated with FISH, and EGFR protein expression by IHC
+in 212 subjects.
+RESULTS: EGFR FISH was positive in 41 of 204 (20%) patients and was negatively
+correlated with failure-free survival (FFS; HR = 1.84, P = 0.027) and overall
+survival (OS; HR = 1.78, P = 0.082). For p16(INK4A), 85 of 200 (42.5%) patients
+were found to be p16 positive, including 75 of 131 (57%) with oropharyngeal
+cancer. Patients with p16-positive oropharyngeal cancer had significantly
+improved FFS (HR = 0.28, P < 0.001) and OS (HR = 0.31, P = 0.002). Only 2 of 126 
+(1.6%) oropharyngeal cancer patients were found to be p16+/EGFR FISH+. EGFR IHC
+was positive in 81 of 93 (87%) of patients and was associated with poorer FFS (HR
+= 1.98, P = 0.35) and OS (HR = 2.52, P = 0.22).
+CONCLUSIONS: Increased EGFR gene copy number is largely restricted to
+p16(INK4A)-negative oropharyngeal cancer. Although p16(INK4A) and EGFR FISH are
+both predictive of outcome in univariate analyses, only p16(INK4A) remains
+independently predictive.
+IMPACT: Knowledge of HPV and EGFR status can have implications for treatment
+options and prognosis in HNSCC.
+
+DOI: 10.1158/1055-9965.EPI-10-1262 
+PMID: 21467228  [Indexed for MEDLINE]

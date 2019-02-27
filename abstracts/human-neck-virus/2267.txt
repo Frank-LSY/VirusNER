@@ -1,0 +1,58 @@
+
+Conflict of interest statement: No potential conflicts of interest are disclosed.
+
+
+2267. JAMA Otolaryngol Head Neck Surg. 2017 Jun 1;143(6):614-622. doi:
+10.1001/jamaoto.2016.4736.
+
+Adjuvant Human Papillomavirus Vaccination for Secondary Prevention: A Systematic 
+Review.
+
+Dion GR(1), Teng S(1), Boyd LR(2), Northam A(1), Mason-Apps C(1), Vieira D(3),
+Amin MR(1), Branski RC(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, New York University School
+of Medicine, New York, New York.
+(2)Department of Obstetrics and Gynecology, New York University School of
+Medicine, New York, New York.
+(3)Department of Medical Library Services, New York University School of
+Medicine, New York, New York.
+
+Importance: Human papillomavirus (HPV) vaccination is recommended for children
+and younger adults but not older adults or those with prior HPV exposure, leaving
+a large portion of the population at risk for HPV-mediated disease. Emerging data
+suggest a possible role for vaccination as an adjuvant treatment for individuals 
+with HPV-related clinical disease.
+Objective: To systematically review the literature regarding HPV vaccination for 
+secondary disease prevention after treatment of active clinical disease across
+disease sites to serve as a platform for the management of HPV-related disease of
+the head and neck.
+Evidence Review: A systematic search from August 3 to 21, 2015, of the PubMed,
+MEDLINE, EMBASE, CINAHL, Cochrane Library, Web of Science, Biosis Citation Index,
+Current Contents Connect, Scientific Library Online, and Global Health databases 
+used PRISMA guidelines to identify 326 relevant articles related to adjuvant use 
+of HPV vaccination. Primary search terms were (HPV vaccine OR human
+papillomavirus vaccine OR papillomarvirus vaccines OR alphapapillomavirus
+vaccine) AND (HPV OR human papillomavirus OR alphapapillomavirus OR
+papillomaviridae OR virus warts OR wart virus) AND (recurrence OR relapse OR
+reoccurrence OR recurrences OR relapses OR relapsing). Forty-five full texts in
+English were reviewed, with 19 articles included in the final review. In some
+studies, subpopulations of individuals with HPV DNA positivity and/or
+seropositivity were extracted for inclusion. Included studies were assessed for
+bias and separated based on the presence of active clinical disease or HPV DNA
+positivity or seropositivity.
+Findings: Nineteen studies with 22 474 unique patients were included in the
+review. When HPV vaccination was used as an adjuvant treatment for active
+clinical disease, 9 of 12 studies reported decreased disease recurrence,
+decreased disease burden, or increased intersurgical interval. In contrast, none 
+of the 7 studies of vaccination in individuals with HPV DNA positivity and/or
+seropositivity without clinical disease reported improved outcomes.
+Conclusions and Relevance: Differences between adjuvant vaccination in
+HPV-mediated clinical disease and vaccination in HPV DNA-positive and/or
+HPV-seropositive populations posit underlying differences in disease and immune
+processes. These data suggest that additional evaluation of adjuvant HPV
+vaccination in individuals with active clinical disease is warranted.
+
+DOI: 10.1001/jamaoto.2016.4736 
+PMID: 28334393  [Indexed for MEDLINE]

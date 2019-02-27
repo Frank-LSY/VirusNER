@@ -1,0 +1,35 @@
+
+
+2855. Int J Clin Exp Pathol. 2013 Nov 15;6(12):3014-8. eCollection 2013.
+
+Adult T-cell leukemia/lymphoma accompanying follicular mucinosis: a case report
+with review of the literature.
+
+Ishida M(1), Iwai M, Yoshida K, Kagotani A, Okabe H.
+
+Author information: 
+(1)Department of Clinical Laboratory Medicine and Division of Diagnostic
+Pathology, Shiga University of Medical Science Shiga, Japan.
+
+Follicular mucinosis is recognized as one of the histopathological reaction
+patterns characterized by the accumulation of mucin within follicular epithelium.
+It is induced by various causes including inflammatory diseases, and more than
+half of the cases are associated with malignant lymphoma, mainly mycosis
+fungoides. Herein, we describe the third documented case of adult T-cell
+leukemia/lymphoma (ATLL) accompanying follicular mucinosis. A 72-year-old
+Japanese male presented with persistent erythema in his arm and neck. Laboratory 
+tests demonstrated positivity for human T-cell leukemia virus (HTLV)-1
+antibodies. Histopathological study of the biopsy specimen from the neck revealed
+superficial perivascular, nodular, and intrafollicular lymphocytic infiltrations.
+These lymphocytes were small- to medium-sized and had convoluted nuclei. Mucoid
+material deposition was observed within the hair follicles, and it was digested
+by hyaluronidase. Immunohistochemically, these lymphocytes were positive for CD3,
+CD4, CD25, and Foxp3. Accordingly, an ultimate diagnosis of ATLL accompanying
+follicular mucinosis was made. The skin is the most common extralymphatic site of
+involvement of ATLL. The present case clearly demonstrated that albeit extremely 
+rare, ATLL can cause follicular mucinosis. Therefore, ATLL should be included in 
+the differential diagnostic consideration of follicular mucinosis.
+
+
+PMCID: PMC3843287
+PMID: 24294393  [Indexed for MEDLINE]

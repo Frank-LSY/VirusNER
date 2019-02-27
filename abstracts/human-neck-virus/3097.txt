@@ -1,0 +1,48 @@
+
+
+3097. Int J Cancer. 2017 May 15;140(10):2256-2264. doi: 10.1002/ijc.30660. Epub 2017
+Mar 13.
+
+Global trends in nasopharyngeal cancer mortality since 1970 and predictions for
+2020: Focus on low-risk areas.
+
+Carioli G(1), Negri E(2), Kawakita D(3)(4), Garavello W(5), La Vecchia C(1),
+Malvezzi M(1)(2).
+
+Author information: 
+(1)Department of Clinical Sciences and Community Health, Universitá degli Studi
+di Milano, Milan, 20133, Italy.
+(2)Department of Epidemiology, IRCCS-Istituto di Ricerche Farmacologiche 'Mario
+Negri', Milan, 20156, Italy.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, Nagoya City
+University, Graduate School of Medical Sciences, Nagoya, Japan.
+(4)Division of Molecular Medicine, Aichi Cancer Center Research Institute,
+Nagoya, Japan.
+(5)Department of Otorhinolaryngology, School of Medicine and Surgery, University 
+of Milano-Bicocca, Milan, Italy.
+
+Nasopharyngeal cancer (NPC) mortality shows great disparity between endemic high 
+risk areas, where non-keratinizing carcinoma (NKC) histology is prevalent, and
+non-endemic low risk regions, where the keratinizing squamous cell carcinoma
+(KSCC) type is more frequent. We used the World Health Organization database to
+calculate NPC mortality trends from 1970 to 2014 in several countries worldwide. 
+For the European Union (EU), the United States (US) and Japan, we also predicted 
+trends to 2020. In 2012, the highest age-standardized (world standard) rates were
+in Hong Kong (4.51/100,000 men and 1.15/100,000 women), followed by selected
+Eastern European countries. The lowest rates were in Northern Europe and Latin
+America. EU rates were 0.27/100,000 men and 0.09/100,000 women, US rates were
+0.20/100,000 men and 0.08/100,000 women and Japanese rates were 0.16/100,000 men 
+and 0.04/100,000 women. NPC mortality trends were favourable for several
+countries. The decline was -15% in men and -5% in women between 2002 and 2012 in 
+the EU, -12% in men and -9% in women in the US and about -30% in both sexes in
+Hong Kong and Japan. The favourable patterns in Europe and the United States are 
+predicted to continue. Changes in salted fish and preserved food consumption
+account for the fall in NKC. Smoking and alcohol prevalence disparities between
+sexes and geographic areas may explain the different rates and trends observed
+for KSCC and partially for NKC. Dietary patterns, as well as improvement in
+management of the disease, may partly account for the observed trends, too.
+
+© 2017 UICC.
+
+DOI: 10.1002/ijc.30660 
+PMID: 28224615  [Indexed for MEDLINE]

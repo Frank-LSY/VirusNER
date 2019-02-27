@@ -1,0 +1,41 @@
+
+
+2725. Lancet Oncol. 2017 May;18(5):e254-e265. doi: 10.1016/S1470-2045(17)30179-1. Epub 
+2017 Apr 26.
+
+Proton therapy for head and neck cancer: expanding the therapeutic window.
+
+Leeman JE(1), Romesser PB(1), Zhou Y(2), McBride S(1), Riaz N(1), Sherman E(3),
+Cohen MA(4), Cahlon O(1), Lee N(5).
+
+Author information: 
+(1)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+(2)Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New
+York, NY, USA.
+(3)Department of Medical Oncology, Memorial Sloan Kettering Cancer Center, New
+York, NY, USA.
+(4)Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY,
+USA.
+(5)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA. Electronic address: leen2@mskcc.org.
+
+Use of proton beam therapy has expanded, with the number of proton centres
+rapidly increasing not only in the USA but also worldwide. The physical
+characteristics of the proton beam offer important advantages versus widely used 
+photon techniques in terms of radiation precision. In head and neck cancer in
+particular, proton beam therapy is uniquely suited for the complex anatomy of
+tumours and sensitive surrounding organs. De-intensification and personalisation 
+of treatment to limit toxicity are of renewed importance in the context of human 
+papilloma virus-associated disease, in which young patients will be cured but
+bear the consequences of adverse effects for decades. Comparisons of radiation
+dose distributions between photon and proton techniques suggest considerable
+benefit in terms of toxicity sparing, but this has only recently been confirmed
+by substantial clinical data. In this Review, we attempt to define the role of
+this method in the contemporary multidisciplinary management of various types of 
+head and neck cancer.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(17)30179-1 
+PMID: 28456587  [Indexed for MEDLINE]

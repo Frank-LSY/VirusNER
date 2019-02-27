@@ -1,0 +1,51 @@
+
+
+335. Int J Dermatol. 2016 Jul;55(7):745-50. doi: 10.1111/ijd.12982. Epub 2015 Oct 22.
+
+Human papillomavirus type 2 associated with pyogenic granuloma in patients
+without clinical evidence of warts.
+
+Vázquez-Martínez OT(1), González-Betancourt A(2), Barboza-Cerda MC(3)(4),
+González-González SE(1), Lugo-Trampe Á(5), Welsh O(1), Rojas-Martínez A(4)(6),
+Martínez-Rodríguez HG(6), Ocampo-Candiani J(1), Ortiz-López R(4)(6).
+
+Author information: 
+(1)Servicio de Dermatología, Hospital Universitario "Dr. José E. González",
+Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, Mexico.
+(2)Laboratorio Integrativo en Biología Molecular y Celular. Centro de
+Investigaciones Odontológicas, Facultad de Odontología, Universidad de los Andes,
+Mérida, Venezuela.
+(3)Servicio de Anatomía Patológica y Citopatología, Hospital Universitario "José 
+Eleuterio González", Universidad Autónoma de Nuevo León, Monterrey, Mexico.
+(4)Centro de Investigación y Desarrollo en Ciencias de la Salud (CIDICS),
+Universidad Autónoma de Nuevo León, Monterrey, Nuevo León, Mexico.
+(5)Centro Mesoamericano de Estudios en Salud Pública y Desastres (CEMESAD),
+Universidad Autónoma de Chiapas (UNACH), Tapachula, Chiapas, Mexico.
+(6)Laboratorio de Genética Molecular, Departamento de Bioquímica y Medicina
+Molecular, Facultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey,
+Nuevo León, Mexico.
+
+BACKGROUND: Pyogenic granuloma is a non-neoplastic lesion that frequently occurs 
+in the skin and mucous membranes of children and pregnant women. The anatomical
+sites of pyogenic granulomas overlap with those of wart infections caused by the 
+human papillomavirus (HPV).
+OBJECTIVE: This study assessed the presence of HPV DNA in pyogenic granuloma
+samples by polymerase chain reaction.
+METHODS: Eighteen pyogenic granuloma biopsies from patients without a clinical
+history or evidence of verruca in the studied area were tested for the presence
+of the HPV genome. The presence of HPV DNA was screened by three independent
+polymerase chain reaction reactions using standard consensus primer sets targeted
+to the L1 or E1 consensus regions of HPV genome. The HPV DNA-positive samples
+were genotyped using methodologies enabling the identification of up to 30 HPVs, 
+including oncogenic, nononcogenic, and cutaneous viral types.
+RESULTS: The HPV DNA was detected in 44.4% (eight of 18) of the samples, with
+HPV-2 being the only type in the eight HPV DNA-positive samples. Contamination
+with HPV-2 sequences throughout the entire process was reliably eliminated.
+CONCLUSION: This report is the first to suggest an association between HPV-2 and 
+pyogenic granuloma. This relationship is similar to that observed between HPV-2
+and nongenital warts.
+
+© 2015 The International Society of Dermatology.
+
+DOI: 10.1111/ijd.12982 
+PMID: 26492599  [Indexed for MEDLINE]

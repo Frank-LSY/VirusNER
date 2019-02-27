@@ -1,0 +1,50 @@
+
+
+1085. Front Immunol. 2018 Jul 30;9:1586. doi: 10.3389/fimmu.2018.01586. eCollection
+2018.
+
+Entry Inhibition and Modulation of Pro-Inflammatory Immune Response Against
+Influenza A Virus by a Recombinant Truncated Surfactant Protein D.
+
+Al-Ahdal MN(1), Murugaiah V(2), Varghese PM(2), Abozaid SM(1), Saba I(1),
+Al-Qahtani AA(1), Pathan AA(2), Kouser L(2)(3), Nal B(2), Kishore U(2).
+
+Author information: 
+(1)Department of Infection and Immunity, King Faisal Specialist Hospital and
+Research Centre, Riyadh, Saudi Arabia.
+(2)Biosciences, College of Health and Life Sciences, Brunel University London,
+Uxbridge, United Kingdom.
+(3)Allergy & Clinical Immunology Inflammation, Repair and Development, Imperial
+College London, London, United Kingdom.
+
+Surfactant protein D (SP-D) is expressed in the mucosal secretion of the lung and
+contributes to the innate host defense against a variety of pathogens, including 
+influenza A virus (IAV). SP-D can inhibit hemagglutination and infectivity of
+IAV, in addition to reducing neuraminidase (NA) activity via its carbohydrate
+recognition domain (CRD) binding to carbohydrate patterns (N-linked mannosylated)
+on NA and hemagglutinin (HA) of IAV. Here, we demonstrate that a recombinant
+fragment of human SP-D (rfhSP-D), containing homotrimeric neck and CRD regions,
+acts as an entry inhibitor of IAV and downregulates M1 expression considerably in
+A549 cells challenged with IAV of H1N1 and H3N2 subtypes at 2 h treatment. In
+addition, rfhSP-D downregulated mRNA levels of TNF-α, IFN-α, IFN-β, IL-6, and
+RANTES, particularly during the initial stage of IAV infection of A549 cell line.
+rfhSP-D also interfered with IAV infection of Madin Darby canine kidney (MDCK)
+cells through HA binding. Furthermore, rfhSP-D was found to reduce luciferase
+reporter activity in MDCK cells transduced with H1+N1 pseudotyped lentiviral
+particles, where 50% of reduction was observed with 10 µg/ml rfhSP-D, suggestive 
+of a critical role of rfhSP-D as an entry inhibitor against IAV infectivity.
+Multiplex cytokine array revealed that rfhSP-D treatment of IAV challenged A549
+cells led to a dramatic suppression of key pro-inflammatory cytokines and
+chemokines. In the case of pH1N1, TNF-α, IFN-α, IL-10, IL-12 (p40), VEGF, GM-CSF,
+and eotaxin were considerably suppressed by rfhSP-D treatment at 24 h. However,
+these suppressive effects on IL-10, VEGF, eotaxin and IL-12 (p40) were not so
+evident in the case of H3N2 subtype, with the exception of TNF-α, IFN-α, and
+GM-CSF. These data seem to suggest that the extent of immunomodulatory effect of 
+SP-D on host cells can vary considerably in a IAV subtype-specific manner. Thus, 
+rfhSP-D treatment can downregulate pro-inflammatory milieu encouraged by IAV that
+otherwise causes aberrant inflammatory cell recruitment leading to cell death and
+lung damage.
+
+DOI: 10.3389/fimmu.2018.01586 
+PMCID: PMC6077238
+PMID: 30105014  [Indexed for MEDLINE]

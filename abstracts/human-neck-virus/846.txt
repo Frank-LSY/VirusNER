@@ -1,0 +1,24 @@
+
+
+846. Biosci Biotechnol Biochem. 2014;78(7):1203-5. doi: 10.1080/09168451.2014.915734. 
+Epub 2014 May 29.
+
+Functional expression of recombinant human macrophage β-glucan receptor dectin-1 
+using baculovirus-silkworm expression system.
+
+Ujita M(1), Koike S, Yamauchi Y, Kiochi N, Yura H, Yamanaka M, Okumura H.
+
+Author information: 
+(1)a Laboratory of Biological Chemistry, Department of Applied Biological
+Chemistry, Faculty of Agriculture , Meijo University, Tempaku-ku , Nagoya
+468-8502 , Japan.
+
+Human macrophage dectin-1, a type II transmembrane β-glucan receptor, was
+expressed as a fusion protein with an N-terminal hexahistidine tag in a
+baculovirus-silkworm expression system and assayed for binding activity.
+Recombinant dectin-1 specifically bound to some β-glucans, and the neck domain
+and N-linked oligosaccharide chains of human dectin-1 did not affect the ligand
+binding activity and specificity of the receptor.
+
+DOI: 10.1080/09168451.2014.915734 
+PMID: 25229859  [Indexed for MEDLINE]

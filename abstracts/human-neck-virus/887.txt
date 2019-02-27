@@ -1,0 +1,44 @@
+
+
+887. Vaccine. 2017 Dec 4;35(48 Pt B):6712-6719. doi: 10.1016/j.vaccine.2017.10.015.
+Epub 2017 Oct 16.
+
+Antibody response to human papillomavirus vaccination and natural exposure in
+individuals with Fanconi Anemia.
+
+Mehta PA(1), Sauter S(2), Zhang X(2), Davies SM(2), Wells SI(2), Myers KC(2),
+Panicker G(3), Unger ER(3), Butsch Kovacic M(2).
+
+Author information: 
+(1)Cincinnati Children's Hospital Medical Center, Cincinnati, OH, United States. 
+Electronic address: Parinda.Mehta@cchmc.org.
+(2)Cincinnati Children's Hospital Medical Center, Cincinnati, OH, United States.
+(3)National Center for Emerging Zoonotic and Infectious Diseases, Centers for
+Disease Control and Prevention, Atlanta, GA, United States.
+
+Fanconi anemia (FA) is a rare genetic disorder associated with predisposition to 
+head and neck and gynecological squamous cell cancers. In the general population,
+these cancers are commonly linked to human papillomavirus (HPV) infection.
+Antibodies to natural HPV infection and HPV vaccination were evaluated in 63
+individuals with FA while considering host immune factors. Approximately 30% of
+reportedly unvaccinated participants were seropositive (HPV6-38%, HPV11-25%,
+HPV16-26%, and HPV18-26%). Seropositivity was significantly associated with
+having had sex regardless of age (p=.007). Most participants showed
+seropositivity after HPV vaccination (HPV6-100%, HPV11-100%, HPV16-100% and
+HPV18-92%). Interestingly, titers for all 4 subtypes were significantly lower in 
+the post-hematopoietic stem cell transplant (HSCT) participants compared to those
+who received the vaccine, but had not undergone HSCT (HPV6-p=.030, HPV11-p=.003, 
+HPV16-p=.018, HPV18-p=<.001). It is unclear if these titers sufficiently protect 
+from new infection since protective serologic cut offs have not yet been defined 
+for the HPV vaccine. Individual immune functions were not associated with HPV
+seropositivity, however, underlying heterogeneous immune deficiency may explain
+higher rates of seropositivity in our younger unvaccinated participants (age 4-13
+years). To better measure the efficacy of HPV vaccination in those with FA and
+other immune-compromised or cancer-prone disorders, future well-controlled
+vaccine studies are required.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2017.10.015 
+PMCID: PMC5696100
+PMID: 29042204  [Indexed for MEDLINE]

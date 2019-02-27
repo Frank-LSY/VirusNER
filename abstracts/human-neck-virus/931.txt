@@ -1,0 +1,46 @@
+
+
+931. Oncotarget. 2016 Aug 30;7(35):56781-56797. doi: 10.18632/oncotarget.10788.
+
+Gene expression analysis of TIL rich HPV-driven head and neck tumors reveals a
+distinct B-cell signature when compared to HPV independent tumors.
+
+Wood O(1), Woo J(1), Seumois G(2), Savelyeva N(1), McCann KJ(1), Singh D(2),
+Jones T(3), Peel L(1), Breen MS(1), Ward M(1), Garrido Martin E(1),
+Sanchez-Elsner T(1), Thomas G(1), Vijayanand P(1)(2), Woelk CH(1), King E(1),
+Ottensmeier C(1); SPARC Consortium.
+
+Author information: 
+(1)Faculty of Medicine, University of Southampton & University Hospital
+Southampton, Southampton, UK.
+(2)La Jolla Institute for Allergy & Immunology, La Jolla, CA, USA.
+(3)Department of Molecular and Clinical Cancer Medicine, University of Liverpool,
+Liverpool, UK.
+
+Human papilloma virus (HPV)-associated head and neck squamous cell carcinoma
+(HNSCC) has a better prognosis than it's HPV negative (HPV(-)) counterpart. This 
+may be due to the higher numbers of tumor-infiltrating lymphocytes (TILs) in HPV 
+positive (HPV(+)) tumors. RNA-Sequencing (RNA-Seq) was used to evaluate whether
+the differences in clinical behaviour simply reflect a numerical difference in
+TILs or whether there is a fundamental behavioural difference between TILs in
+these two settings. Thirty-nine HNSCC tumors were scored for TIL density by
+immunohistochemistry. After the removal of 16 TILlow tumors, RNA-Seq analysis was
+performed on 23 TILhigh/med tumors (HPV(+) n=10 and HPV(-) n=13). Using EdgeR,
+differentially expressed genes (DEG) were identified. Immune subset analysis was 
+performed using Functional Analysis of Individual RNA-Seq/ Microarray Expression 
+(FAIME) and immune gene RNA transcript count analysis. In total, 1,634 DEGs were 
+identified, with a dominant immune signature observed in HPV(+) tumors. After
+normalizing the expression profiles to account for differences in B- and T-cell
+number, 437 significantly DEGs remained. A B-cell associated signature
+distinguished HPV(+) from HPV(-) tumors, and included the DEGs CD200, GGA2,
+ADAM28, STAG3, SPIB, VCAM1, BCL2 and ICOSLG; the immune signal relative to
+T-cells was qualitatively similar between TILs of both tumor cohorts. Our
+findings were validated and confirmed in two independent cohorts using TCGA data 
+and tumor-infiltrating B-cells from additional HPV(+) HNSCC patients. A B-cell
+associated signal segregated tumors relative to HPV status. Our data suggests
+that the role of B-cells in the adaptive immune response to HPV(+) HNSCC requires
+re-assessment.
+
+DOI: 10.18632/oncotarget.10788 
+PMCID: PMC5302866
+PMID: 27462861  [Indexed for MEDLINE]

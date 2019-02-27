@@ -1,0 +1,41 @@
+
+
+10. Cancer Sci. 2018 Jan;109(1):241-249. doi: 10.1111/cas.13440. Epub 2017 Dec 7.
+
+Investigating the hepatitis B virus life cycle using engineered reporter
+hepatitis B viruses.
+
+Nishitsuji H(1), Harada K(1), Ujino S(1), Zhang J(2), Kohara M(3), Sugiyama M(1),
+Mizokami M(1), Shimotohno K(1).
+
+Author information: 
+(1)Research Center for Hepatitis and Immunology, National Center for Global
+Health and Medicine, Ichikawa, Japan.
+(2)Research and Development Center, FUSO Pharmaceutical Industries, Osaka, Japan.
+(3)Department of Microbiology and Cell Biology, Tokyo Metropolitan Institute of
+Medical Science, Tokyo, Japan.
+
+Chronic infection with hepatitis B virus (HBV) increases the risk of developing
+fibrosis, cirrhosis or hepatocellular carcinoma. Current therapies are limited to
+type-I interferons and/or nucleos(t)ide analogues; however, these are only
+partially effective. The development of novel anti-HBV agents for new treatment
+strategies has been hampered by the lack of a suitable system that allows the
+in vitro replication of HBV. Studies of virus infection/replication at the
+molecular level using wild-type HBV are labor-intensive and time-consuming. To
+overcome these problems, we previously constructed a recombinant reporter HBV
+bearing the NanoLuc gene and showed its usefulness in identifying factors that
+affect HBV proliferation. Because this system mimics the early stage of the HBV
+life cycle faithfully, we conducted a quantitative analysis of HBV infectivity to
+several human hepatocyte cell lines as well as the effect of dimethyl sulfoxide
+and HBV protein X on the early stage of HBV proliferation using this system.
+Furthermore, we developed a system to produce a reporter HBV expressing a pol
+gene. These reporter HBV may provide an opportunity to enhance our understanding 
+of the HBV life cycle and aid strategies for the development of new anti-HBV
+agents.
+
+© 2017 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd 
+on behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.13440 
+PMCID: PMC5765299
+PMID: 29121422  [Indexed for MEDLINE]

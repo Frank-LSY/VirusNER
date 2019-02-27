@@ -1,0 +1,68 @@
+
+
+2261. Eur J Cancer. 2015 Dec;51(18):2759-67. doi: 10.1016/j.ejca.2015.09.005. Epub 2015
+Nov 18.
+
+Human papillomavirus genotype and oropharynx cancer survival in the United States
+of America.
+
+Goodman MT(1), Saraiya M(2), Thompson TD(3), Steinau M(4), Hernandez BY(5), Lynch
+CF(6), Lyu CW(7), Wilkinson EJ(8), Tucker T(9), Copeland G(10), Peters ES(11),
+Altekruse S(12), Unger ER(4).
+
+Author information: 
+(1)Cancer Prevention and Control Program, Samuel Oschin Comprehensive Cancer
+Institute, Cedars-Sinai Medical Center, Los Angeles, CA, USA. Electronic address:
+marc.goodman@cshs.org.
+(2)Division of Cancer Prevention and Control, National Center for Chronic Disease
+Prevention and Health Promotion, Centers for Disease Control and Prevention,
+Atlanta, GA, USA. Electronic address: msaraiya@cdc.gov.
+(3)Division of Cancer Prevention and Control, National Center for Chronic Disease
+Prevention and Health Promotion, Centers for Disease Control and Prevention,
+Atlanta, GA, USA.
+(4)Division of High-Consequence Pathogens and Pathology, National Center for
+Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and
+Prevention, Atlanta, GA, USA.
+(5)University of Hawaii Cancer Center, University of Hawaii, Honolulu, HI, USA.
+(6)Department of Epidemiology, College of Public Health, The University of Iowa, 
+Iowa City, IA, USA.
+(7)Battelle Memorial Institute, Durham, NC, USA.
+(8)Department of Pathology, Immunology, and Laboratory Medicine, College of
+Medicine, University of Florida, Gainesville, FL, USA.
+(9)Department of Epidemiology, College of Public Health, University of Kentucky, 
+Lexington, KY, USA.
+(10)Michigan Department of Community Health, Lansing, MI, USA.
+(11)Department of Epidemiology, School of Public Health, Louisiana State
+University Health Sciences Center, New Orleans, LA, USA.
+(12)Division of Cancer Control and Population Sciences, National Cancer
+Institute, Rockville, MD, USA.
+
+BACKGROUND: The presence of human papillomavirus (HPV) DNA in oropharyngeal
+squamous cell cancer (OPSCC) tissue appears to be a strong predictor of improved 
+prognosis, but this observation has not been explored in a population-based
+sample with generalisable findings.
+METHODS: Follow-up data from a large sample of OPSCC patients identified through 
+six population-based cancer registries in the United States of America (USA) were
+used to characterise the association of tumour HPV status with survival.
+RESULTS: HPV DNA was detected in tumour tissue from 71% (378 in 529) of the OPSCC
+patients. A total of 65% of patients with HPV16-associated tumours survived 5
+years compared to 46% of patients with other HPV types and 28% of patients with
+HPV-negative tumours (p log-rank test <0.0001). The OPSCC patients with
+detectable HPV16 DNA had a 62% reduced hazard of death at 5 years, and patients
+with other HPV types had a 42% reduced hazard of death at 5 years compared to
+HPV-negative patients. Compared to non-Hispanic Whites, Blacks with OPSCC had a
+2.6-fold greater risk of death at 5 years after adjustment for HPV status and
+other prognostic variables. Both surgery and radiation therapy were associated
+with a reduced 5-year risk of death, but no evidence was found for an interaction
+between HPV status and radiotherapy or surgery on survival time.
+CONCLUSIONS: Data from this US study suggest that HPV16-positive OPSCC patients
+survive longer than HPV-negative patients regardless of treatment, highlighting
+the prognostic importance of HPV status for this malignancy. Optimal treatment
+regimens for OPSCC could be tailored to each patient's HPV status and prognostic 
+profile.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2015.09.005 
+PMCID: PMC4666760
+PMID: 26602016  [Indexed for MEDLINE]

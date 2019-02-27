@@ -1,0 +1,59 @@
+
+
+1021. Proc Natl Acad Sci U S A. 2016 Feb 16;113(7):1883-8. doi:
+10.1073/pnas.1522675113. Epub 2016 Feb 8.
+
+Clonally expanded CD4+ T cells can produce infectious HIV-1 in vivo.
+
+Simonetti FR(1), Sobolewski MD(2), Fyne E(2), Shao W(3), Spindler J(4), Hattori
+J(4), Anderson EM(4), Watters SA(4), Hill S(4), Wu X(3), Wells D(3), Su L(3),
+Luke BT(3), Halvas EK(2), Besson G(2), Penrose KJ(2), Yang Z(5), Kwan RW(6), Van 
+Waes C(7), Uldrick T(8), Citrin DE(9), Kovacs J(10), Polis MA(6), Rehm CA(6),
+Gorelick R(11), Piatak M(11), Keele BF(11), Kearney MF(4), Coffin JM(12), Hughes 
+SH(4), Mellors JW(2), Maldarelli F(13).
+
+Author information: 
+(1)HIV Dynamics and Replication Program, National Cancer Institute, Frederick, MD
+21702; Department of Biomedical and Clinical Sciences L. Sacco, University of
+Milan, 20157 Milan, Italy;
+(2)Department of Medicine, University of Pittsburgh, Pittsburgh, PA 15261;
+(3)Leidos Biomedical Research, Inc., Frederick National Laboratory for Cancer
+Research, Frederick, MD 21702;
+(4)HIV Dynamics and Replication Program, National Cancer Institute, Frederick, MD
+21702;
+(5)Laboratory of Pathology, National Cancer Institute, Bethesda, MD 20892;
+(6)Laboratory of Immunoregulation, National Institute of Allergy and Infectious
+Diseases, National Institutes of Health, Bethesda, MD 20892;
+(7)National Institute on Deafness and Communication Disorders Head and Neck
+Surgery Branch, National Institute on Deafness and Communication Disorders,
+National Institutes of Health, Bethesda, MD 20892; Radiation Oncology Branch,
+National Cancer Institute, Bethesda, MD 20892;
+(8)HIV and AIDS Malignancy Branch, National Cancer Institute, Bethesda, MD 20892;
+(9)Radiation Oncology Branch, National Cancer Institute, Bethesda, MD 20892;
+(10)Critical Care Medicine Department, National Institutes of Health Clinical
+Center, National Institutes of Health, Bethesda, MD 20892;
+(11)AIDS and Cancer Virus Program, Leidos Biomedical Research, Inc., Frederick
+National Laboratory, Frederick, MD 21702;
+(12)Department of Molecular Biology and Microbiology, Tufts University, Boston,
+MA 02111 john.coffin@tufts.edu fmalli@mail.nih.gov.
+(13)HIV Dynamics and Replication Program, National Cancer Institute, Frederick,
+MD 21702; john.coffin@tufts.edu fmalli@mail.nih.gov.
+
+Comment in
+    Proc Natl Acad Sci U S A. 2016 Feb 16;113(7):1692-4.
+
+Reservoirs of infectious HIV-1 persist despite years of combination
+antiretroviral therapy and make curing HIV-1 infections a major challenge. Most
+of the proviral DNA resides in CD4(+)T cells. Some of these CD4(+)T cells are
+clonally expanded; most of the proviruses are defective. It is not known if any
+of the clonally expanded cells carry replication-competent proviruses. We report 
+that a highly expanded CD4(+) T-cell clone contains an intact provirus. The
+highly expanded clone produced infectious virus that was detected as persistent
+plasma viremia during cART in an HIV-1-infected patient who had squamous cell
+cancer. Cells containing the intact provirus were widely distributed and
+significantly enriched in cancer metastases. These results show that clonally
+expanded CD4(+)T cells can be a reservoir of infectious HIV-1.
+
+DOI: 10.1073/pnas.1522675113 
+PMCID: PMC4763755
+PMID: 26858442  [Indexed for MEDLINE]

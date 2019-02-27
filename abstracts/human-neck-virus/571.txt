@@ -1,0 +1,27 @@
+
+
+571. Cold Spring Harb Perspect Biol. 2013 Jul 1;5(7). pii: a012997. doi:
+10.1101/cshperspect.a012997.
+
+Human papillomavirus infections: warts or cancer?
+
+Chow LT(1), Broker TR.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Genetics, University of Alabama at
+Birmingham, Birmingham, Alabama 35294-0005, USA.
+
+Human papillomaviruses (HPVs) are prevalent pathogens of mucosal and cutaneous
+epithelia. Productive infections of squamous epithelia lead to benign
+hyperproliferative warts, condylomata, or papillomas. Persistent infections of
+the anogenital mucosa by high-risk HPV genotypes 16 and 18 and closely related
+types can infrequently progress to high-grade intraepithelial neoplasias,
+carcinomas-in-situ, and invasive cancers in women and men. HPV-16 is also
+associated with a fraction of head and neck cancers. We discuss the interactions 
+of the mucosotropic HPVs with the host regulatory proteins and pathways that lead
+to benign coexistence and enable HPV DNA amplification or, alternatively, to
+cancers that no longer support viral production.
+
+DOI: 10.1101/cshperspect.a012997 
+PMCID: PMC3685896
+PMID: 23685995  [Indexed for MEDLINE]

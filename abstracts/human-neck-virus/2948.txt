@@ -1,0 +1,93 @@
+
+
+2948. Health Technol Assess. 2017 Nov;21(72):1-312. doi: 10.3310/hta21720.
+
+Preventing blood-borne virus infection in people who inject drugs in the UK:
+systematic review, stakeholder interviews, psychosocial intervention development 
+and feasibility randomised controlled trial.
+
+Gilchrist G(1), Swan D(1), Shaw A(2), Keding A(3), Towers S(4), Craine N(5),
+Munro A(2), Hughes E(6), Parrott S(3), Mdege N(3), Strang J(1), Taylor A(2),
+Watson J(3).
+
+Author information: 
+(1)National Addiction Centre, Institute of Psychiatry, Psychology and
+Neuroscience, King's College London, London, UK.
+(2)School of Media, Culture and Society, University of the West of Scotland,
+Paisley, UK.
+(3)Department of Health Sciences, University of York, York, UK.
+(4)Betsi Cadwaladr University Health Board, Bangor, UK.
+(5)Public Health Wales, Microbiology, Bangor, UK.
+(6)Centre for Applied Research in Health, School of Human and Health Sciences,
+University of Huddersfield, Huddersfield, UK.
+
+BACKGROUND: Opioid substitution therapy and needle exchanges have reduced
+blood-borne viruses (BBVs) among people who inject drugs (PWID). Some PWID
+continue to share injecting equipment.
+OBJECTIVES: To develop an evidence-based psychosocial intervention to reduce BBV 
+risk behaviours and increase transmission knowledge among PWID, and conduct a
+feasibility trial among PWID comparing the intervention with a control.
+DESIGN: A pragmatic, two-armed randomised controlled, open feasibility trial.
+Service users were Steering Group members and co-developed the intervention. Peer
+educators co-delivered the intervention in London.
+SETTING: NHS or third-sector drug treatment or needle exchanges in Glasgow,
+London, Wrexham and York, recruiting January and February 2016.
+PARTICIPANTS: Current PWID, aged ≥ 18 years.
+INTERVENTIONS: A remote, web-based computer randomisation system allocated
+participants to a three-session, manualised, psychosocial, gender-specific group 
+intervention delivered by trained facilitators and BBV transmission information
+booklet plus treatment as usual (TAU) (intervention), or information booklet plus
+TAU (control).
+MAIN OUTCOME MEASURES: Recruitment, retention and follow-up rates measured
+feasibility. Feedback questionnaires, focus groups with participants who attended
+at least one intervention session and facilitators assessed the intervention's
+acceptability.
+RESULTS: A systematic review of what works to reduce BBV risk behaviours among
+PWID; in-depth interviews with PWID; and stakeholder and expert consultation
+informed the intervention. Sessions covered improving injecting technique and
+good vein care; planning for risky situations; and understanding BBV
+transmission. Fifty-six per cent (99/176) of eligible PWID were randomised: 52 to
+the intervention group and 47 to the control group. Only 24% (8/34) of male and
+11% (2/18) of female participants attended all three intervention sessions.
+Overall, 50% (17/34) of men and 33% (6/18) of women randomised to the
+intervention group and 47% (14/30) of men and 53% (9/17) of women randomised to
+the control group were followed up 1 month post intervention. Variations were
+reported by location. The intervention was acceptable to both participants and
+facilitators. At 1 month post intervention, no increase in injecting in 'risky'
+sites (e.g. groin, neck) was reported by participants who attended at least one
+session. PWID who attended at least one session showed a trend towards greater
+reduction in injecting risk behaviours, a greater increase in withdrawal planning
+and were more confident about finding a vein. A mean cost of £58.17 per
+participant was calculated for those attending one session, £148.54 for those
+attending two sessions and £270.67 for those attending all three sessions,
+compared with £0.86 in the control group. Treatment costs across the centres vary
+as a result of the different levels of attendance, as total session costs are
+divided by attendees to obtain a cost per attendee. The economic analysis
+suggests that a cost-effectiveness study would be feasible given the response
+rates and completeness of data. However, we have identified aspects where the
+service use questionnaire could be abbreviated given the low numbers reported in 
+several care domains. No adverse events were reported.
+CONCLUSIONS: As only 19% of participants attended all three intervention sessions
+and 47% were followed up 1 month post intervention, a future definitive
+randomised controlled trial of the intervention is not feasible. Exposure to
+information on improving injecting techniques did not encourage riskier injecting
+practices or injecting frequency, and benefits were reported among attendees. The
+intervention has the potential to positively influence BBV prevention. Harm
+reduction services should ensure that the intervention content is routinely
+delivered to PWID to improve vein care and prevent BBVs.
+FUTURE WORK: The intervention did not meet the complex needs of some PWID, more
+tailoring may be needed to reach PWID who are more frequent injectors, who are
+homeless and female.
+LIMITATIONS: Intervention delivery proved more feasible in London than other
+locations. Non-attendance at the York trial site substantially influenced the
+results.
+TRIAL REGISTRATION: Current Controlled Trials ISRCTN66453696 and PROSPERO
+014:CRD42014012969.
+FUNDING: This project was funded by the National Institute for Health Research
+Health Technology Assessment programme and will be published in full in Health
+Technology Assessment; Vol. 21, No. 72. See the NIHR Journals Library website for
+further project information.
+
+DOI: 10.3310/hta21720 
+PMCID: PMC5733383
+PMID: 29208190  [Indexed for MEDLINE]

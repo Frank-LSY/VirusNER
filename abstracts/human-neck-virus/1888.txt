@@ -1,0 +1,42 @@
+
+
+1888. Otolaryngol Head Neck Surg. 2013 Sep;149(3):409-16. doi:
+10.1177/0194599813490895. Epub 2013 Jun 4.
+
+Epigenetic modulation of signal transduction pathways in HPV-associated HNSCC.
+
+Worsham MJ(1), Chen KM, Ghanem T, Stephen JK, Divine G.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Research, Henry Ford Hospital,
+Detroit, Michigan 48202, USA. mworsha1@hfhs.org
+
+OBJECTIVE: Human papilloma virus (HPV) positive and HPV negative head and neck
+squamous cell cancer (HNSCC) are biologically distinct with a prognostic
+advantage for HPV positive patients compared to HPV negative cases. DNA promoter 
+methylation is central to human diseases such as cancer, including HNSCC, with
+reported genome-wide hypomethylaton and promoter hypermethylation in HPV positive
+HNSCC tumors. The goal of this study was to identify differentially methylated
+genes in HPV positive versus HPV negative primary HNSCC genomes with clues to
+signaling networks.
+STUDY DESIGN: Laboratory-based study.
+SETTING: Primary care academic health care system.
+SUBJECTS AND METHODS: DNA from 4 HPV positive and 4 HPV negative freshly frozen
+primary HNSCC were subject to comprehensive genome-wide methylation profiling.
+Differentially methylated gene lists were examined using the Signal Transduction 
+Pathways (canonical) filter in the Genomatix Pathway System (GePS).
+RESULTS: Twofold methylation differences were observed between HPV positive and
+HPV negative cases for 1168 genes. Pathway analysis applied to investigate the
+biological role of the 1168 differentially methylated genes revealed 8 signal
+transduction pathways forming a network of 66 genes, of which 62% are
+hypermethylated.
+CONCLUSION: Our study reveals a predominant hypermethylation profile for genes in
+signal transduction pathways of HPV positive HNSCC tumor genomes. Because
+signaling events in the cell play a critical role in the execution of key
+biological functions, insights into how complex cellular signaling cascades and
+networks may be programmed in HNSCC are likely to be critical in the development 
+of new biological agents designed to hit multiple targets.
+
+DOI: 10.1177/0194599813490895 
+PMCID: PMC3935612
+PMID: 23736812  [Indexed for MEDLINE]

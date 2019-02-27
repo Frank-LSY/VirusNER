@@ -1,0 +1,49 @@
+
+
+3004. Mol Med Rep. 2017 Nov;16(5):6570-6579. doi: 10.3892/mmr.2017.7437. Epub 2017 Sep 
+7.
+
+Profiling of differentially expressed genes in adipose tissues of multiple
+symmetric lipomatosis.
+
+Chen K(1), Wang L(1), Yang W(1), Wang C(2), Hu G(2), Mo Z(1).
+
+Author information: 
+(1)Department of Endocrinology, The Third Xiangya Hospital of Central South
+University, Changsha, Hunan 410013, P.R. China.
+(2)Department of General Surgery, The Third Xiangya Hospital of Central South
+University, Changsha, Hunan 410013, P.R. China.
+
+Multiple symmetric lipomatosis (MSL) is a rare disorder characterized by aberrant
+multiple and symmetric subcutaneous adipose tissue accumulation in the face,
+neck, shoulders, back, chest and abdomen, severely affecting the quality of life 
+of patients. At present, precise MSL etiology and pathogenesis remain to be
+elucidated. The present study first utilized a digital gene expression technique 
+with a next‑generation sequencing platform to profile differentially expressed
+genes in three cases of MSL vs. normal control tissue. cDNA libraries from these 
+tissue specimens were constructed and DNA sequenced for identification of
+differentially expressed genes, which underwent bioinformatic analysis using the 
+Gene Ontology (GO) enrichment, Kyoto Encyclopedia of Genes and Genomes (KEGG) and
+protein‑protein interaction (PPI) network analyses. As a result, a total of 859
+differentially expressed genes were identified, including 308 upregulated genes
+(C19orf80, Apelin, C21orf33, FAM166B and HSD11B2 were mostly upregulated 6.984‑, 
+4.670‑, 4.412‑, 3.693‑ and 3.561‑fold, respectively) and 551 downregulated genes 
+[FosB proto‑oncogene, AP‑1 transcription factor subunit (FOSB), selectin (SEL) E,
+RAR related orphan receptor (ROR) B, salt inducible kinase (SIK)1 and epidermal
+growth factor‑like protein (EGFL)6 were mostly downregulated ‑9.845, ‑8.243,
+‑8.123, ‑7.702 and ‑7.664 fold, respectively). The GO functional enrichment
+analysis demonstrated these differentially expressed genes were predominantly
+involved in biological processes and cellular components, while the KEGG pathway 
+enrichment analysis demonstrated that ribosome, non‑alcoholic fatty liver
+disease, human T‑lymphotropic virus type 1 (HTLV‑I) infection and Alzheimer's
+disease pathways were altered in MSL. The PPI network data demonstrated ubiquitin
+C (UBC), translocator protein (TSPO), Jun Proto‑Oncogene, AP‑1 Transcription
+Factor (JUN) and FOS were among these differentially expressed genes that
+participated in regulation of adipocyte differentiation, although no previous
+study has linked them to MSL. In conclusion, the present study profiled
+differentially expressed genes in MSL and identified gene pathways that may be
+associated with MSL development and progression.
+
+DOI: 10.3892/mmr.2017.7437 
+PMCID: PMC5865826
+PMID: 28901441  [Indexed for MEDLINE]

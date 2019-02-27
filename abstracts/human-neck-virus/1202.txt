@@ -1,0 +1,51 @@
+
+
+1202. Eur Arch Otorhinolaryngol. 2017 Nov;274(11):3837-3842. doi:
+10.1007/s00405-017-4718-1. Epub 2017 Aug 31.
+
+The role of high-risk human papillomavirus infections in laryngeal squamous cell 
+carcinoma.
+
+Wittekindt C(1), Wuerdemann N(2), Gattenlöhner S(3), Brobeil A(3), Wierzbicka
+M(4), Wagner S(1), Klußmann JP(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen, Klinikstrasse 33, 35392, Giessen, Germany.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen, Klinikstrasse 33, 35392, Giessen, Germany.
+nora.wuerdemann@hno.med.uni-giessen.de.
+(3)Department of Pathology, University of Giessen, Giessen, Germany.
+(4)Department of Otolaryngology and Laryngological Oncology, University of
+Medical Sciences, Poznan, Poland.
+
+The contribution of human papillomavirus (HPV) to the development and clinical
+outcome of oropharyngeal cancers has been well documented. The association of HPV
+in laryngeal squamous cell carcinoma (LSCC) has been examined in several studies,
+but controversy exists regarding its role in carcinogenesis, the outcome of the
+patients and thus, clinical significance of HPV testing in LSCC. In this review, 
+we give an update of known associations between HPV-positive testing and
+carcinogenesis in laryngeal cancer. In an early study, the HPV-DNA detection rate
+in LSCC was documented being 24.0% with significant regional differences.
+Non-HPV-16 types were more often detected in LSCC when compared to the
+oropharynx. Later, single institution case series revealed markedly fewer amounts
+(<10%) of HPV DNA in LSCC and the results suggested that high-risk HPV infections
+seem to be biologically irrelevant in most LSCC. The significance of p16INK4a
+(p16) expression as a surrogate marker towards high-risk HPV infection and the
+outcome in LSCC is doubtful, since only few p16-positive LSCC samples are HPV RNA
+positive and accordingly there was poor correlation of p16-test results towards
+the outcome in LSCC. Recent meta-analysis (n = 2739) and large case series
+(n = 1042) of LSCC revealed the true rate of HPV-driven LSCC being 8.6%,
+respectively, <5%. In the latter the rate of DNA-, DNA/RNA-, DNA/p16, and
+DNA/RNA/p16 positivity was 5.7, 3.1, 1.9, and 1.5%, respectively. These results
+indicate relevant amounts of insignificant/transient HPV infection in LSCC
+specimen. However, in the same study the rate of transforming HPV infections
+increased since 2000, and younger patients had higher amounts of HPV-driven LSCC.
+Serologic testing of E6/E7 antibodies additionally revealed odds ratios between 2
+and 5 as a hint for a weak contribution of high-risk HPV infection and the
+development of LSCC. The contribution of HPV for the development of LSCC needs
+future investigations, to date, routine HPV testing of LSCC specimen is not
+warranted.
+
+DOI: 10.1007/s00405-017-4718-1 
+PMID: 28861601  [Indexed for MEDLINE]

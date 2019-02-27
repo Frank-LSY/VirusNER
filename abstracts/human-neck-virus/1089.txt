@@ -1,0 +1,45 @@
+
+
+1089. Cancer Sci. 2010 Jun;101(6):1511-20. doi: 10.1111/j.1349-7006.2010.01551.x. Epub 
+2010 Feb 4.
+
+Frequent alterations of the candidate genes hMLH1, ITGA9 and RBSP3 in early
+dysplastic lesions of head and neck: clinical and prognostic significance.
+
+Ghosh A(1), Ghosh S, Maiti GP, Sabbir MG, Zabarovsky ER, Roy A, Roychoudhury S,
+Panda CK.
+
+Author information: 
+(1)Department of Oncogene Regulation and Gynaecology Oncology, Chittaranjan
+National Cancer Institute, Kolkata, India.
+
+To understand the association between candidate tumor suppressor genes (TSGs)
+human mismatch repair protein homologue 1 (hMLH1), AP20 region gene 1 (APRG1),
+integrin alpha RLC (ITGA9), RB1 serine phosphates from human chromosome 3 (RBSP3)
+at chromosomal 3p22.3 region and development of head and neck squamous cell
+carcinoma (HNSCC), alterations (deletion/promoter methylation/expression) of
+these genes were analyzed in 65 dysplastic lesions and 84 HNSCC samples.
+Clinicopathological correlations were made with alterations of the genes. In
+HNSCC, deletion frequencies of hMLH1, ITGA9, and RBSP3 were comparatively higher 
+than APRG1. Overall alterations (deletion/methylation) of hMLH1, ITGA9, and RBSP3
+were high (45-55%) in mild dysplasia and comparable in subsequent stages of tumor
+progression. Quantitative RT-PCR analysis showed reduced expression of these
+genes in tumors concordant to their molecular alterations. An in vitro
+demethylation experiment by 5-aza-2'-deoxycytidine confirmed the promoter
+hypermethylation of RBSP3 in Hep2 and UPCI:SCC084 cell lines. Functionally
+less-active RBSP3A isoform was predominant in tumor tissues contrary to the
+adjacent normal tissue of tumors where more active RBSP3B isoform was prevalent. 
+In immunohistochemical analysis, intense nuclear staining of hMLH1 and pRB
+(phosphorylated RB, the substrate of RBSP3) proteins were seen in the basal layer
+of normal epithelium. In tumors, concordance was seen between (i)
+low/intermediate level of hMLH1 expression and its molecular alterations; and
+(ii) intense nuclear staining of pRB and RBSP3 alterations. Poor patient outcome 
+was seen with hMLH1 and RBSP3 alterations. Moreover, in absence of human
+papilloma virus (HPV) infection, tobacco-addicted patients with hMLH1, RBSP3
+alterations, and nodal invasions showed poor prognosis. Thus our data suggests
+that dysregulation of hMLH1, ITGA9, and RBSP3 associated multiple cellular
+pathways are needed for the development of early dysplastic lesions of the head
+and neck.
+
+DOI: 10.1111/j.1349-7006.2010.01551.x 
+PMID: 20412120  [Indexed for MEDLINE]

@@ -1,0 +1,32 @@
+
+
+41. Cold Spring Harb Perspect Med. 2016 Jan 8;6(3):a021402. doi:
+10.1101/cshperspect.a021402.
+
+Hepatitis B Virus X and Regulation of Viral Gene Expression.
+
+Slagle BL(1), Bouchard MJ(2).
+
+Author information: 
+(1)Department of Molecular Virology and Microbiology, Baylor College of Medicine,
+Houston, Texas 77030.
+(2)Department of Biochemistry and Molecular Biology, Drexel University College of
+Medicine, Philadelphia, Pennsylvania 19102.
+
+The efficient replication of hepatitis B virus (HBV) requires the HBV regulatory 
+hepatitis B virus X (HBx) protein. The exact contributions of HBx are not fully
+understood, in part because of the limitations of the assays used for its study. 
+When HBV replication is driven from a plasmid DNA, the contribution of HBx is
+modest. However, there is an absolute requirement for HBx in assays that
+recapitulate the infectious virus life cycle. There is much evidence that HBx can
+contribute directly to HBV replication by acting on viral promoters embedded
+within protein coding sequences. In addition, HBx may also contribute indirectly 
+by modulating cellular pathways to benefit virus replication. Understanding the
+mechanism(s) of HBx action during virus replication may provide insight into
+novel ways to disrupt chronic HBV replication.
+
+Copyright © 2016 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a021402 
+PMCID: PMC4772081
+PMID: 26747833  [Indexed for MEDLINE]

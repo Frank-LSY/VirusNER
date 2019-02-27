@@ -1,0 +1,32 @@
+
+
+2325. Oral Oncol. 2012 Jan;48(1):90-4. doi: 10.1016/j.oraloncology.2011.08.020. Epub
+2011 Sep 15.
+
+Factors influencing the outcomes of primary surgery with postoperative
+radiotherapy for pN2 oropharyneal squamous cell carcinoma.
+
+Joo YH(1), Cho KJ, Park JO, Nam IC, Kim MS.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, College of Medicine, The
+Catholic University of Korea, Seoul, Republic of Korea.
+
+The purpose of this study was to examine treatment outcomes and define factors
+that influence survival in patients with pN2 oropharyngeal carcinoma. Fifty-five 
+patients underwent primary surgery with postoperative radiotherapy between 1994
+and 2009. Primary tumor sites were 36 tonsil, 13 base of tongue, 3 soft palate,
+and three posterior pharyngeal wall. There were 15, 26, 5, and 9 patients with
+stage T1 to T4 cancers, respectively. The N stage were 5 N2a, 37 N2b, and 13 N2c.
+The 5-year disease-specific survival rates were 66%. A significant positive
+correlation was found between high risk HPV status and extracapsular spread and
+disease-specific survival rates (HPV (+); 93% vs. HPV (-); 56%, p=0.031 and
+extracapsular spread (-); 93% vs. extracapsular spread (+); 50%, p=0.008,
+respectively). Primary surgery with postoperative radiotherapy can be achieved
+with favorable oncologic outcomes for pN2 oropharyngeal carcinoma. Factors that
+affected prognosis were HPV status and extracapsular spread.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2011.08.020 
+PMID: 21924946  [Indexed for MEDLINE]

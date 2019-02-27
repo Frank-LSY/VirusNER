@@ -1,0 +1,60 @@
+
+
+2933. Scand J Infect Dis. 2012 Jul;44(7):481-8. doi: 10.3109/00365548.2012.664776. Epub
+2012 Mar 11.
+
+Spontaneous intracranial hypotension syndrome may mimic aseptic meningitis.
+
+Balkan II(1), Albayram S, Ozaras R, Yilmaz MH, Ozbayrak M, Mete B, Yemisen M,
+Tabak F.
+
+Author information: 
+(1)Department of Infectious Diseases and Clinical Microbiology, Cerrahpasa
+Medical School, Istanbul University, Istanbul, Turkey.
+
+BACKGROUND: Spontaneous intracranial hypotension (SIH) is recognized with
+increasing frequency. A throbbing headache occurring or worsening in the upright 
+position and improving after lying down, a so-called 'orthostatic headache', low 
+cerebrospinal fluid (CSF) pressure, and diffuse pachymeningeal enhancement on
+brain magnetic resonance imaging (MRI) are the major features of the classic
+syndrome. These patients, who are admitted with fever, headache, and CSF findings
+revealing lymphocytic pleocytosis, elevated protein concentration, normal glucose
+levels, and negative culture results, are prone to be misdiagnosed with aseptic
+meningitis. The aims of this single-centre retrospective study were to determine 
+the epidemiological, clinical, laboratory, and radiological features of patients 
+initially evaluated as having aseptic meningitis but subsequently diagnosed with 
+SIH, and to touch upon the key points of the differential diagnosis in daily
+infectious diseases practice.
+METHODS: Patients referred to Cerrahpasa Medical School with a presumed diagnosis
+of aseptic meningitis or viral meningitis between 1 January 2006 and 1 January
+2011 were reviewed. Epidemiological, clinical, laboratory, radiological, and
+follow-up data obtained from the hospital database were processed. Patients
+confirmed to have SIH syndrome were included for evaluation.
+RESULTS: Eleven cases of SIH syndrome were diagnosed during the study period (8
+male and 3 female, median age 30 y, range 21-44 y). All had headache, hearing
+changes, and nausea. Vomiting (10/11) and posterior neck pain (9/11) were also
+frequent. Seven had fever and 5 had a stiff neck. Four cases had lymphocytic
+pleocytosis, 4 cases had elevated CSF protein concentrations (> 1.5 times the
+upper limit of normal), and 2 cases had slightly lower CSF glucose levels.
+Polymerase chain reaction (PCR) analyses of the CSF for Mycobacterium
+tuberculosis complex, herpes simplex viruses 1 and 2, and enteroviruses were
+negative in all cases. MRI of the 11 cases revealed signs of spontaneous CSF
+leaks with diffuse pachymeningeal gadolinium enhancement (11/11), sagging of the 
+brain (9/11), enlargement of the pituitary (6/11), engorgement of the venous
+structures (5/11), and subdural fluid collections (2/11). CSF leaks were
+demonstrated by intrathecal magnetic resonance or computed tomography myelography
+at different levels along the thoracic spine (7/11), cervico-thoracic junction
+(2/11), and thoraco-lumbar junction (2/11). Autologous blood injection into the
+spinal epidural space ('blood patch') was performed for treatment. Strict bed
+rest followed, and all patients recovered fully within a week; no recurrence or
+complication was observed during the follow-up periods, which ranged from 6
+months to 5 y.
+CONCLUSIONS: Findings of fever, headache, and meningeal irritation are generally 
+accepted as the clinical features of meningitis. When CSF findings are not
+characteristically compatible with bacterial meningitis and particularly when the
+headache is orthostatic in nature, SIH should also be included in the
+differential diagnosis. MRI findings are characteristic and clearly contribute to
+the differential diagnosis between viral meningitis and SIH.
+
+DOI: 10.3109/00365548.2012.664776 
+PMID: 22404365  [Indexed for MEDLINE]

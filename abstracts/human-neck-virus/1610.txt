@@ -1,0 +1,56 @@
+
+
+1610. J Virol. 2015 May;89(10):5276-87. doi: 10.1128/JVI.03434-14. Epub 2015 Feb 25.
+
+Human Papillomavirus 16 Oncoprotein Expression Is Controlled by the Cellular
+Splicing Factor SRSF2 (SC35).
+
+McFarlane M(1), MacDonald AI(1), Stevenson A(1), Graham SV(2).
+
+Author information: 
+(1)MRC-University of Glasgow Centre for Virus Research, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Glasgow, Scotland, United Kingdom.
+(2)MRC-University of Glasgow Centre for Virus Research, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Glasgow, Scotland, United Kingdom Sheila.Graham@gla.ac.uk.
+
+High-risk human papillomaviruses (HR-HPV) cause anogenital cancers, including
+cervical cancer, and head and neck cancers. Human papillomavirus 16 (HPV16) is
+the most prevalent HR-HPV. HPV oncogenesis is driven by two viral oncoproteins,
+E6 and E7, which are expressed through alternative splicing of a polycistronic
+RNA to yield four major splice isoforms (E6 full length, E6*I, E6*II, E6*X). The 
+production of multiple mRNA isoforms from a single gene is controlled by
+serine/arginine-rich splicing factors (SRSFs), and HPV16 infection induces
+overexpression of a subset of these, SRSFs 1, 2, and 3. In this study, we
+examined whether these proteins could control HPV16 oncoprotein expression. Small
+interfering RNA (siRNA) depletion experiments revealed that SRSF1 did not affect 
+oncoprotein RNA levels. While SRSF3 knockdown caused some reduction in E6E7
+expression, depletion of SRSF2 resulted in a significant loss of E6E7 RNAs,
+resulting in reduced levels of the E6-regulated p53 proteins and E7 oncoprotein
+itself. SRSF2 contributed to the tumor phenotype of HPV16-positive cervical
+cancer cells, as its depletion resulted in decreased cell proliferation, reduced 
+colony formation, and increased apoptosis. SRSF2 did not affect transcription
+from the P97 promoter that controls viral oncoprotein expression. Rather, RNA
+decay experiments showed that SRSF2 is required to maintain stability of E6E7
+mRNAs. These data show that SRSF2 is a key regulator of HPV16 oncoprotein
+expression and cervical tumor maintenance.IMPORTANCE: Expression of the HPV16
+oncoproteins E7 and E6 drives HPV-associated tumor formation. Although increased 
+transcription may yield increased levels of E6E7 mRNAs, it is known that the RNAs
+can have increased stability upon integration into the host genome. SR splicing
+factors (SRSFs) control splicing but can also control other events in the RNA
+life cycle, including RNA stability. Previously, we demonstrated increased levels
+of SRSFs 1, 2, and 3 during cervical tumor progression. Now we show that SRSF2 is
+required for expression of E6E7 mRNAs in cervical tumor but not nontumor cells
+and may act by inhibiting their decay. SRSF2 depletion in W12 tumor cells
+resulted in increased apoptosis, decreased proliferation, and decreased colony
+formation, suggesting that SRSF2 has oncogenic functions in cervical tumor
+progression. SRSF function can be targeted by known drugs that inhibit SRSF
+phosphorylation, suggesting a possible new avenue in abrogating HPV oncoprotein
+activity.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03434-14 
+PMCID: PMC4442513
+PMID: 25717103  [Indexed for MEDLINE]

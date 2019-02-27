@@ -1,0 +1,45 @@
+
+
+2686. Int J Mol Sci. 2018 Mar 13;19(3). pii: E830. doi: 10.3390/ijms19030830.
+
+High NOTCH1 mRNA Expression Is Associated with Better Survival in HNSCC.
+
+Wirth M(1), Jira D(2), Ott A(3), Piontek G(4), Pickhard A(5).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Technical University of
+Munich, Ismaninger Straße 22, 81675 Muenchen, Germany. markus.wirth@tum.de.
+(2)Department of Otolaryngology-Head and Neck Surgery, Technical University of
+Munich, Ismaninger Straße 22, 81675 Muenchen, Germany. daniel.jira@web.de.
+(3)Institute of Medical Informatics Statistics and Epidemiology, Technical
+University of Munich, Ismaninger Straße 22, 81675 Muenchen, Germany.
+armin.ott@tum.de.
+(4)Department of Otolaryngology-Head and Neck Surgery, Technical University of
+Munich, Ismaninger Straße 22, 81675 Muenchen, Germany.
+piontek@lrz.tu-muenchen.de.
+(5)Department of Otolaryngology-Head and Neck Surgery, Technical University of
+Munich, Ismaninger Straße 22, 81675 Muenchen, Germany.
+a.pickhard@lrz.tu-muenchen.de.
+
+The clinical impact of the expression of NOTCH1 signaling components in squamous 
+cell carcinoma of the pharynx and larynx has only been evaluated in subgroups.
+The aim of this study was therefore to evaluate NOTCH1 expression in head and
+neck squamous cell cancer (HNSCC) patient tissue and cell lines. We analyzed
+tissue from 195 HNSCCs and tissue from 30 normal patients for mRNA expression of 
+NOTCH1, NOTCH3, HES1, HEY1, and JAG1 using quantitative real-time PCR.
+Association of expression results and clinical orpathological factors was
+examined with multivariate Cox regression. NOTCH1 expression was determined in
+three Human Papilloma Virus (HPV)-positive and nine HPV-negative HNSCC cell
+lines. High expression of NOTCH1 was associated with better overall survival (p =
+0.013) and disease-free survival (p = 0.040). Multivariate Cox regression
+confirmed the significant influence of NOTCH1 expression on overall survival (p =
+0.033) and disease-free survival (p = 0.029). A significant correlation was found
+between p16 staining and NOTCH1 mRNA expression (correlation coefficient 0.28; p 
+= 0.01). NOTCH1 was expressed at higher levels in HPV-positive HNSCC cell lines
+compared with HPV-negative cell lines, which was not statistically significant (p
+= 0.068). We conclude that NOTCH1 expression is associated with overall survival,
+and that inhibition of NOTCH1 therefore seems less promising.
+
+DOI: 10.3390/ijms19030830 
+PMCID: PMC5877691
+PMID: 29533972  [Indexed for MEDLINE]

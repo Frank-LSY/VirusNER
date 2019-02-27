@@ -1,0 +1,37 @@
+
+
+25. J Infect Dis. 2017 Mar 15;215(suppl_3):S142-S151. doi: 10.1093/infdis/jiw637.
+
+In Vivo Models of Human Immunodeficiency Virus Persistence and Cure Strategies.
+
+Nixon CC(1), Mavigner M(2), Silvestri G(3), Garcia JV(1).
+
+Author information: 
+(1)Division of Infectious Diseases, Center for AIDS Research, University of North
+Carolina at Chapel Hill School of Medicine.
+(2)Department of Pediatrics, Emory University School of Medicine, and.
+(3)Emory Vaccine Center and Yerkes National Primate Research Center, Emory
+University, Atlanta, Georgia.
+
+Current HIV therapy is not curative regardless of how soon after infection it is 
+initiated or how long it is administered, and therapy interruption almost
+invariably results in robust viral rebound. Human immunodeficiency virus
+persistence is therefore the major obstacle to a cure for AIDS. The testing and
+implementation of novel yet unproven approaches to HIV eradication that could
+compromise the health status of HIV-infected individuals might not be ethically
+warranted. Therefore, adequate in vitro and in vivo evidence of efficacy is
+needed to facilitate the clinical implementation of promising strategies for an
+HIV cure. Animal models of HIV infection have a strong and well-documented
+history of bridging the gap between laboratory discoveries and eventual clinical 
+implementation. More recently, animal models have been developed and implemented 
+for the in vivo evaluation of novel HIV cure strategies. In this article, we
+review the recent progress in this rapidly moving area of research, focusing on
+the two most promising model systems: humanized mice and nonhuman primates.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiw637 
+PMCID: PMC5410984
+PMID: 28520967  [Indexed for MEDLINE]

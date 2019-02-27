@@ -1,0 +1,30 @@
+
+
+199. Surg Oncol Clin N Am. 2015 Jul;24(3):397-407. doi: 10.1016/j.soc.2015.03.002.
+Epub 2015 Apr 20.
+
+Molecular biology and immunology of head and neck cancer.
+
+Guo T(1), Califano JA(2).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, Johns Hopkins Medical
+Institutions, 1550 Orleans St, Baltimore, MD 21231, USA. Electronic address:
+tguo5@jhmi.edu.
+(2)Department of Otolaryngology, Head and Neck Surgery, Johns Hopkins Medical
+Institutions, 1550 Orleans St, Baltimore, MD 21231, USA.
+
+In recent years, our knowledge and understanding of head and neck squamous cell
+carcinoma (HNSCC) has expanded dramatically. New high-throughput sequencing
+technologies have accelerated these discoveries since the first reports of
+whole-exome sequencing of HNSCC tumors in 2011. In addition, the discovery of
+human papillomavirus in relationship with oropharyngeal squamous cell carcinoma
+has shifted our molecular understanding of the disease. New investigation into
+the role of immune evasion in HNSCC has also led to potential novel therapies
+based on immune-specific systemic therapies.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.soc.2015.03.002 
+PMCID: PMC4435820
+PMID: 25979390  [Indexed for MEDLINE]

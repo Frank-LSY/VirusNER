@@ -1,0 +1,40 @@
+
+
+1523. Laryngoscope. 2009 Aug;119(8):1531-7. doi: 10.1002/lary.20509.
+
+Human papillomavirus in early laryngeal carcinoma.
+
+Baumann JL(1), Cohen S, Evjen AN, Law JH, Vadivelu S, Attia A, Schindler JS,
+Chung CH, Wirth PS, Meijer CJ, Snijders PJ, Yarbrough WG, Slebos RJ.
+
+Author information: 
+(1)Department of Cancer Biology, Vanderbilt University School of Medicine,
+Nashville, Tennessee 37232-6350, USA.
+
+OBJECTIVES/HYPOTHESIS: To examine the role of HPV status in the etiology,
+prognosis, and treatment of head and neck squamous cell carcinoma in early larynx
+malignancies.
+STUDY DESIGN: Retrospective.
+METHODS: Thirty-eight cases of T1 or carcinoma in situ (CIS) laryngeal lesions
+were examined for the presence of human papilloma virus (HPV) using an inclusive 
+polymerase chain reaction (PCR)/hybridization technique capable of identifying 37
+HPV subtypes.
+RESULTS: HPV DNA was detected in 6 (16%) of the 38 lesions, representing HPV
+types 16, 26, 31, 39, and 52, and p16 tumor suppressor protein expression was
+confirmed in 10 representative cases. This HPV prevalence is higher than that
+noted in many previous laryngeal cancer studies, possibly due to the relatively
+large panel of subtypes screened for in this study. Identification of HPV-26,
+which has been associated with uterine cervical cancer, in an early laryngeal
+cancer specimen represents the first evidence of this subtype in a laryngeal
+carcinoma. Consistent with reports focusing on head and neck squamous cell
+carcinoma (HNSCC) arising from other subsites within the upper aerodigestive
+tract, patients with HPV-positive laryngeal carcinomas were of younger age and
+were somewhat less likely to have a history of tobacco use, although the latter
+of the two findings did not reach statistical significance.
+CONCLUSIONS: Our findings emphasize the presence of a broad spectrum of HPV types
+in a relevant proportion of early laryngeal cancers, and together with evidence
+of an association of HPV tumor status with a more favorable clinical course,
+provide a rationale for the routine HPV testing of small larynx lesions.
+
+DOI: 10.1002/lary.20509 
+PMID: 19489068  [Indexed for MEDLINE]

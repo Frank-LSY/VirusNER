@@ -1,0 +1,47 @@
+
+
+706. J Korean Med Sci. 2017 Nov;32(11):1857-1860. doi: 10.3346/jkms.2017.32.11.1857.
+
+Clevudine Induced Mitochondrial Myopathy.
+
+Park SH(1), Park KS(2), Kim NH(3), Cho JY(4), Koh MS(5), Lee JH(5).
+
+Author information: 
+(1)Department of Neurology, Dongguk University Ilsan Hospital, Goyang, Korea.
+(2)Department of Neurology, Seoul National University College of Medicine, Seoul,
+Korea.
+(3)Department of Neurology, Dongguk University Ilsan Hospital, Goyang, Korea.
+nheekim8@hanmail.net.
+(4)Department of Neurology, Inje University Ilsan Paik Hospital, Inje University 
+College of Medicine, Goyang, Korea.
+(5)Department of Hepatology, Dongguk University Ilsan Hospital, Goyang, Korea.
+
+Clevudine was approved as an antiviral agent for hepatitis B virus, which showed 
+marked, rapid inhibition of virus replication without significant toxicity.
+However, several studies have reported myopathy associated with clevudine
+therapy. Also, we experienced seven patients who suffered from myopathy during
+clevudine therapy. To characterize clevudine-induced myopathy, we collected
+previously reported cases of clevudine myopathy and analyzed all the cases
+including our cases. We searched electronic databases that were published in
+English or Korean using PubMed and KoreaMed. Ninety-five cases with clevudine
+myopathy, including our seven cases, were selected and analyzed for the
+demographic data, clinical features, and pathologic findings. The 95 patients
+with clevudine-induced myopathy comprised 52 women and 43 men aged 48.9 years
+(27-76 years). The patients received clevudine therapy for about 14.2 months
+(5-24 months) before the development of symptoms. Weakness mainly involved
+proximal extremities, especially in the lower extremities, and bulbar and neck
+weakness were observed in some cases (13.7%). Creatine kinase was elevated in the
+majority of patients (97.9%). Myopathic patterns on electromyography were
+observed in most patients examined (98.1%). Muscle biopsy presented patterns
+compatible with mitochondrial myopathy in the majority (90.2%). The weakness
+usually improved within about 3 months after the discontinuation of clevudine.
+Though clevudine has been known to be safe in a 6-month clinical trial, longer
+clevudine therapy for about 14 months may cause reversible mitochondrial
+myopathy. Careful clinical attention should be paid to patients with long-term
+clevudine therapy.
+
+© 2017 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2017.32.11.1857 
+PMCID: PMC5639069
+PMID: 28960041  [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+
+
+2431. HNO. 2015 Jan;63(1):63-72; quiz 73. doi: 10.1007/s00106-014-2937-y.
+
+[A practically orientated clinical HIV update for ENT physicians].
+
+[Article in German]
+
+Unnewehr M(1), Sieling C, Schaaf B.
+
+Author information: 
+(1)Medizinische Klinik Nord - Pneumologie, Infektiologie mit
+Immundefizienz(ID)-Ambulanz, Intensivmedizin, Klinikum Dortmund gGmbH,
+Münsterstr. 240, 44145, Dortmund, Deutschland, markus.unnewehr@web.de.
+
+Basic knowledge concerning the human immunodeficiency virus (HIV) and acquired
+immunodeficiency syndrome (AIDS) is useful for ENT physicians. Although HIV
+patients are usually stably asymptomatic nowadays due to modern therapy, HIV
+often manifests in ENT symptoms, such as neck lumps, sore throat, difficulty
+swallowing and dysgeusia. After infection, an initial increase in viral load can 
+cause, among other symptoms, oral ulcers and pharyngitis. Once the immune system 
+is compromised by the attack on CD4 lymphocyte cells, HIV-related diseases can
+occur: oral mycoses (particularly candidosis) and viral infections (including
+warts), aphthous ulcers, gingivitis, salivary gland diseases and malignancies (e.
+g. intraoral Kaposi's sarcoma). Neck lymphadenopathy is frequent. Markers of
+disease severity are the clinical symptoms, viral load and CD4 helper cell count.
+HIV treatment (antiretroviral therapy, ART) is a combination of at least three
+antiviral drugs.
+
+DOI: 10.1007/s00106-014-2937-y 
+PMID: 25359597  [Indexed for MEDLINE]

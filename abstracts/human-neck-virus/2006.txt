@@ -1,0 +1,57 @@
+
+
+2006. Br J Cancer. 2017 Jun 6;116(12):1604-1611. doi: 10.1038/bjc.2017.132. Epub 2017
+May 4.
+
+Human papillomavirus association is the most important predictor for surgically
+treated patients with oropharyngeal cancer.
+
+Wagner S(1), Wittekindt C(1), Sharma SJ(1), Wuerdemann N(1), Jüttner T(1),
+Reuschenbach M(2)(3), Prigge ES(2)(3), von Knebel Doeberitz M(2)(3), Gattenlöhner
+S(4), Burkhardt E(5)(6)(7), Pons-Kühnemann J(5), Klussmann JP(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen, Giessen DE-35392, Germany.
+(2)Department of Applied Tumour Biology, Institute of Pathology, University
+Hospital Heidelberg, Heidelberg D-69120, Germany.
+(3)Clinical Cooperation Unit Applied Tumour Biology, German Cancer Research
+Centre (DKFZ), Heidelberg D-69120, Germany.
+(4)Department of Pathology, University of Giessen, Giessen DE-35392, Germany.
+(5)Department of Medical Statistics, Institute of Medical Informatics, University
+of Giessen, Giessen DE-35392, Germany.
+(6)Tumour Centre, University of Giessen, Giessen DE-35392, Germany.
+(7)Hesse Cancer Registry, Frankfurt DE-60439, Germany.
+
+Comment in
+    Br J Cancer. 2018 Feb 6;118(3):e5.
+    Br J Cancer. 2018 Feb 6;118(3):e6.
+
+BACKGROUND: Upfront surgery is a valuable treatment option for oropharyngeal
+squamous cell carcinoma (OPSCC) and risk stratification is emerging for treatment
+de-escalation in human papillomavirus (HPV)-related OPSCC. Available prognostic
+models are either based on selected, mainly non-surgically treated cohorts.
+Therefore, we investigated unselected OPSCC treated with predominantly upfront
+surgery.
+METHODS: All patients diagnosed with OPSCC and treated with curative intent
+between 2000 and 2009 (n=359) were included. HPV association was determined by
+HPV-DNA detection and p16INK4a immunohistochemistry. Predictors with significant 
+impact on overall survival (OS) in univariate analysis were included in recursive
+partitioning analysis.
+RESULTS: Risk models generated from non-surgically treated patients showed low
+discrimination in our cohort. A new model developed for unselected patients
+predominantly treated with upfront surgery separates low-, intermediate- and
+high-risk patients with significant differences in 5-year OS (86%, 53% and 19%,
+P<0.001, respectively). HPV status is the most important parameter followed by
+T-stage in HPV-related and performance status in HPV-negative OPSCC. HPV status
+and ECOG remained important parameters in risk models for patients treated with
+or without surgery.
+CONCLUSIONS: Regardless of treatment strategies, HPV status is the strongest
+predictor of survival in unselected OPSCC patients. The proposed risk models are 
+suitable to discriminate risk groups in unselected OPSCC patients treated with
+upfront surgery, which has substantial impact for design and interpretation of
+de-escalation trials.
+
+DOI: 10.1038/bjc.2017.132 
+PMCID: PMC5518861
+PMID: 28472822  [Indexed for MEDLINE]

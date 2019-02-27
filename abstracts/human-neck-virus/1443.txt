@@ -1,0 +1,55 @@
+
+
+1443. Oral Oncol. 2016 Apr;55:11-6. doi: 10.1016/j.oraloncology.2016.02.008. Epub 2016 
+Feb 27.
+
+RNA in-situ hybridization is a practical and effective method for determining HPV
+status of oropharyngeal squamous cell carcinoma including discordant cases that
+are p16 positive by immunohistochemistry but HPV negative by DNA in-situ
+hybridization.
+
+Rooper LM(1), Gandhi M(2), Bishop JA(3), Westra WH(4).
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+MD, USA.
+(2)Affymetrix, Inc., Santa Clara, CA, USA.
+(3)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+MD, USA; Department of Otolaryngology-Head and Neck Surgery, The Johns Hopkins
+Medical Institutions, Baltimore, MD, USA.
+(4)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+MD, USA; Department of Otolaryngology-Head and Neck Surgery, The Johns Hopkins
+Medical Institutions, Baltimore, MD, USA; Department of Oncology, The Johns
+Hopkins Medical Institutions, Baltimore, MD, USA. Electronic address:
+wwestra@jhmi.edu.
+
+OBJECTIVES: Evaluation of human papillomavirus (HPV) status in oropharyngeal
+squamous cell carcinoma (OPSCC) has become increasingly important for
+prognostication and clinical trial enrollment. This assessment is confounded in
+OPSCCs that are p16 positive by immunohistochemistry (IHC) but HPV negative by
+DNA in situ hybridization (DISH). This study evaluates whether E6/E7 mRNA in situ
+hybridization (RISH) can detect transcriptionally active HPV in these problematic
+cases.
+MATERIALS AND METHODS: Eighty-two head and neck squamous cell carcinoma cases
+that had previously undergone p16 IHC and HPV DISH were evaluated with two RISH
+platforms and a second-generation DISH probe. The study included 21 p16+/DISH+
+concordant cases, 19 p16-/DISH- concordant cases, and 42 p16+/DISH- discordant
+cases.
+RESULTS: RISH identified E6/E7 mRNA in 37 (88%) p16+/DISH- cases, 21 (100%)
+p16+/DISH+ cases, and 0 (0%) p16-/DISH- cases. RISH signals were clearly visible 
+at low to medium magnification in 97% of positive cases, facilitating
+almost-perfect inter-observer reproducibility. The performance of the manual and 
+automated RISH platforms were equivalent (kappa=0.915). Only 29% of carcinomas
+that demonstrated E6/E7 mRNA transcriptional activity were positive using the 2nd
+generation DISH probe.
+CONCLUSIONS: HPV RISH is a highly sensitive and specific platform that can
+clarify the HPV status of those perplexing OPSCCs that are p16 positive by IHC
+but HPV negative by DISH. Moreover, it is easy to interpret, readily adaptable to
+the clinical laboratory, and provides direct evidence of HPV transcriptional
+activity. E6/E7 RISH should be considered as a first-line platform for
+determination of HPV status in OPSCCs.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.02.008 
+PMID: 27016012  [Indexed for MEDLINE]

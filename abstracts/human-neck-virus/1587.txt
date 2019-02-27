@@ -1,0 +1,58 @@
+
+
+1587. Anticancer Res. 2015 Jul;35(7):3801-10.
+
+MMP9, Cyclin D1 and β-Catenin Are Useful Markers of p16-positive Squamous Cell
+Carcinoma in Therapeutic EGFR Inhibition In Vitro.
+
+Umbreit C(1), Erben P(2), Faber A(3), Hofheinz RD(4), Aderhold C(3), Weiss C(5), 
+Hoermann K(3), Wenzel A(3), Schultz JD(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, University Medical
+Centre Mannheim, Medical Faculty Mannheim, University of Heidelberg, Mannheim,
+Germany claudia.umbreit@web.de.
+(2)Department of Urology, University Medical Centre Mannheim, Medical Faculty
+Mannheim, University of Heidelberg, Mannheim, Germany.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, University Medical
+Centre Mannheim, Medical Faculty Mannheim, University of Heidelberg, Mannheim,
+Germany.
+(4)Department of Hematology and Oncology, University Medical Centre Mannheim,
+Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany.
+(5)Institute of Medical Statistics and Biometry, University Medical Centre
+Mannheim, Medical Faculty Mannheim, University of Heidelberg, Mannheim, Germany.
+
+BACKGROUND/AIM: In the United States 53,640 new cases of head and neck cancer
+were estimated in 2013. Over 95% of these cases were evaluated as squamous cell
+carcinoma (SCC). At present, smoking, drinking alcohol, chewing betel and
+infection with high-risk types of human papilloma virus (HPV) are classified as
+risk factors of oropharyngeal squamous cancer cell carcinoma (OPSCC). It could be
+suggested that patients with HPV-positive OPSCC have a better response to
+chemoradiotherapy than patients without. In many studies, there was observed an
+inverse correlation between epithelial growth factor receptor (EGFR) expression
+and HPV status in p16-positive SCC. Therefore, it is of great clinical interest
+to specify the phenotype of cancer cells in order to further individualize
+treatment modalities. The aim of the study was to investigate the expression
+pattern of specific markers in p16-positive SCC cells after stimulation with
+lapatinib and gefitinib.
+MATERIALS AND METHODS: We incubated p16-positive CERV196 cells with lapatinib and
+gefitinib (2 μg/ml) and after 5, 24 and 96 h determined E-cadherin, vimentin,
+matrix metalloproteinase-9 (MMP9), cyclin D1 and β-catenin by
+immunocytochemistry, enzyme-linked immunosorbent assay and quantitative
+polymerase chain reaction (PCR).
+RESULTS: We found an increase of E-cadherin and a decrease of vimentin in
+unstimulated cells. We detected an alteration of expression of vimentin and
+E-cadherin level after treatment with lapatinib and gefitinib. We demonstrated a 
+statistically significant lapatinib- and gefitinib-induced repression of cyclin
+D1, MMP9 and β-catenin in CERV196 cells dependent on incubation time.
+CONCLUSION: Cyclin D1 and MMP9 expression profiles may represent an early measure
+of sensitivity and level of response to lapatinib and gefitinib. The presented
+cell culture model is, therefore, well-suited for further study of epigenetic
+regulation of molecular targeted-therapy by EGFR inhibition and prevention of
+mesenchymal transition in p16-positive SCC cells.
+
+Copyright© 2015 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 26124325  [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+
+
+1849. Oral Oncol. 2016 Oct;61:127-34. doi: 10.1016/j.oraloncology.2016.08.013. Epub
+2016 Sep 10.
+
+Does elimination of planned postoperative radiation to the primary bed in
+p16-positive, transorally-resected oropharyngeal carcinoma associate with poorer 
+outcomes?
+
+Sinha P(1), Pipkorn P(1), Thorstad WL(2), Gay HA(2), Haughey BH(3).
+
+Author information: 
+(1)Otolaryngology-Head and Neck Surgery, Washington University School of
+Medicine, St. Louis, MO, United States.
+(2)Radiation Oncology, Washington University School of Medicine, St. Louis, MO,
+United States.
+(3)Head and Neck Surgery, Florida Hospital Celebration Health, Celebration, FL,
+United States; Department of Surgery, University of Auckland Faculty of Medicine 
+and Health Sciences, Auckland, New Zealand. Electronic address:
+Bruce.Haughey.MD@flhosp.org.
+
+OBJECTIVE: The purpose of our study is to compare oncologic and functional
+outcomes of p16-positive oropharyngeal squamous cell carcinoma (OPSCC) patients, 
+in the presence and absence of planned radiation to the primary bed following
+transoral surgery (TOS), stratified by T-classification.
+METHODS: Retrospective cohort study of 261, T1-T4, consecutively TOS-treated
+OPSCC patients.
+RESULTS: At a median follow-up of 61months, local recurrence (LR) occurred in 6
+(2.3%)patients (3 each in T1-T2 and T3-T4 groups), of which 5 had tumors in the
+tongue base and one in the tonsil. Of patients not receiving planned primary bed 
+radiation, LR occurred in 3% of T1-T2s versus 17% of T3-T4s. In patients with
+T1-T2 tumors, Absolute Risk Reduction of LR with primary bed radiation was 3.26% 
+(95% CI: -0.37%, 7%); Number Needed to Treat to prevent one LR was 31 (95% CI:
+14.5, 271). Absolute Risk Increase for gastrostomy-tube with primary bed
+radiation was 34.4% (95% CI: 24%, 45%); Number Needed to Harm was 3 (95% CI: 2.2,
+4.2), i.e., for every three patients with T1-T2 tumors receiving primary bed
+radiation, one had a gastrostomy-tube.
+CONCLUSIONS: Elimination of primary bed radiation in margin-negative resected,
+T1-T2 p16-positive OPSCC was not associated with significant compromise of local 
+control, and correlated with superior swallowing preservation, assessed using
+gastrostomy rate as a surrogate. Lack of primary bed radiation in T3-T4 tumors
+associated with significantly increased LR rates.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.08.013 
+PMID: 27688115  [Indexed for MEDLINE]

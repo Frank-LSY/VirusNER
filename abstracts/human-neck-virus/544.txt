@@ -1,0 +1,44 @@
+
+
+544. J Ultrasound Med. 2013 May;32(5):763-8. doi: 10.7863/ultra.32.5.763.
+
+Inflammation markers correlate with common carotid intima-media thickness in
+patients perinatally infected with human immunodeficiency virus 1.
+
+Di Biagio A(1), Rosso R, Maggi P, Mazzei D, Bernardini C, Nulvesu L, Parisini A, 
+Nicco E, De Carli F, Rodriguez G, Viscoli C.
+
+Author information: 
+(1)Infectious Disease Clinic, University of Genoa, San Martino Hospital, Genoa,
+Italy. antonio.dibiagio@hsanmartino.it
+
+OBJECTIVES: To investigate common carotid intima-media thickness in a cohort of
+patients who were vertically infected with human immunodeficiency virus 1
+(HIV-1).
+METHODS: We conducted a cross-sectional observational study. Human
+immunodeficiency virus 1-infected patients were compared with age-, sex-, and
+body mass index-matched healthy participants. Common carotid intima-media
+thickness was measured in all participants on both sides of the neck, and the
+mean intima-media thickness was calculated. Metabolic parameters and markers of
+inflammation were measured only in HIV-1-infected patients. Statistical analysis 
+was performed by multiple regression and by a matrix of Pearson correlation
+coefficients. The Student t test was used to compare mean common carotid
+intima-media thickness values between groups.
+RESULTS: Forty patients (21 female) with HIV-1 infection acquired from birth with
+a mean age ± SD of 16.3 ± 4.7 years and 27 healthy participants (11 female) with 
+a mean age of 17.7 ± 4.6 years were included in the study. Mean common carotid
+intima-media thickness in the HIV-1-infected group (0.450 ± 0.088 mm) was
+significantly higher (P < .05) than in the control group (0.407 ± 0.079 mm). No
+significant association was found between intima-media thickness and a specific
+antiretroviral regimen, exposure to combined antiretroviral agents, and HIV
+status. In multiple regression analyses, higher levels of insulin (P= .007) and
+elevated levels of glycated hemoglobin (P= .01) were associated with intima-media
+thickness changes.
+CONCLUSIONS: Patients perinatally infected with HIV have increased common carotid
+intima-media thickness compared with healthy individuals. These changes were more
+pronounced with increasing age and inflammation markers. Interventions that
+improve cardiovascular risk profiles should be considered in HIV-infected young
+adults.
+
+DOI: 10.7863/ultra.32.5.763 
+PMID: 23620317  [Indexed for MEDLINE]

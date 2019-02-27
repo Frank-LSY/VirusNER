@@ -1,0 +1,61 @@
+
+
+13. J Virol. 2017 Jul 12;91(15). pii: e00375-17. doi: 10.1128/JVI.00375-17. Print
+2017 Aug 1.
+
+Natural Variation of Epstein-Barr Virus Genes, Proteins, and Primary MicroRNA.
+
+Correia S(1), Palser A(2), Elgueta Karstegl C(1), Middeldorp JM(3), Ramayanti
+O(3), Cohen JI(4), Hildesheim A(5), Fellner MD(6), Wiels J(7), White RE(1),
+Kellam P(1)(2), Farrell PJ(8).
+
+Author information: 
+(1)Section of Virology, Imperial College Faculty of Medicine, Norfolk Place,
+London, United Kingdom.
+(2)Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom.
+(3)Department of Pathology, VU University Medical Center, Amsterdam, Netherlands.
+(4)Laboratory of Infectious Diseases, National Institute of Allergy and
+Infectious Diseases, Bethesda, Maryland, USA.
+(5)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and 
+Genetics, NCI, Bethesda, Maryland, USA.
+(6)National Institute of Infectious Diseases-ANLIS Carlos G. Malbrán, Buenos
+Aires, Argentina.
+(7)UMR 8126 CNRS, University of Paris-Sud, Institut Gustave Roussy, Villejuif,
+France.
+(8)Section of Virology, Imperial College Faculty of Medicine, Norfolk Place,
+London, United Kingdom p.farrell@imperial.ac.uk.
+
+Viral gene sequences from an enlarged set of about 200 Epstein-Barr virus (EBV)
+strains, including many primary isolates, have been used to investigate variation
+in key viral genetic regions, particularly LMP1, Zp, gp350, EBNA1, and the BART
+microRNA (miRNA) cluster 2. Determination of type 1 and type 2 EBV in saliva
+samples from people from a wide range of geographic and ethnic backgrounds
+demonstrates a small percentage of healthy white Caucasian British people
+carrying predominantly type 2 EBV. Linkage of Zp and gp350 variants to type 2 EBV
+is likely to be due to their genes being adjacent to the EBNA3 locus, which is
+one of the major determinants of the type 1/type 2 distinction. A novel
+classification of EBNA1 DNA binding domains, named QCIGP, results from phylogeny 
+analysis of their protein sequences but is not linked to the type 1/type 2
+classification. The BART cluster 2 miRNA region is classified into three major
+variants through single-nucleotide polymorphisms (SNPs) in the primary miRNA
+outside the mature miRNA sequences. These SNPs can result in altered levels of
+expression of some miRNAs from the BART variant frequently present in Chinese and
+Indonesian nasopharyngeal carcinoma (NPC) samples. The EBV genetic variants
+identified here provide a basis for future, more directed analysis of association
+of specific EBV variations with EBV biology and EBV-associated
+diseases.IMPORTANCE Incidence of diseases associated with EBV varies greatly in
+different parts of the world. Thus, relationships between EBV genome sequence
+variation and health, disease, geography, and ethnicity of the host may be
+important for understanding the role of EBV in diseases and for development of an
+effective EBV vaccine. This paper provides the most comprehensive analysis so far
+of variation in specific EBV genes relevant to these diseases and proposed EBV
+vaccines. By focusing on variation in LMP1, Zp, gp350, EBNA1, and the BART miRNA 
+cluster 2, new relationships with the known type 1/type 2 strains are
+demonstrated, and a novel classification of EBNA1 and the BART miRNAs is
+proposed.
+
+Copyright © 2017 Correia et al.
+
+DOI: 10.1128/JVI.00375-17 
+PMCID: PMC5512239
+PMID: 28515295  [Indexed for MEDLINE]

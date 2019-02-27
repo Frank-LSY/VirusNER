@@ -1,0 +1,28 @@
+
+
+11. Recent Results Cancer Res. 2016;198:143-61. doi: 10.1007/978-3-662-49651-0_7.
+
+Human Papilloma Virus as a Biomarker for Personalized Head and Neck Cancer
+Radiotherapy.
+
+Eriksen JG(1), Lassen P(2).
+
+Author information: 
+(1)Department of Oncology, Odense University Hospital, Odense, Denmark.
+jesper.grau.eriksen@rsyd.dk.
+(2)Department of Oncology, Department of Clinical Experimental Oncology, Aarhus
+University Hospital, 8000, Aarhus C, Denmark.
+
+A dramatic increase in the incidence of HPV-related oropharyngeal cancer has been
+reported in some parts of the western world over the past 30 years. They
+constitute a clinically distinct subgroup of cancers in terms of molecular
+biology, patient characteristics, and treatment outcome. This chapter describes
+the molecular characteristics, epidemiology, and demographics of the HPV-related 
+head and neck cancers and discuss available methods to detect HPV-related
+tumours. The impact of HPV-related biomarkers in clinical studies on radiotherapy
+only, altered fractionation, modulation of hypoxia, and concurrent chemo- or
+bio-radiotherapy are reviewed as well as the perspectives of de-escalation and
+immune-modulation are discussed.
+
+DOI: 10.1007/978-3-662-49651-0_7 
+PMID: 27318685  [Indexed for MEDLINE]

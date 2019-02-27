@@ -1,0 +1,28 @@
+
+
+2643. Cancer Lett. 2011 Oct 28;309(2):162-9. doi: 10.1016/j.canlet.2011.05.028. Epub
+2011 Jun 12.
+
+Adenovirus-mediated transfer of tris-shRNAs induced apoptosis of nasopharyngeal
+carcinoma cell in vitro and in vivo.
+
+Han JB(1), Tao ZZ, Chen SM, Kong YG, Xiao BK.
+
+Author information: 
+(1)Department of Otolaryngology, Head & Neck Surgery, Renmin Hospital of Wuhan
+University, Wuhan, PR China.
+
+RNA interference (RNAi) is an evolutionary conserved mechanism for specific gene 
+silencing. There are currently numerous cancer therapy clinical trials based on
+RNAi technology. Using an adenoviral system as a delivery mediator of RNAi, we
+investigated the therapeutic effects of targeting three genes simultaneously in
+vitro and in vivo. In this study, we constructed an recombinant adenoviral shRNA 
+expression system as Adv-pEGFP-shVEGF-shTERT-shBcl-xl for multi-genes silencing. 
+Our results showed that the adenoviral vector can achieve above 90% of
+transfection efficiency and induced obvious apoptosis in CNE-2 cell both in vitro
+and in vivo compared with targeting the TERT alone or controlled group.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.canlet.2011.05.028 
+PMID: 21669490  [Indexed for MEDLINE]

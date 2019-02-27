@@ -1,0 +1,35 @@
+
+
+3076. Pathol Res Pract. 2016 Apr;212(4):345-9. doi: 10.1016/j.prp.2016.01.010. Epub
+2016 Feb 2.
+
+Are HLA-E*0103 alleles predictive markers for nasopharyngeal cancer risk?
+
+Douik H(1), Romdhane NA(2), Guemira F(3).
+
+Author information: 
+(1)Clinical Biology Department, Salah Azaiz Institute of Cancer, 1006 Bab
+Saadoun, Tunis, Tunisia. Electronic address: htdouik@yahoo.fr.
+(2)Statistic and Epidemiology Department, Faculty of Medicine, 1007, Djebel
+Lakhdar, La Rabta, Tunis, Tunisia.
+(3)Clinical Biology Department, Salah Azaiz Institute of Cancer, 1006 Bab
+Saadoun, Tunis, Tunisia.
+
+BACKGROUND: Nasopharyngeal carcinoma (NPC) is a particular entity of head neck
+cancer, tightly related to Epstein-Barr virus infection and thus to HLA genes. In
+this study, we aimed to analyze HLA-E polymorphism in NPC advent and prognosis.
+130 unrelated patients with CNP and 180 unrelated and healthy controls were
+included in our study. HLA-E genotyping was performed by PCR/RFLP method; SPSS
+(13.0) was used for statistical analysis, and survival curbs were established
+with the "Kaplan-Meier" method (Log Rank<0.05).
+RESULTS: We found a significant difference within HLA-E*103 variants between
+patients and controls: E*1031 and E*1032 were associated with CNP (OR=1.613,
+p=0.013 and OR=1.0809, p=0.055), and E*1033 with controls (OR=0.254, p<10(-4)).
+CONCLUSION: Our study reveals that HLA-E polymorphism is associated with
+nasopharyngeal cancer. HLA-E expression studies could be used to understand the
+implication of E*103 variants.
+
+Copyright © 2016 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.prp.2016.01.010 
+PMID: 26896927  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+2476. Clin Cancer Res. 2012 Apr 15;18(8):2278-89. doi: 10.1158/1078-0432.CCR-11-1593.
+Epub 2012 Feb 20.
+
+Tumor epidermal growth factor receptor and EGFR PY1068 are independent prognostic
+indicators for head and neck squamous cell carcinoma.
+
+Wheeler S(1), Siwak DR, Chai R, LaValle C, Seethala RR, Wang L, Cieply K, Sherer 
+C, Joy C, Mills GB, Argiris A, Siegfried JM, Grandis JR, Egloff AM.
+
+Author information: 
+(1)Department of Otolaryngology, University of Pittsburgh, Pittsburgh,
+Pennsylvania 15213, USA.
+
+PURPOSE: To assess the prognostic value of epidermal growth factor receptor
+(EGFR) molecular characteristics of head and neck squamous cell carcinoma
+(HNSCC).
+PATIENTS AND METHODS: HNSCC tumors from patients prospectively enrolled in either
+an Early Detection Research Network (EDRN) study and treated with surgery without
+an EGFR-targeted agent (N = 154) or enrolled in a chemoradiation trial involving 
+the EGFR-targeted antibody cetuximab (N = 39) were evaluated for EGFR gene
+amplification by FISH and EGFR protein by immunohistochemical staining.
+Fresh-frozen tumors (EDRN) were also evaluated for EGFR protein and site-specific
+phosphorylation at Y992 and Y1068 using reverse-phase protein array (n = 67).
+Tumor (n = 50) EGFR and EGFRvIII mRNA levels were quantified using real-time PCR.
+RESULTS: EGFR expression by immunohistochemistry (IHC) was significantly higher
+in the EDRN tumors with EGFR gene amplification (P < 0.001), and a similar trend 
+was noted in the cetuximab-treated cohort. In the EDRN and cetuximab-treated
+cohorts elevated EGFR by IHC was associated with reduced survival (P = 0.019 and 
+P = 0.06, respectively). Elevated expression of total EGFR and EGFR PY1068 were
+independently significantly associated with reduced progression-free survival in 
+the EDRN cohort [HR = 2.75; 95% confidence interval (CI) = 1.26-6.00 and HR =
+3.29; 95% CI = 1.34-8.14, respectively].
+CONCLUSIONS: In two independent HNSCC cohorts treated with or without cetuximab, 
+tumor EGFR levels were indicative of survival. Tumor EGFR PY1068 levels provided 
+prognostic information independent of total EGFR.
+
+©2012 AACR.
+
+DOI: 10.1158/1078-0432.CCR-11-1593 
+PMCID: PMC3430124
+PMID: 22351687  [Indexed for MEDLINE]

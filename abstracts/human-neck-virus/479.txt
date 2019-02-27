@@ -1,0 +1,42 @@
+
+
+479. Int J Cancer. 2012 Sep 1;131(5):1179-86. doi: 10.1002/ijc.26500. Epub 2011 Nov
+19.
+
+Characteristics and survival of head and neck cancer by HPV status: a cancer
+registry-based study.
+
+Sethi S(1), Ali-Fehmi R, Franceschi S, Struijk L, van Doorn LJ, Quint W,
+Albashiti B, Ibrahim M, Kato I.
+
+Author information: 
+(1)Department of Pathology, Wayne State University School of Medicine, Detroit,
+MI 48201, USA.
+
+Elucidation of the role of human papillomavirus (HPV) in the etiology and
+prognosis of squamous carcinomas of the head and neck (HNSCC) is essential to
+optimize prevention and treatment strategies for this disease. We analyzed 385
+HNSCC tissue blocks identified through a population-based cancer registry in
+Metropolitan Detroit for HPV DNA using a broad-spectrum PCR technique
+(SPF10-LiPA25) to correlate with patient and tumor characteristics and overall
+survival. Overall, HPV DNA (any type) was detected in 29.4% of all HNSCC, but it 
+was significantly more prevalent (50.6%) in oropharyngeal sites (N=81), where 90%
+of HPV were type 16, than in other sites. HPV prevalence (any type) in
+oropharyngeal sites was highest in patients with a negative smoking indicator,
+Caucasians and in regional tumor stage. Likewise, only in oropharyngeal sites did
+patients overall positive to HPV show significantly better survival compared with
+HPV-negative patients, notably among those who had been irradiated. The best and 
+the worst survival from cancer in oropharyngeal sites were found, respectively,
+among HPV-positive patients with negative smoking indicator and among
+HPV-negative patients with positive smoking indicator. The results of this study 
+revealed that the presence of HPV DNA was associated with patients' specific
+characteristics and better overall survival exclusively in oropharyngeal sites.
+To define the fraction of HNSCC preventable by HPV vaccination or amenable to
+less aggressive treatment, however, tobacco exposure and HPV markers other than
+DNA presence need to be taken into account.
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.26500 
+PMCID: PMC3319485
+PMID: 22020866  [Indexed for MEDLINE]

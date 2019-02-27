@@ -1,0 +1,42 @@
+
+
+1122. Malawi Med J. 2017 Jun;29(2):142-145.
+
+Human papillomavirus in head and neck squamous cell carcinoma: A descriptive
+study of histologically confirmed cases at Kamuzu Central Hospital in Lilongwe,
+Malawi.
+
+Faggons CE(1), Mabedi CE(2), Liomba NG(1), Funkhouser WK(3), Chimzimu F(1),
+Kampani C(1), Krysiak R(1), Msiska N(2), Shores CG(4)(5), Gopal S(1)(5)(6)(7).
+
+Author information: 
+(1)UNC Project-Malawi, Lilongwe, Malawi.
+(2)Department of Surgery, Kamuzu Central Hospital, Lilongwe, Malawi.
+(3)Department of Pathology and Laboratory Medicine, University of North Carolina,
+Chapel Hill, North Carolina, USA.
+(4)Department of Otolaryngology/Head and Neck Surgery, University of North
+Carolina, Chapel Hill, North Carolinea, USA.
+(5)Lineberger Comprehensive Cancer Center, Chapel Hill, North Carolina, USA.
+(6)Institute for Global Health and Infectious Diseases, University of North
+Carolina, Chapel Hill, North Carolina, USA.
+(7)Department of Medicine, College of Medicine, University of Malawi, Blantyre,
+Malawi.
+
+BACKGROUND: Head and neck squamous cell carcinoma (HNSCC) is common in
+sub-Saharan Africa, but the aetiologic contribution of human papillomavirus (HPV)
+is not well established.
+METHODS: We assessed HNSCC cases for HPV using p16 immunohistochemistry (IHC) in 
+Malawi. Associations between p16 IHC and tumour site, behavioural risk factors,
+demographic characteristics, and HIV status were examined.
+RESULTS: From 2010 to 2014, 77 HNSCC cases were identified. Mean age was 52
+years, 50 cases (65%) were male, and 48 (62%) were in the oropharynx (OP) or oral
+cavity (OC). HIV status was known for 35 patients (45%), with 5 (14%)
+HIV-infected. Substance use was known for 40 patients (52%), with 38% reporting
+any tobacco and 31% any alcohol. Forty-two cases (55%) had adequate tissue for
+p16 IHC, of which seven (17%) were positive, including 22% of OP/OC tumours.
+CONCLUSIONS: Despite high cervical cancer burden, HPV-associated HNSCC is not
+very common in Malawi.
+
+
+PMCID: PMC5610285
+PMID: 28955422  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+Conflict of interest statement: All authors have completed and submitted the
+ICMJE form for disclosure of potential conflicts of interest. No potential
+conflicts of interest were disclosed.
+
+
+2. PLoS Pathog. 2018 Sep 19;14(9):e1007304. doi: 10.1371/journal.ppat.1007304.
+eCollection 2018 Sep.
+
+Crystal structure of a soluble fragment of poliovirus 2CATPase.
+
+Guan H(1), Tian J(1), Zhang C(1), Qin B(1), Cui S(1).
+
+Author information: 
+(1)MOH key Laboratory of Systems Biology of Pathogens, Institute of Pathogen
+Biology, Chinese Academy of Medical Sciences & Peking Union Medical College,
+Beijing, China.
+
+Poliovirus (PV) 2CATPase is the most studied 2C protein in the Picornaviridae
+family. It is involved in RNA replication, encapsidation and uncoating and many
+inhibitors have been found that target PV 2CATPase. Despite numerous
+investigations to characterize its functions, a high-resolution structure of PV
+2C has not yet been determined. We report here the crystal structure of a soluble
+fragment of PV 2CATPase to 2.55Å, containing an ATPase domain, a zinc finger and 
+a C-terminal helical domain but missing the N-terminal domain. The ATPase domain 
+shares the common structural features with EV71 2C and other Superfamily 3
+helicases. The C-terminal cysteine-rich motif folds into a CCCC type zinc finger 
+in which four cysteine ligands and several auxiliary residues assist in zinc
+binding. By comparing with the known zinc finger fold groups, we found the zinc
+finger of 2C proteins belong to a new fold group, which we denote the
+"Enterovirus 2C-like" group. The C-terminus of PV 2CATPase forms an amphipathic
+helix that occupies a hydrophobic pocket located on an adjacent PV 2CATPase in
+the crystal lattice. The C-terminus mediated PV 2C-2C interaction promotes
+self-oligomerization, most likely hexamerization, which is fundamental to the
+ATPase activity of 2C. The zinc finger is the most structurally diverse feature
+in 2C proteins. Available structural and virological data suggest that the zinc
+finger of 2C might confer the specificity of interaction with other proteins. We 
+built a hexameric ring model of PV 2CATPase and visualized the previously
+identified functional motifs and drug-resistant sites, thus providing a structure
+framework for antiviral drug development.
+
+DOI: 10.1371/journal.ppat.1007304 
+PMCID: PMC6166989
+PMID: 30231078  [Indexed for MEDLINE]

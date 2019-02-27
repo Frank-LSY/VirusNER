@@ -1,0 +1,41 @@
+
+
+869. J Clin Pathol. 2011 Apr;64(4):308-12. doi: 10.1136/jcp.2010.088450. Epub 2011 Feb
+23.
+
+Evaluation of human papillomavirus testing for squamous cell carcinoma of the
+tonsil in clinical practice.
+
+Thavaraj S(1), Stokes A, Guerra E, Bible J, Halligan E, Long A, Okpokam A, Sloan 
+P, Odell E, Robinson M.
+
+Author information: 
+(1)Oral Pathology, Department of Clinical and Diagnostic Sciences, King's College
+London Dental Institute, London, UK.
+
+BACKGROUND: Oncogenic human papillomavirus (HPV)-associated oropharyngeal
+squamous cell carcinoma (SCC) is a subtype of head-and-neck cancer with a
+distinct clinical and prognostic profile. While there are calls to undertake HPV 
+testing for oropharyngeal SCCs within the diagnostic setting and for clinical
+trials, there are currently no internationally accepted standards.
+METHODS: 142 tonsil SCCs were tested using p16 immunohistochemistry (IHC),
+high-risk HPV DNA in situ hybridisation (ISH) and HPV DNA polymerase chain
+reaction (PCR; GP5+/6+ primers).
+RESULTS: There were high levels of agreement between pathologists for p16 IHC and
+HPV ISH scoring; however, around 10% of HPV ISH cases showed some interobserver
+discrepancy that was resolved by slide review. The combination of p16 IHC and HPV
+ISH classified 53% of the samples as HPV-positive, whereas the combination of p16
+IHC and HPV PCR classified 61% of the samples as HPV-positive. By employing a
+three-tiered, staged algorithm (p16 IHC/HPV ISH/HPV PCR), the authors were able
+to classify 98% of the cases as either HPV-positive (p16 IHC+/HPV DNA+; 62%) or
+HPV-negative (p16 IHC-/HPV DNA-; 35%).
+CONCLUSIONS: The current study suggests that using a combination of p16 IHC/HPV
+ISH/HPV PCR, in a three-tiered, staged algorithm, in conjunction with consensus
+reporting of HPV ISH, leads to less equivocal molecular classification. In order 
+to ensure consistent reporting of this emerging disease, it is increasingly
+important for the head-and-neck oncology community to define the minimum
+requirements for assigning a diagnosis of 'HPV-related' oropharyngeal SCC in
+order to inform prognosis and for stratification in clinical trials.
+
+DOI: 10.1136/jcp.2010.088450 
+PMID: 21345874  [Indexed for MEDLINE]

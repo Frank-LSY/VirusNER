@@ -1,0 +1,30 @@
+
+
+555. Oncotarget. 2017 Jan 31;8(5):8877-8889. doi: 10.18632/oncotarget.12830.
+
+Next generation sequencing and its applications in HPV-associated cancers.
+
+Tuna M(1), Amos CI(1).
+
+Author information: 
+(1)Department of Biomedical Data Science, Geisel School of Medicine, Dartmouth
+College, Lebanon.
+
+Approximately 18% of all human cancers have a viral etiology, and human
+papillomavirus (HPV) has been identified as one of the most prevalent viruses
+that plays causative role in nearly all cervical cancers and, in addition, in
+subset of head and neck, anal, penile and vulvar cancers. The recent introduction
+of next generation sequencing (NGS) and other 'omics' approaches have resulted in
+comprehensive knowledge on the pathogenesis of HPV-driven tumors. Specifically,
+these approaches have provided detailed information on genomic HPV integration
+sites, disrupted genes and pathways, and common and distinct genetic and
+epigenetic alterations in different human HPV-associated cancers. This review
+focuses on HPV integration sites, its concomitantly disrupted genes and pathways 
+and its functional consequences in both cervical and head and neck cancers.
+Integration of NGS data with other 'omics' and clinical data is crucial to better
+understand the pathophysiology of each individual malignancy and, based on this, 
+to select targets and to design effective personalized treatment options.
+
+DOI: 10.18632/oncotarget.12830 
+PMCID: PMC5352450
+PMID: 27784002  [Indexed for MEDLINE]

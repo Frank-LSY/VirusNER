@@ -1,0 +1,43 @@
+
+
+1432. Am J Otolaryngol. 2010 Nov-Dec;31(6):410-7. doi: 10.1016/j.amjoto.2009.06.006.
+Epub 2009 Aug 26.
+
+Novel Epstein-Barr virus immunoglobulin G-based approach for the specific
+detection of nasopharyngeal carcinoma.
+
+Abdulamir AS(1), Hafidh RR, Abu Bakar F, Abbas K.
+
+Author information: 
+(1)Microbiology Research Department, University Putra Malaysia, Serdang,
+Malaysia. ahmsah73@yahoo.com
+
+PURPOSE: This study was designed to find a reliable Epstein-Barr virus (EBV)
+immunoglobulin (Ig) G-based diagnostic/screening test for nasopharyngeal
+carcinoma (NPC) able to demarcate between the NPC-related seropositivity of EBV
+IgG antibodies and that of other head and neck cancer (HNCA) and control groups. 
+The NPC-associated immunosuppression affects EBV IgA much more than IgG, leading 
+to inconsistent detection of NPC using EBV IgA antibodies.
+MATERIALS AND METHODS: One hundred twenty-two HNCA patients, 42 NPC, 66 laryngeal
+carcinoma, and 14 hypopharyngeal carcinoma and 3 groups of 100 control subjects
+were enrolled in this study. Enzyme-linked immunosorbent assay (ELISA) was used
+to find a specific cutoff value for the NPC-related seropositivity of EBV IgG
+antibodies.
+RESULTS: NPC group showed higher serum level of EBV IgG antibodies than control
+and other HNCA groups (P < .05). However, the traditional cutoff value, mean + 2 
+SDs of control subjects, failed to demarcate the seropositives of NPC patients
+from those of healthy population (P > .05). The new cutoff value, mean + 2 SDs of
+the seropositives group of control subjects who had already been grouped by the
+traditional cutoff value, proved successful. It succeeded to demarcate between
+the NPC-related EBV IgG seropositivity and that issued from the persistent,
+latent, or reactivated EBV infection in the population (P < .05). The
+sensitivity/specificity of NPC detection by the new cutoff-based ELISA kit,
+76.19% and 86%, was close or higher than that of EBV IgA antibodies.
+CONCLUSION: EBV IgG-based ELISA could be used for the diagnosis of NPC using a
+new cutoff threshold that excludes the population baseline of EBV IgG
+seropositivity.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2009.06.006 
+PMID: 20015794  [Indexed for MEDLINE]

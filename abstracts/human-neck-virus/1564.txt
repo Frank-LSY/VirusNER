@@ -1,0 +1,59 @@
+
+
+1564. Laryngoscope. 2016 Apr;126(4):885-93. doi: 10.1002/lary.25738. Epub 2015 Nov 6.
+
+Detection of human papillomavirus in laryngeal squamous cell carcinoma:
+Systematic review and meta-analysis.
+
+Gama RR(1), Carvalho AL(1), Longatto Filho A(2)(3)(4)(5), Scorsato AP(6), López
+RV(7), Rautava J(8), Syrjänen S(8), Syrjänen K(9).
+
+Author information: 
+(1)Department of Surgical Oncology, Head and Neck Surgery, Barretos Cancer
+Hospital, Barretos, Brazil.
+(2)Laboratory of Medical Investigation (LIM) 14, Department of Pathology,
+University of São Paulo School of Medicine, São Paulo, Brazil.
+(3)Life and Health Sciences Research Institute, School of Health Sciences,
+University of Minho, Braga, Portugal.
+(4)ICVS/3B's-PT Government Associate Laboratory, Braga/Guimarães, Portugal.
+(5)Molecular Oncology Research Center, Barretos Cancer Hospital, Barretos,
+Brazil.
+(6)Department of Bioestatistics, Barretos Cancer Hospital, Barretos, Brazil.
+(7)Oncology Translational Centre, Cancer Institute of São Paulo, São Paulo,
+Brazil.
+(8)Department of Oral Pathology and Radiology, Institute of Dentistry, University
+of Turku, Turku, Finland.
+(9)Department of Clinical Research, Biohit HealthCare Plc, Helsinki, Finland.
+
+BACKGROUND: Recent studies have reported a human papillomavirus (HPV) prevalence 
+of 20% to 30% in laryngeal squamous cell carcinoma (LSCC), although clinical data
+on HPV involvement remain largely inconsistent, ascribed by some to differences
+in HPV detection methods or in geographic origin of the studies.
+OBJECTIVE: To perform a systematic review and formal meta-analysis of the
+literature reporting on HPV detection in LSCC.
+METHODS: Literature was searched from January 1964 until March 2015. The effect
+size was calculated as event rates (95% confidence interval [CI]), with
+homogeneity testing using Cochran's Q and I(2) statistics. Meta-regression was
+used to test the impact of study-level covariates (HPV detection method,
+geographic origin) on effect size. Potential publication bias was estimated using
+funnel plot symmetry.
+RESULTS: One hundred seventy nine studies were eligible, comprising a sample size
+of 7,347 LSCCs from different geographic regions. Altogether, 1,830 (25%) cases
+tested HPV-positive considering all methods, with effect size of 0.269 (95% CI:
+0.242 to 0.297; random-effects model). In meta-analysis stratified by the 1) HPV 
+detection technique and 2) geographic study origin, the between-study
+heterogeneity was significant only for geographic origin (P = .0001). In
+meta-regression, the HPV detection method (P = .876) or geographic origin (P =
+.234) were not significant study-level covariates. Some evidence for publication 
+bias was found only for studies from North America and those using non-polymerase
+chain reaction methods, with a marginal effect on adjusted point estimates for
+both.
+CONCLUSIONS: Variability in HPV detection rates in LSCC is explained by
+geographic origin of study but not by HPV detection method. However, they were
+not significant study-level covariates in formal meta-regression.
+LEVEL OF EVIDENCE: NA.
+
+© 2015 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.25738 
+PMID: 26542064  [Indexed for MEDLINE]

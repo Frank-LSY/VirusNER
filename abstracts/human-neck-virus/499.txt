@@ -1,0 +1,36 @@
+
+
+499. J Cutan Med Surg. 2009 Jul-Aug;13(4):215-20.
+
+Spiradenocarcinoma arising from a spiradenocylindroma: unusual case with
+lymphoepithelioma-like areas.
+
+Chetty R(1), Perez-Ordonez B, Gilbert R, Pagedar NA, Waldron J, Ghazarian D.
+
+Author information: 
+(1)Department of Pathology, University Health Network/University of Toronto,
+Toronto, ON, Canada.
+
+BACKGROUND: Hybrid skin adnexal tumors are common, and spiradenocylindroma is
+well described.
+OBJECTIVE: However, malignant transformation in this setting is infrequent,
+especially resemblance to lymphoepithelioma-like carcinoma of skin, which is not 
+associated with Epstein-Barr virus.
+METHODS: A 65-year-old female presented with ataxia and a skin nodule composed of
+a hybrid adnexal tumor (spiradenoma and cylindroma) that transitioned into an
+undifferentiated carcinoma with attendant lymphocytes and plasma cells. There was
+widespread dissemination of the undifferentiated component to regional neck lymph
+nodes.
+RESULTS: The undifferentiated component resembled a lymphoepithelioma-like
+carcinoma and showed focal evidence of tubular and squamous differentiation. The 
+tumor was Epstein-Barr encoded RNAs (EBER) negative by in situ hybridization. No 
+evidence of neuroendocrine differentiation was seen in the tumor, despite the
+patient having symptoms of paraneoplastic ataxia that improved after surgery.
+CONCLUSION: This case highlights the transition of a benign hybrid tumor
+(spiradenocylindroma) into a spiradenocarcinoma that resembled
+lymphoepithelioma-like carcinoma of skin. It also highlights two unusual
+features: widespread lymph node dissemination and presentation with
+paraneoplastic syndrome-associated ataxia.
+
+DOI: 10.2310/7750.2008.08059 
+PMID: 19706230  [Indexed for MEDLINE]

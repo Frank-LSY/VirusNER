@@ -1,0 +1,67 @@
+
+
+2387. Int J Radiat Oncol Biol Phys. 2017 May 1;98(1):159-169. doi:
+10.1016/j.ijrobp.2017.01.018. Epub 2017 Jan 9.
+
+Re-evaluation of Ipsilateral Radiation for T1-T2N0-N2b Tonsil Carcinoma at the
+Princess Margaret Hospital in the Human Papillomavirus Era, 25 Years Later.
+
+Huang SH(1), Waldron J(2), Bratman SV(3), Su J(4), Kim J(3), Bayley A(3), Cho
+J(3), Giuliani M(3), Hope A(3), Ringash J(3), Hansen A(5), de Almeida JR(6),
+Goldstein D(6), Perez-Ordonez B(7), Weinreb I(7), Tong L(3), Xu W(4), O'Sullivan 
+B(2).
+
+Author information: 
+(1)Department of Radiation Oncology, The Princess Margaret Cancer Centre,
+University of Toronto, Toronto, Ontario, Canada. Electronic address:
+shaohui.huang@rmp.uhn.on.ca.
+(2)Department of Radiation Oncology, The Princess Margaret Cancer Centre,
+University of Toronto, Toronto, Ontario, Canada; Department of
+Otolaryngology-Head & Neck Surgery, The Princess Margaret Cancer Centre,
+University of Toronto, Toronto, Ontario, Canada.
+(3)Department of Radiation Oncology, The Princess Margaret Cancer Centre,
+University of Toronto, Toronto, Ontario, Canada.
+(4)Department of Biostatistics, The Princess Margaret Cancer Centre, University
+of Toronto, Toronto, Ontario, Canada.
+(5)Division of Medical Oncology, The Princess Margaret Cancer Centre, University 
+of Toronto, Toronto, Ontario, Canada.
+(6)Department of Otolaryngology-Head & Neck Surgery, The Princess Margaret Cancer
+Centre, University of Toronto, Toronto, Ontario, Canada.
+(7)Department of Pathology, The Princess Margaret Cancer Centre, University of
+Toronto, Toronto, Ontario, Canada.
+
+PURPOSE: To report the outcome of ipsilateral radiation therapy (RT) in human
+papillomavirus (HPV)-positive (HPV+) patients and HPV-negative (HPV-) patients
+with T1-T2N0-N2b tonsillar cancer treated 25 years after our initial historical
+cohort.
+METHODS AND MATERIALS: Patients with T1-T2N0-N2b tonsillar cancer who received
+ipsilateral RT or bilateral RT between 1999 and 2014 were reviewed. Overall
+survival (OS), local control (LC), regional control (RC), and grade 3 to 4 late
+toxicity (LT) were compared between ipsilateral RT and bilateral RT within HPV+
+and HPV- patients, separately.
+RESULTS: HPV status was ascertained in 379/427 (88%) consecutive patients
+(ipsilateral RT: 62 HPV+, 34 HPV-; bilateral RT: 240 HPV+ 240, 41 HPV-). The
+proportion of ipsilateral RT by N category for HPV+ and HPV- patients were as
+follows: N0: 24/37 (65%) versus 28/48 (74%); N1: 21/49 (43%) versus 4/9 (44%);
+N2a: 10/39 (26%) versus 1/4 (25%); and N2b: 7/177 (4%) versus 1/24 (4%),
+respectively. Of the patients receiving ipsilateral RT, 94/96 (98%) were treated 
+with RT alone. The median follow-up time was 5.03 years. The respective 5-year
+rates of OS, LC, RC, and LT were similar between ipsilateral RT and bilateral RT 
+for the HPV+ patients (OS: 89% vs 87%, P=.55; LC: 97% vs 98%, P=.65; RC: 98% vs
+97%, P=.27; LT: 17% vs 12%, P=.83) and HPV- patients (OS: 63% vs 48%, P=.27; LC: 
+90% vs 80%, P=.19; RC: 94% vs 83%, P=.14; LT: 15% vs 22%, P=.36). Of the 96
+patients receiving ipsilateral RT, contralateral neck failure (CNF) occurred in
+1/52 HPV+ patients and 1/34 HPV- patients. The 5-year CNF rates were 2% (95% CI: 
+1-9) (HPV+: 2% [0-14]; HPV-: 3% [0-21], P=.66). Five local failures (2 HPV+; 3
+HPV-) and no distant failures were seen. The 5-year rates of LC, RC, and LT were 
+97% versus 90% (P=.24), 98% versus 94% (P=.25), and 18% versus 15% (P=.75) for
+the HPV+ and HPV- cohorts, respectively. Osteoradionecrosis occurred in 9
+patients: 6/47 (13%) treated with conventional RT and 3/49 (6%) with intensity
+modulated RT (P=.32).
+CONCLUSION: Ipsilateral radiation to selected patients with T1-T2N0-N2b tonsillar
+cancer results in equally excellent outcomes regardless of tumor HPV status.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2017.01.018 
+PMID: 28258895  [Indexed for MEDLINE]

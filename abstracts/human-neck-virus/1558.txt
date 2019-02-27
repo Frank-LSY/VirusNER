@@ -1,0 +1,41 @@
+
+
+1558. Int J Oncol. 2014 Jun;44(6):1799-805. doi: 10.3892/ijo.2014.2355. Epub 2014 Mar
+21.
+
+Human papillomavirus and oropharyngeal cancer, the epidemics, and significance of
+additional clinical biomarkers for prediction of response to therapy (Review).
+
+Dalianis T(1).
+
+Author information: 
+(1)Department of Oncology-Pathology, Karolinska Institutet, Cancer Center
+Karolinska, Karolinska University Hospital, 171 76 Stockholm, Sweden.
+
+In 2007, the International Agency for Research against Cancer (IARC) recognized
+human papillomavirus (HPV), especially HPV16, besides smoking and alcohol, as a
+risk factor for oropharyngeal squamous cell carcinoma (OPSCC), where tonsillar
+and base of tongue cancer dominate. Moreover, during the past decade, in many
+Western countries, a sharp rise in the incidence of OPSCC, more specifically of
+HPV-positive OPSCC has been observed. Notably, patients with HPV-positive OPSCC, 
+where the majority are men, particularly never-smokers have a better clinical
+outcome than patients with HPV-negative OPSCC and other head neck cancer (roughly
+80 vs. 40% disease-free survival with conventional radiotherapy and surgery).
+This suggests that many patients with HPV-positive OPSCC may not require the more
+aggressive intensified chemo-radiotherapy given to head neck cancer patients
+today, and could with somewhat tapered treatment maintain excellent survival,
+avoiding some of the severe side effects along with intensified treatment.
+However, before de-intensified treatment is administered additional biomarkers
+are necessary in combination with HPV-positive status in order to predict and
+select patients that will respond favorably to therapy. In conclusion, noteworthy
+issues within this field with an increasing cohort of patients with HPV-positive 
+OPSCC are better-tailored therapy and prevention. Patients with HPV-positive
+OPSCC, with biomarkers for good response to therapy e.g., low MHC class I, or
+CD44 expression or high numbers of CD8+ tumor infiltrating lymphocytes, could be 
+included in randomized trials with less severe therapy. Furthermore,
+possibilities to screen for HPV-positive OPSCC and to vaccinate boys against HPV 
+infection should be further investigated.
+
+DOI: 10.3892/ijo.2014.2355 
+PMCID: PMC4063535
+PMID: 24676623  [Indexed for MEDLINE]

@@ -1,0 +1,32 @@
+
+
+791. Crit Rev Oncol Hematol. 2013 Dec;88(3):716-28. doi:
+10.1016/j.critrevonc.2013.07.012. Epub 2013 Aug 12.
+
+microRNAs are important players in head and neck carcinoma: a review.
+
+Janiszewska J(1), Szaumkessel M, Szyfter K.
+
+Author information: 
+(1)Institute of Human Genetics, Polish Academy of Sciences, Department of
+Environmental Mutagenesis, 60-479 Poznań, Poland.
+
+The results of treatment of head and neck tumors remain poor for decades. It
+means that after surgery, chemotherapy is not a proper choice, as tumors of this 
+region are relatively resistant to cytotoxic drugs. A little progress was noted
+only for radiotherapy outcome. Consequently, clinicians and researchers'
+expectations are focused on targeted therapy, where microRNAs (miRNAs, miRs) seem
+to be the most promising target. After the year 2000, miRNAs became new players
+on the scene of cancer science. Since then, extensive investigations have been
+performed with a hope of finding a new prognostic and diagnostic tool and
+bridging them with a bright new way of understanding the basis of molecular
+carcinogenesis. miRNAs display astonishing specificity and thus are associated
+with pathoclinical parameters of the disease. After more than a decade of ongoing
+studies, in this review we attempt to summarize the current knowledge of miRNAs
+in malignancies arising in head and neck sites and with a majority of squamous
+cells of the epithelium.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.critrevonc.2013.07.012 
+PMID: 23948550  [Indexed for MEDLINE]

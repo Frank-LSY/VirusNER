@@ -1,0 +1,45 @@
+
+
+2840. Oncotarget. 2016 Mar 29;7(13):15901-14. doi: 10.18632/oncotarget.7431.
+
+PD-L1 expression is associated with epithelial-mesenchymal transition in head and
+neck squamous cell carcinoma.
+
+Ock CY(1), Kim S(2), Keam B(1)(3), Kim M(1), Kim TM(1)(3), Kim JH(4), Jeon YK(2),
+Lee JS(5), Kwon SK(6), Hah JH(6), Kwon TK(6), Kim DW(1)(3), Wu HG(4), Sung MW(6),
+Heo DS(1)(3).
+
+Author information: 
+(1)Department of Internal Medicine, Seoul National University Hospital, Seoul,
+Korea.
+(2)Department of Pathology, Seoul National University Hospital Seoul, Korea.
+(3)Cancer Research Institute, Seoul National University College of Medicine,
+Seoul, Korea.
+(4)Department of Radiation Oncology, Seoul National University Hospital, Seoul,
+South Korea.
+(5)Department of Systems Biology, The University of Texas MD Anderson Cancer
+Center, Houston, Texas, USA.
+(6)Department of Otorhinolaryngology, Seoul National University Hospital, Seoul, 
+South Korea.
+
+Virus-associated malignancies and sarcomatoid cancers correlate with high PD-L1
+expression, however, underlying mechanisms remain controversial. We evaluated the
+correlation between PD-L1 expression and epithelial-mesenchymal transition (EMT) 
+in head and neck squamous cell carcinomas (HNSCC).Tumor tissues from 50 patients 
+with HNSCC were evaluated for PD-L1 by immunohistochemistry, which showed 32
+(64.0%) were PD-L1 positive (PD-L1+). Interestingly, PD-L1 expression was
+significantly associated with EMT (P = 0.010), as assessed by low E-cadherin and 
+high vimentin expression. The overall survival of PD-L1+ patients with EMT
+features was significantly worse than those without EMT features (P = 0.007). In 
+an independent validation cohort (N = 91), as well as in HNSCC cases of The
+Cancer Genome Atlas (TCGA) and the Cancer Cell Line Encyclopedia, high PD-L1
+expression was also associated with the high probability of an EMT signature,
+referred from the GEO dataset, GSE4824. Survival analysis confirmed PD-L1+/EMT+
+patients had a poorer prognosis than PD-L1+/EMT- patients in the TCGA cohort.
+PD-L1 positivity can thus be divided into two categories according to the absence
+or presence of EMT. PD-L1 expression is also independently associated with EMT
+features in HNSCC.
+
+DOI: 10.18632/oncotarget.7431 
+PMCID: PMC4941285
+PMID: 26893364  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+181. Cancer. 2010 May 1;116(9):2166-73. doi: 10.1002/cncr.25033.
+
+Comparison of human papillomavirus in situ hybridization and p16
+immunohistochemistry in the detection of human papillomavirus-associated head and
+neck cancer based on a prospective clinical experience.
+
+Singhi AD(1), Westra WH.
+
+Author information: 
+(1)Department of Pathology, the Johns Hopkins Medical Institutions, Baltimore,
+Maryland 21231-2410, USA.
+
+BACKGROUND: Human papillomavirus (HPV) is a causative agent in a subset of head
+and neck squamous cell carcinomas (HNSCCs). These HPV-related cancers have a
+clinicopathologic profile that diverges from HPV-negative HNSCCs. Accordingly,
+HPV testing may soon become integrated into standard pathologic assessment of
+HNSCCs.
+METHODS: Data were prospectively collected for all patients with head and neck
+carcinomas who had undergone HPV testing at the Johns Hopkins Hospital as part of
+clinical care during a 57-month period. HPV testing consisted of concurrent HPV16
+in situ hybridization (ISH) and p16 immunohistochemistry (IHC). Wide spectrum HPV
+ISH was reserved for p16-positive cases that were HPV-16 negative.
+RESULTS: HPV analysis was performed on 256 head and neck carcinomas in an effort 
+to predict clinical outcomes (56%), localize primary tumor origin (21%),
+establish tumor classification (9%), determine patient eligibility for vaccine
+trials (8%), or satisfy patient curiosity (5%). A total of 182 (71%) tumors were 
+HPV positive. HPV positivity correlated with oropharyngeal site (82% vs 9%) and
+male sex (77% vs 48%). p16 positivity was present in all 176 HPV16-positive
+cases, and in 19 of 80 (24%) cases that were HPV-16 negative. In 6 (32%)
+discordant cases, p16 expression was because of the presence of another HPV type.
+CONCLUSIONS: A feasible strategy that incorporates p16 IHC and HPV ISH is able to
+detect HPV in a high percentage of oropharyngeal carcinomas. HPV status is
+frequently requested by the oncologist to estimate clinical outcome, and used by 
+pathologists to establish tumor classification and determine site of tumor
+origin.
+
+(c) 2010 American Cancer Society.
+
+DOI: 10.1002/cncr.25033 
+PMID: 20186832  [Indexed for MEDLINE]

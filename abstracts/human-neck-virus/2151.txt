@@ -1,0 +1,42 @@
+
+
+2151. BMC Cancer. 2013 May 1;13:220. doi: 10.1186/1471-2407-13-220.
+
+Human Papillomavirus-associated oropharyngeal cancer: an observational study of
+diagnosis, prevalence and prognosis in a UK population.
+
+Evans M(1), Newcombe R, Fiander A, Powell J, Rolles M, Thavaraj S, Robinson M,
+Powell N.
+
+Author information: 
+(1)Velindre Cancer Centre, Whitchurch, Cardiff, CF14 2TL, UK.
+
+BACKGROUND: The incidence of Human Papillomavirus (HPV) associated oropharyngeal 
+cancer (OPC) is increasing. HPV-associated OPC appear to have better prognosis
+than HPV-negative OPC. The aim of this study was to robustly determine the
+prevalence of HPV-positive OPC in an unselected UK population and correlate HPV
+positivity with clinical outcome.
+METHODS: HPV testing by GP5+/6+ PCR, In Situ Hybridisation (ISH) and p16
+immunohistochemistry (IHC) was performed on 138 OPCs diagnosed in South Wales
+(UK) between 2001-06. Kaplan-Meier analysis was used to correlate HPV status with
+clinical outcome.
+RESULTS: Using a composite definition of HPV positivity (HPV DNA and p16
+overexpression), HPV was detected in 46/83 (55%) samples where DNA quality was
+assured. Five year overall survival was 75.4% (95% CI: 65.2 to 85.5) in
+HPV-positives vs 25.3% (95% CI: 14.2 to 36.4) in HPV negatives, corresponding to 
+a 78% reduction in death rate (HR 0.22, p < 0.001). HPV-positives had less
+locoregional recurrence but second HPV-positive Head and Neck primaries occurred.
+Poor quality DNA in fixed pathological specimens reduced both HPV prevalence
+estimates and the prognostic utility of DNA-based HPV testing methods. As a
+single marker, p16 was least affected by sample quality and correlated well with 
+prognosis, although was not sufficient on its own for accurate HPV prevalence
+reporting.
+CONCLUSIONS: This study highlights the significant burden of OPC associated with 
+HPV infection. HPV positive cases are clinically distinct from other OPC, and are
+associated with significantly better clinical outcomes. A composite definition of
+HPV positivity should be used for accurate prevalence reporting and up-front DNA 
+quality assessment is recommended for any DNA-based HPV detection strategy.
+
+DOI: 10.1186/1471-2407-13-220 
+PMCID: PMC3644265
+PMID: 23634887  [Indexed for MEDLINE]

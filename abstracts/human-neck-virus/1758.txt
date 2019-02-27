@@ -1,0 +1,34 @@
+
+
+1758. Nat Rev Mol Cell Biol. 2017 Jan;18(1):5-17. doi: 10.1038/nrm.2016.121. Epub 2016 
+Oct 5.
+
+Reverse-topology membrane scission by the ESCRT proteins.
+
+Schöneberg J(1), Lee IH(1), Iwasa JH(2), Hurley JH(1)(3).
+
+Author information: 
+(1)Department of Molecular and Cell Biology and California Institute for
+Quantitative Biosciences, University of California, Berkeley, California 94720,
+USA.
+(2)University of Utah, Salt Lake City, Utah 84112, USA.
+(3)Molecular Biophysics and Integrated Bioimaging Division, Lawrence Berkeley
+National Laboratory, Berkeley, California 94720, USA.
+
+The narrow membrane necks formed during viral, exosomal and intra-endosomal
+budding from membranes, as well as during cytokinesis and related processes, have
+interiors that are contiguous with the cytosol. Severing these necks involves
+action from the opposite face of the membrane as occurs during the
+well-characterized formation of coated vesicles. This 'reverse' (or
+'inverse')-topology membrane scission is carried out by the endosomal sorting
+complex required for transport (ESCRT) proteins, which form filaments, flat
+spirals, tubes and conical funnels that are thought to direct membrane
+remodelling and scission. Their assembly, and their disassembly by the ATPase
+vacuolar protein sorting-associated 4 (VPS4) have been intensively studied, but
+the mechanism of scission has been elusive. New insights from cryo-electron
+microscopy and various types of spectroscopy may finally be close to rectifying
+this situation.
+
+DOI: 10.1038/nrm.2016.121 
+PMCID: PMC5198518
+PMID: 27703243  [Indexed for MEDLINE]

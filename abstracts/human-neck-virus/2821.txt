@@ -1,0 +1,40 @@
+
+
+2821. J Clin Densitom. 2010 Oct-Dec;13(4):456-61. doi: 10.1016/j.jocd.2010.06.001. Epub
+2010 Jul 21.
+
+Prevalence of bone mineral density abnormalities and related risk factors in an
+ambulatory HIV clinic population.
+
+Guillemi S(1), Harris M, Bondy GP, Ng F, Zhang W, Lima VD, Michaels CE, Belzberg 
+A, Montaner JS.
+
+Author information: 
+(1)British Columbia Centre for Excellence in HIV/AIDS, Vancouver, British
+Columbia, Canada. sguillemi@cfenet.ubc.ca
+
+Bone mineral density (BMD) abnormalities are observed frequently among human
+immunodeficiency virus (HIV)-infected patients. Risk factors for reduced BMD in
+the setting of HIV have been previously studied, but detailed antiretroviral
+treatment history is often not available. A cross-sectional observational study
+was conducted between 2005 and 2007 among unselected HIV-infected adults
+attending an ambulatory urban HIV clinic. Dual-energy X-ray absorptiometry (DXA) 
+scans of lumbar spine and femoral neck, full laboratory profile, detailed
+questionnaire, and antiretroviral history were obtained. Univariate and
+multivariate logistic regression analyses were performed to investigate factors
+associated with BMD below the expected range for age. Two hundred ninety patients
+completed the study: 80% Caucasians, 89% males, with median age of 49 yr. Low BMD
+as assessed by Z-score was present in 19.7% of the patients. By multivariate
+analysis, only lower body mass index (BMI) was an independent risk factor for low
+BMD. Cumulative exposure to protease inhibitors, non-nucleosides, and individual 
+nucleoside and nucleotide analogs were not independently associated with low BMD.
+In conclusion, a 19.7% prevalence of abnormal BMD by DXA scan was identified in
+an unselected group of HIV-infected adults. Lower BMI was independently
+associated with low BMD. No correlation was found between abnormal BMD and
+cumulative exposure to any antiretroviral agents.
+
+Copyright © 2010 The International Society for Clinical Densitometry. Published
+by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.jocd.2010.06.001 
+PMID: 20663695  [Indexed for MEDLINE]

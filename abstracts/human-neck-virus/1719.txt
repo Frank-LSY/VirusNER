@@ -1,0 +1,40 @@
+
+
+1719. Oral Oncol. 2013 Apr;49(4):326-31. doi: 10.1016/j.oraloncology.2012.10.001. Epub 
+2012 Oct 23.
+
+Determination of antibodies directed at EBV proteins expressed in both latent and
+lytic cycles in nasopharyngeal carcinoma.
+
+Ai P(1), Wang T, Zhang H, Wang Y, Song C, Zhang L, Li Z, Hu H.
+
+Author information: 
+(1)Department of Head and Neck Oncology, Cancer Center, West China Hospital,
+Sichuan University, Chengdu, China.
+
+OBJECTIVES: Serologic analyses for anti-EBV antibodies used alone usually have
+low sensitivity for the diagnosis of nasopharyngeal carcinoma (NPC). We assumed
+that a combined determination of antibodies directed at EBV proteins expressed in
+both lytic and latent cycles could increase the sensitivity.
+MATERIALS AND METHODS: Sixty healthy controls and 100 NPC patients treated with
+intensity-modulated radiation therapy were recruited for the study. Serial blood 
+samples of NPC patients were collected before, during and after the treatment.
+The titers of antibodies directed at Rta (IgG), EA (IgG), VCA (IgA), and NA1
+(IgA) were determined in duplicate by ELISA.
+RESULTS: Results showed that the combined tests of EA and Rta antibodies
+significantly improved the sensitivity from 89.0% for EA alone to 95%. For VCA or
+NA1 in combination with the EA test, it was revealed that either the increase of 
+the specificity was minimal, or the decrease of the specificity was unacceptable.
+Rta, EA, VCA, and NA1 antibody titers in serial samples were followed from 53
+patients of complete remission and 9 patients with recurrence or distal
+metastasis post the treatment for 2 years. However, the trend of antibody titers 
+of Rta, VCA or NA1 in combination with EA failed to indicate a difference between
+patients with good and poor prognosis.
+CONCLUSION: Combined measurements of anti-Rta and anti-EA antibodies could
+significantly increase the sensitivity for the diagnosis of NPC while maintain a 
+high specificity.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2012.10.001 
+PMID: 23099280  [Indexed for MEDLINE]

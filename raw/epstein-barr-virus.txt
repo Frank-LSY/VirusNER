@@ -1,0 +1,1863 @@
+
+1. J Microbiol. 2018 Aug;56(8):525-533. doi: 10.1007/s12275-018-8039-x. Epub 2018
+Jun 14.
+
+Phylogenetic comparison of Epstein-Barr virus genomes.
+
+Choi SJ(1), Jung SW(1), Huh S(1), Cho H(2), Kang H(3).
+
+Author information: 
+(1)College of Pharmacy, Research Institute of Pharmaceutical Sciences and
+Kyungpook National University Cancer Research Institute, Kyungpook National
+University, Daegu, 41566, Republic of Korea.
+(2)College of Pharmacy, Duksung Women's University, Seoul, 01369, Republic of
+Korea. hyosun1102@duksung.ac.kr.
+(3)College of Pharmacy, Research Institute of Pharmaceutical Sciences and
+Kyungpook National University Cancer Research Institute, Kyungpook National
+University, Daegu, 41566, Republic of Korea. hkang72@knu.ac.kr.
+
+Technologies used for genome analysis and whole genome sequencing are useful for 
+us to understand genomic characterization and divergence. The Epstein-Barr virus 
+(EBV) is an oncogenic virus that causes diverse diseases such as Burkitt's
+lymphoma (BL), nasopharyngeal carcinoma (NPC), Hodgkin's lymphoma (HL), and
+gastric carcinoma (GC). EBV genomes found in these diseases can be classified
+either by phases of EBV latency (type-I, -II, and -III latency) or types of EBNA2
+sequence difference (type-I EBV, type-II EBV or EBV-1, EBV-2). EBV from
+EBV-transformed lymphoblastoid cell line (LCL) establishes type-III latency, EBV 
+from NPC establishes type-II latency, and EBV from GC establishes type-I latency.
+However, other important factors play key roles in classifying numerous EBV
+strains because EBV genomes are highly diverse and not phylogenetically related
+to types of EBV-associated diseases. Herein, we first reviewed previous studies
+to describe molecular characteristics of EBV genomes. Then, using comparative and
+phylogenetic analyses, we phylogenetically analyzed molecular variations of EBV
+genomes and proteins. The review of previous studies and our phylogenetic
+analysis showed that EBV genomes and proteins were highly diverse regardless of
+types of EBV-associated diseases. Other factors should be considered in
+determining EBV taxonomy. This review will be helpful to understand complicated
+phylogenetic relationships of EBV genomes.
+
+DOI: 10.1007/s12275-018-8039-x 
+PMID: 29948828  [Indexed for MEDLINE]
+
+
+2. BMC Oral Health. 2017 Dec 12;17(1):148. doi: 10.1186/s12903-017-0438-6.
+
+Prevalence of Epstein-Barr virus DNA and Porphyromonas gingivalis in Japanese
+peri-implantitis patients.
+
+Kato A(1), Imai K(2), Sato H(1), Ogata Y(3).
+
+Author information: 
+(1)Yorimasa Ogata, Department of Periodontology and Research Institute of Oral
+Science, Nihon University School of Dentistry at Matsudo, 2-870-1
+Skakaecho-nishi, Matsudo, Chiba, 271-8587, Japan.
+(2)Department of Microbiology, Division of Immunology and Pathobiology, Dental
+Research Center, Nihon University School of Dentistry, Tokyo, 102-8310, Japan.
+(3)Yorimasa Ogata, Department of Periodontology and Research Institute of Oral
+Science, Nihon University School of Dentistry at Matsudo, 2-870-1
+Skakaecho-nishi, Matsudo, Chiba, 271-8587, Japan. ogata.yorimasa@nihon-u.ac.jp.
+
+BACKGROUND: Peri-implantitis (PI) is an inflammatory reaction associated with
+functional deterioration of supporting bones around the dental implant. Recent
+studies suggested Epstein-Barr virus (EBV) is involved in the pathogenesis of
+periodontitis. We investigated the association between EBV and Porphyromonas
+gingivalis in Japanese PI patients.
+METHODS: Fifteen periodontally healthy individuals, 15 healthy implant patients
+and 15 PI patients were recruited. Forty five subgingival plaque samples were
+collected from the deepest probing pocket depth (PPD) site from each patient.
+Real-time PCR was used to detect EBV DNA and P. gingivalis.
+RESULTS: EBV and P. gingivalis were detected in 7 and 3 PPD sites of the healthy 
+controls, in 9 and 4 PPD sites of the healthy implants, and in 13 and 14 PPD
+sites of the PI patients. P. gingivalis and coexistence of EBV and P. gingivalis 
+were detected significantly higher in the PI patients than healthy controls and
+healthy implant patients. EBV was detected significantly higher in the PI
+patients than healthy controls.
+CONCLUSIONS: Higher levels of EBV and P. gingivalis were detected in PPD sites of
+PI patients. These results suggest that coexistence of EBV and P. gingivalis may 
+serve pathogenic factors cause for PI in Japanese dental patients.
+
+DOI: 10.1186/s12903-017-0438-6 
+PMCID: PMC5727789
+PMID: 29233156  [Indexed for MEDLINE]
+
+
+3. Viruses. 2017 Nov 16;9(11). pii: E341. doi: 10.3390/v9110341.
+
+Epstein-Barr Virus Hijacks DNA Damage Response Transducers to Orchestrate Its
+Life Cycle.
+
+Hau PM(1), Tsao SW(2).
+
+Author information: 
+(1)Department of Anatomical and Cellular Pathology, Faculty of Medicine, The
+Chinese University of Hong Kong, Hong Kong, China. tomhau@cuhk.edu.hk.
+(2)School of Biomedical Science, Li Ka Shing Faculty of Medicine, The University 
+of Hong Kong, Hong Kong, China. gswtsao@hku.hk.
+
+The Epstein-Barr virus (EBV) is a ubiquitous virus that infects most of the human
+population. EBV infection is associated with multiple human cancers, including
+Burkitt's lymphoma, Hodgkin's lymphoma, a subset of gastric carcinomas, and
+almost all undifferentiated non-keratinizing nasopharyngeal carcinoma. Intensive 
+research has shown that EBV triggers a DNA damage response (DDR) during primary
+infection and lytic reactivation. The EBV-encoded viral proteins have been
+implicated in deregulating the DDR signaling pathways. The consequences of DDR
+inactivation lead to genomic instability and promote cellular transformation.
+This review summarizes the current understanding of the relationship between EBV 
+infection and the DDR transducers, including ATM (ataxia telangiectasia mutated),
+ATR (ATM and Rad3-related), and DNA-PK (DNA-dependent protein kinase), and
+discusses how EBV manipulates the DDR signaling pathways to complete the
+replication process of viral DNA during lytic reactivation.
+
+DOI: 10.3390/v9110341 
+PMCID: PMC5707548
+PMID: 29144413  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+4. J Korean Med Sci. 2017 Dec;32(12):1959-1966. doi: 10.3346/jkms.2017.32.12.1959.
+
+Identification of Epstein-Barr Virus in the Human Placenta and Its Pathologic
+Characteristics.
+
+Kim Y(1)(2), Kim HS(3), Park JS(3), Kim CJ(4), Kim WH(5).
+
+Author information: 
+(1)Department of Pathology, Seoul National University College of Medicine, Seoul,
+Korea.
+(2)Laboratory of Epigenetics, Cancer Research Institute, Seoul National
+University, Seoul, Korea.
+(3)Department of Obstetrics and Gynecology, Seoul National University College of 
+Medicine, Seoul, Korea.
+(4)Department of Pathology, University of Ulsan College of Medicine, Asan Medical
+Center, Seoul, Korea.
+(5)Department of Pathology, Seoul National University College of Medicine, Seoul,
+Korea. woohokim@snu.ac.kr.
+
+Epstein-Barr virus (EBV), a common pathogen in humans, is suspected as the cause 
+of multiple pregnancy-related pathologies including depression, preeclampsia, and
+stillbirth. Moreover, transmission of EBV through the placenta has been reported.
+However, the focus of EBV infection within the placenta has remained unknown to
+date. In this study, we proved the expression of latent EBV genes in the
+endometrial glandular epithelial cells of the placenta and investigated the
+cytological characteristics of these cells. Sixty-eight placentas were obtained
+from pregnant women. Tissue microarray was constructed. EBV latent genes
+including EBV-encoding RNA-1 (EBER1), Epstein-Barr virus nuclear antigen 1
+(EBNA1), late membrane antigen (LMP1), and RPMS1 were detected with silver in
+situ hybridization and/or mRNA in situ hybridization. Nuclear features of
+EBV-positive cells in EBV-infected placenta were compared with those of
+EBV-negative cells via image analysis. Sixteen placentas (23.5%) showed positive 
+expression of all 4 EBV latent genes; only the glandular epithelial cells of the 
+decidua showed EBV gene expression. EBV infection status was not significantly
+correlated with maternal, fetal, or placental factors. The nuclei of EBV-positive
+cells were significantly larger, longer, and round-shaped than those of
+EBV-negative cells regardless of EBV-infection status of the placenta. For the
+first time, evidence of EBV gene expression has been shown in placental tissues. 
+Furthermore, we have characterized its cytological features, allowing screening
+of EBV infection through microscopic examination.
+
+© 2017 The Korean Academy of Medical Sciences.
+
+DOI: 10.3346/jkms.2017.32.12.1959 
+PMCID: PMC5680494
+PMID: 29115077  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no potential conflicts of
+interest to disclose.
+
+
+5. J Virol. 2018 Jan 2;92(2). pii: e01466-17. doi: 10.1128/JVI.01466-17. Print 2018 
+Jan 15.
+
+Early Epstein-Barr Virus Genomic Diversity and Convergence toward the B95.8
+Genome in Primary Infection.
+
+Weiss ER(1), Lamers SL(2), Henderson JL(1), Melnikov A(3), Somasundaran M(4),
+Garber M(1), Selin L(5), Nusbaum C(3), Luzuriaga K(6).
+
+Author information: 
+(1)Program in Molecular Medicine, University of Massachusetts Medical School,
+Worcester, Massachusetts, USA.
+(2)Bioinfoexperts LLC, Thibodaux, Louisiana, USA.
+(3)Broad Technology Labs, Broad Institute, Cambridge, Massachusetts, USA.
+(4)Biochemistry and Molecular Pharmacology, University of Massachusetts Medical
+School, Worcester, Massachusetts, USA.
+(5)Pathology, University of Massachusetts Medical School, Worcester,
+Massachusetts, USA.
+(6)Program in Molecular Medicine, University of Massachusetts Medical School,
+Worcester, Massachusetts, USA Katherine.luzuriaga@umassmed.edu.
+
+Over 90% of the world's population is persistently infected with Epstein-Barr
+virus. While EBV does not cause disease in most individuals, it is the common
+cause of acute infectious mononucleosis (AIM) and has been associated with
+several cancers and autoimmune diseases, highlighting a need for a preventive
+vaccine. At present, very few primary, circulating EBV genomes have been
+sequenced directly from infected individuals. While low levels of diversity and
+low viral evolution rates have been predicted for double-stranded DNA (dsDNA)
+viruses, recent studies have demonstrated appreciable diversity in common dsDNA
+pathogens (e.g., cytomegalovirus). Here, we report 40 full-length EBV genome
+sequences obtained from matched oral wash and B cell fractions from a cohort of
+10 AIM patients. Both intra- and interpatient diversity were observed across the 
+length of the entire viral genome. Diversity was most pronounced in viral genes
+required for establishing latent infection and persistence, with appreciable
+levels of diversity also detected in structural genes, including envelope
+glycoproteins. Interestingly, intrapatient diversity declined significantly over 
+time (P < 0.01), and this was particularly evident on comparison of viral genomes
+sequenced from B cell fractions in early primary infection and convalescence (P <
+0.001). B cell-associated viral genomes were observed to converge, becoming
+nearly identical to the B95.8 reference genome over time (Spearman rank-order
+correlation test; r = -0.5589, P = 0.0264). The reduction in diversity was most
+marked in the EBV latency genes. In summary, our data suggest independent
+convergence of diverse viral genome sequences toward a reference-like strain
+within a relatively short period following primary EBV infection.IMPORTANCE
+Identification of viral proteins with low variability and high immunogenicity is 
+important for the development of a protective vaccine. Knowledge of genome
+diversity within circulating viral populations is a key step in this process, as 
+is the expansion of intrahost genomic variation during infection. We report
+full-length EBV genomes sequenced from the blood and oral wash of 10 individuals 
+early in primary infection and during convalescence. Our data demonstrate
+considerable diversity within the pool of circulating EBV strains, as well as
+within individual patients. Overall viral diversity decreased from early to
+persistent infection, particularly in latently infected B cells, which serve as
+the viral reservoir. Reduction in B cell-associated viral genome diversity
+coincided with a convergence toward a reference-like EBV genotype. Greater
+convergence positively correlated with time after infection, suggesting that the 
+reference-like genome is the result of selection.
+
+Copyright © 2018 American Society for Microbiology.
+
+DOI: 10.1128/JVI.01466-17 
+PMCID: PMC5752928
+PMID: 29093087  [Indexed for MEDLINE]
+
+
+6. Tumour Biol. 2017 Oct;39(10):1010428317714195. doi: 10.1177/1010428317714195.
+
+Genome-wide analysis of Epstein-Barr virus identifies variants and genes
+associated with gastric carcinoma and population structure.
+
+Yao Y(1), Xu M(1), Liang L(2), Zhang H(1), Xu R(3), Feng Q(1), Feng L(1), Luo
+B(4), Zeng YX(1).
+
+Author information: 
+(1)1 Department of Experimental Research, State Key Laboratory of Oncology in
+South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen
+University Cancer Center, Guangzhou, China.
+(2)2 Department of Epidemiology and Department of Biostatistics, Harvard T. H.
+Chan School of Public Health, Boston, MA, USA.
+(3)3 Department of Medical Oncology, State Key Laboratory of Oncology in South
+China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen
+University Cancer Center, Guangzhou, China.
+(4)4 Department of Medical Microbiology, Qingdao University Medical College,
+Qingdao, China.
+
+Epstein-Barr virus is a ubiquitous virus and is associated with several human
+malignances, including the significant subset of gastric carcinoma, Epstein-Barr 
+virus-associated gastric carcinoma. Some Epstein-Barr virus-associated diseases
+are uniquely prevalent in populations with different geographic origins. However,
+the features of the disease and geographically associated Epstein-Barr virus
+genetic variation as well as the roles that the variation plays in carcinogenesis
+and evolution remain unclear. Therefore, in this study, we sequenced 95
+geographically distinct Epstein-Barr virus isolates from Epstein-Barr
+virus-associated gastric carcinoma biopsies and saliva of healthy donors to
+detect variants and genes associated with gastric carcinoma and population
+structure from a genome-wide spectrum. We demonstrated that Epstein-Barr virus
+revealed the population structure between North China and South China. In
+addition, we observed population stratification between Epstein-Barr virus
+strains from gastric carcinoma and healthy controls, indicating that certain
+Epstein-Barr virus subtypes are associated with different gastric carcinoma
+risks. We identified that the BRLF1, BBRF3, and BBLF2/BBLF3 genes had significant
+associations with gastric carcinoma. LMP1 and BNLF2a genes were strongly
+geographically associated genes in Epstein-Barr virus. Our study provides
+insights into the genetic basis of oncogenic Epstein-Barr virus for gastric
+carcinoma, and the genetic variants associated with gastric carcinoma can serve
+as biomarkers for oncogenic Epstein-Barr virus.
+
+DOI: 10.1177/1010428317714195 
+PMID: 29034771  [Indexed for MEDLINE]
+
+
+7. Virology. 2017 Dec;512:113-123. doi: 10.1016/j.virol.2017.09.015.
+
+The Epstein-Barr virus miR-BHRF1 microRNAs regulate viral gene expression in cis.
+
+Poling BC(1), Price AM(2), Luftig MA(3), Cullen BR(4).
+
+Author information: 
+(1)Department of Molecular Genetics & Microbiology and Center for Virology, Duke 
+University Medical Center, Durham, NC, USA. Electronic address:
+Brigid.poling@duke.edu.
+(2)Department of Molecular Genetics & Microbiology and Center for Virology, Duke 
+University Medical Center, Durham, NC, USA. Electronic address:
+price.alexander.m@gmail.com.
+(3)Department of Molecular Genetics & Microbiology and Center for Virology, Duke 
+University Medical Center, Durham, NC, USA. Electronic address:
+micah.luftig@duke.edu.
+(4)Department of Molecular Genetics & Microbiology and Center for Virology, Duke 
+University Medical Center, Durham, NC, USA. Electronic address:
+Bryan.cullen@duke.edu.
+
+The Epstein-Barr virus (EBV) miR-BHRF1 microRNA (miRNA) cluster has been shown to
+facilitate B-cell transformation and promote the rapid growth of the resultant
+lymphoblastoid cell lines (LCLs). However, we find that expression of
+physiological levels of the miR-BHRF1 miRNAs in LCLs transformed with a miR-BHRF1
+null mutant (∆123) fails to increase their growth rate. We demonstrate that the
+pri-miR-BHRF1-2 and 1-3 stem-loops are present in the 3'UTR of transcripts
+encoding EBNA-LP and that excision of pre-miR-BHRF1-2 and 1-3 by Drosha
+destabilizes these mRNAs and reduces expression of the encoded protein.
+Therefore, mutational inactivation of pri-miR-BHRF1-2 and 1-3 in the ∆123 mutant 
+upregulates the expression of not only EBNA-LP but also EBNA-LP-regulated mRNAs
+and proteins, including LMP1. We hypothesize that this overexpression causes the 
+reduced transformation capacity of the ∆123 EBV mutant. Thus, in addition to
+regulating cellular mRNAs in trans, miR-BHRF1-2 and 1-3 also regulate EBNA-LP
+mRNA expression in cis.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2017.09.015 
+PMCID: PMC5653404
+PMID: 28950226  [Indexed for MEDLINE]
+
+
+8. J Infect Dis. 2017 Sep 15;216(6):670-677. doi: 10.1093/infdis/jix363.
+
+Epstein-Barr Virus Type 2 Infects T Cells in Healthy Kenyan Children.
+
+Coleman CB(1), Daud II(2), Ogolla SO(1)(3), Ritchie JA(4), Smith NA(1), Sumba
+PO(3), Dent AE(5), Rochford R(1).
+
+Author information: 
+(1)Department of Immunology and Microbiology, University of Colorado-Denver
+School of Medicine, Aurora.
+(2)Academic Model Providing Access to Healthcare Research Laboratories, Eldoret, 
+Kenya.
+(3)Center for Global Health Research, Kenya Medical Research Institute, Kisumu.
+(4)Department of Microbiology and Immunology, SUNY Upstate Medical University,
+Syracuse, New York.
+(5)Center for Global Health and Diseases, Case Western Reserve University,
+Cleveland, Ohio.
+
+Background: The 2 strains of Epstein-Barr virus (EBV), EBV type 1 (EBV-1) and
+EBV-2, differ in latency genes, suggesting that they use distinct mechanisms to
+establish latency. We previously reported that EBV-2 infects T cells in vitro. In
+this study, we tested the possibility that EBV-2 infects T cells in vivo.
+Methods: Purified T-cell fractions isolated from children positive for EBV-1 or
+EBV-2 and their mothers were examined for the presence of EBV and for EBV type.
+Results: We detected EBV-2 in all T-cell samples obtained from EBV-2-infected
+children at 12 months of age, with some children retaining EBV-2-positive T cells
+through 24 months of age, suggesting that EBV-2 persists in T cells. We were
+unable to detect EBV-2 in T-cell samples from mothers but could detect EBV-2 in
+samples of their breast milk and saliva.
+Conclusions: These data suggest that EBV-2 uses T cells as an additional latency 
+reservoir but that, over time, the frequency of infected T cells may drop below
+detectable levels. Alternatively, EBV-2 may establish a prolonged transient
+infection in the T-cell compartment. Collectively, these novel findings
+demonstrate that EBV-2 infects T cells in vivo and suggest EBV-2 may use the
+T-cell compartment to establish latency.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix363 
+PMCID: PMC5853903
+PMID: 28934430  [Indexed for MEDLINE]
+
+
+9. J Virol. 2017 Nov 14;91(23). pii: e00920-17. doi: 10.1128/JVI.00920-17. Print
+2017 Dec 1.
+
+Heterogeneity of the Epstein-Barr Virus (EBV) Major Internal Repeat Reveals
+Evolutionary Mechanisms of EBV and a Functional Defect in the Prototype EBV
+Strain B95-8.
+
+Ba Abdullah MM(1), Palermo RD(1), Palser AL(2), Grayson NE(2), Kellam P(1)(2)(3),
+Correia S(1), Szymula A(1), White RE(4).
+
+Author information: 
+(1)Section of Virology, Imperial College Faculty of Medicine, St. Mary's
+Hospital, Norfolk Place, London, United Kingdom.
+(2)Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom.
+(3)Kymab, Babraham Research Campus, Cambridge, United Kingdom.
+(4)Section of Virology, Imperial College Faculty of Medicine, St. Mary's
+Hospital, Norfolk Place, London, United Kingdom robert.e.white@imperial.ac.uk.
+
+Epstein-Barr virus (EBV) is a ubiquitous pathogen of humans that can cause
+several types of lymphoma and carcinoma. Like other herpesviruses, EBV has
+diversified through both coevolution with its host and genetic exchange between
+virus strains. Sequence analysis of the EBV genome is unusually challenging
+because of the large number and lengths of repeat regions within the virus. Here 
+we describe the sequence assembly and analysis of the large internal repeat 1 of 
+EBV (IR1; also known as the BamW repeats) for more than 70 strains. The diversity
+of the latency protein EBV nuclear antigen leader protein (EBNA-LP) resides
+predominantly within the exons downstream of IR1. The integrity of the putative
+BWRF1 open reading frame (ORF) is retained in over 80% of strains, and deletions 
+truncating IR1 always spare BWRF1. Conserved regions include the IR1 latency
+promoter (Wp) and one zone upstream of and two within BWRF1. IR1 is heterogeneous
+in 70% of strains, and this heterogeneity arises from sequence exchange between
+strains as well as from spontaneous mutation, with interstrain recombination
+being more common in tumor-derived viruses. This genetic exchange often
+incorporates regions of <1 kb, and allelic gene conversion changes the frequency 
+of small regions within the repeat but not close to the flanks. These
+observations suggest that IR1-and, by extension, EBV-diversifies through both
+recombination and breakpoint repair, while concerted evolution of IR1 is driven
+by gene conversion of small regions. Finally, the prototype EBV strain B95-8
+contains four nonconsensus variants within a single IR1 repeat unit, including a 
+stop codon in the EBNA-LP gene. Repairing IR1 improves EBNA-LP levels and the
+quality of transformation by the B95-8 bacterial artificial chromosome
+(BAC).IMPORTANCE Epstein-Barr virus (EBV) infects the majority of the world
+population but causes illness in only a small minority of people. Nevertheless,
+over 1% of cancers worldwide are attributable to EBV. Recent sequencing projects 
+investigating virus diversity to see if different strains have different disease 
+impacts have excluded regions of repeating sequence, as they are more technically
+challenging. Here we analyze the sequence of the largest repeat in EBV (IR1). We 
+first characterized the variations in protein sequences encoded across IR1. In
+studying variations within the repeat of each strain, we identified a mutation in
+the main laboratory strain of EBV that impairs virus function, and we suggest
+that tumor-associated viruses may be more likely to contain DNA mixed from two
+strains. The patterns of this mixing suggest that sequences can spread between
+strains (and also within the repeat) by copying sequence from another strain (or 
+repeat unit) to repair DNA damage.
+
+Copyright © 2017 Ba abdullah et al.
+
+DOI: 10.1128/JVI.00920-17 
+PMCID: PMC5686732
+PMID: 28904201  [Indexed for MEDLINE]
+
+
+10. J Gen Virol. 2017 Sep;98(9):2343-2350. doi: 10.1099/jgv.0.000891. Epub 2017 Aug
+10.
+
+Molecular diversity of IgG responses to Epstein-Barr virus proteins in
+asymptomatic Epstein-Barr virus carriers.
+
+Goswami R(1), Shair KHY(2), Gershburg E(3).
+
+Author information: 
+(1)1​Department of Medical Microbiology, Immunology, and Cell Biology, Southern
+Illinois University School of Medicine, Springfield, IL 62794-9626, USA
+2​Department of Internal Medicine, Southern Illinois University School of
+Medicine, Springfield, IL 62702, USA †​Present address: Duke Human Vaccine
+Institute, Duke University Medical Center, Durham, NC 27710, USA.
+(2)3​Cancer Virology Program, University of Pittsburgh Cancer Institute Hillman
+Cancer Center, Pittsburgh, PA 15232, USA 4​Department of Microbiology and
+Molecular Genetics, University of Pittsburgh, Pittsburgh, PA 15213, USA.
+(3)2​Department of Internal Medicine, Southern Illinois University School of
+Medicine, Springfield, IL 62702, USA 1​Department of Medical Microbiology,
+Immunology, and Cell Biology, Southern Illinois University School of Medicine,
+Springfield, IL 62794-9626, USA 5​Simmons Cancer Institute, Southern Illinois
+University School of Medicine, Springfield, IL 62702, USA.
+
+The Epstein-Barr virus (EBV) is a ubiquitous pathogen that infects over 90 % of
+adults. EBV is the primary etiological agent of infectious mononucleosis and is
+closely associated with nasopharyngeal carcinoma, gastric carcinoma, Hodgkin
+lymphoma and Burkitt lymphoma. Clinical serological assays for EBV diagnosis only
+survey a small portion of the viral proteome, which does not represent the total 
+antigenic breadth presented to the immune system during viral infection. In this 
+study, we have generated an expression library containing the majority of EBV
+ORFs, and have systematically evaluated IgG responses to those EBV proteins in
+sera from EBV carriers. In addition to confirming previously recognized dominant 
+EBV antigens, this study has identified additional immunodominant antigens, and
+has revealed a more expansive antigenic profile of the humoral responses to EBV
+in asymptomatic carriers. This EBV expression library will be deposited in a
+public repository with the goal of disseminating this new research tool for the
+application of identifying potential new biomarkers for EBV-associated diseases.
+
+DOI: 10.1099/jgv.0.000891 
+PMID: 28795661  [Indexed for MEDLINE]
+
+
+11. Curr Opin Virol. 2017 Oct;26:74-80. doi: 10.1016/j.coviro.2017.07.017. Epub 2017 
+Aug 4.
+
+Epstein-Barr virus: a master epigenetic manipulator.
+
+Scott RS(1).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Center for Molecular and Tumor
+Virology, and Feist-Weiller Cancer Center, Louisiana State University Health
+Sciences Center - Shreveport, United States. Electronic address:
+rscott1@lsuhsc.edu.
+
+Like all herpesviruses, the ability of Epstein-Barr virus (EBV) to establish
+life-long persistent infections is related to a biphasic viral lifecycle that
+involves latency and reactivation/lytic replication. Memory B cells serve as the 
+EBV latency compartment where silencing of viral gene expression allows
+maintenance of the viral genome, avoidance of immune surveillance, and life-long 
+carriage. Upon viral reactivation, viral gene expression is induced for
+replication, progeny virion production, and viral spread. EBV uses the host
+epigenetic machinery to regulate its distinct viral gene expression states.
+However, epigenetic manipulation by EBV affects the host epigenome by
+reprogramming cells in ways that leave long-lasting, oncogenic phenotypes. Such
+virally-induced epigenetic alterations are evident in EBV-associated cancers.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2017.07.017 
+PMCID: PMC5742862
+PMID: 28780440  [Indexed for MEDLINE]
+
+
+12. Arch Pharm Res. 2017 Aug;40(8):894-905. doi: 10.1007/s12272-017-0939-5. Epub 2017
+Aug 4.
+
+DNA hypermethylation induced by Epstein-Barr virus in the development of
+Epstein-Barr virus-associated gastric carcinoma.
+
+Choi SJ(1), Shin YS(2), Kang BW(3), Kim JG(3), Won KJ(4), Lieberman PM(5), Cho
+H(6), Kang H(7).
+
+Author information: 
+(1)College of Pharmacy and Cancer Research Institute and Research Institute of
+Pharmaceutical Sciences, Kyungpook National University, Taegu, Republic of Korea.
+(2)Department of Medicinal Crop Research, National Institute of Horticultural and
+Herbal Science, Rural Development Administration, Eumseong, Republic of Korea.
+(3)Department of Oncology/Hematology, Kyungpook National University Hospital,
+Kyungpook National University School of Medicine, Kyungpook National University
+Cancer Research Institute, Kyungpook National University, Taegu, Republic of
+Korea.
+(4)Department of Genetics, Perelman School of Medicine, The Institute for
+Diabetes Obesity and Metabolism, University of Pennsylvania, Philadelphia, PA,
+USA.
+(5)The Wistar Institute, Philadelphia, PA, USA.
+(6)College of Pharmacy and Innovative Drug Center, Duksung Women's University,
+Seoul, Republic of Korea. hyosun1102@duksung.ac.kr.
+(7)College of Pharmacy and Cancer Research Institute and Research Institute of
+Pharmaceutical Sciences, Kyungpook National University, Taegu, Republic of Korea.
+hkang72@knu.ac.kr.
+
+Epstein-Barr virus (EBV)-associated gastric carcinoma (EBVaGC) is a recently
+recognized disease entity defined by the presence of EBV in gastric carcinoma
+cells. EBV infection causes major epigenetic alterations in the EBV genome and
+its cellular host genome, suggesting that EBV acts as a direct epigenetic driver 
+for EBVaGC. One of the major epigenetic events in the viral and cellular genomes 
+to control transcription is DNA hypo- or hyper-methylation. Particularly, local
+and global hypermethylation have been reported in EBVaGC. It is therefore
+important to understand the molecular mechanisms of DNA hypermethylation during
+EBVaGC carcinogenesis. To understand the functional roles of DNA methylation and 
+suggest therapeutic target candidates for EBVaGC, we reviewed recent literature
+reporting DNA hypermethylation in EBVaGC. We summarized the identified candidate 
+genes that are markedly hypermethylated in EBVaGC, which can potentially be
+targets for chemotherapies with demethylating agents.
+
+DOI: 10.1007/s12272-017-0939-5 
+PMID: 28779374  [Indexed for MEDLINE]
+
+
+13. J Virol. 2017 Jul 12;91(15). pii: e00375-17. doi: 10.1128/JVI.00375-17. Print
+2017 Aug 1.
+
+Natural Variation of Epstein-Barr Virus Genes, Proteins, and Primary MicroRNA.
+
+Correia S(1), Palser A(2), Elgueta Karstegl C(1), Middeldorp JM(3), Ramayanti
+O(3), Cohen JI(4), Hildesheim A(5), Fellner MD(6), Wiels J(7), White RE(1),
+Kellam P(1)(2), Farrell PJ(8).
+
+Author information: 
+(1)Section of Virology, Imperial College Faculty of Medicine, Norfolk Place,
+London, United Kingdom.
+(2)Wellcome Trust Sanger Institute, Hinxton, Cambridge, United Kingdom.
+(3)Department of Pathology, VU University Medical Center, Amsterdam, Netherlands.
+(4)Laboratory of Infectious Diseases, National Institute of Allergy and
+Infectious Diseases, Bethesda, Maryland, USA.
+(5)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and 
+Genetics, NCI, Bethesda, Maryland, USA.
+(6)National Institute of Infectious Diseases-ANLIS Carlos G. Malbrán, Buenos
+Aires, Argentina.
+(7)UMR 8126 CNRS, University of Paris-Sud, Institut Gustave Roussy, Villejuif,
+France.
+(8)Section of Virology, Imperial College Faculty of Medicine, Norfolk Place,
+London, United Kingdom p.farrell@imperial.ac.uk.
+
+Viral gene sequences from an enlarged set of about 200 Epstein-Barr virus (EBV)
+strains, including many primary isolates, have been used to investigate variation
+in key viral genetic regions, particularly LMP1, Zp, gp350, EBNA1, and the BART
+microRNA (miRNA) cluster 2. Determination of type 1 and type 2 EBV in saliva
+samples from people from a wide range of geographic and ethnic backgrounds
+demonstrates a small percentage of healthy white Caucasian British people
+carrying predominantly type 2 EBV. Linkage of Zp and gp350 variants to type 2 EBV
+is likely to be due to their genes being adjacent to the EBNA3 locus, which is
+one of the major determinants of the type 1/type 2 distinction. A novel
+classification of EBNA1 DNA binding domains, named QCIGP, results from phylogeny 
+analysis of their protein sequences but is not linked to the type 1/type 2
+classification. The BART cluster 2 miRNA region is classified into three major
+variants through single-nucleotide polymorphisms (SNPs) in the primary miRNA
+outside the mature miRNA sequences. These SNPs can result in altered levels of
+expression of some miRNAs from the BART variant frequently present in Chinese and
+Indonesian nasopharyngeal carcinoma (NPC) samples. The EBV genetic variants
+identified here provide a basis for future, more directed analysis of association
+of specific EBV variations with EBV biology and EBV-associated
+diseases.IMPORTANCE Incidence of diseases associated with EBV varies greatly in
+different parts of the world. Thus, relationships between EBV genome sequence
+variation and health, disease, geography, and ethnicity of the host may be
+important for understanding the role of EBV in diseases and for development of an
+effective EBV vaccine. This paper provides the most comprehensive analysis so far
+of variation in specific EBV genes relevant to these diseases and proposed EBV
+vaccines. By focusing on variation in LMP1, Zp, gp350, EBNA1, and the BART miRNA 
+cluster 2, new relationships with the known type 1/type 2 strains are
+demonstrated, and a novel classification of EBNA1 and the BART miRNAs is
+proposed.
+
+Copyright © 2017 Correia et al.
+
+DOI: 10.1128/JVI.00375-17 
+PMCID: PMC5512239
+PMID: 28515295  [Indexed for MEDLINE]
+
+
+14. J Gen Virol. 2017 Jan;98(1):96-107. doi: 10.1099/jgv.0.000699. Epub 2017 Feb 22.
+
+Comparative analysis of 22 Epstein-Barr virus genomes from diseased and healthy
+individuals.
+
+Zhou L(1), Chen JN(1), Qiu XM(2), Pan YH(1), Zhang ZG(1), Shao CK(1).
+
+Author information: 
+(1)1​Department of Pathology, The Third Affiliated Hospital, Sun Yat-sen
+University, No. 600 Tianhe Road, Guangzhou 510630, PR China.
+(2)2​DRIGEN Co. Ltd, No. 121-122 Chuangye Yuan, Shenzhen 518100, PR China.
+
+Epstein-Barr virus (EBV) infects most of the world's population and is causally
+associated with several human cancers, but little is known about how EBV genetic 
+variations might influence EBV-associated diseases and their geographical
+patterns. In the present study, 22 EBV whole-genome sequences from diseased and
+healthy individuals were analysed to explore EBV sequence variations at the
+whole-genome level. We found that the 22 EBV genomes were generally highly
+similar to each other at the genome level. However, varying degrees of genetic
+diversity were detected across the entire genome, especially in the latent genes.
+In contrast, the sequences of promoters and non-coding RNAs were strictly
+conserved. These findings suggested that both latent genes and non-coding RNAs
+play important roles in the EBV life cycle. When we investigated changes in known
+T-cell epitopes in some latent and lytic proteins, we observed that some T-cell
+epitopes were changed, while others were conserved. These findings indicate that 
+the effect of EBV variations in protein sequences that seem to have been selected
+by the host immune system should be considered when conducting EBV-targeted
+immunotherapy. Taken together, our results provide a global view of EBV genome
+sequence variation, which not only is important for designing vaccines and
+immunotherapy for EBV but also adds to the understanding of EBV biology and the
+relationships between viral sequence variation and EBV-associated diseases.
+
+DOI: 10.1099/jgv.0.000699 
+PMID: 28036243  [Indexed for MEDLINE]
+
+
+15. J Virol Methods. 2017 Mar;241:24-33. doi: 10.1016/j.jviromet.2016.12.007. Epub
+2016 Dec 16.
+
+Quantitative multi-target RNA profiling in Epstein-Barr virus infected tumor
+cells.
+
+Greijer AE(1), Ramayanti O(1), Verkuijlen SA(1), Novalić Z(1), Juwana H(1),
+Middeldorp JM(2).
+
+Author information: 
+(1)Department of Pathology, VU University Medical Center and Cancer Center
+Amsterdam, The Netherlands.
+(2)Department of Pathology, VU University Medical Center and Cancer Center
+Amsterdam, The Netherlands. Electronic address: j.middeldorp@vumc.nl.
+
+Epstein-Barr virus (EBV) is etiologically linked to multiple acute, chronic and
+malignant diseases. Detection of EBV-RNA transcripts in tissues or biofluids
+besides EBV-DNA can help in diagnosing EBV related syndromes. Sensitive EBV
+transcription profiling yields new insights on its pathogenic role and may be
+useful for monitoring virus targeted therapy. Here we describe a multi-gene
+quantitative RT-PCR profiling method that simultaneously detects a broad spectrum
+(n=16) of crucial latent and lytic EBV transcripts. These transcripts include
+(but are not restricted to), EBNA1, EBNA2, LMP1, LMP2, BARTs, EBER1, BARF1 and
+ZEBRA, Rta, BGLF4 (PK), BXLF1 (TK) and BFRF3 (VCAp18) all of which have been
+implicated in EBV-driven oncogenesis and viral replication. With this method we
+determine the amount of RNA copies per infected (tumor) cell in bulk populations 
+of various origin. While we confirm the expected RNA profiles within classic EBV 
+latency programs, this sensitive quantitative approach revealed the presence of
+rare cells undergoing lytic replication. Inducing lytic replication in EBV tumor 
+cells supports apoptosis and is considered as therapeutic approach to treat
+EBV-driven malignancies. This sensitive multi-primed quantitative RT-PCR approach
+can provide broader understanding of transcriptional activity in latent and lytic
+EBV infection and is suitable for monitoring virus-specific therapy responses in 
+patients with EBV associated cancers.
+
+Copyright © 2016 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jviromet.2016.12.007 
+PMID: 27993616  [Indexed for MEDLINE]
+
+
+16. Rinsho Ketsueki. 2016;57(10):2267-2274.
+
+Epstein-Barr virus infection and related hematological diseases.
+
+[Article in Japanese]
+
+Sawada A(1).
+
+Author information: 
+(1)Hematology/Oncology, Osaka Medical Center and Research Institute for Maternal 
+and Child Health.
+
+Once the Epstein-Barr virus (EBV) has infected a person, it then latently infects
+B cells. This latent infection lasts a lifetime. However, EBV can infect T or NK 
+cells (T/NK cells) in rare cases. Therefore, EBV causes various hematological
+diseases. Among these diseases, CAEBV is regarded as the most problematic
+because, although it is not particularly uncommon, the diagnostic tests for this 
+disease are not covered by health insurance, a serious illness in the
+"non-active" periods is lacking, and the appropriate motivation for early
+initiation of treatment can easily be lost. However, the symptoms may suddenly
+change; and if the manifestations are resistant when such exacerbation occurs,
+CAEBC is potentially lethal. Allogeneic hematopoietic stem cell transplantation
+(HSCT) is the only cure. Once the diagnosis has been made, earlier treatment
+initiation, safer bridging to allogeneic HSCT with multi-drug chemotherapy, and
+then, planned HSCT can be completed more safely and thereby achieve a better
+outcome.
+
+DOI: 10.11406/rinketsu.57.2267 
+PMID: 27795539  [Indexed for MEDLINE]
+
+
+17. Laryngoscope. 2016 Nov;126(11):2500-2504. doi: 10.1002/lary.26009. Epub 2016 Apr 
+26.
+
+Head and neck Epstein-Barr virus mucocutaneous ulcer: Case report and literature 
+review.
+
+Au JK(1), Said JW(2)(3)(4), Sepahdari AR(3)(5), St John MA(6)(7)(8).
+
+Author information: 
+(1)Department of Head and Neck Surgery, University of California Los Angeles
+Medical Center, Los Angeles, California.
+(2)Department of Pathology and Laboratory Medicine, University of California Los 
+Angeles Medical Center Medical Center, Los Angeles, California.
+(3)University of California Los Angeles Head and Neck Cancer Program, University 
+of California Los Angeles David Geffen School of Medicine, Los Angeles,
+California.
+(4)Jonsson Comprehensive Cancer Center, University of California Los Angeles,
+David Geffen School of Medicine, Los Angeles, California.
+(5)Department of Radiology, University of California Los Angeles Medical Center, 
+Los Angeles, California.
+(6)Department of Head and Neck Surgery, University of California Los Angeles
+Medical Center, Los Angeles, California. mstjohn@mednet.ucla.edu.
+(7)University of California Los Angeles Head and Neck Cancer Program, University 
+of California Los Angeles David Geffen School of Medicine, Los Angeles,
+California. mstjohn@mednet.ucla.edu.
+(8)Jonsson Comprehensive Cancer Center, University of California Los Angeles,
+David Geffen School of Medicine, Los Angeles, California.
+mstjohn@mednet.ucla.edu.
+
+OBJECTIVES/HYPOTHESIS: To report the clinical presentation, treatment, and
+management outcomes of patients with Epstein-Barr virus-positive mucocutaneous
+ulcer (EBVMCU) of the head and neck, which is a newly characterized pathologic
+entity with aggressive morphology but follows an indolent, self-limiting clinical
+course.
+STUDY DESIGN: Case report and literature review.
+METHODS: A case of EBVMCU of the base of tongue is reported and a retrospective
+review of all cases of EBVMCU of the head and neck at a single academic
+institution was conducted between January 1, 1986 and April 1, 2015. The MEDLINE 
+database was additionally queried from January 1, 1950 to April 1, 2015 for all
+reports of EBVMCU of the head and neck, and all pertinent clinical data were
+extracted.
+RESULTS: The clinical presentation, treatment, and response of a patient with
+EBVMCU of the base of tongue are presented. Interim follow-up of the patient has 
+revealed a complete remission with discontinuation of immunosuppression and
+rituximab therapy. A review of the literature supports conservative management
+and reduction of immunosuppression. Overall, 96.6% of patients with follow-up
+greater than 2 months achieved complete remission with conservative management.
+The current study is the largest series to report on the clinical presentation
+and treatment outcomes of EBVMCU of the head and neck.
+CONCLUSIONS: EBVMCU tends to follow an indolent and self-limiting clinical
+course, responding to reduction of immunosuppression and conservative treatment. 
+It is imperative for clinicians to consider EBVMCU in the differential diagnosis 
+of mucocutaneous ulcers of the head and neck to avoid excessive treatment.
+LEVEL OF EVIDENCE: Laryngoscope, 126:2500-2504, 2016.
+
+© 2016 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26009 
+PMID: 27113560  [Indexed for MEDLINE]
+
+
+18. Genome Biol Evol. 2016 Dec 14;8(11):3284-3291.
+
+Geographic Population Structure in Epstein-Barr Virus Revealed by Comparative
+Genomics.
+
+Chiara M(1), Manzari C(2), Lionetti C(2), Mechelli R(3), Anastasiadou E(4),
+Chiara Buscarinu M(3), Ristori G(3), Salvetti M(3), Picardi E(2)(5), D'Erchia
+AM(2)(5), Pesole G(2)(5), Horner DS(6)(2).
+
+Author information: 
+(1)Department of Biosciences, University of Milan, Milan, Italy.
+(2)Institute of Biomembranes and Bioenergetics, Consiglio Nazionale delle
+Ricerche, Bari, Italy.
+(3)Centre for Experimental Neurological Therapies, S. Andrea Hospital-site,
+Department of Neuroscience, Mental Health and Sensory Organs (NESMOS), Faculty of
+Medicine and Psychology, Sapienza University, Rome, Italy.
+(4)Department of Pathology, Beth Israel Deaconess Medical Center/Harvard Medical 
+School, Boston, Massachusetts.
+(5)Department of Biosciences, Biotechnology and Biopharmaceutics, University of
+Bari, "A. Moro", Bari, Italy.
+(6)Department of Biosciences, University of Milan, Milan, Italy
+david.horner@unimi.it.
+
+Epstein-Barr virus (EBV) latently infects the majority of the human population
+and is implicated as a causal or contributory factor in numerous diseases. We
+sequenced 27 complete EBV genomes from a cohort of Multiple Sclerosis (MS)
+patients and healthy controls from Italy, although no variants showed a
+statistically significant association with MS. Taking advantage of the
+availability of ∼130 EBV genomes with known geographical origins, we reveal a
+striking geographic distribution of EBV sub-populations with distinct allele
+frequency distributions. We discuss mechanisms that potentially explain these
+observations, and their implications for understanding the association of EBV
+with human disease.
+
+© The Author 2016. Published by Oxford University Press on behalf of the Society 
+for Molecular Biology and Evolution.
+
+DOI: 10.1093/gbe/evw226 
+PMCID: PMC5203774
+PMID: 27635051  [Indexed for MEDLINE]
+
+
+19. J Med Microbiol. 2016 Nov;65(11):1243-1252. doi: 10.1099/jmm.0.000352. Epub 2016 
+Sep 12.
+
+Analysis of Epstein-Barr virus and cellular gene expression during the early
+phases of Epstein-Barr virus lytic induction.
+
+Auburn H(1), Zuckerman M(1), Smith M(1).
+
+Author information: 
+(1)1​Department of Virology, South London Specialist Virology Centre, King's
+College NHS Foundation Trust, Denmark Hill, London SE5 9RS, UK.
+
+In order to develop novel host/pathogen real-time PCR assays for routine
+diagnostic use, early gene expression patterns from both Epstein-Barr virus (EBV)
+and Raji cells were examined after inducing the lytic life cycle using
+12-O-tetradecanoyl-13-phorbol ester and sodium butyrate. Real-time PCR identified
+several highly induced (>90-fold) EBV lytic genes over a 48 h time course during 
+the lytic induction phase. Latent genes were induced at low levels during this
+phase. The cellular response to lytic viral replication is poorly understood.
+Whole human genome microarray analysis identified 113 cellular genes regulated
+twofold or more by EBV, including 63 upregulated and 46 downregulated genes, over
+a 24 h time course post-induction. The most upregulated gene was CHI3L1, a
+chitinase-3-like 1 protein (18.1-fold; P<0.0084), and the most downregulated gene
+was TYMS, a thymidylate synthetase (-7.6-fold). Gene Ontology enrichment analysis
+using MetaCore software revealed cell cycle (core), cell cycle (role of
+anaphase-promoting complex) in cell cycle regulation) and lymphatic diseases as
+the most significantly represented biological network processes, canonical
+pathways and disease biomarkers, respectively. Chemotaxis, DNA damage and
+inflammation (IL-4 signalling) together with lymphoproliferative disorders and
+non-Hodgkin's lymphoma were significantly represented biological processes and
+disease biomarkers.
+
+DOI: 10.1099/jmm.0.000352 
+PMID: 27625030  [Indexed for MEDLINE]
+
+
+20. Curr Opin Virol. 2016 Oct;20:34-39. doi: 10.1016/j.coviro.2016.08.010. Epub 2016 
+Sep 1.
+
+Epstein Barr virus - a tumor virus that needs cytotoxic lymphocytes to persist
+asymptomatically.
+
+Münz C(1).
+
+Author information: 
+(1)Viral Immunobiology, Institute of Experimental Immunology, University of
+Zürich, Switzerland. Electronic address: christian.muenz@uzh.ch.
+
+Epstein Barr virus (EBV) is a human γ-herpesvirus that was discovered in
+Burkitt's lymphoma more than 50 years ago. Since then it has been proposed as the
+causative agent of up to 2% of all tumors worldwide, mainly lymphomas and
+epithelial cell carcinomas. Surprisingly, persistent EBV infection is at the same
+time found in more than 90% of healthy human adults. Even the very same programs 
+of EBV infection that are found in the associated malignancies are continuously
+present in healthy EBV carriers. We will discuss primary immunodeficiencies and
+immune compartment changes during the first decade of human life that give us
+insights into how tumorigenesis by persistent EBV infection and Hodgkin's
+lymphoma predisposing infectious mononucleosis is prevented during primary
+infection. These insights should allow identifying individuals at risk to develop
+EBV associated malignancies, who would benefit from EBV specific vaccination.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2016.08.010 
+PMID: 27591678  [Indexed for MEDLINE]
+
+
+21. Annu Rev Virol. 2016 Sep 29;3(1):359-372. Epub 2016 Aug 15.
+
+Epstein-Barr Virus: The Path from Latent to Productive Infection.
+
+Chiu YF(1)(2)(3)(4), Sugden B(1).
+
+Author information: 
+(1)McArdle Laboratory for Cancer Research, University of Wisconsin-Madison,
+Madison, Wisconsin 53705; email: sugden@oncology.wisc.edu.
+(2)Morgridge Institute for Research, Madison, Wisconsin 53715.
+(3)Research Center for Emerging Viral Infections and Department of Microbiology
+and Immunology, Chang Gung University, Taoyuan 33302, Taiwan.
+(4)Department of Medical Laboratory, Chang Gung Memorial Hospital, Taoyuan 33305,
+Taiwan.
+
+The intrinsic properties of different viruses have driven their study. For
+example, the capacity for efficient productive infection of cultured cells by
+herpes simplex virus 1 has made it a paradigm for this mode of infection for
+herpesviruses in general. Epstein-Barr virus, another herpesvirus, has two
+properties that have driven its study: It causes human cancers, and it exhibits a
+tractable transition from its latent to its productive cycle in cell culture.
+Here, we review our understanding of the path Epstein-Barr virus follows to move 
+from a latent infection to and through its productive cycle. We use information
+from human infections to provide a framework for describing studies in cell
+culture and, where possible, the molecular resolutions from these studies. We
+also pose questions whose answers we think are pivotal to understanding this
+path, and we provide answers where we can.
+
+DOI: 10.1146/annurev-virology-110615-042358 
+PMID: 27578440  [Indexed for MEDLINE]
+
+
+22. Oral Oncol. 2016 Sep;60:112-7. doi: 10.1016/j.oraloncology.2016.07.010. Epub 2016
+Jul 21.
+
+The other side of the coin: Leveraging Epstein-Barr virus in research and
+therapy.
+
+Yu F(1), Tan WJ(2), Lu Y(3), MacAry PA(2), Loh KS(4).
+
+Author information: 
+(1)Department of Otolaryngology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore. Electronic address: entyf@nus.edu.sg.
+(2)Department of Microbiology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore.
+(3)Department of Otolaryngology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore.
+(4)Department of Otolaryngology-Head and Neck Surgery, National University Health
+System, Singapore.
+
+Epstein-Barr virus is (EBV) a ubiquitous virus prevalent in 90% of the human
+population. Transmitted through infected saliva, EBV is the causative agent of
+infectious mononucleosis (IM) and is further implicated in malignancies of
+lymphoid and epithelial origins. In the past few decades, research efforts
+primarily focused on dissecting the mechanism of EBV-induced oncogenesis. Here,
+we present an alternate facet of the oncovirus EBV, on its applications in
+research and therapy. Finally, discussions on the prospective utilization of EBV 
+in nasopharyngeal carcinoma (NPC) diagnosis and therapy will also be presented.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.07.010 
+PMID: 27531881  [Indexed for MEDLINE]
+
+
+23. Sci Rep. 2016 Jul 29;6:30612. doi: 10.1038/srep30612.
+
+Computational discovery of Epstein-Barr virus targeted human genes and signalling
+pathways.
+
+Mei S(1), Zhang K(2).
+
+Author information: 
+(1)Software College, Shenyang Normal University, Shenyang, 110034, China.
+(2)Department of Computer Science, Xavier University of Louisiana, New Orleans,
+LA 70125, USA.
+
+Epstein-Barr virus (EBV) plays important roles in the origin and the progression 
+of human carcinomas, e.g. diffuse large B cell tumors, T cell lymphomas, etc.
+Discovering EBV targeted human genes and signaling pathways is vital to
+understand EBV tumorigenesis. In this study we propose a noise-tolerant homolog
+knowledge transfer method to reconstruct functional protein-protein interactions 
+(PPI) networks between Epstein-Barr virus and Homo sapiens. The training set is
+augmented via homolog instances and the homolog noise is counteracted by support 
+vector machine (SVM). Additionally we propose two methods to define subcellular
+co-localization (i.e. stringent and relaxed), based on which to further derive
+physical PPI networks. Computational results show that the proposed method
+achieves sound performance of cross validation and independent test. In the space
+of 648,672 EBV-human protein pairs, we obtain 51,485 functional interactions
+(7.94%), 869 stringent physical PPIs and 46,050 relaxed physical PPIs.
+Fifty-eight evidences are found from the latest database and recent literature to
+validate the model. This study reveals that Epstein-Barr virus interferes with
+normal human cell life, such as cholesterol homeostasis, blood coagulation, EGFR 
+binding, p53 binding, Notch signaling, Hedgehog signaling, etc. The proteome-wide
+predictions are provided in the supplementary file for further biomedical
+research.
+
+DOI: 10.1038/srep30612 
+PMCID: PMC4965740
+PMID: 27470517  [Indexed for MEDLINE]
+
+
+24. J Med Virol. 2017 Mar;89(3):373-387. doi: 10.1002/jmv.24633. Epub 2016 Dec 5.
+
+Epstein-Barr virus strains and variations: Geographic or disease-specific
+variants?
+
+Neves M(1)(2), Marinho-Dias J(1)(3)(4), Ribeiro J(1)(2)(3), Sousa H(1)(3).
+
+Author information: 
+(1)Molecular Oncology and Viral Pathology Group, Research Centre (CI-IPOP),
+Porto, Portugal.
+(2)Faculty of Medicine of University of Porto (FMUP), Porto, Portugal.
+(3)Virology Service, Portuguese Oncology Institute of Porto, Porto, Portugal.
+(4)Abel Salazar Institute for the Biomedical Sciences of University of Porto
+(ICBAS-UP), Porto, Portugal.
+
+The Epstein-Barr Virus (EBV) is associated with the development of several
+diseases, including infectious mononucleosis (IM), Burkitt's Lymphoma (BL),
+Nasopharyngeal Carcinoma, and other neoplasias. The publication of EBV genome
+1984 led to several studies regarding the identification of different viral
+strains. Currently, EBV is divided into EBV type 1 (B95-8 strain) and EBV type 2 
+(AG876 strain), also known as type A and type B, which have been distinguished
+based upon genetic differences in the Epstein-Barr nuclear antigens (EBNAs)
+sequence. Several other EBV strains have been described in the past 10 years
+considering variations on EBV genome, and many have attempted to clarify if these
+variations are ethnic or geographically correlated, or if they are disease
+related. Indeed, there is an increasing interest to describe possible specific
+disease associations, with emphasis on different malignancies. These studies aim 
+to clarify if these variations are ethnic or geographically correlated, or if
+they are disease related, thus being important to characterize the epidemiologic 
+genetic distribution of EBV strains on our population. Here, we review the
+current knowledge on the different EBV strains and variants and its association
+with different diseases. J. Med. Virol. 89:373-387, 2017. © 2016 Wiley
+Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24633 
+PMID: 27430663  [Indexed for MEDLINE]
+
+
+25. Microbiol Spectr. 2016 Jun;4(3). doi: 10.1128/microbiolspec.DMIH2-0011-2015.
+
+Epstein-Barr Virus.
+
+Nowalk A, Green M.
+
+This review covers relevant clinical and laboratory information relating to
+Epstein-Barr virus (EBV) infections in immunocompromised hosts. It describes the 
+epidemiology and clinical manifestations with a primary focus on disease in solid
+organ and stem cell transplant recipients. The review pays particular attention
+to diagnostic approaches, including serologic testing and imaging, with an
+expanded discussion on the role of measuring the EBV load in peripheral blood,
+identifying both strengths and limitations of this assay. Additional attention is
+paid to potential additional strategies of immunologic monitoring that may
+enhance the performance of EBV load monitoring.
+
+DOI: 10.1128/microbiolspec.DMIH2-0011-2015 
+PMID: 27337443  [Indexed for MEDLINE]
+
+
+26. J Prev Med Public Health. 2016 Mar;49(2):97-107. doi: 10.3961/jpmph.15.068. Epub 
+2016 Mar 4.
+
+Epstein-Barr Virus and Gastric Cancer Risk: A Meta-analysis With Meta-regression 
+of Case-control Studies.
+
+Bae JM(1), Kim EH(1).
+
+Author information: 
+(1)Department of Preventive Medicine, Jeju National University School of
+Medicine, Jeju, Korea.
+
+OBJECTIVES: Research on how the risk of gastric cancer increases with
+Epstein-Barr virus (EBV) infection is lacking. In a systematic review that
+investigated studies published until September 2014, the authors did not
+calculate the summary odds ratio (SOR) due to heterogeneity across studies.
+Therefore, we include here additional studies published until October 2015 and
+conduct a meta-analysis with meta-regression that controls for the heterogeneity 
+among studies.
+METHODS: Using the studies selected in the previously published systematic
+review, we formulated lists of references, cited articles, and related articles
+provided by PubMed. From the lists, only case-control studies that detected EBV
+in tissue samples were selected. In order to control for the heterogeneity among 
+studies, subgroup analysis and meta-regression were performed.
+RESULTS: In the 33 case-control results with adjacent non-cancer tissue, the
+total number of test samples in the case and control groups was 5280 and 4962,
+respectively. In the 14 case-control results with normal tissue, the total number
+of test samples in case and control groups was 1393 and 945, respectively. Upon
+meta-regression, the type of control tissue was found to be a statistically
+significant variable with regard to heterogeneity. When the control tissue was
+normal tissue of healthy individuals, the SOR was 3.41 (95% CI, 1.78 to 6.51;
+I-squared, 65.5%).
+CONCLUSIONS: The results of the present study support the argument that EBV
+infection increases the risk of gastric cancer. In the future, age-matched and
+sex-matched case-control studies should be conducted.
+
+DOI: 10.3961/jpmph.15.068 
+PMCID: PMC4829373
+PMID: 27055546  [Indexed for MEDLINE]
+
+
+27. J Pediatr (Rio J). 2016 Mar-Apr;92(2):113-21. doi: 10.1016/j.jped.2015.06.007.
+Epub 2016 Jan 20.
+
+Atypical manifestations of Epstein-Barr virus in children: a diagnostic
+challenge.
+
+Bolis V(1), Karadedos C(2), Chiotis I(2), Chaliasos N(2), Tsabouri S(2).
+
+Author information: 
+(1)Child Health Department, University Hospital of Ioannina (UHI), Ioannina,
+Greece. Electronic address: v.bolis7@gmail.com.
+(2)Child Health Department, University Hospital of Ioannina (UHI), Ioannina,
+Greece.
+
+OBJECTIVE: Clarify the frequency and the pathophysiological mechanisms of the
+rare manifestations of Epstein-Barr virus infection.
+SOURCES: Original research studies published in English between 1985 and 2015
+were selected through a computer-assisted literature search (PubMed and Scopus). 
+Computer searches used combinations of key words relating to "EBV infections" and
+"atypical manifestation."
+SUMMARY OF THE FINDINGS: Epstein-Barr virus is a herpes virus responsible for a
+lifelong latent infection in almost every adult. The primary infection concerns
+mostly children and presents with the clinical syndrome of infectious
+mononucleosis. However, Epstein-Barr virus infection may exhibit numerous rare,
+atypical and threatening manifestations. It may cause secondary infections and
+various complications of the respiratory, cardiovascular, genitourinary,
+gastrointestinal, and nervous systems. Epstein-Barr virus also plays a
+significant role in pathogenesis of autoimmune diseases, allergies, and
+neoplasms, with Burkitt lymphoma as the main representative of the latter. The
+mechanisms of these manifestations are still unresolved. Therefore, the main
+suggestions are direct viral invasion and chronic immune response due to the
+reactivation of the latent state of the virus, or even various DNA mutations.
+CONCLUSIONS: Physicians should be cautious about uncommon presentations of the
+viral infection and consider EBV as a causative agent when they encounter similar
+clinical pictures.
+
+Copyright © 2016 Sociedade Brasileira de Pediatria. Published by Elsevier Editora
+Ltda. All rights reserved.
+
+DOI: 10.1016/j.jped.2015.06.007 
+PMID: 26802473  [Indexed for MEDLINE]
+
+
+28. Virology. 2016 Feb;489:223-32. doi: 10.1016/j.virol.2015.12.019. Epub 2016 Jan
+13.
+
+Epstein-Barr virus glycoprotein gM can interact with the cellular protein p32 and
+knockdown of p32 impairs virus.
+
+Changotra H(1), Turk SM(1), Artigues A(2), Thakur N(1), Gore M(1), Muggeridge
+MI(1), Hutt-Fletcher LM(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Center for Molecular and Tumor
+Virology and Feist-Weiller Cancer Center, Louisiana State University Health
+Sciences Center, Shreveport, LA, USA.
+(2)Department of Biochemistry, University of Kansas Medical Center, Kansas City, 
+KS, USA.
+(3)Department of Microbiology and Immunology, Center for Molecular and Tumor
+Virology and Feist-Weiller Cancer Center, Louisiana State University Health
+Sciences Center, Shreveport, LA, USA. Electronic address: lhuttf@lsuhsc.edu.
+
+The Epstein-Barr virus glycoprotein complex gMgN has been implicated in assembly 
+and release of fully enveloped virus, although the precise role that it plays has
+not been elucidated. We report here that the long predicted cytoplasmic tail of
+gM is not required for complex formation and that it interacts with the cellular 
+protein p32, which has been reported to be involved in nuclear egress of human
+cytomegalovirus and herpes simplex virus. Although redistribution of p32 and
+colocalization with gM was not observed in virus infected cells, knockdown of p32
+expression by siRNA or lentivirus-delivered shRNA recapitulated the phenotype of 
+a virus lacking expression of gNgM. A proportion of virus released from cells
+sedimented with characteristics of virus lacking an intact envelope and there was
+an increase in virus trapped in nuclear condensed chromatin. The observations
+suggest the possibility that p32 may also be involved in nuclear egress of
+Epstein-Barr virus.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.12.019 
+PMCID: PMC4761307
+PMID: 26773383  [Indexed for MEDLINE]
+
+
+29. Curr Top Microbiol Immunol. 2015;391:355-81. doi: 10.1007/978-3-319-22834-1_12.
+
+Immune Evasion by Epstein-Barr Virus.
+
+Ressing ME(1)(2), van Gent M(1), Gram AM(1)(2), Hooykaas MJ(1), Piersma SJ(1),
+Wiertz EJ(3).
+
+Author information: 
+(1)Department of Medical Microbiology, University Medical Center Utrecht,
+Utrecht, The Netherlands.
+(2)Department of Molecular Cell Biology, Leiden University Medical Center,
+Leiden, The Netherlands.
+(3)Department of Medical Microbiology, University Medical Center Utrecht,
+Utrecht, The Netherlands. ewiertz@umcutrecht.nl.
+
+Epstein-Bar virus (EBV) is widespread within the human population with over 90%
+of adults being infected. In response to primary EBV infection, the host mounts
+an antiviral immune response comprising both innate and adaptive effector
+functions. Although the immune system can control EBV infection to a large
+extent, the virus is not cleared. Instead, EBV establishes a latent infection in 
+B lymphocytes characterized by limited viral gene expression. For the production 
+of new viral progeny, EBV reactivates from these latently infected cells. During 
+the productive phase of infection, a repertoire of over 80 EBV gene products is
+expressed, presenting a vast number of viral antigens to the primed immune
+system. In particular the EBV-specific CD4+ and CD8+ memory T lymphocytes can
+respond within hours, potentially destroying the virus-producing cells before
+viral replication is completed and viral particles have been released. Preceding 
+the adaptive immune response, potent innate immune mechanisms provide a first
+line of defense during primary and recurrent infections. In spite of this broad
+range of antiviral immune effector mechanisms, EBV persists for life and
+continues to replicate. Studies performed over the past decades have revealed a
+wide array of viral gene products interfering with both innate and adaptive
+immunity. These include EBV-encoded proteins as well as small noncoding RNAs with
+immune-evasive properties. The current review presents an overview of the evasion
+strategies that are employed by EBV to facilitate immune escape during latency
+and productive infection. These evasion mechanisms may also compromise the
+elimination of EBV-transformed cells, and thus contribute to malignancies
+associated with EBV infection.
+
+DOI: 10.1007/978-3-319-22834-1_12 
+PMID: 26428381  [Indexed for MEDLINE]
+
+
+30. Curr Top Microbiol Immunol. 2015;391:289-323. doi: 10.1007/978-3-319-22834-1_10.
+
+Epstein-Barr Virus-Specific Humoral Immune Responses in Health and Disease.
+
+Middeldorp JM(1).
+
+Author information: 
+(1)VU Medical Center, Amsterdam, The Netherlands. j.middeldorp@vumc.nl.
+
+Epstein-Barr virus (EBV) is widely distributed in the world and associated with a
+still increasing number of acute, chronic, malignant and autoimmune disease
+syndromes. Humoral immune responses to EBV have been studied for diagnostic,
+pathogenic and protective (vaccine) purposes. These studies use a range of
+methodologies, from cell-based immunofluorescence testing to antibody-diversity
+analysis using immunoblot and epitope analysis using recombinant or synthetic
+peptide-scanning. First, the individual EBV antigen complexes (VCA , MA, EA(D),
+EA(R) and EBNA) are defined at cellular and molecular levels, providing a
+historic overview. The characteristic antibody responses to these complexes in
+health and disease are described, and differences are highlighted by clinical
+examples. Options for EBV vaccination are briefly addressed. For a selected
+number of immunodominant proteins, in particular EBNA1, the interaction with
+human antibodies is further detailed at the epitope level, revealing interesting 
+insights for structure, function and immunological aspects, not considered
+previously. Humoral immune responses against EBV-encoded tumour antigens LMP1,
+LMP2 and BARF1 are addressed, which provide novel options for targeted
+immunotherapy. Finally, some considerations on EBV-linked autoimmune diseases are
+given, and mechanisms of antigen mimicry are briefly discussed. Further analysis 
+of humoral immune responses against EBV in health and disease in carefully
+selected patient cohorts will open new options for understanding pathogenesis of 
+individual EBV-linked diseases and developing targeted diagnostic and therapeutic
+approaches.
+
+DOI: 10.1007/978-3-319-22834-1_10 
+PMID: 26428379  [Indexed for MEDLINE]
+
+
+31. Curr Top Microbiol Immunol. 2015;391:237-61. doi: 10.1007/978-3-319-22834-1_8.
+
+Epstein-Barr Virus Lytic Cycle Reactivation.
+
+McKenzie J(1), El-Guindy A(2).
+
+Author information: 
+(1)Department of Pediatrics, Division of Infectious Diseases, Yale University
+School of Medicine, New Haven, CT, 06520, USA.
+(2)Department of Pediatrics, Division of Infectious Diseases, Yale University
+School of Medicine, New Haven, CT, 06520, USA. ayman.el-guindy@yale.edu.
+
+Epstein-Barr virus, which mainly infects B cells and epithelial cells, has two
+modes of infection: latent and lytic. Epstein-Barr virus infection is
+predominantly latent; however, lytic infection is detected in healthy
+seropositive individuals and becomes more prominent in certain pathological
+conditions. Lytic infection is divided into several stages: early gene
+expression, DNA replication, late gene expression, assembly, and egress. This
+chapter summarizes the most recent progress made toward understanding the
+molecular mechanisms that regulate the different lytic stages leading to
+production of viral progeny. In addition, the chapter highlights the potential
+role of lytic infection in disease development and current attempts to purposely 
+induce lytic infection as a therapeutic approach.
+
+DOI: 10.1007/978-3-319-22834-1_8 
+PMID: 26428377  [Indexed for MEDLINE]
+
+
+32. Curr Top Microbiol Immunol. 2015;390(Pt 1):287-313. doi:
+10.1007/978-3-319-22822-8_12.
+
+Contribution of the Epstein-Barr Virus to the Pathogenesis of Hodgkin Lymphoma.
+
+Murray P(1), Bell A(2).
+
+Author information: 
+(1)School of Cancer Sciences and Centre for Human Virology, College of Medical
+and Dental Sciences, University of Birmingham, Birmingham, Edgbaston, B15 2TT,
+UK. P.G.Murray@bham.ac.uk.
+(2)School of Cancer Sciences and Centre for Human Virology, College of Medical
+and Dental Sciences, University of Birmingham, Birmingham, Edgbaston, B15 2TT,
+UK. A.I.BELL@bham.ac.uk.
+
+The morphology of the pathognomonic Hodgkin and Reed-Sternberg cells (HRS) of
+Hodgkin lymphoma was described over a century ago, yet it was only relatively
+recently that the B-cell origin of these cells was identified. In a proportion of
+cases, HRS cells harbour monoclonal forms of the B lymphotropic Epstein-Barr
+virus (EBV). This review summarises current knowledge of the pathogenesis of
+Hodgkin lymphoma with a particular emphasis on the contribution of EBV.
+
+DOI: 10.1007/978-3-319-22822-8_12 
+PMID: 26424651  [Indexed for MEDLINE]
+
+
+33. Curr Top Microbiol Immunol. 2015;390(Pt 1):119-48. doi:
+10.1007/978-3-319-22822-8_7.
+
+Epstein-Barr Virus: From the Detection of Sequence Polymorphisms to the
+Recognition of Viral Types.
+
+Feederle R(1)(2), Klinke O(1), Kutikhin A(1), Poirey R(1), Tsai MH(1), Delecluse 
+HJ(3).
+
+Author information: 
+(1)Unit F100, Inserm unit U1074, DKFZ, German Cancer Research Centre (DKFZ),
+69120, Heidelberg, Germany.
+(2)Helmholtz Zentrum München, German Research Center for Environmental Health,
+Institute of Molecular Immunology, Marchioninistrasse 25, 81377, Munich, Germany.
+(3)Unit F100, Inserm unit U1074, DKFZ, German Cancer Research Centre (DKFZ),
+69120, Heidelberg, Germany. h.delecluse@dkfz.de.
+
+The Epstein-Barr virus is etiologically linked with the development of benign and
+malignant diseases, characterized by their diversity and a heterogeneous
+geographic distribution across the world. The virus possesses a 170-kb-large
+genome that encodes for multiple proteins and non-coding RNAs. Early on there
+have been numerous attempts to link particular diseases with particular EBV
+strains, or at least with viral genetic polymorphisms. This has given rise to a
+wealth of information whose value has been difficult to evaluate for at least
+four reasons. First, most studies have looked only at one particular gene and
+missed the global picture. Second, they usually have not studied sufficient
+numbers of diseased and control cases to reach robust statistical significance.
+Third, the functional significance of most polymorphisms has remained unclear,
+although there are exceptions such as the 30-bp deletion in LMP1. Fourth,
+different biological properties of the virus do not necessarily equate with a
+different pathogenicity. This was best illustrated by the type 1 and type 2
+viruses that markedly differ in terms of their transformation abilities, yet do
+not seem to cause different diseases. Reciprocally, environmental and genetic
+factors in the host are likely to influence the outcome of infections with the
+same virus type. However, with recent developments in recombinant virus
+technology and in the availability of high throughput sequencing, the tide is now
+turning. The availability of 23 complete or nearly complete genomes has led to
+the recognition of viral subtypes, some of which possess nearly identical
+genotypes. Furthermore, there is growing evidence that some genetic polymorphisms
+among EBV strains markedly influence the biological and clinical behavior of the 
+virus. Some virus strains are endowed with biological properties that explain
+crucial clinical features of patients with EBV-associated diseases. Although we
+now have a better overview of the genetic diversity within EBV genomes, it has
+also become clear that defining phenotypic traits evinced by cells infected by
+different viruses usually result from the combination of multiple polymorphisms
+that will be difficult to identify in their entirety. However, the steadily
+increasing number of sequenced EBV genomes and cloned EBV BACS from diseased and 
+healthy patients will facilitate the identification of the key polymorphisms that
+condition the biological and clinical behavior of the viruses. This will allow
+the development of preventative and therapeutic approaches against highly
+pathogenic viral strains.
+
+DOI: 10.1007/978-3-319-22822-8_7 
+PMID: 26424646  [Indexed for MEDLINE]
+
+
+34. Curr Top Microbiol Immunol. 2015;390(Pt 1):103-17. doi:
+10.1007/978-3-319-22822-8_6.
+
+The Epigenetic Life Cycle of Epstein-Barr Virus.
+
+Hammerschmidt W(1).
+
+Author information: 
+(1)Research Unit Gene Vectors, Helmholtz Zentrum München, German Research Center 
+for Environmental Health, and German Centre for Infection Research (DZIF),
+Partner site Munich, Marchioninistr. 25, 81377, Munich, Germany.
+hammerschmidt@helmholtz-muenchen.de.
+
+Ever since the discovery of Epstein-Barr virus (EBV) more than 50 years ago, this
+virus has been studied for its capacity to readily establish a latent infection, 
+which is the prominent hallmark of this member of the herpesvirus family. EBV has
+become an important model for many aspects of herpesviral latency, but the
+molecular steps and mechanisms that lead to and promote viral latency have only
+emerged recently. It now appears that the virus exploits diverse facets of
+epigenetic gene regulation in the cellular host to establish a latent infection. 
+Most viral genes are transcriptionally repressed, and viral chromatin is densely 
+compacted during EBV's latent phase, but latent infection is not a dead end. In
+order to escape from this phase, epigenetic silencing must be reverted
+efficiently and quickly. It appears that EBV has perfected a clever strategy to
+overcome transcriptional repression of its many lytic genes to initiate virus de 
+novo synthesis within a few hours after induction of its lytic cycle. This review
+tries to summarize the known molecular mechanisms, the current models, concepts, 
+and ideas underlying this viral strategy. This review also attempts to identify
+and address gaps in our current understanding of EBV's epigenetic mechanisms
+within the infected cellular host.
+
+DOI: 10.1007/978-3-319-22822-8_6 
+PMID: 26424645  [Indexed for MEDLINE]
+
+
+35. Curr Top Microbiol Immunol. 2015;390(Pt 1):45-69. doi:
+10.1007/978-3-319-22822-8_4.
+
+Epstein-Barr Virus Strain Variation.
+
+Farrell PJ(1).
+
+Author information: 
+(1)Section of Virology, Department of Medicine, Imperial College, St Mary's
+Campus, Norfolk Place, London, W2 1PG, UK. p.farrell@imperial.ac.uk.
+
+What is wild-type Epstein-Barr virus and are there genetic differences in EBV
+strains that contribute to some of the EBV-associated diseases? Recent progress
+in DNA sequencing has resulted in many new Epstein-Barr virus (EBV) genome
+sequences becoming available. EBV isolates worldwide can be grouped into type 1
+and type 2, a classification based on the EBNA2 gene sequence. Type 1 transforms 
+human B cells into lymphoblastoid cell lines much more efficiently than type 2
+EBV and molecular mechanisms that may account for this difference in cell
+transformation are now becoming understood. Study of geographic variation of EBV 
+strains independent of the type 1/type 2 classification and systematic
+investigation of the relationship between viral strains, infection and disease
+are now becoming possible. So we should consider more directly whether viral
+sequence variation might play a role in the incidence of some EBV-associated
+diseases.
+
+DOI: 10.1007/978-3-319-22822-8_4 
+PMID: 26424643  [Indexed for MEDLINE]
+
+
+36. Curr Top Microbiol Immunol. 2015;390(Pt 1):3-15. doi:
+10.1007/978-3-319-22822-8_1.
+
+Why and How Epstein-Barr Virus Was Discovered 50 Years Ago.
+
+Epstein A(1).
+
+Author information: 
+(1)Wolfson College, University of Oxford, Linton Road, Oxford, OX2 6UD, UK.
+anthony.epstein@wolfson.ox.ac.uk.
+
+An account is given of the experiences and events which led to a search being
+undertaken for a causative virus in the recently described Burkitt's lymphoma and
+of the steps which ultimately culminated in the discovery of the new human
+herpesvirus which came to be known as Epstein-Barr virus (EBV).
+
+DOI: 10.1007/978-3-319-22822-8_1 
+PMID: 26424640  [Indexed for MEDLINE]
+
+
+37. Virus Res. 2016 Jan 2;212:30-8. doi: 10.1016/j.virusres.2015.08.007. Epub 2015
+Aug 18.
+
+Multifunctional non-coding Epstein-Barr virus encoded RNAs (EBERs) contribute to 
+viral pathogenesis.
+
+Iwakiri D(1).
+
+Author information: 
+(1)Institute for Genetic Medicine, Hokkaido University, N15 W7 Kita-Ku, Sapporo
+060-0815, Japan. Electronic address: iwakiri@igm.hokudai.ac.jp.
+
+Epstein-Barr Virus (EBV) is known as an oncogenic herpesvirus implicated in the
+pathogenesis of various malignancies. It has been reported that EBV non-coding
+RNAs (ncRNAs) including EBV-encoded small RNAs (EBERs) and EBV-miRNAs contribute 
+to viral pathogenesis. EBERs that are expressed abundantly in latently
+EBV-infected cells have been reported to play significant roles in tumorigenesis 
+by EBV. Furthermore, it was demonstrated that the modulation of host innate
+immune signals by EBERs contributes to EBV-mediated pathogenesis including
+oncogenesis. Recently it was demonstrated that EBERs are secreted via exosomes by
+EBV-infected cells. It was also demonstrated that exosomes contain a number of
+EBV-encoded miRNAs. Various mRNAs have been identified as targets for regulation 
+by EBV-miRNAs in host cells, therefore, EBERs and EBV-miRNAs might function
+through the transfer of exosomes.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2015.08.007 
+PMID: 26292159  [Indexed for MEDLINE]
+
+
+38. Curr Opin Virol. 2015 Aug;13:6-10. doi: 10.1016/j.coviro.2015.03.014. Epub 2015
+Apr 2.
+
+Animal models of Epstein Barr virus infection.
+
+Gujer C(1), Chatterjee B(1), Landtwing V(1), Raykova A(1), McHugh D(1), Münz
+C(2).
+
+Author information: 
+(1)Viral Immunobiology, Institute for Experimental Immunology, University of
+Zürich, Switzerland.
+(2)Viral Immunobiology, Institute for Experimental Immunology, University of
+Zürich, Switzerland. Electronic address: christian.muenz@uzh.ch.
+
+Epstein Barr virus (EBV) was the first human tumor virus to be described. Despite
+its discovery now more than fifty years ago, immune control of this virus is
+still not very well understood and no vaccine is available. This knowledge gap is
+due in part to the lack of a preclinical small animal model which can faithfully 
+recapitulate EBV infection and immune control, and would allow testing of EBV
+specific vaccine candidates. With the advent of mice with reconstituted human
+immune system compartments (HIS mice) during the past decade this is changing. We
+will discuss which aspects of EBV infection and its immune control can already be
+modeled in HIS mice, and which shortcomings still need to be overcome in order to
+recapitulate the immunobiology of oncogenic EBV infection.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2015.03.014 
+PMID: 25846986  [Indexed for MEDLINE]
+
+
+39. Semin Diagn Pathol. 2015 Jan;32(1):12-22. doi: 10.1053/j.semdp.2014.12.001. Epub 
+2015 Feb 7.
+
+Epstein-Barr virus (EBV)-associated lymphoid lesions of the head and neck.
+
+Auerbach A(1), Aguilera NS(2).
+
+Author information: 
+(1)Division of Hematopathology, The Joint Pathology Center, 606 Stephen Sitter
+Lane, Silver Spring, Maryland 20910.
+(2)Department of Pathology, University of Virginia, Charlottesville, Virginia.
+Electronic address: na2d@virginia.edu.
+
+Epstein Barr virus (EBV)-related lymphoproliferative processes occur in the head 
+and neck ranging from reactive processes such as infectious mononucleosis to high
+grade malignant lymphomas. EBV is a ubiquitous herpes virus that infects more
+than 90% of adults worldwide, and is generally transferred though saliva. Primary
+infection can occur throughout life. EBV is the first virus linked to
+malignancies, both epithelial and lymphoid. Both T and B cell lymphomas can be
+associated with EBV and evidence shows that an individual's response to the acute
+EBV infection may be critical in the development of subsequent lymphoma.
+Currently, in situ hybridization for EBER is the most sensitive available test to
+detect EBV and should be routinely performed in lymphoproliferative lesions of
+the head and neck. Immunohistochemistry for EBV related proteins, such as LMP1,
+is much less sensitive than EBER in situ hybridization, but can help determine
+latency patterns of EBV infection. Although relatively rare, primary EBV-related 
+lymphomas must be considered in the differential of atypical lymphoid
+proliferations in the head and neck. We present selected EBV-related disorders of
+the head and neck discussing etiology as well as differential diagnosis.
+
+Published by Elsevier Inc.
+
+DOI: 10.1053/j.semdp.2014.12.001 
+PMID: 25804341  [Indexed for MEDLINE]
+
+
+40. Annu Rev Immunol. 2015;33:787-821. doi: 10.1146/annurev-immunol-032414-112326.
+Epub 2015 Feb 11.
+
+The immunology of Epstein-Barr virus-induced disease.
+
+Taylor GS(1), Long HM, Brooks JM, Rickinson AB, Hislop AD.
+
+Author information: 
+(1)School of Cancer Sciences, University of Birmingham, Birmingham B15 2TT,
+United Kingdom; email: g.s.taylor@bham.ac.uk , h.m.long@bham.ac.uk ,
+j.m.brooks@bham.ac.uk , a.b.rickinson@bham.ac.uk , a.d.hislop@bham.ac.uk.
+
+Epstein-Barr virus (EBV) is usually acquired silently early in life and carried
+thereafter as an asymptomatic infection of the B lymphoid system. However, many
+circumstances disturb the delicate EBV-host balance and cause the virus to
+display its pathogenic potential. Thus, primary infection in adolescence can
+manifest as infectious mononucleosis (IM), as a fatal illness that magnifies the 
+immunopathology of IM in boys with the X-linked lymphoproliferative disease
+trait, and as a chronic active disease leading to life-threatening
+hemophagocytosis in rare cases of T or natural killer (NK) cell infection.
+Patients with primary immunodeficiencies affecting the NK and/or T cell systems, 
+as well as immunosuppressed transplant recipients, handle EBV infections poorly, 
+and many are at increased risk of virus-driven B-lymphoproliferative disease. By 
+contrast, a range of other EBV-positive malignancies of lymphoid or epithelial
+origin arise in individuals with seemingly intact immune systems through
+mechanisms that remain to be understood.
+
+DOI: 10.1146/annurev-immunol-032414-112326 
+PMID: 25706097  [Indexed for MEDLINE]
+
+
+41. Chin J Cancer. 2014 Dec;33(12):591-7. doi: 10.5732/cjc.014.10193. Epub 2014 Nov
+21.
+
+Epstein-Barr virus and the origin of Hodgkin lymphoma.
+
+Vockerodt M(1), Cader FZ, Shannon-Lowe C, Murray P.
+
+Author information: 
+(1)School of Cancer Sciences, University of Birmingham, Birmingham, B15 2TT, the 
+United Kingdom. p.g.murray@bham.ac.uk.
+
+Although Epstein-Barr virus (EBV) is present in the malignant
+Hodgkin/Reed-Sternberg (HRS) cells of a proportion of cases of classical Hodgkin 
+lymphoma (cHL), how the virus contributes to the pathogenesis of this disease
+remains poorly defined. It is clear from the studies of other EBV-associated
+cancers that the virus is usually not sufficient for tumor development and that
+other oncogenic co-factors are required. This article reviews what is known about
+the contribution of EBV to the pathogenesis of cHL and focuses on emerging
+evidence implicating chronic inflammation as a potential oncogenic co-factor in
+this malignancy.
+
+DOI: 10.5732/cjc.014.10193 
+PMCID: PMC4308654
+PMID: 25418190  [Indexed for MEDLINE]
+
+
+42. Chin J Cancer. 2014 Nov;33(11):527-8. doi: 10.5732/cjc.014.10208.
+
+Epstein-Barr virus at 50-future perspectives.
+
+Young LS(1).
+
+Author information: 
+(1)Warwick Medical School, University of Warwick, Coventry, CV4 7AL, UK.
+l.s.young@warwick.ac.uk.
+
+The special November and December issues of the Chinese Journal of Cancer
+celebrate the 50th anniversary of the discovery of Epstein-Barr virus (EBV) with 
+a series of reviews covering the association of the virus with various cancers,
+with special emphasis on the role of EBV in the pathogenesis of nasopharyngeal
+cancer (NPC). The restricted geographic prevalence of NPC along with the tumor's 
+consistent association with EBV infection has fascinated scientists and
+clinicians ever since it was first suggested in 1966. As in all cancers, NPC
+development reflects the complex interplay between host genes and environmental
+factors, but the essential role of EBV infection provides important insight into 
+the etiology of this tumor. Indeed, it is this understanding that is now
+translating into exciting diagnostic and therapeutic opportunities.
+
+DOI: 10.5732/cjc.014.10208 
+PMCID: PMC4244314
+PMID: 25367333  [Indexed for MEDLINE]
+
+
+43. J Pathol. 2015 Jan;235(2):323-33. doi: 10.1002/path.4448.
+
+The role of Epstein-Barr virus in epithelial malignancies.
+
+Tsao SW(1), Tsang CM, To KF, Lo KW.
+
+Author information: 
+(1)Department of Anatomy and Centre for Cancer Research, Li Ka Shing Faculty of
+Medicine, University of Hong Kong, Hong Kong SAR.
+
+The close association of Epstein-Barr virus (EBV) infection with non-keratinizing
+nasopharyngeal carcinomas and a subset of gastric carcinomas suggests that EBV
+infection is a crucial event in these cancers. The difficulties encountered in
+infecting and transforming primary epithelial cells in experimental systems
+suggest that the role of EBV in epithelial malignancies is complex and
+multifactorial in nature. Genetic alterations in the premalignant epithelium may 
+support the establishment of latent EBV infection, which is believed to be an
+initiation event. Oncogenic properties have been reported in multiple EBV latent 
+genes. The BamH1 A rightwards transcripts (BARTs) and the BART-encoded microRNAs 
+(miR-BARTs) are highly expressed in EBV-associated epithelial malignancies and
+may induce malignant transformation. However, enhanced proliferation may not be
+the crucial function of EBV infection in epithelial malignancies, at least in the
+early stages of cancer development. EBV-encoded gene products may confer
+anti-apoptotic properties and promote the survival of infected premalignant
+epithelial cells harbouring genetic alterations. Multiple EBV-encoded microRNAs
+have been reported to have immune evasion functions. Genetic alterations in host 
+cells, as well as inflammatory stroma, could modulate the expression of EBV genes
+and alter the growth properties of infected premalignant epithelial cells,
+encouraging their selection during carcinogenesis.
+
+© 2014 The Authors. The Journal of Pathology published by John Wiley & Sons Ltd
+on behalf of Pathological Society of Great Britain and Ireland.
+
+DOI: 10.1002/path.4448 
+PMCID: PMC4280676
+PMID: 25251730  [Indexed for MEDLINE]
+
+
+44. Semin Cancer Biol. 2014 Jun;26:52-9. doi: 10.1016/j.semcancer.2014.02.002. Epub
+2014 Mar 3.
+
+Genetics of Epstein-Barr virus microRNAs.
+
+Klinke O(1), Feederle R(1), Delecluse HJ(2).
+
+Author information: 
+(1)German Cancer Research Centre (DKFZ), Unit F100, 69120 Heidelberg, Germany;
+Inserm Unit U1074, DKFZ, 69120 Heidelberg, Germany.
+(2)German Cancer Research Centre (DKFZ), Unit F100, 69120 Heidelberg, Germany;
+Inserm Unit U1074, DKFZ, 69120 Heidelberg, Germany. Electronic address:
+h.delecluse@dkfz.de.
+
+The Epstein-Barr virus encodes at least 44 microRNAs that are grouped in two
+clusters located around the BHRF1 gene and within the BART transcript. The
+expression pattern of these microRNAs both depends on the lineage of the infected
+cells and on the type of viral latency. Whilst BART microRNAs are expressed in
+all EBV-infected tumors, the BHRF1 locus is nearly exclusively expressed in cells
+that display a type III latency. However, the BART microRNA expression level is
+several orders of magnitude higher in epithelial cells than in B cells. Genetic
+studies have demonstrated that the BHRF1 microRNA cluster enhances the initial
+phases of primary B cell transformation through inhibition of apoptosis. A
+similar role has been ascribed to the BART microRNAs although their contribution 
+to this process seems more limited. These microRNAs also enhance the survival of 
+B cell lymphoma cells. Using various strategies including high throughput assays,
+several groups have identified mRNAs targeted by the EBV microRNAs. Here we
+compare the results of the published high throughput screens and review the viral
+and cellular genes thought to represent high confidence targets for the EBV
+microRNAs. Although genetic studies allow unequivocal evaluation of the functions
+served by the microRNAs, only a few key targets have been identified so far.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.semcancer.2014.02.002 
+PMID: 24602823  [Indexed for MEDLINE]
+
+
+45. Am J Dermatopathol. 2013 Dec;35(8):763-86. doi: 10.1097/DAD.0b013e318287e0c6.
+
+Epstein-Barr virus in cutaneous pathology.
+
+Fernandez-Flores A(1).
+
+Author information: 
+(1)Consultant Histopathologist, Department of Pathology, Hospital El Bierzo,
+Ponferrada, Spain.
+
+Epstein-Barr virus (EBV) is a ubiquitous double-stranded DNA gamma herpes virus
+and it is present in 95% of adults. EBV infection is seen in many oncological
+conditions, although there is controversy regarding whether EBV is causative, a
+cofactor, or just a coincidental infection. Some of these conditions involve the 
+skin as the main or as a secondary organ. In this report, we review several
+tumoral and nontumoral cutaneous conditions, which are related to EBV infection, 
+and describe the epidemiology of infection and the life cycle of the virus.
+
+DOI: 10.1097/DAD.0b013e318287e0c6 
+PMID: 24257189  [Indexed for MEDLINE]
+
+
+46. Curr Opin Virol. 2013 Jun;3(3):227-32. doi: 10.1016/j.coviro.2013.04.005. Epub
+2013 May 15.
+
+The pathogenesis of Epstein-Barr virus persistent infection.
+
+Thorley-Lawson DA(1), Hawkins JB, Tracy SI, Shapiro M.
+
+Author information: 
+(1)Department of Pathology, Tufts University School of Medicine, Jaharis
+Building, Boston, MA 02111, USA. david.thorley-lawson@tufts.edu
+
+Epstein-Barr virus (EBV) maintains a lifelong infection. According to the
+germinal center model (GCM), latently infected B cells transit the germinal
+center (GC) to become resting memory cells. Here, the virus resides quiescently, 
+occasionally reactivating to infect new B cells, completing the cycle of
+infection. The GCM remains the only model that explains EBV biology and the
+pathogenesis of lymphoma. Recent work suggests modifications to the model notably
+that the virus contributes only modestly to the GC process and predictions from
+mathematical models that quiescence within memory B cells shapes the overall
+structure of viral infection but is not essential for persistence. Rather, it is 
+the cycle of infection which allows viral persistence at the very low levels
+observed.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2013.04.005 
+PMCID: PMC3789532
+PMID: 23683686  [Indexed for MEDLINE]
+
+
+47. Methods Mol Biol. 2013;999:223-30. doi: 10.1007/978-1-62703-357-2_16.
+
+EBER in situ hybridization for Epstein-Barr virus.
+
+Weiss LM(1), Chen YY.
+
+Author information: 
+(1)Clarient Pathology Services, Inc., Aliso Viejo, CA, USA.
+
+Epstein-Barr encoding region (EBER) in situ hybridization is the methodology of
+choice for the detection of the Epstein-Barr virus (EBV) in tissue sections.
+Because of the large numbers of copies of EBERs present in latently infected
+cells, non-isotopic methods can be used. Positive studies show staining in the
+nuclei of the EBV-infected cells, accentuating the chromatin and often excluding 
+the nucleolus. False-negative results are most often the result of RNA
+degradation in the tissues, a finding that may be detected through the use of a
+polyT probe as a control for RNA preservation.
+
+DOI: 10.1007/978-1-62703-357-2_16 
+PMID: 23666702  [Indexed for MEDLINE]
+
+
+48. Bull NYU Hosp Jt Dis. 2006;64(1-2):45-50.
+
+Epstein-Barr virus infection induces lupus autoimmunity.
+
+Harley JB(1), James JA.
+
+Author information: 
+(1)Departments of Medicineand Pathology, University of Oklahoma Health Sciences
+Center, Oklahoma City, Oklahoma, USA.
+
+Systemic lupus erythematosus (SLE or lupus) is a systemic autoimmune disease
+characterized by a constellation of varied clinical presentations, although the
+nearly universal presence of autoantibodies is a salient unifying feature.
+Ongoing research efforts focus on understanding the complex combination of
+genetic and environmental factors that lead to SLE in select individuals. Our
+previous work has demonstrated that years before diagnosis abnormal autoantibody 
+responses are present in the sera of patients who will subsequently develop lupus
+and, further, that the initial targets of two of these key responses (anti-Sm B' 
+and anti-60 kD Ro alone) have been identified for some patients. Indeed, our
+results suggest that the first lupus-specific autoantibodies arise from
+particular antibodies directed against Epstein-Barr virus Nuclear Antigen-1
+(EBNA-1) and that infection with Epstein-Barr virus (EBV) is an environmental
+risk factor for lupus. The predicted sequence of events is normal immunity,
+followed by Epstein- Barr virus infection, the generation of anti-EBNA-1
+antibodies, then followed by those particular anti-EBNA-1 antibodies that also
+bind lupus-specific autoantigens (Sm or Ro), followed by the development of more 
+complex autoimmune responses, and, finally, culminating in clinical disease.
+Studies from others and those underway suggest that lupus patients have unusual
+immune responses to Epstein-Barr virus. In aggregate, these results are
+consistent with an immune response against Epstein-Barr virus being important in 
+at least some patients for the initiation of lupus autoimmunity.
+
+
+PMID: 17121489  [Indexed for MEDLINE]
+
+
+49. Am J Hematol. 2005 Sep;80(1):64-9.
+
+Proposed guidelines for diagnosing chronic active Epstein-Barr virus infection.
+
+Okano M(1), Kawa K, Kimura H, Yachie A, Wakiguchi H, Maeda A, Imai S, Ohga S,
+Kanegane H, Tsuchiya S, Morio T, Mori M, Yokota S, Imashuku S.
+
+Author information: 
+(1)Department of Pediatrics, Hokkaido University Hospital, Hokkaido University
+Graduate School of Medicine, Sapporo, Japan. okano_m@iph.pref.hokkaido.jp
+
+Since the initial report of unusual manifestations possibly associated with
+chronic active Epstein-Barr virus (EBV) infection (CAEBV), nearly three decades
+have passed. During this period, reported cases with this entity have
+dramatically increased in the world. Additionally, recent development of
+diagnostic procedures, including molecular biological and immunological
+techniques, have provided us with the ability to define certain diseases,
+especially malignant disorders. Guidelines, derived mainly from the current
+literature and recent experiences with CAEBV in Japan, for diagnosing CAEBV are
+proposed to clarify this enigmatic disease.
+
+Copyright 2005 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajh.20398 
+PMID: 16138335  [Indexed for MEDLINE]
+
+
+50. Nat Rev Immunol. 2001 Oct;1(1):75-82.
+
+Epstein-Barr virus: exploiting the immune system.
+
+Thorley-Lawson DA(1).
+
+Author information: 
+(1)Department of Pathology, Tufts University School of Medicine, Boston,
+Massachusetts 02111, USA. david.thorley-lawson@tufts.edu
+
+In vitro, Epstein-Barr virus (EBV) will infect any resting B cell, driving it out
+of the resting state to become an activated proliferating lymphoblast.
+Paradoxically, EBV persists in vivo in a quiescent state in resting memory B
+cells that circulate in the peripheral blood. How does the virus get there, and
+with such specificity for the memory compartment? An explanation comes from the
+idea that two genes encoded by the virus--LMP1 and LMP2A--allow EBV to exploit
+the normal pathways of B-cell differentiation so that the EBV-infected B blast
+can become a resting memory cell.
+
+DOI: 10.1038/35095584 
+PMID: 11905817  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+
+1886. Curr Oncol Rep. 2016 Sep;18(9):53. doi: 10.1007/s11912-016-0541-x.
+
+The Role of Transoral Robotic Surgery in the Management of HPV Negative
+Oropharyngeal Squamous Cell Carcinoma.
+
+Sload R(1), Silver N(2), Jawad BA(3), Gross ND(4).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, National Naval Medical
+Center San Diego, 34800 Bob Wilson Dr, San Deigo, CA, 92134, USA.
+(2)Department Head and Neck Surgery, MD Anderson Cancer Center, 1400 Pressler
+Street, Unit 1445, Houston, TX, 77030, USA.
+(3)Department of Otolaryngology-Head and Neck Surgery, Tulane University, 1430
+Tulane Avenue, New Orleans, LA, 70112, USA.
+(4)Department Head and Neck Surgery, MD Anderson Cancer Center, 1400 Pressler
+Street, Unit 1445, Houston, TX, 77030, USA. NGross@MDAnderson.org.
+
+The incidence of oropharyngeal squamous cell carcinoma (OPSCC) is on the rise.
+This is largely due to the rapid increase in HPV positive OPSCC, which has been
+shown to confer a survival advantage. HPV negative OPSCC, however, has a more
+aggressive tumor biology and is a challenge to treat with standard current
+therapies. Chemoradiation has demonstrated poor locoregional control in HPV
+negative OPSCC, and open surgeries are associated with high morbidity. Transoral 
+robotic surgery (TORS) has been proposed as an option to both intensify treatment
+and decrease surgical morbidity for patients with HPV negative OPSCC. TORS can be
+utilized as a primary treatment or in persistent, recurrent, or second primary
+OPSCC. There is emerging data showing improved functional outcomes with TORS
+versus open surgery or chemoradiation. Unfortunately, there have been no
+randomized trials comparing TORS to chemoradiation in HPV negative OPSCC. This
+article will review utility of TORS for HPV negative OPSCC.
+
+DOI: 10.1007/s11912-016-0541-x 
+PMID: 27469262  [Indexed for MEDLINE]

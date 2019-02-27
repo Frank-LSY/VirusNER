@@ -1,0 +1,40 @@
+
+
+1547. Anticancer Res. 2013 Aug;33(8):3481-5.
+
+HPV status and overall survival of patients with oropharyngeal squamous cell
+carcinoma--a retrospective study of a German head and neck cancer center.
+
+Tahtali A(1), Hey C, Geissler C, Filman N, Diensthuber M, Leinung M, Stöver T,
+Wagenblast J.
+
+Author information: 
+(1)ENT Department, University Hospital, Theodor-Stern-Kai 7, 60590
+Frankfurt/Main, Germany. Jens.Wagenblast@kgu.de
+
+BACKGROUND/AIM: A change in epidemiology of head and neck squamous cell carcinoma
+(HNSCC) has been noticed: while overall incidence has decreased, the incidence of
+oropharyngeal SCC (OSCC) has been increasing over the past decades. A growing
+body of evidence suggests a causative role of the human papillomavirus (HPV) as
+an independent risk factor in development of OSCC. The aim of this study was to
+determine the HPV status in all OSCC specimens collected in our biological
+database since 1988, correlating the results with overall survival, and to
+compare them with the current literature data.
+PATIENTS AND METHODS: A total of 104 tumor samples were obtained and included in 
+this study. Patient records were reviewed. HPV status was determined by a
+two-step polymerase chain reaction (PCR) combined with p16 immunohistochemistry. 
+Statistical analysis was performed with BiAS™.
+RESULTS: Overall 12 (12%) of the 104 tumor samples were HPV-positive. Most of the
+patients had advanced disease [(UICC) stage III or IV)]: 91.7 % in the
+HPV-positive group versus 78.2% in the HPV-negative group. Multivariate analysis 
+showed that HPV status (p=0.04), UICC stage (p=0.01) and age at initial diagnosis
+(p=0.0006) were all independent determinants of overall survival. A positive HPV 
+status (hazard ratio=0.52; 95%) was associated with a 48% increase of overall
+survival compared to patients with HPV-negative tumors.
+CONCLUSION: Our findings confirm a prevalence of HPV-positive tumors within OSCC.
+Due to its epidemiologic and prognostic relevance, HPV status should be
+considered an important part of tumor staging. For this purpose, HPV detection
+via two-step PCR combined with p16 immunohistochemistry seems reliable.
+
+
+PMID: 23898123  [Indexed for MEDLINE]

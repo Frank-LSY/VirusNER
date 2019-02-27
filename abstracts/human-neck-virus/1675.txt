@@ -1,0 +1,43 @@
+
+
+1675. Mod Pathol. 2012 Jan;25(1):26-35. doi: 10.1038/modpathol.2011.135. Epub 2011 Sep 
+2.
+
+Lymphadenoma of the salivary gland: clinicopathological and immunohistochemical
+analysis of 33 tumors.
+
+Seethala RR(1), Thompson LD, Gnepp DR, Barnes EL, Skalova A, Montone K, Kane S,
+Lewis JS Jr, Solomon LW, Simpson RH, Khan A, Prasad ML.
+
+Author information: 
+(1)Department of Pathology, Presbyterian University Hospital, Pittsburgh, PA,
+USA.
+
+Lymphadenomas (LADs) are rare salivary gland tumors. Their clinicopathologic
+characteristics and etiopathogenesis are poorly understood. We examined 33 LADs
+in 31 patients (17 women and 14 men) aged 11-79 years (median 65 years). There
+were 22 sebaceous LADs in 21 patients (9 women and 12 men) and 11 non-sebaceous
+LADs in 10 patients (8 women and 2 men). Two patients had synchronous double
+tumors. Twenty-six tumors (79%) arose in parotid, three in the neck, and two each
+in submandibular gland and oral cavity. Extraparotid tumors were seen in 2 of 21 
+(10%) patients with sebaceous and 4 of 10 (40%) patients with non-sebaceous LADs.
+Seven of twenty-three (30%) patients had immunosuppressive therapy for unrelated 
+diseases. The tumors were well circumscribed, encapsulated (n=28, 84%) painless
+masses, varying in size from 0.6 to 6 cm (median 2.2). The cut surfaces were
+gray-tan to yellow, homogeneous and multicystic (n=24, 72%). The epithelial cells
+were basaloid, squamous and glandular, forming solid nests, cords, tubules, and
+cysts. Sebaceous differentiation was restricted to sebaceous lymphadenoma. The
+epithelial cells expressed basal cell markers (p63, 34BE12, and/or CK5/6, 18/18, 
+100%) and the luminal glandular cells expressed CK7 (12/12, 100%). Myoepithelial 
+cells were absent (n=10/16, 63%) or focal. The lymphoid stroma was reactive, with
+germinal centers in 28 (84%). There was no evidence of HPV (0/11), EBV (0/7), and
+HHV-8 (0/8). Malignant transformation to sebaceous and basal cell adenocarcinoma 
+was seen in one patient each. None of the 11 patients with follow-up (1-8 years) 
+recurred. In summary, sebaceous and non-sebaceous LADs are benign, encapsulated, 
+solid and cystic tumors affecting older adults. Non-sebaceous LADs affect women
+and extraparotid sites more frequently than sebaceous LADs. Altered immune status
+may have a role in their etiopathogenesis. Multiple synchronous tumors, origin in
+buccal mucosa, and malignant transformation may rarely occur.
+
+DOI: 10.1038/modpathol.2011.135 
+PMID: 21892186  [Indexed for MEDLINE]

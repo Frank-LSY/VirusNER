@@ -1,0 +1,43 @@
+
+
+2344. AIDS. 2016 May 15;30(8):1257-66. doi: 10.1097/QAD.0000000000001030.
+
+Human papilloma virus prevalence in HIV patients with head and neck squamous cell
+carcinoma.
+
+Picard A(1), Badoual C, Hourseau M, Halimi C, Pere H, Dib F, Barry B, Albert S.
+
+Author information: 
+(1)aDepartment of ENT, Bichat Hospital, Paris Diderot University bDepartment of
+Pathology, European G Pompidou Hospital, APHP cDepartment of Anatomical
+Pathology, Bichat Hospital, Paris Diderot University dDepartment of Virology,
+European G Pompidou Hospital, APHP, Paris Descartes University eDepartment of
+Epidemiology and Clinical Research, Bichat Hospital, Paris Diderot University,
+Paris, France.
+
+OBJECTIVE: The implication of human papilloma virus (HPV) in head and neck
+squamous cell carcinoma (HNSCC) is well established, especially in oropharyngeal 
+SCC. HIV patients have a higher risk of persistent HPV infection. We investigated
+the role of HPV in HNSCC carcinogenesis in HIV population.
+DESIGN: Retrospective monocentric study.
+METHODS: We studied HIV patients who presented with HNSCC between 1994 and 2014. 
+For each patient, tumor characteristics, HIV disease, and survival information
+were collected. Tumor HPV testing was performed using p16 immunohistochemistry
+(IHC), in-situ hybridization and PCR. We assessed the percentage of HPV in this
+population of HIV patients with HNSCC and compared HIV disease characteristics
+based on HPV status.
+RESULTS: Forty-seven patients were included: 11 women/36 men, the median age was 
+50 years. Tumor HPV testing was performed in 40 patients. Tumors were located in 
+oropharynx (32%), oral cavity (32%), larynx (21%), and hypopharynx (11%). At the 
+time of diagnosis, median CD4 level was 385 cells/μl, 31% of the patients were
+stage (Centers for Disease Control, stage C). The percentage of HPV linked to
+HNSCC for all locations in HIV patients was 30% (n = 12). HPV16 accounted for 50%
+of all HPV genotypes. HPV positive status was associated with a CD4 nadir of less
+than 200 (P = 0.026), but not with CD4 level at time of diagnosis (P = 0.414).
+HPV-negative tumors tend to be associated with poorer 5-year overall survival
+(hazard ratio = 2.9, P = 0.0711).
+CONCLUSION: HPV plays a critical role in HNSCC development in HIV population. HIV
+immunodeficiency may increase HPV persistence and progression of HNSCC.
+
+DOI: 10.1097/QAD.0000000000001030 
+PMID: 26807970  [Indexed for MEDLINE]

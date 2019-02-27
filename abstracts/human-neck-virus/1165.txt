@@ -1,0 +1,43 @@
+
+
+1165. Arch Otolaryngol Head Neck Surg. 2009 Nov;135(11):1137-46. doi:
+10.1001/archoto.2009.159.
+
+Immune response during therapy with cisplatin or radiation for human
+papillomavirus-related head and neck cancer.
+
+Spanos WC(1), Nowicki P, Lee DW, Hoover A, Hostager B, Gupta A, Anderson ME, Lee 
+JH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Roy J. and Lucille A.
+Carver College of Medicine, University of Iowa, Iowa City, USA.
+
+BACKGROUND: Human papillomavirus (HPV) is the most identifiable cause of head and
+neck squamous cell cancer (HNSCC). Compared with HPV-negative HNSCC, HPV-positive
+HNSCC presents at an advanced stage but with significantly better survival. We
+created a syngeneic mouse model of HPV-positive and HPV-negative HNSCC by
+transforming mouse primary tonsil epithelial cells with either HPV oncogenes or a
+nonantigenic RNA interference strategy that affects similar oncogenic pathways.
+OBJECTIVES: To examine the effect of radiation therapy on HPV-positive and
+HPV-negative tumors in immune-competent and immune-incompetent mice and to
+examine responses in human cancer cell lines.
+DESIGN: Prospective in vivo murine model.
+MAIN OUTCOME MEASURES: Survival and tumor growth.
+RESULTS: For human and murine transformed cell lines, HPV-positive cells were
+more resistant to radiation and cisplatin therapy compared with HPV-negative
+cells. In vivo, HPV-positive tumors were more sensitive to radiation, with
+complete clearance at 20 Gy, compared with their HPV-negative counterparts, which
+showed persistent growth. Cisplatin in vivo cleared HPV-positive tumors but not
+HPV-negative tumors. However, neither radiation or cisplatin therapy cured
+immune-incompetent mice. Adoptive transfer of wild-type immune cells into
+immune-incompetent mice restored HPV-positive tumor clearance with cisplatin
+therapy.
+CONCLUSIONS: The HPV-positive tumors are not more curable based on increased
+epithelial sensitivity to cisplatin or radiation therapy. Instead, radiation and 
+cisplatin induce an immune response to this antigenic cancer. The implications of
+these results may lead to novel therapies that enhance tumor eradication for
+HPV-positive cancers.
+
+DOI: 10.1001/archoto.2009.159 
+PMID: 19917928  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+168. Oral Oncol. 2014 Sep;50(9):771-9. doi: 10.1016/j.oraloncology.2014.05.004. Epub
+2014 Jun 2.
+
+Detection of human papillomavirus (HPV) in clinical samples: evolving methods and
+strategies for the accurate determination of HPV status of head and neck
+carcinomas.
+
+Westra WH(1).
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+MD, United States; Department of Oncology, The Johns Hopkins Medical
+Institutions, Baltimore, MD, United States; Department of Otolaryngology/Head and
+Neck Surgery, The Johns Hopkins Medical Institutions, Baltimore, MD, United
+States. Electronic address: wwestra@jhmi.edu.
+
+Much recent attention has highlighted a subset of head and neck squamous cell
+carcinomas (HNSCCs) related to human papillomavirus (HPV) that has an
+epidemiologic, demographic, molecular and clinical profile which is distinct from
+non-HPV-related HNSCC. The clinical significance of detecting HPV in a HNSCC has 
+resulted in a growing expectation for HPV testing of HNSCCs. Although the growing
+demand for routine testing is understandable and appropriate, it has impelled an 
+undisciplined approach that has been largely unsystematic. The current state of
+the art has now arrived at a point where a better understanding of HPV-related
+tumorigenesis and a growing experience with HPV testing can now move wide scale, 
+indiscriminant and non-standardized testing towards a more directed, clinically
+relevant and standardized approach. This review will address the current state of
+HPV detection; and will focus on why HPV testing is important, when HPV testing
+is appropriate, and how to test for the presence of HPV in various clinical
+samples. As no single test has been universally accepted as a best method, this
+review will consider the strengths and weaknesses of some of the more commonly
+used assays, and will emphasize some emerging techniques that may improve the
+efficiency of HPV testing of clinical samples including cytologic specimens.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.05.004 
+PMCID: PMC4318232
+PMID: 24932529  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+95. J Cell Mol Med. 2014 Apr;18(4):635-45. doi: 10.1111/jcmm.12211. Epub 2013 Dec 18.
+
+Verrucous carcinoma of the head and neck - not a human papillomavirus-related
+tumour?
+
+Odar K(1), Kocjan BJ, Hošnjak L, Gale N, Poljak M, Zidar N.
+
+Author information: 
+(1)Faculty of Medicine, Institute of Pathology, University of Ljubljana,
+Ljubljana, Slovenia.
+
+Association between verrucous carcinoma (VC) of the head and neck and human
+papillomaviruses (HPV) is highly controversial. Previous prevalence studies
+focused mostly on α-PV, while little is known about other PV genera. Our aim was 
+to investigate the prevalence of a broad spectrum of HPV in VC of the head and
+neck using sensitive and specific molecular assays. Formalin-fixed,
+paraffin-embedded samples of 30 VC and 30 location-matched normal tissue samples 
+were analysed, by using six different polymerase chain reaction-based methods
+targeting DNA of at least 87 HPV types from α-PV, β-PV, γ-PV and μ-PV genera, and
+immunohistochemistry against p16 protein. α-PV, γ-PV and μ-PV were not detected. 
+β-PV DNA was detected in 5/30 VC (16.7%) and in 18/30 normal tissue samples
+(60.0%): HPV-19, -24 and -36 were identified in VC, and HPV-5, -9, -12, -23, -24,
+-38, -47, -49 and -96 in normal tissue, whereas HPV type was not determined in
+2/5 cases of VC and in 6/18 normal tissue samples. p16 expression was detected in
+a subset of samples and was higher in VC than in normal tissue. However, the
+reaction was predominantly cytoplasmic and only occasionally nuclear, and the
+extent of staining did not exceed 75%. Our results indicate that α-PV, γ-PV and
+μ-PV are not associated with aetiopathogenesis of VC of the head and neck. β-PV
+DNA in a subset of VC and normal tissue might reflect incidental colonization,
+but its potential biological significance needs further investigation.
+
+© 2013 The Authors. Journal of Cellular and Molecular Medicine published by John 
+Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine.
+
+DOI: 10.1111/jcmm.12211 
+PMCID: PMC4000115
+PMID: 24350715  [Indexed for MEDLINE]

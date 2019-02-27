@@ -1,0 +1,42 @@
+
+
+537. Virology. 2013 Oct;445(1-2):205-12. doi: 10.1016/j.virol.2013.07.016. Epub 2013
+Aug 13.
+
+Epigenetics of human papillomaviruses.
+
+Johannsen E(1), Lambert PF.
+
+Author information: 
+(1)Department of Oncology, School of Medicine and Public Health, University of
+Wisconsin, Madison, WI 53706, USA; Department of Medicine, School of Medicine and
+Public Health, University of Wisconsin, Madison, WI 53706, USA; McArdle
+Laboratory for Cancer Research, School of Medicine and Public Health, University 
+of Wisconsin, Madison, WI 53706, USA.
+
+Human papilllomaviruses (HPVs) are common human pathogens that infect cutaneous
+or mucosal epithelia in which they cause warts, self-contained benign lesions
+that commonly regress. The HPV life cycle is intricately tied to the
+differentiation of the host epithelium it infects. Mucosotropic HPVs are the most
+common sexually transmitted pathogen known to mankind. A subset of the
+mucosotropic HPVs, so-called high risk HPVs, is etiologically associated with
+numerous cancers of the anogenital tract, most notably the cervix, as well as a
+growing fraction of head and neck cancers. In these cancers, the HPV genome,
+which normally exists an a double stranded, circular, nuclear plasmid, is
+commonly found integrated into the host genome and expresses two viral oncogenes,
+E6 and E7, that are implicated in the development and maintainance of the cancers
+caused by these high risk HPVs. Numerous studies, primarily on the high risk
+HPV16, have documented that the methylation status of the viral genome changes
+not only in the context of the viral life cycle but also in the context of the
+progressive neoplastic disease that culminates in cancer. In this article, we
+summarize the knowledge gained from those studies. We also provide the first
+analysis of available ChIP-seq data on the occupancy of both epigentically
+modified histones as well as transcription factors on the high risk HPV18 genome 
+in the context of HeLa cells, a cervical cancer-derived cell line that has been
+the subject of extensive analyses using this technique.
+
+© 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2013.07.016 
+PMCID: PMC3822409
+PMID: 23953230  [Indexed for MEDLINE]

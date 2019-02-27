@@ -1,0 +1,65 @@
+
+
+1141. PLoS One. 2014 Dec 29;9(12):e115931. doi: 10.1371/journal.pone.0115931.
+eCollection 2014.
+
+Human papillomavirus prevalence in invasive laryngeal cancer in the United
+States.
+
+Hernandez BY(1), Goodman MT(2), Lynch CF(3), Cozen W(4), Unger ER(5), Steinau
+M(5), Thompson T(6), Saber MS(4), Altekruse SF(7), Lyu C(8), Saraiya M(6); HPV
+Typing of Cancer Workgroup.
+
+Collaborators: Saraiya M, Unger ER, Steinau M, Scarbrough MZ, Watson M, Thompson 
+T, Datta D, Hariri S, Lyu C, Ellis B, Madero N, Reid E, Little D, Greek A, Rhoda 
+D, Brossoie S, Gideon K, Gieseke LD, Ashcraft S, Hernandez B, Goodman M, Luk H,
+Horio D, Ikeda S, Green M, Grafel-Anderson C, Weise R, Selk F, Olson D, House J, 
+Cockburn MG, Kim A, Deapen D.
+
+Author information: 
+(1)University of Hawaii Cancer Center, University of Hawaii, Honolulu, Hawaii,
+United States of America.
+(2)Cedars-Sinai Medical Center, Los Angeles, California, United States of
+America.
+(3)Department of Epidemiology, College of Public Health, The University of Iowa, 
+Iowa City, Iowa, United States of America.
+(4)Norris Comprehensive Cancer Center and Departments of Preventive Medicine and 
+Pathology, USC Keck School of Medicine, University of Southern California, Los
+Angeles, California, United States of America.
+(5)Division of High-Consequence Pathogens and Pathology, National Center for
+Emerging and Zoonotic Infectious Diseases, Centers for Disease Control and
+Prevention, Atlanta, Georgia, United States of America.
+(6)Division of Cancer Prevention and Control, National Center for Chronic Disease
+Prevention and Health Promotion, Centers for Disease Control and Prevention,
+Atlanta, Georgia, United States of America.
+(7)Division of Cancer Control and Population Sciences, National Cancer Institute,
+Rockville, Maryland, United States of America.
+(8)Battelle Memorial Institute, Durham, North Carolina, United States of America.
+
+PURPOSE: Human papillomavirus (HPV) is a major risk factor for specific cancers
+of the head and neck, particularly malignancies of the tonsil and base of the
+tongue. However, the role of HPV in the development of laryngeal cancer has not
+been definitively established. We conducted a population-based, cancer registry
+study to evaluate and characterize the genotype-specific prevalence of HPV in
+invasive laryngeal cancer cases diagnosed in the U.S.
+METHODS: The presence of genotype-specific HPV DNA was evaluated using the Linear
+Array HPV Genotyping Test and the INNO-LiPA HPV Genotyping Assay in
+formalin-fixed paraffin embedded tissue from 148 invasive laryngeal cancer cases 
+diagnosed in 1993-2004 within the catchment area of three U.S. SEER cancer
+registries.
+RESULTS: HPV DNA was detected in 31 of 148 (21%) invasive laryngeal cancers.
+Thirteen different genotypes were detected. Overall, HPV 16 and HPV 33 were the
+most commonly detected types. HPV was detected in 33% (9/27) of women compared
+with 18% (22/121) of men (p = 0.08). After adjustment for age and year of
+diagnosis, female patients were more likely to have HPV-positive laryngeal tumors
+compared to males (adjusted OR 2.84, 95% CI 1.07-7.51). Viral genotype
+differences were also observed between the sexes. While HPV 16 and 18 constituted
+half of HPV-positive cases occurring in men, among women, only 1 was HPV 16
+positive and none were positive for HPV 18. Overall 5-year survival did not vary 
+by HPV status.
+CONCLUSIONS: HPV may be involved in the development of a subset of laryngeal
+cancers and its role may be more predominant in women compared to men.
+
+DOI: 10.1371/journal.pone.0115931 
+PMCID: PMC4278830
+PMID: 25546150  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+1746. Head Neck. 2011 Jan;33(1):45-53. doi: 10.1002/hed.21398.
+
+Case-matching analysis of head and neck squamous cell carcinoma in racial and
+ethnic minorities in the United States--possible role for human papillomavirus in
+survival disparities.
+
+Schrank TP(1), Han Y, Weiss H, Resto VA.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Texas Medical 
+Branch, Galveston, Texas, USA.
+
+BACKGROUND: Several studies have documented disparities in head and neck cancer
+outcomes for black patients in the United States. Recent studies have found that 
+differences in oropharyngeal tumor human papillomavirus (HPV) status may be a
+cause of this disparity.
+METHODS: In all, 76,817 cases of head and neck squamous cell carcinoma (HNSCC)
+recorded in the National Cancer Institute's Surveillance, Epidemiology, and End
+Results (SEER) program were analyzed. Racial/ethnic groups were studied, for
+disease-specific survival in both case-matched and nonmatched cohorts.
+Calculation of expected disparity magnitudes based on HPV status was performed
+using data reported in the literature.
+RESULTS: A disease-specific survival disparity was demonstrated for Hispanic
+patients. However, case matching eliminated this disparity. Conversely, the
+disparity for black patients persisted in matched cohorts. The oropharyngeal
+subsite was found to be the dominant contributor to this disparity.
+CONCLUSIONS: The survival disparity for Hispanic patients in SEER with HNSCC is
+explained by differences in presentation and treatment. Also, HPV tumor status is
+likely a key determinant of the disparity for black patients.
+
+© 2010 Wiley Periodicals, Inc. Head Neck, 2011.
+
+DOI: 10.1002/hed.21398 
+PMCID: PMC3005025
+PMID: 20848419  [Indexed for MEDLINE]

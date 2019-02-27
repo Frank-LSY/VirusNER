@@ -1,0 +1,52 @@
+
+
+1729. Cancer Epidemiol Biomarkers Prev. 2015 May;24(5):864-72. doi:
+10.1158/1055-9965.EPI-15-0097-T. Epub 2015 Mar 25.
+
+Oral human papillomavirus is common in individuals with Fanconi anemia.
+
+Sauter SL(1), Wells SI(1), Zhang X(1), Hoskins EE(1), Davies SM(1), Myers KC(1), 
+Mueller R(1), Panicker G(2), Unger ER(2), Sivaprasad U(1), Brown DR(3), Mehta
+PA(1), Butsch Kovacic M(4).
+
+Author information: 
+(1)Cincinnati Children's Hospital Medical Center, Department of Pediatrics,
+University of Cincinnati, Cincinnati, Ohio.
+(2)Chronic Viral Diseases Branch, National Center for Emerging and Zoonotic
+Infectious Diseases, Centers for Disease Control and Prevention, Atlanta,
+Georgia.
+(3)Division of Infectious Diseases, Indiana University School of Medicine,
+Indianapolis, Indiana.
+(4)Cincinnati Children's Hospital Medical Center, Department of Pediatrics,
+University of Cincinnati, Cincinnati, Ohio. melinda.butsch.kovacic@cchmc.org.
+
+BACKGROUND: Fanconi anemia is a rare genetic disorder resulting in a loss of
+function of the Fanconi anemia-related DNA repair pathway. Individuals with
+Fanconi anemia are predisposed to some cancers, including oropharyngeal and
+gynecologic cancers, with known associations with human papillomavirus (HPV) in
+the general population. As individuals with Fanconi anemia respond poorly to
+chemotherapy and radiation, prevention of cancer is critical.
+METHODS: To determine whether individuals with Fanconi anemia are particularly
+susceptible to oral HPV infection, we analyzed survey-based risk factor data and 
+tested DNA isolated from oral rinses from 126 individuals with Fanconi anemia and
+162 unaffected first-degree family members for 37 HPV types.
+RESULTS: Fourteen individuals (11.1%) with Fanconi anemia tested positive,
+significantly more (P = 0.003) than family members (2.5%). While HPV prevalence
+was even higher for sexually active individuals with Fanconi anemia (17.7% vs.
+2.4% in family; P = 0.003), HPV positivity also tended to be higher in the
+sexually inactive (8.7% in Fanconi anemia vs. 2.9% in siblings). Indeed, having
+Fanconi anemia increased HPV positivity 4.9-fold (95% CI, 1.6-15.4) considering
+age and sexual experience, but did not differ by other potential risk factors.
+CONCLUSION: Our studies suggest that oral HPV is more common in individuals with 
+Fanconi anemia. It will be essential to continue to explore associations between 
+risk factors and immune dysfunction on HPV incidence and persistence over time.
+IMPACT: HPV vaccination should be emphasized in those with Fanconi anemia as a
+first step to prevent oropharyngeal cancers, although additional studies are
+needed to determine whether the level of protection it offers in this population 
+is adequate.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1055-9965.EPI-15-0097-T 
+PMCID: PMC4440551
+PMID: 25809863  [Indexed for MEDLINE]

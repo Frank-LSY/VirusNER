@@ -1,0 +1,49 @@
+
+
+2520. J Transl Med. 2014 Jan 6;12:3. doi: 10.1186/1479-5876-12-3.
+
+Methods and matrices: approaches to identifying miRNAs for nasopharyngeal
+carcinoma.
+
+Plieskatt JL, Rinaldi G, Feng Y, Levine PH, Easley S, Martinez E, Hashmi S,
+Sadeghi N, Brindley PJ, Bethony JM(1), Mulvenna JP.
+
+Author information: 
+(1)Department of Microbiology, Immunology and Tropical Medicine, School of
+Medicine and Health Science, George Washington University, Washington, DC, USA.
+jbethony@gwu.edu.
+
+BACKGROUND: Nasopharyngeal carcinoma (NPC) is a solid tumor of the head and neck.
+Multimodal therapy is highly effective when NPC is detected early. However, due
+to the location of the tumor and the absence of clinical signs, early detection
+is difficult, making a biomarker for the early detection of NPC a priority. The
+dysregulation of small non-coding RNAs (miRNAs) during carcinogenesis is the
+focus of much current biomarker research. Herein, we examine several miRNA
+discovery methods using two sample matrices to identify circulating miRNAs
+(c-miRNAs) associated with NPC.
+METHODS: We tested two miRNA discovery workflows on two sample sources for miRNAs
+associated with NPC. In the first workflow, we assumed that NPC tumor tissue
+would be enriched for miRNAs, so we compared miRNA expression in FFPE from NPC
+cases and controls using microarray and RNA-Seq technologies. Candidate miRNAs
+from both technologies were verified by qPCR in FFPE and sera from an independent
+NPC sample set. In a second workflow, we directly interrogated NPC case and
+control sera by RNA-Seq for c-miRNAs associated with NPC, with candidate c-miRNAs
+verified by qPCR in the sera from the same independent NPC sample set.
+RESULTS: Both microarray and RNA-Seq narrowed the miRNA signature to 1-5% of the 
+known mature human miRNAs. Moreover, these two methods produced similar results
+when applied to the same sample type (FFPE), with RNA-Seq additionally indicating
+"unknown" miRNAs associated with NPC. However, we found different miRNA profiles 
+in NPC sera compared to FFPE using RNA-Seq, with the few overlapping miRNAs found
+to be significantly up-regulated in FFPE significantly down-regulated in sera
+(and vice versa). Despite the different miRNA profiles found in FFPE and sera,
+both profiles strongly associated with NPC, providing two potential sources for
+biomarker signatures for NPC.
+CONCLUSIONS: We determined that the direct interrogation of sera by RNA-Seq was
+the most informative method for identifying a c-miRNA signature associated with
+NPC. We also showed that there are different miRNA expression profiles associated
+with NPC for tumor tissue and sera. These results reflect on the methods and
+meaning of miRNA biomarkers for NPC in tissue and peripheral blood.
+
+DOI: 10.1186/1479-5876-12-3 
+PMCID: PMC3895762
+PMID: 24393330  [Indexed for MEDLINE]

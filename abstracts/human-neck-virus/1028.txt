@@ -1,0 +1,32 @@
+
+
+1028. Recent Results Cancer Res. 2017;206:257-267.
+
+Vaccination Expectations in HNSCC.
+
+Syrjänen S(1), Rautava J(2).
+
+Author information: 
+(1)Department of Oral Pathology, Faculty of Medicine, Turku University Hospital, 
+Institute of Dentistry, University of Turku, Lemminkäisenkatu 2, 20520, Turku,
+Finland. stina.syrjanen@utu.fi.
+(2)Department of Oral Pathology, Faculty of Medicine, Turku University Hospital, 
+Institute of Dentistry, University of Turku, Lemminkäisenkatu 2, 20520, Turku,
+Finland.
+
+HPV-associated head and neck squamous cell carcinoma (HNSCC), more specifically
+the incidence of oropharyngeal cancer, is dramatically increasing in
+industrialized countries. According to what has been learned from anogenital
+vaccination programs, there are reasons to believe that current human
+papillomavirus (HPV) vaccinations may be potentially effective also against
+HNSCC. However, before specific results on HNSCC are available, one must keep in 
+mind that carcinogenesis in the head and neck region may differ from that of the 
+anogenital tract. Furthermore, the current evidence supports the view that HPV
+infection is much more complex than simply a sexually transmitted disease. HPV is
+present in the semen, placenta and in the newborns, and these infections of the
+newborns create cell-mediated immunity (CMI) against HPV, including the T memory 
+cells. Acquisition of HPV infection in early life will rise new series of
+questions in the field of HPV vaccination.
+
+DOI: 10.1007/978-3-319-43580-0_21 
+PMID: 27699546  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+615. Eur Rev Med Pharmacol Sci. 2017 Mar;21(5):922-927.
+
+Association between hepatitis B and hearing status.
+
+Bao SP(1).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Beijing Youan Hospital,
+Capital Medical University, Beijing, China. baoshiping@163.com.
+
+OBJECTIVE: This study was performed to investigate the correlation between the
+chronic hepatitis B virus infection and hearing status. This study was performed 
+to investigate the correlation between the chronic hepatitis B virus infection
+and hearing status.
+PATIENTS AND METHODS: This research was based on 76 hepatitis-B infections as the
+case group (including 35 HBV carriers and 41 chronic hepatitis B (CHB) patients) 
+and 54 normal cases as the control group. They were selected sequentially and
+audiologic tests were performed on the participants.
+RESULTS: The average hearing thresholds (HTs) of control group and hepatitis-B
+infection were 10.70 and 12.42 dBHL respectively with statistically significant
+difference (p < 0.01). Frequency-specific HT of 114 ears in control group and
+hepatitis-B infection were found statistical differences for hearing frequency
+ranged 250 to 8000 (p < 0.05), and statistically significant differences for 250,
+2000 and 4000 Hz (p < 0.01). Significant differences were only measured for HT at
+250 Hz frequencies between control and HBV carriers (p < 0.01), while for control
+and CHB group, the differences were detected for all tested frequency (p < 0.01).
+The SNR for f2 frequencies (553, 1105, 2211, 3125, 4416, 4416, 6250 Hz) of the
+CHB patients and HBV carriers were compared with statistical differences (p <
+0.01).
+CONCLUSIONS: The results showed that the hepatitis-B patients were more prone to 
+hearing loss and that the hepatitis B disease can cause hearing loss. The
+infection of the inner ear and the pathological changes of the patients with HBV 
+infection still need to be further explored.
+
+
+PMID: 28338205  [Indexed for MEDLINE]

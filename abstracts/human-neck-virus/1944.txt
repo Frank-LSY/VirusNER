@@ -1,0 +1,42 @@
+
+
+1944. Sex Transm Dis. 2016 Apr;43(4):231-7. doi: 10.1097/OLQ.0000000000000426.
+
+Race is Associated With Sexual Behaviors and Modifies the Effect of Age on Human 
+Papillomavirus Serostatus Among Perimenopausal Women.
+
+Rettig EM(1), Fakhry C, Rositch AF, Burke AE, Chang K, Silver MI, Viscidi R,
+Gravitt P.
+
+Author information: 
+(1)From the *Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins
+University School of Medicine, Baltimore, MD; †Department of Epidemiology, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, MD; Departments of
+‡Gynecology and Obstetrics and §Pediatrics, Johns Hopkins University School of
+Medicine, Baltimore, MD; and ¶Department of Pathology, University of New Mexico
+Health Sciences Center, Albuquerque, NM.
+
+BACKGROUND: Human papillomavirus (HPV) causes oropharyngeal and cervical cancers.
+Oropharyngeal cancer primarily affects whites, but cervical cancer is more common
+among blacks. Reasons for this distinct epidemiology are unclear.
+METHODS: Serum was collected from women aged 35 to 60 years in the HPV in
+Perimenopause cohort and evaluated for antibodies to 8 HPV types. Demographic and
+behavioral data were collected by telephone questionnaire. Associations between
+sexual behaviors, race, age, HPV serostatus, and strength of serologic response
+to HPV were evaluated.
+RESULTS: There were 781 women in this analysis, including 620 white (79%) and 161
+(21%) black women. Whites were less likely to report 5+ vaginal sex partners
+(prevalence ratio [PR], 0.86; 95% confidence interval [CI], 0.77-0.97), but more 
+likely to report 5+ oral sex partners (PR, 2.38; 95% CI, 1.62-3.49) compared with
+blacks. Seropositivity to most individual HPV types and at least 3 types was
+significantly lower in whites than in blacks (PR, 0.62; 95% CI, 0.47-0.80). Human
+papillomavirus seropositivity was independently associated with younger age among
+blacks, but with sexual exposures among whites. Furthermore, strength of
+serologic response to most HPV types significantly decreased with older age among
+blacks, but not among whites.
+CONCLUSIONS: Racial differences in immune markers of HPV exposure and the
+epidemiology of HPV-related cancers may be linked to differences in patterns of
+sexual behaviors.
+
+DOI: 10.1097/OLQ.0000000000000426 
+PMID: 26967299  [Indexed for MEDLINE]

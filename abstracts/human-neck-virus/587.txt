@@ -1,0 +1,40 @@
+
+
+587. Oral Surg Oral Med Oral Pathol Oral Radiol. 2012 Sep;114(3):350-7. doi:
+10.1016/j.oooo.2012.05.003.
+
+Frequency and genotype distribution of multiple human papillomavirus infections
+in cancer of the head and neck in a Mexican population.
+
+Ibieta-Zarco BR(1), Carrillo-García A, Ponce-de-León-Rosales S, Flores-Miranda
+MM, Mohar A, Lizano M.
+
+Author information: 
+(1)Departamento de Cabeza y Cuello, Instituto Nacional de Cancerología, Mexico
+City, Mexico.
+
+Comment in
+    Oral Surg Oral Med Oral Pathol Oral Radiol. 2013 Mar;115(3):416-7.
+    Oral Surg Oral Med Oral Pathol Oral Radiol. 2013 Mar;115(3):417.
+
+OBJECTIVE: The aim of this study was to determine the frequency and genotype
+distribution of single and multiple human papillomavirus (HPV) infections in head
+and neck squamous cell carcinomas (HNSCCs) in a Mexican population and to assess 
+their associations with smoking and drinking habits and clinicopathologic
+characteristics.
+STUDY DESIGN: A cross-sectional study was performed on a sample of patients
+diagnosed with HNSCCs. Tumor DNA was amplified using polymerase chain reaction
+with HPV consensus and multiplex primers. The associations among HPV status,
+survival, and clinical characteristics were analyzed.
+RESULTS: Sixteen of the 43 HNSCCs were HPV positive. HPV16 was the most prevalent
+type, with single infections present in 5 cases, whereas another 5 cases were
+combined with HPV56 infection. There was a significant association between HPV
+infection and oropharyngeal cancers. HPV positivity was associated with overall
+survival at a nearly significant P level of 0.06.
+CONCLUSIONS: Our data support the importance of HPV infection in oropharyngeal
+cancer, with a trend toward higher survival in HPV-positive cases.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.oooo.2012.05.003 
+PMID: 22862976  [Indexed for MEDLINE]

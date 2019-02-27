@@ -1,0 +1,59 @@
+
+
+19. J Virol. 2015 Feb;89(4):1965-74. doi: 10.1128/JVI.03279-14. Epub 2014 Dec 3.
+
+Generation and evaluation of clade C simian-human immunodeficiency virus
+challenge stocks.
+
+Chang HW(1), Tartaglia LJ(1), Whitney JB(2), Lim SY(1), Sanisetty S(3), Lavine
+CL(1), Seaman MS(1), Rademeyer C(4), Williamson C(4), Ellingson-Strouss K(5),
+Stamatatos L(6), Kublin J(7), Barouch DH(8).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA Harvard Medical School, Boston, Massachusetts,
+USA.
+(2)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA Harvard Medical School, Boston, Massachusetts,
+USA Ragon Institute of MGH, MIT, and Harvard, Cambridge, Massachusetts, USA.
+(3)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA.
+(4)Division of Medical Virology, Institute of Infectious Diseases and Molecular
+Medicine, University of Cape Town, Cape Town, South Africa.
+(5)Seattle Biomedical Research Institute, Seattle, Washington, USA.
+(6)Seattle Biomedical Research Institute, Seattle, Washington, USA Fred
+Hutchinson Cancer Research Center, Seattle, Washington, USA.
+(7)Fred Hutchinson Cancer Research Center, Seattle, Washington, USA.
+(8)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA Harvard Medical School, Boston, Massachusetts,
+USA Ragon Institute of MGH, MIT, and Harvard, Cambridge, Massachusetts, USA
+dbarouch@bidmc.harvard.edu.
+
+The development of a panel of mucosally transmissible simian-human
+immunodeficiency virus (SHIV) challenge stocks from multiple virus clades would
+facilitate preclinical evaluation of candidate HIV-1 vaccines and therapeutics.
+The majority of SHIV stocks that have been generated to date have been derived
+from clade B HIV-1 env sequences from viruses isolated during chronic infection
+and typically required serial animal-to-animal adaptation for establishing
+mucosal transmissibility and pathogenicity. To capture essential features of
+mucosal transmission of clade C viruses, we produced a series of SHIVs with early
+clade C HIV-1 env sequences from acutely HIV-1-infected individuals from South
+Africa. SHIV-327c and SHIV-327cRM expressed env sequences that were 99.7 to 100% 
+identical to the original HIV-1 isolate and did not require in vivo passaging for
+mucosal infectivity. These challenge stocks infected rhesus monkeys efficiently
+by both intrarectal and intravaginal routes, replicated to high levels during
+acute infection, and established chronic setpoint viremia in 13 of 17 (76%)
+infected animals. The SHIV-327cRM challenge stock was also titrated for both
+single, high-dose intrarectal challenges and repetitive, low-dose intrarectal
+challenges in rhesus monkeys. These SHIV challenge stocks should facilitate the
+preclinical evaluation of vaccines and other interventions aimed at preventing
+clade C HIV-1 infection.IMPORTANCE: We describe the development of two related
+clade C SHIV challenge stocks. These challenge stocks should prove useful for
+preclinical testing of vaccines and other interventions aimed at preventing clade
+C HIV-1 infection.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03279-14 
+PMCID: PMC4338880
+PMID: 25473043  [Indexed for MEDLINE]

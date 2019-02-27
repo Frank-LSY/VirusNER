@@ -1,0 +1,30 @@
+
+
+3000. Cancer Biol Ther. 2010 Jan;9(1):1-7. Epub 2010 Jan 9.
+
+The molecular pathogenesis of head and neck cancer.
+
+Klein JD(1), Grandis JR.
+
+Author information: 
+(1)Department of Otolaryngology, University of Pittsburgh School of Medicine and 
+University of Pittsburgh Cancer Institute, Eye and Ear Institute Building,
+Pittsburgh, PA, USA.
+
+Head and neck cancer arises from a series of molecular alterations progressive
+from dysplasia to carcinoma in situ, and finally invasive carcinoma. Risk factors
+associated with head and neck cancer include tobacco, alcohol and viral
+infection. There are genetic alterations in pre-cancerous cells that contribute
+to transformation. The accumulation of these alterations facilitates tumor
+development. Additionally, the tumor microenvironment enables tumor progression. 
+The cooperative effect of molecular alterations in the tumor cells and
+compensatory microenvironment changes enable tumors to invade and metastasize.
+This review focuses on the genes and molecules altered during the progression of 
+head and neck cancer with an emphasis on the genetic, molecular and phenotypic
+changes during the pathogenesis of head and neck cancer. Therapeutic strategies
+that target key changes in the tumor cells and/or stromal cells in the tumor
+microenvironment are discussed.
+
+
+PMCID: PMC3138532
+PMID: 20038820  [Indexed for MEDLINE]

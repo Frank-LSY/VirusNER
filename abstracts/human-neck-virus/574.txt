@@ -1,0 +1,50 @@
+
+
+574. Clin Otolaryngol. 2017 Jun;42(3):597-601. doi: 10.1111/coa.12779. Epub 2016 Nov
+2.
+
+Laryngopharyngeal reflux and herpes simplex virus type 2 are possible risk
+factors for adult-onset recurrent respiratory papillomatosis (prospective
+case-control study).
+
+Formánek M(1)(2), Jančatová D(1)(2), Komínek P(1)(2), Matoušek P(1)(2), Zeleník
+K(1)(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, University
+Hospital Ostrava, Ostrava, Czech Republic.
+(2)Faculty of Medicine, University of Ostrava, Ostrava, Czech Republic.
+
+OBJECTIVE: The human papillomavirus (HPV) causes recurrent respiratory
+papillomatosis (RRP). Although HPV prevalence is high, the incidence of
+papillomatosis is low. Thus, factors other than HPV infection probably contribute
+to RRP. This study investigated whether patients with papillomatosis are more
+often infected with herpes simplex virus type 2 and chlamydia trachomatis (ChT)
+and whether laryngopharyngeal reflux (LPR) occurs in this group of patients more 
+often.
+DESIGN: Prospective case-control study.
+SETTING: Department of Otorhinolaryngology of University Hospital.
+PARTICIPANTS: The study included 20 patients with adult-onset RRP and 20 adult
+patients with vocal cord cyst and no pathology of laryngeal mucosa (control
+group).
+MAIN OUTCOME MEASURES: Immunohistochemical analysis of pepsin, HPV, herpes
+simplex virus type 2 and ChT was performed in biopsy specimens of laryngeal
+papillomas and of healthy laryngeal mucosa (control group) obtained from medial
+part of removed vocal cord cyst during microlaryngoscopy procedures.
+RESULTS: Pathologic LPR (pepsin in tissue) was diagnosed in 8/20 (40.0%) patients
+with papillomatosis and in 0/20 control patients (P = .003). Herpes simplex virus
+type 2 was present in 9/20 (45.0%) patients with papillomatosis and in 0/20
+control patients (P = .001). Five specimens were positive for both pepsin and
+herpes simplex virus type 2. No samples were positive for ChT. There were no
+significant differences between groups for age, body mass index, diabetes
+mellitus and gastrooesophageal reflux disease. Tobacco exposure was not more
+frequent in RRP group either (P = .01).
+CONCLUSIONS: Results show that LPR and herpes simplex virus type 2 are
+significantly more often present in patients with RRP. LPR and herpes simplex
+virus type 2 might activate latent HPV infection and thereby be possible risk
+factors for RRP.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/coa.12779 
+PMID: 27759910  [Indexed for MEDLINE]

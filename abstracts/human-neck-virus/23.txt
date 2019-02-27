@@ -1,0 +1,68 @@
+
+
+23. BMC Cancer. 2017 Nov 25;17(1):792. doi: 10.1186/s12885-017-3789-0.
+
+Prevalence and types of high-risk human papillomaviruses in head and neck cancers
+from Bangladesh.
+
+Shaikh MH(1)(2)(3), Khan AI(4), Sadat A(5), Chowdhury AH(6), Jinnah SA(7),
+Gopalan V(8), Lam AK(8), Clarke DTW(2)(3), McMillan NAJ(2)(3), Johnson
+NW(9)(10)(11)(12).
+
+Author information: 
+(1)School of Dentistry and Oral Health, Griffith University, Gold Coast, QLD,
+4222, Australia.
+(2)School of Medical Science, Griffith University, Gold Coast, QLD, 4222,
+Australia.
+(3)Understanding Chronic Conditions Program, Menzies Health Institute Queensland,
+Gold Coast, QLD, 4222, Australia.
+(4)Department of Pathology, National Medical College and Hospital, Dhaka, 1100,
+Bangladesh.
+(5)Department of Oral and Maxillo-facial Surgery, Dhaka Dental College &
+Hospital, Dhaka, 1216, Bangladesh.
+(6)Department of Neuro-medicine, Dhaka Medical College and Hospital, Dhaka, 1000,
+Bangladesh.
+(7)Department of Pathology, Dhaka Medical College and Hospital, Dhaka, 1000,
+Bangladesh.
+(8)School of Medicine, Griffith University, Gold Coast, QLD, 4222, Australia.
+(9)School of Dentistry and Oral Health, Griffith University, Gold Coast, QLD,
+4222, Australia. n.johnson@griffith.edu.au.
+(10)Understanding Chronic Conditions Program, Menzies Health Institute
+Queensland, Gold Coast, QLD, 4222, Australia. n.johnson@griffith.edu.au.
+(11)Dental Institute, King's College London, London, UK.
+n.johnson@griffith.edu.au.
+(12)Menzies Health Institute Queensland and School of Dentistry and Oral Health, 
+Griffith University, Building G40, Room 9.16, Gold Coast Campus, Gold Coast, QLD,
+4222, Australia. n.johnson@griffith.edu.au.
+
+BACKGROUND: There is a dramatic rise in the incidence of Human papillomavirus
+(HPV) - associated head and neck squamous cell carcinoma (HNSCC) in the world,
+with considerable variation by geography, gender and ethnicity. Little is known
+about the situation in Bangladesh, where tobacco- and areca nut-related head and 
+neck cancers (HNCs) are the most common cancers in men. We aimed to determine the
+prevalence of HPV in HNSCC in Bangladesh and to explore the possible value of
+cell cycle markers in clinical diagnostic settings.
+METHODS: One hundred and ninety six archival HNSCC tissue samples were analysed
+for the presence of HPV DNA. The DNA quality was assured, and then amplified
+using a nested PCR approach. The typing of HPV was performed by automated DNA
+sequencing. Cellular markers p53, Cyclin D1 and pRb were tested on all samples by
+immunohistochemistry (IHC), as well as p16 as a putative surrogate for the
+detection of HPV.
+RESULTS: HPV DNA was detected in 36/174 (~21%) samples: 36% of cancers from the
+oropharynx; 31% of oral cancers, and 22% from the larynx. HPV-16 was most common,
+being present in 33 samples, followed by HPV-33 (2 samples) and HPV-31 (1
+sample). Twenty-eight out of 174 samples were positive for p16, predominantly in 
+HPV-positive tissues (p < 0.001). No statistically significant association was
+observed between the cellular markers and HPV DNA positive cases. However, p16
+positivity had excellent predictive value for the presence of HPV by PCR.
+CONCLUSION: There is a significant burden of HPV-associated HNSCC in Bangladesh, 
+particularly in the oropharynx but also in oral and laryngeal cancers. Whilst a
+combination of PCR-based DNA detection and p16 IHC is useful, the latter has
+excellent specificity, acceptable sensitivity and good predictive value for
+carriage of HPV in this population and should be used for prognostic evaluation
+and treatment planning of all HNSCC patients in South Asia, as in the Western
+world.
+
+DOI: 10.1186/s12885-017-3789-0 
+PMCID: PMC5702125
+PMID: 29178862  [Indexed for MEDLINE]

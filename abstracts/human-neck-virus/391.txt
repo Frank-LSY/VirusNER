@@ -1,0 +1,29 @@
+
+
+391. Ear Nose Throat J. 2013 Aug;92(8):372-80.
+
+Human papillomavirus and tobacco use in tongue base cancers.
+
+Stoler DL(1), Smaldino PJ, Darbary HK, Sullivan MA, Popat SR, Hicks WL Jr,
+Merzianu M, Gaile DP, Anderson GR, Loree TR.
+
+Author information: 
+(1)Department of Head and Neck Surgery, Roswell Park Cancer Institute, Buffalo,
+N.Y., USA.
+
+Human papillomavirus 16 (HPV-16) infection and tobacco use are associated with
+human oropharyngeal cancers. We conducted a study of the role of HPV and tobacco 
+use in base of the tongue (BOT) cancers. DNA from 34 such cancers was subjected
+to HPV-16 and HPV-18-specific polymerase chain reaction analysis. Demographic and
+clinicopathologic data were obtained from each patient's medical record. HPV-16
+was detected in 68% of tumors. Tobacco use was the only factor found to be
+significantly associated with HPV status. Tumors from 100% of patients who had
+never used tobacco tested positive for HPV, compared with only 56% of those who
+had ever used tobacco (Fisher exact test, p = 0.024). All tumors were associated 
+with either tobacco use or HPV infection. These findings are consistent with the 
+hypothesis that either tobacco use or HPV infection is necessary to the etiology 
+of BOT tumors, and they suggest that tongue base carcinoma may be prevented by
+combining HPV vaccination with tobacco avoidance.
+
+
+PMID: 23975491  [Indexed for MEDLINE]

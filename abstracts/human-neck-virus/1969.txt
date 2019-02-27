@@ -1,0 +1,36 @@
+
+
+1969. Oncol Res Treat. 2017;40(6):320-327. doi: 10.1159/000477097. Epub 2017 May 17.
+
+Risk Factors for Overall Survival Outcome in Surgically Treated Human
+Papillomavirus-Negative and Positive Patients with Oropharyngeal Cancer.
+
+Wuerdemann N, Wittekindt C, Sharma SJ, Prigge ES, Reuschenbach M, Gattenlöhner S,
+Klussmann JP, Wagner S.
+
+INTRODUCTION: This study reports the oncological outcome of a non-selected series
+of patients with human papillomavirus(HPV)-positive and -negative oropharyngeal
+squamous cell carcinoma (OSCC) preferentially managed with upfront surgery.
+METHODS: Consecutive OSCC cases (n = 378) diagnosed from 2000 to 2010 in our
+department were evaluated for risk factors, HPV association, therapy and overall 
+survival (OS). HPV status was determined by combined DNA and p16 testing, and
+treatment was defined as the first course of treatment with any kind of surgery
+(upfront surgery) or primary chemoradiotherapy. OS of HPV-associated and
+HPV-negative patients was compared using Kaplan-Meier and multivariable Cox
+regression analyses.
+RESULTS: The majority of OSCC patients (215 of 361; 69.5%) received upfront
+surgery as first-line treatment in curative intent. The 5-year OS rate in
+patients with HPV-positive and HPV-negative tumors were 81.1 and 39.7%,
+respectively. Upfront surgery in HPV-negative (p < 0.001) and HPV-positive
+patients (p = 0.05) resulted in improved OS only in advanced stages. Multivariate
+analysis for patients revealed age in HPV-associated OSCC as an independent
+predictor for improved survival, and age, performance, N status and therapy as
+independent predictors in HPV-negative OSCC.
+CONCLUSIONS: Non-selected OSCC patients amenable to curative therapy show poor
+5-year OS. The benefit of upfront surgery remains unclear. A younger patient age 
+was the main factor for a better outcome in patients with HPV-associated OSCC.
+
+© 2017 S. Karger GmbH, Freiburg.
+
+DOI: 10.1159/000477097 
+PMID: 28558385  [Indexed for MEDLINE]

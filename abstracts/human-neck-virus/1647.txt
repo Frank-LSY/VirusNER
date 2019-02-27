@@ -1,0 +1,53 @@
+
+
+1647. Bioelectrochemistry. 2018 Oct;123:248-254. doi: 10.1016/j.bioelechem.2018.06.004.
+Epub 2018 Jun 6.
+
+Electrochemotherapy with cisplatin or bleomycin in head and neck squamous cell
+carcinoma: Improved effectiveness of cisplatin in HPV-positive tumors.
+
+Prevc A(1), Niksic Zakelj M(1), Kranjc S(2), Cemazar M(3), Scancar J(4), Kosjek
+T(4), Strojan P(5), Sersa G(6).
+
+Author information: 
+(1)Department of Experimental Oncology, Institute of Oncology, Ljubljana, Zaloska
+2, SI-1000 Ljubljana, Slovenia; Faculty of Medicine, University of Ljubljana,
+Vrazov trg 2, SI-1000 Ljubljana, Slovenia.
+(2)Department of Experimental Oncology, Institute of Oncology, Ljubljana, Zaloska
+2, SI-1000 Ljubljana, Slovenia.
+(3)Department of Experimental Oncology, Institute of Oncology, Ljubljana, Zaloska
+2, SI-1000 Ljubljana, Slovenia; Faculty of Health Sciences, University of
+Primorska, Polje 42, SI-6310 Izola, Slovenia.
+(4)Department of Environmental Sciences, Jozef Stefan Institute, Jamova cesta 39,
+SI-1000 Ljubljana, Slovenia.
+(5)Faculty of Medicine, University of Ljubljana, Vrazov trg 2, SI-1000 Ljubljana,
+Slovenia; Department of Radiation Oncology, Institute of Oncology, Ljubljana,
+Zaloska 2, SI-1000 Ljubljana, Slovenia. Electronic address: pstrojan@onko-i.si.
+(6)Department of Experimental Oncology, Institute of Oncology, Ljubljana, Zaloska
+2, SI-1000 Ljubljana, Slovenia; Faculty of Health Sciences, University of
+Ljubljana, Zdravstvena pot 5, SI-1000 Ljubljana, Slovenia. Electronic address:
+gsersa@onko-i.si.
+
+Human papillomavirus (HPV) is an important etiological factor in head and neck
+squamous cell carcinomas (SCCs). Standard treatment of HPV-positive tumors with
+platinum-based radio(chemo)therapy results in a better outcome than in
+HPV-negative tumors. Electrochemotherapy is becoming an increasingly recognized
+mode of treatment in different cancers; thus, its use in the management of head
+and neck SCC is of considerable interest. However, response to
+electrochemotherapy according to HPV status of the tumors has not been evaluated 
+yet. Thus, our aim was to compare the effect of electrochemotherapy with
+cisplatin or bleomycin between HPV-negative and HPV-positive human pharyngeal SCC
+derived cell lines and tumor models. HPV-positive cells and tumors were found to 
+be more sensitive to electrochemotherapy with cisplatin than HPV-negative ones,
+whereas sensitivity to electrochemotherapy with bleomycin was similar
+irrespective of the HPV status. The higher sensitivity of HPV-positive cells and 
+tumors to electrochemotherapy with cisplatin is likely due to the higher level
+and slower repair of DNA damage. In HPV-negative tumors, a higher number of
+complete responses was recorded after bleomycin-based rather than cisplatin-based
+electrochemotherapy, while in HPV-positive tumors electrochemotherapy with
+cisplatin was more effective.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bioelechem.2018.06.004 
+PMID: 29898433  [Indexed for MEDLINE]

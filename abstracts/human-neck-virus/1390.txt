@@ -1,0 +1,41 @@
+
+
+1390. Am J Otolaryngol. 2014 Jan-Feb;35(1):19-24. doi: 10.1016/j.amjoto.2013.08.006.
+Epub 2013 Oct 9.
+
+HPV: a factor in organ preservation for locally advanced larynx and hypopharynx
+cancer?
+
+Shaughnessy JN(1), Farghaly H, Wilson L, Redman R, Potts K, Bumpous J, Silverman 
+C, Dunlap NE.
+
+Author information: 
+(1)University of Louisville Brown Cancer Center, Department of Radiation
+Oncology, Louisville, KY USA. Electronic address: jnshau01@louisville.edu.
+
+PURPOSE/OBJECTIVE: To assess the interaction of HPV/p16 status and therapy
+rendered in patients with locally advanced squamous cell carcinoma of the larynx 
+and hypopharynx.
+MATERIALS AND METHODS: Forty-seven consecutive patients receiving definitive
+treatment between 2009 and 2011 for locally advanced larynx or hypopharynx cancer
+with high-risk HPV and/or p16 testing performed were identified and
+retrospectively investigated. Overall survival (OS), disease-free survival (DFS),
+and local recurrence-free survival (LRFS) were assessed.
+RESULTS: Of 47 evaluable patients, there were 38 (81%) with laryngeal and 9 (19%)
+with hypopharyngeal tumors, 13 (28%) of which were found to be either HPV or p16 
+positive. At a median follow-up of 24 months, comparing HPV/p16+ versus HPV/p16- 
+patients, there was no difference in OS, DFS, or LRFS. There was an improvement
+in 2-year DFS (60% vs 100%, P=.03) and LRFS (80% vs 100%, P=.08), in HPV/p16+
+patients treated with chemo/RT versus surgery. There was an improvement in 2-year
+DFS (100% vs 68%, P=.04) and LRFS (100% vs 72%, P=.05) in HPV/p16+ versus
+HPV/p16- patients who received chemo/RT.
+CONCLUSIONS: Patients with HPV/p16+ tumors fared more favorably with chemo/RT
+than up-front surgery, with improvements in DFS and LRFS. In patients treated
+with the intent of organ preservation therapy, HPV/p16+ patients had no observed 
+treatment failures. HPV/p16 status should be taken into account when considering 
+organ preservation for locally advanced larynx and hypopharynx cancers.
+
+© 2013.
+
+DOI: 10.1016/j.amjoto.2013.08.006 
+PMID: 24119488  [Indexed for MEDLINE]

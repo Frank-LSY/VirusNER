@@ -1,0 +1,51 @@
+
+
+1706. Am J Otolaryngol. 2014 Mar-Apr;35(2):147-53. doi: 10.1016/j.amjoto.2013.09.004.
+Epub 2013 Sep 28.
+
+Racial disparities in Human Papillomavirus (HPV) associated head and neck cancer.
+
+Jiron J(1), Sethi S(2), Ali-Fehmi R(2), Franceschi S(3), Struijk L(4), van Doorn 
+LJ(4), Quint W(4), Kato I(5).
+
+Author information: 
+(1)Department of Otolaryngology, Wayne State University School of Medicine,
+Detroit, MI, USA.
+(2)Department of Pathology, Wayne State University School of Medicine, Detroit,
+MI, USA.
+(3)International Agency for Research on Cancer, Lyon, France.
+(4)DDL Diagnostic Laboratory, Rijswijk, the Netherlands.
+(5)Department of Pathology, Wayne State University School of Medicine, Detroit,
+MI, USA; Department of Oncology, Wayne State University School of Medicine,
+Detroit, MI, USA. Electronic address: katoi@karmanos.org.
+
+PURPOSE: Poorer survival from head and neck squamous cell carcinoma (HNSCC) in
+African Americans (AA) may be due to disparity in the prevalence of Human
+Papillomavirus (HPV) but earlier studies often failed to control other
+etiological factors. We aimed to elucidate whether racial disparities in HPV
+prevalence and overall survival were due to confounding from smoking or alcohol
+use.
+MATERIALS AND METHODS: 385 patients with SCC of the mouth, pharynx, nose, or
+larynx who had surgical resection at Wayne State University affiliated hospitals 
+were identified through a population-based cancer registry. Formalin fixed
+paraffin embedded tissue blocks were used to determine the presence of HPV DNA
+and its genotype using a sensitive broad-spectrum PCR technique. Patients'
+demographics, tumor characteristics and vital status were obtained through record
+linkage with the registry data and smoking and alcohol information was abstracted
+from medical record. Cox's proportional hazard model and unconditional logistic
+regression models were employed to analyze the overall survival and tumor
+HPV-positivity, respectively.
+RESULTS: HPV positivity in oropharyngeal cancer was substantially lower in AA
+than in other racial groups (odds ratio 0.14, 95% confidence interval (CI)
+0.05-0.37) and adjustment for smoking or alcohol did not change this association.
+However, a significantly increased hazard ratio of death in AA oropharyngeal
+cancer patients (univariable hazard ratio (HR) 2.55, 95% CI 1.42-4.59) decreased 
+to almost unity (HR 1.49, 95% CI 0.75-2.93) after adjustment for HPV and smoking.
+CONCLUSIONS: Lower HPV prevalence in AA largely accounts for their poorer
+survival from oropharyngeal cancer, but not other HNSSC.
+
+© 2014.
+
+DOI: 10.1016/j.amjoto.2013.09.004 
+PMCID: PMC3947473
+PMID: 24209992  [Indexed for MEDLINE]

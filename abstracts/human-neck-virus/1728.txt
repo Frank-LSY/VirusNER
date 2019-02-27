@@ -1,0 +1,30 @@
+
+
+1728. Crit Rev Oncol Hematol. 2012 Mar;81(3):224-40. doi:
+10.1016/j.critrevonc.2011.03.004. Epub 2011 Apr 20.
+
+Stem cells in squamous head and neck cancer.
+
+Albers AE(1), Chen C, Köberle B, Qian X, Klussmann JP, Wollenberg B, Kaufmann AM.
+
+Author information: 
+(1)Department of Otolaryngology and Head and Neck Surgery,
+Charité-Universitätsmedizin Berlin, Campus Benjamin Franklin, Hindenburgdamm 30, 
+12200 Berlin, Germany. andreas.albers@charite.de
+
+The initiation and metastasis of head and neck squamous cell carcinomas (HNSCC)
+and other cancers have recently been related to the presence of cancer stem cells
+(CSC). CSC are cancer initiating, sustaining and are mostly quiescent. Specific
+markers that vary considerably depending on tumor type or tissue of origin
+characterize putative CSC. Compared to the bulk tumor mass, CSC are less
+sensitive to chemo- and radiotherapy and may also have low immunogenicity.
+Therapeutic targeting of CSC may improve clinical outcome of HNSCC which has two 
+distinct etiologies: infection of epithelial stem cells by high-risk types of the
+human papillomavirus, or long-term tobacco and alcohol abuse. Recent knowledge on
+the role of CSC in HNSCC is reviewed and where necessary parallels to CSC of
+other origin are drawn to give a more comprehensive picture.
+
+Copyright Â© 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.critrevonc.2011.03.004 
+PMID: 21511490  [Indexed for MEDLINE]

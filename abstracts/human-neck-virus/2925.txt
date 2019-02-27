@@ -1,0 +1,40 @@
+
+
+2925. Head Neck Pathol. 2012 Sep;6(3):336-44. doi: 10.1007/s12105-012-0355-6. Epub 2012
+Apr 15.
+
+HPV positive squamous cell carcinoma of the oropharynx. Are we observing an
+unusual pattern of metastases?
+
+Müller S(1), Khuri FR, Kono SA, Beitler JJ, Shin DM, Saba NF.
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Emory University, Atlanta, GA
+30322, USA. susan.muller@emory.org
+
+To describe the clinical, histopathologic, immunohistochemical and molecular
+features of human papilloma virus (HPV)+ squamous cell carcinomas of the
+oropharynx that had an atypical clinical course.METHODS AND RESULTS: Four
+patients with HPV+ oropharyngeal squamous cell carcinoma (OPSCC) were identified 
+retrospectively based on unanticipated clinical behavior. The histopathology,
+immunohistochemistry and molecular studies of both the primary tumor and the
+metastases were analyzed to look for any predictors to explain the clinical
+course. The four patients were all male (average age 55) who presented initially 
+with a neck mass and had stage IVA disease. Three of the primary tumors were
+nonkeratinizing squamous cell carcinoma and one case was a hybrid tumor of both
+high-grade squamous cell carcinoma and nonkeratinizing type, and all were p16 and
+HPV 16/18 positive. All patients received concurrent chemoradiation as primary
+therapy and had a complete response. Disease-free survival ranged from 7 to 15
+months and metastases in 3 patients occurred only in bone, including the sternum,
+humerus, clavicle, and vertebrae. In one patient, distant metastases were
+identified in the pancreas, liver, lung and skull base. All metastatic lesions
+were nonkeratinizing morphology and were p16 and/or HPV positive. Two patients
+died of their disease, one patient is alive with disease and one patient is
+disease-free. Although infrequent, unanticipated clinical outcomes can occur in
+HPV-related OPSCC including distant metastases and bone-only metastases. The
+tumor morphology of the metastases was comparable to the primary and retained p16
+and HPV expression.
+
+DOI: 10.1007/s12105-012-0355-6 
+PMCID: PMC3422578
+PMID: 22528827  [Indexed for MEDLINE]

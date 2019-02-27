@@ -1,0 +1,38 @@
+
+
+603. J Med Virol. 2009 May;81(5):878-87. doi: 10.1002/jmv.21470.
+
+Demographic and risk factors in patients with head and neck tumors.
+
+Tachezy R(1), Klozar J, Rubenstein L, Smith E, Saláková M, Smahelová J, Ludvíková
+V, Rotnáglová E, Kodet R, Hamsíková E.
+
+Author information: 
+(1)Department of Experimental Virology, Institute of Haematology and Blood
+Transfusion, Prague, Czech Republic. rutach@uhkt.cz
+
+The association between human papillomavirus (HPV) infection and the development 
+of head and neck cancer has been documented recently. In this study on 86 head
+and neck cancer patients and 124 controls, data regarding demographics,
+behavioral risk factors, and risks related to HPV exposure were collected. HPV
+detection was carried out using polymerase chain reaction in the tumors and in
+oral exfoliated cells, and HPV typing by a reverse line blot assay specific for
+37 HPV types. Sera were tested by an enzyme-linked immunosorbent assay specific
+for HPV proteins. Head and neck cancer cases report significantly more oral-anal 
+contact (P = 0.02) and tobacco and alcohol use than controls (P = 0.001; P =
+0.02, respectively). High-risk HPV DNA was detected in 43% of oral washings of
+cases and 4% of controls (P < 0.0001). The association between the presence of
+high-risk HPV DNA in oral exfoliated cells and in tumor tissues was statistically
+significant (adjusted P < 0.0001). The prevalence of HPV-specific antibodies was 
+significantly higher in cases than in controls (adjusted P < 0.0001). These
+results provide epidemiological and immunological evidence for HR HPV as a strong
+risk factor (OR = 44.3, P < 0.0001) for head and neck cancer, even after
+controlling for age, tobacco and alcohol use. The detection of high-risk HPV DNA 
+in oral exfoliated cells and HPV-specific antibodies in serum can be considered
+as clinically relevant surrogate markers for the presence of a HPV-associated
+head and neck cancer, with a high sensitivity (83%) and specificity (88%).
+
+Copyright 2009 Wiley-Liss, Inc.
+
+DOI: 10.1002/jmv.21470 
+PMID: 19319944  [Indexed for MEDLINE]

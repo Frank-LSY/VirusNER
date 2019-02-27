@@ -1,0 +1,51 @@
+
+
+1171. Int J Cancer. 2016 Feb 15;138(4):912-7. doi: 10.1002/ijc.29827. Epub 2015 Sep 14.
+
+No role for human papillomavirus infection in oral cancers in a region in
+southern India.
+
+Laprise C(1)(2), Madathil SA(2)(3), Allison P(1)(2), Abraham P(4), Raghavendran
+A(4), Shahul HP(2), ThekkePurakkal AS(2), Castonguay G(2), Coutlée F(5), Schlecht
+NF(6), Rousseau MC(2)(3), Franco EL(1)(2), Nicolau B(1)(2).
+
+Author information: 
+(1)Division of Cancer Epidemiology, Department of Oncology, McGill University,
+Montreal, QC, Canada.
+(2)Division of Oral Health and Society, Faculty of Dentistry, McGill University, 
+Montreal, QC, Canada.
+(3)Epidemiology and Biostatistics Unit, INRS-Institut Armand-Frappier, Laval, QC,
+Canada.
+(4)Department of Clinical Virology, Christian Medical College, Vellore, India.
+(5)Department of Microbiology and Infectious Diseases, Hôpital Notre-Dame Du
+Centre De Recherche Du Centre Hospitalier De L'université De Montréal, Montreal, 
+QC, Canada.
+(6)Department of Epidemiology and Population Health, Albert Einstein College of
+Medicine, New York, NY.
+
+Oral cancer is a major public health issue in India with ∼ 77,000 new cases and
+52,000 deaths yearly. Paan chewing, tobacco and alcohol use are strong risk
+factors for this cancer in India. Human papillomaviruses (HPVs) are also related 
+to a subset of head and neck cancers (HNCs). We examined the association between 
+oral HPV and oral cancer in a sample of Indian subjects participating in a
+hospital-based case-control study. We recruited incident oral cancer cases (N =
+350) and controls frequency-matched by age and sex (N = 371) from two main
+referral hospitals in Kerala, South India. Sociodemographic and behavioral data
+were collected by interviews. Epithelial cells were sampled using Oral CDx®
+brushes from the oral cancer site and the normal mucosa. Detection and genotyping
+of 36 HPV genotypes were done using a polymerase chain reaction protocol. Data
+collection procedures were performed by qualified dentists via a detailed
+protocol with strict quality control, including independent HPV testing in India 
+and Canada. HPV DNA was detected in none of the cases or controls. Associations
+between oral cancer and risk factors usually associated with HPV infection, such 
+as oral sex and number of lifetime sexual partners, were examined by logistic
+regression and were not associated with oral cancer. Lack of a role for HPV
+infection in this study may reflect cultural or religious characteristics
+specific to this region in India that are not conducive to oral HPV transmission.
+A nationwide representative prevalence study is needed to investigate HPV
+prevalence variability among Indian regions.
+
+© 2015 UICC.
+
+DOI: 10.1002/ijc.29827 
+PMID: 26317688  [Indexed for MEDLINE]

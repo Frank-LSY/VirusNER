@@ -1,0 +1,47 @@
+
+
+31. Hua Xi Kou Qiang Yi Xue Za Zhi. 2017 Jun 1;35(3):301-310. doi:
+10.7518/hxkq.2017.03.014.
+
+[Analysis of the current status of research on human papillomavirus-associated
+head and neck cancers based on recent Chinese literature].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Yan L(1), Mingxin C(1), Jiashun W(1), Xiaolei G(1), Xinhua L(1).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, National Clinical Research Center for
+Oral Diseases, Dept. of Oral and Maxillofacial Surgery, West China Hospital of
+Stomatology, Sichuan University, Chengdu 610041, China.
+
+OBJECTIVE: To analyze the current status of research on human papillomavirus
+(HPV)-associated head and neck cancers in China using national and international 
+references.
+METHODS: We searched for bibliographies in the electronic databases of Sichuan
+University, including Chinese Biological and Medical Database (CBM), China
+Science and Technology Journal Database (VIP), and Wanfang Journal Database.
+Then, data was selected and extracted to analyze the basic characteristics of
+HPV-related head and neck cancers, the general prevalence of HPV, and the effects
+of various clinic pathological indicators on HPV patients.
+RESULTS: The general prevalence of HPV was 34.05% among civil patients with head 
+and neck cancers. Our analysis of different clinical and pathological indices
+that affect HPV-associated oral squamous cell carcinomas revealed that
+non-smoking and non-drinking groups had higher HPV infection rates compared with 
+smoking (P=0.002) and drinking (P< 0.005) groups. In addition, N2-N3 stage
+patients had higher detectable rates than N0-N1 stage patients (P=0.027).
+CONCLUSIONS: The majority of civil research studies on HPV-associated head and
+neck cancers are concentrated on clinical studies. Thus, the molecular
+neuropathology and signaling pathway of HPV should be further explored in the
+future to advance prognostic methods. Moreover, the perspective view of
+therapeutic vaccines and molecular-targeting treatments should receive close
+attention.  .
+
+Publisher: 目的 基于目前国内人乳头瘤病毒（HPV）相关的头颈肿瘤的文献，结合国外文献研究，分析目前我国在此领域的研究现状。方法
+计算机检索四川大学图书馆电子期刊数据库，包括中国生物医学文献数据库（CBM）、维普中文科技期刊数据库（VIP）和万方期刊全文数据库，筛选并提取数据，分析国内与HP
+V相关的头颈肿瘤研究的基本特征、HPV总检出率以及不同临床病理指标对HPV感染的影响。结果
+国内头颈肿瘤患者中，HPV总检出率为34.05%。在分析不同临床病理指标对口腔鳞癌患者HPV感染的影响时，不吸烟组、不饮酒组的HPV感染率高于吸烟组（P=0.00
+2）、饮酒组（P<0.005）；N2~N3期的HPV检出率高于N0~N1期（P=0.027）。结论
+HPV相关头颈肿瘤的中文文献多数以临床研究为主，未来应继续研究致病的分子病理机制以及预后的分子信号通路，更多关注具有前瞻视角的治疗型HPV疫苗和分子靶向的研究。.
+DOI: 10.7518/hxkq.2017.03.014 
+PMID: 28675017  [Indexed for MEDLINE]

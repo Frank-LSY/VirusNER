@@ -1,0 +1,46 @@
+
+Conflict of interest statement: The authors have declared taht no competing
+interest exist.
+
+
+1479. Anticancer Drugs. 2018 Mar;29(3):197-207. doi: 10.1097/CAD.0000000000000575.
+
+Antitumor effect of the Newcastle disease viral hemagglutinin-neuraminidase gene 
+is expressed through an oncolytic adenovirus effect in osteosarcoma cells.
+
+Chen S(1)(2)(3), Zhang Q(1)(4), Xu D(2)(5), Li Y(1)(2), Fan Y(2), Li W(2), Yin
+X(2)(6), Zhang Y(7), Liu J(7), Li X(2)(6)(8), Sun L(2)(5), Jin N(1)(2)(6)(8).
+
+Author information: 
+(1)Medical College, Yanbian University, Yanji.
+(2)Institute of Military Veterinary Medicine, Academy of Military Medical
+Science.
+(3)School of Medical Inspection, Jilin Medical University, Jilin.
+(4)Medical College, Dalian University, Dalian, People's Republic of China.
+(5)Department of Head and Neck Surgery, Tumor Hospital of Jilin Province.
+(6)Changchun University of Traditional Chinese Medicine.
+(7)The First Hospital of Jilin University, Changchun.
+(8)Jiang su Co-innovation Center for Prevention and Control of Important Animal
+Infectious Diseases and Zoonoses, Yangzhou.
+
+Newcastle disease virus (NDV) can specifically kill cancer cells and has less
+toxicity to normal cells. The hemagglutinin-neuraminidase (HN) protein is an
+important structural protein in NDV pathogenesis and has been postulated as a
+promising candidate for antitumor therapy. The aim of this study was to
+investigate the anticancer potential of recombinant adenovirus Ad-HN-PEG3p-E1a.
+An MTS assay was performed to determine viral proliferation after viral
+infection, the data showed that the proliferation ability of osteosarcoma cells
+decreased, whereas there was no significant change in normal hepatic cells. DAPI 
+and Annexin V experiments showed that osteosarcoma cells were killed because of
+apoptosis, active oxygen content, and augmented mitochondrial membrane potential 
+loss. Caspase Activity Assay Kits were used to detect the caspase-3 activities of
+the treated OS-732 for increased expression. Western blot analysis showed that
+cytochrome C increased significantly and apoptosis of the virus was confirmed in 
+tumor cells. In-vivo experiments show that NDV has an inhibitory effect on tumor 
+growth. The recombinant adenovirus, which is composed of a HN protein and
+progressive increment promoter PEG3p, could inhibit the growth of OS-732 and
+promote the apoptosis of tumor cells. However, there was no clear relationship
+with normal cell (L02) apoptosis.
+
+DOI: 10.1097/CAD.0000000000000575 
+PMID: 29438228  [Indexed for MEDLINE]

@@ -1,0 +1,62 @@
+
+
+1682. Virol J. 2017 Jan 11;14(1):4. doi: 10.1186/s12985-016-0678-0.
+
+Acute flaccid myelitis associated with enterovirus-D68 infection in an otherwise 
+healthy child.
+
+Esposito S(1), Chidini G(2), Cinnante C(3), Napolitano L(2), Giannini A(2),
+Terranova L(4), Niesters H(5), Principi N(4), Calderini E(2).
+
+Author information: 
+(1)Pediatric Highly Intensive Care Unit, Department of Pathophysiology and
+Transplantation, Università degli Studi di Milano, Fondazione IRCCS Ca' Granda
+Ospedale Maggiore Policlinico, Via Commenda 9, 20122, Milano, Italy.
+susanna.esposito@unimi.it.
+(2)Pediatric Intensive Care Unit, Fondazione IRCCS Ca' Granda Ospedale Maggiore
+Policlinico, Milan, Italy.
+(3)Neuroadiology Unit, Department of Pathophysiology and Transplantation,
+Università degli Studi di Milano, Fondazione IRCCS Ca' Granda Ospedale Maggiore
+Policlinico, Milan, Italy.
+(4)Pediatric Highly Intensive Care Unit, Department of Pathophysiology and
+Transplantation, Università degli Studi di Milano, Fondazione IRCCS Ca' Granda
+Ospedale Maggiore Policlinico, Via Commenda 9, 20122, Milano, Italy.
+(5)Department of Medical Microbiology, Division of Clinical Virology, University 
+Medical Center Groningen, Groningen, The Netherlands.
+
+BACKGROUND: Reporting new cases of enterovirus (EV)-D68-associated acute flaccid 
+myelitis (AFM) is essential to understand how the virus causes neurological
+damage and to characterize EV-D68 strains associated with AFM.
+CASE PRESENTATION: A previously healthy 4-year-old boy presented with sudden
+weakness and limited mobility in his left arm. Two days earlier, he had an upper 
+respiratory illness with mild fever. At admission, his physical examination
+showed that the child was febrile (38.5 °C) and alert but had a stiff neck and
+weakness in his left arm, which was hypotonic and areflexic. Cerebrospinal fluid 
+(CSF) examination showed a mild increase in white blood cell count (80/mm3, 41%
+neutrophils) and a slightly elevated protein concentration (76 gm/dL). Bacterial 
+culture and molecular biology tests for detecting viral infection in CSF were
+negative. The patient was then treated with intravenous ceftriaxone and
+acyclovir. Despite therapy, within 24 h, the muscle weakness extended to all four
+limbs, which exhibited greatly reduced mobility. Due to his worsening clinical
+prognosis, the child was transferred to our Pediatric Intensive Care Unit; at
+admission he was diagnosed with acute flaccid paralysis of all four limbs. Brain 
+magnetic resonance imaging (MRI) was negative, except for a focal signal
+alteration in the dorsal portion of the medulla oblongata, also involving the
+pontine tegmentum, whereas spine MRI showed an extensive signal alteration of the
+cervical and dorsal spinal cord reported as myelitis. Signal alteration was
+mainly localized in the central grey matter, most likely in the anterior horns.
+Molecular biology tests performed on nasopharyngeal aspirate and on
+bronchoalveolar lavage fluid were negative for bacteria but positive for EV-D68
+clade B3. Plasmapheresis was performed and corticosteroids and intravenous
+immunoglobulins were administered. After 4 weeks of treatment, the signs and
+symptoms of AFM were significantly reduced, although some weakness and tingling
+remained in the patient's four limbs. MRI acquired after 3 weeks showed that the 
+previously reported alterations were no longer present.
+CONCLUSION: This case suggests that EV-D68 is a neurotropic agent that can cause 
+AFM and strains are circulating in Europe. EV-D68 disease surveillance is
+required to better understand EV-D68 pathology and to compare various strains
+that cause AFM.
+
+DOI: 10.1186/s12985-016-0678-0 
+PMCID: PMC5234096
+PMID: 28081720  [Indexed for MEDLINE]

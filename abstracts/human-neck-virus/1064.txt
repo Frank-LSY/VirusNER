@@ -1,0 +1,37 @@
+
+
+1064. Head Neck. 2012 Oct;34(10):1480-91. doi: 10.1002/hed.21962. Epub 2011 Dec 13.
+
+UM-SCC-104: a new human papillomavirus-16-positive cancer stem cell-containing
+head and neck squamous cell carcinoma cell line.
+
+Tang AL(1), Hauff SJ, Owen JH, Graham MP, Czerwinski MJ, Park JJ, Walline H,
+Papagerakis S, Stoerker J, McHugh JB, Chepeha DB, Bradford CR, Carey TE, Prince
+ME.
+
+Author information: 
+(1)Department of Otolaryngology-Head & Neck Surgery, University of Michigan, Ann 
+Arbor, Michigan, USA.
+
+BACKGROUND: Few human papillomavirus (HPV)(+) head and neck squamous cell
+carcinoma (HNSCC) cell lines exist. We established University of
+Michigan-squamous cell carcinoma-104 (UM-SCC-104), a new HPV(+) HNSCC cell line
+from a recurrent oral cavity tumor, and characterized it for the presence of
+cancer stem cells (CSCs).
+METHODS: Tumor cells were tested for biomarker expression by immunohistology, and
+the presence of HPV was assessed by several methods.
+RESULTS: UM-SCC-104 has a unique genotype, contains HPV-16, and expresses E6/E7. 
+Inoculation of aldehyde dehydrogenase (ALDH)(+) and ALDH(-) cells in an
+immunocompromised mouse resulted in tumor growth from the ALDH(+) cells after 6
+weeks that recapitulated the histology of the primary, whereas ALDH(-) cells did 
+not produce tumors.
+CONCLUSION: UM-SCC-104, a new HPV-16, CSC-containing HNSCC cell line will aid in 
+studying recurrent HPV(+) tumors. The aggressive nature of this tumor is
+consistent with high uniform expression of epidermal growth factor receptor
+(EGFR) and a functionally significant proportion of ALDH(+) CSCs.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21962 
+PMCID: PMC3369005
+PMID: 22162267  [Indexed for MEDLINE]

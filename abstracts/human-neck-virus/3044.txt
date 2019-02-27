@@ -1,0 +1,31 @@
+
+
+3044. Oral Dis. 2018 Mar;24(1-2):120-123. doi: 10.1111/odi.12746.
+
+Co-inhibitory immune checkpoints in head and neck squamous cell carcinoma.
+
+Deng WW(1), Wu L(1), Sun ZJ(1)(2).
+
+Author information: 
+(1)The State Key Laboratory Breeding Base of Basic Science of Stomatology
+(Hubei-MOST) & Key Laboratory of Oral Biomedicine Ministry of Education, School &
+Hospital of Stomatology, Wuhan University, Wuhan, China.
+(2)Department of Oral and Maxillofacial-Head and Neck Oncology, School and
+Hospital of Stomatology, Wuhan University, Wuhan, China.
+
+The upregulation of co-inhibitory immune checkpoints hampers the immune response 
+toward tumor cells and facilitates the tumor cells ability to evade
+immunosurveillance. Specific inhibitory immune checkpoint delivers inhibitory
+signals to T cells using multiple mechanisms. More in-depth understanding of the 
+co-inhibitory immune checkpoints could be exploited for head and neck squamous
+cell carcinoma (HNSCC) treatment. In this review, we summarize the expression and
+the mechanism of partial co-inhibitory immune checkpoint signals and discuss
+targeting co-inhibitory immune checkpoints as an immunotherapeutic target for
+cancer therapy. This review may provide a better understanding of the
+co-inhibitory immune checkpoints and could promote applications of immunotherapy.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd. All rights
+reserved.
+
+DOI: 10.1111/odi.12746 
+PMID: 29480599  [Indexed for MEDLINE]

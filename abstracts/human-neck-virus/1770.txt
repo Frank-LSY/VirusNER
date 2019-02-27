@@ -1,0 +1,41 @@
+
+
+1770. Rhinology. 2016 Jun;54(2):141-9. doi: 10.4193/Rhin15.213.
+
+Th2 biased upper airway inflammation is associated with an impaired response to
+viral infection with Herpes simplex virus 1.
+
+Lan F(1), Wang XD(2), Nauwynck HJ(3), Holtappels G(1), Zhang L(2), Johnston
+SL(4), Papadopoulos NG(5), Bachert C(1), Zhang N(1).
+
+Author information: 
+(1)Upper Airway Research Laboratory, Department of Otorhinolaryngology, Ghent
+University Hospital, Ghent, Belgium.
+(2)Department of Otolaryngology Head and Neck Surgery, Beijing TongRen Hospital, 
+Capital Medical University, Beijing, P.R. China.
+(3)Laboratory of Virology, Faculty of Veterinary Medicine, Ghent University,
+Merelbeke, Belgium.
+(4)Airway Disease Infection Section, National Heart.
+(5)Allergy Department, 2nd Pediatric Clinic, University of Athens, Greece.
+
+BACKGROUND: We aimed to elucidate possible differences in antiviral defense in
+chronic rhinosinusitis with nasal polyps (CRSwNP) mucosal tissue compared to
+healthy mucosal tissue (HMT) upon herpes simplex virus 1 (HSV1) exposure.
+METHODOLOGY: HMT and CRSwNP samples were infected with HSV1. We visualized the
+virus location by immunofluorescence and monitored invasion by a score. The
+mediators Interferon (IFN)-α, IFN-β, IFN-λ, IFN-γ, Interleukin (IL)-6, IL-1β,
+Tumor necrosis factor (TNF)-α, IL-17, IL-5, IL-10 were measured in culture
+supernatants at baseline and at 24 h, 48 h and 72 h after virus incubation.
+RESULTS: CRSwNP mucosal tissue showed a significant deficit in IFN-γ and IL-17
+release within 24 to 72 hours after infection in comparison to HMT, at the same
+time releasing significantly more pro-inflammatory cytokines including IL-1β and 
+TNF-α. These findings were associated with significantly higher viral invasion
+scores at 48 and 72 h in CRSwNP mucosa compared to those for the HMT.
+CONCLUSIONS: We demonstrate for the first time in a human ex-vivo mucosal model
+that the inadequate response of CRSwNP may be associated with a deeper intrusion 
+of viruses into the mucosal tissue, and may contribute to more and longer
+symptoms upon acute infection, but also to the persistence of inflammation in
+CRSwNP tissue.
+
+DOI: 10.4193/Rhin15.213 
+PMID: 26702454  [Indexed for MEDLINE]

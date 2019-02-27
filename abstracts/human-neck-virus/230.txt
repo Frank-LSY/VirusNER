@@ -1,0 +1,28 @@
+
+
+230. Recent Results Cancer Res. 2017;206:27-35.
+
+Epidemiology of HPV-Positive Tumors in Europe and in the World.
+
+Castellsagué X(1), Mena M(2), Alemany L(2).
+
+Author information: 
+(1)Institut Catala d'Oncologia (ICO) L'Hospitalet de Llobregat, Catalonia, Spain.
+xcastellsague@iconcologia.net.
+(2)Institut Catala d'Oncologia (ICO) L'Hospitalet de Llobregat, Catalonia, Spain.
+
+Strong evidence has accumulated in the last 15 years showing that infection by
+certain human papillomaviruses (HPVs) is etiologically involved in a subset of
+head and neck cancers (HNCs). In this chapter, epidemiologic-related topics on
+HNCs are reviewed: (i) HPV-attributable fractions and HPV-type distributions by
+different anatomical HNC sites, using not only HPV DNA but other more specific
+markers of causality; (ii) an update of the HPV-related HNCs burden worldwide and
+by regions; and finally, (iii) the determinants for HPV positivity in HNCs,
+focussing on gender, age, smoking habits, sexual behavior, and other related
+factors such as tonsillectomy performance. This information is essential in order
+to understand the burden of the disease and its dynamics and changing patterns,
+as well as for planning and assessment of the potential impact of HPV-based
+preventive strategies for HNCs.
+
+DOI: 10.1007/978-3-319-43580-0_2 
+PMID: 27699527  [Indexed for MEDLINE]

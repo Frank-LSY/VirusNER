@@ -1,0 +1,50 @@
+
+
+2717. Hepatol Int. 2016 May;10(3):470-7. doi: 10.1007/s12072-015-9672-7. Epub 2016 Feb 
+5.
+
+Males seropositive for hepatitis B surface antigen are at risk of lower bone
+mineral density: the 2008-2010 Korea National Health and Nutrition Examination
+Surveys.
+
+Baeg MK(1), Yoon SK(2), Ko SH(1), Han KD(3), Choi HJ(1), Bae SH(1), Choi JY(1),
+Choi MG(1).
+
+Author information: 
+(1)Department of Internal Medicine, College of Medicine, The Catholic University 
+of Korea, 222 Banpodaero, Seochogu, Seoul, 137-701, South Korea.
+(2)Department of Internal Medicine, College of Medicine, The Catholic University 
+of Korea, 222 Banpodaero, Seochogu, Seoul, 137-701, South Korea.
+yoonsk@catholic.ac.kr.
+(3)Department of Biostatistics, College of Medicine, The Catholic University of
+Korea, 222 Banpodaero, Seochogu, Seoul, 137-701, South Korea.
+
+BACKGROUND: Hepatic osteodystrophy has been reported in patients with various
+chronic liver diseases, including liver cirrhosis. However, it has not been well 
+investigated in patients with hepatitis B virus infection. The aim of this study 
+was to investigate the association between hepatitis B surface antigen (HBsAg)
+seropositivity and bone mineral density (BMD) in a population representative of
+normal Koreans.
+METHODS: Subjects with both HBsAg and BMD levels examined during the 2008-2010
+Korea National Health and Nutrition Examination Surveys were included.
+HBsAg-seropositive (+) subjects were compared with those who were
+HBsAg-seronegative (-). BMD was measured at the lumbar spine and femur by
+dual-energy X-ray absorptiometry. Multivariable logistic regression was performed
+for BMD .
+RESULTS: In total, 11,306 participants were included in this study, among which
+423 (3.7 %) were HBsAg(+): 153 premenopausal female (3.4 %), 83 postmenopausal
+female (3.5 %), and 187 male (4.2 %). Multivariable logistic regression analysis 
+adjusted for age and body mass index showed that HBsAg(+) male had significantly 
+lower BMD of the femoral neck than HBsAg(-) male (0.810 ± 0.009 vs.
+0.827 ± 0.002 g/cm(2), p = 0.035). Further adjustment for waist circumference,
+smoking, drinking, exercise, income, occupation, and vitamin D levels showed that
+HBsAg(+) male had significantly lower BMD of the femur neck (0.810 ± 0.010 vs.
+0.831 ± 0.002 g/cm(2), p = 0.032) and lumbar spine (0.953 ± 0.011 vs.
+0.974 ± 0.003 g/cm(2), p = 0.049) than HBsAg(-) male.
+CONCLUSIONS: HBsAg seropositivity was significantly associated with lower BMD in 
+male. Future long-term prospective studies investigating bone turnover markers
+and hormones are needed to better understand the pathophysiology and clinical
+significance of chronic hepatitis B virus-related hepatic osteodystrophy.
+
+DOI: 10.1007/s12072-015-9672-7 
+PMID: 26850597  [Indexed for MEDLINE]

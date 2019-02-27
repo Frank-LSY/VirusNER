@@ -1,0 +1,54 @@
+
+
+1442. J Otolaryngol Head Neck Surg. 2017 Jan 6;46(1):3. doi: 10.1186/s40463-016-0179-6.
+
+HPV DNA in saliva from patients with SCC of the head and neck is specific for
+p16-positive oropharyngeal tumours.
+
+Wasserman JK(1), Rourke R(2), Purgina B(1), Caulley L(2), Dimitroulakis J(3),
+Corsten M(4), Johnson-Obaseki S(5).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Division of Anatomical
+Pathology, The University of Ottawa and The Ottawa Hospital, Ottawa, Ontario,
+Canada.
+(2)Department of Otolaryngology - Head and Neck Surgery, The University of Ottawa
+and The Ottawa Hospital, Ottawa Hospital-General Campus S3, 501 Smyth Rd, Ottawa,
+Ontario, K1H 8L6, Canada.
+(3)Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.
+(4)Aurora St. Luke's Hospital, Milwaukee, WI, USA.
+(5)Department of Otolaryngology - Head and Neck Surgery, The University of Ottawa
+and The Ottawa Hospital, Ottawa Hospital-General Campus S3, 501 Smyth Rd, Ottawa,
+Ontario, K1H 8L6, Canada. sjohnsonobaseki@gmail.com.
+
+Erratum in
+    J Otolaryngol Head Neck Surg. 2018 Aug 2;47(1):49.
+
+BACKGROUND: Human papillomavirus (HPV) is an important cause of head and neck
+squamous cell carcinoma (HNSCC), especially in young people. These tumours
+overexpress p16 and respond well to treatment. The rapid detection of HPV in
+patients with HNSCC may expedite treatment when p16 status is not immediately
+available.
+METHODS: Saliva-based DNA collection kits and nested polymerase chain reaction
+(PCR) were used to determine the HPV status of 62 individuals with biopsy-proven 
+HNSCC. Immunohistochemistry was used to determine tumour p16 status.
+RESULTS: A total of 62 patients were included in the study. Twenty-nine samples
+(47%) were positive for HPV DNA, the majority of which were high risk (HR)
+subtypes (79%). Patients who tested positive for HR HPV were more likely to have 
+a tumour arising in the oropharynx compared to a non-oropharyngeal site (74 vs
+26%; p = 0.003). A positive HR HPV saliva assay was 100% specific (95% CI
+59-100%) and had a 100% positive predictive value (95% CI 75-100%) for a p16
+positive tumour arising in the oropharynx. In contrast, a negative HR HPV assay
+had a 96% negative predictive value (95% CI 80-100%) for tumours arising in a
+non-oropharyngeal site. Independent of site, the saliva assay had a sensitivity
+of 77% (95% CI 54-91%) and a specificity of 94% (95% CI 77-99%), respectively,
+for a p16 positive tumour.
+CONCLUSION: We show that a saliva based assay is an effective method for
+detecting HPV in patients with HNSCC and that a positive HR HPV test is highly
+specific for p16 positive tumours arising in the oropharynx. This simple and
+rapid test could be used in cases where a biopsy of the primary tumour is not
+readily available.
+
+DOI: 10.1186/s40463-016-0179-6 
+PMCID: PMC5217573
+PMID: 28061890  [Indexed for MEDLINE]

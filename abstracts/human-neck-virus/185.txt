@@ -1,0 +1,34 @@
+
+
+185. Radiother Oncol. 2015 Sep;116(3):342-5. doi: 10.1016/j.radonc.2015.09.002. Epub
+2015 Sep 10.
+
+Modulation of therapeutic sensitivity by human papillomavirus.
+
+Swick AD(1), Chatterjee A(1), De Costa AM(1), Kimple RJ(2).
+
+Author information: 
+(1)Department of Human Oncology, School of Medicine and Public Health, University
+of Wisconsin, Madison, USA.
+(2)Department of Human Oncology, School of Medicine and Public Health, University
+of Wisconsin, Madison, USA; University of Wisconsin Carbone Comprehensive Cancer 
+Center, School of Medicine and Public Health, University of Wisconsin, Madison,
+USA. Electronic address: rkimple@humonc.wisc.edu.
+
+Human papillomaviruses (HPVs) are small double-stranded DNA viruses that pose
+significant public health concerns as the causative agent of approximately 5% of 
+worldwide cancers. The HPV oncogenes E6 and E7 play key roles in carcinogenesis. 
+In the last 15years there has been a significant increase in the incidence of
+HPV-related head and neck cancers arising primarily in the oropharynx. Patients
+with HPV-positive head and neck cancers (HNCs) have a significantly improved
+prognosis compared to those with HPV-negative disease. In this review we will
+discuss data suggesting how HPV oncogenes modulate both the intrinsic radiation
+sensitivity of HNCs and also have important effects upon the tumor
+microenvironment. Together, these findings contribute to the improved outcomes
+seen in patients with HPV-positive HNC.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2015.09.002 
+PMCID: PMC4609293
+PMID: 26364887  [Indexed for MEDLINE]

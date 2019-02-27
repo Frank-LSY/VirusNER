@@ -1,0 +1,48 @@
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+25. Viruses. 2017 Jun 6;9(6). pii: E139. doi: 10.3390/v9060139.
+
+Detection of HBV Covalently Closed Circular DNA.
+
+Li X(1), Zhao J(2), Yuan Q(3), Xia N(4)(5).
+
+Author information: 
+(1)State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics,
+School of Public Health, Xiamen University, Xiamen 361102, China.
+15711511022@163.com.
+(2)National Institute of Diagnostics and Vaccine Development in Infectious
+Diseases, School of Life Sciences, Xiamen University, Xiamen 361102, China.
+21620111152491@stu.xmu.edu.cn.
+(3)State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics,
+School of Public Health, Xiamen University, Xiamen 361102, China.
+yuanquan@xmu.edu.cn.
+(4)State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics,
+School of Public Health, Xiamen University, Xiamen 361102, China.
+nsxia@xmu.edu.cn.
+(5)National Institute of Diagnostics and Vaccine Development in Infectious
+Diseases, School of Life Sciences, Xiamen University, Xiamen 361102, China.
+nsxia@xmu.edu.cn.
+
+Chronic hepatitis B virus (HBV) infection affects approximately 240 million
+people worldwide and remains a serious public health concern because its complete
+cure is impossible with current treatments. Covalently closed circular DNA
+(cccDNA) in the nucleus of infected cells cannot be eliminated by present
+therapeutics and may result in persistence and relapse. Drug development
+targeting cccDNA formation and maintenance is hindered by the lack of efficient
+cccDNA models and reliable cccDNA detection methods. Southern blotting is
+regarded as the gold standard for quantitative cccDNA detection, but it is
+complicated and not suitable for high-throughput drug screening, so more
+sensitive and simple methods, including polymerase chain reaction (PCR)-based
+methods, Invader assays, in situ hybridization and surrogates, have been
+developed for cccDNA detection. However, most methods are not reliable enough,
+and there are no unified standards for these approaches. This review will
+summarize available methods for cccDNA detection. It is hoped that more robust
+methods for cccDNA monitoring will be developed and that standard operation
+procedures for routine cccDNA detection in scientific research and clinical
+monitoring will be established.
+
+DOI: 10.3390/v9060139 
+PMCID: PMC5490816
+PMID: 28587292  [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+
+
+11. J Infect Dis. 2017 Dec 1;216(suppl_9):S843-S846. doi: 10.1093/infdis/jix398.
+
+Human Immunodeficiency Virus Type 1 Drug Resistance Mutations Update.
+
+Shafer RW(1).
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Medicine, Stanford University
+School of Medicine.
+
+As treatment options coalesce around a smaller number of antiretroviral drugs
+(ARVs), data are emerging on the drug resistance mutations (DRMs) selected by the
+most widely used ARVs and on the impact of these DRMs on ARV susceptibility and
+virological response to first- and later-line treatment regimens. Recent studies 
+have described the DRMs that emerge in patients receiving tenofovir prodrugs, the
+nonnucleoside reverse transcriptase inhibitors efavirenz and rilpivirine,
+ritonavir-boosted lopinavir, and the integrase inhibitors raltegravir and
+elvitegravir. Several small studies have described DRMs that emerge in patients
+receiving dolutegravir.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix398 
+PMCID: PMC5853262
+PMID: 28968669  [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+
+
+2338. Oral Oncol. 2015 Dec;51(12):1057-60. doi: 10.1016/j.oraloncology.2015.10.011.
+Epub 2015 Oct 29.
+
+HPV vaccination to prevent oropharyngeal carcinoma: What can be learned from
+anogenital vaccination programs?
+
+Takes RP(1), Wierzbicka M(2), D'Souza G(3), Jackowska J(2), Silver CE(4), Rodrigo
+JP(5), Dikkers FG(6), Olsen KD(7), Rinaldo A(8), Brakenhoff RH(9), Ferlito A(10).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Radboud University
+Medical Center, Nijmegen, The Netherlands. Electronic address:
+robert.takes@radboudumc.nl.
+(2)Department of Otolaryngology - Head and Neck Surgery, Poznań University of
+Medical Sciences, Poznan, Poland.
+(3)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, USA.
+(4)Departments of Surgery and Otolaryngology - Head and Neck Surgery, Montefiore 
+Medical Center, Albert Einstein College of Medicine, Bronx, NY, USA.
+(5)Department of Otolaryngology, Hospital Universitario Central de Asturias,
+Oviedo, Spain; Instituto Universitario de Oncología del Principado de Asturias,
+Oviedo, Spain.
+(6)Department of Otorhinolaryngology - Head and Neck Surgery, University of
+Groningen, University Medical Center Groningen, Groningen, The Netherlands.
+(7)Department of Otolaryngology - Head and Neck Surgery, Mayo Clinic, Rochester, 
+MN, USA.
+(8)University of Udine School of Medicine, Udine, Italy.
+(9)Department of Otolaryngology - Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands.
+(10)Coordinator of the International Head and Neck Scientific Group, Padua,
+Italy.
+
+Human papillomavirus (HPV) infections are well known causes of anogenital
+cancers. Recent studies show that HPV also plays a role in oropharyngeal cancer
+(OPC). A review on the role of HPV vaccination in the prevention of head and neck
+squamous cell carcinoma (HNSCC) with special emphasis on OPC was conducted and
+available vaccines and vaccination strategies in HNSCC and OPC are discussed.
+Prophylactic vaccination is known to be effective for prevention of anogenital
+HPV infection and precursor lesions in the cervix and anus. While the value of
+vaccination for prevention of OPC and possibly as an adjuvant treatment is still 
+an open question, evidence to date supports the possibility that HPV vaccination 
+may prove to be effective in reducing the incidence of this malignancy.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.10.011 
+PMID: 26520047  [Indexed for MEDLINE]

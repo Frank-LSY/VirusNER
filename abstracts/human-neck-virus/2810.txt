@@ -1,0 +1,50 @@
+
+
+2810. Histopathology. 2018 Oct;73(4):573-584. doi: 10.1111/his.13646. Epub 2018 Jul 4.
+
+PD-1 and PD-L1 expression in HNSCC primary cancer and related lymph node
+metastasis - impact on clinical outcome.
+
+Schneider S(1), Kadletz L(1), Wiebringhaus R(2), Kenner L(2)(3)(4), Selzer E(5), 
+Füreder T(6), Rajky O(6), Berghoff AS(6), Preusser M(6), Heiduschka G(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Vienna, Austria.
+(2)Department of Experimental Pathology and Laboratory Animal Pathology, Medical 
+University of Vienna, Vienna, Austria.
+(3)Department of Laboratory Animal Pathology, University of Veterinary Medicine
+of Vienna, Vienna, Austria.
+(4)Ludwig Boltzmann Institute for Cancer Research, Vienna, Austria.
+(5)Department of Radiotherapy, Vienna, Austria.
+(6)Department of Medicine I, Comprehensive Cancer Center Vienna, Medical
+University of Vienna, Vienna, Austria.
+
+AIMS: Expression profiles and clinical impact of programmed cell death ligand 1
+(PD-L1) and programmed cell death 1 (PD-1) expressing tumour infiltrating
+lymphocytes (TILs) in head and neck squamous cell carcinoma (HNSCC) are not
+elucidated fully. This study evaluates expression patterns in primary HNSCC and
+related lymph node metastasis and the impact on patients' clinical outcome.
+METHODS AND RESULTS: Immunohistochemical staining patterns of PD-L1 and PD-1 were
+evaluated in 129 specimens of primary HNSCC and 77 lymph node metastases. Results
+were correlated with patients' clinical data. PD-L1 expression was observed in
+36% of primary carcinoma and 33% of lymph node metastasis, and correlates
+significantly with decreased overall survival (OS) (P = 0.01) and disease-free
+survival (DFS) (P = 0.001) in oral cavity squamous cell carcinoma patients. PD-L1
+expression was associated with presence of lymph node metastasis (P = 0.0223).
+Infiltration of PD-1-expressing lymphocytes correlates significantly with
+favourable OS (P = 0.001) and DFS (P = 0.001) in oropharyngeal cancer and
+hypopharyngeal cancer patients OS (P = 0.007) and DFS (P = 0.001). Presence of
+PD-1 TILs also correlates significantly with better OS (P = 0.005) and DFS (P =
+0) in the human papilloma virus (HPV)-negative cohort. Cox regression
+multivariate analysis revealed PD-1 TIL expression as an independent prognostic
+marker for OS (P = 0.004) and DFS (P = 0.001) and T stage was validated as
+negative prognostic marker for OS (P = 0.011). PD-1-expressing lymphocytes (P =
+0.0412) and PD-L1 expression (P = 0.0022) patterns correlate significantly in
+primary cancers and matched lymph node metastases.
+CONCLUSIONS: Our results characterise the expression profiles of PD-1 axis
+proteins in HNSCC which might serve as possible clinical prognostic markers.
+
+© 2018 John Wiley & Sons Ltd.
+
+DOI: 10.1111/his.13646 
+PMID: 29742291  [Indexed for MEDLINE]

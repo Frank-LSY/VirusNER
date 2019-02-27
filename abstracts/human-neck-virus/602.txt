@@ -1,0 +1,47 @@
+
+
+602. Zhonghua Bing Li Xue Za Zhi. 2018 Mar 8;47(3):176-179. doi:
+10.3760/cma.j.issn.0529-5807.2018.03.006.
+
+[Clinicopathologic characteristics of Burkitt-like lymphoma with chromosome 11q
+aberration].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Wei P(1), Zhang YL, Xie JL, Zheng YY, Liu W, Zhou XG.
+
+Author information: 
+(1)Department of Pathology, Beijing Friendship Hospital, Capital Medical
+University, Beijing 100050, China.
+
+Objective: To analyze clinical, pathological, molecular and genetic
+characteristics of Burkitt-like lymphoma with chromosome 11q aberration. Methods:
+A case of Burkitt-like lymphoma with 11q aberration was presented at Beijing
+Friendship Hospital in November 2016 with detailed clinicopathological features, 
+immunophenotypes, Epstein-Barr virus(EBV) status and molecular genetic
+characteristics. Results: The patient was a 38-year-old man presenting with the
+cervical lymphadenopathy. In morphology, the tumor had the similar
+characteristics of Burkitt lymphoma, including diffuse infiltration of medium to 
+large lymphoid cells, and presence of"starry sky"phenomenon.
+Immunophenotypically, the tumor cells were positive for CD20, CD10, bcl-6, but
+negative for bcl-2. MUM-1 showed weak and patchy positivity. Ki-67 index was more
+than 95%. C-MYC expression was seen in about 50% of tumor cells. EBV in situ
+hybridization was negative. IgH and IgK genes were clonally
+rearranged.Fluorescence in situ hybrization detection using MYC break probe was
+negative but ATM gene amplification on chromosome 11q was detected. The patient
+did not receive any chemotherapy or radiotherapy and had not recurrence during
+the 10 months follow-up. Conclusion: Burkitt-like lymphoma with chromosome 11q
+aberration has similar clinical, morphological and immunological characteristics 
+to classic Burkitt's lymphoma.
+
+Publisher: 目的：探讨具第11号染色体长臂(11q)异常的Burkitt样淋巴瘤的临床病理特征、诊断及预后。
+方法：通过对北京友谊医院2016年11月收集的1例具11q异常的Burkitt样淋巴瘤进行HE形态学、免疫组织化学染色、EB病毒原位杂交、基因重排、荧光原位杂交(
+FISH)检测的观察，结合文献，总结该肿瘤的临床、病理、分子遗传学特征及其预后。
+结果：患者男，38岁，无诱因右颈部淋巴结肿大，生长迅速，切除送检。病理形态学具Burkitt淋巴瘤特征，均匀中等大淋巴样细胞弥漫浸润，并形成"星空现象"。免疫组织
+化学染色：肿瘤细胞呈CD20、CD10、bcl－6阳性，bcl－2阴性，MUM1部分弱阳性。Ki－67阳性指数大于95%，C－MYC约50%细胞阳性，EBER阴性
+。免疫球蛋白基因重排检测呈IgH和IgK克隆性重排。FISH检测MYC基因断裂阴性，但出现位于11q染色体的ATM基因扩增。患者未经化疗及放疗，随访10个月未见复
+发。
+结论：具11q异常的Burkitt样淋巴瘤具有与Burkitt淋巴瘤几乎一样的临床、病理形态特征，但无MYC基因重排，而是具有特征性的第11号染色体长臂的异常，可
+能具有更好的预后。.
+DOI: 10.3760/cma.j.issn.0529-5807.2018.03.006 
+PMID: 29534356  [Indexed for MEDLINE]

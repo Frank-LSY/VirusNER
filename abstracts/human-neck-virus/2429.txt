@@ -1,0 +1,50 @@
+
+
+2429. J Oral Pathol Med. 2015 Oct;44(9):734-45. doi: 10.1111/jop.12301. Epub 2014 Dec
+14.
+
+Receptor tyrosine kinase profiles and human papillomavirus status in
+oropharyngeal squamous cell carcinoma.
+
+Cortelazzi B(1), Verderio P(2), Ciniselli CM(2), Pizzamiglio S(2), Bossi P(3),
+Gloghini A(1), Gualeni AV(1), Volpi CC(1), Locati L(3), Pierotti MA(4), Licitra
+L(3), Pilotti S(1), Perrone F(1).
+
+Author information: 
+(1)Laboratory of Experimental Molecular Pathology, Department of Pathology,
+Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.
+(2)Unit of Medical Statistics Biometry and Bioinformatics, Fondazione IRCCS
+Istituto Nazionale dei Tumori, Milan, Italy.
+(3)Head and Neck Cancer Medical Oncology Unit, Fondazione IRCCS Istituto
+Nazionale dei Tumori, Milan, Italy.
+(4)Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.
+
+BACKGROUND: Human papillomavirus (HPV)-positive and HPV-negative oropharyngeal
+squamous cell carcinomas (OSCCs) are two distinct entities. We defined the
+molecular profiles of druggable receptor tyrosine kinases (RTKs) in both groups.
+MATERIALS AND METHODS: E5 expression and RTK alterations were studied in 17
+HPV-positive and 59 HPV-negative formalin-fixed OSCCs. RTK activation was
+explored in further 12 frozen OSCCs.
+RESULTS: The HPV-positive OSCCs showed E5 expression and 33.3% expressed low
+level of HER2. The HPV-negative OSCCs showed HER2 expression (31.2%), increased
+HER2 gene copy number (46.51%, P = 0.045) and HER2 activation through HER2/EGFR
+heterodimerisation; HER3 (51.06%, P = 0.008) and neuregulin (65.63%; P = 0.03)
+expression, HER3 activation and HER3/EGFR heterodimerisation; and increased
+IGF-1R copy number (40.50%, P = 0.021), high IGF-1R cDNA values (P = 0.002),
+IGF-1R activation and expression of IGF1/2 and amphiregulin. PI3KCA
+mutations/expression/increased gene copy number and PTEN mutations were found in 
+both groups, whereas PTEN gene loss was only observed in the HPV-positive cases.
+CONCLUSION: Human papillomavirus-positive and HPV-negative OSCC showed different 
+RTK profiles. In HPV-positive cases, it would be interesting to study the
+expression of E5, which may modulate EGFR turnover and activate VEGF and PDGFRβ. 
+In HPV-negative cases, HER3 may be a promising druggable biomarker that deserves 
+further investigation. PI3KCA and PTEN alterations encourage the promising
+clinical evaluation of PI3K/mTOR inhibitor activity in OSCC, particularly in
+HPV-positive/PI3KCA-mutated OSCCs because they may be driven by PI3KCA mutation
+alone.
+
+© 2014 The Authors. Journal of Oral Pathology & Medicine Published by John Wiley 
+& Sons Ltd.
+
+DOI: 10.1111/jop.12301 
+PMID: 25495427  [Indexed for MEDLINE]

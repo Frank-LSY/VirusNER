@@ -1,0 +1,68 @@
+
+
+789. Lancet Oncol. 2014 Nov;15(12):1319-31. doi: 10.1016/S1470-2045(14)70471-1. Epub
+2014 Oct 16.
+
+HPV DNA, E6/E7 mRNA, and p16INK4a detection in head and neck cancers: a
+systematic review and meta-analysis.
+
+Ndiaye C(1), Mena M(2), Alemany L(3), Arbyn M(4), Castellsagué X(3), Laporte
+L(5), Bosch FX(6), de Sanjosé S(3), Trottier H(1).
+
+Author information: 
+(1)Department of Social and Preventive Medicine, Université de Montréal,
+Montreal, QC, Canada; Sainte-Justine Hospital Research Center, Montreal, QC,
+Canada.
+(2)Institut Català d'Oncologia (ICO) - Catalan Institute of Oncology, IDIBELL,
+L'Hospitalet de Llobregat, Barcelona, Spain. Electronic address:
+mmena@iconcologia.net.
+(3)Institut Català d'Oncologia (ICO) - Catalan Institute of Oncology, IDIBELL,
+L'Hospitalet de Llobregat, Barcelona, Spain; CIBER Epidemiología y Salud Pública,
+CIBERESP, Barcelona, Spain.
+(4)Unit of Cancer Epidemiology, Scientific Institute of Public Health, Brussels, 
+Belgium; University of Antwerp, Antwerp, Belgium.
+(5)Sainte-Justine Hospital Research Center, Montreal, QC, Canada.
+(6)Institut Català d'Oncologia (ICO) - Catalan Institute of Oncology, IDIBELL,
+L'Hospitalet de Llobregat, Barcelona, Spain.
+
+Erratum in
+    Lancet Oncol. 2015 Jun;16(6):e262.
+
+Comment in
+    Lancet Oncol. 2014 Nov;15(12):1282-3.
+
+BACKGROUND: We aimed to provide updated information about the global estimates of
+attributable fraction and type distribution of human papillomavirus (HPV) in head
+and neck squamous cell carcinomas by doing a systematic review and meta-analysis.
+METHODS: We did a literature search on PubMed to identify studies that used PCR
+for detection of HPV DNA in head and neck squamous cell carcinomas with
+information about HPV genotype distribution. We included studies that tested 20
+or more biopsies per cancer site and were published between July 15, 1990, and
+Feb 29, 2012. We collected information about sex, risk factors, HPV detection
+methods, and biomarkers of potentially HPV-induced carcinogenesis (E6/E7 mRNA and
+p16(INK4a)). If it was not possible to abstract the required information directly
+from the paper, we contacted the authors. We did a meta-analysis to produce
+pooled prevalence estimates including a meta-regression to explore sources of
+heterogeneity.
+FINDINGS: 148 studies were included, contributing data for 12 163 cases of head
+and neck squamous cell carcinoma from 44 countries. HPV DNA was detected in 3837 
+cases. HPV16 accounted for 82·2% (95% CI 77·7-86·4) of all HPV DNA positive
+cases. By cancer site, pooled HPV DNA prevalence estimates were 45·8% (95% CI
+38·9-52·9) for oropharynx, 22·1% (16·4-28·3) for larynx (including hypopharynx), 
+and 24·2% (18·7-30·2) for oral cavity. The percent positivity of p16(INK4a)
+positive cases in HPV-positive oropharyngeal cancer cases was 86·7% (95% CI
+79·2-92·9) and of E6/E7 mRNA positive cases was 86·9% (73·2-96·8). The estimate
+of HPV attributable fraction in oropharyngeal cancer defined by expression of
+positive cases of E6/E7 mRNA was 39·8% and of p16(INK4a) was 39·7%. Of subsites, 
+tonsils (53·9%, 95% CI 46·4-61·3) had the highest HPV DNA prevalence. HPV DNA
+prevalence varied significantly by anatomical site, geographic region, but not by
+sex or tobacco or alcohol consumption.
+INTERPRETATION: The contribution of HPV prevalence in head and neck squamous cell
+carcinoma and in particular that of HPV16 in the oropharynx shows the potential
+benefit of prophylactic vaccines.
+FUNDING: European Commission.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(14)70471-1 
+PMID: 25439690  [Indexed for MEDLINE]

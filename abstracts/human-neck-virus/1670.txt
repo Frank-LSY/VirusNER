@@ -1,0 +1,57 @@
+
+
+1670. World J Surg Oncol. 2018 Jan 31;16(1):20. doi: 10.1186/s12957-018-1308-7.
+
+Effect of neoadjuvant chemotherapy and its correlation with HPV status, EGFR,
+Her-2-neu, and GADD45 expression in oral squamous cell carcinoma.
+
+Pandey M(1), Kannepali KK(2), Dixit R(3), Kumar M(4).
+
+Author information: 
+(1)Department of Surgical Oncology, Institute of Medical Sciences, Banaras Hindu 
+University, Varanasi, 221 005, India. manojpandey66@gmail.com.
+(2)Department of Surgical Oncology, Institute of Medical Sciences, Banaras Hindu 
+University, Varanasi, 221 005, India.
+(3)Department of Surgery, Institute of Medical Sciences, Banaras Hindu
+University, Varanasi, 221 005, India.
+(4)Department of Pathology, Institute of Medical Sciences, Banaras Hindu
+University, Varanasi, 221 005, India.
+
+BACKGROUND: Head and neck cancers are the commonest cancer in Southeast Asia.
+Despite being a surface cancer, it is associated with significant morbidity as
+despite early detection by the patients they often report for treatment late and 
+hence are associated with poor prognosis. The role of neoadjuvant chemotherapy in
+head and neck cancer is still under evaluation; there is a large subgroup of
+population that does not respond to chemotherapy, and hence, most studies have
+failed to show any survival benefit. This study evaluated the role of neoadjuvant
+therapy with docetaxel and carboplatin in patients with oral cancer and
+correlated the response to human papilloma virus, EGFR1, EGFR2, and GADD45
+expression.
+METHODS: A total of 24 locally advanced, non-metastatic oral cancer patients were
+included in the study. Tumor biopsies were taken prior to the start of
+neoadjuvant therapy for expression of EGFR, Her-2-Neu, and GADD45 by
+immunohistochemistry and for HPV by PCR. The response was evaluated using
+Response Evaluation Criteria in Solid Tumors (RECIST) criteria after three cycles
+of chemotherapy. Statistical analysis was performed using correlation and
+Kaplan-Meier analysis; the difference in survival was calculated with log rank
+test.
+RESULTS: A total of 21 male and 3 female with a mean age of 53.12 years were
+enrolled. Sixty-five percent of these received three cycles of chemotherapy. Five
+patients were positive for HPV 16 and none for HPV 18. Twenty-two of 24 patients 
+showed GADD45 expression, 3 showed expression of Her-2-Neu while all 24 showed
+expression for EGFR1 protein. Two-year overall survival was 81%; GADD45
+expressions were found to significantly affect the overall and disease-free
+survival, while any of the other protein expression studied and HPV status was
+not significant.
+CONCLUSION: The result of the present study shows significant downgrading of the 
+oral cancers with neoadjuvant chemotherapy suggesting its utility in borderline
+operable cases. However, the response of chemotherapy does not appear to be
+related to the expression of EGFR, Her-2-Neu, and GADD45 protein or presence of
+HPV. Bone involvement, perineural invasion, and GADD45 expression significantly
+predict OS and DFS. All patients who did not express Gadd45 died before 2 years. 
+Study with more subjects and longer follow-up should be carried out to elucidate 
+this relation further.
+
+DOI: 10.1186/s12957-018-1308-7 
+PMCID: PMC5793383
+PMID: 29386013  [Indexed for MEDLINE]

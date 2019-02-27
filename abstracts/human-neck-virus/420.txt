@@ -1,0 +1,30 @@
+
+
+420. BMJ Case Rep. 2013 Jan 31;2013. pii: bcr2012007928. doi: 10.1136/bcr-2012-007928.
+
+An unusual presentation of herpes infection in the head and neck.
+
+Sanei-Moghaddam A(1), Loizou P, Fish BM.
+
+Author information: 
+(1)Department of ENT, Medway Maritime Hospital, London, UK.
+ali.sanei-moghaddam@nhs.net
+
+Herpes simplex virus (HSV) is among a spectrum of viruses known to affect the
+upper aerodigestive tract. Gingivostomatitis and pharyngitis are the most common 
+clinical manifestations of first-episode HSV infection, whereas recurrent herpes 
+labialis is the most common clinical manifestation of reactivation HSV infection.
+Herpetic viral infections seldom attack the larynx. Laryngeal disorders provoked 
+by the herpes virus are characterised by a large spectrum of presentations and
+polymorphisms, and can simulate mucous lesions such as an extensive laryngeal
+neoplasm (supraglottic tumour). We report a case of a 69-year-old woman, smoker, 
+who presented with a large ulcerated supraglottic mass mimicking laryngeal
+cancer, requiring emergency tracheostomy for worsening stridor, which turned out 
+to be an HSV laryngitis superimposed onto an underlying Streptococcus A lower
+respiratory tract infection. The patient was treated for Streptococcus A
+infection and her symptoms resolved following treatment. Patient's tracheotomy
+tube was removed on follow-up appointment.
+
+DOI: 10.1136/bcr-2012-007928 
+PMCID: PMC3604389
+PMID: 23376665  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+203. Front Cell Infect Microbiol. 2017 Oct 31;7:462. doi: 10.3389/fcimb.2017.00462.
+eCollection 2017.
+
+Generation of an Attenuated Tiantan Vaccinia Virus Strain by Deletion of Multiple
+Genes.
+
+Li Y(1)(2), Zhu Y(2)(3), Chen S(1)(2), Li W(2)(3), Yin X(2)(3), Li S(2), Xiao
+P(1)(2), Han J(1)(2), Li X(2)(3)(4), Sun L(2)(5), Jin N(1)(2)(3)(4).
+
+Author information: 
+(1)Medical College, Yanbian University, Yanji, China.
+(2)Institute of Military Veterinary Medicine, Academy of Military Medical
+Science, Changchun, China.
+(3)Changchun University of Traditional Chinese Medicine, Changchun, China.
+(4)Institute of Virology, Wenzhou University Town, Wenzhou, China.
+(5)Department of Head and Neck Surgery, Tumor Hospital of Jilin Province,
+Changchun, China.
+
+An attenuated vaccinia virus-MVTTEAB-was constructed by deletion of non-essential
+gene segments related to the immunomodulatory and virulence functions of the
+vaccinia virus Tiantan strain (VVTT). The shuttle plasmids pTC-EGFP, pTE-EGFP,
+pTA35-EGFP, pTB-EGFP, and pTA66-EGFP were constructed and combined with the early
+and late strong promoter pE/L and EGFP as an exogenous selectable marker. Then,
+through the homologous recombination technology and Cre/loxP system, the
+following gene fragments were gradually knocked out one by one: TC7L-TK2L, TE3L, 
+TA35R, TB13R, and TA66R. Ultimately, the five-segment-deleted attenuated strain
+MVTTEAB was obtained. Knockout of these segments and genetic stability of MVTTEAB
+were confirmed, and it was also shown that knockout of these segments did not
+affect the replication ability of the virus. Further, a series of in vivo and in 
+vitro experiments demonstrated that the virulence of MVTTEAB was attenuated
+significantly, but at same time, high immunogenicity was maintained. These
+results indicate that MVTTEAB has potential for clinical use as a safe viral
+vector or vaccine with good attenuation and immunogenicity.
+
+DOI: 10.3389/fcimb.2017.00462 
+PMCID: PMC5671601
+PMID: 29164070  [Indexed for MEDLINE]

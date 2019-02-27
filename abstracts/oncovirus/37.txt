@@ -1,0 +1,43 @@
+
+
+37. Virology. 2013 Feb 5;436(1):81-90. doi: 10.1016/j.virol.2012.10.029. Epub 2012
+Nov 13.
+
+Contribution of SAM and HD domains to retroviral restriction mediated by human
+SAMHD1.
+
+White TE(1), Brandariz-Nuñez A, Valle-Casuso JC, Amie S, Nguyen L, Kim B,
+Brojatsch J, Diaz-Griffero F.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Albert Einstein College of Medicine
+Bronx, NY 10461, USA.
+
+The human SAMHD1 protein is a novel retroviral restriction factor expressed in
+myeloid cells. Previous work has correlated the deoxynucleotide
+triphosphohydrolase activity of SAMHD1 with its ability to block HIV-1 and
+SIV(mac) infection. SAMHD1 is comprised of the sterile alpha motif (SAM) and
+histidine-aspartic (HD) domains; however the contribution of these domains to
+retroviral restriction is not understood. Mutagenesis and deletion studies
+revealed that expression of the sole HD domain of SAMHD1 is sufficient to achieve
+potent restriction of HIV-1 and SIV(mac). We demonstrated that the HD domain of
+SAMHD1 is essential for the ability of SAMHD1 to oligomerize by using a
+biochemical assay. In agreement with previous observations, we mapped the
+RNA-binding ability of SAMHD1 to the HD domain. We also demonstrated a direct
+interaction of SAMHD1 with RNA by using enzymatically-active purified SAMHD1
+protein from insect cells. Interestingly, we showed that double-stranded RNA
+inhibits the enzymatic activity of SAMHD1 in vitro suggesting the possibility
+that RNA from a pathogen might modulate the enzymatic activity of SAMHD1 in
+cells. By contrast, we found that the SAM domain is dispensable for retroviral
+restriction, oligomerization and RNA binding. Finally we tested the ability of
+SAMHD1 to block the infection of retroviruses other than HIV-1 and SIV(mac).
+These results showed that SAMHD1 blocks infection of HIV-2, feline
+immunodeficiency virus (FIV), bovine immunodeficiency virus (BIV), Equine
+infectious anemia virus (EIAV), N-tropic murine leukemia virus (N-MLV), and
+B-tropic murine leukemia virus (B-MLV).
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.virol.2012.10.029 
+PMCID: PMC3767443
+PMID: 23158101  [Indexed for MEDLINE]

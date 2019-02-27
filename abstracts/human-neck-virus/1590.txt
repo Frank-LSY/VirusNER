@@ -1,0 +1,50 @@
+
+
+1590. Oncotarget. 2016 Nov 1;7(44):71761-71772. doi: 10.18632/oncotarget.12335.
+
+Novel nomograms for survival and progression in HPV+ and HPV- oropharyngeal
+cancer: a population-based study of 1,542 consecutive patients.
+
+Larsen CG(1), Jensen DH(1), Carlander AF(1), Kiss K(2), Andersen L(2), Olsen
+CH(3), Andersen E(4), Garnæs E(1), Cilius F(5), Specht L(6), von Buchwald C(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+(2)Department of Pathology, Rigshospitalet, University of Copenhagen, Copenhagen,
+Denmark.
+(3)Department of Pathology, Roskilde Hospital, Roskilde, Denmark.
+(4)Department of Oncology, Herlev Hospital, University of Copenhagen, Copenhagen,
+Denmark.
+(5)Centre for Genomic Medicine, Rigshospitalet, University of Copenhagen,
+Copenhagen, Denmark.
+(6)Department of Oncology, Rigshospitalet, University of Copenhagen, Copenhagen, 
+Denmark.
+
+BACKGROUND: No study has combined tumour and clinical covariates for survival to 
+construct an individual risk-profile for overall survival (OS), time to
+progression (TTP), and survival after progression (SAP) in patients with HPV+ and
+HPV- oropharyngeal squamous cell carcinoma (OPSCC). Based on the largest-to-date,
+unselected, population-based cohort of patients diagnosed with OPSCC, we
+performed a comprehensive analysis of long-term OS, TTP, and SAP and constructed 
+novel nomograms to evaluate patients' prognoses.
+RESULTS: At a median follow-up of 4.0 years (range: 0.8-15.8 yrs.), 690 deaths
+were recorded. The 5-year OS, TTP, and SAP for the HPV+/p16+ subgroup were 77%,
+82%, and 33, vs. 30%, 66%, and 6% for the HPV-/p16- group (P < 0.01). 376
+patients failed to maintain disease control with a median TTP of 13 months in the
+HPV+/p16+ subgroup vs. 8.5 months in the HPV-/p16- subgroup (P < 0.05). HPV
+combined with p16 status remained one of the most informative covariates in the
+final Cox regression model for OS, TTP, and SAP.
+METHODS: We included all patients diagnosed with OPSCC (n = 1,542) between
+2000-2014 in Eastern Denmark. Survival rates were estimated by the Kaplan-Meier
+method. A multivariate Cox regression model was used to construct predictive,
+internally validated nomograms.
+CONCLUSION: The HPV+/p16+ subgroup had improved OS, TTP, and SAP compared with
+other combinations of HPV and p16 after adjusting for covariates. Nomograms were 
+constructed for 1-, 5- and 10-year survival probability. Models may aid patients 
+and clinicians in their clinical decision making as well as in counselling,
+research, and trial design.
+
+DOI: 10.18632/oncotarget.12335 
+PMCID: PMC5342120
+PMID: 27708214  [Indexed for MEDLINE]

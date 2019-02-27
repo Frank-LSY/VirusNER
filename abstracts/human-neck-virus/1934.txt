@@ -1,0 +1,52 @@
+
+Conflict of interest statement: The authors have nothing to disclose.
+
+
+1934. Int J Cancer. 2017 Dec 1;141(11):2348-2358. doi: 10.1002/ijc.30929. Epub 2017 Aug
+26.
+
+Blockade of transforming growth factor-β signaling enhances oncolytic herpes
+simplex virus efficacy in patient-derived recurrent glioblastoma models.
+
+Esaki S(1)(2), Nigim F(1), Moon E(1), Luk S(1), Kiyokawa J(1), Curry W Jr(1),
+Cahill DP(1), Chi AS(3), Iafrate AJ(4), Martuza RL(1), Rabkin SD(1), Wakimoto
+H(1).
+
+Author information: 
+(1)Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical
+School, Boston, MA.
+(2)Department of Otolaryngology, Head and Neck Surgery, Nagoya City University
+Graduate School of Medical Sciences and Medical School, Nagoya, Japan.
+(3)Laura and Isaac Perlmutter Cancer Center, NYU Langone Medical Center, New
+York, NY.
+(4)Department of Pathology, Massachusetts General Hospital, Harvard Medical
+School, Boston, MA.
+
+Despite the current standard of multimodal management, glioblastoma (GBM)
+inevitably recurs and effective therapy is not available for recurrent disease. A
+subset of tumor cells with stem-like properties, termed GBM stem-like cells
+(GSCs), are considered to play a role in tumor relapse. Although oncolytic herpes
+simplex virus (oHSV) is a promising therapeutic for GBM, its efficacy against
+recurrent GBM is incompletely characterized. Transforming growth factor beta
+(TGF-β) plays vital roles in maintaining GSC stemness and GBM pathogenesis. We
+hypothesized that oHSV and TGF-β inhibitors would synergistically exert antitumor
+effects for recurrent GBM. Here we established a panel of patient-derived
+recurrent tumor models from GBMs that relapsed after postsurgical radiation and
+chemotherapy, based on GSC-enriched tumor sphere cultures. These GSCs are
+resistant to the standard-of-care temozolomide but susceptible to oHSVs G47Δ and 
+MG18L. Inhibition of TGF-β receptor kinase with selective targeted small
+molecules reduced clonogenic sphere formation in all tested recurrent GSCs. The
+combination of oHSV and TGF-βR inhibitor was synergistic in killing recurrent
+GSCs through, in part, an inhibitor-induced JNK-MAPK blockade and increase in
+oHSV replication. In vivo, systemic treatment with TGF-βR inhibitor greatly
+enhanced the antitumor effects of single intratumoral oHSV injections, resulting 
+in cures in 60% of mice bearing orthotopic recurrent GBM. These results reveal a 
+novel synergistic interaction of oHSV therapy and TGF-β signaling blockade, and
+warrant further investigations aimed at clinical translation of this combination 
+strategy for GBM patients.
+
+© 2017 UICC.
+
+DOI: 10.1002/ijc.30929 
+PMCID: PMC5765440
+PMID: 28801914  [Indexed for MEDLINE]

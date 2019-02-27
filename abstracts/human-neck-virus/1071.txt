@@ -1,0 +1,42 @@
+
+
+1071. Cell Cycle. 2013 Mar 15;12(6):923-34. doi: 10.4161/cc.23882. Epub 2013 Feb 19.
+
+Liberation of functional p53 by proteasome inhibition in human papilloma
+virus-positive head and neck squamous cell carcinoma cells promotes apoptosis and
+cell cycle arrest.
+
+Li C(1), Johnson DE.
+
+Author information: 
+(1)Department of Medicine, University of Pittsburgh and the University of
+Pittsburgh Cancer Institute, Pittsburgh, PA, USA.
+
+Comment in
+    Cell Cycle. 2013 Apr 1;12(7):1020-1.
+    Cell Cycle. 2013 Mar 15;12(6):868.
+
+Human papilloma virus (HPV) infection represents an emerging risk factor in head 
+and neck squamous cell carcinoma (HNSCC). In contrast to HPV-negative HNSCC, most
+cases of HPV-positive HNSCC encode wild-type p53, although the p53 protein in
+these cells is rapidly degraded via HPV E6-mediated ubiquitination and subsequent
+proteasomal degradation. This unique feature of HPV-positive HNSCC has raised
+hope that liberation of wild-type p53 from the E6 protein may have therapeutic
+benefit in this disease. Indeed, suppression of E6 expression promotes apoptosis 
+in HPV-positive HNSCC cell lines. However, the role of p53 in mediating this cell
+death has not been determined. Here, we demonstrate that siRNAs targeting the
+E6/E7 RNA, or treatment with the proteasome inhibitor bortezomib, resulted in
+upregulation of functional p53 and p53 gene targets in three HPV-positive HNSCC
+cell lines, but not in HPV-negative HNSCC cells. Apoptosis induced by E6/E7 siRNA
+in HPV-positive cells was found to be dependent on p53, while bortezomib-induced 
+cell death was modestly p53-dependent. Treatment with subtoxic doses of
+bortezomib led to cell cycle arrest in HPV-positive, but not HPV-negative HNSCC
+cells. Moreover, this cell cycle arrest was mediated by p53 and the cell cycle
+inhibitor p21, the product of a p53 target gene. Collectively, these findings
+establish that wild-type p53 encoded by HPV-positive HNSCC cells, once liberated 
+from HPV E6, can play important roles in promoting apoptosis and cell cycle
+arrest.
+
+DOI: 10.4161/cc.23882 
+PMCID: PMC3637351
+PMID: 23421999  [Indexed for MEDLINE]

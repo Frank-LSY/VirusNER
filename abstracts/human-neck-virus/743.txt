@@ -1,0 +1,35 @@
+
+
+743. Head Neck Oncol. 2009 Oct 14;1:36. doi: 10.1186/1758-3284-1-36.
+
+HPV & head and neck cancer: a descriptive update.
+
+Goon PK(1), Stanley MA, Ebmeyer J, Steinsträsser L, Upile T, Jerjes W,
+Bernal-Sprekelsen M, Görner M, Sudhoff HH.
+
+Author information: 
+(1)Department of Pathology, University of Cambridge, Cambridge, UK.
+pg336@cam.ac.uk
+
+The incidence of head and neck squamous cell carcinoma (HNSCC) has been gradually
+increasing over the last three decades. Recent data have now attributed a viral
+aetiology to a subset of head and neck cancers. Several studies indicate that
+oral human papillomavirus (HPV) infection is likely to be sexually acquired. The 
+dominance of HPV 16 in HPV+ HNSCC is even greater than that seen in cervical
+carcinoma of total worldwide cases. Strong evidence suggests that HPV+ status is 
+an important prognostic factor associated with a favourable outcome in head and
+neck cancers. Approximately 30 to 40% of HNSCC patients with present with early
+stage I/II disease. These patients are treated with curative intent using single 
+modality treatments either radiation or surgery alone. A non-operative approach
+is favored for patients in which surgery followed by either radiation alone or
+radiochemotherapy may lead to severe functional impairment. Cetuximab, a
+humanized mouse anti-EGFR IgG1 monoclonal antibody, improved locoregional control
+and overall survival in combination with radiotherapy in locally advanced tumours
+but at the cost of some increased cardiac morbidity and mortality. Finally, the
+improved prognosis and treatment responses to chemotherapy and radiotherapy by
+HPV+ tumours may suggest that HPV status detection is required to better plan and
+individualize patient treatment regimes.
+
+DOI: 10.1186/1758-3284-1-36 
+PMCID: PMC2770444
+PMID: 19828033  [Indexed for MEDLINE]

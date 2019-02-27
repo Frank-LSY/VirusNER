@@ -1,0 +1,30 @@
+
+
+1709. Transgenic Res. 2009 Aug;18(4):513-27. doi: 10.1007/s11248-009-9243-6. Epub 2009 
+Jan 23.
+
+Induction of focal epithelial hyperplasia in tongue of young bk6-E6/E7 HPV16
+transgenic mice.
+
+Ocadiz-Delgado R(1), Marroquin-Chavira A, Hernandez-Mote R, Valencia C,
+Manjarrez-Zavala ME, Covarrubias L, Gariglio P.
+
+Author information: 
+(1)Department of Genetics & Molecular Biology, CINVESTAV-IPN Mexico, Av. IPN
+2508. Colonia San Pedro Zacatenco, CP 07360, Mexico, DF, Mexico.
+
+Squamous cell carcinoma (SCC) of the oral cavity is one of the most common
+neoplasms in the world. During the past 2 decades, the role of high-risk human
+papilloma virus (HR-HPV) has been studied and the data supporting HPV as a one of
+the causative agents in the development and progression of a sub-set of head and 
+neck squamous cell carcinomas (HNSCC) has accumulated. In order to investigate
+the role of HR-HPV oncogene expression in early epithelial alterations in vivo,
+we produced transgenic mice expressing HPV16 early region genes from the promoter
+of the bovine keratin 6 gene (Tg[bK6-E6/E7]). In this article, we demonstrate
+that E6/E7 transgene was abundantly expressed and cellular proliferation was
+increased in the middle tongue epithelia of transgenic mice, and that in the same
+region young (27 weeks old) Tg[bK6-E6/E7] mice spontaneously developed
+histological alterations, mainly focal epithelial hyperplasia (FEH).
+
+DOI: 10.1007/s11248-009-9243-6 
+PMID: 19165615  [Indexed for MEDLINE]

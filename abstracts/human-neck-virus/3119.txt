@@ -1,0 +1,49 @@
+
+
+3119. Cancer Immunol Res. 2017 May;5(5):408-416. doi: 10.1158/2326-6066.CIR-16-0333.
+Epub 2017 Apr 13.
+
+Increased PD-1+ and TIM-3+ TILs during Cetuximab Therapy Inversely Correlate with
+Response in Head and Neck Cancer Patients.
+
+Jie HB(1), Srivastava RM(1), Argiris A(2), Bauman JE(3), Kane LP(4), Ferris
+RL(5)(4)(6).
+
+Author information: 
+(1)Department of Otolaryngology, University of Pittsburgh, Pittsburgh,
+Pennsylvania.
+(2)Division of Hematology/Oncology, Department of Medicine, UT Health Science
+Center at San Antonio, Cancer Therapy & Research Center, San Antonio, Texas.
+(3)Division of Hematology/Oncology, Department of Medicine, University of
+Pittsburgh, Pittsburgh, Pennsylvania.
+(4)Department of Immunology, University of Pittsburgh, Pittsburgh, Pennsylvania.
+(5)Department of Otolaryngology, University of Pittsburgh, Pittsburgh,
+Pennsylvania. ferrisrl@upmc.edu.
+(6)Cancer Immunology Program, University of Pittsburgh Cancer Institute,
+Pittsburgh, Pennsylvania.
+
+Despite emerging appreciation for the important role of immune checkpoint
+receptors in regulating the effector functions of T cells, it is unknown whether 
+their expression is involved in determining the clinical outcome in response to
+cetuximab therapy. We examined the expression patterns of immune checkpoint
+receptors (including PD-1, CTLA-4, and TIM-3) and cytolytic molecules (including 
+granzyme B and perforin) of CD8+ tumor-infiltrating lymphocytes (TIL) and
+compared them with those of peripheral blood T lymphocytes (PBL) in patients with
+head and neck cancer (HNSCC) during cetuximab therapy. The frequency of PD-1 and 
+TIM-3 expression was significantly increased in CD8+ TILs compared with CD8+ PBLs
+(P = 0.008 and P = 0.02, respectively). This increased CD8+ TIL population
+coexpressed granzyme B/perforin and PD-1/TIM-3, which suggests a regulatory role 
+for these immune checkpoint receptors in cetuximab-promoting cytolytic activities
+of CD8+ TILs. Indeed, the increased frequency of PD-1+ and TIM-3+ CD8+ TILs was
+inversely correlated with clinical outcome of cetuximab therapy. These findings
+support the use of PD-1 and TIM-3 as biomarkers to reflect immune status of CD8+ 
+T cells in the tumor microenvironment during cetuximab therapy. Blockade of these
+immune checkpoint receptors might enhance cetuximab-based cancer immunotherapy to
+reverse CD8+ TIL dysfunction, thus potentially improving clinical outcomes of
+HNSCC patients. Cancer Immunol Res; 5(5); 408-16. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/2326-6066.CIR-16-0333 
+PMCID: PMC5497750
+PMID: 28408386  [Indexed for MEDLINE]

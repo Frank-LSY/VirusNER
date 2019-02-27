@@ -1,0 +1,42 @@
+
+
+579. Anticancer Res. 2017 Sep;37(9):4827-4836.
+
+Communicate or Die - A Model for HPV+ and HPV- CSCs and Their Interactions with
+SDF-1α.
+
+Jungbauer F(1), Aderhold C(1), Birk R(2), Hoermann K(1), Kramer B(1), Kuhlin
+B(1), Thorn C(1), Umbreit C(3), Lammert A(4).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Medical Faculty Mannheim, University Heidelberg, Mannheim, Germany.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Marburg, University Marburg, Marburg, Germany.
+(3)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Jena, University Jena, Jena, Germany.
+(4)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Medical Faculty Mannheim, University Heidelberg, Mannheim, Germany
+anne.lammert@umm.de.
+
+BACKGROUND/AIM: Cancer stem cells (CSCs) are suspected of being a reason for
+limited therapy in head and neck squamous cell carcinoma (HNSCC). Stromal
+cell-derived factor-1α (SDF-1α) plays a critical role in the communication
+between CSCs and their microenvironment. We investigated the influence of SDF-1α 
+on HPV+/HPV- SCC cell lines to find an approach of explanation for the superior
+prognosis of HPV+ HNSCCs.
+MATERIALS AND METHODS: We evaluated the expression of CD44/CXCR4 on HPV+/HPV- SCC
+cell lines and monitored the influence of SDF-1α on proliferation, morphology and
+migration of HPV+/HPV- SCCs.
+RESULTS: HPV- SCCs showed a significant increase of podia formation and an
+intensified migration towards SDF-1α. HPV+ SCCs rested nearly unaffected by
+SDF-1α.
+CONCLUSION: Weakened reaction to SDF-1α in HPV+ SCC could lead to an impaired
+communication between CSCs and their niche, that would result in an increased
+exposure of CSCs to the harming influence of e.g. chemotherapeutic agents.
+
+Copyright© 2017, International Institute of Anticancer Research (Dr. George J.
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.11890 
+PMID: 28870902  [Indexed for MEDLINE]

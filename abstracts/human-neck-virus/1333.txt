@@ -1,0 +1,46 @@
+
+
+1333. PLoS One. 2015 Jun 2;10(6):e0129013. doi: 10.1371/journal.pone.0129013.
+eCollection 2015.
+
+Immobilization of FLAG-Tagged Recombinant Adeno-Associated Virus 2 onto Tissue
+Engineering Scaffolds for the Improvement of Transgene Delivery in Cell
+Transplants.
+
+Li H(1), Zhang FL(2), Shi WJ(3), Bai XJ(4), Jia SQ(5), Zhang CG(4), Ding W(6).
+
+Author information: 
+(1)Department of Oral and Maxillofacial-Head and Neck Oncology, Beijing
+Stomatological Hospital, Capital Medical University, Beijing, China.
+(2)National Institutes for Food and Drug Controls, Beijing, China.
+(3)Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China;
+Department of Medical Genetics, Capital Medical University, Beijing, China.
+(4)Department of Medical Genetics, Capital Medical University, Beijing, China.
+(5)Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, China.
+(6)Department of Medical Genetics, Capital Medical University, Beijing, China;
+Beijing Institute of Brain Disorders, Beijing, China.
+
+The technology of virus-based genetic modification in tissue engineering has
+provided the opportunity to produce more flexible and versatile biomaterials for 
+transplantation. Localizing the transgene expression with increased efficiency is
+critical for tissue engineering as well as a challenge for virus-based gene
+delivery. In this study, we tagged the VP2 protein of type 2 adeno-associated
+virus (AAV) with a 3×FLAG plasmid at the N-terminus and packaged a FLAG-tagged
+recombinant AAV2 chimeric mutant. The mutant AAVs were immobilized onto the
+tissue engineering scaffolds with crosslinked anti-FLAG antibodies by
+N-succinimidyl-3-(2-pyridyldithiol) propionate (SPDP). Cultured cells were seeded
+to scaffolds to form 3D transplants, and then tested for viral transduction both 
+in vitro and in vivo. The results showed that our FLAG-tagged AAV2 exerted
+similar transduction efficiency compared with the wild type AAV2 when infected
+cultured cells. Following immobilization onto the scaffolds of PLGA or gelatin
+sponge with anti-FLAG antibodies, the viral mediated transgene expression was
+significantly improved and more localized. Our data demonstrated that the
+mutation of AAV capsid targeted for antibody-based immobilization could be a
+practical approach for more efficient and precise transgene delivery. It was also
+suggested that the immobilization of AAV might have attractive potentials in
+applications of tissue engineering involving the targeted gene manipulation in 3D
+tissue cultures.
+
+DOI: 10.1371/journal.pone.0129013 
+PMCID: PMC4452710
+PMID: 26035716  [Indexed for MEDLINE]

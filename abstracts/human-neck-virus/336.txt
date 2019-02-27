@@ -1,0 +1,48 @@
+
+
+336. J Clin Virol. 2016 Feb;75:37-41. doi: 10.1016/j.jcv.2016.01.002. Epub 2016 Jan 6.
+
+Loop mediated isothermal amplification (LAMP) for the detection and subtyping of 
+human papillomaviruses (HPV) in oropharyngeal squamous cell carcinoma (OPSCC).
+
+Livingstone DM(1), Rohatensky M(2), Mintchev P(3), Nakoneshny SC(4), Demetrick
+DJ(5), van Marle G(3), Dort JC(6).
+
+Author information: 
+(1)Section of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.
+Electronic address: devonlivingstone@gmail.com.
+(2)Undergraduate Medical Education, Faculty of Medicine & Dentistry, University
+of Alberta, Edmonton, Alberta, Canada.
+(3)Department of Microbiology, Immunology and Infectious Diseases, Cumming School
+of Medicine, University of Calgary, Calgary, Alberta, Canada.
+(4)Ohlson Research Initiative, Southern Alberta Cancer Research Institute,
+Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada.
+(5)Department of Pathology and Laboratory Medicine, Cumming School of Medicine,
+University of Calgary and Calgary Laboratory Services, Calgary, Alberta, Canada.
+(6)Section of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+Cumming School of Medicine, University of Calgary, Calgary, Alberta, Canada;
+Ohlson Research Initiative, Southern Alberta Cancer Research Institute, Cumming
+School of Medicine, University of Calgary, Calgary, Alberta, Canada.
+
+BACKGROUND: Human papillomavirus (HPV)-related oropharyngeal squamous cell
+carcinoma (OPSCC) is a growing problem that presents a significant challenge to
+Otolaryngologist-Head and Neck Surgeons. Knowledge of HPV status yields critical 
+prognostic information, with potential for treatment selection based on tumour
+HPV status. The current gold standard of diagnosis, PCR, is expensive, demanding 
+and time consuming. Alternatives such as p16 immunohistochemistry are subjective 
+and potentially inaccurate. Loop-mediated isothermal amplification (LAMP) is a
+rapid, robust and inexpensive molecular diagnostic technique.
+OBJECTIVES: Our aim was to verify LAMP as a potential bedside diagnostic assay
+for subtyping of HPV in OPSCC.
+STUDY DESIGN: DNA from 72 formalin-fixed paraffin embedded (FFPE) OPSCC patient
+samples was tested. PCR and LAMP were then performed to specifically identify HPV
+16, 18, 31, 33 and 35.
+RESULTS AND CONCLUSIONS: For these high-risk subtypes, LAMP had an overall
+sensitivity of 99.4% and specificity of 93.2% relative to PCR. LAMP is a
+promising technology that can accurately diagnose high-risk HPV infection.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2016.01.002 
+PMID: 26780110  [Indexed for MEDLINE]

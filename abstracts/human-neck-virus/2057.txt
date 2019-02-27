@@ -1,0 +1,43 @@
+
+
+2057. Arch Otolaryngol Head Neck Surg. 2012 Jun;138(6):556-61. doi:
+10.1001/archoto.2012.950.
+
+p16 not a prognostic marker for hypopharyngeal squamous cell carcinoma.
+
+Wilson DD(1), Rahimi AS, Saylor DK, Stelow EB, Jameson MJ, Shonka DC, Reibel JF, 
+Levine PA, Read PW.
+
+Author information: 
+(1)Departments of Radiation Oncology, University of Virginia, Charlottesville, VA
+22908, USA.
+
+OBJECTIVE: To investigate the prognostic significance of p16 in patients with
+hypopharyngeal squamous cell carcinoma (HPSCC) and to evaluate the relationship
+between p16 and human papillomavirus (HPV). Unlike in oropharyngeal SCC (OPSCC), 
+the prognostic significance of p16 in HPSCC and its association with HPV is
+unclear.
+DESIGN: Retrospective medical chart review.
+SETTING: University tertiary referral center.
+PATIENTS: A total of 27 patients with HPSCC treated with definitive radiation
+therapy between 2002 and 2011 whose tissue was available for immunohistochemical 
+analysis.
+INTERVENTIONS: Twenty-two patients were treated with chemoradiation, and 5 with
+radiation alone. All tumor biopsy specimens were analyzed for p16 and, when
+sufficient tissue was available, for HPV DNA.
+MAIN OUTCOME MEASURES: Overall survival (OS), locoregional control (LRC),
+disease-free survival (DFS), and laryngoesophageal dysfunction-free survival
+(LEDFS) were analyzed according to p16 status.
+RESULTS: Findings for p16 were positive in 9 tumors and negative in 18 tumors.
+Median follow-up was 29.3 months. There was no significant difference in OS, LRC,
+DFS, or LEDFS for patients with p16-positive vs p16-negative tumors. Only 1 of
+the 19 tumors tested for HPV was found to be HPV positive. When used as a test
+for HPV, p16 had a positive predictive value of 17%.
+CONCLUSIONS: In contrast to OPSCC, p16 expression in patients with HPSCC had a
+low positive predictive value for HPV and did not predict improved OS, LRC, DFS, 
+or LEDFS. Thus, for HPSCC, p16 is not a prognostic biomarker. Caution must be
+taken when extrapolating the prognostic significance of p16 in patients with
+OPSCC to patients with head and neck SCC of other subsites.
+
+DOI: 10.1001/archoto.2012.950 
+PMID: 22710507  [Indexed for MEDLINE]

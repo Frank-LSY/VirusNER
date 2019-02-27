@@ -1,0 +1,38 @@
+
+
+2509. ORL J Otorhinolaryngol Relat Spec. 2017;79(1-2):14-23. doi: 10.1159/000455726.
+Epub 2017 Feb 24.
+
+Response Evaluation in Head and Neck Oncology: Definition and Prediction.
+
+Hoffmann TK(1), Schuler PJ, Laban S, Grässlin R, Beer M, Beer AJ, Friebe-Hoffmann
+U, Bullinger L, Möller P, Wiegel T.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Ulm University
+Medical Center, Ulm, Germany.
+
+Curative treatment of head and neck squamous cell carcinoma includes surgery
+and/or (chemo)radiation, whereas in the palliative setting, chemotherapy and/or
+immunotherapy represent(s) the standard approach. With regard to quality control,
+methods for determining treatment response are sorely needed. For surgical
+therapy, histopathology is the standard quality control. Established criteria for
+high-risk patients include resection margins of the primary tumor and
+extracapsular extension of lymph node metastases. After definitive
+chemoradiation, treatment response is generally evaluated by tomographic imaging 
+combined with endoscopy including re-biopsy of the tumor region. Single-cycle
+induction chemotherapy may be used to determine the radiosensitivity of tumors,
+helping to define surgical and nonsurgical treatment options. Innovative
+approaches with implications for prognosis include the analysis of immune
+infiltrates, liquid biopsy, molecular characterization (proteomics, genomics),
+molecular and functional imaging (PET-CT, PET-MRI), as well as advanced imaging
+data analysis (radio[geno]mics/texture analysis). Human papilloma virus, as a
+prognostically relevant parameter, is currently being investigated for
+de-escalation strategies. With regard to the extended personalization of
+oncologic therapy, markers predicting treatment response are desirable and seem
+to be important, also from a socioeconomic perspective.
+
+© 2017 S. Karger AG, Basel.
+
+DOI: 10.1159/000455726 
+PMID: 28231577  [Indexed for MEDLINE]

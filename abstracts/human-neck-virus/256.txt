@@ -1,0 +1,57 @@
+
+
+256. Cancer Epidemiol. 2015 Dec;39(6):1036-46. doi: 10.1016/j.canep.2015.08.010. Epub 
+2015 Sep 12.
+
+Sexual behaviours and head and neck cancer: A systematic review and
+meta-analysis.
+
+Farsi NJ(1), El-Zein M(2), Gaied H(3), Lee YC(4), Hashibe M(5), Nicolau B(3),
+Rousseau MC(6).
+
+Author information: 
+(1)Oral Health and Society Division, Faculty of Dentistry, McGill University,
+Montréal, Québec, Canada; Epidemiology and Biostatistics Unit, INRS-Institut
+Armand-Frappier, Université du Québec, Laval, Québec, Canada.
+(2)Epidemiology and Biostatistics Unit, INRS-Institut Armand-Frappier, Université
+du Québec, Laval, Québec, Canada.
+(3)Oral Health and Society Division, Faculty of Dentistry, McGill University,
+Montréal, Québec, Canada.
+(4)Division of Public Health, Department of Family & Preventive Medicine,
+University of Utah School of Medicine, Salt Lake City, UT, United States.
+(5)Division of Public Health, Department of Family & Preventive Medicine,
+University of Utah School of Medicine, Salt Lake City, UT, United States;
+Huntsman Cancer Institute, University of Utah School of Medicine, Salt Lake City,
+UT, United States.
+(6)Oral Health and Society Division, Faculty of Dentistry, McGill University,
+Montréal, Québec, Canada; Epidemiology and Biostatistics Unit, INRS-Institut
+Armand-Frappier, Université du Québec, Laval, Québec, Canada. Electronic address:
+marie-claude.rousseau@iaf.inrs.ca.
+
+Human papillomaviruses (HPV) are associated with head and neck cancers (H&NC).
+Transmission of HPV to the upper aerodigestive tract occurs plausibly through
+sexual contact, although epidemiologic evidence on the role of sexual behaviours 
+in H&NC aetiology is inconsistent. We conducted a meta-analysis of studies
+examining the association between four indicators of sexual behaviours (number of
+sexual partners and oral sex partners, oral sex practice, and age at first
+intercourse) and H&NC. Summary odds ratios (OR) and 95% confidence intervals (CI)
+were estimated using fixed and random effects models for each indicator,
+contrasting 'highest' to 'lowest', 'ever' to 'never', or 'youngest' to 'oldest'
+categories. Twenty case-control studies were included out of 3838 identified
+publications. Using random effects models, summary ORs suggested an increased
+risk of H&NC for number of sexual partners [OR=1.29, 95% CI: 1.02-1.63] (19
+studies) and number of oral sex partners [OR=1.69, 95% CI: 1.00-2.84] (5
+studies), whereas no effect was observed with oral sex practice [OR=1.09, 95% CI:
+0.88-1.35] (17 studies) and age at first intercourse [OR=1.40, 95% CI: 0.71-2.79]
+(6 studies). For number of sexual partners and oral sex practice, which were
+assessed in more studies, we further excluded studies contributing to
+heterogeneity and those not adjusted for age, sex, smoking, and alcohol
+consumption. The summary ORs were 0.95 (95% CI: 0.75-1.20) for number of sexual
+partners and 1.03 (95% CI: 0.84-1.26) for oral sex practice. Our findings
+highlight that observed associations might be partly attributed to confounding
+effects of sociodemographic and behavioural factors.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.canep.2015.08.010 
+PMID: 26372414  [Indexed for MEDLINE]

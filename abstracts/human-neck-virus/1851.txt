@@ -1,0 +1,39 @@
+
+
+1851. Immunobiology. 2012 Jul;217(7):669-75. doi: 10.1016/j.imbio.2011.11.005. Epub
+2011 Nov 22.
+
+Decreased levels of alternative co-stimulatory receptors OX40 and 4-1BB
+characterise T cells from head and neck cancer patients.
+
+Baruah P(1), Lee M, Odutoye T, Williamson P, Hyde N, Kaski JC, Dumitriu IE.
+
+Author information: 
+(1)Department of ENT, St. George's Hospital NHS Trust, London, UK.
+baruahpara@yahoo.co.in
+
+BACKGROUND AND AIM: Head and neck cancers (HNC) are aggressive tumours.
+Tumour-specific T cells are frequently identified in patients with cancer,
+although they fail to control tumour progression. A family of proteins called
+co-stimulatory receptors regulate the function of T cells and may account for T
+cell dysfunction in cancer. Our aim was to characterise co-stimulatory receptors 
+on T cells in HNC patients to identify novel targets for immunotherapy.
+METHODS: Peripheral blood mononuclear cells were isolated from HNC patients and
+healthy controls and the expression of co-stimulatory (OX40, 4-1BB, ICOS) and
+co-inhibitory (CTLA-4, PD1) receptors was analysed on CD4(+) and CD8(+) T cells
+using flow cytometry.
+RESULTS: We found that the levels of co-stimulatory receptors OX40 and 4-1BB were
+significantly lower on CD4(+) T cells from HNC patients. This was more pronounced
+in locally advanced tumours (T3/T4) compared to early carcinomas (T1/T2). PD-1
+levels were higher on CD8(+) T cells in HNC patients compared to controls. Human 
+papilloma virus (HPV)-specific CD8(+) T cells appeared to be more affected than
+Influenza-specific T cells.
+CONCLUSIONS: Our results indicate that expression of co-stimulatory receptors on 
+T cells from HNC patients is imbalanced with a preponderance of inhibitory
+signals, and reduction of stimulatory signals, especially in advanced disease.
+Restoring this balance could improve T cell therapy outcomes in HNC.
+
+Copyright © 2011 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.imbio.2011.11.005 
+PMID: 22204816  [Indexed for MEDLINE]

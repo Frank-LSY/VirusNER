@@ -1,0 +1,58 @@
+
+
+2077. JAMA Otolaryngol Head Neck Surg. 2015 Sep;141(9):790-6. doi:
+10.1001/jamaoto.2015.1447.
+
+Characteristics of Human Papillomavirus-Associated Head and Neck Cancers in a
+Veteran Population.
+
+Shay SG(1), Chang E(2), Lewis MS(2), Wang MB(1).
+
+Author information: 
+(1)Department of Surgery, VA Greater Los Angeles Healthcare System, Los Angeles, 
+California2Department of Head and Neck Surgery, UCLA David Geffen School of
+Medicine, Los Angeles, California.
+(2)Department of Pathology, VA Greater Los Angeles Healthcare System, Los
+Angeles, California.
+
+IMPORTANCE: The US veteran population represents a unique cohort of patients in
+whom human papillomavirus (HPV)-related head and neck squamous cell carcinoma
+(HNSCC) has yet to be investigated.
+OBJECTIVE: To investigate the incidence and characteristics of HPV-positive HNSCC
+within the veteran population.
+DESIGN, SETTING, AND PARTICIPANTS: Retrospective medical record review including 
+patients with HNSCC diagnosed between January 1, 2010, and November 15, 2013,
+from the VA Greater Los Angeles Healthcare System. Data were collected between
+November 16, 2013, and June 19, 2014, and analyzed between June 20, 2014, and
+March 26, 2015.
+EXPOSURES: Chemoradiation therapy, radiation therapy, surgery, or no treatment.
+MAIN OUTCOMES AND MEASURES: We determined HPV positivity by p16 testing.
+Demographic and clinicopathologic information and overall survival were extracted
+from medical records.
+RESULTS: We identified 150 patients with the diagnosis of HNSCC. Sixty-nine
+patients had HPV-positive tumors (46%), and 65 (43%) had HPV-negative tumors (16 
+did not have HPV testing). Age at diagnosis ranged from 44 to 94 years (mean,
+64.6 [SD, 8.0] years), and median (interquartile range) follow-up was 16.7
+(8.7-27.3) years. Tumor location differed significantly between the 2 groups,
+with an HPV-positive predominance in the oropharynx (43 of 57 [75%]; P < .001).
+The HPV-positive patients were more likely to be treated primarily with combined 
+chemoradiation therapy than radiation therapy or surgery (P < .001). T4 tumors
+had a nearly 9 times greater rate of mortality compared with T1 tumors (HR, 8.52 
+[95% CI, 2.60-18.40; P < .001); N3 disease was associated with 7.18 times greater
+mortality (HR, 7.18 [95% CI, 1.99-12.26]; P < .001) compared with N1 disease; and
+M1 disease was associated with 6.0 times greater mortality (HR, 5.99 [95% CI,
+2.59-13.81]; P < .001). There were 42 total deaths during follow-up, 25 in the
+HPV-negative group and 17 in the HPV-positive group, with a nonsignificantly
+higher overall survival among HPV-positive patients independent of alcohol or
+tobacco use history (P = .09).
+CONCLUSIONS AND RELEVANCE: Previous studies have found that the proportion of
+HPV-positive HNSCC in the general population ranges between 20% and 75%. Although
+the incidence of HPV-positive HNSCC in the Veterans Affairs population is
+comparable, these patients have unique risk factors and demographic
+characteristics that may suggest different prognostic factors for HPV-positive
+HNSCC in this population. Nonetheless, HPV-positive tumors still seem to portend 
+a better overall prognosis regardless of alcohol or tobacco history among the
+Veterans Affairs population.
+
+DOI: 10.1001/jamaoto.2015.1447 
+PMID: 26270931  [Indexed for MEDLINE]

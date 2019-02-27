@@ -1,0 +1,67 @@
+
+
+1303. BMC Med. 2017 Sep 1;15(1):165. doi: 10.1186/s12916-017-0929-y.
+
+A 13-gene expression-based radioresistance score highlights the heterogeneity in 
+the response to radiation therapy across HPV-negative HNSCC molecular subtypes.
+
+Foy JP(1)(2)(3), Bazire L(4), Ortiz-Cuaran S(1)(2), Deneuve S(2)(5), Kielbassa
+J(6), Thomas E(6), Viari A(6), Puisieux A(1), Goudot P(3), Bertolus C(3), Foray
+N(1), Kirova Y(4), Verrelle P(7)(8), Saintigny P(9)(10)(11).
+
+Author information: 
+(1)Univ Lyon, Université Claude Bernard Lyon 1, INSERM 1052, CNRS 5286, Centre
+Léon Bérard, Centre de recherche en cancérologie de Lyon, Lyon, F-69008, France.
+(2)Department of Translational Research and Innovation, Centre Léon Bérard, Lyon,
+F-69008, France.
+(3)Department of Oral and Maxillofacial Surgery, University of Pierre Marie
+Curie-Paris 6, Pitié-Salpêtrière Hospital, Paris, F-75013, France.
+(4)Department of Radiation Oncology, Institut Curie, Paris, F-75005, France.
+(5)Department of Surgery, Centre Léon Bérard, Lyon, F-69008, France.
+(6)Platform of Bioninformatics-Gilles Thomas, Synergie Lyon Cancer, Lyon,
+F-69008, France.
+(7)INSERM U 1196 , CNRS UMR 9187, Institut Curie, Orsay, F-91405, France.
+(8)Université Clermont Auvergne, Centre Jean-Perrin, Clermont-Ferrand, F-63000,
+France.
+(9)Univ Lyon, Université Claude Bernard Lyon 1, INSERM 1052, CNRS 5286, Centre
+Léon Bérard, Centre de recherche en cancérologie de Lyon, Lyon, F-69008, France. 
+pierre.saintigny@lyon.unicancer.fr.
+(10)Department of Translational Research and Innovation, Centre Léon Bérard,
+Lyon, F-69008, France. pierre.saintigny@lyon.unicancer.fr.
+(11)Department of Medical Oncology, Centre Léon Bérard, Lyon, 69008, France.
+pierre.saintigny@lyon.unicancer.fr.
+
+BACKGROUND: Radiotherapy for head and neck squamous cell carcinomas (HNSCC) is
+associated with a substantial morbidity and inconsistent efficacy. Human
+papillomavirus (HPV)-positive status is recognized as a marker of increased
+radiosensitivity. Our goal was to identify molecular markers associated with
+benefit to radiotherapy in patients with HPV-negative disease.
+METHODS: Gene expression profiles from public repositories were downloaded for
+data mining. Training sets included 421 HPV-negative HNSCC tumors from The Cancer
+Genome Atlas (TCGA) and 32 HNSCC cell lines with available radiosensitivity data 
+(GSE79368). A radioresistance (RadR) score was computed using the single sample
+Gene Set Enrichment Analysis tool. The validation sets included two panels of
+cell lines (NCI-60 and GSE21644) and HPV-negative HNSCC tumor datasets, including
+44 (GSE6631), 82 (GSE39366), and 179 (GSE65858) patients, respectively. We
+finally performed an integrated analysis of the RadR score with known recurrent
+genomic alterations in HNSCC, patterns of protein expression, biological
+hallmarks, and patterns of drug sensitivity using TCGA and the E-MTAB-3610
+dataset (659 pancancer cell lines, 140 drugs).
+RESULTS: We identified 13 genes differentially expressed between tumor and normal
+head and neck mucosa that were associated with radioresistance in vitro and in
+patients. The 13-gene expression-based RadR score was associated with recurrence 
+in patients treated with surgery and adjuvant radiotherapy but not with surgery
+alone. It was significantly different among different molecular subtypes of
+HPV-negative HNSCC and was significantly lower in the "atypical" molecular
+subtype. An integrated analysis of RadR score with genomic alterations, protein
+expression, biological hallmarks and patterns of drug sensitivity showed a
+significant association with CCND1 amplification, fibronectin expression, seven
+hallmarks (including epithelial-to-mesenchymal transition and unfolded protein
+response), and increased sensitivity to elesclomol, an HSP90 inhibitor.
+CONCLUSIONS: Our study highlights the clinical relevance of the molecular
+classification of HNSCC and the RadR score to refine radiation strategies in
+HPV-negative disease.
+
+DOI: 10.1186/s12916-017-0929-y 
+PMCID: PMC5580222
+PMID: 28859688  [Indexed for MEDLINE]

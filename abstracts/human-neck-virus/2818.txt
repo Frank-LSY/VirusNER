@@ -1,0 +1,53 @@
+
+
+2818. J Dent Res. 2017 Jan;96(1):17-22. doi: 10.1177/0022034516680556.
+
+Recent Trends in Oral Cavity Cancer Research Support in the United States.
+
+Fribley AM(1)(2)(3)(4), Svider PF(3), Warner BM(5), Garshott DM(1), Raza
+SN(3)(4), Kirkwood KL(6)(7)(8).
+
+Author information: 
+(1)1 Carman and Ann Adams Department of Pediatrics, Wayne State University School
+of Medicine, Detroit, MI, USA.
+(2)2 Molecular Therapeutics Program, Karmanos Cancer Institute, Wayne State
+University School of Medicine, Detroit, MI, USA.
+(3)3 Department of Otolaryngology-Head and Neck Surgery, Wayne State University
+School of Medicine, Detroit, MI, USA.
+(4)4 Barbara Ann Karmanos Cancer Institute, Detroit, MI, USA.
+(5)5 Department of Oral and Maxillofacial Pathology, University of Pittsburgh
+Medical Center, Pittsburgh, PA, USA.
+(6)6 Department of Oral Health Sciences and the Center for Oral Health Research, 
+Medical University of South Carolina, Charleston, SC, USA.
+(7)7 Department of Microbiology and Immunology, Medical University of South
+Carolina, Charleston, SC, USA.
+(8)8 Hollings Cancer Center, Medical University of South Carolina, Charleston,
+SC, USA.
+
+The objectives were to characterize oral cavity cancer (OCC) funding from the
+National Institutes of Health (NIH) with a secondary aim of comparing NIH support
+provided to OCC and other malignancies. NIH awards supporting OCC inquiry from
+2000 to 2014 were accessed from the NIH RePORTER database. These data were used
+to evaluate temporal trends and the role of human papilloma virus and to
+determine the academic training and professional profiles of the principal
+investigators. Comparison of 2014 funding levels with other malignancies was also
+performed, controlling for incidence. Overall funding totals decreased
+considerably after 2009. Funding administered through the National Institute of
+Dental and Craniofacial Research (NIDCR) was 6.5 times greater than dollars
+awarded by the National Cancer Institute in 2000. During the period evaluated,
+NIDCR support decreased in most years, while National Cancer Institute support
+increased and approached NIDCR funding levels. Funding for human papilloma
+virus-related projects gradually rose, from 3.4% of dollars in 2000 to 2004 to
+6.2% from 2010 to 2014 ( P < 0.05). A majority of principal investigators had a
+PhD omnia solus (57%), and 13% possessed dual PhD/clinical degrees. Among
+clinicians with specialty training, otolaryngologists and oral/maxillofacial
+pathologists garnered the most funding. OCC had a 2014 funding:incidence ratio of
+$785, much lower than for other malignancies. There has been increased volatility
+in funding support in recent years possibly due to budget cuts and sequestration.
+The National Cancer Institute has played an increasingly important role in
+supporting OCC research, concomitant with decreasing NIDCR support. Our findings 
+suggest that OCC is underfunded relative to other non-oral cavity malignancies,
+indicating a need to increase the focus on rectifying the disparity.
+
+DOI: 10.1177/0022034516680556 
+PMID: 28033064  [Indexed for MEDLINE]

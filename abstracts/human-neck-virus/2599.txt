@@ -1,0 +1,40 @@
+
+
+2599. Head Neck Pathol. 2012 Jul;6 Suppl 1:S121-8. doi: 10.1007/s12105-012-0361-8. Epub
+2012 Jul 3.
+
+Future directions in research, treatment and prevention of HPV-related squamous
+cell carcinoma of the head and neck.
+
+Psyrri A(1), Sasaki C, Vassilakopoulou M, Dimitriadis G, Rampias T.
+
+Author information: 
+(1)2nd Department of Internal Medicine, Attikon Hospital, National Kapodistrian
+University of Athens, 12462 Athens, Greece. psyrri237@yahoo.com
+
+The causative relationship between high-risk HPV and OSCC is well-established.
+HPV-associated OSCC represents a distinct disease entity compared to
+tobacco-associated ones. These virus-associated cancers continuously express the 
+HPV E6 and E7 viral oncogenes even in advanced stages, and repression of viral
+oncogene expression can prevent the growth or survival of cancer cells. This
+finding raises the possibility that even late-stage HPV-associated OSCC can be
+cured by HPV-targeted approaches, such as medicines that interfere with the
+expression or function of viral oncoproteins, and therapeutic vaccines that
+elicit a cytolytic immune response to cells expressing these oncoproteins. The
+demonstration that high-risk HPVs are causally associated with a subset of OSCC
+has allowed the development of preventive and therapeutic strategies aimed at
+reducing the incidence and mortality of this disease. The better outcome of
+HPV-associated OSCC raises the question as to whether similar results can be
+achieved with less treatment. An important aim of novel approaches for
+favorable-prognosis, HPV-associated cancers will be minimization of devastating
+side effects of intensified treatment developed for poor prognostic subsets.
+Clinical trials are studying the potential for de-escalation of radiation therapy
+in HPV + OSCC in the setting of different chemoradiotherapy regimens. The role of
+cetuximab in HPV-associated OSCC needs to be explored in prospective clinical
+trials. This review summarizes the main events of HPV-induced carcinogenesis with
+an emphasis on the implications of these carcinogenic mechanisms on research,
+treatment and prevention of HPV-associated OSCC.
+
+DOI: 10.1007/s12105-012-0361-8 
+PMCID: PMC3394158
+PMID: 22782231  [Indexed for MEDLINE]

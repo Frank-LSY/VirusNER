@@ -1,0 +1,43 @@
+
+
+1154. Head Neck. 2016 Apr;38 Suppl 1:E1613-7. doi: 10.1002/hed.24287. Epub 2015 Dec 17.
+
+Tumor volume as a predictor of survival in human papillomavirus-positive
+oropharyngeal cancer.
+
+Davis KS(1), Lim CM(2), Clump DA(3), Heron DE(3), Ohr JP(4), Kim S(1), Duvvuri
+U(1), Johnson JT(1), Ferris RL(1).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, University of
+Pittsburgh, Medical Center, Eye and Ear Institute, Pittsburgh, Pennsylvania.
+(2)Division of Otolaryngology - Head and Neck Surgery, National University Cancer
+Institute, Singapore.
+(3)Department of Radiation Oncology, University of Pittsburgh Medical Center,
+Pittsburgh, Pennsylvania.
+(4)Division of Hematology/Oncology, University of Pittsburgh Medical Center,
+Pittsburgh, Pennsylvania.
+
+BACKGROUND: Increasing evidence exists that tumor volume may be a superior
+prognostic model than traditional TNM staging. It has been observed that
+oropharyngeal squamous cell carcinoma (oropharyngeal SCC) in the setting of human
+papillomavirus (HPV) positivity have a greater propensity for cystic nodal
+metastases, and, thus, presumably larger volume with relatively smaller primary
+tumors. The influence of HPV status on the predictive value of tumor volume is
+unknown.
+METHODS: Fifty-three patients with HPV-positive oropharyngeal SCC were treated
+with definitive chemotherapy and intensity-modulated radiotherapy (IMRT).
+RESULTS: The estimated 2-year overall survival (OS) and disease-free survival
+(DFS) was 92.2% and 83.6%, respectively. Nodal classification did not predict OS 
+(p = .096) or DFS (p = .170). Similarly, T classification did not predict OS
+(p = .057) or DFS (p = .309). Lower nodal volume was associated with greater DFS 
+(p = .001).
+CONCLUSION: Nodal tumor volume was found to be predictive of DFS. DFS was best
+predicted by nodal gross tumor volume (GTV) at 24 months. © 2015 Wiley
+Periodicals, Inc. Head Neck 38: E1613-E1617, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24287 
+PMCID: PMC4844840
+PMID: 26681273  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+503. Int J Radiat Oncol Biol Phys. 2014 Mar 15;88(4):761-70. doi:
+10.1016/j.ijrobp.2013.08.029.
+
+Review of the clinical and biologic aspects of human papillomavirus-positive
+squamous cell carcinomas of the head and neck.
+
+Blitzer GC(1), Smith MA(1), Harris SL(2), Kimple RJ(3).
+
+Author information: 
+(1)Department of Human Oncology, School of Medicine and Public Health, University
+of Wisconsin, Madison, Wisconsin.
+(2)Radiation Oncology Associates, Manchester, New Hampshire.
+(3)Department of Human Oncology, School of Medicine and Public Health, University
+of Wisconsin, Madison, Wisconsin; University of Wisconsin Carbone Cancer Center, 
+School of Medicine and Public Health, University of Wisconsin, Madison,
+Wisconsin. Electronic address: rkimple@humonc.wisc.edu.
+
+Human papillomavirus (HPV), a known etiology of a subset of head-and-neck
+squamous cell carcinomas (HNCs), causes numerous alterations in normal cellular
+functions. This article reviews the biology, detection, and treatment of
+HPV-positive HNC. The role of HPV oncoproteins in tumor development, the natural 
+history of HPV infection, and risk factors for and prevention of transmission of 
+oral HPV are considered. Commonly used methods for detecting HPV infection,
+including limitations of these methods, are discussed to aid the practicing
+clinician in using these tests in their clinical practice. Clinical
+characteristics of HPV-positive HNC, including potential explanations for the
+improved outcomes seen in patients with HPV-positive HNC, are assessed. Ongoing
+clinical trials specific for patients with HPV-positive HNC are described, and
+areas in need of additional research are summarized. Until the results of ongoing
+trials are known, treatment of HPV-positive HNC should not differ in clinical
+practice from treatment of similar non-HPV related cancers.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2013.08.029 
+PMCID: PMC3990872
+PMID: 24606845  [Indexed for MEDLINE]

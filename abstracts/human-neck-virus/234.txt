@@ -1,0 +1,33 @@
+
+
+234. Head Neck. 2011 Oct;33(10):1394-9. doi: 10.1002/hed.21609. Epub 2010 Nov 4.
+
+Therapeutic effects of a fusogenic newcastle disease virus in treating head and
+neck cancer.
+
+Li P(1), Chen CH, Li S, Givi B, Yu Z, Zamarin D, Palese P, Fong Y, Wong RJ.
+
+Author information: 
+(1)Department of Surgery, Memorial Sloan-Kettering Cancer Center, New York, NY,
+USA.
+
+BACKGROUND: Newcastle disease virus (NDV) is a paramyxovirus that is pathogenic
+in birds but causes only mild flulike symptoms in human beings. NDV(F3aa)-GFP is 
+a genetically modified, fusogenic NDV. We assessed the utility of NDV(F3aa)-GFP
+in treating head and neck squamous cell carcinoma.
+METHODS AND RESULTS: At a multiplicity of infection (MOI) of 1, NDV(F3aa)-GFP
+infection of 3 cell lines supported strong GFP expression by 36 hours. Four cell 
+lines were highly sensitivite to viral cytotoxicity, with >75% of cells lysed by 
+day 6 at MOI 0.1, and 2 other cell lines were partially susceptible. Murine SCC25
+flank tumors exhibited robust GFP expression after a single intratumoral viral
+injection and showed near-complete tumor regression over 34 days. There were no
+adverse effects attributable to therapy.
+CONCLUSIONS: We demonstrate that a fusogenic NDV exerts potent oncolytic effects 
+against human head and neck cancer and support its continued investigation for
+clinical application.
+
+Copyright © 2010 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21609 
+PMCID: PMC3116983
+PMID: 21928411  [Indexed for MEDLINE]

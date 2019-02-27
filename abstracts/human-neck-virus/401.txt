@@ -1,0 +1,36 @@
+
+
+401. J Med Virol. 2015 Jan;87(1):162-9. doi: 10.1002/jmv.23963. Epub 2014 Apr 24.
+
+Erythrovirus B19 and autoimmune thyroid diseases. Review of the literature and
+pathophysiological hypotheses.
+
+Page C(1), Duverlie G, Sevestre H, Desailloud R.
+
+Author information: 
+(1)ENT and Nead & Neck Surgery Department, University Hospital of Amiens, Amiens,
+France.
+
+Erythrovirus B19 (EVB19) has been incriminated, over recent years, in the onset
+and/or pathogenesis of many diseases, especially autoimmune thyroid diseases.
+This review of the literature (published over the last 40 years using Pubmed and 
+Science Direct search engines) was designed to define the role of EVB19,
+particularly in autoimmune thyroid diseases.Two cases of subacute thyroiditis,
+one case of Graves' disease (associated with type 1 diabetes and rheumatoid
+arthritis), and one case of Hashimoto's thyroiditis following acute EVB19
+infection were reported. A retrospective case-control study in a pediatric
+population demonstrated the role of EVB19 in Hashimoto's thyroiditis. Four
+retrospective studies of pathology slides (including PCR, immunohistochemistry or
+in situ hybridization) and a prospective case-control study on pathology slides
+demonstrated the presence of EVB19 in thyroid tissue of patients with benign
+multinodular goiter, Graves' disease, autoimmune thyroiditis (including
+Hashimoto's thyroiditis), and thyroid cancer. EVB19 can be demonstrated in the
+thyroid gland in a wide range of diseases. Although acute EVB19 infection could
+theoretically trigger autoimmune thyroid disease, there is currently no evidence 
+that EVB19 plays a specific role in the pathophysiology of autoimmune thyroid
+diseases.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.23963 
+PMID: 24760746  [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+
+
+550. Recent Results Cancer Res. 2017;206:207-218.
+
+TORS in HPV-Positive Tumors-The New Standard?
+
+Lang S(1), Mattheis S(2), Kansy B(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+Essen, University Duisburg-Essen, Essen, Germany. stephan.lang@uk-essen.de.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+Essen, University Duisburg-Essen, Essen, Germany.
+
+In this chapter, we discuss implications of tumor site and tumor microenvironment
+properties of human papilloma virus (HPV)-associated cancer formation with
+special emphasis on the therapeutic modality of transoral robotic surgery (TORS).
+Over the past years, the development of robotic systems has improved, and
+therefore, its use in the surgical treatment of HNSCC has become a relevant
+treatment modality for many patients. Yet, there are limitations. Especially for 
+endolaryngeal TORS procedures, additional technical development is mandatory,
+particularly with respect to visualization and manipulation. The Flex System has 
+provided new additions that need to be further evaluated. TORS systems are going 
+to improve technical issues and therefore reduce patient morbidity, surgical
+handling and treatment costs. The developed systems have to be tested and
+evaluated in prospective trials in order to be able to identify benefits and
+disadvantages in patient care. With respect to HPV-related OPSCC, TORS has become
+a valuable surgical alternative for an increasing number of patients.
+
+DOI: 10.1007/978-3-319-43580-0_16 
+PMID: 27699541  [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+
+
+1591. J Neurooncol. 2013 May;112(3):449-54. doi: 10.1007/s11060-013-1075-9. Epub 2013
+Feb 14.
+
+Metastatic squamous cell carcinoma to the brain: an unrecognized pattern of
+distant spread in patients with HPV-related head and neck cancer.
+
+Ruzevick J(1), Olivi A, Westra WH.
+
+Author information: 
+(1)Department of Neurosurgery, The Johns Hopkins University School of Medicine,
+The Johns Hopkins Medical Institutions, Baltimore, MD, USA.
+
+Head and neck squamous cell carcinoma (HNSCC) is notorious for local recurrence
+and metastatic spread to regional lymph nodes. Distant spread is uncommon, and
+brain involvement is rare. Over the past decade there has been a rising incidence
+of HPV-related HNSCC, but it is not known if this escalation has had any impact
+on trends relating to brain involvement. Cases of metastatic squamous cell
+carcinoma (SCC) to the brain were identified from a computerized search of the
+surgical pathology files of The Johns Hopkins Hospital between 1985 and 2012. The
+medical records were reviewed to document primary site of tumor origin,
+treatment, and patient outcome. P16 immunohistochemistry and HPV in situ
+hybridization were performed on those metastases arising from the head and neck. 
+Of the 38 metastatic SCCs, 7 (18 %) originated in the head and neck. HPV-16 was
+detected in 4 (57 %) of the metastatic HNSCCs. All 4 HPV-positive metastases were
+from oropharyngeal primaries. The time from treatment of the primary to
+development of the brain metastasis ranged from 19 to 57 months (mean, 45).
+Following aggressive treatment (surgery and radiation), two patients died of
+disease progression (7 and 34 months), and two are alive with recurrent brain
+metastases (4 and 10 months). Although HPV positivity is regarded as a favorable 
+prognostic indicator, it does not safeguard from spread to the brain. In our
+experience, just over half of the HNSCCs that metastasized to the brain were
+HPV-related. The potential for developing a brain metastasis long after curative 
+therapy argues for extended patient follow-up. The development of a brain
+metastasis is an ominous finding signaling rapid clinical deterioration.
+
+DOI: 10.1007/s11060-013-1075-9 
+PMCID: PMC3630253
+PMID: 23408186  [Indexed for MEDLINE]

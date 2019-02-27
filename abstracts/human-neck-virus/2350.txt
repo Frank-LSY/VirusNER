@@ -1,0 +1,53 @@
+
+
+2350. Cancer Epidemiol Biomarkers Prev. 2017 Feb;26(2):197-205. doi:
+10.1158/1055-9965.EPI-16-0492. Epub 2016 Oct 14.
+
+The Stem Cell Factor HMGA2 Is Expressed in Non-HPV-Associated Head and Neck
+Squamous Cell Carcinoma and Predicts Patient Survival of Distinct Subsites.
+
+Günther K(1), Foraita R(2), Friemel J(2), Günther F(2), Bullerdiek J(3), Nimzyk
+R(3), Markowski DN(3), Behrens T(4)(5), Ahrens W(2).
+
+Author information: 
+(1)Leibniz Institute for Prevention Research and Epidemiology - BIPS, Bremen,
+Germany. kguenth@leibniz-bips.de.
+(2)Leibniz Institute for Prevention Research and Epidemiology - BIPS, Bremen,
+Germany.
+(3)Center for Human Genetics (ZHG), University of Bremen, Bremen, Germany.
+(4)Institute for Prevention and Occupational Medicine of the German Social
+Accident Insurance, Institute of the Ruhr-Universität Bochum (IPA), Bochum,
+Germany.
+(5)Protein Research Unit Ruhr within Europe (PURE), Ruhr-University Bochum,
+Germany.
+
+BACKGROUND: The transcription factor high-mobility AT-hook 2 (HMGA2) is involved 
+in stem cell renewal and is expressed in many tumor tissues. Head and neck
+squamous cell carcinomas (HNSCC) comprise tumors of the upper aerodigestive tract
+and are characterized by high recurrence rates that represent a challenge to
+patient management. The study addresses the potential of HMGA2 as a molecular
+biomarker for HNSCC patient survival.
+METHODS: Patients with HNSCC of the larynx, pharynx, tonsils, or oral cavity were
+recruited in a hospital-based case-control study (n = 202). Quantitative
+expression of HMGA2 in tumor tissues was measured by RT-PCR. In a 6- to 10-year
+follow-up, secondary cancers, vital status, and cause of death were ascertained. 
+The HR and 95% confidence intervals (CI) for overall, tumor-specific, and
+progression-free survival were estimated by Cox proportional hazards with HMGA2
+expression level as the independent variable.
+RESULTS: High HMGA2 expression in tumor tissues of HNSCC patients was
+significantly correlated with negative HPV status (P = 0.01), and associated with
+shorter overall survival time. In Cox regression modeling, HMGA2 expression
+yielded a risk increase for overall and tumor-specific death in subsets of HNSCC 
+patients, that is, laryngeal cancer patients (overall survival: HR = 4.00; 95%
+CI, 1.18-13.62) and in oral cancer patients (tumor-specific survival: HR = 2.88; 
+95% CI, 1.06-7.84), but not in patients with pharyngeal and tonsillar HNSCC.
+CONCLUSIONS: HMGA2 expression is associated with a risk increase for adverse
+outcomes in patients with HNSCC of the larynx and oral cavity.
+IMPACT: The understanding of stem cell signaling in HNSCC may offer new
+strategies for cancer treatment. Cancer Epidemiol Biomarkers Prev; 26(2);
+197-205. ©2016 AACR.
+
+©2016 American Association for Cancer Research.
+
+DOI: 10.1158/1055-9965.EPI-16-0492 
+PMID: 27742669  [Indexed for MEDLINE]

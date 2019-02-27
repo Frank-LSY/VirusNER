@@ -1,0 +1,42 @@
+
+
+3. Front Med. 2017 Dec;11(4):480-489. doi: 10.1007/s11684-017-0594-8. Epub 2017 Nov 
+23.
+
+Immunological and virological characteristics of human immunodeficiency virus
+type 1 superinfection: implications in vaccine design.
+
+Gao Y(1), Tian W(1), Han X(2), Gao F(3)(4).
+
+Author information: 
+(1)Key Laboratory of AIDS Immunology of National Health and Family Planning
+Commission, Department of Laboratory Medicine, The First Affiliated Hospital,
+China Medical University, Shenyang, 110001, China.
+(2)Key Laboratory of AIDS Immunology of National Health and Family Planning
+Commission, Department of Laboratory Medicine, The First Affiliated Hospital,
+China Medical University, Shenyang, 110001, China. xxhan@yeah.net.
+(3)National Engineering Laboratory for AIDS Vaccine, School of Life Sciences,
+Jilin University, Changchun, 130012, China. fgao@duke.edu.
+(4)Department of Medicine, Duke University Medical Center, Durham, NC, 27710,
+USA. fgao@duke.edu.
+
+Superinfection is frequently detected among individuals infected by human
+immunodeficiency virus type I (HIV-1). Superinfection occurs at similar
+frequencies at acute and chronic infection stages but less frequently than
+primary infection. This observation indicates that the immune responses elicited 
+by natural HIV-1 infection may play a role in curb of superinfection; however,
+these responses are not sufficiently strong to completely prevent superinfection.
+Thus, a successful HIV-1 vaccine likely needs to induce more potent and broader
+immune responses than those elicited by primary infection. On the other hand,
+potent and broad neutralization responses are more often detected after
+superinfection than during monoinfection. This suggests that broadly neutralizing
+antibodies are more likely induced by sequential immunization of multiple
+different immunogens than with only one form of envelope glycoprotein immunogens.
+Understanding why the protection from superinfection by immunity induced by
+primary infection is insufficient and if superinfection can lead to
+cross-reactive immune responses will be highly informative for HIV-1 vaccine
+design.
+
+DOI: 10.1007/s11684-017-0594-8 
+PMCID: PMC5783723
+PMID: 29170914  [Indexed for MEDLINE]

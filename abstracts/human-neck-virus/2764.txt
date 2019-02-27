@@ -1,0 +1,50 @@
+
+
+2764. Am J Otolaryngol. 2012 Jan-Feb;33(1):6-13. doi: 10.1016/j.amjoto.2010.11.018.
+Epub 2011 Mar 24.
+
+Snail as a novel marker for regional metastasis in head and neck squamous cell
+carcinoma.
+
+Mendelsohn AH(1), Lai CK, Shintaku IP, Fishbein MC, Brugman K, Elashoff DA,
+Abemayor E, Dubinett SM, St John MA.
+
+Author information: 
+(1)Division of Head and Neck Surgery, Department of Surgery, David Geffen School 
+of Medicine at UCLA, Los Angeles, CA 90095, USA. amendelsohn@mednet.ucla.edu
+
+OBJECTIVE: Previous studies have shown Snail expression integral to the
+epithelial-mesenchymal transition during tumor progression. However, its behavior
+in clinical head and neck squamous cell carcinomas (HNSCCs) is yet undefined. We 
+therefore sought to (1) investigate clinical and histopathologic characteristics 
+of Snail-positive HNSCC and (2) understand the link between Snail and other
+commonly used HNSCC tumor markers.
+STUDY DESIGN: A retrospective case-control study was conducted.
+SETTING: This study was conducted in a large-scale academic center.
+STUDY SUBJECTS: Of 51 consecutive HNSCC, 42 surgical resections were included.
+METHODS: Two separate pathologists performed standard histopathologic reviews
+along with immunohistochemistries (Snail, E-cadherin, p16, epidermal growth
+factor receptor [EGFR]) and in situ hybridization (human papilloma virus [HPV]). 
+Medical review for all cases was performed.
+RESULTS: Twenty-two (52%) of 42 cases stained 4+ Snail (>75% staining). The
+remaining 20 cases were considered negative. Snail was strongly inversely related
+to E-cadherin expression (ρ = -0.69, P < .001), but statistically independent
+from HPV, p16, or EGFR expression. Snail(+) tumors were equally represented from 
+each anatomic subsite. Snail(+) tumors were strongly associated with poor
+differentiation (P < .001) and basaloid classification (P = .004). Snail(+)
+tumors were also strongly associated with lymphovascular invasion (P = .02), but 
+not perineural invasion. Ultimately, 11 (50%) of 22 of Snail(+) tumors
+demonstrated positive nodal metastasis and 11 (79%) of 14 node-positive cases
+were Snail(+) (P = .02).
+CONCLUSION: This pilot study provides promising evidence of Snail' role as a
+molecular prognostic marker for HNSCC. Snail positivity is significantly
+predictive of poorly differentiated, lymphovascular invasive, as well as
+regionally metastatic tumors. Because Snail positivity appears independent of
+HPV, p16, and EGFR expression, Snail may prove to improve upon these markers'
+predictive limitations.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2010.11.018 
+PMCID: PMC5875698
+PMID: 21439681  [Indexed for MEDLINE]

@@ -1,0 +1,54 @@
+
+
+11. J Clin Microbiol. 2017 Feb;55(2):606-615. doi: 10.1128/JCM.02121-16. Epub 2016
+Dec 7.
+
+High-Throughput Next-Generation Sequencing of Polioviruses.
+
+Montmayeur AM(1), Ng TF(2), Schmidt A(3), Zhao K(4), Magaña L(5), Iber J(4),
+Castro CJ(5), Chen Q(4), Henderson E(4), Ramos E(1), Shaw J(4), Tatusov RL(1),
+Dybdahl-Sissoko N(4), Endegue-Zanga MC(6), Adeniji JA(7), Oberste MS(4), Burns
+CC(4).
+
+Author information: 
+(1)CSRA International, Atlanta, Georgia, USA.
+(2)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, Georgia, USA ylz9@cdc.gov.
+(3)IHRC, Atlanta, Georgia, USA.
+(4)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, Georgia, USA.
+(5)Oak Ridge Institute for Science and Education, Oak Ridge, Tennessee, USA.
+(6)Centre Pasteur du Cameroon, Yaoundé, Cameroon.
+(7)Department of Virology, College of Medicine, University of Ibadan, Ibadan,
+Nigeria.
+
+The poliovirus (PV) is currently targeted for worldwide eradication and
+containment. Sanger-based sequencing of the viral protein 1 (VP1) capsid region
+is currently the standard method for PV surveillance. However, the whole-genome
+sequence is sometimes needed for higher resolution global surveillance. In this
+study, we optimized whole-genome sequencing protocols for poliovirus isolates and
+FTA cards using next-generation sequencing (NGS), aiming for high sequence
+coverage, efficiency, and throughput. We found that DNase treatment of poliovirus
+RNA followed by random reverse transcription (RT), amplification, and the use of 
+the Nextera XT DNA library preparation kit produced significantly better results 
+than other preparations. The average viral reads per total reads, a measurement
+of efficiency, was as high as 84.2% ± 15.6%. PV genomes covering >99 to 100% of
+the reference length were obtained and validated with Sanger sequencing. A total 
+of 52 PV genomes were generated, multiplexing as many as 64 samples in a single
+Illumina MiSeq run. This high-throughput, sequence-independent NGS approach
+facilitated the detection of a diverse range of PVs, especially for those in
+vaccine-derived polioviruses (VDPV), circulating VDPV, or
+immunodeficiency-related VDPV. In contrast to results from previous studies on
+other viruses, our results showed that filtration and nuclease treatment did not 
+discernibly increase the sequencing efficiency of PV isolates. However, DNase
+treatment after nucleic acid extraction to remove host DNA significantly improved
+the sequencing results. This NGS method has been successfully implemented to
+generate PV genomes for molecular epidemiology of the most recent PV isolates.
+Additionally, the ability to obtain full PV genomes from FTA cards will aid in
+facilitating global poliovirus surveillance.
+
+Copyright © 2017 American Society for Microbiology.
+
+DOI: 10.1128/JCM.02121-16 
+PMCID: PMC5277531
+PMID: 27927929  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+2797. Semin Neurol. 2010 Apr;30(2):131-44. doi: 10.1055/s-0030-1249221. Epub 2010 Mar
+29.
+
+When and how to investigate the patient with headache.
+
+De Luca GC(1), Bartleson JD.
+
+Author information: 
+(1)Department of Neurology, Mayo Clinic College of Medicine, Rochester,
+Minnesota, USA.
+
+The common complaint of headache usually has a benign cause, most often a primary
+headache syndrome. The history and neurologic and general physical examinations
+usually permit a definitive diagnosis. When in doubt, diagnostic testing is
+indicated. Certain historical and examination findings increase the likelihood of
+a secondary headache disorder and the need for diagnostic testing. These include 
+(1) recent head or neck injury; (2) a new, worse, worsening, or abrupt onset
+headache; (3) headache brought on by Valsalva maneuver or cough; (4) headache
+brought on by exertion; (5) headache associated with sexual activity; (6)
+pregnancy; (7) headache in the patient over the age of ~50; (8) neurologic
+findings and/or symptoms; (9) systemic signs and/or symptoms; (10) secondary risk
+factors, such as cancer or human immunodeficiency virus (HIV) infection. Less
+worrisome are headaches that wake the patient from sleep at night, always occur
+on the same side, or show a prominent effect of change in posture on the
+patient's pain. Diagnostic studies include neuroimaging, cerebrospinal fluid
+(CSF) examination, and blood tests, which are selected depending on the patient's
+history and findings. For most patients, the diagnostic test of choice is a
+magnetic resonance imaging (MRI) brain scan. Computed tomography (CT) of the
+brain is usually obtained in the setting of trauma or the abrupt onset of
+headache. CSF examination is useful in diagnosing subarachnoid bleeding,
+infection, and high and low CSF pressure syndromes.
+
+Thieme Medical Publishers.
+
+DOI: 10.1055/s-0030-1249221 
+PMID: 20352583  [Indexed for MEDLINE]

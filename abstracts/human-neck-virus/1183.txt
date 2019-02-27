@@ -1,0 +1,41 @@
+
+
+1183. Am J Surg Pathol. 2013 Sep;37(9):1349-56. doi: 10.1097/PAS.0b013e318290427d.
+
+Papillary squamous cell carcinoma of the head and neck: clinicopathologic and
+molecular features with special reference to human papillomavirus.
+
+Mehrad M(1), Carpenter DH, Chernock RD, Wang H, Ma XJ, Luo Y, Luo J, Lewis JS Jr,
+El-Mofty SK.
+
+Author information: 
+(1)Departments of *Pathology and Immunology †Department of Otolaryngology Head
+and Neck Surgery §Division of Biostatistics, Washington University School of
+Medicine, St Louis, MO ‡Advanced Cell Diagnostics Inc., Hayward, CA.
+
+A relationship between human papillomavirus (HPV) infection and papillary
+squamous cell carcinoma (PSCC) has been suggested. However, to date, no studies
+have thoroughly and directly evaluated for transcriptional activity of the virus 
+or the clinicopathologic significance of HPV-positive PSCC. Forty-eight cases of 
+PSCC were retrieved from our surgical pathology database and were reviewed by 4
+study pathologists, with tumors defined as SCC with a significant component of
+papillary growth in the tumor. Immunohistochemical analysis for p16 and p53 was
+performed. Overexpression of p16 was used as a surrogate marker of
+transcriptionally active HPV. Transcriptional activity was also directly
+evaluated using RNA in situ hybridization to detect high-risk HPV E6/E7 mRNA.
+Clinical follow-up data were obtained by chart review. Seven cases were located
+in the oral cavity, 19 in the oropharynx, and 22 in the larynx. Two morphologic
+types of PSCC were identified: keratinizing type, in which the epithelial cells
+showed a maturation trend with minimal surface parakeratin, and nonkeratinizing
+type, in which the papillae were completely covered by immature basaloid cells.
+Transcriptionally active HPV was present in 23 of 43 (53.4%) tumors. The majority
+of tumors harboring transcriptionally active HPV arose in the oropharynx, showed 
+nonkeratinizing morphology, were p16 positive, and p53 negative.
+Transcriptionally active HPV was also present in many laryngeal and oral cavity
+PSCCs. Overall survival, disease-specific survival, and disease-free survival
+were favorable and did not significantly differ by anatomic subsite. However,
+HPV-related tumors showed a trend toward better survival.
+
+DOI: 10.1097/PAS.0b013e318290427d 
+PMCID: PMC3903508
+PMID: 23797720  [Indexed for MEDLINE]

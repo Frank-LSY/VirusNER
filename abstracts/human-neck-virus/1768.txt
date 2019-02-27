@@ -1,0 +1,38 @@
+
+
+1768. Oral Dis. 2013 Sep;19(6):577-84. doi: 10.1111/odi.12037. Epub 2012 Nov 26.
+
+Effector memory T-cell frequencies in relation to tumour stage, location and HPV 
+status in HNSCC patients.
+
+Turksma AW(1), Bontkes HJ, van den Heuvel H, de Gruijl TD, von Blomberg BM,
+Braakhuis BJ, Leemans CR, Bloemena E, Meijer CJ, Hooijberg E.
+
+Author information: 
+(1)Department of Pathology, VU University Medical Center, Amsterdam, The
+Netherlands.
+
+BACKGROUND: The immune system plays an important role in tumour immune
+surveillance. Head and neck squamous cell carcinoma patients are often immune
+compromised.
+OBJECTIVE: To chart the baseline levels of T-cell subpopulation frequencies in
+patients with cancer prior to treatment.
+SUBJECTS AND METHODS: Blood samples of patients were taken at the time of
+diagnosis, analysed with flowcytometry and compared with blood samples of healthy
+donors.
+RESULTS: Compared to healthy donors, a significant shift from naive to effector
+memory T cells was observed. This effect was most prominent in stage II patients.
+A similar shift from naive to effector memory T cells was noted in patients with 
+oropharynx or larynx squamous cell carcinomas. Furthermore, the percentage of
+effector memory and effector T cells was higher in the group of patients with
+human papillomavirus-positive oropharyngeal squamous cell carcinomas, compared
+with patients with human papillomavirus-negative tumours, suggestive of
+virus-induced T-cell activation.
+CONCLUSION: Here, we provide a simple and easily implementable tool to document T
+lymphocyte subsets in the peripheral blood of head and neck cancer patients,
+which might be useful for prognosis and/or therapy response prediction.
+
+© 2012 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/odi.12037 
+PMID: 23176702  [Indexed for MEDLINE]

@@ -1,0 +1,57 @@
+
+
+35. BMC Genomics. 2017 Feb 17;18(1):184. doi: 10.1186/s12864-017-3561-5.
+
+Genome-wide identification of direct HBx genomic targets.
+
+Guerrieri F(1), Belloni L(1), D'Andrea D(2), Pediconi N(3), Le Pera L(1)(2),
+Testoni B(4), Scisciani C(5), Floriot O(4), Zoulim F(4), Tramontano A(1)(2)(6),
+Levrero M(7)(8)(9)(10).
+
+Author information: 
+(1)Center for Life NanoScience@Sapienza, Istituto Italiano di Tecnologia, Viale
+Regina Elena 291, Rome, 00161, Italy.
+(2)Biocomputing Lab, Department of Physics, Sapienza University, Rome, Italy.
+(3)Department of Molecular Medicine, Sapienza University, Viale Regina Elena 291,
+Rome, 00161, Italy.
+(4)INSERM U1052, Cancer Research Center of Lyon (CRCL), 151 cours Albert Thomas, 
+Lyon, 69424, France.
+(5)Department of Internal Medicine - DMISM, Sapienza University, Viale del
+Policlinico 155, 00161, Rome, Italy.
+(6)Istituto Pasteur Fondazione Cenci Bolognetti, Viale Regina Elena 291, Rome,
+00161, Italy.
+(7)Center for Life NanoScience@Sapienza, Istituto Italiano di Tecnologia, Viale
+Regina Elena 291, Rome, 00161, Italy. massimo.levrero@uniroma1.it.
+(8)INSERM U1052, Cancer Research Center of Lyon (CRCL), 151 cours Albert Thomas, 
+Lyon, 69424, France. massimo.levrero@uniroma1.it.
+(9)Department of Internal Medicine - DMISM, Sapienza University, Viale del
+Policlinico 155, 00161, Rome, Italy. massimo.levrero@uniroma1.it.
+(10)Cancer Research Center of Lyon (CRCL) - INSERM U1052, 151 cours Albert
+Thomas, 69424, Lyon Cedex 03, France. massimo.levrero@uniroma1.it.
+
+BACKGROUND: The Hepatitis B Virus (HBV) HBx regulatory protein is required for
+HBV replication and involved in HBV-related carcinogenesis. HBx interacts with
+chromatin modifying enzymes and transcription factors to modulate histone
+post-translational modifications and to regulate viral cccDNA transcription and
+cellular gene expression. Aiming to identify genes and non-coding RNAs (ncRNAs)
+directly targeted by HBx, we performed a chromatin immunoprecipitation sequencing
+(ChIP-Seq) to analyse HBV recruitment on host cell chromatin in cells replicating
+HBV.
+RESULTS: ChIP-Seq high throughput sequencing of HBx-bound fragments was used to
+obtain a high-resolution, unbiased, mapping of HBx binding sites across the
+genome in HBV replicating cells. Protein-coding genes and ncRNAs involved in cell
+metabolism, chromatin dynamics and cancer were enriched among HBx targets
+together with genes/ncRNAs known to modulate HBV replication. The direct
+transcriptional activation of genes/miRNAs that potentiate endocytosis
+(Ras-related in brain (RAB) GTPase family) and autophagy (autophagy related (ATG)
+genes, beclin-1, miR-33a) and the transcriptional repression of microRNAs
+(miR-138, miR-224, miR-576, miR-596) that directly target the HBV pgRNA and would
+inhibit HBV replication, contribute to HBx-mediated increase of HBV replication.
+CONCLUSIONS: Our ChIP-Seq analysis of HBx genome wide chromatin recruitment
+defined the repertoire of genes and ncRNAs directly targeted by HBx and led to
+the identification of new mechanisms by which HBx positively regulates cccDNA
+transcription and HBV replication.
+
+DOI: 10.1186/s12864-017-3561-5 
+PMCID: PMC5316204
+PMID: 28212627  [Indexed for MEDLINE]

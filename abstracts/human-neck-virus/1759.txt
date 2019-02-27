@@ -1,0 +1,48 @@
+
+
+1759. Radiother Oncol. 2011 Jul;100(1):49-55. doi: 10.1016/j.radonc.2011.02.010. Epub
+2011 Mar 21.
+
+The influence of HPV-associated p16-expression on accelerated fractionated
+radiotherapy in head and neck cancer: evaluation of the randomised DAHANCA 6&7
+trial.
+
+Lassen P(1), Eriksen JG, Krogdahl A, Therkildsen MH, Ulhøi BP, Overgaard M,
+Specht L, Andersen E, Johansen J, Andersen LJ, Grau C, Overgaard J; Danish Head
+and Neck Cancer Group (DAHANCA).
+
+Author information: 
+(1)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+Denmark. pernille@oncology.dk
+
+BACKGROUND AND PURPOSE: Tumour HPV-positivity is a favourable prognostic factor
+in the radiotherapy of HNSCC, but the optimal radiotherapy regimen for
+HPV-positive HNSCC is not yet defined. Reducing overall treatment time is known
+to improve outcome in the radiotherapy of HNSCC as was also demonstrated in the
+randomised DAHANCA 6&7 trial. We aimed to assess the influence of tumour
+HPV-status, expressed by p16, on the response to accelerated fractionated
+radiotherapy in HNSCC through evaluation of the DAHANCA 6&7 trial.
+MATERIALS AND METHODS: Immunohistochemical detection of HPV-associated
+p16-expression was performed on FFPE-pre-treatment tumour-tissues from 794
+patients enrolled in the DAHANCA 6&7 trial. The influence of tumour p16-status on
+loco-regional tumour control and survival as a function of fractionation schedule
+(5Fx/week vs 6Fx/week) was evaluated 5years after the completion of radiotherapy.
+RESULTS: The significant and independent prognostic value of tumour
+p16-positivity in HNSCC radiotherapy was confirmed, with adjusted hazard ratios
+(HR) of 0.58 [0.43-0.78], 0.47 [0.33-0.67] and 0.54 [0.42-0.68] for loco-regional
+control, disease-specific and overall survival, respectively. Accelerated
+radiotherapy significantly improved loco-regional tumour control compared to
+conventional radiotherapy, adjusted HR: 0.73 [0.59-0.92] and the benefit of the
+6Fx/week regimen was observed both in p16-positive (HR: 0.56 [0.33-0.96]) as well
+as in p16-negative tumours (HR: 0.77 [0.60-0.99]). Disease-specific survival was 
+also significantly improved with accelerated radiotherapy in the group of
+p16-positive tumours (adjusted HR: 0.43 [0.22-0.82]).
+CONCLUSION: Accelerated radiotherapy significantly improves outcome in HNSCC
+compared to conventional fractionation. The observed benefit is independent of
+tumour p16-status and the use of a moderately accelerated radiotherapy regimen
+seems advantageous also for HPV/p16-positive HNSCC.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2011.02.010 
+PMID: 21429609  [Indexed for MEDLINE]

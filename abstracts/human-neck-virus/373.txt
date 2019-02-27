@@ -1,0 +1,36 @@
+
+
+373. Nat Commun. 2018 May 10;9(1):1861. doi: 10.1038/s41467-018-04220-w.
+
+Single molecule fate of HIV-1 envelope reveals late-stage viral lattice
+incorporation.
+
+Buttler CA(1), Pezeshkian N(1), Fernandez MV(2), Aaron J(3), Norman S(1), Freed
+EO(2), van Engelenburg SB(4).
+
+Author information: 
+(1)Molecular and Cellular Biophysics Program, Department of Biological Sciences, 
+University of Denver, Denver, CO, 80210, USA.
+(2)HIV Dynamics and Replication Program, Center for Cancer Research, National
+Cancer Institute, Frederick, MD, 21702, USA.
+(3)Advanced Imaging Center, Janelia Research Campus, Howard Hughes Medical
+Institute, Ashburn, VA, 20147, USA.
+(4)Molecular and Cellular Biophysics Program, Department of Biological Sciences, 
+University of Denver, Denver, CO, 80210, USA. schuyler.vanengelenburg@du.edu.
+
+Human immunodeficiency virus type 1 (HIV-1) assembly occurs on the inner leaflet 
+of the host cell plasma membrane, incorporating the essential viral envelope
+glycoprotein (Env) within a budding lattice of HIV-1 Gag structural proteins. The
+mechanism by which Env incorporates into viral particles remains poorly
+understood. To determine the mechanism of recruitment of Env to assembly sites,
+we interrogate the subviral angular distribution of Env on cell-associated virus 
+using multicolor, three-dimensional (3D) superresolution microscopy. We
+demonstrate that, in a manner dependent on cell type and on the long cytoplasmic 
+tail of Env, the distribution of Env is biased toward the necks of
+cell-associated particles. We postulate that this neck-biased distribution is
+regulated by vesicular retention and steric complementarity of Env during
+independent Gag lattice formation.
+
+DOI: 10.1038/s41467-018-04220-w 
+PMCID: PMC5945595
+PMID: 29748537  [Indexed for MEDLINE]

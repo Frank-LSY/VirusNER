@@ -1,0 +1,26 @@
+
+
+842. J Clin Pathol. 2010 Apr;63(4):365-6. doi: 10.1136/jcp.2009.071787.
+
+Extensive perinephric abscess complicated by herpes simplex virus 1 reactivation.
+
+Alleyne SA(1), Bukhari SS, Fraser M, Spiers P.
+
+Author information: 
+(1)Department of Clinical Microbiology, University Hospitals of Leicester NHS
+Trust, Leicester Royal Infirmary, Leicester LE1 5WW, UK.
+
+A 43-year-old man, admitted with a swollen right thigh, was diagnosed with a deep
+vein thrombosis. On day 6 he became septic. A CT scan demonstrated a right-sided 
+hydronephrosis and a large retroperitoneal collection. Blood cultures and
+perinephric pus grew Escherichia coli resistant to amoxicillin only. On day 12 a 
+vesicular rash appeared on the neck and herpes simplex virus 1 (HSV-1) grew on
+culture. On day 15 an upper leg collection was seen on CT scan. Thigh tissue
+specimens grew extended-spectrum beta-lactamase (ESBL) producing E coli and HSV-1
+was also detected by polymerase chain reaction in the tissue. On day 18 the
+patient died. This case illustrates an unusual presentation and complication of a
+perinephric abscess. In critically ill patients herpes simplex reactivation and
+emergence of multiresistant organisms may occur resulting in treatment failure.
+
+DOI: 10.1136/jcp.2009.071787 
+PMID: 20354210  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+880. Cancer Treat Rev. 2010 Dec;36(8):629-36. doi: 10.1016/j.ctrv.2010.03.010. Epub
+2010 Apr 22.
+
+Unravelling the biology of human papillomavirus (HPV) related tumours to enhance 
+their radiosensitivity.
+
+Vozenin MC(1), Lord HK, Hartl D, Deutsch E.
+
+Author information: 
+(1)UPRES EA 27-10 Radiosensibilité des tumeurs et tissus sains, Institut Gustave 
+Roussy, Villejuif, France. vozenin@igr.fr
+
+HPV infection is associated with most squamous cell carcinomas (SCC) of the
+uterine cervix and many head and neck SCC. While recent understanding of the
+mechanisms of HPV-induced carcinogenesis has lead to the development of
+prophylactic vaccines, the principal modality of treatment is radiotherapy and
+despite concurrent chemotherapy, outcomes remain suboptimal. Improving the
+radiotherapeutic index thus remains an important challenge as well as defining
+predictive assays for treatment outcome of HPV-related tumours. Therefore
+elucidating the influence of the HPV virus on tumour radiosensitivity is of major
+interest due to the prevalence of HPV-related tumours worldwide and due to
+evidence that head and neck HPV-tumours have markedly different clinical outcomes
+compared to non-HPV-related tumours. This difference may allow for different
+treatment strategies to be developed. The present review aims to summarize the
+current understanding of radiosensitivity and HPV-related tumour biology in order
+to subsequently develop new approaches to enhance the therapeutic index. This
+review also emphasizes the relevance of E6 and E7 oncoproteins to tumour cell
+response to radiotherapy suggesting that specific targeted approaches such as
+concomitant modulation of additional pathways using targeted therapies should
+offer new therapeutic avenues.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2010.03.010 
+PMID: 20417037  [Indexed for MEDLINE]

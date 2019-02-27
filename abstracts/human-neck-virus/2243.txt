@@ -1,0 +1,60 @@
+
+
+2243. Eur Radiol. 2016 Oct;26(10):3760-9. doi: 10.1007/s00330-015-4187-0. Epub 2016 Mar
+17.
+
+Congenital cytomegalovirus infection: contribution and best timing of prenatal MR
+imaging.
+
+Cannie MM(1)(2), Devlieger R(3), Leyder M(4), Claus F(5)(6), Leus A(2), De Catte 
+L(3), Cossey V(7), Foulon I(8), Van der Valk E(3), Foulon W(4), Cos T(9),
+Bernaert A(10), Oyen R(5), Jani JC(11).
+
+Author information: 
+(1)Department of Radiology, University Hospital Brugmann, Université Libre de
+Bruxelles, Brussels, Belgium.
+(2)Department of Radiology, UZ Brussel, Vrije Universiteit Brussel, Brussel,
+Belgium.
+(3)Department of Obstetrics and Gynecology, University Hospitals Leuven, Leuven, 
+Belgium.
+(4)Department of Obstetrics, UZ Brussel, Vrije Universiteit Brussel, Brussel,
+Belgium.
+(5)Department of Radiology, University Hospitals Leuven, Leuven, Belgium.
+(6)Department of Radiology, Onze-Lieve-Vrouw Hospital, Aalst, Belgium.
+(7)Neonatal Intensive Care Unit, University Hospitals Leuven, Leuven, Belgium.
+(8)Department of Otolaryngology - Head and Neck Surgery, UZ Brussel, Vrije
+Universiteit Brussel, Brussel, Belgium.
+(9)Department of Obstetrics and Gynecology, University Hospital Brugmann,
+Université Libre de Bruxelles, Fetal Medicine Unit, Place A. Van Gehuchten 4,
+1020, Brussels, Belgium.
+(10)Department of Radiology, Sint-Augustinus Hospital, Antwerp, Belgium.
+(11)Department of Obstetrics and Gynecology, University Hospital Brugmann,
+Université Libre de Bruxelles, Fetal Medicine Unit, Place A. Van Gehuchten 4,
+1020, Brussels, Belgium. jackjani@hotmail.com.
+
+OBJECTIVE: To predict sensorineural hearing loss (SNHL) and neurological
+impairment in congenital cytomegalovirus (cCMV) infection using MR imaging and
+define the best timing in pregnancy for prenatal assessment.
+METHODS: In 121 patients with confirmed cCMV infection, brain features at MR
+imaging were respectively graded from 1 to 5: normal; isolated
+frontal/parieto-occipital hyperintensity; temporal periventricular
+hyperintensity; temporal/occipital cysts and/or intraventricular septa; migration
+disorders. Grading was correlated with postnatal SNHL and neurological impairment
+using regression analysis. In 51 fetuses with MR examinations at 26.9 and
+33.0 weeks, the predictive value of SNHL and neurological impairment was compared
+using ROC curves.
+RESULTS: Postnatal follow-up showed SNHL in 18 infants and neurological
+impairment in 10. MR grading was predictive of SNHL and of neurological
+impairment (P < 0.001). In grade 1 or 2, none had SNHL and 1/74 had neurological 
+impairment. The areas under ROC curves for prediction of postnatal SNHL and of
+neurological impairment from first and second MR examination were comparable.
+CONCLUSION: Our data suggest that in cCMV infection, prediction of SNHL and
+neurological impairment is feasible by fetal MR imaging with a high negative
+predictive value and can equally be done at 27 or 33 weeks of gestation.
+KEY POINTS: • In cCMV, isolated periventricular T2-weighted signal hyperintensity
+has a good postnatal prognosis. • In cCMV, SNHL and neurological impairment can
+be predicted at 27 or 33 weeks. • In cCMV, fetal MR has a high NPV in predicting 
+SNHL. • In cCMV, fetal MR has a high NPV in predicting neurological impairment.
+
+DOI: 10.1007/s00330-015-4187-0 
+PMID: 26984434  [Indexed for MEDLINE]

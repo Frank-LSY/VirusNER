@@ -1,0 +1,35 @@
+
+
+2360. Anticancer Res. 2013 Mar;33(3):1215-20.
+
+Inactivation of 9q22.3 tumor suppressor genes predict outcome for patients with
+head and neck squamous cell carcinoma.
+
+Ghosh A(1), Maiti GP, Bandopadhyay MN, Chakraborty J, Biswas J, Roychoudhury S,
+Panda CK.
+
+Author information: 
+(1)Department of Oncogene Regulation, Chittaranjan National Cancer Institute, 37,
+S.P. Mukherjee Road, Kolkata 700026, India.
+
+AIM: This study examined the prognostic significance of candidate tumor
+suppressor genes (TSGs) PHD finger protein-2 (PHF2), Fanconi anaemia
+complementation group C (FANCC) and human homologue of Drosophila patched gene
+(PTCH1), in head and neck squamous cell carcinoma (HNSCC) treated primarily with 
+surgery, or surgery followed by adjuvant radiotherapy.
+PATIENTS AND METHODS: Eighty-four patients with HNSCC were followed-up for
+recurrence/death for up to five years after diagnosis. Molecular alterations
+(deletion/methylation) of TSGs and human papilloma virus (HPV) status were
+determined in previous studies of our group. Statistical analyses of correlation 
+of genetic alterations with treatment response and survival were carried out.
+RESULTS: Alterations of FANCC and PTCH1 were significantly associated with
+locoregional recurrence/death. In the surgery with adjuvant radiotherapy-group
+(n=56), patients showing alterations in FANCC and in PTCH1 were seven- and
+six-times, respectively, more likely to have locoregional recurrence compared to 
+those with no alterations. In addition, the presence of alterations of both FANCC
+and PTCH1 had remarkable prognostic significance.
+CONCLUSION: FANCC and PTCH1 alterations might be used as molecular markers for
+prognosis and to develop strategies for effective treatment planning.
+
+
+PMID: 23482805  [Indexed for MEDLINE]

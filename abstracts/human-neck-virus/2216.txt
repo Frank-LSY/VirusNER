@@ -1,0 +1,42 @@
+
+
+2216. Int J Radiat Oncol Biol Phys. 2011 Mar 1;79(3):860-5. doi:
+10.1016/j.ijrobp.2010.06.028. Epub 2010 Nov 23.
+
+Radiosensitization of oropharyngeal squamous cell carcinoma cells by human
+papillomavirus 16 oncoprotein E6∗I.
+
+Pang E(1), Delic NC, Hong A, Zhang M, Rose BR, Lyons JG.
+
+Author information: 
+(1)Sydney Head and Neck Cancer Institute, Sydney Cancer Centre, Department of
+Radiation Oncology, Royal Prince Alfred Hospital, Discipline of Dermatology,
+University of Sydney, NSW, Australia.
+
+PURPOSE: Patients with oropharyngeal squamous cell carcinoma (OSCC) whose disease
+is associated with high-risk human papillomavirus (HPV) infection have a
+significantly better outcome than those with HPV-negative disease, but the
+reasons for the better outcome are not known. We postulated that they might
+relate to an ability of HPV proteins to confer a better response to radiotherapy,
+a commonly used treatment for OSCC.
+METHODS AND MATERIALS: We stably expressed the specific splicing-derived
+isoforms, E6∗I and E6∗II, or the entire E6 open reading frame (E6total), which
+gives rise to both full length and E6∗I isoforms, in OSCC cell lines. Radiation
+resistance was measured in clonogenicity assays, p53 activity was measured using 
+transfected reporter genes, and flow cytometry was used to analyze cell cycle and
+apoptosis.
+RESULTS: E6∗I and E6total sensitized the OSCC cells to irradiation, E6∗I giving
+the greatest degree of radiosensitization (approximately eightfold lower
+surviving cell fraction at 10 Gy), whereas E6∗II had no effect. In contrast to
+radiosensitivity, E6∗I was a weaker inhibitor than E6total of tumor suppressor
+p53 transactivator activity in the same cells. Flow cytometric analyses showed
+that irradiated E6∗I expressing cells had a much higher G2M:G1 ratio than control
+cells, indicating that, after G2, cells were diverted from the cell cycle to
+programmed cell death.
+CONCLUSION: This study supports a role for E6∗I in the enhanced responsiveness of
+HPV-positive oropharyngeal carcinomas to p53-independent radiation-induced death.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2010.06.028 
+PMID: 21106305  [Indexed for MEDLINE]

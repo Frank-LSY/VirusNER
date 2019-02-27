@@ -1,0 +1,33 @@
+
+
+913. Am J Emerg Med. 2011 Sep;29(7):840.e1-2. doi: 10.1016/j.ajem.2010.02.008. Epub
+2010 May 1.
+
+Mollaret meningitis: case report with a familial association.
+
+Jones CW(1), Snyder GE.
+
+Author information: 
+(1)Department of Emergency Medicine, University of North Carolina, Chapel Hill,
+NC 27599-7594, USA. cwjones@unch.unc.edu
+
+Mollaret meningitis is a syndrome characterized by recurrent bouts of meningitis 
+that occur over a period of several years in an affected patient. Also known as
+recurrent lymphocytic meningitis, this entity involves repeated episodes of
+headache, stiff neck, fever, and cerebrospinal fluid pleocytosis. Herpes simplex 
+virus type 2 is the most frequently implicated causative agent, and treatment
+involves the use of antiviral medications. We describe a case of Mollaret
+meningitis in a 47-year-old man who presented to the emergency department with
+his eighth episode of meningitis during a period of 20 years. Cerebrospinal fluid
+polymerase chain reaction testing for herpes simplex virus type 2 was positive,
+and further testing excluded other common viral, bacterial, and inflammatory
+causes of meningeal irritation. The patient's family history was significant for 
+a brother who also had multiple episodes of aseptic meningitis during a period of
+several years. This represents the first published report of a possible familial 
+association involving Mollaret meningitis. It is likely that Mollaret meningitis 
+is underrecognized among emergency physicians, and improved recognition of this
+entity may limit unwarranted antibiotic use and shorten or eliminate unnecessary 
+hospital admission.
+
+DOI: 10.1016/j.ajem.2010.02.008 
+PMID: 20825883  [Indexed for MEDLINE]

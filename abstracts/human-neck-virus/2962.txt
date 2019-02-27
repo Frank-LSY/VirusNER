@@ -1,0 +1,36 @@
+
+
+2962. Acta Neurol Scand. 2012 Jun;125(6):424-30. doi: 10.1111/j.1600-0404.2011.01586.x.
+Epub 2011 Aug 25.
+
+MRI and visual-evoked potentials in partners of multiple sclerosis patients.
+
+Hawkes CH(1), Chawda S, Derakshani S, Muhammed N, Visentin E, Boniface D.
+
+Author information: 
+(1)Essex Neuroscience Centre, Queens Hospital, Romford, UK. chrishawkes@msn.com
+
+OBJECTIVE: Some epidemiological evidence, particularly concerning the role of
+Epstein Barr Virus implies that multiple sclerosis (MS) may be transmissible and 
+if correct, this might be revealed by increased prevalence of MS in cohabiting
+partners.
+METHODS: We addressed this problem by neurological assessment, visual-evoked
+potentials (VEP) and magnetic resonance imaging (MRI) in 112 partners of patients
+with MS in comparison to a control group of 93 individuals with clinically
+non-significant head or neck pain and in comparison to UK prevalence.
+RESULTS: We found one instance of conjugal definite MS. Including this case, VEP 
+were abnormal in five instances with either significant delay (n = 3) or
+increased interocular latency difference (IOLD) (n = 2) in partners of MS
+patients thus raising the possibility of subclinical optic nerve demyelination.
+The mean absolute value of IOLD in partners was greater than the value in
+controls (P = 0.033). There were no significant differences in MRI findings
+between the two groups.
+CONCLUSION: The finding of one conjugal pair and abnormal VEP in a further four
+MS partners could have several explanations. It is compatible with the concept of
+a transmissible agent, although our observations could be due to several biases
+as well as the play of chance alone.
+
+© 2011 John Wiley & Sons A/S.
+
+DOI: 10.1111/j.1600-0404.2011.01586.x 
+PMID: 21883098  [Indexed for MEDLINE]

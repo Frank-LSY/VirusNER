@@ -1,0 +1,59 @@
+
+
+394. Oral Oncol. 2014 Nov;50(11):1025-34. doi: 10.1016/j.oraloncology.2014.07.019.
+Epub 2014 Aug 22.
+
+A predictive transcriptomic signature of oropharyngeal cancer according to HPV16 
+status exclusively.
+
+Mirghani H(1), Ugolin N(2), Ory C(2), Lefèvre M(3), Baulande S(4), Hofman P(5),
+St Guily JL(6), Chevillard S(2), Lacave R(7).
+
+Author information: 
+(1)ER2 unit and GRC10, Université Pierre et Marie Curie, Paris, France;
+Department of Head and Neck Surgery, Institut de Cancérologie Gustave Roussy,
+Villejuif, France. Electronic address: haitham.mirghani@gustaveroussy.fr.
+(2)CEA, DSV, iRCM, Laboratory of Experimental Cancerology, BP64, 92265
+Fontenay-aux-Roses Cedex, France.
+(3)Department of Pathology, GHUEP, Hôpital Tenon, Assistance Publique-Hôpitaux de
+Paris, France.
+(4)PartnerChip, Bat. G2, Genopole Campus 2, Evry, France.
+(5)Laboratory of Clinical and Experimental Pathology and Biobank of CHUN, Pasteur
+Hospital, Nice F-06001, France.
+(6)ER2 unit and GRC10, Université Pierre et Marie Curie, Paris, France;
+Department of Otolaryngology-Head and Neck Surgery, GHUEP, Hôpital Tenon,
+Assistance Publique-Hôpitaux de Paris, France.
+(7)ER2 unit and GRC10, Université Pierre et Marie Curie, Paris, France; Tumours
+Genomic Unit, GHUEP, Hôpital Tenon, Assistance Publique-Hôpitaux de Paris,
+France.
+
+OBJECTIVE: Human-papillomaviruses (HPV) type 16 is a causative agent in an
+increasing subset of oropharyngeal squamous cell carcinomas (OPSCCs). These
+tumors have distinct oncogenic mechanisms and a more favorable prognosis than
+tobacco-induced OPSCCs. Although these differences emphasize the need for a
+specific therapeutic approach, HPV status is still not used to guide treatment. A
+better characterization of the molecular profile related to HPV16-induced OPSCC
+might help to develop personalized treatments.
+PATIENTS AND METHODS: Using a human whole-genome DNA-microarray, we have examined
+the gene expression profiles in 15 HPV-negative and 15 transcriptionally-active
+HPV-positive OPSCCs. The study was conducted in two steps. Firstly, a
+learning/training-set consisting of 8 HPV16-positive and 8 HPV16-negative OPSCCs 
+was analyzed to identify a specific signature. Potentially confounding factors
+(stage, sex and tobacco) were equally distributed in both groups. Subsequently
+the robustness of this signature was confirmed by blind case-by-case
+classification of a validation-set composed of the 14 remaining tumors.
+RESULTS: We have identified a signature composed of 224 genes, which
+discriminates HPV16-induced OPSCC from their HPV-negative counterparts. After the
+blind classification of the 14 tumours, the viral status was revealed: 13 out of 
+14 tumors were correctly classified according to tumor etiology, 1/14 was not
+determined and none were misclassified. Several of the differentially expressed
+genes were involved in cell-cycle regulation, DNA replication and repair,
+transcription regulation, immune response and apoptosis.
+CONCLUSION: Our study contributes to a better understanding of pathogenic
+mechanisms involved in the development of HPV-positive OPSCCs and in the
+identification of potential therapeutic targets.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.07.019 
+PMID: 25156715  [Indexed for MEDLINE]

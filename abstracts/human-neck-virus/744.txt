@@ -1,0 +1,28 @@
+
+
+744. Curr Oncol Rep. 2014 Mar;16(3):375. doi: 10.1007/s11912-013-0375-8.
+
+Counseling the patient with potentially HPV-related newly diagnosed head and neck
+cancer.
+
+Finnigan JP Jr(1), Sikora AG.
+
+Author information: 
+(1)Department of Otolaryngology, Icahn School of Medicine at Mount Sinai, New
+York, USA, john.finnigan@mssm.edu.
+
+The recent emergence of a clinically distinct subset of head and neck cancers
+(HNC) caused by infection with the human papillomavirus (HPV) necessitates
+critical reevaluation of the existing counseling paradigm for patients with newly
+diagnosed HNC. Herein we propose a structural framework for patient counseling in
+which HPV testing is incorporated and the impact of HPV-status is discussed in
+the context of multiple medical and psychosocial domains. We strive to maintain a
+balance between making recommendations based on the best available scientific
+evidence and acknowledgment of uncertainty for both patients and providers. We
+anticipate that both the standard-of-care diagnostic workup and treatment, and
+counseling guidelines for these patients will change rapidly in the years ahead, 
+as data from ongoing and planned prospective clinical trials become available.
+
+DOI: 10.1007/s11912-013-0375-8 
+PMCID: PMC4100323
+PMID: 24488548  [Indexed for MEDLINE]

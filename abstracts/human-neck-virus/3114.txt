@@ -1,0 +1,41 @@
+
+
+3114. Am J Rhinol Allergy. 2014 Nov-Dec;28(6):487-92. doi: 10.2500/ajra.2014.28.4101.
+
+Societal and physician perspectives on sinonasal diagnosis and treatment.
+
+Mohan S(1), Sisler K, Christopher K, Hentzelman J, Antisdel J.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Saint Louis University,
+Saint Louis, Missouri, USA.
+
+BACKGROUND: Sinusitis is diagnosed in 31 million individuals annually and has a
+significant impact on health care expenditures. Otolaryngologists understand that
+patient expectations, health knowledge, and the use of therapeutic options by
+patients and primary care physicians (PCPs) vary greatly. The intent of this
+study was to elucidate differences in the perspectives of patients, PCPs and
+otolaryngologists regarding the diagnosis and treatment of sinonasal disease.
+METHODS: Three surveys were developed with questions targeting sinonasal
+infections: specifically, prevalence, diagnosis, physician prescribing patterns, 
+treatment alternatives, and referral patterns to tertiary level physicians.
+Surveys were distributed to adult patients (n = 113) at general health fairs,
+whereas surveys for PCPs (n = 54) and otolaryngologists (n = 40) were obtained
+from teaching conferences and professional networking events.
+RESULTS: In a description of viral upper respiratory tract infections (URIs), 43%
+of patients attributed symptoms to allergic rhinitis, 28% to URIs, and 28% to
+sinus infections. Despite this, 37% of patients still expected anti-bacterial
+agents. In patients with acute rhinosinusitis (ARS), 44% of patients would wait
+<1 week to see a physician whereas 82% of otolaryngologists and 57% of PCPs felt 
+waiting 1 week or more was appropriate. In an ambulatory care setting, 45% of
+PCPs would chose to treat patients with 5 days of ARS symptoms whereas 32% of
+otolaryngologists would treat patients (p = .22). For ARS, 70% of patients
+expected antibiotics. Seventy percent of PCPs stated that they would refer a
+patient to an otolaryngologist after a single episode of sinusitis.
+CONCLUSION: Patients with sinonasal symptoms confuse URIs for sinusitis and
+expect unnecessary treatment with antibiotics. PCPs and otolaryngologists vary
+regarding indications for presentation to a physician, approaches to therapy, and
+indications for referral to a tertiary provider in their respective practices.
+
+DOI: 10.2500/ajra.2014.28.4101 
+PMID: 25514485  [Indexed for MEDLINE]

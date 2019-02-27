@@ -1,0 +1,36 @@
+
+
+33. Retrovirology. 2013 Mar 5;10:26. doi: 10.1186/1742-4690-10-26.
+
+Restriction of diverse retroviruses by SAMHD1.
+
+Gramberg T(1), Kahle T, Bloch N, Wittmann S, Müllers E, Daddacha W, Hofmann H,
+Kim B, Lindemann D, Landau NR.
+
+Author information: 
+(1)Microbiology Department, New York University School of Medicine, New York,
+USA. thomas.gramberg@viro.med.uni-erlangen.de
+
+BACKGROUND: SAMHD1 is a triphosphohydrolase that restricts the replication of
+HIV-1 and SIV in myeloid cells. In macrophages and dendritic cells, SAMHD1
+restricts virus replication by diminishing the deoxynucleotide triphosphate pool 
+to a level below that which supports lentiviral reverse transcription. HIV-2 and 
+related SIVs encode the accessory protein Vpx to induce the proteasomal
+degradation of SAMHD1 following virus entry. While SAMHD1 has been shown to
+restrict HIV-1 and SIV, the breadth of its restriction is not known and whether
+other viruses have a means to counteract the restriction has not been determined.
+RESULTS: We show that SAMHD1 restricts a wide array of divergent retroviruses,
+including the alpha, beta and gamma classes. Murine leukemia virus was restricted
+by SAMHD1 in macrophages yet removal of SAMHD1 did not alleviate the block to
+infection because of an additional block to viral nuclear import. Prototype foamy
+virus (PFV) and Human T cell leukemia virus type I (HTLV-1) were the only
+retroviruses tested that were not restricted by SAMHD1. PFV reverse transcribes
+predominantly prior to entry and thus is unaffected by the dNTP level in the
+target cell. It is possible that HTLV-1 has a mechanism to render the virus
+resistant to SAMHD1-mediated restriction.
+CONCLUSION: The results suggest that SAMHD1 has broad anti-retroviral activity
+against which most viruses have not found an escape.
+
+DOI: 10.1186/1742-4690-10-26 
+PMCID: PMC3605129
+PMID: 23497255  [Indexed for MEDLINE]

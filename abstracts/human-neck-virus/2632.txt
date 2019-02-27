@@ -1,0 +1,33 @@
+
+
+2632. Brain Nerve. 2018 Mar;70(3):253-258. doi: 10.11477/mf.1416200990.
+
+[An Autopsy Case of Meningoencephalitis and Cerebral Infarction that Developed
+with Ramsay Hunt Syndrome and Disseminated Herpes Zoster].
+
+[Article in Japanese]
+
+Yamashiro N(1), Nagasaka T, Ooishi N, Tsuchiya M, Takaki R, Kobayashi F, Shindo
+K, Takiyama Y.
+
+Author information: 
+(1)Department of Neurology, Faculty of Medicine, University of Yamanashi.
+
+We report here the clinical presentation and subsequent autopsy of a 90-year-old 
+man who developed small papules with pain and swelling in his right ear. On
+admission, he exhibited right facial nerve paralysis, neck stiffness and Kernig's
+sign. The cell count was elevated and the varicella-zoster virus-PCR was positive
+in the CSF. Brain magnetic resonance imaging showed hyperintense lesions in the
+left pons and left temporal lobe, in FLAIR images. We diagnosed the patient with 
+Ramsay Hunt syndrome and meningoencephalitis due to varicella-zoster virus.
+Although the symptoms of meningitis improved following treatment with intravenous
+acyclovir (750 mg/day initially, raised to 1,125 mg/day), 16 days after
+admission, he died suddenly due to gastrointestinal hemorrhage. The autopsy
+findings included lymphocytic infiltration of the leptomeninges and perivascular 
+space of the cerebrum, and slight parenchyma in the left temporal lobe and
+insula, as the main histological features. Encephalitis due to varicella zoster
+virus has been recognized as a vasculopathy affecting large and small vessels.
+Pathological confirmation is rare in varicella zoster virus meningoencephalitis.
+
+DOI: 10.11477/mf.1416200990 
+PMID: 29519969  [Indexed for MEDLINE]

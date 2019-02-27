@@ -1,0 +1,45 @@
+
+
+32. PLoS One. 2014 Sep 17;9(9):e107697. doi: 10.1371/journal.pone.0107697.
+eCollection 2014.
+
+Molecular characterization and phylogenetic relationship of wild type 1
+poliovirus strains circulating across Pakistan and Afghanistan bordering areas
+during 2010-2012.
+
+Shaukat S(1), Angez M(1), Alam MM(1), Sharif S(1), Khurshid A(1), Malik F(1),
+Rehman L(1), Zaidi SS(1).
+
+Author information: 
+(1)Department of Virology, National Institute of Health, Chak Shahzad, Islamabad,
+Pakistan.
+
+Pakistan and Afghanistan share a long uncontrolled border with extensive
+population movement on both sides. Wild poliovirus transmission has never been
+interrupted in this block due to war against terrorism, poor public health
+infrastructure, misconceptions about polio vaccines and inadequate immunization
+activities. All these issues complicate the eradication operations and reinforce 
+the complexity of wiping out poliomyelitis from this region. This study
+illustrates the origins and routes of cross-border wild poliovirus type 1 (WPV1) 
+transmission during 2010-2012 between Pakistan and Afghanistan. Sequence analyses
+were conducted based on complete VP1 capsid protein sequences for WPV1 study
+strains to determine the origin of poliovirus genetic lineages and their
+evolutionary relationships. Phylogenetic tree was constructed from VP1 gene
+sequences applying Maximum Likelihood method using Kimura 2- parameter model in
+MEGA program v 5.0. A total of 72 (14.3%) out of 502 wild-type 1 polioviruses
+were found circulating in border areas of both countries during 2010-2012.
+Molecular phylogenetic analysis classified these strains in to two sub-genotypes 
+with four clusters and 18 lineages. Genetic data confirmed that the most of WPV1 
+lineages (12; 66.6%) were transmitted from Pakistan to Afghanistan. However, the 
+genetic diversity was significantly reduced during 2012 as most of the lineages
+were completely eliminated. In conclusion, Pakistan-Afghanistan block has emerged
+as a single poliovirus reservoir sharing the multiple poliovirus lineages due to 
+uncontrolled movement of people across the borders between two countries. If it
+is neglected, it can jeopardize the extensive global efforts done so-far to
+eradicate the poliovirus infection. Our data will be helpful to devise the
+preventive strategies for effective control of wild poliovirus transmission in
+this region.
+
+DOI: 10.1371/journal.pone.0107697 
+PMCID: PMC4168008
+PMID: 25229826  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+818. Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2018 Feb;32(4):298-301. doi:
+10.13201/j.issn.1001-1781.2018.04.014.
+
+[The clinical significance of EBV DNA analysis in nasopharyngeal carcinoma
+screening].
+
+[Article in Chinese]
+
+Wang L(1), Song YL(1), Huang SM(1), Tao HX(1), Zhao YQ(1), Yan N(2), Xu DY(1).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Henan Province People's
+Hospital (Zhengzhou University People's Hospital), Zhengzhou, 450003, China.
+(2)Department of Ophthalmology, Henan Province People's Hospital (Zhengzhou
+University People's Hospital).
+
+Objective:The aim of this study is to explore the value of EBV DNA monitor in
+high risk population of nasopharyngeal carcinoma (NPC). Method:A total of 366
+cases of NPC at high risk were screened for 15 864 cases by ELISA, and 262 cases 
+were randomly selected from low-risk groups. Fifty-eight nasopharyngeal carcinoma
+patients were also involved. EBV DNA was detected by PCR in 366 NPC high risk
+patients and followed up for 1 year. The clinical significance of EBV-DNA in
+screening NPC was compared. Result:The positive rate of EBV-DNA test was 12.0% in
+primary screening, EBV-DNA test in primary screening was 3.4% in low-risk
+population, and EBV-DNA in nasopharyngeal carcinoma was 91.4%, The positive rate 
+of the three groups was statistically significant (P<0.01); After one year
+follow-up, a total of 267 cases returned visit. Positive rate of group A with
+continuous high risk was significantly higher than group B who was high risk at
+the first time of visit and non high risk at returned visit (P＜0.05).
+Conclusion:Quantitative analysis of plasma EBV DNA in high risk population can
+supply serological risk assessment. It can elevate the efficiency of screening
+and has significant application value for NPC high risk population.
+
+DOI: 10.13201/j.issn.1001-1781.2018.04.014 
+PMID: 29798510  [Indexed for MEDLINE]

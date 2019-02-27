@@ -1,0 +1,47 @@
+
+
+2266. Oncotarget. 2016 Jun 28;7(26):40025-40037. doi: 10.18632/oncotarget.9474.
+
+Higher methylation intensity induced by EBV LMP1 via NF-κB/DNMT3b signaling
+contributes to silencing of PTEN gene.
+
+Peng H(1)(2), Chen Y(1), Gong P(1)(2), Cai L(1), Lyu X(1), Jiang Q(1), Wang J(1),
+Lu J(1), Yao K(1), Liu K(3), Li J(1)(3), Li X(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology at Nanfang Hospital, Cancer Research
+Institute, Southern Medical University, Guangzhou 510515, China.
+(2)Department of Otolaryngology-Head and Neck Surgery, The Second People's
+Hospital of Guangdong Province, Southern Medical University, Guangzhou 510515,
+China.
+(3)Department of Pathology, The Sixth Affiliated Hospital of Guangzhou Medical
+University, Qingyuan 511518, China.
+
+Phosphatase and tensin homolog (PTEN) is a major tumor suppressor and usually
+silenced via the deletion, insertion and mutation. We previously discovered its
+inactivation via aberrant CpG island methylation. Here, we provide further
+evidence that EBV latent membrane protein 1(LMP1) can induce a higher intensity
+of DNA methylation at PTEN CpG islands, inactivating PTEN at the cellular and
+molecular level. Initially, increased methylation intensity of PTEN CpG islands
+was observed in EBV-infected nasopharyngeal carcinoma (NPC) cells, accompanied by
+decreased PTEN expression. In NPC tissue samples showing the methylation at PTEN 
+promoter, LMP1 was highly expressed in higher methylation intensity group
+relative to lower intensity group, and DNA methyltransferase 3b (DNMT3b)
+expression was positively correlated with LMP1 expression. Moreover, transfection
+of LMP1 gene into EBV-negative NPC cells demonstrated that LMP1 up-regulated
+DNMT3b expression, leading to a higher intensity of PTEN CpG island methylation. 
+Mechanistically, computational prediction and luciferase reporter assay
+identified a functional NF-κB binding site on DNMT3b promoter and the mutated
+NF-κB binding site abolished LMP1-mediated DNMT3b activation. Chromatin
+immunoprecipitation displayed that NF-κB p65 subunit constitutively bound to
+DNMT3b promoter, supporting the activation of DNMT3b by EBV LMP1 via NF-κB
+signaling. Furthermore, the expression level of DNMT3b was observed to be
+increased in the nuclei of LMP1-expressing NPC cells, and a NF-κB inhibitor,
+PDTC, counteracted LMP1-mediated DNMT3b overexpression. Thus, this study first
+reports that LMP1-mediated NF-κB can up-regulate DNMT3b transcription, thereby
+leading to relatively higher methylation intensity at PTEN CpG islands, and
+ultimately silencing major tumor suppressor PTEN.
+
+DOI: 10.18632/oncotarget.9474 
+PMCID: PMC5129989
+PMID: 27223069  [Indexed for MEDLINE]

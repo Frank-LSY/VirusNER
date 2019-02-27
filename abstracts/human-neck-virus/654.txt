@@ -1,0 +1,21 @@
+
+
+654. Recent Results Cancer Res. 2017;206:221-231.
+
+Risk Groups for Survival in HPV-Positive and HPV-Negative OPSCC.
+
+Rietbergen MM(1), Brakenhoff RH(1), René Leemans C(2).
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands.
+(2)Department of Otolaryngology/Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands. cr.leemans@vumc.nl.
+
+Over the last three decades, it has become clear that infection with high-risk
+human papillomavirus (HPV) is etiologically linked to the development of head and
+neck squamous cell carcinomas, particularly those carcinomas that arise in the
+oropharyngeal region.
+
+DOI: 10.1007/978-3-319-43580-0_17 
+PMID: 27699542  [Indexed for MEDLINE]

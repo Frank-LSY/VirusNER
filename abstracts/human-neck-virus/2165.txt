@@ -1,0 +1,55 @@
+
+
+2165. Ann Surg Oncol. 2017 Nov;24(12):3494-3501. doi: 10.1245/s10434-017-6041-x. Epub
+2017 Aug 14.
+
+Transoral Resection of Human Papillomavirus (HPV)-Positive Squamous Cell
+Carcinoma of the Oropharynx: Outcomes with and Without Adjuvant Therapy.
+
+Jackson RS(1), Sinha P(2), Zenga J(2), Kallogjeri D(2)(3), Suko J(2)(3), Martin
+E(4), Moore EJ(4), Haughey BH(5).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Washington University
+School of Medicine, 660 South Euclid Avenue, Campus Box 8115, St. Louis, MO, USA.
+jackson.ryan@wust.edu.
+(2)Department of Otolaryngology-Head and Neck Surgery, Washington University
+School of Medicine, 660 South Euclid Avenue, Campus Box 8115, St. Louis, MO, USA.
+(3)Clinical Outcomes Research Office, Washington University School of Medicine,
+St. Louis, MO, USA.
+(4)Department of Otolaryngology-Head and Neck Surgery, Mayo Clinic, Rochester,
+MN, USA.
+(5)Head and Neck Surgery Center of Florida, Florida Hospital Celebration Health
+and Florida Hospital Cancer Institute, Celebration, FL, USA.
+
+Erratum in
+    Ann Surg Oncol. 2017 Aug 28;:.
+
+BACKGROUND: With the rise of oropharyngeal squamous cell carcinoma associated
+with human papillomavirus (HPV), appropriate treatment strategies continue to be 
+tailored toward minimizing treatment while preserving oncologic outcomes. This
+study aimed to compare the outcomes for those undergoing transoral resection with
+or without adjuvant therapy for HPV-related oropharyngeal carcinoma.
+METHODS: A case-match cohort analysis was performed at two institutions on
+patients with HPV-related oropharyngeal squamous cell carcinoma. All the subjects
+underwent transoral surgery and neck dissection. The patients treated with
+surgery alone were matched 1:1 to those treated with surgery and adjuvant therapy
+using two groups identified as confounders: T-stage (T1/2 or T3/4) and number of 
+pathologically positive lymph nodes (≤4 or >4).
+RESULTS: The study identified 105 matched pairs, with a median follow-up period
+of 42 months (range 3.1-102.3 months). The patients were staged as T1/T2 (86%) or
+T3/4 (14%). Each group had five patients with more than four positive lymph
+nodes. Adjuvant therapy significantly improved disease-free survival (hazard
+ratio [HR] 0.067; 95% confidence interval [CI] 0.01-0.62) and was associated with
+a lower risk of local and regional recurrence (risk ratio [RR] 0.096; 95% CI
+0.02-0.47). No difference in disease-specific survival (HR 0.22; 95% CI
+0.02-2.57) or overall survival (HR 0.18; 95% CI 0.01-2.4) was observed with the
+addition of adjuvant therapy. The risk of the gastrostomy tube was higher for
+those receiving adjuvant therapy (RR 7.3; 95% CI 2.6-20.6).
+CONCLUSIONS: Transoral surgery is an effective approach for the treatment of
+HPV-related oropharyngeal carcinoma. The addition of adjuvant therapy appears to 
+decrease the risk of recurrence and improve disease-free survival but may not
+significantly improve overall survival.
+
+DOI: 10.1245/s10434-017-6041-x 
+PMID: 28808988  [Indexed for MEDLINE]

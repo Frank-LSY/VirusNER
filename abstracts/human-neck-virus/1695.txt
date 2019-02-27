@@ -1,0 +1,35 @@
+
+
+1695. Curr Opin Otolaryngol Head Neck Surg. 2011 Oct;19(5):341-7. doi:
+10.1097/MOO.0b013e328349a125.
+
+Assessment and management of chronic otitis externa.
+
+Kesser BW(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Virginia
+Health System, Charlottesville, Virginia 22908, USA. Bwk2n@virginia.edu
+
+PURPOSE OF REVIEW: Chronic otitis externa (COE) remains a frustrating problem for
+both patient and physician. The end stage of disease, medial fibrosing otitis
+externa, is very challenging to repair. New and old therapies and promising
+approaches to the treatment of this often recalcitrant problem are presented in
+this review.
+RECENT FINDINGS: Tacrolimus, a nonsteroidal immunosuppressant, and fluocinolone
+acetonide oil 0.01%, a medium-high potency steroid preparation, may offer
+additional therapeutic options in the struggle against this inflammatory ear
+canal/skin condition of often unknown cause. Relative potencies of many steroid
+preparations will be presented along with several treatment strategies for
+controlling COE. Underlying autoimmune problems such as Sjögren's disease,
+sarcoidosis, and amyloidosis must be searched and, if present, addressed and
+treated for resolution of symptoms. Cutting edge therapies, including use of
+bacteriophages and inflammatory proteases, will also be reviewed.
+SUMMARY: No single therapy will be successful for every patient with COE. The
+search for an underlying cause, the removal of all possible irritants to the ear 
+canal skin (e.g. Q-tips, water), debridement, and both topical and occasionally, 
+systemic therapy will control (not cure …) the disease process in the vast
+majority of patients.
+
+DOI: 10.1097/MOO.0b013e328349a125 
+PMID: 21804382  [Indexed for MEDLINE]

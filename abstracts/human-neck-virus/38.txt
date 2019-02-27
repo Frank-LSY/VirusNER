@@ -1,0 +1,43 @@
+
+
+38. Oral Oncol. 2016 Oct;61:27-30. doi: 10.1016/j.oraloncology.2016.08.002. Epub 2016
+Aug 18.
+
+The effect of human papillomavirus on DNA repair in head and neck squamous cell
+carcinoma.
+
+Low GM(1), Thylur DS(2), Yamamoto V(3), Sinha UK(4).
+
+Author information: 
+(1)USC Tina and Rick Caruso Department of Otolaryngology-Head & Neck Surgery,
+Keck School of Medicine, University of Southern California, Los Angeles, CA,
+United States. Electronic address: garrenlo@usc.edu.
+(2)USC Tina and Rick Caruso Department of Otolaryngology-Head & Neck Surgery,
+Keck School of Medicine, University of Southern California, Los Angeles, CA,
+United States. Electronic address: thylur@usc.edu.
+(3)USC Tina and Rick Caruso Department of Otolaryngology-Head & Neck Surgery,
+Keck School of Medicine, University of Southern California, Los Angeles, CA,
+United States. Electronic address: vyamamot@usc.edu.
+(4)USC Tina and Rick Caruso Department of Otolaryngology-Head & Neck Surgery,
+Keck School of Medicine, University of Southern California, Los Angeles, CA,
+United States. Electronic address: sinha@usc.edu.
+
+Erratum in
+    Oral Oncol. 2016 Nov;62:e5.
+
+Much of the current literature regarding the molecular pathophysiology of human
+papillomavirus (HPV) in head and neck squamous cell carcinoma (HNSCC) has focused
+on the virus's effect on cell cycle modulation and cell proliferation. A second
+mechanism of pathogenicity employed by HPV, dysregulation of cellular DNA repair 
+processes, has been more sparsely studied. The purpose of this review is to
+describe current understanding about the effect of HPV on DNA repair in HNSCC,
+taking cues from cervical cancer literature. HPV affects DNA-damage response
+pathways by interacting with many proteins, including ATM, ATR, MRN, γ-H2AX,
+Chk1, Chk2, p53, BRCA1, BRCA2, RAD51, Rb-related proteins 107 and 130, Tip60, and
+p16INK4A. Further elucidation of these pathways could lead to development of
+targeted therapies and improvement of current treatment protocols.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.08.002 
+PMID: 27688101  [Indexed for MEDLINE]

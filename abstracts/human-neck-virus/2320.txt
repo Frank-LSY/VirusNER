@@ -1,0 +1,40 @@
+
+
+2320. Int J Clin Oncol. 2009 Jun;14(3):181-90. doi: 10.1007/s10147-009-0882-7. Epub
+2009 Jul 11.
+
+Nasal natural killer (NK)/T-cell lymphoma: clinical, histological, virological,
+and genetic features.
+
+Harabuchi Y(1), Takahara M, Kishibe K, Moriai S, Nagato T, Ishii H.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Asahikawa Medical College,
+2-1-1-1 Midorigaoka-Higashi, Asahikawa, 078-8510, Japan.
+hyasu@asahikawa-med.ac.jp
+
+Nasal natural killer (NK)/T-cell lymphoma (NNKTL) is a clinical illness
+characterized by progressive unrelenting ulceration and necrosis of the nasal
+cavity and midline facial tissues. Histological features of the lymphoma include 
+angiocentric and polymorphous lymphoreticular infiltrates, called polymorphic
+reticulosis. Surface antigens and the NK-cell marker, CD56, as well as pan-T
+antigen CD2, cytoplasmic CD3 (CD3epsilon), and CD45 are expressed in the lymphoma
+cells. The origin of the lymphoma is thought to be either NK-cell linkage without
+T-cell receptor (TCR) rearrangement or gammadeltaT-cell linkage with
+gammadeltaTCR rearrangement. Since the authors of this study first demonstrated
+the presence of Epstein Barr virus (EBV)-DNA and EBV oncogenic proteins in NNKTL,
+the lymphoma has been classified as one of the EBV-associated malignancies. The
+NNKTL cells produce interleukin (IL)-9, IL-10, and interferon-gamma-inducible
+protein-10 (IP-10), possibly due to EBV-oncogenic proteins in the lymphoma cells,
+and such cytokines take an important part in the cell proliferation and invasion,
+acting in an autocrine manner. Clinically, the serum EBV-DNA copy number is
+useful as a specific tumor marker and a predictive prognostic factor. Even in
+early clinical stages, the lymphoma shows poor prognosis caused by the rapid
+progression of the lesion into distinct organs. Our newly designed arterial
+infusion chemotherapy, from the superficial temporal artery, in combination with 
+radiotherapy, has shown a favorable outcome in patients with NNKTL. In this
+article, the clinical, pathological, and virological characteristics of the
+lymphoma are reviewed, along with a report of our investigations.
+
+DOI: 10.1007/s10147-009-0882-7 
+PMID: 19593607  [Indexed for MEDLINE]

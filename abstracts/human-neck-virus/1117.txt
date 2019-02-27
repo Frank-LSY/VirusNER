@@ -1,0 +1,47 @@
+
+
+1117. Radiother Oncol. 2015 Jul;116(1):75-81. doi: 10.1016/j.radonc.2015.06.006. Epub
+2015 Jun 17.
+
+Impact of retropharyngeal adenopathy on distant control and survival in
+HPV-related oropharyngeal cancer treated with chemoradiotherapy.
+
+Samuels SE(1), Vainshtein J(1), Spector ME(2), Ibrahim M(3), McHugh JB(4), Tao
+Y(5), Schipper M(1), Worden F(6), Eisbruch A(7).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Michigan, United States.
+(2)Department of Otorhinolaryngology-Head Neck Surgery, University of Michigan,
+United States.
+(3)Department of Radiology, University of Michigan, United States.
+(4)Department of Pathology, University of Michigan, United States.
+(5)Department of Biostatistics, University of Michigan, United States.
+(6)Department of Medicine - Medical Oncology Division, University of Michigan,
+United States.
+(7)Department of Radiation Oncology, University of Michigan, United States.
+Electronic address: Eisbruch@umich.edu.
+
+PURPOSE: Retropharyngeal adenopathy (RPA) is poor prognostic factor in head and
+neck (HN) cancer. However, the prognostic significance of RPA in Human
+Papillomavirus-related (HPV+) oropharyngeal cancer (OPC) is unknown.
+PATIENTS AND METHODS: 185 patients with HPV+OPC were assessed. Pre-therapy images
+reviewed by a HN radiologist to determine presence of RPA. Doses to the RPAs were
+determined from treatment plans. Outcomes analyzed using Kaplan-Meier method,
+log-rank tests, and correlations determined using Spearman's rank analyses.
+RESULTS: 29 (16%) of the HPV+patients had RPA. At median follow-up 49months,
+5-year overall survival (OS), failure-free survival (FFS) and distant
+failure-free survival (DFFS) were 57% vs. 81% (P=0.02), 63% vs 80% (P=0.015) and 
+70% vs 91% (P=0.002) for patients with/without RPA, respectively. No differences 
+observed in local/ regional control rates, exceeding 90% in both groups, and No
+RPA recurrences were observed. In multivariable analysis, stages T4 or N3, and
+RPA, were independently, statistically significantly associated with both OS and 
+distant failure, while N2c, age, disease site, and smoking status, were not.
+CONCLUSION: RPA in HPV+OPC is an independent prognostic factor for distant
+failure, translating into worse OS. Patients with RPA may not be suitable
+candidates for trials of systemic treatment de-escalation.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2015.06.006 
+PMCID: PMC4536105
+PMID: 26094074  [Indexed for MEDLINE]

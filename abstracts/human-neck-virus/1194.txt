@@ -1,0 +1,44 @@
+
+
+1194. Int J Cancer. 2013 Sep 15;133(6):1389-99. doi: 10.1002/ijc.28142. Epub 2013 Mar
+29.
+
+Identification of oropharyngeal squamous cell carcinomas with active HPV16
+involvement by immunohistochemical analysis of the retinoblastoma protein
+pathway.
+
+Holzinger D(1), Flechtenmacher C, Henfling N, Kaden I, Grabe N, Lahrmann B,
+Schmitt M, Hess J, Pawlita M, Bosch FX.
+
+Author information: 
+(1)Department of Otolaryngology, Experimental Head and Neck Oncology, Head and
+Neck Surgery, Heidelberg University, Germany. d.holzinger@dkfz.de
+
+Viral oncogene RNA expression is regarded as reliable biomarker to identify
+oropharyngeal squamous cell carcinomas (OPSCC) with active HPV16 involvement.
+This study addressed whether the expression profile of the cellular proteins
+p16(INK4a), pRb, Cyclin D1 and p53 provide surrogate marker combinations that
+identify OPSCC with active HPV16 in situations where only formalin-fixed biopsies
+are available. Protein expression was analyzed by immunohistochemistry on tissue 
+microarrays created from 188 OPSCC of which the HPV16 DNA and RNA status had been
+established previously from snap-frozen biopsies. Associations of single markers 
+and of marker combinations with HPV16 DNA, viral RNA expression patterns and
+overall survival as primary end point were evaluated by statistical analysis.
+Most tumors with active HPV16 involvement (RNA(+) group; n = 40) showed a
+specific protein pattern, that is, high p16(INK4a) (80%), low pRb (85%), low
+Cyclin D1 (95%) and normal p53 (73%). This pattern was significantly different
+from the pattern observed in HPV DNA-negative tumors (HPV(-) group) and in HPV16 
+DNA-positive tumors lacking viral RNA expression patterns (RNA(-) group). The
+combination of high p16(INK4a) and low pRb levels was distinctly superior to
+p16(INK4a) alone; it was strongly associated with RNA(+) tumors (OR 41.4, 95%CI
+10.7-162.5), with improved survival (HR 0.37, 95%CI 0.2-0.8) and had best
+predictive values (78% sensitivity, 93% specificity, 78% PPV, 93% NPV). In
+conclusion, if only formalin-fixed biopsy material is available, the marker
+combination high p16(INK4a) /low pRb is well suited to identify OPSCC with
+biologically active HPV16 which represent a distinct OPSCC entity with improved
+prognosis.
+
+Copyright © 2013 UICC.
+
+DOI: 10.1002/ijc.28142 
+PMID: 23457055  [Indexed for MEDLINE]

@@ -1,0 +1,84 @@
+
+
+2234. J Exp Clin Cancer Res. 2018 Sep 20;37(1):233. doi: 10.1186/s13046-018-0873-5.
+
+Integrated genomic analyses in PDX model reveal a cyclin-dependent kinase
+inhibitor Palbociclib as a novel candidate drug for nasopharyngeal carcinoma.
+
+Hsu CL(1), Lui KW(2), Chi LM(3), Kuo YC(1), Chao YK(4), Yeh CN(5), Lee LY(6),
+Huang Y(6), Lin TL(1), Huang MY(7), Lai YR(7), Yeh YM(8), Fan HC(1), Lin AC(1),
+Lu YJ(9), Hsieh CH(1), Chang KP(10), Tsang NM(11), Wang HM(1), Chang AY(12),
+Chang YS(7)(8)(10), Li HP(13)(14)(15).
+
+Author information: 
+(1)Division of Hematology-Oncology, Department of Internal Medicine, Chang Gung
+Memorial Hospital, Chang Gung University, No.5, Fuxing St., Guishan Dist, Taoyuan
+City, 333, Lin-Kou, Taiwan, Republic of China.
+(2)Department of Medical Imaging and Intervention, Chang Gung Memorial Hospital, 
+Chang Gung University, No.5, Fuxing St., Guishan Dist, Taoyuan City, 333,
+Lin-Kou, Taiwan, Republic of China.
+(3)Clinical Proteomics Core Laboratory, Chang Gung Memorial Hospital, No.5,
+Fuxing St., Guishan Dist, Taoyuan City, 333, Lin-Kou, Taiwan, Republic of China.
+(4)Division of Thoracic and Cardiovascular Surgery, Department of Surgery, Chang 
+Gung Memorial Hospital, No.5, Fuxing St., Guishan Dist, Taoyuan City, 333,
+Lin-Kou, Taiwan, Republic of China.
+(5)Department of General Surgery, Liver Research Center, Chang Gung Memorial
+Hospital, Chang Gung University, No.5, Fuxing St., Guishan Dist, Taoyuan City,
+333, Lin-Kou, Taiwan, Republic of China.
+(6)Department of Pathology, Chang Gung Memorial Hospital, Chang Gung University, 
+No.5, Fuxing St., Guishan Dist, Taoyuan City, 333, Lin-Kou, Taiwan, Republic of
+China.
+(7)Department of Microbiology and Immunology, Molecular Medicine Research Center,
+Chang Gung University, No.259, Wenhua 1st Rd., Guishan Dist., Lin-Kou, Taoyuan,
+333, Taiwan, Republic of China.
+(8)Molecular Medicine Research Center, Chang Gung University, No.259, Wenhua 1st 
+Rd., Guishan Dist, Taoyuan City, 333, Taiwan, Republic of China.
+(9)ACT Genomics, Co. Ltd., 1F., No.280, Xinhu 2nd Rd., Neihu Dist, Taipei City,
+114, Taiwan, Republic of China.
+(10)Department of Otolaryngology-Head and Neck Surgery, Chang Gung Memorial
+Hospital, Chang Gung University, No.5, Fuxing St., Guishan Dist, Taoyuan City,
+333, Lin-Kou, Taiwan, Republic of China.
+(11)Department of Radiation, Chang Gung Memorial Hospital, Chang Gung University,
+No.5, Fuxing St., Guishan Dist, Taoyuan City, 333, Lin-Kou, Taiwan, Republic of
+China.
+(12)Johns Hopkins Singapore International Medical Centre, 11 Jalan Tan Tock Seng,
+Singapore City, 308433, Singapore.
+(13)Division of Hematology-Oncology, Department of Internal Medicine, Chang Gung 
+Memorial Hospital, Chang Gung University, No.5, Fuxing St., Guishan Dist, Taoyuan
+City, 333, Lin-Kou, Taiwan, Republic of China. paili@mail.cgu.edu.tw.
+(14)Department of Microbiology and Immunology, Molecular Medicine Research
+Center, Chang Gung University, No.259, Wenhua 1st Rd., Guishan Dist., Lin-Kou,
+Taoyuan, 333, Taiwan, Republic of China. paili@mail.cgu.edu.tw.
+(15)Molecular Medicine Research Center, Chang Gung University, No.259, Wenhua 1st
+Rd., Guishan Dist, Taoyuan City, 333, Taiwan, Republic of China.
+paili@mail.cgu.edu.tw.
+
+BACKGROUND: Patient-derived xenograft (PDX) tumor model has become a new approach
+in identifying druggable tumor mutations, screening and evaluating personalized
+cancer drugs based on the mutated targets.
+METHODS: We established five nasopharyngeal carcinoma (NPC) PDXs in mouse model. 
+Subsequently, whole-exome sequencing (WES) and genomic mutation analyses were
+performed to search for genetic alterations for new drug targets. Potential drugs
+were applied in two NPC PDX mice model to assess their anti-cancer activities.
+RNA sequencing and transcriptomic analysis were performed in one NPC PDX mice to 
+correlate with the efficacy of the anti-cancer drugs.
+RESULTS: A relative high incident rate of copy number variations (CNVs) of cell
+cycle-associated genes. Among the five NPC-PDXs, three had cyclin D1 (CCND1)
+amplification while four had cyclin-dependent kinase inhibitor CDKN2A deletion.
+Furthermore, CCND1 overexpression was observed in > 90% FFPE clinical metastatic 
+NPC tumors (87/91) and was associated with poor outcomes. CNV analysis disclosed 
+that plasma CCND1/CDKN2A ratio is correlated with EBV DNA load in NPC patients'
+plasma and could serve as a screening test to select potential CDK4/6 inhibitor
+treatment candidates. Based on our NPC PDX model and RNA sequencing, Palbociclib,
+a cyclin-dependent kinase inhibitor, proved to have anti-tumor effects by
+inducing G1 arrest. One NPC patient with liver metastatic was treated with
+Palbociclib, had stable disease response and a drop in Epstein Barr virus (EBV)
+EBV titer.
+CONCLUSIONS: Our integrated information of sequencing-based genomic studies and
+tumor transcriptomes with drug treatment in NPC-PDX models provided guidelines
+for personalized precision treatments and revealed a cyclin-dependent kinase
+inhibitor Palbociclib as a novel candidate drug for NPC.
+
+DOI: 10.1186/s13046-018-0873-5 
+PMCID: PMC6149192
+PMID: 30236142  [Indexed for MEDLINE]

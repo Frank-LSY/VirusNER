@@ -1,0 +1,45 @@
+
+
+2843. J Acquir Immune Defic Syndr. 2016 Oct 1;73(2):190-6. doi:
+10.1097/QAI.0000000000001033.
+
+Non-AIDS-Defining Cancer Mortality: Emerging Patterns in the Late HAART Era.
+
+Zucchetto A(1), Virdone S, Taborelli M, Grande E, Camoni L, Pappagallo M, Regine 
+V, Grippo F, Polesel J, Dal Maso L, Suligoi B, Frova L, Serraino D.
+
+Author information: 
+(1)*Unit of Epidemiology and Biostatistics, CRO Aviano National Cancer Institute,
+Aviano, Italy; †Servizio Sanità, Salute ed Assistenza, Istituto Nazionale di
+Statistica, Rome, Italy; and ‡Centro Operativo AIDS, Istituto Superiore di
+Sanità, Rome, Italy.
+
+BACKGROUND: Non-AIDS-defining cancers (non-ADCs) have become the leading
+non-AIDS-related cause of death among people with HIV/AIDS. We aimed to quantify 
+the excess risk of cancer-related deaths among Italian people with AIDS (PWA), as
+compared with people without AIDS (non-PWA).
+METHODS: A nationwide, population-based, retrospective cohort study was carried
+out among 5285 Italian PWA, aged 15-74 years, diagnosed between 2006 and 2011.
+Date of death and multiple-cause-of-death data were retrieved up to December
+2011. Excess mortality, as compared with non-PWA, was estimated using sex- and
+age-standardized mortality ratios (SMRs) and the corresponding 95% confidence
+intervals (CIs).
+RESULTS: Among 1229 deceased PWA, 10.3% reported non-ADCs in the death
+certificate, including lung (3.1%), and liver (1.4%), cancers. A 7.3-fold (95%
+CI: 6.1 to 8.7) excess mortality was observed for all non-ADCs combined.
+Statistically significant SMRs emerged for specific non-ADCs, ie, anus (5 deaths,
+SMR = 227.6, 95% CI: 73.9 to 531.0), Hodgkin lymphoma (12 deaths, SMR = 122.0,
+95% CI: 63.0 to 213.0), unspecified uterus (4 deaths, SMR = 52.5, 95% CI: 14.3 to
+134.5), liver (17 deaths, SMR = 13.2, 95% CI: 7.7 to 21.1), skin melanoma (4
+deaths, SMR = 10.9, 95% CI: 3.0 to 27.8), lung (38 deaths, SMR = 8.0, 95% CI: 5.7
+to 11.0), head and neck (9 deaths, SMR = 7.8, 95% CI: 3.6 to 14.9), leukemia (5
+deaths, SMR = 7.6, 95% CI: 2.4 to 17.7), and colon-rectum (10 deaths, SMR = 5.4, 
+95% CI: 2.6 to 10.0). SMRs for non-ADCs were particularly elevated among PWA
+infected through injecting drug use.
+CONCLUSION: This population-based study documented extremely elevated risks of
+death for non-ADCs among PWA. These findings stress the need of preventive
+interventions for both virus-related and non-virus-related cancers among
+HIV-infected individuals.
+
+DOI: 10.1097/QAI.0000000000001033 
+PMID: 27116048  [Indexed for MEDLINE]

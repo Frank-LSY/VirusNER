@@ -1,0 +1,51 @@
+
+
+2671. Eur Arch Otorhinolaryngol. 2017 Aug;274(8):3211-3219. doi:
+10.1007/s00405-017-4615-7. Epub 2017 May 29.
+
+Survival analysis of 287 oropharyngeal squamous cell carcinoma patients in a
+single institution: a retrospective comparison of two consecutive time intervals 
+with surgical and conservative treatment approaches.
+
+Münscher A(1), Bussmann L(1), Sehner S(2), Knaack S(1), Gliese A(1), Tribius
+S(3), Clauditz T(4), Lörincz BB(5)(6).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Oncology of the
+University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20246, Hamburg,
+Germany.
+(2)Department of Medical Biometry and Epidemiology of the University Medical
+Center Hamburg-Eppendorf, Martinistr. 52, 20246, Hamburg, Germany.
+(3)Hermann-Holthusen Institute for Radiotherapy of the Asklepios St. Georg
+Hospital affiliated to the Semmelweis University Budapest, Lohmühlenstr. 5,
+20099, Hamburg, Germany.
+(4)Department of Pathology of the University Medical Center Hamburg-Eppendorf,
+Martinistr. 52, 20246, Hamburg, Germany.
+(5)Department of Otorhinolaryngology, Head and Neck Surgery and Oncology of the
+University Medical Center Hamburg-Eppendorf, Martinistr. 52, 20246, Hamburg,
+Germany. b.loerincz@asklepios.com.
+(6)Department of Otorhinolaryngology, Head and Neck Surgery, Asklepios Altona
+Hospital affiliated to the Semmelweis University Budapest, Paul-Ehrlich Str. 1,
+22763, Hamburg, Germany. b.loerincz@asklepios.com.
+
+This study is a retrospective analysis of clinico-pathological data to
+investigate survival rates of patients with oropharyngeal squamous cell carcinoma
+(OPSCC) treated with different modalities in a single academic head and neck
+cancer center in different time intervals. Altogether, 287 patients with OPSCC
+were included in this comparison. Patients were analysed during two different
+treatment periods: Group 1 included patients treated mainly with primary
+surgery ± adjuvant radio(chemo)therapy between 2002 and 2007, while Group 2
+included patients treated with organ/function-preservation protocols if
+indicated. Main outcome measures were overall survival (OS) and recurrence-free
+survival (RFS). Between 2002 and 2007, early-stage OPSCC showed a 5-year OS of
+75% compared to that of 86% between 2008 and 2013. Locally advanced OPSCC showed 
+a 5-year OS of 66% between 2002 and 2007 compared to that of 74% between 2008 and
+2013. RFS in early-stage OPSCC was 48% between 2002 and 2007 in contrast to that 
+of 77% between 2008 and 2013. With locally advanced OPSCC, RFS was 55% between
+2002 and 2007 compared to that of 56% between 2008 and 2013. These differences
+were statistically not significant. The OS and RFS remained generally unchanged
+over the analysed time period. There was no significant difference in the
+outcomes with regards to HPV status and to their treatment modality.
+
+DOI: 10.1007/s00405-017-4615-7 
+PMID: 28555274  [Indexed for MEDLINE]

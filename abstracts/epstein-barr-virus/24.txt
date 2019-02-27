@@ -1,0 +1,40 @@
+
+
+24. J Med Virol. 2017 Mar;89(3):373-387. doi: 10.1002/jmv.24633. Epub 2016 Dec 5.
+
+Epstein-Barr virus strains and variations: Geographic or disease-specific
+variants?
+
+Neves M(1)(2), Marinho-Dias J(1)(3)(4), Ribeiro J(1)(2)(3), Sousa H(1)(3).
+
+Author information: 
+(1)Molecular Oncology and Viral Pathology Group, Research Centre (CI-IPOP),
+Porto, Portugal.
+(2)Faculty of Medicine of University of Porto (FMUP), Porto, Portugal.
+(3)Virology Service, Portuguese Oncology Institute of Porto, Porto, Portugal.
+(4)Abel Salazar Institute for the Biomedical Sciences of University of Porto
+(ICBAS-UP), Porto, Portugal.
+
+The Epstein-Barr Virus (EBV) is associated with the development of several
+diseases, including infectious mononucleosis (IM), Burkitt's Lymphoma (BL),
+Nasopharyngeal Carcinoma, and other neoplasias. The publication of EBV genome
+1984 led to several studies regarding the identification of different viral
+strains. Currently, EBV is divided into EBV type 1 (B95-8 strain) and EBV type 2 
+(AG876 strain), also known as type A and type B, which have been distinguished
+based upon genetic differences in the Epstein-Barr nuclear antigens (EBNAs)
+sequence. Several other EBV strains have been described in the past 10 years
+considering variations on EBV genome, and many have attempted to clarify if these
+variations are ethnic or geographically correlated, or if they are disease
+related. Indeed, there is an increasing interest to describe possible specific
+disease associations, with emphasis on different malignancies. These studies aim 
+to clarify if these variations are ethnic or geographically correlated, or if
+they are disease related, thus being important to characterize the epidemiologic 
+genetic distribution of EBV strains on our population. Here, we review the
+current knowledge on the different EBV strains and variants and its association
+with different diseases. J. Med. Virol. 89:373-387, 2017. © 2016 Wiley
+Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24633 
+PMID: 27430663  [Indexed for MEDLINE]

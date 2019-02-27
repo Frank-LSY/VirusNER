@@ -1,0 +1,43 @@
+
+
+506. Clin Cancer Res. 2016 Mar 1;22(5):1048-54. doi: 10.1158/1078-0432.CCR-15-2667.
+Epub 2015 Dec 30.
+
+Molecular Pathways: Mechanism of Action for Talimogene Laherparepvec, a New
+Oncolytic Virus Immunotherapy.
+
+Kohlhapp FJ(1), Kaufman HL(2).
+
+Author information: 
+(1)Division of Surgical Oncology, Rutgers Cancer Institute of New Jersey, New
+Brunswick, New Jersey.
+(2)Division of Surgical Oncology, Rutgers Cancer Institute of New Jersey, New
+Brunswick, New Jersey. hk553@cinj.rutgers.edu.
+
+Oncolytic viruses are native or engineered viruses that preferentially replicate 
+in and lyse cancer cells. Selective tumor cell replication is thought to depend
+on infection of neoplastic cells, which harbor low levels of protein kinase R
+(PKR) and dysfunctional type I IFN signaling elements. These changes allow more
+efficient viral replication, and with selected deletion of specific viral genes, 
+replication in normal cells with activated PKR may not be possible. Direct tumor 
+cell lysis, release of soluble tumor antigens, and danger-associated molecular
+factors are all thought to help prime and promote tumor-specific immunity.
+Talimogene laherparepvec (T-VEC) is a genetically modified herpes simplex virus, 
+type I and is the first oncolytic virus to demonstrate a clinical benefit in
+patients with melanoma. T-VEC has also been evaluated for the treatment of head
+and neck cancer, pancreatic cancer, and likely other types of cancer will be
+targeted in the near future. T-VEC has been modified for improved safety,
+tumor-selective replication, and induction of host immunity by deletion of
+several viral genes and expression of human granulocyte-macrophage colony
+stimulating factor. Although the mechanism of action for T-VEC is incompletely
+understood, the safety profile of T-VEC and ability to promote immune responses
+suggest future combination studies with other immunotherapy approaches including 
+checkpoint blockade through PD-1, PD-L1, and CTLA-4 to be a high priority for
+clinical development. Oncolytic viruses also represent unique regulatory and
+biosafety challenges but offer a potential new class of agents for the treatment 
+of cancer.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-15-2667 
+PMID: 26719429  [Indexed for MEDLINE]

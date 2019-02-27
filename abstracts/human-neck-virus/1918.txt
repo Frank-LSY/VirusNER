@@ -1,0 +1,29 @@
+
+
+1918. Expert Rev Mol Diagn. 2016;16(2):205-21. doi: 10.1586/14737159.2016.1126512. Epub
+2016 Jan 4.
+
+Applications of molecular diagnostics for personalized treatment of head and neck
+cancer: state of the art.
+
+Mes SW(1), Leemans CR(1), Brakenhoff RH(1).
+
+Author information: 
+(1)a Department of Otolaryngology-Head and Neck Surgery , VU University Medical
+Center , Amsterdam , The Netherlands.
+
+Squamous cell carcinomas of the head and neck are the sixth most frequent tumors 
+worldwide. Risk factors are carcinogenic exposure, infection with the human
+papillomavirus (HPV) and genetic predisposition. Lymph node metastasis in the
+neck and HPV status are major prognostic factors. There are several important
+clinical challenges that determine the research agenda in head and neck cancer.
+The first is more accurate staging, particularly of occult metastatic lymph nodes
+in the neck. A second challenge is the lack of biomarkers for personalized
+therapy. There are a number of treatment modalities that can be employed both
+single and in combination, but at present only site and stage of the tumor are
+used for treatment planning. Provided here is an overview of the successes and
+failures of molecular diagnostic approaches that have been and are being
+evaluated to address these clinical challenges.
+
+DOI: 10.1586/14737159.2016.1126512 
+PMID: 26620464  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+1271. Anticancer Res. 2017 Jun;37(6):2845-2852.
+
+Impact of Small Molecules on β-Catenin and E-Cadherin Expression in
+HPV16-positive and -negative Squamous Cell Carcinomas.
+
+Kramer B(1), Hock C(2), Schultz JD(3), Lammert A(2), Kuhlin B(2), Birk R(2),
+Hörmann K(2), Aderhold C(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Medical Faculty Mannheim, University Heidelberg, Mannheim, Germany
+benedikt.kramer@umm.de.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Medical Faculty Mannheim, University Heidelberg, Mannheim, Germany.
+(3)Department of Otorhinolaryngology Head and Neck Surgery, Facial Plastic
+Surgery, Hospital of Karlsruhe, Karlsruhe, Germany.
+
+BACKGROUND: The validation of potential molecular targets in head and neck
+squamous cell carcinoma (SCC) is mandatory. β-Catenin and E-cadherin are crucial 
+for cancer progression through epithelial-mesenchymal transition. We analyzed the
+effect of the tyrosine kinase inhibitors nilotinib, dasatinib, erlotinib and
+gefitinib on β-catenin and E-cadherin expression in SCC with respect to human
+papillomavirus (HPV) status.
+MATERIALS AND METHODS: Expression of β-catenin and E-cadherin in cell lines UMSCC
+11A, UMSCC 14C and CERV196 under the influence of tyrosine kinase inhibitors were
+analyzed by enzyme-linked immunosorbent assay.
+RESULTS: All agents reduced β-catenin and E-cadherin expression of HPV16-negative
+cells. Increased E-cadherin expression was observed after treatment with
+gefitinib and dasatinib in HPV16-positive cells.
+CONCLUSION: All substances, nilotinib, dasatinib, erlotinib and gefitinib have a 
+significant impact on β-catenin and E-cadherin expression in both HPV16-positive 
+and HPV16-negative cells in vitro. Alterations of β-catenin and E-cadherin could 
+provide novel insights for future targeted therapies of head and neck SCC.
+
+Copyright© 2017, International Institute of Anticancer Research (Dr. George J.
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.11636 
+PMID: 28551620  [Indexed for MEDLINE]

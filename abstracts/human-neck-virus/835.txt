@@ -1,0 +1,57 @@
+
+
+835. J Virol. 2014 Aug;88(15):8545-55. doi: 10.1128/JVI.00379-14. Epub 2014 May 21.
+
+E1-mediated recruitment of a UAF1-USP deubiquitinase complex facilitates human
+papillomavirus DNA replication.
+
+Lehoux M(1), Gagnon D(1), Archambault J(2).
+
+Author information: 
+(1)Institut de Recherches Cliniques de Montréal (IRCM), Montreal, Quebec, Canada,
+and Department of Biochemistry and Molecular Medicine, Université de Montréal,
+Montreal, Quebec, Canada.
+(2)Institut de Recherches Cliniques de Montréal (IRCM), Montreal, Quebec, Canada,
+and Department of Biochemistry and Molecular Medicine, Université de Montréal,
+Montreal, Quebec, Canada jacques.archambault@ircm.qc.ca.
+
+The human papillomavirus (HPV) E1 helicase promotes viral DNA replication through
+its DNA unwinding activity and association with host factors. The E1 proteins
+from anogenital HPV types interact with the cellular WD repeat-containing factor 
+UAF1 (formerly known as p80). Specific amino acid substitutions in E1 that impair
+this interaction inhibit maintenance of the viral episome in immortalized
+keratinocytes and reduce viral DNA replication by up to 70% in transient assays. 
+In this study, we determined by affinity purification of UAF1 that it interacts
+with three deubiquitinating enzymes in C33A cervical carcinoma cells: USP1, a
+nuclear protein, and the two cytoplasmic enzymes USP12 and USP46.
+Coimmunoprecipitation experiments indicated that E1 assembles into a ternary
+complex with UAF1 and any one of these three USPs. Moreover, expression of E1
+leads to a redistribution of USP12 and USP46 from the cytoplasm to the nucleus.
+Chromatin immunoprecipitation studies further revealed that E1 recruits these
+threes USPs to the viral origin in association with UAF1. The function of USP1,
+USP12, and USP46 in viral DNA replication was investigated by overproduction of
+catalytically inactive versions of these enzymes in transient assays. All three
+dominant negative USPs reduced HPV31 DNA replication by up to 60%, an effect that
+was specific, as it was not observed in assays performed with a truncated E1
+lacking the UAF1-binding domain or with bovine papillomavirus 1 E1, which does
+not bind UAF1. These results highlight the importance of the USP1, USP12, and
+USP46 deubiquitinating enzymes in anogenital HPV DNA replication.IMPORTANCE:
+Human papillomaviruses are small DNA tumor viruses that induce benign and
+malignant lesions of the skin and mucosa. HPV types that infect the anogenital
+tract are the etiological agents of cervical cancer, the majority of anal
+cancers, and a growing proportion of head-and-neck cancers. Replication of the
+HPV genome requires the viral protein E1, a DNA helicase that also interacts with
+host factors to promote viral DNA synthesis. We previously reported that the E1
+helicase from anogenital HPV types associates with the WD40 repeat-containing
+protein UAF1. Here, we show that UAF1 bridges the interaction of E1 with three
+deubiquitinating enzymes, USP1, USP12, and USP46. We further show that these
+deubiquitinases are recruited by E1/UAF1 to the viral origin of DNA replication
+and that overexpression of catalytically inactive versions of these enzymes
+reduces viral DNA replication. These results highlight the need for an
+E1-associated deubiquitinase activity in anogenital HPV genome replication.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00379-14 
+PMCID: PMC4135941
+PMID: 24850727  [Indexed for MEDLINE]

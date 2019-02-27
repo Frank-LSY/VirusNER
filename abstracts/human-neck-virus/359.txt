@@ -1,0 +1,38 @@
+
+
+359. Biochem Biophys Res Commun. 2013 Jun 7;435(3):339-44. doi:
+10.1016/j.bbrc.2013.04.060. Epub 2013 Apr 27.
+
+A novel function of HPV16-E6/E7 in epithelial-mesenchymal transition.
+
+Jung YS(1), Kato I, Kim HR.
+
+Author information: 
+(1)Department of Pathology, Karmanos Cancer Institute, Wayne State University
+School of Medicine, Detroit, MI, USA.
+
+Human papillomavirus (HPV) 16 is among the most important etiological factors in 
+many human cancers, including head and neck squamous cell carcinomas (HNSCCs) not
+associated with alcohol or tobacco use. HPV16-E6 and E7 oncoproteins target
+intracellular signaling networks, altering key molecular and cellular events
+during tumor progression. The present study investigates the role of HPV16-E6 and
+E7 oncogenes on the epithelial-mesenchymal transition (EMT), a cellular process
+thought to be critical for tumor cell invasion and metastasis. Using the
+epithelial MDCK cell line as an in vitro model, we show that the stable
+expression of HPV16-E6 or E7 induces morphological conversion from
+cobblestone-shaped epithelium to spindle-shaped mesenchyme-like phenotype.
+Consistent with these morphological changes, both E6 and E7 induce expression of 
+the EMT-activating transcriptional factors Slug, Twist, ZEB1 and ZEB2, especially
+ZEBs, accompanied with switch from epithelial to mesenchymal markers.
+Importantly, E6 and E7 expression results in induction of the migratory and
+invasive potential, a functional hallmark of EMT. When we examined the
+association between HPV16 and the EMT signature in HNSCC cell lines derived from 
+head and neck cancer patients, we found a correlation between HPV16 positivity
+and the expression of EMT transcription factor ZEB1. Taken together, our findings
+suggest HPV16 induces EMT-like processes via induction of the EMT transcription
+factors which may contribute to tumor progression and metastasis.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2013.04.060 
+PMID: 23628416  [Indexed for MEDLINE]

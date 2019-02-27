@@ -1,0 +1,37 @@
+
+
+1441. Curr Med Res Opin. 2009 Nov;25(11):2609-19. doi: 10.1185/03007990903238786.
+
+Development and psychometric properties of the HPV Impact Profile (HIP) to assess
+the psychosocial burden of HPV.
+
+Mast TC(1), Zhu X, Demuro-Mercon C, Cummings HW, Sings HL, Ferris DG.
+
+Author information: 
+(1)Merck Research Laboratories, West Point, PA, USA. christopher_mast@merck.com
+
+OBJECTIVE: A comprehensive questionnaire designed to assess the full spectrum of 
+potential human papillomavirus (HPV)-related psychosocial effects in women does
+not exist. The HPV Impact Profile (HIP) was developed to determine the
+psychosocial impact of HPV infection and related interventions.
+RESEARCH DESIGN AND METHODS: Draft instrument items and domains were developed
+using a literature review and cognitive debriefing interviews with women who had 
+experienced HPV-related conditions. An importance rating questionnaire guided
+item ranking and reduction. A draft questionnaire was pilot-tested for
+comprehension and ease of completion. Psychometric evaluation of the final HIP
+was conducted in a survey of 583 women. Data quality, item acceptability, scale
+acceptability, reliability, and discriminate construct validity were assessed.
+OUTCOME MEASURE: The final HIP contained 29 items rated on a 0-10 point
+discretized visual analog scales grouped into seven hypothesized domains.
+RESULTS: Total HIP scores ranged from 0 (no impact) to 100 (worst impact). Data
+quality was high, with missing data for items ranging from 0 to 0.7% and over 99%
+of the scores were computable. Cronbach's alpha ranged from 0.64 to 0.90 and was 
+> or =0.7 for 5/7 domains. Discriminant construct validity was demonstrated.
+Appropriate modifications could potentially be made to improve some aspects of
+the HIP, including modification to include other HPV diseases such as head and
+neck, anal, and vulvovaginal cancers and HPV disease in men.
+CONCLUSIONS: The disease-specific HIP has favorable reliability and construct
+validity and a good ability to discriminate among disease severity.
+
+DOI: 10.1185/03007990903238786 
+PMID: 19739938  [Indexed for MEDLINE]

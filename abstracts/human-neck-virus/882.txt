@@ -1,0 +1,43 @@
+
+
+882. Head Neck. 2016 Apr;38 Suppl 1:E274-8. doi: 10.1002/hed.23985. Epub 2015 Jun 24.
+
+Trends in human papillomavirus-related oropharyngeal cancer in Israel.
+
+Amit M(1), Ilana K(2), Avraham SP(3), Binenbaum Y(1), Bachar G(4), Billan S(5),
+Zaarura S(6), Czerninski R(7), Bar-Tov M(7), Maly A(7), Akrish S(8), Gil Z(1).
+
+Author information: 
+(1)Department of Otolaryngology, Rambam Medical Center, The Technion, Israel
+Institute of Technology, Haifa, Israel.
+(2)Department of Pathology, Tel Aviv Medical Center, Tel Aviv, Israel.
+(3)Department of Oncology, Tel Aviv Medical Center, Tel Aviv, Israel.
+(4)Department of Otolaryngology Head and Neck Surgery, Rabin Medical Center,
+Israel.
+(5)Oncological Institute, Rambam Medical Center, Haifa, Israel.
+(6)Department of Otolaryngology, The French Hospital, Israel.
+(7)Department of Oral Medicine, The Hebrew University-Hadassah School of Dental
+Medicine, Israel.
+(8)Department Pathology, The Technion, Israel Institute of Technology, Haifa,
+Israel.
+
+BACKGROUND: The role of human papillomavirus (HPV) infection in oropharyngeal
+cancer (SCC) is well established. The annual incidence of oropharyngeal SCC in
+Israel is considerably lower than that in the United States. The purpose of this 
+study was to assess the rate of HPV-related oropharyngeal SCC in Israel.
+METHODS: The cohort included patients with oropharyngeal SCC who were treated
+during 1999 to 2011 in Israel. HPV typing was carried out using reverse
+hybridization and immunohistochemistry.
+RESULTS: Of the 74 patients analyzed, 25 (33.7%) had detectable HPV DNA. Patients
+in the HPV-positive group tended to be younger, with a higher rate of nodal
+metastases, and no history of smoking (p < .02).
+CONCLUSION: This study demonstrated a rate of HPV-related oropharyngeal SCC in
+Israel as approximately 3-fold lower than in Western countries. Low exposure to
+HPV-16, a lower rate of transformation, to cancer or protective genetic factors
+may contribute to the lower rate of oropharyngeal SCC in Israel. © 2015 Wiley
+Periodicals, Inc. Head Neck 38: E274-E278, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23985 
+PMID: 25545260  [Indexed for MEDLINE]

@@ -1,0 +1,57 @@
+
+
+1153. Oral Oncol. 2014 Mar;50(3):234-9. doi: 10.1016/j.oraloncology.2013.12.003. Epub
+2013 Dec 31.
+
+Reliability of post-chemoradiotherapy F-18-FDG PET/CT for prediction of
+locoregional failure in human papillomavirus-associated oropharyngeal cancer.
+
+Vainshtein JM(1), Spector ME(2), Stenmark MH(3), Bradford CR(2), Wolf GT(2),
+Worden FP(4), Chepeha DB(2), McHugh JB(5), Carey T(2), Wong KK(6), Eisbruch A(3).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Michigan, Ann Arbor, MI,
+United States. Electronic address: jvainsh@med.umich.edu.
+(2)Department of Otolaryngology - Head and Neck Surgery, University of Michigan, 
+Ann Arbor, MI, United States.
+(3)Department of Radiation Oncology, University of Michigan, Ann Arbor, MI,
+United States.
+(4)Division of Hematology Oncology, Department of Internal Medicine, University
+of Michigan, Ann Arbor, MI, United States.
+(5)Department of Pathology, University of Michigan, Ann Arbor, MI, United States.
+(6)Division of Nuclear Medicine, Department of Radiology, University of Michigan,
+Ann Arbor, MI, United States.
+
+Comment in
+    Oral Oncol. 2014 Jul;50(7):e30.
+    Oral Oncol. 2014 Jul;50(7):e29.
+
+OBJECTIVES: Although widely adopted, the accuracy of post-chemoradiotherapy (CRT)
+18F-fluorodeoxygluocose positron emission tomography/computed tomography (PET/CT)
+for predicting locoregional failure (LRF) in human papillomavirus-related (HPV+) 
+oropharyngeal cancer (OPC) remains poorly characterized. We assessed the
+predictive value of 3-month PET/CT response for LRF in this population.
+MATERIALS AND METHODS: 101 consecutive patients with stage III-IV HPV+ OPC who
+underwent definitive CRT with pre-treatment and 3-month post-CRT PET/CT at our
+institution from 3/2005-3/2011 were included. 3-month PET/CT response was
+re-classified as complete-response (CR), near-CR, or incomplete-response (<CR)
+for each the primary site and neck. Accuracy of 3-month PET/CT for predicting
+local failure (LF) and regional failure (RF) was analyzed.
+RESULTS: Among 98 patients with an evaluable primary tumor, LF occurred in 2/67
+patients with CR, 0/20 with near-CR, and 1/11 with <CR on 3-month PET/CT. Of 98
+node-positive patients, RF occurred in 6/80 with CR, 2/9 with near-CR, and 0/7
+with <CR in the neck at 3 months. Sensitivity and positive predictive value (PPV)
+of 3-month PET/CT response for LF and RF were low (0-33%), despite a high
+negative predictive value (NPV) (91-98%). SUVmax thresholds or % change did not
+improve the accuracy of 3-month PET/CT. Use of additional PET/CT surveillance
+after 3 months in 67 patients accurately detected both LF (96%) and RF (97%).
+CONCLUSIONS: In the largest study to-date of PET/CT response assessment in HPV+
+OPC, 3-month PET/CT response demonstrated high NPV for LRF, though with
+disappointing sensitivity and PPV. Subsequent PET/CT surveillance showed
+potential utility for early detection of LRFs.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.12.003 
+PMCID: PMC4159357
+PMID: 24387978  [Indexed for MEDLINE]

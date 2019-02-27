@@ -1,0 +1,28 @@
+
+
+326. MMWR Morb Mortal Wkly Rep. 2016 Mar 18;65(10):253-6. doi: 10.15585/mmwr.mm6510a1.
+
+Human Rabies - Missouri, 2014.
+
+Pratt PD, Henschel K, Turabelidze G, Grim A, Ellison JA, Orciari L, Yager P,
+Franka R, Wu X, Ma X, Wadhwa A, Smith TG, Petersen B, Shiferaw M.
+
+Erratum in
+    MMWR Morb Mortal Wkly Rep. 2016;65(12):332.
+
+On September 18, 2014, the Missouri Department of Health and Senior Services
+(MDHSS) was notified of a suspected rabies case in a Missouri resident. The
+patient, a man aged 52 years, lived in a rural, deeply wooded area, and bat
+sightings in and around his home were anecdotally reported. Exposure to bats
+poses a risk for rabies. After two emergency department visits for severe neck
+pain, paresthesia in the left arm, upper body tremors, and anxiety, he was
+hospitalized on September 13 for encephalitis of unknown etiology. On September
+24, he received a diagnosis of rabies and on September 26, he died. Genetic
+sequencing tests confirmed infection with a rabies virus variant associated with 
+tricolored bats. Health care providers need to maintain a high index of clinical 
+suspicion for rabies in patients who have unexplained, rapidly progressive
+encephalitis, and adhere to recommended infection control practices when
+examining and treating patients with suspected infectious diseases.
+
+DOI: 10.15585/mmwr.mm6510a1 
+PMID: 26985578  [Indexed for MEDLINE]

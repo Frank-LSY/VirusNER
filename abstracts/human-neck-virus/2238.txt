@@ -1,0 +1,52 @@
+
+
+2238. Oral Oncol. 2015 Jul;51(7):662-7. doi: 10.1016/j.oraloncology.2015.04.011. Epub
+2015 May 6.
+
+HPV16 antibodies as risk factors for oropharyngeal cancer and their association
+with tumor HPV and smoking status.
+
+Anderson KS(1), Dahlstrom KR(2), Cheng JN(3), Alam R(3), Li G(2), Wei Q(4), Gross
+ND(2), Chowell D(5), Posner M(6), Sturgis EM(2).
+
+Author information: 
+(1)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, AZ, United States. Electronic address:
+Karen.Anderson.1@asu.edu.
+(2)Department of Head and Neck Surgery, Division of Surgery, The University of
+Texas MD Anderson Cancer Center, Houston, TX, United States.
+(3)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, AZ, United States.
+(4)Duke Cancer Institute, Duke University Medical Center, Durham, NC 27710,
+United States.
+(5)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, AZ, United States; Simon A. Levin Mathematical, Computational,
+and Modeling Sciences Center, Arizona State University, Tempe, AZ, United States.
+(6)Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York
+City, NY, United States.
+
+BACKGROUND: Antibodies (Abs) to the HPV16 proteome increase risk for
+HPV-associated OPC (HPVOPC). The goal of this study was to investigate the
+association of a panel of HPV16 Abs with risk for OPC as well as the association 
+of these Abs with tumor HPV and smoking status among patients with OPC.
+METHODS: IgG Abs to the HPV16 antigens E1, E2, E4, E5, E6, E7, L1, L2 were
+quantified using a programmable ELISA assay. Sera were obtained from 258 OPC
+patients at diagnosis and 250 healthy controls. HPV16 tumor status was measured
+by PCR for 137 cases. Multivariable logistic regression was used to calculate
+odds ratios for the association of HPV16 Abs with risk for OPC.
+RESULTS: HPV16 E1, E2, E4, E5, E6, E7 and L1-specific IgG levels were elevated in
+OPC patients compared to healthy controls (p<0.05). After multivariable
+adjustment, Ab positivity for NE2, CE2, E6, and/or E7 was associated with OPC
+risk (OR [95% CI], 249.1 [99.3-624.9]). Among patients with OPC, Ab positivity
+for these antigens was associated with tumor HPV status, especially among never
+or light smokers (OR [95% CI], 6.5 [2.1-20.1] and OR [95% CI], 17.5 [4.0-77.2],
+respectively).
+CONCLUSIONS: Antibodies to HPV16 proteins are associated with increased risk for 
+HPVOPC. Among patients with OPC, HPV16 Abs are associated with tumor HPV status, 
+in particular among HPV positive patients with no or little smoking history.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.04.011 
+PMCID: PMC4457560
+PMID: 25957822  [Indexed for MEDLINE]

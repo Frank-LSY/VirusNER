@@ -1,0 +1,35 @@
+
+
+2119. Head Neck. 2014 Jun;36(6):819-25. doi: 10.1002/hed.23379. Epub 2013 Sep 2.
+
+Clinical characteristics of patients with multiple potentially human
+papillomavirus-related malignancies.
+
+Skinner HD(1), Sturgis EM, Klopp AH, Ang KK, Rosenthal DI, Garden AS, Morrison
+WH, Gunn GB, Beadle BM.
+
+Author information: 
+(1)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+
+BACKGROUND: Human papillomavirus (HPV) is a causative factor in squamous cell
+carcinomas of the anus, penis, vagina, vulva, and head and neck, and
+adenocarcinoma of the cervix. We examined the demographics, clinical
+characteristics, and timing of multiple potentially HPV-related cancers in
+individual patients.
+METHODS: One hundred forty-three patients were identified with 300 potentially
+HPV-related cancers. The median follow-up from index and second cancer was 18.5
+years and 3.2 years, respectively.
+RESULTS: Median age at index and second cancer was 45 and 60.5 years of age,
+respectively, with a median interval of 11 years. Cervical cancer was the most
+common initial diagnosis (61.7%), whereas head and neck squamous cell carcinoma
+(HNSCC) was the most common second cancer (57.6%).
+CONCLUSION: These data suggest differential patterns for development of multiple 
+HPV-related cancers based upon clinical characteristics. Prospective longitudinal
+and population-based studies are warranted to understand the impact of these
+findings and opportunities for intervention and screening.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23379 
+PMID: 23720126  [Indexed for MEDLINE]

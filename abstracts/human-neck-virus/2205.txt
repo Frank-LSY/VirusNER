@@ -1,0 +1,53 @@
+
+
+2205. Radiother Oncol. 2014 Dec;113(3):310-6. doi: 10.1016/j.radonc.2014.11.032. Epub
+2014 Nov 26.
+
+Impact of HPV-associated p16-expression on radiotherapy outcome in advanced
+oropharynx and non-oropharynx cancer.
+
+Lassen P(1), Primdahl H(2), Johansen J(3), Kristensen CA(4), Andersen E(5),
+Andersen LJ(6), Evensen JF(7), Eriksen JG(8), Overgaard J(8); Danish Head and
+Neck Cancer Group (DAHANCA).
+
+Author information: 
+(1)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+Denmark. Electronic address: pernille@oncology.dk.
+(2)Department of Oncology, Aarhus University Hospital, Denmark.
+(3)Department of Oncology, Odense University Hospital, Denmark.
+(4)Department of Oncology, Rigshospitalet, Denmark.
+(5)Department of Oncology, Herlev Hospital, Copenhagen, Denmark.
+(6)Department of Oncology, Aalborg Hospital, Denmark.
+(7)Department of Oncology, Oslo University Hospital, Norway.
+(8)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+Denmark.
+
+BACKGROUND AND PURPOSE: HPV is found in head and neck cancer from all sites with 
+a higher prevalence in oropharynx cancer (OPC) compared to non-OPC.
+HPV/p16-status has a significant impact on radiotherapy (RT) outcome in advanced 
+OPC, but less is known about the influence in non-OPC. We analyzed HPV-associated
+p16-expression in a cohort of patients with stage III-IV pharynx and larynx
+cancer treated with primary, curatively intended (chemo-)RT, aiming to test the
+hypothesis that the impact of HPV/p16 also extends to tumors of non-oropharyngeal
+origin.
+MATERIAL AND METHODS: 1294 patients enrolled in previously conducted
+DAHANCA-trials between 1992 and 2012 were identified. Tumors were evaluated by
+p16-immunohistochemistry and classified as positive in case of staining in >70%
+of tumors cells.
+RESULTS: Thirty-eight percent (490/1294) of the tumors were p16-positive with a
+significantly higher frequency in OPC (425/815) than in non-OPC (65/479),
+p<.0001. In OPC p16-positivity significantly improved loco-regional control (LRC)
+(adjusted HR [95% CI]: 0.43 [0.32-0.57]), event-free survival (EFS) (HR 0.44
+[0.35-0.56]), and overall survival (OS) (HR: 0.38 [0.29-0.49]), respectively,
+compared with p16-negativity. In non-OPC no prognostic impact of p16-status was
+found for either endpoint: LRC (HR: 1.13 [0.75-1.70]), EFS (HR: 1.06
+[0.76-1.47]), and OS (HR: 0.82 [0.59-1.16]).
+CONCLUSIONS: The independent influence of HPV-associated p16-expression in
+advanced OPC treated with primary RT was confirmed. However, RT-outcome in the
+group of non-OPC did not differ by tumor p16-status, indicating that the
+prognostic impact may be restricted to OPC only.
+
+Copyright © 2014. Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.radonc.2014.11.032 
+PMID: 25544647  [Indexed for MEDLINE]

@@ -1,0 +1,59 @@
+
+
+39. Antiviral Res. 2016 Aug;132:26-37. doi: 10.1016/j.antiviral.2016.05.005. Epub
+2016 May 13.
+
+Establishment of an inducible HBV stable cell line that expresses
+cccDNA-dependent epitope-tagged HBeAg for screening of cccDNA modulators.
+
+Cai D(1), Wang X(2), Yan R(1), Mao R(1), Liu Y(3), Ji C(4), Cuconati A(5), Guo
+H(6).
+
+Author information: 
+(1)Institute for Biotechnology and Virology Research, Drexel University College
+of Medicine, Doylestown, PA, 18902, USA; Department of Microbiology and
+Immunology, Indiana University School of Medicine, Indianapolis, IN, 46202, USA.
+(2)Baruch S. Blumberg Institute, Hepatitis B Foundation, Doylestown, PA, 18902,
+USA.
+(3)Department of Microbiology and Immunology, Indiana University School of
+Medicine, Indianapolis, IN, 46202, USA.
+(4)Virology Discovery and Translational Area, Roche Pharma Research and Early
+Development, Nutley, NJ, 07110, USA. Electronic address: changhua.ji2@pfizer.com.
+(5)Baruch S. Blumberg Institute, Hepatitis B Foundation, Doylestown, PA, 18902,
+USA. Electronic address: acuconati@arbutusbio.com.
+(6)Institute for Biotechnology and Virology Research, Drexel University College
+of Medicine, Doylestown, PA, 18902, USA; Department of Microbiology and
+Immunology, Indiana University School of Medicine, Indianapolis, IN, 46202, USA. 
+Electronic address: haitguo@iupui.edu.
+
+Hepatitis B virus (HBV) covalently closed circular (ccc) DNA is essential to the 
+virus life cycle, its elimination during chronic infection is considered critical
+to a durable therapy but has not been achieved by current antivirals. Despite
+being essential, cccDNA has not been the major target of high throughput
+screening (HTS), largely because of the limitations of current HBV tissue culture
+systems, including the impracticality of detecting cccDNA itself. In response to 
+this need, we have previously developed a proof-of-concept HepDE19 cell line in
+which the production of wildtype e antigen (HBeAg) is dependent upon cccDNA.
+However, the existing assay system is not ideal for HTS because the HBeAg ELISA
+cross reacts with a viral HBeAg homologue, which is the core antigen (HBcAg)
+expressed largely in a cccDNA-independent fashion in HepDE19 cells. To further
+improve the assay specificity, we report herein a "second-generation" cccDNA
+reporter cell line, termed HepBHAe82. In the similar principle of HepDE19 line,
+an in-frame HA epitope tag was introduced into the precore domain of HBeAg open
+reading frame in the transgene of HepBHAe82 cells without disrupting any
+cis-element critical for HBV replication and HBeAg secretion. A chemiluminescence
+ELISA assay (CLIA) for the detection of HA-tagged HBeAg with HA antibody serving 
+as capture antibody and HBeAb serving as detection antibody has been developed to
+eliminate the confounding signal from HBcAg. The miniaturized HepBHAe82 cell
+based assay system exhibits high level of cccDNA-dependent HA-HBeAg production
+and high specific readout signals with low background. We have also established a
+HepHA-HBe4 cell line expressing transgene-dependent HA-HBeAg as a counter screen 
+to identify HBeAg inhibitors. The HepBHAe82 system is amenable to antiviral HTS
+development, and can be used to identify host factors that regulate cccDNA
+metabolism and transcription.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2016.05.005 
+PMCID: PMC5060949
+PMID: 27185623  [Indexed for MEDLINE]

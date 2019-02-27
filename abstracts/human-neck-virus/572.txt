@@ -1,0 +1,54 @@
+
+
+572. PLoS One. 2016 Apr 6;11(4):e0152828. doi: 10.1371/journal.pone.0152828.
+eCollection 2016.
+
+Paucity of HPV-Related Head and Neck Cancers (HNC) in Nigeria.
+
+Oga EA(1)(2), Schumaker LM(3), Alabi BS(4), Obaseki D(5), Umana A(6), Bassey
+IA(6), Ebughe G(6), Oluwole O(7), Akeredolu T(2), Adebamowo SN(2)(8)(9), Dakum
+P(2), Cullen K(3), Adebamowo CA(1)(2)(3)(8).
+
+Author information: 
+(1)Department of Epidemiology and Public Health, University of Maryland School of
+Medicine, Baltimore, Maryland, United States of America.
+(2)Office of Research, Training and Strategic Information, Institute of Human
+Virology Nigeria, Abuja, FCT, Nigeria.
+(3)Marlene and Stewart Greenebaum Cancer Centre, University of Maryland School of
+Medicine, Baltimore, Maryland, United States of America.
+(4)Department of Ear Nose and Throat, Head & Neck Surgery, University of Ilorin
+Teaching Hospital, Ilorin, Kwara State, Nigeria.
+(5)University of Benin Teaching Hospital, Benin, Edo State, Nigeria.
+(6)University of Calabar Teaching Hospital, Calabar, Cross River State, Nigeria.
+(7)University of Abuja Teaching Hospital, Abuja, FCT, Nigeria.
+(8)Department of Nutrition, Harvard T. H. Chan School of Public Health, Boston,
+Massachusetts, United States of America.
+(9)National Human Genome Research Institute, National Institutes of Health,
+Bethesda, Maryland, United States of America.
+
+INTRODUCTION: The burden of HPV-related Head and Neck Cancers (HNC) has been
+rising in the U.S. and other developed countries but this trend has not been
+reported in Africa. Objective of study was to evaluate the prevalence of HPV
+infection in HNC cancer cases seen between 1990 and 2011 at the tertiary health
+care institutions in Nigeria.
+METHODS: We retrieved 149 head and neck cancer formalin fixed, paraffin embedded 
+tumor specimens diagnosed between 1990 and 2011 from four teaching hospitals in
+Nigeria. One hundred and twenty-three blocks (83%) contained appropriate HNC for 
+analysis while DNA extraction was successful in 60% (90/149). PCR amplification
+was successful in 33% (49/149) and Linear Array genotyping for HPV was successful
+in 11% (17/149) of these cases. These were in tumors from the larynx (6),
+cervical lymph nodes (3), nasal cavity (2), parotid (1), palate (1), maxillary
+sinus (1) and mandible (1). Two cases were non-specific and none were from the
+oropharynx. Histologically, 41% (7/17) of the successfully genotyped blocks were 
+squamous cell carcinomas (larynx 6, maxillary sinus 1).
+RESULTS AND CONCLUSION: We were unable to detect HPV in any of the HNC samples in
+our study. Our result may suggest that there is a low prevalence of HPV-related
+HNC among the adult population in Nigeria. Our results provide a benchmark to
+compare future incidence of HPV -related HNC in this community in future. We had 
+significant analytical challenges from possible poor tissue processing and urge
+that future studies should prospectively collect samples and ensure high quality 
+sample processing.
+
+DOI: 10.1371/journal.pone.0152828 
+PMCID: PMC4822856
+PMID: 27050815  [Indexed for MEDLINE]

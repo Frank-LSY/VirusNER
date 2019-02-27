@@ -1,0 +1,41 @@
+
+
+921. Cancer Immunol Immunother. 2015 Oct;64(10):1329-38. doi:
+10.1007/s00262-015-1734-0. Epub 2015 Jul 3.
+
+Immunotherapy of HPV-associated cancer: DNA/plant-derived vaccines and new
+orthotopic mouse models.
+
+Venuti A(1), Curzio G, Mariani L, Paolini F.
+
+Author information: 
+(1)HPV-UNIT, Laboratory of Virology, Regina Elena National Cancer Institute, Via 
+E. Chianesi 53, 00144, Rome, Italy, venuti@ifo.it.
+
+Under the optimistic assumption of high-prophylactic HPV vaccine coverage, a
+significant reduction of cancer incidence can only be expected after decades.
+Thus, immune therapeutic strategies are needed for persistently infected
+individuals who do not benefit from the prophylactic vaccines. However, the
+therapeutic strategies inducing immunity to the E6 and/or E7 oncoprotein of HPV16
+are more effective for curing HPV-expressing tumours in animal models than for
+treating human cancers. New strategies/technologies have been developed to
+improve these therapeutic vaccines. Our studies focussed on preparing therapeutic
+vaccines with low-cost technologies by DNA preparation fused to either
+plant-virus or plant-toxin genes, such as saporin, and by plant-produced
+antigens. In particular, plant-derived antigens possess an intrinsic adjuvant
+activity that makes these preparations especially attractive for future
+development. Additionally, discrepancy in vaccine effectiveness between animals
+and humans may be due to non-orthotopic localization of animal models. Orthotopic
+transplantation leads to tumours giving a more accurate representation of the
+parent tumour. Since HPV can cause cancer in two main localizations, anogenital
+and oropharynx area, we developed two orthotopic tumour mouse models in these two
+sites. Both models are bioluminescent in order to follow up the tumour growth by 
+imaging and are induced by cell injection without the need to intervene
+surgically. These models were utilized for immunotherapies with genetic or
+plant-derived therapeutic vaccines. In particular, the head/neck orthotopic model
+appears to be very promising for studies combining chemo-radio-immune therapy
+that seems to be very effective in patients.
+
+DOI: 10.1007/s00262-015-1734-0 
+PMCID: PMC4554738
+PMID: 26138695  [Indexed for MEDLINE]

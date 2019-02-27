@@ -1,0 +1,60 @@
+
+
+2647. J Otolaryngol Head Neck Surg. 2017 Apr 4;46(1):29. doi:
+10.1186/s40463-017-0199-x.
+
+Systemic therapy in the curative treatment of head and neck squamous cell cancer:
+a systematic review.
+
+Winquist E(1), Agbassi C(2), Meyers BM(3), Yoo J(4), Chan KKW(5); Head and Neck
+Disease Site Group.
+
+Author information: 
+(1)Department of Oncology, Western University and London Health Science Centre,
+790 Commissioners Rd East, PO Box 5010 London, Ontario N6A 5W9 London, Ontario,
+Canada. Eric.Winquist@lhsc.on.ca.
+(2)Department of Oncology, McMaster University (Juravinski Hospital Site), 1280
+main Street West, Hamilton, ON, L8S 4L8, Canada.
+(3)Department of Oncology, McMaster University, Juravinski Cancer Centre, 699
+Concession Street, Hamilton, ON, L8V 5C2, Canada.
+(4)Department of Otolaryngology-Head and Neck Surgery, Western University and
+London Health Sciences Centre, London, ON, Canada.
+(5)Sunnybrook Odette Cancer Centre, Toronto, ON, Canada.
+
+OBJECTIVE: To review the available evidence and make recommendations regarding
+use of systemically administered drugs in combination or in sequence with
+radiation (RT) and/or surgery for cure and/or organ preservation in patients with
+locally advanced nonmetastatic (Stage III to IVB) squamous cell carcinoma of the 
+head and neck (LASCCHN).
+METHOD: Recognizing the Meta-analysis of Chemotherapy in Head and Neck Cancer
+(MACH-NC) group reports have de facto guided practice since 2000, we searched for
+systematic reviews in the MEDLINE, EMBASE and Cochrane Database of Systematic
+Reviews published from January 2000 to February 2015 in reference to 4 research
+questions. A search was also conducted for randomized trials (RCTs) up to
+February 2015 not included in the meta-analyses.
+RESULT: The MACH-NC reports, 5 additional meta-analyses, and 30 RCTs not included
+by MACH-NC were identified. For chemotherapy, MACH-NC findings showing improved
+overall survival with concomitant chemoRT did not require modification. High-dose
+cisplatin was most commonly studied. We confirmed this benefit with cisplatin
+monotherapy in patients treated with with postoperative concurrent chemoRT. Other
+than cetuximab, no targeted agents and radiosensitizers studied in RCTs were
+shown effective. TPF induction chemotherapy was superior to PF for tumor response
+and larynx preservation but not survival. Larynx preservation was reported with
+both CRT and induction chemotherapy approaches.
+CONCLUSION: ChemoRT with cisplatin at least 40 mg/m2 per week given as radical or
+postoperative adjuvant remains a standard treatment approach for LASCCHN that
+improves overall survival but increases toxicity. 5-FU plus platinum is supported
+by less data but may be a reasonable alternative for patients unsuitable for
+cisplatin. Of note, stratification of outcomes by HPV-status was not available
+but outcomes for oropharynx cancer appeared similar to other subsites in chemoRT 
+RCTs. No RCTs have yet demonstrated superiority or non-inferiority of
+cetuximab-RT to CRT. In view of this, cetuximab-RT is suggested only for patients
+not candidates for CRT. Taxane-based triplet induction chemotherapy is superior
+to doublets for rapid tumour downsizing and for larynx preservation, but does not
+improve overall survival and should be used with primary G-CSF prophylaxis.
+Further investigation of induction approaches for larynx preservation may be
+warranted.
+
+DOI: 10.1186/s40463-017-0199-x 
+PMCID: PMC5381126
+PMID: 28376866  [Indexed for MEDLINE]

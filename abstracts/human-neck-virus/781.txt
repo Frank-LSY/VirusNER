@@ -1,0 +1,36 @@
+
+
+781. Nutr Cancer. 2011;63(5):734-42. doi: 10.1080/01635581.2011.570894. Epub 2011 Jun 
+11.
+
+Higher micronutrient intake is associated with human papillomavirus-positive head
+and neck cancer: a case-only analysis.
+
+Arthur AE(1), Duffy SA, Sanchez GI, Gruber SB, Terrell JE, Hebert JR, Light E,
+Bradford CR, D'Silva NJ, Carey TE, Wolf GT, Peterson KE, Rozek LS.
+
+Author information: 
+(1)Department of Environmental Health Sciences, University of Michigan School of 
+Public Health, Ann Arbor, Michigan 48109-2029, USA.
+
+No studies have investigated dietary differences between head and neck squamous
+cell carcinoma (HNSCC) patients with human papillomavirus (HPV)-positive tumors
+and patients with HPV-negative tumors. This study was designed to investigate the
+relationship between diet and HPV status in HNSCC patients. Cases of HNSCC were
+recruited from 2 clinical centers participating in the University of Michigan
+Head and Neck Specialized Program of Research Excellence (SPORE). HPV tissue
+genotyping was performed, and epidemiological and dietary data collected.
+Multivariable logistic regression tested whether pretreatment consumption of 12
+selected micronutrients was significantly associated with HPV-positive status in 
+143 patients newly diagnosed with cancer of the oral cavity or pharynx. After
+controlling for age, sex, body mass index, tumor site, cancer stage, problem
+drinking, smoking, and energy intake, significant and positive associations were 
+observed between vitamin A, vitamin E, iron, β-carotene, and folate intake and
+HPV-positive status (P(trend) < 0.05), suggesting that diet may be a factor in
+the improved prognosis documented in those with HPV-positive HNSCC. Dietary
+differences by HPV status should be considered in prognostic studies to better
+understand the influence of diet on HNSCC survival.
+
+DOI: 10.1080/01635581.2011.570894 
+PMCID: PMC3391594
+PMID: 21667401  [Indexed for MEDLINE]

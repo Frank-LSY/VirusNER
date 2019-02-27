@@ -1,0 +1,30 @@
+
+
+48. Surg Oncol Clin N Am. 2015 Jul;24(3):379-96. doi: 10.1016/j.soc.2015.03.001. Epub
+2015 Apr 9.
+
+Epidemiology of head and neck cancer.
+
+Rettig EM(1), D'Souza G(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, 601 North Caroline Street, Baltimore, MD 21287, USA.
+(2)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+615 North Wolfe Street, Baltimore, MD 21205, USA. Electronic address:
+gdsouza2@jhu.edu.
+
+This article discusses risk factors, incidence trends, and prognostic
+considerations for head and neck cancer (HNC). The primary causes of HNC are
+tobacco and alcohol use, and human papillomavirus (HPV). Tobacco-related HNC
+incidence rates are decreasing in countries where tobacco use has declined.
+HPV-HNC, which occurs primarily in the oropharynx and is associated with sexual
+behaviors, has been increasing over the past several decades, among white men in 
+particular. The prognosis for HNC overall has improved slightly since the 1990s, 
+and is influenced by site, stage, and HPV status. Prognosis for HPV-HNC is
+significantly better than for HPV-negative disease.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.soc.2015.03.001 
+PMID: 25979389  [Indexed for MEDLINE]

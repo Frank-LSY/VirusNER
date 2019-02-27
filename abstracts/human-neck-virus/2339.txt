@@ -1,0 +1,54 @@
+
+
+2339. Radiother Oncol. 2016 Feb;118(2):359-68. doi: 10.1016/j.radonc.2015.12.007. Epub 
+2015 Dec 30.
+
+Growth inhibition and chemo-radiosensitization of head and neck squamous cell
+carcinoma (HNSCC) by survivin-siRNA lentivirus.
+
+Khan Z(1), Khan AA(2), Prasad GB(3), Khan N(4), Tiwari RP(5), Bisen PS(6).
+
+Author information: 
+(1)School of Studies in Biotechnology, Jiwaji University, Gwalior, India;
+Departments of Biomedical Sciences and Pathology and Laboratory Medicine,
+Cedars-Sinai Medical Center, Los Angeles, USA. Electronic address:
+zakirq.khan@gmail.com.
+(2)Department of Pharmaceutics, College of Pharmacy, King Saud University,
+Riyadh, Saudi Arabia.
+(3)School of Studies in Biotechnology, Jiwaji University, Gwalior, India.
+(4)Division of Plant-Microbe Interactions, National Botanical Research Institute,
+Lucknow, India.
+(5)Diagnostic Division, Vanguard Diagnostics, New Delhi, India.
+(6)School of Studies in Biotechnology, Jiwaji University, Gwalior, India.
+Electronic address: psbisen@gmail.com.
+
+BACKGROUND: Survivin expression is often associated with aggressive tumor
+behavior and therapy resistance. In this study, we investigated the effect of
+survivin knockdown by survivin-siRNA lentiviral vector (Svv-Lent) on the response
+of HNSCC to chemo-radiotherapy, tumor growth and metastasis.
+METHODS: Four human HNSCC (OSC19, Cal27, Cal33 and FaDu) and one normal HOK cell 
+lines were included in the study, and survivin knockdown was achieved with
+Svv-Lent treatment. Cell proliferation and apoptosis were measured by MTT and
+TUNEL assay, respectively. Transwell assays were performed to measure in vitro
+cell migration and matrigel invasion. Xenograft tumors were developed in nude
+mice by injecting Cal27 cells subcutaneously and following tail-vein injection of
+lung and liver metastasis.
+RESULTS: Knockdown of survivin significantly suppressed HNSCC cell proliferation 
+and induced apoptosis in vitro. Survivin inhibition could also significantly
+reduce in vitro cell migration and matrigel invasion that might be due to
+inactivation of matrix metalloproteinases. In vivo studies showed significant
+repression of Cal27 xenograft tumor growth and tissue metastasis leading to
+improvement in mice survival in the Svv-Lent treated group compared to controls. 
+Our data indicated that survivin expression in HNSCC cells contributed to
+chemo-radioresistance, and its down-regulation increased anti-cancer effects of
+paclitaxel, cisplatin and radiation.
+CONCLUSIONS: Our findings suggest that sustained survivin expression facilitates 
+HNSCC tumor growth and confers resistance to chemo-radiotherapy. Svv-Lent therapy
+may be able to enhance the cytotoxic effect of commonly used anticancer drugs
+such as cisplatin and paclitaxel, and radiotherapy that could provide a promising
+strategy for the effective control of resistant head and neck cancer.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2015.12.007 
+PMID: 26747757  [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+
+
+2000. J Dent Res. 2009 Jul;88(7):585-96. doi: 10.1177/0022034509337480.
+
+Gene therapy: design and prospects for craniofacial regeneration.
+
+Scheller EL(1), Krebsbach PH.
+
+Author information: 
+(1)Department. of Biologic and Materials Sciences, School of Dentistry,
+University of Michigan, 1011 N. University Ave., Ann Arbor, MI 48109-1078, USA.
+
+Gene therapy is defined as the treatment of disease by transfer of genetic
+material into cells. This review will explore methods available for gene transfer
+as well as current and potential applications for craniofacial regeneration, with
+emphasis on future development and design. Though non-viral gene delivery methods
+are limited by low gene transfer efficiency, they benefit from relative safety,
+low immunogenicity, ease of manufacture, and lack of DNA insert size limitation. 
+In contrast, viral vectors are nature's gene delivery machines that can be
+optimized to allow for tissue-specific targeting, site-specific chromosomal
+integration, and efficient long-term infection of dividing and non-dividing
+cells. In contrast to traditional replacement gene therapy, craniofacial
+regeneration seeks to use genetic vectors as supplemental building blocks for
+tissue growth and repair. Synergistic combination of viral gene therapy with
+craniofacial tissue engineering will significantly enhance our ability to repair 
+and replace tissues in vivo.
+
+DOI: 10.1177/0022034509337480 
+PMCID: PMC2907101
+PMID: 19641145  [Indexed for MEDLINE]

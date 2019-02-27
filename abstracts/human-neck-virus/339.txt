@@ -1,0 +1,30 @@
+
+
+339. J Med Virol. 2016 Apr;88(4):686-94. doi: 10.1002/jmv.24381. Epub 2015 Oct 5.
+
+Nucleotide and phylogenetic analysis of human papillomavirus type 11 isolated
+from juvenile-onset recurrent respiratory papillomatosis in China.
+
+Xiao Y(1), Wang J(1), Ma L(1), Ren J(1), Yang M(1).
+
+Author information: 
+(1)Key Laboratory of Otolaryngology Head and Neck Surgery (Ministry of Education 
+of China), Department of Otolaryngology Head and Neck Surgery, Beijing Tongren
+Hospital, Capital Medical University, Beijing, China.
+
+To assess the association between sequence variants of human papillomavirus (HPV)
+11 and recurrent respiratory papillomatosis and the taxonomy and evolutionary
+history of HPV 11. Complete HPV 11 nucleotide sequences were sequenced by
+Illumina HiSeq2000 Analyzers and compared with the HPV 11 prototype isolate
+(GenBank accession number: M14119) using Blast 2.0 server software. Eighteen
+full-length HPV 11 genomic sequences were amplified and sequenced. A total of 49 
+nucleotide mutations were identified, 12 of which resulted in amino acid changes.
+HPV 11 variants were highly conserved; the maximum pairwise difference was
+approximately 0.49%. The maximum pairwise difference of the 18 variants in our
+research was 0.39%. HPV 11 is less polymorphic than the majority of studied HPV
+genotypes.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24381 
+PMID: 26369639  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+406. Ann Oncol. 2009 Mar;20(3):534-41. doi: 10.1093/annonc/mdn643. Epub 2008 Dec 15.
+
+Human papillomavirus 6 seropositivity is associated with risk of head and neck
+squamous cell carcinoma, independent of tobacco and alcohol use.
+
+Furniss CS(1), McClean MD, Smith JF, Bryan J, Applebaum KM, Nelson HH, Posner MR,
+Kelsey KT.
+
+Author information: 
+(1)Department of Environmental Health, Harvard School of Public Health, Boston,
+USA.
+
+BACKGROUND: The risk of head and neck squamous cell carcinoma (HNSCC) associated 
+with common human papillomavirus types has not been well defined.
+METHODS: We conducted a case-control study of 1034 individuals (486 incident
+cases diagnosed with HNSCC and 548 population-based controls matched to cases by 
+age, gender, and town of residence) in Greater Boston, MA. Sera were tested for
+antibodies to human papillomavirus (HPV)6, HPV11, HPV16, and HPV18 L1.
+RESULTS: HPV6 antibodies were associated with an increased risk of pharyngeal
+cancer [odds ratio (OR)=1.6, 1.0-2.5], controlling for smoking, drinking, and
+HPV16 seropositivity. In HPV16-seronegative subjects, high HPV6 titer was
+associated with an increased risk of pharyngeal cancer (OR=2.3, 1.1-4.8) and oral
+cancer (OR=1.9, 1.0-3.6), suggesting that the cancer risk associated with HPV6 is
+independent of HPV16. There was no association between smoking and alcohol use
+and HPV6 serostatus. Further, the risk of pharyngeal cancer associated with heavy
+smoking was different among HPV6-seronegative (OR 3.1, 2.0-4.8) and
+HPV6-seropositive subjects (OR=1.6, 0.7-3.5), while heavy drinking also appears
+to confer differing risk among HPV6-negative (OR 2.3, 1.5-3.7) and -positive
+subjects (OR=1.3, 0.6-2.9).
+CONCLUSIONS: There may be interactions between positive serology and drinking and
+smoking, suggesting that the pathogenesis of human papillomavirus in HNSCC
+involves complex interactions with tobacco and alcohol exposure.
+
+DOI: 10.1093/annonc/mdn643 
+PMCID: PMC2733070
+PMID: 19087986  [Indexed for MEDLINE]

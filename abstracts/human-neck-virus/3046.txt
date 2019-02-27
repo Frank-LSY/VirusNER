@@ -1,0 +1,45 @@
+
+
+3046. Sci Rep. 2016 Nov 8;6:36378. doi: 10.1038/srep36378.
+
+Impaired T Cell-dependent Humoral Immune Response Associated with Juvenile-onset 
+Recurrent Respiratory Papillomatosis Progression.
+
+Wu X(1)(2), Wang G(1)(2), Chen X(1)(2), Zhang J(3), Zhao J(3), Wang J(4), Xiao
+Y(4), Tai J(3), Wang S(3), Wang G(3), Wang H(3), Bai L(4), Gui J(1)(2), Ni
+X(1)(3)(5).
+
+Author information: 
+(1)Key Laboratory of Major Diseases in Children, Ministry of Education, Beijing
+Children's Hospital, Capital Medical University, Beijing, China.
+(2)Laboratory of Immunology, Beijing Pediatric Research Institute, Beijing
+Children's Hospital, Capital Medical University, Beijing, China.
+(3)Department of Otolaryngology, Head and Neck Surgery, Beijing Children's
+Hospital, Capital Medical University, Beijing, China.
+(4)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren Hospital, 
+Capital Medical University, Beijing, China.
+(5)Beijing Key Laboratory for Pediatric Diseases of Otolaryngology, Head and Neck
+Surgery, Beijing Pediatric Research Institute, Beijing Children's Hospital,
+Capital Medical University, Beijing, China.
+
+Whether humoral immunity plays a role in HPV type 6 or 11 virus-mediated
+Juvenile-onset Recurrent Respiratory Papillomatosis (JORRP) remains unknown. In
+the present study, serum total IgG level in 44 JORRP patients was significantly
+decreased compared with that in 40 healthy controls. Moreover, expanded CD3-CD19+
+B cells with down-regulation of CD23, CD40, HLA-DR and up-regulation of CD86
+expression were found in the peripheral blood of JORRP patients. Flow cytometry
+analysis of B-cell compartment showed that the frequency of both CD19+CD27hi
+plasma cells and CD19+CD27+ memory B cells were decreased in JORRP patients.
+Importantly, although the proportion of circulating CXCR5+PD1hi Tfh cells was not
+changed, the function of Tfh cells were greatly impaired with reduced ability of 
+IL-21 secretion to promote B cell maturation. Association analysis by the
+Kaplan-Meier method revealed that IL-21 secreting Tfh cell was positively
+correlated to the CD27+ B cell subset frequency, the serum IgG level and the
+frequency of recurrence in JORRP patients, but negatively correlated to the
+percentage of IgD+CD27- B cell. We concluded that a reduced IL-21 secretion by
+Tfh cells may limit B cell maturation and antibody production in JORRP patients
+and Tfh cell-derived IL-21 might be associated with JORRP outcome in clinic.
+
+DOI: 10.1038/srep36378 
+PMCID: PMC5099571
+PMID: 27821867  [Indexed for MEDLINE]

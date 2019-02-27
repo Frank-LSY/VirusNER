@@ -1,0 +1,61 @@
+
+
+2496. Cancer Res. 2017 Oct 1;77(19):5248-5258. doi: 10.1158/0008-5472.CAN-16-3106. Epub
+2017 Jul 21.
+
+A Novel Functional Splice Variant of AKT3 Defined by Analysis of Alternative
+Splice Expression in HPV-Positive Oropharyngeal Cancers.
+
+Guo T(1), Sakai A(2), Afsari B(3), Considine M(3), Danilova L(3), Favorov
+AV(3)(4)(5), Yegnasubramanian S(6), Kelley DZ(1), Flam E(1), Ha PK(7), Khan Z(1),
+Wheelan SJ(6), Gutkind JS(2), Fertig EJ(3), Gaykalova DA(1), Califano J(8)(2)(9).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Medical
+Institutions, Baltimore, Maryland.
+(2)Moores Cancer Center, University of California San Diego, San Diego,
+California.
+(3)Division of Oncology Biostatistics and Bioinformatics, Sidney Kimmel
+Comprehensive Cancer Center, Department of Oncology, Johns Hopkins University,
+Baltimore, Maryland.
+(4)Vavilov Institute of General Genetics, Moscow, Russia.
+(5)Research Institute for Genetics and Selection of Industrial Microorganisms,
+Moscow, Russia.
+(6)Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University,
+Baltimore, Maryland.
+(7)Department of Otolaryngology-Head and Neck Surgery, University of California
+San Francisco, San Francisco, California.
+(8)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Medical
+Institutions, Baltimore, Maryland. jcalifano@ucsd.edu.
+(9)Division of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+University of California, San Diego, California.
+
+The incidence of HPV-related oropharyngeal squamous cell carcinoma (OPSCC) has
+increased more than 200% in the past 20 years. Recent genetic sequencing efforts 
+have elucidated relevant genes in head and neck cancer, but HPV-related tumors
+have consistently shown few DNA mutations. In this study, we sought to analyze
+alternative splicing events (ASE) that could alter gene function independent of
+mutations. To identify ASE unique to HPV-related tumors, RNA sequencing was
+performed on 46 HPV-positive OPSCC and 25 normal tissue samples. A novel
+algorithm using outlier statistics on RNA-sequencing junction expression
+identified 109 splicing events, which were confirmed in a validation set from The
+Cancer Genome Atlas. Because the most common type of splicing event identified
+was an alternative start site (39%), MBD-seq genome-wide CpG methylation data
+were analyzed for methylation alterations at promoter regions. ASE in six genes
+showed significant negative correlation between promoter methylation and
+expression of an alternative transcriptional start site, including AKT3 The novel
+AKT3 transcriptional variant and methylation changes were confirmed using qRT-PCR
+and qMSP methods. In vitro silencing of the novel AKT3 variant resulted in
+significant growth inhibition of multiple head and neck cell lines, an effect not
+observed with wild-type AKT3 knockdown. Analysis of ASE in HPV-related OPSCC
+identified multiple alterations likely involved in carcinogenesis, including a
+novel, functionally active transcriptional variant of AKT3 Our data indicate that
+ASEs represent a significant mechanism of oncogenesis with untapped potential for
+understanding complex genetic changes that result in the development of cancer.
+Cancer Res; 77(19); 5248-58. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/0008-5472.CAN-16-3106 
+PMCID: PMC6042297
+PMID: 28733453  [Indexed for MEDLINE]

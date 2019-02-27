@@ -1,0 +1,44 @@
+
+
+2242. Head Neck Pathol. 2017 Mar;11(1):48-54. doi: 10.1007/s12105-017-0796-z. Epub 2017
+Feb 28.
+
+Update from the 4th Edition of the World Health Organization Classification of
+Head and Neck Tumours: What Is New in the 2017 WHO Blue Book for Tumors and
+Tumor-Like Lesions of the Neck and Lymph Nodes.
+
+Katabi N(1), Lewis JS(2)(3).
+
+Author information: 
+(1)Department of Pathology, Memorial Sloan Kettering Cancer Center, 1275 York
+Avenue, New York, NY, 10065, USA. katabin@mskcc.org.
+(2)Department of Pathology, Microbiology, and Immunology, Vanderbilt University
+Medical Center, Nashville, TN, USA.
+(3)Department of Otolaryngology, Vanderbilt University Medical Center, Nashville,
+TN, USA.
+
+The World Health Organization (WHO) 2017 Classification of Head and Neck Tumors
+("Blue Book") will now include a new chapter on tumors and tumor-like lesions of 
+the neck and lymph nodes, which was not included in the previous edition. Tumors 
+and tumor-like lesions, including a variety of cysts and metastases, can arise in
+any component in the neck, including soft tissue, lymph nodes, and developmental 
+remnants. The pathology and clinical features of metastatic carcinoma of unknown 
+primary in the head and neck has changed dramatically in the last several years. 
+Many of these tumors which were previously diagnosed as unknown primary are now
+identified as oropharyngeal and nasopharyngeal carcinomas related to human
+papillomavirus (HPV), less commonly to Epstein-Barr virus (EBV) and occasionally 
+even to Merkel cell polyomavirus. Many unusual features can arise in these
+metastases, such as undifferentiated morphology, extensive cystic change with
+central degeneration, gland formation, and even ciliated cells. Rarely, carcinoma
+in the neck can arise in association with a heterotopic tissue, primarily thyroid
+or salivary gland tissue. Tumor-like lesions include branchial cleft cysts,
+thyroglossal duct cyst, dermoid and teratoid cyst, and ranula. Pathologists
+should be familiar with the diagnostic features and clinicopathologic corrections
+of these neck lesions in order to correctly diagnosis them and to provide for
+proper clinical management. This article will briefly describe the pathologic and
+clinical features of these entities as they are covered in the new 2017 Blue
+Book.
+
+DOI: 10.1007/s12105-017-0796-z 
+PMCID: PMC5340737
+PMID: 28247228  [Indexed for MEDLINE]

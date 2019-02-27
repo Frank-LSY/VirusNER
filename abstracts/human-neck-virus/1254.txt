@@ -1,0 +1,42 @@
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+1254. BMC Cancer. 2017 Jul 28;17(1):507. doi: 10.1186/s12885-017-3501-4.
+
+Successful treatment with anti-programmed-death-1 antibody in a relapsed natural 
+killer/T-cell lymphoma patient with multi-line resistance: a case report.
+
+Lai J(1), Xu P(1), Jiang X(1), Zhou S(1), Liu A(2).
+
+Author information: 
+(1)Department of oncology, The Second Affiliated Hospital of Nanchang University,
+Nanchang, 330006, China.
+(2)Department of oncology, The Second Affiliated Hospital of Nanchang University,
+Nanchang, 330006, China. awliu666@163.com.
+
+BACKGROUND: Extranodal natural killer/T-cell lymphoma (NKTCL), nasal type, is an 
+aggressive malignancy with poor prognosis. Currently, there is no recommended
+standard therapy for relapsed NKTCL.
+CASE PRESENTATION: A 37-year-old woman with lymphadenopathy was diagnosed with
+NKTCL by biopsy of an enlarged lymph node on the right side of her neck. Enhanced
+computed tomography revealed no metastasis. For this patient, we performed
+continuous chemotherapy followed by radiotherapy; however, nodule biopsy showed
+metastases in her lower limbs 3 months after radiotherapy, which confirmed
+disease progression. Unfortunately, the patient' s temperature was persistently
+high and her skin ulcers could not be controlled well using multi-line treatment.
+Therefore, we attempted treatment with the anti-programmed-death-1 (PD-1)
+antibody, pembrolizumab. Surprisingly, the patient achieved clinical complete
+remission (CR) after four cycles of pembrolizumab treatment, despite having
+persistent detectable Epstein-Barr virus (EBV) DNA. Other molecular monitoring
+techniques were unavailable for this patient owing to the retrospective nature of
+the study. The only adverse event was soreness of the upper limb joints and
+muscles.
+CONCLUSION: This relapsed NKTCL case treated with pembrolizumab showed that
+multimodal therapy including pembrolizumab would be partially or totally
+effective for relapsed NKTCL.
+
+DOI: 10.1186/s12885-017-3501-4 
+PMCID: PMC5534108
+PMID: 28754096  [Indexed for MEDLINE]

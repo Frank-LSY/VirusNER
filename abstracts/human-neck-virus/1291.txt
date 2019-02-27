@@ -1,0 +1,19 @@
+
+
+1291. Oncology (Williston Park). 2017 Dec 15;31(12):e33-e40.
+
+Emergence of a Novel Staging System for Oropharyngeal Squamous Cell Carcinoma
+Based on HPV Status.
+
+Panwar A, Interval E, Lydiatt WM.
+
+The staging of oropharyngeal squamous cell carcinoma has undergone key changes in
+the eighth edition of the American Joint Committee on Cancer Staging Manual, set 
+to take effect January 1, 2018. The most significant change relates to the
+development of a novel staging system for human papillomavirus (HPV)-associated
+oropharyngeal squamous cell carcinomas, distinct from that for non-HPV-associated
+squamous cell carcinomas of the oropharynx. We describe the revised staging
+parameters and the rationale in support of the changes.
+
+
+PMID: 29297174  [Indexed for MEDLINE]

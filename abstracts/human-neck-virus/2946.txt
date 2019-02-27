@@ -1,0 +1,42 @@
+
+
+2946. Pathol Int. 2017 Sep;67(9):461-466. doi: 10.1111/pin.12561. Epub 2017 Jul 16.
+
+Expression of interferon regulatory factor 7 correlates with the expression of
+Epstein-Barr Virus latent membrane protein 1 and cervical lymph node metastasis
+in nasopharyngeal cancer.
+
+Kondo S(1), Endo K(1), Wakisaka N(1), Aga M(1), Kano M(1), Seishima N(1), Imoto
+T(1), Kobayashi E(1), Moriyama-Kita M(1), Nakanishi Y(1), Murono S(2), Pagano
+JS(3), Yoshizaki T(1).
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, Kanazawa, Ishikawa, Japan.
+(2)Department of Otolaryngology, Fukushima Medical University, Fukushima,
+Fukushima, Japan.
+(3)Lineberger Comprehensive Cancer Center and Departments of Medicine and
+Microbiology and Immunology, University of North Carolina at Chapel Hill, Chapel 
+Hill, NC 27599-7295, USA.
+
+Interferon regulatory factor 7 (IRF7) has oncogenic properties in several
+malignancies such as Epstein-Barr virus (EBV)-associated lymphoma. However, there
+is no evidence whether IRF7 is associated with the oncogenesis of nasopharyngeal 
+cancer (NPC), the pathogenesis of which is closely associated with EBV. Herein,
+we report that expression of IRF7 was increased in normal nasopharyngeal cells
+that expressed the EBV principal oncoprotein, latent membrane protein 1 (LMP1).
+In addition, IRF7 was mainly expressed in the nucleus in both normal
+nasopharyngeal cells and nasopharyngeal cancer cells that expresses LMP1. On
+immunohistochemical analysis, IRF7 was predominantly localized in the nucleus in 
+biopsy samples of NPC tissues. In total, IRF7 expression was detected with 36 of 
+49 specimens of these tissues. Furthermore, the expression score of IRF7
+correlated with the expression score of LMP1. Moreover, the expression score of
+IRF7 is associated with cervical lymph-node metastasis, which reflects the highly
+metastatic nature of this cancer. Taken together, our results suggest that
+expression of IRF7 is one of the metastatic effectors of LMP1 signalling in
+EBV-associated NPC.
+
+© 2017 Japanese Society of Pathology and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/pin.12561 
+PMID: 28712115  [Indexed for MEDLINE]

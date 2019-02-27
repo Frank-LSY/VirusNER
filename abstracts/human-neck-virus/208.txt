@@ -1,0 +1,52 @@
+
+
+208. Crit Rev Oncol Hematol. 2015 Sep;95(3):397-406. doi:
+10.1016/j.critrevonc.2015.03.005. Epub 2015 Apr 18.
+
+Integrating genomics in head and neck cancer treatment: Promises and pitfalls.
+
+Thariat J(1), Vignot S(2), Lapierre A(3), Falk AT(4), Guigay J(5), Van
+Obberghen-Schilling E(6), Milano G(7).
+
+Author information: 
+(1)Oncopharmacology Unit EA 3836, Centre A. Lacassagne, 33 Av de Valombrose,
+06189 Nice, France; Department of Radiation Oncology, Centre A. Lacassagne, 33 Av
+de Valombrose, 06189 Nice, France. Electronic address: jthariat@hotmail.com.
+(2)Department of Oncology and Hematology-Hôpitaux de Chartres, 6 rue Claude
+Bernard, 28630 Chartres Le Coudray, France.
+(3)Service d'Oncologie Radiothérapie, Centre Hospitalier Lyon Sud, Hospices
+Civils de Lyon Université Claude Bernard, Lyon 69008, France.
+(4)Department of Radiation Oncology, Centre A. Lacassagne, 33 Av de Valombrose,
+06189 Nice, France.
+(5)Department of Medical Oncology, Centre A. Lacassagne, 33 Av de Valombrose,
+06189 Nice, France.
+(6)University of Nice Sophia Antipolis-CNRSUMR7277-InsermU1091, Parc Valrose,
+06108 Nice, France.
+(7)Oncopharmacology Unit EA 3836, Centre A. Lacassagne, 33 Av de Valombrose,
+06189 Nice, France.
+
+Head and neck squamous cell carcinomas (HNSCC) represent a multifactorial disease
+of poor prognosis. They have lagged behind other cancers in terms of personalized
+therapy. With expansion and high throughput sequencing methods, recent landmark
+exonic studies and Cancer Genome Atlas data have identified genes relevant to
+carcinogenesis and cancer progression. Mutational profiles and rates vary widely 
+depending on exposure to carcinogens, anatomic subsites and human papilloma virus
+(HPV) infection. Tumors may exhibit specific, tissue-specific, not exclusively
+HPV-related, gene alterations, such those observed in oral cavity cancers in Asia
+or Occident. Except for the PI3K pathway, the rate of mutations in HPV+ cancers
+is much lower than in tobacco/alcohol-related cancers. Somatic driver mutation
+analyses show that relatively few driver genes are druggable in HNSCC and that
+tumor suppressor gene alterations prevail. More mature for therapeutic
+applications is the oncogenic PI3K pathway, with preclinical human xenograft
+models suggesting that PI3KCA pathway mutations may be used as predictive
+biomarkers and clinical data showing efficacy of mTOR/Akt inhibitors. Therapeutic
+guidance, to date, relies on classical histoprognostic factors, anatomic subsite 
+and HPV status, with integration of hierarchized supervised mutational profiling 
+to provide additional therapeutic options in advanced HNSCC in a near future.
+Unsupervised controlled genomic analyses remain necessary to unravel potentially 
+relevant genes.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.critrevonc.2015.03.005 
+PMID: 25979769  [Indexed for MEDLINE]

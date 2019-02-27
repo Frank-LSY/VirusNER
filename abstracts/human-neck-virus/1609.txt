@@ -1,0 +1,72 @@
+
+
+1609. MBio. 2016 May 3;7(3). pii: e00270-16. doi: 10.1128/mBio.00270-16.
+
+Suppression of Antitumor Immune Responses by Human Papillomavirus through
+Epigenetic Downregulation of CXCL14.
+
+Cicchini L(1), Westrich JA(1), Xu T(1), Vermeer DW(2), Berger JN(1), Clambey
+ET(3), Lee D(4), Song JI(5), Lambert PF(4), Greer RO(6), Lee JH(7), Pyeon D(8).
+
+Author information: 
+(1)Department of Immunology and Microbiology, University of Colorado School of
+Medicine, Aurora, Colorado, USA.
+(2)Cancer Biology Research Center, Sanford Research, Sioux Falls, South Dakota,
+USA.
+(3)Department of Anesthesiology, University of Colorado School of Medicine,
+Aurora, Colorado, USA.
+(4)McArdle Laboratory for Cancer Research, University of Wisconsin-Madison,
+Madison, Wisconsin, USA.
+(5)Department of Otolaryngology, University of Colorado School of Medicine,
+Aurora, Colorado, USA.
+(6)Departments of Pathology and Dermatology and Division of Oral and
+Maxillofacial Pathology, University of Colorado School of Medicine, Aurora,
+Colorado, USA.
+(7)Cancer Biology Research Center, Sanford Research, Sioux Falls, South Dakota,
+USA john.lee@sanfordhealth.org dohun.pyeon@ucdenver.edu.
+(8)Department of Immunology and Microbiology, University of Colorado School of
+Medicine, Aurora, Colorado, USA Department of Medicine, University of Colorado
+School of Medicine, Aurora, Colorado, USA john.lee@sanfordhealth.org
+dohun.pyeon@ucdenver.edu.
+
+High-risk human papillomaviruses (HPVs) are causally associated with multiple
+human cancers. Previous studies have shown that the HPV oncoprotein E7 induces
+immune suppression; however, the underlying mechanisms remain unknown. To
+understand the mechanisms by which HPV deregulates host immune responses in the
+tumor microenvironment, we analyzed gene expression changes of all known
+chemokines and their receptors using our global gene expression data sets from
+human HPV-positive and -negative head/neck cancer and cervical tissue specimens
+in different disease stages. We report that, while many proinflammatory
+chemokines increase expression throughout cancer progression, CXCL14 is
+dramatically downregulated in HPV-positive cancers. HPV suppression of CXCL14 is 
+dependent on E7 and associated with DNA hypermethylation in the CXCL14 promoter. 
+Using in vivo mouse models, we revealed that restoration of Cxcl14 expression in 
+HPV-positive mouse oropharyngeal carcinoma cells clears tumors in immunocompetent
+syngeneic mice, but not in Rag1-deficient mice. Further, Cxcl14 reexpression
+significantly increases natural killer (NK), CD4(+) T, and CD8(+) T cell
+infiltration into the tumor-draining lymph nodes in vivo In vitro transwell
+migration assays show that Cxcl14 reexpression induces chemotaxis of NK, CD4(+)
+T, and CD8(+) T cells. These results suggest that CXCL14 downregulation by HPV
+plays an important role in suppression of antitumor immune responses. Our
+findings provide a new mechanistic understanding of virus-induced immune evasion 
+that contributes to cancer progression.IMPORTANCE: Human papillomaviruses (HPVs) 
+are causally associated with more than 5% of all human cancers. During decades of
+cancer progression, HPV persists, evading host surveillance. However, little is
+known about the immune evasion mechanisms driven by HPV. Here we report that the 
+chemokine CXCL14 is significantly downregulated in HPV-positive head/neck and
+cervical cancers. Using patient tissue specimens and cultured keratinocytes, we
+found that CXCL14 downregulation is linked to CXCL14 promoter hypermethylation
+induced by the HPV oncoprotein E7. Restoration of Cxcl14 expression in
+HPV-positive cancer cells clears tumors in immunocompetent syngeneic mice, but
+not in immunodeficient mice. Mice with Cxcl14 reexpression show dramatically
+increased natural killer and T cells in the tumor-draining lymph nodes. These
+results suggest that epigenetic downregulation of CXCL14 by HPV plays an
+important role in suppressing antitumor immune responses. Our findings may offer 
+novel insights to develop preventive and therapeutic tools for restoring
+antitumor immune responses in HPV-infected individuals.
+
+Copyright © 2016 Cicchini et al.
+
+DOI: 10.1128/mBio.00270-16 
+PMCID: PMC4959654
+PMID: 27143385  [Indexed for MEDLINE]

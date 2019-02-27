@@ -1,0 +1,52 @@
+
+
+2447. Mol Carcinog. 2017 Apr;56(4):1335-1343. doi: 10.1002/mc.22595. Epub 2017 Jan 2.
+
+E2F transcription factor 2 variants as predictive biomarkers for recurrence risk 
+in patients with squamous cell carcinoma of the oropharynx.
+
+Li Y(1)(2), Sturgis EM(2)(3), Zhu L(2)(4), Cao X(2)(5), Wei Q(6), Zhang H(2)(7), 
+Li G(2)(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Union Hospital, Tongji Medical College,
+Huazhong University of Science Technology, Wuhan, China.
+(2)Department of Head Neck Surgery, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(3)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas.
+(4)Department of Oral Maxillofacial Surgery, Guangdong General Hospital,
+Guangdong Academy of Medical Sciences, Guangzhou, China.
+(5)Department of Ultrasound, Yantai Yuhuangding Hospital, Yantai, China.
+(6)Duke University Medical Center, Duke Cancer Institute, Durham, North Carolina.
+(7)Department of Otorhinolaryngology-Head and Neck Surgery, Yuhuangding Hospital 
+of Qingdao University, Yantai, China.
+
+Because E2F transcription factor 2 (E2F2) promoter polymorphisms have been
+implicated in carcinogenesis and prognosis, we investigated associations between 
+genetic variants in five E2F2 promoter polymorphisms and recurrence risk of
+squamous cell carcinoma of the oropharynx (SCCOP) in 1 008 patients. A log-rank
+test and multivariable Cox models were used to assess the associations. Compared 
+with patients with variant genotypes of E2F2-rs2742976 and E2F2-rs3218123,
+patients with common homozygous genotypes had better disease-free survival (both 
+log-rank, P < 0.001) and lower SCCOP recurrence risk (HR, 0.4, 95% CI, 0.3-0.6
+and HR, 0.3, 95% CI, 0.2-0.5, respectively) after multivariable adjustment.
+Furthermore, among patients with HPV16-positive tumors, those with common
+homozygous genotypes of E2F2-rs2742976 and E2F2-rs3218123 had better disease-free
+survival rates (both log-rank, P < 0.001) and lower recurrence risk (HR, 0.1, 95%
+CI, 0.1-0.4 and HR, 0.1, 95% CI, 0.0-0.2, respectively) than patients with
+variant genotypes. However, no significant differences were found for the other
+three polymorphisms. After combining the risk genotypes of the five polymorphisms
+and using the high-risk group (2-5 risk genotypes) as the reference group, we
+found that the low-risk groups (0 or 1 risk genotype) had significantly lower
+recurrence risk among all patients (HR, 0.4, 95% CI, 0.3-0.6) and among
+HPV16-positive patients (HR, 0.2, 95% CI, 0.1-0.5). Our findings suggest that
+E2F2 polymorphisms may individually or jointly modify SCCOP recurrence risk,
+particularly for SCCOP patients with HPV16-positive tumors. © 2017 Wiley
+Periodicals, Inc.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mc.22595 
+PMCID: PMC6036627
+PMID: 27864908  [Indexed for MEDLINE]

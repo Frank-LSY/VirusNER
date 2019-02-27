@@ -1,0 +1,82 @@
+
+
+1388. Lancet Oncol. 2016 Apr;17(4):440-451. doi: 10.1016/S1470-2045(15)00560-4. Epub
+2016 Feb 27.
+
+Development and validation of a staging system for HPV-related oropharyngeal
+cancer by the International Collaboration on Oropharyngeal cancer Network for
+Staging (ICON-S): a multicentre cohort study.
+
+O'Sullivan B(1), Huang SH(2), Su J(2), Garden AS(3), Sturgis EM(3), Dahlstrom
+K(3), Lee N(4), Riaz N(4), Pei X(4), Koyfman SA(5), Adelstein D(5), Burkey BB(5),
+Friborg J(6), Kristensen CA(6), Gothelf AB(6), Hoebers F(7), Kremer B(7), Speel
+EJ(7), Bowles DW(8), Raben D(8), Karam SD(8), Yu E(2), Xu W(2).
+
+Author information: 
+(1)Princess Margaret Cancer Centre, University of Toronto, Toronto, ON, Canada.
+Electronic address: brian.osullivan@rmp.uhn.on.ca.
+(2)Princess Margaret Cancer Centre, University of Toronto, Toronto, ON, Canada.
+(3)M D Anderson Cancer Center, Houston, TX, USA.
+(4)Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+(5)Cleveland Clinic Taussig Cancer Institute, Cleveland, OH, USA.
+(6)Rigshospitalet, Copenhagen University Hospital, Copenhagen, Denmark.
+(7)GROW-School for Oncology and Developmental Biology, Maastricht University
+Medical Centre, Maastricht, Netherlands.
+(8)University of Colorado Cancer Center, Aurora, CO, USA.
+
+Comment in
+    Lancet Oncol. 2016 Apr;17 (4):403-404.
+
+BACKGROUND: Human papillomavirus-related (HPV+) oropharyngeal cancer is a rapidly
+emerging disease with generally good prognosis. Many prognostic algorithms for
+oropharyngeal cancer incorporate HPV status as a stratification factor, rather
+than recognising the uniqueness of HPV+ disease. The International Collaboration 
+on Oropharyngeal cancer Network for Staging (ICON-S) aimed to develop a TNM
+classification specific to HPV+ oropharyngeal cancer.
+METHODS: The ICON-S study included patients with non-metastatic oropharyngeal
+cancer from seven cancer centres located across Europe and North America; one
+centre comprised the training cohort and six formed the validation cohorts. We
+ascertained patients' HPV status with p16 staining or in-situ hybridisation. We
+compared overall survival at 5 years between training and validation cohorts
+according to 7th edition TNM classifications and HPV status. We used recursive
+partitioning analysis (RPA) and adjusted hazard ratio (AHR) modelling methods to 
+derive new staging classifications for HPV+ oropharyngeal cancer. Recent
+hypotheses concerning the effect of lower neck lymph nodes and number of lymph
+nodes were also investigated in an exploratory training cohort to assess
+relevance within the ICON-S classification.
+FINDINGS: Of 1907 patients with HPV+ oropharyngeal cancer, 661 (35%) were
+recruited at the training centre and 1246 (65%) were enrolled at the validation
+centres. 5-year overall survival was similar for 7th edition TNM stage I, II,
+III, and IVA (respectively; 88% [95% CI 74-100]; 82% [71-95]; 84% [79-89]; and
+81% [79-83]; global p=0·25) but was lower for stage IVB (60% [53-68]; p<0·0001). 
+5-year overall survival did not differ among N0 (80% [95% CI 73-87]), N1-N2a (87%
+[83-90]), and N2b (83% [80-86]) subsets, but was significantly lower for those
+with N3 disease (59% [51-69]; p<0·0001). Stage classifications derived by RPA and
+AHR models were ranked according to survival performance, and AHR-New was ranked 
+first, followed by AHR-Orig, RPA, and 7th edition TNM. AHR-New was selected as
+the proposed ICON-S stage classification. Because 5-year overall survival was
+similar for patients classed as T4a and T4b, T4 is no longer subdivided in the
+re-termed ICON-S T categories. Since 5-year overall survival was similar among
+N1, N2a, and N2b, we re-termed the 7th edition N categories as follows: ICON-S
+N0, no lymph nodes; ICON-S N1, ipsilateral lymph nodes; ICON-S N2, bilateral or
+contralateral lymph nodes; and ICON-S N3, lymph nodes larger than 6 cm. This
+resembles the N classification of nasopharyngeal carcinoma but without a lower
+neck lymph node variable. The proposed ICON-S classification is stage I
+(T1-T2N0-N1), stage II (T1-T2N2 or T3N0-N2), and stage III (T4 or N3). Metastatic
+disease (M1) is classified as ICON-S stage IV. In an exploratory training cohort 
+(n=702), lower lymph node neck involvement had a significant effect on survival
+in ICON-S stage III but had no effect in ICON-S stage I and II and was not
+significant as an independent factor. Overall survival was similar for patients
+with fewer than five lymph nodes and those with five or more lymph nodes, within 
+all ICON-S stages.
+INTERPRETATION: Our proposed ICON-S staging system for HPV+ oropharyngeal cancer 
+is suitable for the 8th edition of the Union for International Cancer
+Control/American Joint Committee on Cancer TNM classification. Future work is
+needed to ascertain whether T and N categories should be further refined and
+whether non-anatomical factors might augment the full classification.
+FUNDING: None.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(15)00560-4 
+PMID: 26936027  [Indexed for MEDLINE]

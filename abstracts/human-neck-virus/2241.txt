@@ -1,0 +1,50 @@
+
+
+2241. Cochlear Implants Int. 2017 Jul;18(4):216-225. doi:
+10.1080/14670100.2017.1315510. Epub 2017 May 9.
+
+Management and outcomes of cochlear implantation in patients with congenital
+cytomegalovirus (cCMV)-related deafness.
+
+Hoey AW(1), Pai I(1), Driver S(1), Connor S(2), Wraige E(3), Jiang D(1).
+
+Author information: 
+(1)a Department of Paediatric Otolaryngology , Evelina London Children's Hospital
+, London , UK.
+(2)b Department of Head and Neck Imaging , Guy's and St Thomas' NHS Foundation
+Trust , London , UK.
+(3)c Children's Neurosciences Centre , Newcomen Centre at St Thomas , London ,
+UK.
+
+OBJECTIVE: Congenital Cytomegalovirus (cCMV) is a well-defined cause for neonatal
+mortality and morbidity, particularly sensorineural hearing loss and other
+neurodevelopmental disruption. We present a retrospective study which provides an
+overview of the assessment and preoperative work-up for patients diagnosed with
+cCMV and their cochlear implant (CI) outcomes.
+METHOD: This was a retrospective case series study of all children with a
+confirmed diagnosis of cCMV who underwent cochlear implantation at St Thomas'
+Hospital from 2003 to 2015. Data were collected on the preoperative audiology,
+imaging findings, and neurological assessment. CI outcomes were measured using
+the Speech Intelligibility Rating (SIR), Category of Auditory Performance (CAP), 
+and Infant-Toddler Meaningful Auditory Integration Scale (IT-MAIS).
+RESULTS: Eleven patients underwent cochlear implantation, 45% had
+severe-to-profound hearing loss, and 55% had bilateral profound hearing loss. The
+mean age at initial assessment was 2.1 years (median 1.7, range 0.6-7.5) and the 
+mean age of implantation was 4.0 years (median 2.5, range 0.9-11.8). The mean
+length of follow-up was 4.8 years (median 2.3, range 1.5-14). Six patients had
+bilateral simultaneous implantation (55%), four bilateral sequential (36%), and
+one unilateral (9%). Nine patients had white matter changes on magnetic resonance
+imaging, largely in the periventricular and cortical regions. Of the 11 patients,
+4 (36%) had associated neurological comorbidities and 3 (27%) had additional
+neurocognitive developmental delay of varying severity. The majority of patients 
+showed improvement in auditory outcomes. No statistically significant correlation
+was found between age of implantation, neurocognitive, and neurological
+comorbidities or length of follow-up and hearing outcomes.
+CONCLUSION: While the overall outcomes were mixed, most children in our cohort
+were found to benefit from cochlear implantation. Our data also highlight the
+significant neurodevelopmental comorbidities associated with cCMV and their
+negative impact on CI outcomes. With the recent advances in medical treatment,
+this underlines the importance of multidisciplinary management of these patients.
+
+DOI: 10.1080/14670100.2017.1315510 
+PMID: 28485697  [Indexed for MEDLINE]

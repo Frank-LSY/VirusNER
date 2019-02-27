@@ -1,0 +1,44 @@
+
+
+1948. Head Neck. 2016 Sep;38(9):1338-46. doi: 10.1002/hed.24445. Epub 2016 Mar 30.
+
+Poor prognosis in human papillomavirus-positive oropharyngeal squamous cell
+carcinomas that overexpress hypoxia inducible factor-1α.
+
+Swartz JE(1), Pothen AJ(1), van Kempen PM(1), Stegeman I(1)(2), Formsma FK(3),
+Cann EM(3), Willems SM(4), Grolman W(1)(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology - Head and Neck Surgery, University Medical 
+Center Utrecht, Utrecht, The Netherlands.
+(2)Brain Center Rudolph Magnus, University Medical Center Utrecht, Utrecht, The
+Netherlands.
+(3)Department of Oral and Maxillofacial Surgery, University Medical Center
+Utrecht, Utrecht, The Netherlands.
+(4)Department of Pathology, University Medical Center Utrecht, Utrecht, The
+Netherlands.
+
+BACKGROUND: Hypoxia induces stabilization of the transcription factor HIF-1alpha 
+(HIF-1α), associated with (chemo-)radiotherapy resistance in oropharyngeal
+squamous cell carcinoma (SCC). We investigated the effect of HIF-1α expression on
+survival in relation to human papillomavirus (HPV) status in oropharyngeal SCC.
+METHODS: We conducted an immunohistochemical analysis of HIF-1α protein
+expression and downstream targets carbonic anhydrase-IX (CA-IX) and glucose
+transporter-1 (GLUT-1) in 274 patients with oropharyngeal SCC. Overall survival
+(OS) was analyzed in total and stratified for HPV status and treatment.
+RESULTS: In HPV-positive tumors (n = 44), HIF-1α overexpression predicted worse
+OS (hazard ratio [HR] = 6.23; p = .012), whereas TNM classification or treatment 
+modality did not. In HPV-negative tumors (n = 218), advanced T and N
+classification and HIF-1α overexpression all independently predicted worse OS.
+However, the effect of HIF-1α overexpression on OS was lower in HPV-negative (HR 
+= 1.50; p = .024) than in HPV-positive tumors.
+CONCLUSION: HIF-1α overexpression is associated with worse OS and characterized a
+subgroup of patients with HPV-positive oropharyngeal SCC with poor prognosis.
+Possibly, patients with HIF-1α overexpressing HPV-positive tumors should not be
+eligible for treatment dose deescalation. © 2016 Wiley Periodicals, Inc. Head
+Neck 38: 1338-1346, 2016.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24445 
+PMID: 27027530  [Indexed for MEDLINE]

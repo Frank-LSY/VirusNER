@@ -1,0 +1,43 @@
+
+
+784. Laryngoscope. 2014 Apr;124(4):832-7. doi: 10.1002/lary.24348. Epub 2013 Oct 2.
+
+Respiratory viral infection in the chronic persistent phase of chronic
+rhinosinusitis.
+
+Liao B(1), Hu CY, Liu T, Liu Z.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Tongji Hospital, Tongji
+Medical College, Huazhong University of Science and Technology, Wuhan, People's
+Republic of China.
+
+OBJECTIVES/HYPOTHESIS: The role of respiratory viral infection in the
+pathogenesis of chronic rhinosinusitis (CRS) has been rarely studied and remains 
+controversial. The aim of this study was to explore the prevalence of respiratory
+viruses in the chronic status of CRS.
+STUDY DESIGN: A case-control prospective study.
+METHODS: Fifty-three control subjects, and 67 CRS with nasal polyp (CRSwNP) and
+61 CRS without nasal polyp (CRSsNP) patients without signs of acute viral
+infection were enrolled. Epithelial cells scraped from the middle nasal meatus
+were tested for the nucleic acid of nine common respiratory viruses using
+polymerase chain reaction assay. The clinical disease severity was compared
+between subjects with and without viral infection.
+RESULTS: The overall detection rate of viral infection was 75.47%, 68.66%, and
+73.77% in controls, CRSwNP, and CRSsNP, respectively, and no significant
+difference among studied groups was observed. There was no significant difference
+in detection rate of any specific individual virus or multiple viruses among the 
+groups studied either. Visual analog scale scores of symptoms, computed
+tomography scores, or endoscope scores did not show obvious difference between
+subjects with and without viral infection.
+CONCLUSIONS: Although a high frequency of viral infection could be observed in
+the middle nasal meatus, no increase of frequency of viral infection could be
+demonstrated in chronic persistent phase of CRSsNP and CRSwNP. The contribution
+of the interaction between viral infection and host immunity to the pathogenesis 
+of CRS remains to be determined.
+LEVEL OF EVIDENCE: 3b. Laryngoscope, 124:832-837, 2014.
+
+© 2013 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.24348 
+PMID: 23929535  [Indexed for MEDLINE]

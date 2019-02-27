@@ -1,0 +1,50 @@
+
+
+1297. Cancer Cytopathol. 2016 Nov;124(11):820-827. doi: 10.1002/cncy.21753. Epub 2016
+Jul 12.
+
+Validation study of HPV DNA detection from stained FNA smears by polymerase chain
+reaction: Improving the diagnostic workup of patients with a tumor on the neck.
+
+Channir HI(1), Grønhøj Larsen C(1), Ahlborn LB(2), van Overeem Hansen T(2), Gerds
+TA(3), Charabi BW(1), Vainer B(4), von Buchwald C(1), Lajer CB(1), Kiss K(4).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, and Audiology,
+Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+(2)Center for Genomic Medicine, Rigshospitalet, University of Copenhagen,
+Copenhagen, Denmark.
+(3)Department of Biostatistics, University of Copenhagen, Copenhagen, Denmark.
+(4)Department of Pathology, Rigshospitalet, University of Copenhagen, Copenhagen,
+Denmark.
+
+BACKGROUND: Human papillomavirus (HPV)-related oropharyngeal squamous cell
+carcinoma (OPSCC) often presents with cystic cervical metastasis and a small
+primary tumor localized in the palatine tonsils or base of the tongue, which is
+diagnostically challenging. Testing for HPV DNA in fine-needle aspiration (FNA)
+smears from metastases may facilitate a targeted diagnostic workup for
+identifying the primary tumor. This study was designed to assess the ability to
+detect HPV DNA in FNA smears with polymerase chain reaction (PCR).
+METHODS: May-Grünvald-Giemsa (MGG)-stained FNA smears from metastases and
+corresponding surgical specimens were collected from 71 patients with known
+HPV-positive OPSCC, 12 patients with oral squamous cell carcinoma (OSCC), 20
+patients with branchial cleft cysts, and 20 patients with Warthin tumors.
+Thirty-eight patients with OPSCC and 7 patients with OSCC had FNA smears
+available from metastases and also surgical specimens from the primary tumor and 
+the metastases. The scraped cell material from FNA smears and corresponding
+surgical specimens were analyzed for HPV DNA by PCR. p16 immunohistochemistry was
+performed on surgical specimens from the carcinomas.
+RESULTS: HPV DNA was detected in 68 of the 71 FNA smears from OPSCC metastases.
+All corresponding surgical specimens from primary tumors (n = 71) and metastases 
+(n = 38) were p16- and HPV DNA-positive. All the surgical specimens and
+corresponding FNA smears from OSCCs, Warthin tumors, and branchial cleft cysts
+were HPV DNA-negative. The sensitivity and specificity were 94.7% and 100%,
+respectively.
+CONCLUSIONS: The detection of HPV DNA in MGG-stained FNA smears by PCR is a valid
+method that could be implemented in routine clinical practice. Cancer Cytopathol 
+2016;124:820-7. © 2016 American Cancer Society.
+
+© 2016 American Cancer Society.
+
+DOI: 10.1002/cncy.21753 
+PMID: 27404322  [Indexed for MEDLINE]

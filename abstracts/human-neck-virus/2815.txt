@@ -1,0 +1,59 @@
+
+
+2815. Exp Mol Pathol. 2014 Dec;97(3):572-8. doi: 10.1016/j.yexmp.2014.10.011. Epub 2014
+Oct 29.
+
+Next-generation sequencing of salivary high-grade neuroendocrine carcinomas
+identifies alterations in RB1 and the mTOR pathway.
+
+Goyal B(1), Duncavage EJ(2), Martinez D(1), Lewis JS Jr(3), Chernock RD(4).
+
+Author information: 
+(1)Department of Pathology and Immunology, Division of Anatomic and Molecular
+Pathology, Washington University School of Medicine, Saint Louis, MO, United
+States.
+(2)Department of Pathology and Immunology, Division of Anatomic and Molecular
+Pathology, Washington University School of Medicine, Saint Louis, MO, United
+States; Genomics and Pathology Services, Washington University School of
+Medicine, Saint Louis, MO, United States.
+(3)Department of Pathology and Immunology, Division of Anatomic and Molecular
+Pathology, Washington University School of Medicine, Saint Louis, MO, United
+States; Department of Otolaryngology Head and Neck Surgery, Washington University
+School of Medicine, St. Louis, MO, United States.
+(4)Department of Pathology and Immunology, Division of Anatomic and Molecular
+Pathology, Washington University School of Medicine, Saint Louis, MO, United
+States; Department of Otolaryngology Head and Neck Surgery, Washington University
+School of Medicine, St. Louis, MO, United States. Electronic address:
+rchernock@path.wustl.edu.
+
+Salivary gland high-grade neuroendocrine carcinomas are rare, aggressive tumors
+that are morphologically and immunohistochemically similar to cutaneous
+high-grade neuroendocrine (Merkel cell) carcinomas. The majority of Merkel cell
+carcinomas harbor Merkel cell polyomavirus, while the virus is rare or absent in 
+salivary high-grade neuroendocrine carcinomas. Inactivation of retinoblastoma 1
+(RB1) has been implicated in the pathogenesis of both virus-positive and
+-negative Merkel cell carcinomas but by different mechanisms. In virus-positive
+tumors, a portion of the viral genome, the large T antigen, may inactivate RB1,
+and in virus-negative Merkel cell carcinomas truncating mutations in the RB1 gene
+have been identified. The molecular genetics of salivary high-grade
+neuroendocrine carcinomas are not well understood. Here, we performed targeted
+next-generation sequencing of 151 cancer-related genes on 4 four Merkel cell
+polyomavirus-negative primary salivary gland high-grade neuroendocrine carcinoma 
+cases. Somatic mutations were predominantly found within tumor suppressor genes
+[TP53 (3 cases), PTEN (2 cases), RB1 (1 case)]. Truncating RB1 mutations, as seen
+in virus-negative Merkel cell carcinomas, were not identified. However, 3 of 4
+cases had RB1 deletions by copy number variation analysis. The 4th case had loss 
+of heterozygosity for RB1. Fluorescence in situ hybridization confirmed RB1
+deletions in 2 of 3 cases, and the absence of RB1 deletion in the 4th case that
+had loss of heterozygosity. All 4 cases showed loss of RB1 protein expression by 
+immunohistochemistry, indicating that RB1 inactivation is important. However, the
+mechanism of RB1 inactivation appears different than that seen in Merkel cell
+carcinomas. In addition, copy number variation consistent with activation of the 
+PI3KCA/AKT/mTOR pathway was also observed in all 4 cases. The mTOR pathway may be
+a potential therapeutic target in these tumors as mTOR inhibitors are currently
+used to treat other tumor types.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexmp.2014.10.011 
+PMID: 25446844  [Indexed for MEDLINE]

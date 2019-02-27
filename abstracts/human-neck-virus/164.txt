@@ -1,0 +1,40 @@
+
+
+164. J Dent Res. 2015 Nov;94(11):1532-43. doi: 10.1177/0022034515605456. Epub 2015 Sep
+9.
+
+HPV Infection of the Head and Neck Region and Its Stem Cells.
+
+Pullos AN(1), Castilho RM(1), Squarize CH(2).
+
+Author information: 
+(1)Laboratory of Epithelial Biology, Department of Periodontics and Oral
+Medicine, University of Michigan School of Dentistry, Ann Arbor, MI, USA.
+(2)Laboratory of Epithelial Biology, Department of Periodontics and Oral
+Medicine, University of Michigan School of Dentistry, Ann Arbor, MI, USA
+University of Michigan Comprehensive Cancer Center, Ann Arbor, MI, USA
+csquariz@umich.edu.
+
+The human papillomavirus (HPV) is an etiologic agent associated with the
+development of head and neck squamous carcinoma (HNSCC)-in particular,
+oropharyngeal squamous cell carcinoma. The HPV-positive HNSCC is characterized by
+genetic alterations, clinical progression, and therapeutic response, which are
+distinct from HPV-negative head and neck cancers, suggesting that
+virus-associated tumors constitute a unique entity among head and neck cancers.
+Malignant stem cells, or cancer stem cells, are a subpopulation of tumor cells
+that self-renew, initiate new tumors upon transplantation, and are resistant to
+therapy, and their discovery has revealed novel effects of oncovirus infection in
+cancer. In this review, we provide a virus-centric view and novel insights into
+HPV-positive head and neck pathogenesis. We discuss the influence of cancer stem 
+cells, HPV oncoproteins, altered molecular pathways, and mutations in cancer
+initiation and cancer progression. We compiled a catalogue of the mutations
+associated with HPV-positive HNSCC, which may be a useful resource for
+genomic-based studies aiming to develop personalized therapies. We also explain
+recent changes in mass vaccination campaigns against HPV and the potential
+long-term impact of vaccinations on the prevention and treatment of HPV-positive 
+head and neck cancers.
+
+© International & American Associations for Dental Research 2015.
+
+DOI: 10.1177/0022034515605456 
+PMID: 26353884  [Indexed for MEDLINE]

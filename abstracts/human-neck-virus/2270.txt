@@ -1,0 +1,42 @@
+
+
+2270. Oncotarget. 2017 Apr 4;8(14):23414-23426. doi: 10.18632/oncotarget.15582.
+
+DEK associates with tumor stage and outcome in HPV16 positive oropharyngeal
+squamous cell carcinoma.
+
+Smith EA(1), Kumar B(2)(3), Komurov K(1), Smith SM(4), Brown NV(5), Zhao S(5),
+Kumar P(2)(3), Teknos TN(2)(3), Wells SI(1).
+
+Author information: 
+(1)Cancer and Blood Diseases Institute, Cincinnati Children's Hospital Medical
+Center, Cincinnati, OH, 45229, USA.
+(2)Department of Otolaryngology-Head and Neck Surgery, The Ohio State University,
+Columbus, OH, 43210, USA.
+(3)The Ohio State University, Comprehensive Cancer Center, Columbus, OH 43210,
+USA.
+(4)Department of Pathology, The Ohio State University, Columbus, OH, 43210, USA.
+(5)Center for Biostatistics, The Ohio State University, Columbus, OH, 43210, USA.
+
+Oropharyngeal squamous cell carcinomas (OPSCC) are common, have poor outcomes,
+and comprise two biologically and clinically distinct diseases. While OPSCC that 
+arise from human papillomavirus infections (HPV+) have better overall survival
+than their HPV- counterparts, the incidence of HPV+ OPSCC is increasing
+dramatically, affecting younger individuals which are often left with life-long
+co-morbidities from aggressive treatment. To identify patients which do poorly
+versus those who might benefit from milder regimens, risk-stratifying biomarkers 
+are now needed within this population. One potential marker is the DEK
+oncoprotein, whose transcriptional upregulation in most malignancies is
+associated with chemotherapy resistance, advanced tumor stage, and worse
+outcomes. Herein, a retrospective case study was performed on DEK protein
+expression in therapy-naïve surgical resections from 194 OPSCC patients. We found
+that DEK was associated with advanced tumor stage, increased hazard of death, and
+interleukin IL6 expression in HPV16+ disease. Surprisingly, DEK levels in HPV16- 
+OPSCC were not associated with advanced tumor stage or increased hazard of death.
+Overall, these findings mark HPV16- OPSCC as an exceptional malignancy were DEK
+expression does not correlate with outcome, and support the potential prognostic 
+utility of DEK to identify aggressive HPV16+ disease.
+
+DOI: 10.18632/oncotarget.15582 
+PMCID: PMC5410314
+PMID: 28423581  [Indexed for MEDLINE]

@@ -1,0 +1,62 @@
+
+
+3075. Inflammation. 2016 Jun;39(3):949-62. doi: 10.1007/s10753-015-0291-1.
+
+Induction of the Matrix Metalloproteinase 13 Gene in Bronchial Epithelial Cells
+by Interferon and Identification of its Novel Functional Polymorphism.
+
+Mashimo Y(1), Sakurai-Yageta M(2), Watanabe M(3), Arima T(4), Morita Y(4), Inoue 
+Y(4), Sato K(5), Nishimuta T(5), Suzuki S(5), Watanabe H(5), Hoshioka A(6),
+Tomiita M(6), Yamaide A(6), Kohno Y(4), Okamoto Y(7), Shimojo N(4), Hata A(1),
+Suzuki Y(8)(9).
+
+Author information: 
+(1)Department of Public Health, Graduate School of Medicine, Chiba University,
+Chiba, Japan.
+(2)Department of Education and Training, Tohoku Medical Megabank Organization,
+Tohoku University, 2-1 Seiryomachi, Aobaku, Sendai, 980-8573, Japan.
+(3)The Department of Pediatrics, Toho University School of Medicine, Tokyo,
+Japan.
+(4)Department of Pediatrics, Graduate School of Medicine, Chiba University,
+Chiba, Japan.
+(5)Department of Pediatrics, National Shimoshizu Hospital, Yotsukaido, Japan.
+(6)Department of Allergy and Rheumatology, Chiba Children's Hospital, Chiba,
+Japan.
+(7)Department of Otorhinolaryngology and Head and Neck Surgery, Graduate School
+of Medicine, Chiba University, Chiba, Japan.
+(8)Department of Public Health, Graduate School of Medicine, Chiba University,
+Chiba, Japan. ysuzuki@megabank.tohoku.ac.jp.
+(9)Department of Education and Training, Tohoku Medical Megabank Organization,
+Tohoku University, 2-1 Seiryomachi, Aobaku, Sendai, 980-8573, Japan.
+ysuzuki@megabank.tohoku.ac.jp.
+
+Erratum in
+    Inflammation. 2016 Jun;39(3):963.
+
+Matrix metalloproteinases (MMPs) are a class of extra-cellular and membrane-bound
+proteases involved in a wide array of physiological and pathological processes
+including tissue remodeling, inflammation, and cytokine secretion and activation.
+MMP-13 has been shown to be involved in lung diseases such as acute lung injury, 
+viral infections, and chronic obstructive pulmonary disease; however, the
+molecular pathogenesis of MMP-13 in these conditions is not well understood. In
+this study, we investigated the mechanisms and roles of MMP-13 secretion in human
+small airway epithelial cells (SAECs) and functional polymorphisms of the MMP13
+gene. Polyinosinic-polycytidylic acid (poly(I:C)) and interferon β (IFN-β)
+stimulated the secretion of MMP-13 from SAECs by more than several hundred-fold. 
+Stimulation of the secretion by poly(I:C) was abolished by SB304680 (p38
+inhibitor), LY294002 (PI3K inhibitor), Janus kinase (JAK) inhibitor I,
+RNA-activated protein kinase (PKR) inhibitor, and Bay 11-7082 (NF-κB inhibitor), 
+while stimulation by IFN-β was inhibited by all except Bay 11-7082. These data
+suggested that the secretion of MMP-13 was mediated through IFN receptor pathways
+independently of nuclear factor kappa B (NF-κB) and that poly(I:C) stimulated IFN
+secretion in an NF-κB-dependent manner from SAECs, leading to IFN-stimulated
+MMP-13 secretion. Chemical MMP-13 inhibitors and MMP-13 small interfering RNA
+(siRNA) inhibited IFN-stimulated secretion of interferon gamma-inducible protein 
+10 (IP-10) and regulated on activation, normal T-cell expressed and secreted
+(RANTES), suggesting that MMP-13 is involved in the secretion of these
+virus-induced proinflammatory chemokines. We identified a novel functional
+polymorphism in the promoter region of the MMP13 gene. The MMP13 gene may play
+important roles in defense mechanisms of airway epithelial cells.
+
+DOI: 10.1007/s10753-015-0291-1 
+PMID: 26635116  [Indexed for MEDLINE]

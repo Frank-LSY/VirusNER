@@ -1,0 +1,56 @@
+
+
+2939. Oral Oncol. 2017 May;68:53-59. doi: 10.1016/j.oraloncology.2017.03.007. Epub 2017
+Mar 23.
+
+A model using concomitant markers for predicting outcome in human papillomavirus 
+positive oropharyngeal cancer.
+
+Bersani C(1), Mints M(2), Tertipis N(3), Haeggblom L(3), Sivars L(3),
+Ährlund-Richter A(3), Vlastos A(4), Smedberg C(3), Grün N(3), Munck-Wikland E(5),
+Näsman A(3), Ramqvist T(3), Dalianis T(6).
+
+Author information: 
+(1)Dept. of Oncology-Pathology, Karolinska Institutet, 171 76 Stockholm, Sweden. 
+Electronic address: Cinzia.Bersani@ki.se.
+(2)Dept. of Medicine, Karolinska Institutet, 171 76 Stockholm, Sweden; Dept. of
+Surgical and Perioperative Sciences, Umeå University, 901 87 Umeå, Sweden.
+(3)Dept. of Oncology-Pathology, Karolinska Institutet, 171 76 Stockholm, Sweden.
+(4)Dept. of Oncology-Pathology, Karolinska Institutet, 171 76 Stockholm, Sweden; 
+Dept. of Clinical Science and Technology, Karolinska Institutet, 171 76
+Stockholm, Sweden; Dept. of Oto-Rhino-Laryngology, Head and Neck Surgery,
+Karolinska University Hospital, 171 76 Stockholm, Sweden.
+(5)Dept. of Clinical Science and Technology, Karolinska Institutet, 171 76
+Stockholm, Sweden; Dept. of Oto-Rhino-Laryngology, Head and Neck Surgery,
+Karolinska University Hospital, 171 76 Stockholm, Sweden.
+(6)Dept. of Oncology-Pathology, Karolinska Institutet, 171 76 Stockholm, Sweden. 
+Electronic address: Tina.Dalianis@ki.se.
+
+OBJECTIVE: Head-neck cancer therapy has become intensified. With radiotherapy
+alone, 3-year disease-free survival (DFS) is 80% for HPV-positive TSCC/BOTSCC and
+better for patients with favorable characteristics, suggesting therapy could be
+tapered for some, decreasing side-effects. Therefore, we built a model to predict
+progression-free survival for patients with HPV-positive TSCC and BOTSCC.
+MATERIAL AND METHODS: TSCC/BOTSCC patients treated curatively between 2000 and
+2011, with HPV16 DNA/E7 mRNA positive tumors examined for CD8+ TILs, HPV16 mRNA
+and HLA class I expression were included. Patients were split randomly 65/35 into
+training and validation sets, and LASSO regression was used to select a model in 
+the training set, the performance of which was evaluated in the validation set.
+RESULTS: 258 patients with HPV DNA/E7 mRNA positive tumors could be included, 168
+and 90 patients in the respective sets. No treatment improved prognosis compared 
+to radiotherapy alone. CD8+ TIL counts and young age were the strongest
+predictors of survival, followed by T-stage <3 and presence of HPV16 E2 mRNA. The
+model had an area under curve (AUC) of 76%. A model where the presence of three
+of four of these markers defined good prognosis captured 56% of non-relapsing
+patients with a positive predictive value of 98% in the validation set.
+Furthermore, the model identified 35% of our cohort that was overtreated and
+could safely have received de-escalated therapy.
+CONCLUSION: CD8+ TIL counts, age, T-stage and E2 expression could predict
+progression-free survival, identifying patients eligible for randomized trials
+with milder treatment, potentially reducing side effects without worsening
+prognosis.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.03.007 
+PMID: 28438294  [Indexed for MEDLINE]

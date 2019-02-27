@@ -1,0 +1,65 @@
+
+
+686. Oral Oncol. 2017 Apr;67:77-82. doi: 10.1016/j.oraloncology.2017.02.004. Epub 2017
+Feb 15.
+
+Human papillomavirus (HPV) 16 antibodies at diagnosis of HPV-related
+oropharyngeal cancer and antibody trajectories after treatment.
+
+Zhang Y(1), Waterboer T(2), Haddad RI(3), Miles BA(4), Wentz A(1), Gross ND(5),
+Fakhry C(6), Quon H(7), Lorch JH(3), Gourin CG(6), Clayburgh D(8), Misiukiewicz
+KJ(9), Richmon JD(6), Andersen PE(8), Posner MR(9), D'Souza G(10).
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+615 N Wolfe St, Baltimore, MD 21205, USA.
+(2)German Cancer Research Center (DKFZ), Im Neuenheimer Feld 280, 69120
+Heidelberg, Germany.
+(3)Department of Adult Oncology, Dana-Farber Cancer Institute, 450 Brookline Ave,
+Boston, MA 02215, USA.
+(4)Department of Otolaryngology, Icahn School of Medicine at Mount Sinai Medical 
+Center, 1 Gustave L. Levy Pl, New York, NY 10029, USA.
+(5)Division of Surgery, Department of Head and Neck Surgery, University of Texas 
+MD Anderson Cancer Center, 1515 Holcombe Blvd., Houston, TX 77030, USA.
+(6)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, 733 N Broadway, Baltimore, MD 21205, USA.
+(7)Department of Radiation Oncology, Johns Hopkins University School of Medicine,
+733 N Broadway, Baltimore, MD 21205, USA.
+(8)Department of Otolaryngology-Head and Neck Surgery, Oregon Health and Science 
+University, 3181 SW Sam Jackson Park Rd, Portland, OH 97239, USA.
+(9)Tisch Cancer Institute, Head and Neck Oncology Center, Icahn School of
+Medicine at Mount Sinai Medical Center, 1 Gustave L. Levy Pl, New York, NY 10029,
+USA.
+(10)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, 
+615 N Wolfe St, Baltimore, MD 21205, USA. Electronic address: gdsouza2@jhu.edu.
+
+OBJECTIVES: Despite the fact that HPV-driven oropharyngeal cancer (HPV-OPC) has
+relatively low recurrence rates, intensive post-therapy monitoring remains the
+standard of care. Post-treatment biomarkers are needed to risk stratify HPV-OPC
+patients for more individualized surveillance intensity and which remain at
+higher recurrence risk.
+MATERIALS AND METHODS: 115 HPV-OPC patients (ascertained by p16
+immunohistochemistry and/or in-situ hybridization) from a multicenter prospective
+case study (HOTSPOT) had blood collected at diagnosis, and 64 of these also had
+blood collected at post-treatment follow-up visits for up to two years. Samples
+were centrally tested for antibodies to the L1, E1, E2, E4, E6, and E7 proteins
+of HPV16.
+RESULTS: At diagnosis, most HPV-OPC cases were seropositive to HPV16 E6 (85%). In
+post therapeutic samples, HPV16 antibody level decreased slowly over time, but
+only 3 (of 51 cases seropositive at enrollment) dropped low enough to be
+classified as seronegative. At 3years after diagnosis, cumulative risk of
+recurrence was 10.2% and 0% in HPV16 E6 seropositive and E6 seronegative HPV-OPC 
+cases, respectively (p=0.18). Risk of recurrence was increased, although not
+statistically significant, in those with higher HPV16 E6 antibody levels at
+diagnosis (per log antibody level, hazard ratio [HR]=1.81, 95%CI=0.47-6.92).
+CONCLUSION: This study confirms the high seroprevalence of HPV oncogenic
+antibodies at diagnosis of HPV-OPC. HPV16 E6 antibody levels decrease after
+treatment, but most cases remain seropositive for up to two years. HPV16 E6
+antibody levels at diagnosis did not appear to be a strong predictor of
+recurrence.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.02.004 
+PMCID: PMC5788011
+PMID: 28351584  [Indexed for MEDLINE]

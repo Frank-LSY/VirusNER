@@ -1,0 +1,35 @@
+
+
+67. Head Neck. 2015 Feb;37(2):202-8. doi: 10.1002/hed.23584. Epub 2014 Mar 20.
+
+Multicentric human papillomavirus-associated head and neck squamous cell
+carcinoma.
+
+Caley A(1), Evans M, Powell N, Paleri V, Tomkinson A, Urbano TG, Jay A, Robinson 
+M, Thavaraj S.
+
+Author information: 
+(1)Department of Clinical Oncology, Velindre Cancer Centre, Cardiff, United
+Kingdom.
+
+BACKGROUND: The purpose of this study was to present the clinicopathological
+features of a series of patients with human papillomavirus (HPV)-associated head 
+and neck second primary tumors.
+METHODS: Patients with HPV-associated head and neck second primary tumors from 3 
+centers were identified. HPV infection was evaluated using p16 by
+immunohistochemistry (IHC), high-risk HPV DNA by in situ hybridization (ISH), and
+HPV genotyping by DNA polymerase chain reaction (PCR) enzyme immunoassay (EIA).
+RESULTS: Eleven patients were identified: 5 with synchronous and 6 with
+metachronous HPV-positive second primary tumors, the latter demonstrating a mean 
+time interval of 5 years. There were 13 second primary tumors: 11 oropharyngeal, 
+1 nasopharyngeal, and 1 floor of the mouth. Nine of 10 genotyped patients
+harbored HPV-16, and 1 patient had HPV-33 in 3 synchronous tumors.
+CONCLUSION: HPV-associated second primary tumors may present as synchronous
+and/or metachronous lesions and can arise outside the oropharynx after prolonged 
+intervals. Further work is necessary to identify patients at risk and to
+elucidate the mechanisms of HPV-associated head and neck second primary tumors.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23584 
+PMID: 24375667  [Indexed for MEDLINE]

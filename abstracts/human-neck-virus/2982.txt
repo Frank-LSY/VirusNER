@@ -1,0 +1,47 @@
+
+
+2982. South Med J. 2016 Aug;109(8):481-6. doi: 10.14423/SMJ.0000000000000503.
+
+Clinical Features of Respiratory Viral Infections Among Inpatients at a Major US 
+Tertiary Care Hospital.
+
+Malhotra P(1), Luka A(1), McWilliams CS(1), Poeth KG(1), Schwartz R(1), Elfekey
+M(1), Balwan S(1).
+
+Author information: 
+(1)From the Division of Infectious Diseases, the Department of Occupational
+Medicine, Epidemiology, and Prevention, and the Department of Internal Medicine, 
+North Shore Long Island Jewish Hofstra School of Medicine, Manhasset and Great
+Neck, New York, War Memorial Hospital, Sault Sainte Marie, Michigan, New York
+University Lutheran Medical Center, Brooklyn, and Mercy Hospital, St Louis,
+Missouri.
+
+OBJECTIVES: Respiratory viral illnesses (RVI) are reliably diagnosed by
+respiratory viral panel using polymerase chain reaction (RVP-PCR); however, owing
+to the scant data, clinical presentation alone is unreliable in establishing
+viral etiology. The primary objective of this study was to characterize signs and
+symptoms of RVI among inpatients in a major tertiary care hospital.
+METHODS: Between 2013 and 2015, adult inpatients with RVI undergoing RVP-PCR were
+prospectively enrolled in our study. Clinical data were collected by interviews
+and electronic medical record reviews. Data analysis was performed using χ(2)
+testing, analysis of variance for continuous variables, and logistic regression
+modeling.
+RESULTS: Of 421 patients analyzed, 175 (41.7%) had a positive RVP-PCR. Patients
+were evenly matched at baseline except for renal disease. Multivariate logistic
+regression modeling demonstrated the following positive correlations: positive
+RVP-PCR with renal disease (odds ratio [OR] 2.08), cough (OR 2.28), and wheezing 
+(OR 1.8); influenza with cough (OR 5.04), and renal disease (OR 2.17);
+metapneumovirus with age older than 65 (OR 3.24); respiratory syncytial viruses
+with wheezing (OR 3.42) and immunosuppression (OR 3.11); and parainfluenza with
+smoking (OR 3.16). Negative correlations included influenza with anosmia (OR
+0.41); rhinovirus/enterovirus with feeling confined to bed (OR 0.3);
+metapneumovirus with smoking (OR 0.29); and parainfluenza with male sex (OR
+0.22).
+CONCLUSIONS: In this descriptive study, we noted specific viral associations with
+clinical signs and symptoms among 421 inpatients with RVIs. With increasing
+RVP-PCR use, studies similar to ours may be able to better define the clinical
+presentation of RVIs and lead to evidence-based, clinical presentation-guided
+diagnostic and management algorithms.
+
+DOI: 10.14423/SMJ.0000000000000503 
+PMID: 27490659  [Indexed for MEDLINE]

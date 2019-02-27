@@ -1,0 +1,29 @@
+
+
+1543. Zhonghua Zhong Liu Za Zhi. 2011 Jan;33(1):13-7.
+
+[Construction and confirmation of a recombinant adenovirus vector of survivin].
+
+[Article in Chinese]
+
+Lü YJ(1), Miao SS, Liu WS, He HJ, Jia SS, He GQ, Xiang C.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The Third Affiliated Hospital of Harbin
+Medical University, Harbin 150081, China.
+
+OBJECTIVE: To construct a recombinant adenovirus of survivin vector and provid
+valuable reference for gene therapy of laryngeal cancer.
+METHODS: The survivin gene was cloned by PCR. After confirmation by enzyme
+restriction analysis and sequencing, the gene and the adenovirus vector were
+recombined together to construct the recombinant adenovirus vector. The
+recombinant adenovirus vector was confirmed via both sequencing and digestion
+restriction analysis, and then linearized and transfected into the HEK 293 cell
+line to generate recombinant adenovirus.
+RESULTS: The sequence analysis demonstrated that the survivin gene sequence was
+the same as published in the literature, suggesting that a recombinant adenovirus
+vector has been successfully constructed.
+CONCLUSIONS: A survivin recombinant adenovirus has been successfully constructed.
+
+
+PMID: 21575457  [Indexed for MEDLINE]

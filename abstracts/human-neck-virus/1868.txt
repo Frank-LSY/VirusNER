@@ -1,0 +1,43 @@
+
+
+1868. Transplantation. 2013 Feb 15;95(3):470-8. doi: 10.1097/TP.0b013e318276a237.
+
+Epidemiology of posttransplantation lymphoproliferative disorder in adult renal
+transplant recipients.
+
+Morton M(1), Coupes B, Roberts SA, Klapper PE, Byers RJ, Vallely PJ, Ryan K,
+Picton ML.
+
+Author information: 
+(1)Department of Renal Medicine, Central Manchester University Hospitals
+Foundation Trust, Manchester, UK. muir.morton@cmft.nhs.uk
+
+BACKGROUND: There is little information in the literature describing the
+relationship between posttransplantation lymphoproliferative disorder (PTLD)
+incidence and presentation with both recipient Epstein-Barr virus (EBV)
+serostatus and EBV status of PTLD histology, particularly in the late
+posttransplantation period.
+METHODS: This study reports the largest UK single-center, single-organ analysis
+of PTLD to date in a retrospective cohort study of 80 cases occurring in 4189
+adult renal transplant recipients.
+RESULTS: The incidence rate was 2.6 cases per 1000 patient-years (95% confidence 
+interval [95% CI], 2.1-3.2) for PTLD, 1.8 (95% CI, 1.4-2.4) for non-Hodgkin's
+lymphoma, and 0.2 (95% CI, 0.07-4.2) for Hodgkin's lymphoma. Non-Hodgkin's
+lymphoma occurred at a rate 7.6 times that of the adult general population in
+England, whereas the rate for Hodgkin's lymphoma was 5.9 times. The incidence of 
+PTLD was highest during the 10th to 14th posttransplantation years. Early-onset
+disease was associated with EBV-seronegative recipient status, EBV-positive
+histology, and the involvement of extranodal sites. PTLD occurring in
+EBV-seronegative recipients was associated with EBV nuclear antigen antibody
+deficiency, polymorphic disease, and the involvement of extranodal sites.
+EBV-negative histology occurred in 32% of cases at a median time to presentation 
+of 109 months. PTLD involving the allograft, central nervous system, and skin was
+uncommon and occurred late.
+CONCLUSION: The incidence of PTLD is highest in the late posttransplantation
+period. Close clinical surveillance and education for transplant recipients is
+required for the duration of time while immunosuppressed. Failure to detect EBV
+DNA in blood should not reassure, particularly in patients with symptoms such as 
+abdominal pain, oropharyngeal complaints, neck lumps, and B-symptoms.
+
+DOI: 10.1097/TP.0b013e318276a237 
+PMID: 23222821  [Indexed for MEDLINE]

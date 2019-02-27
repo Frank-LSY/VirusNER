@@ -1,0 +1,38 @@
+
+
+2892. Int J Infect Dis. 2015 Sep;38:86-8. doi: 10.1016/j.ijid.2015.07.020. Epub 2015
+Jul 29.
+
+Disseminated Talaromyces marneffei and Mycobacterium intracellulare coinfection
+in an HIV-infected patient.
+
+Seok H(1), Ko JH(2), Shin I(1), Eun YH(1), Lee SE(1), Lee YB(1), Peck KR(3).
+
+Author information: 
+(1)Department of Internal Medicine, Samsung Medical Center, Sungkyunkwan
+University School of Medicine, 81 Irwon-ro, Gangnam-gu, Seoul 135-710, Republic
+of Korea.
+(2)Division of Infectious Diseases, Samsung Medical Center, Sungkyunkwan
+University School of Medicine, 81 Irwon-ro, Gangnam-gu, Seoul 135-710, Republic
+of Korea.
+(3)Division of Infectious Diseases, Samsung Medical Center, Sungkyunkwan
+University School of Medicine, 81 Irwon-ro, Gangnam-gu, Seoul 135-710, Republic
+of Korea. Electronic address: krpeck@skku.edu.
+
+A 25-year-old man with human immunodeficiency virus (HIV) infection presented
+with fever that had lasted 1 month. The CD4+ T lymphocyte count was 7 cells/μL
+and computed tomography showed several small lung nodules, splenomegaly, and
+multiple lymphadenopathy. Talaromyces marneffei was isolated in the initial blood
+cultures. As the fever persisted despite clearance of fungemia and 10 days of
+liposomal amphotericin B treatment, cervical lymph node fine-needle aspiration
+was performed. Mycobacterium intracellulare was isolated from sputum and neck
+node aspiration cultures. The patient was successfully treated with liposomal
+amphotericin B, clarithromycin, and ethambutol in addition to antiretroviral
+therapy. This case suggests that we should consider coinfection of opportunistic 
+pathogens in febrile immunosuppressed patients if the patient does not respond
+properly to the initial treatment.
+
+Copyright © 2015 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ijid.2015.07.020 
+PMID: 26232630  [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+
+
+925. J Cell Mol Med. 2014 Jan;18(1):181-6. doi: 10.1111/jcmm.12179. Epub 2013 Nov 28.
+
+Induction of heparanase by HPV E6 oncogene in head and neck squamous cell
+carcinoma.
+
+Hirshoren N(1), Bulvik R, Neuman T, Rubinstein AM, Meirovitz A, Elkin M.
+
+Author information: 
+(1)Department of Otolaryngology, Head & Neck Surgery, Hadassah-Hebrew University 
+Medical Center, Jerusalem, Israel.
+
+High-risk human papillomavirus (HPV)-positive head and neck squamous cell
+carcinomas (HNSCCs) are highly invasive; however the identity of downstream
+effectors responsible for their aggressive phenotype remains underinvestigated.
+Here, we report that HPV-mediated up-regulation of heparanase enzyme can provide 
+mechanistic explanation for augmented invasiveness of HPV-positive HNSCCs.
+Heparanase is the sole mammalian enzyme (endo-β-d-glucuronidase) degrading
+heparan sulphate glycosaminoglycan, key polysaccharide of the extracellular
+matrix. Cleavage of heparan sulphate by heparanase leads to disassembly of
+extracellular barriers, enabling local invasion and metastatic spread of the
+tumour, and releases heparan sulphate-bound growth factors from the extracellular
+depots. Heparanase is tightly implicated in head and neck cancer progression;
+yet, molecular mechanisms underlying transcriptional activation of the heparanase
+gene in HNSCC are largely unknown. We found that HPV16 oncogene E6 is capable of 
+inducing overexpression of heparanase in HNSCC. Notably, radiation treatment
+dose-dependently suppresses E6-induced heparanase expression in vitro. Our
+results provide the first evidence for a functional involvement of HPV in
+heparanase induction in head and neck tumourigenesis and, given ongoing clinical 
+testing of several heparanase-inhibiting compounds, offer important avenue for
+future therapeutic exploration in HNSCC, as well as other HPV-associated
+malignancies (i.e. cervical carcinoma).
+
+© 2013 The Authors. Journal of Cellular and Molecular Medicine published by John 
+Wiley & Sons Ltd and Foundation for Cellular and Molecular Medicine.
+
+DOI: 10.1111/jcmm.12179 
+PMCID: PMC3916129
+PMID: 24286246  [Indexed for MEDLINE]

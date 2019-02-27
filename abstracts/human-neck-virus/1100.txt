@@ -1,0 +1,46 @@
+
+
+1100. Transpl Int. 2017 Jan;30(1):57-67. doi: 10.1111/tri.12871. Epub 2016 Nov 5.
+
+The Epstein-Barr virus DNA load in the peripheral blood of transplant recipients 
+does not accurately reflect the burden of infected cells.
+
+Fink S(1)(2)(3)(4), Tsai MH(1)(2)(3), Schnitzler P(5), Zeier M(4), Dreger
+P(5)(6), Wuchter P(6), Bulut OC(7), Behrends U(8), Delecluse HJ(1)(2)(3).
+
+Author information: 
+(1)German Cancer Research Centre (DKFZ) Unit F100, Heidelberg, Germany.
+(2)Institut National de la Santé et de la Recherche Médicale (INSERM) Unit U1074,
+Heidelberg, Germany.
+(3)German center for infection research (DZIF), Heidelberg, Germany.
+(4)Nierenzentrum Heidelberg, Heidelberg, Germany.
+(5)Center for Infectious Diseases, Heidelberg University Hospital, Heidelberg,
+Germany.
+(6)Department of Medicine V, University of Heidelberg, Heidelberg, Germany.
+(7)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+Heidelberg, Heidelberg, Germany.
+(8)Children's Hospital Klinikum rechts der Isar, Technische Universität München, 
+Munich, Germany.
+
+Transplant recipients frequently exhibit an increased Epstein-Barr virus (EBV)
+load in the peripheral blood. Here, we quantitated the EBV-infected cells in the 
+peripheral blood of these patients and defined the mode of viral infection,
+latent or lytic. These data indicated that there is no strong correlation between
+the number of infected cells and the EBV load (EBVL). This can be explained by a 
+highly variable number of EBV copies per infected cell and by lytic replication
+in some cells. The plasma of these patients did not contain any free infectious
+viruses, but contained nevertheless EBV DNA, sometimes in large amounts, that
+probably originates from cell debris and contributed to the total EBVL. Some of
+the investigated samples carried a highly variable number of infected cells in
+active latency, characterized by an expression of the Epstein-Barr nuclear
+antigens (EBNA2) protein. However, a third of the samples expressed neither EBNA2
+nor lytic proteins. Patients with an increased EBVL represent a heterogeneous
+group of patients whose infection cannot be characterized by this method alone.
+Precise characterization of the origin of an increased EBVL, in particular, in
+terms of the number of EBV-infected cells, requires additional investigations
+including the number of EBV-encoded small RNA-positive cells.
+
+© 2016 Steunstichting ESOT.
+
+DOI: 10.1111/tri.12871 
+PMID: 27717030  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+1563. Cancer. 2014 Oct 1;120(19):3082-8. doi: 10.1002/cncr.28831. Epub 2014 Jun 4.
+
+Management of the lymph node-positive neck in the patient with human
+papillomavirus-associated oropharyngeal cancer.
+
+Garden AS(1), Gunn GB, Hessel A, Beadle BM, Ahmed S, El-Naggar AK, Fuller CD,
+Byers LA, Phan J, Frank SJ, Morrison WH, Kies MS, Rosenthal DI, Sturgis EM.
+
+Author information: 
+(1)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+
+BACKGROUND: The goal of the current study was to assess the rates of recurrence
+in the neck for patients with lymph node-positive human papillomavirus-associated
+cancer of the oropharynx who were treated with definitive radiotherapy (with or
+without chemotherapy).
+METHODS: This is a single-institution retrospective study. Methodology included
+database search, and statistical testing including frequency analysis,
+Kaplan-Meier tests, and comparative tests including chi-square, logistic
+regression, and log-rank.
+RESULTS: The cohort consisted of 401 patients with lymph node-positive disease
+who underwent radiotherapy between January 2006 and June 2012. A total of 388
+patients had computed tomography restaging, and 251 had positron emission
+tomography and/or ultrasound as a component of their postradiation staging.
+Eighty patients (20%) underwent neck dissection, and 21 patients (26%) had a
+positive specimen. The rate of neck dissection increased with increasing lymph
+node stage, and was lower in patients who had positron emission tomography scans 
+or ultrasound in addition to computed tomography restaging. The median follow-up 
+was 30 months. The 2-year actuarial neck recurrence rate was 7% and 5%,
+respectively, in all patients and those with local control. Lymph node recurrence
+rates were greater in current smokers (P = .008). There was no difference in
+lymph node recurrence rates noted between patients who did and those who did not 
+undergo a neck dissection (P = .4) CONCLUSIONS: A treatment strategy of
+(chemo)radiation with neck dissection performed based on response resulted in
+high rates of regional disease control in patients with human
+papillomavirus-associated oropharyngeal cancer.
+
+© 2014 American Cancer Society.
+
+DOI: 10.1002/cncr.28831 
+PMCID: PMC4172550
+PMID: 24898672  [Indexed for MEDLINE]

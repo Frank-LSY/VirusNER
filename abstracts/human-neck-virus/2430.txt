@@ -1,0 +1,69 @@
+
+
+2430. Hum Pathol. 2017 Oct;68:61-68. doi: 10.1016/j.humpath.2017.08.025. Epub 2017 Sep 
+2.
+
+Primary cutaneous NK/T-cell lymphoma of nasal type: an age-related
+lymphoproliferative disease?
+
+Wu CC(1), Takahashi E(2), Asano N(3), Miyata-Takata T(4), Takata K(5), Furukawa
+K(6), Elsayed AA(7), Hu LM(8), Satou A(9), Kohno K(10), Kosugi H(6), Ohashi
+K(11), Kinoshita T(12), Nakamura S(10), Kato S(13).
+
+Author information: 
+(1)Department of Pathology, Kaohsiung Medical University Hospital, Kaohsiung
+Medical University, Kaohsiung, Taiwan 807; Department of Pathology and Laboratory
+Medicine, Nagoya University Hospital, Nagoya, Japan 466-8560.
+(2)Department of Surgical Pathology, Aichi Medical University Hospital, Nagakute,
+Japan 480-1195.
+(3)Department of Molecular Diagnostics, Nagano Prefectural Suzaka Hospital,
+Suzaka, Japan 382-0091.
+(4)Department of Pathology, Okayama University Graduate School of Medicine,
+Dentistry and Pharmaceutical Sciences, Okayama, Japan 700-8558.
+(5)Department of Pathology, Okayama University Graduate School of Medicine,
+Dentistry and Pharmaceutical Sciences, Okayama, Japan 700-8558; Centre for
+Lymphoid Cancer, BC Cancer Agency, Department of Pathology, British Columbia
+Cancer Research Centre, Vancouver, BC, V5Z 1L3 Canada.
+(6)Department of Hematology, Ogaki Municipal Hospital, Ogaki, Japan 503-8502.
+(7)Department of Pathology and Laboratory Medicine, Nagoya University Hospital,
+Nagoya, Japan 466-8560; Department of Pathology, Faculty of Medicine, Mansoura
+University, Mansoura, Egypt 35516.
+(8)Department of Pathology and Laboratory Medicine, Nagoya University Hospital,
+Nagoya, Japan 466-8560; Department of Gastroenterology, Nagoya University
+Graduate School of Medicine, Nagoya, Japan 466-8560.
+(9)Department of Pathology and Laboratory Medicine, Nagoya University Hospital,
+Nagoya, Japan 466-8560; Department of Surgical Pathology, Aichi Medical
+University Hospital, Nagakute, Japan 480-1195.
+(10)Department of Pathology and Laboratory Medicine, Nagoya University Hospital, 
+Nagoya, Japan 466-8560.
+(11)Department of Pathology, Yokohama City University Graduate School of
+Medicine, Yokohama, Japan 236-0016.
+(12)Department of Hematology and Cell Therapy, Aichi Cancer Center, Nagoya, Japan
+464-8681.
+(13)Department of Pathology and Laboratory Medicine, Nagoya University Hospital, 
+Nagoya, Japan 466-8560; Department of Pathology and Molecular Diagnostics, Aichi 
+Cancer Center Hospital, Nagoya, Japan 464-8681. Electronic address:
+skato@aichi-cc.jp.
+
+Among extranodal NK/T-cell lymphoma of nasal type (NKTL), the extranasal variant 
+(ENKTL) is known to have a worse prognosis with advanced clinical stage than the 
+nasal variant of NKTL. However, detailed clinicopathological features of the
+localized extranasal disease have not been well documented in English literature.
+Here, we described the clinicopathological profiles of 14 patients with stage I
+ENKTL, including 7 in the skin, 5 in the gastrointestinal tract, and 2 in the
+central nervous system, highlighting the distinctiveness of the first. The 7
+primary cutaneous (PCNKTL) cases were characterized by an older onset age
+(median, 76 versus 53 years, P=.012) and a more favorable clinical course
+(P=.041) compared with 17 patients with stages II-IV ENKTL that showed cutaneous 
+involvement. The skin lesions in the PCNKTL group were distributed in the face or
+neck (n=4) and limbs (n=3) but not the trunk, which was most frequently affected 
+(60%, P=.017) in the latter group. Furthermore, the stage I cutaneous disease
+showed a female predominance (male-female, 2:5 versus 7:0; P=.021) and a
+significantly more favorable survival compared with the noncutaneous stage I
+ENKTL (P=.037). These results suggest that PCNKTL constitute a distinct subgroup 
+in the nasal-type lymphoma spectrum.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.humpath.2017.08.025 
+PMID: 28873353  [Indexed for MEDLINE]

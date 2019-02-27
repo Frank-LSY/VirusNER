@@ -1,0 +1,39 @@
+
+
+948. Am J Respir Cell Mol Biol. 2013 Nov;49(5):855-65. doi: 10.1165/rcmb.2013-0003OC.
+
+Reactive oxygen species induce antiviral innate immune response through IFN-λ
+regulation in human nasal epithelial cells.
+
+Kim HJ(1), Kim CH, Ryu JH, Kim MJ, Park CY, Lee JM, Holtzman MJ, Yoon JH.
+
+Author information: 
+(1)1 Department of Otolaryngology and Head and Neck Surgery, Chung-Ang University
+College of Medicine, Seoul, Republic of South Korea.
+
+This study sought to explore the role of the IFN-related innate immune responses 
+(IFN-β and IFN-λ) and of reactive oxygen species (ROS) after influenza A virus
+(IAV) infection for antiviral innate immune activity in normal human nasal
+epithelial (NHNE) cells that are highly exposed to IAV. Passage-2 NHNE cells were
+inoculated with the IAV WSN/33 for 1, 2, and 3 days to assess the capacity of IFN
+and the relationship between ROS generation and IFN-λ secretion for controlling
+IAV infection. Viral titers and IAV mRNA levels increased after infection. In
+concert with viral titers, we found that the generation of IFNs, such as IFN-β,
+IFN-λ1, and IFN-λ2/3, was induced after IAV infection until 3 days after
+infection. The induction of IFN-λ gene expression and protein secretion may be
+predominant after IAV infection. Similarly, we observed that intracellular ROS
+generation increased 60 minutes after IAV infection. Viral titers and mRNA levels
+of IAV were significantly higher in cases with scavenging ROS, in cases with an
+induced IFN-λ mRNA level, or where the secreted protein concentration of IFN-λ
+was attenuated after the suppression of ROS generation. Both mitochondrial and
+dual oxidase (Doux)2-generated ROS were correlated with IAV mRNA and viral
+titers. The inhibition of mitochondrial ROS generation and the knockdown of Duox2
+gene expression highly increased IAV viral titers and decreased IFN-λ secretion. 
+Our findings suggest that the production of ROS may be responsible for IFN-λ
+secretion to control IAV infection. Both mitochondria and Duox2 are possible
+sources of ROS generation, which is required to initiate an innate immune
+response in NHNE cells.
+
+DOI: 10.1165/rcmb.2013-0003OC 
+PMCID: PMC5455605
+PMID: 23786562  [Indexed for MEDLINE]

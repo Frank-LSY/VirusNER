@@ -1,0 +1,64 @@
+
+
+39. Int J Cancer. 2017 Jul 1;141(1):143-151. doi: 10.1002/ijc.30712. Epub 2017 Apr
+19.
+
+Role of mucosal high-risk human papillomavirus types in head and neck cancers in 
+central India.
+
+Gheit T(1), Anantharaman D(1)(2), Holzinger D(3), Alemany L(4), Tous S(4), Lucas 
+E(1), Prabhu PR(5), Pawlita M(3), Ridder R(6)(7), Rehm S(6), Bogers J(8), Maffini
+F(9), Chiocca S(9), Lloveras B(10), Kumar RV(11), Somanathan T(12), de Sanjosé
+S(4), Castellsagué X(4), Arbyn M(13), Brennan P(1), Sankaranarayanan R(1), Pillai
+MR(5), Gangane N(14), Tommasino M(1); HPV-AHEAD study group.
+
+Author information: 
+(1)International Agency for Research on Cancer, Lyon, 69008, France.
+(2)Cancer Research Program, Rajiv Gandhi Centre for Biotechnology,
+Thiruvananthapuram, 695014, India.
+(3)Deutsches Krebsforschungszentrum (DKFZ), 69120, Heidelberg, Germany.
+(4)L'Hospitalet de Llobregat, Barcelona, Catalonia, Spain & CIBER Epidemiologia y
+Salud Publica, Cancer Epidemiology Research Program, Catalan Institute of
+Oncology (ICO)-IDIBELL, Barcelona, Spain.
+(5)Rajiv Gandhi Centre for Biotechnology, Poojappura, Thiruvananthapuram, Kerala,
+695014, India.
+(6)Roche MTM laboratories, Mannheim, Germany.
+(7)Ventana Medical Systems Inc, Tucson, AZ.
+(8)University of Antwerp, Antwerp, 2020, Belgium.
+(9)European Institute of Oncology, Milan I-20141, Italy.
+(10)Hospital del Mar, Parc de Salut Mar, Pg/Marítim 25-29, Barcelona, 08003,
+Spain.
+(11)Kidwai Memorial Institute of Oncology, Bangalore, Karnataka, 560029, India.
+(12)Regional Cancer Centre, Thiruvananthapuram, 695011, India.
+(13)Unit of Cancer Epidemiology/Belgian Cancer Centre, Scientific Institute of
+Public Health, Brussels, B1050, Belgium.
+(14)Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha, Maharashtra
+State, 442102, India.
+
+Mucosal high-risk (HR) human papillomaviruses (HPV) cause a subset of head and
+neck cancers (HNC). The HPV-attributable fraction of HNC varies substantially
+between countries. Although HNC has a very high incidence in the Indian
+subcontinent, information on the contribution of HPV infection is limited. Here, 
+we evaluated the HPV-attributable fraction in HNC (N = 364) collected in a
+central region of India. HNC from three different anatomical subsites were
+included, namely, oral cavity (n = 252), oropharynx (n = 53) and
+hypopharynx/larynx (n = 59). In this retrospective study, HPV-driven HNC were
+defined by presence of both viral DNA and RNA. Overexpression of p16INK4a was
+also evaluated. HR-HPV DNA was detected in 13.7% of the cases; however, only 2.7%
+were positive for both HPV DNA and RNA. The highest percentage of HPV DNA/RNA
+double positivity was found in oropharynx (9.4%), followed by larynx (1.7%) and
+oral cavity (1.6%) (p = 0.02). More than half of HPV DNA/RNA-positive cases were 
+p16INK4a -negative, while a considerable number of HPV RNA-negative cases were
+p16INK4a -positive (17.9%). HPV16 was the major type associated with HNC (60.0%),
+although cases positive for HPV18, 35 and 56 were also detected. Our data
+indicate that the proportion and types of mucosal HR-HPV associated with HNC in
+this central Indian region differ from those in other (developed) parts of the
+world. This may be explained by differences in smoking and/or sexual behaviour
+compared with North America and northern Europe. Moreover, we show that p16INK4a 
+staining appeared not to be a good surrogate marker of HPV transformation in the 
+Indian HNC cases.
+
+© 2017 UICC.
+
+DOI: 10.1002/ijc.30712 
+PMID: 28369859  [Indexed for MEDLINE]

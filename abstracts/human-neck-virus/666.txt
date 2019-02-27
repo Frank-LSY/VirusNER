@@ -1,0 +1,38 @@
+
+
+666. Head Neck. 2011 Apr;33(4):581-6. doi: 10.1002/hed.21421.
+
+Human papillomavirus infections in laryngeal cancer.
+
+Torrente MC(1), Rodrigo JP, Haigentz M Jr, Dikkers FG, Rinaldo A, Takes RP,
+Olofsson J, Ferlito A.
+
+Author information: 
+(1)Departamento de Otorrinolaringologia, Universidad de Chile, Santiago de Chile,
+Chile.
+
+Although the association and clinical significance of human papillomavirus (HPV) 
+infections with a subset of head and neck cancers, particularly for oropharyngeal
+carcinoma, has recently been well documented, the involvement of HPV in laryngeal
+cancer has been inadequately evaluated. Herein we review the currently known
+associations of HPV infections in diseases of the larynx and their potential for 
+oncogenicity. Using several methods of detection, HPV DNA has been detected in
+benign (papillomatosis), indolent (verrucous carcinoma), and malignant (squamous 
+cell carcinoma) lesions of the larynx. Consistent with the known oncogenic risk
+of HPV infections, common HPV types associated with laryngeal papillomatosis
+include low-risk HPV types 6 and 11, with high-risk HPV types 16 and 18 more
+commonly present in neoplastic lesions (verrucous carcinoma and squamous cell
+carcinoma). Although a broad range of prevalence has been noted in individual
+studies, approximately 25% of laryngeal squamous cell carcinomas harbor HPV
+infections on meta-analysis, with common involvement of high-risk HPV types 16
+(highest frequency) and 18. Preliminary results suggest that these high-risk HPV 
+infections seem to be biologically relevant in laryngeal carcinogenesis,
+manifested as having viral DNA integration in the cancer cell genome and
+increased expression of the p16 protein. Despite this knowledge, the clinical
+significance of these infections and the implications on disease prevention and
+treatment are unclear and require further investigation.
+
+Copyright © 2010 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21421 
+PMID: 20848441  [Indexed for MEDLINE]

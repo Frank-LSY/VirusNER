@@ -1,0 +1,48 @@
+
+
+3040. J Chin Med Assoc. 2016 Aug;79(8):440-4. doi: 10.1016/j.jcma.2016.03.002. Epub
+2016 Jun 6.
+
+Detection of Streptococcus pneumoniae and Moraxella catarrhalis in patients with 
+paranasal chronic sinusitis by polymerase chain reaction method.
+
+Farajzadeh Sheikh A(1), Ahmadi K(2), Nikakhlagh S(3).
+
+Author information: 
+(1)Health Research Institute, Infectious and Tropical Diseases Research Center,
+Department of Microbiology, Medicine Faculty, Ahvaz Jundishapur University of
+Medical Sciences, Ahvaz, Iran.
+(2)Department of Microbiology, Medicine Faculty, Ahvaz Jundishapur University of 
+Medical Sciences, Ahvaz, Iran. Electronic address: kh.ahmadi53@gmail.com.
+(3)Head and Neck Surgery, Hearing and Speech Research Center, Ahvaz Jundishapur
+University of Medical Sciences, Ahvaz, Iran.
+
+BACKGROUND: Sinusitis is a complex involvement of the upper respiratory system by
+bacteria, viruses, fungi, or other allergens. Streptococcus pneumoniae,
+Haemophilus influenzae, and Moraxella catarrhalis are the dominant bacterial
+microorganisms involved in acute sinusitis, whereas in chronic sinusitis,
+Staphylococcus aureus and some anaerobic bacteria are the prevailing pathogens.
+Appropriate antibiotic treatment requires sinusitis bacteriology assessment. The 
+aim of this study was to isolate bacteria in clinical samples from patients with 
+chronic sinusitis.
+METHODS: A total of 55 samples were collected from patients with chronic
+sinusitis undergoing surgery at Imam Khomeini Hospital in Ahvaz, Iran. Samples
+were cultured in conventional medium, and for each culture, Gram staining,
+catalase, coagulase, oxidase, and DNAse tests were performed and isolates were
+stored for polymerase chain reaction analysis.
+RESULTS: Twenty-three isolates were obtained from five patients, including S.
+aureus (23.6%), Rhizomucor (1.8%), and Escherichia (1.8%) by the culture method
+and M. catarrhalis (3.6%) and S. Pneumoniae (7.2%) by the polymerase chain
+reaction method. Compared with acute sinusitis, the microbiology of chronic
+sinusitis remains controversial. Results are affected by many factors, including 
+diversity of molecular and culture methods, sterilization of sampling area,
+sample transfer to laboratory, use of antibiotics prior to surgery, and nasal
+polyps.
+CONCLUSION: In Iran, the causative agents of chronic sinusitis are similar to
+those in other countries. Compared with other bacteria, S. aureus was observed
+more often in asthmatic patients with sinusitis.
+
+Copyright © 2016. Published by Elsevier Taiwan LLC.
+
+DOI: 10.1016/j.jcma.2016.03.002 
+PMID: 27282403  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+1003. Oncotarget. 2014 Sep 30;5(18):8583-601.
+
+Epstein-Barr virus BALF3 mediates genomic instability and progressive malignancy 
+in nasopharyngeal carcinoma.
+
+Chiu SH(1), Wu CC(2), Fang CY(2), Yu SL(3), Hsu HY(2), Chow YH(3), Chen JY(1).
+
+Author information: 
+(1)Graduate Institute of Microbiology, College of Medicine, National Taiwan
+University, Taipei, Taiwan. National Institute of Cancer Research, National
+Health Research Institutes, Miaoli, Taiwan.
+(2)National Institute of Cancer Research, National Health Research Institutes,
+Miaoli, Taiwan.
+(3)National Institute of Infectious Diseases and Vaccinology, National Health
+Research Institutes, Miaoli, Taiwan.
+
+Nasopharyngeal carcinoma (NPC) is a head and neck cancer prevalent throughout
+Southern China and Southeast Asia. Patient death following relapse after primary 
+treatment remains all too common but the cause of NPC relapse is unclear.
+Clinical and epidemiological studies have revealed the high correlation among NPC
+development, Epstein-Barr virus (EBV) reactivation and host genomic instability. 
+Previously, recurrent EBV reactivation was shown to cause massive genetic
+alterations and enhancement of tumor progression in NPC cells and these may be
+required for NPC relapse. Here, EBV BALF3 has the ability to induce micronuclei
+and DNA strand breaks. After recurrent expression of BALF3 in NPC cells, genomic 
+copy number aberrations, determined by array-based comparative genomic
+hybridization, had accumulated to a significant extent and tumorigenic features, 
+such as cell migration, cell invasion and spheroid formation, increased with the 
+rounds of induction. In parallel experiments, cells after highly recurrent
+induction developed into larger tumor nodules than control cells when inoculated 
+into NOD/SCID mice. Furthermore, RNA microarrays showed that differential
+expression of multiple cancer capability-related genes and oncogenes increased
+with recurrent BALF3 expression and these changes correlated with genetic
+aberrations. Therefore, EBV BALF3 is a potential factor that mediates the impact 
+of EBV on NPC relapse.
+
+DOI: 10.18632/oncotarget.2323 
+PMCID: PMC4226706
+PMID: 25261366  [Indexed for MEDLINE]

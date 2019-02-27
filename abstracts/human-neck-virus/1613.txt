@@ -1,0 +1,55 @@
+
+
+1613. Clin Oncol (R Coll Radiol). 2013 Nov;25(11):630-8. doi:
+10.1016/j.clon.2013.07.003. Epub 2013 Jul 31.
+
+The prognostic significance of the biomarker p16 in oropharyngeal squamous cell
+carcinoma.
+
+Oguejiofor KK(1), Hall JS, Mani N, Douglas C, Slevin NJ, Homer J, Hall G, West
+CM.
+
+Author information: 
+(1)Translational Radiobiology Group, Institute of Cancer Sciences, Manchester
+Academic Health Science Centre, The University of Manchester, Manchester, UK.
+
+Comment in
+    Clin Oncol (R Coll Radiol). 2014 Mar;26(3):175-7.
+
+AIMS: There is an increasing incidence of human papillomavirus (HPV)-positive
+oropharyngeal squamous cell cancers (OPSCC) mostly associated with favourable
+outcomes. p16 immunohistochemistry is a surrogate marker for HPV positivity in
+OPSCC. The prognostic strength of p16 over traditional prognostic factors is not 
+fully characterised. In this study, we evaluated the clinical and demographic
+differences between p16-positive and -negative OPSCC and characterised its
+prognostic strength versus traditional prognostic factors.
+MATERIALS AND METHODS: Formalin-fixed, paraffin-embedded blocks and clinical
+information from 217 OPSCC patients, treated with radiotherapy (alone or in
+combination with other therapies) between 2000 and 2010 were collected
+retrospectively. Immunohistochemistry for p16 protein was carried out;
+cancer-specific survival (CSS), recurrence-free survival (RFS) and locoregional
+control (LRC) were calculated for both univariate and multivariate analyses.
+RESULTS: Ninety-two per cent of the OPSCC originated from tonsil and tongue base 
+sites, 61% were p16 positive. Patients with p16-positive OPSCC were younger (P < 
+0.0001), with lower alcohol (P = 0.0002) and tobacco (P = 0.0001) exposure. The
+tumours were less differentiated (P = 0.0069), had a lower T stage (P = 0.0027), 
+higher nodal status (P = 0.014) and higher American Joint Committee on Cancer
+(AJCC) prognostic group (P = 0.0036). AJCC prognostic group was significant for
+RFS (P = 0.0096) and CSS (P = 0.018) in patients with p16-negative OPSCC, but not
+those with p16-positive tumours (P = 0.30 and 0.54). Other significant factors
+for CSS and RFS in univariate analysis were: pretreatment haemoglobin (P < 0.0001
+and <0.0001), chemoradiotherapy (P = 0.005 and 0.03) and P16 status (P < 0.0001
+and 0.0001). In multivariate analysis, p16 positivity was the strongest
+independent prognostic variable for both CSS, RFS and LRC (P < 0.0001, hazard
+ratio 4.15; 95% confidence interval 2.43-7.08), (P < 0.0001, hazard ratio 6.15;
+95% confidence interval 3.57-10.61) and (P = 0.001, hazard ratio 3.74; confidence
+interval 1.76-7.95).
+CONCLUSION: This study shows that p16 is the single most important prognostic
+variable in OPSCC, surpassing traditional prognostic factors for both CSS and
+RFS. Furthermore, disease stage has no prognostic significance in p16-positive
+patients, highlighting the need for routine p16 assessment in OPSCC.
+
+Copyright © 2013 The Royal College of Radiologists. All rights reserved.
+
+DOI: 10.1016/j.clon.2013.07.003 
+PMID: 23916365  [Indexed for MEDLINE]

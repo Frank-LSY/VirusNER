@@ -1,0 +1,43 @@
+
+
+2223. PLoS Pathog. 2016 Jul 27;12(7):e1005801. doi: 10.1371/journal.ppat.1005801.
+eCollection 2016 Jul.
+
+KSHV-Mediated Regulation of Par3 and SNAIL Contributes to B-Cell Proliferation.
+
+Jha HC(1), Sun Z(1), Upadhyay SK(1), El-Naccache DW(1), Singh RK(1), Sahu SK(1), 
+Robertson ES(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Cancer, and Tumor Virology
+Program and Tumor Virology Program, Abramson Cancer Center, Perelman School of
+Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, United
+States of America.
+
+Studies have suggested that Epithelial-Mesenchymal Transition (EMT) and
+transformation is an important step in progression to cancer. Par3
+(partitioning-defective protein) is a crucial factor in regulating epithelial
+cell polarity. However, the mechanism by which the latency associated nuclear
+antigen (LANA) encoded by Kaposi's Sarcoma associated herpesvirus (KSHV)
+regulates Par3 and EMTs markers (Epithelial-Mesenchymal Transition) during
+viral-mediated B-cell oncogenesis has not been fully explored. Moreover, several 
+studies have demonstrated a crucial role for EMT markers during B-cell
+malignancies. In this study, we demonstrate that Par3 is significantly
+up-regulated in KSHV-infected primary B-cells. Further, Par3 interacted with LANA
+in KSHV positive and LANA expressing cells which led to translocation of Par3
+from the cell periphery to a predominantly nuclear signal. Par3 knockdown led to 
+reduced cell proliferation and increased apoptotic induction. Levels of SNAIL was
+elevated, and E-cadherin was reduced in the presence of LANA or Par3.
+Interestingly, KSHV infection in primary B-cells led to enhancement of SNAIL and 
+down-regulation of E-cadherin in a temporal manner. Importantly, knockdown of
+SNAIL, a major EMT regulator, in KSHV cells resulted in reduced expression of
+LANA, Par3, and enhanced E-cadherin. Also, SNAIL bound to the promoter region of 
+p21 and can regulate its activity. Further a SNAIL inhibitor diminished NF-kB
+signaling through upregulation of Caspase3 in KSHV positive cells in vitro. This 
+was also supported by upregulation of SNAIL and Par3 in BC-3 transplanted
+NOD-SCID mice which has potential as a therapeutic target for KSHV-associated
+B-cell lymphomas.
+
+DOI: 10.1371/journal.ppat.1005801 
+PMCID: PMC4963126
+PMID: 27463802  [Indexed for MEDLINE]

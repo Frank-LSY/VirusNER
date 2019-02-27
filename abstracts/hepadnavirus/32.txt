@@ -1,0 +1,34 @@
+
+
+32. Viruses. 2017 Apr 3;9(4). pii: E69. doi: 10.3390/v9040069.
+
+Identifying and Characterizing Interplay between Hepatitis B Virus X Protein and 
+Smc5/6.
+
+Livingston CM(1), Ramakrishnan D(2), Strubin M(3), Fletcher SP(4), Beran RK(5).
+
+Author information: 
+(1)Gilead Sciences, Foster City, CA 94404, USA.
+christine.marie.livingston@gmail.com.
+(2)Gilead Sciences, Foster City, CA 94404, USA. Dhivya.Ramakrishnan@gilead.com.
+(3)Department of Microbiology and Molecular Medicine, University Medical Center
+(CMU), 1211 Geneva, Switzerland. Michel.Strubin@unige.ch.
+(4)Gilead Sciences, Foster City, CA 94404, USA. simon.fletcher@gilead.com.
+(5)Gilead Sciences, Foster City, CA 94404, USA. rudolf.beran@gilead.com.
+
+Hepatitis B X protein (HBx) plays an essential role in the hepatitis B virus
+(HBV) replication cycle, but the function of HBx has been elusive until recently.
+It was recently shown that transcription from the HBV genome (covalently-closed
+circular DNA, cccDNA) is inhibited by the structural maintenance of chromosome
+5/6 complex (Smc5/6), and that a key function of HBx is to redirect the
+DNA-damage binding protein 1 (DDB1) E3 ubiquitin ligase to target this complex
+for degradation. By doing so, HBx alleviates transcriptional repression by Smc5/6
+and stimulates HBV gene expression. In this review, we discuss in detail how the 
+interplay between HBx and Smc5/6 was identified and characterized. We also
+discuss what is known regarding the repression of cccDNA transcription by Smc5/6,
+the timing of HBx expression, and the potential role of HBx in promoting
+hepatocellular carcinoma (HCC).
+
+DOI: 10.3390/v9040069 
+PMCID: PMC5408675
+PMID: 28368357  [Indexed for MEDLINE]

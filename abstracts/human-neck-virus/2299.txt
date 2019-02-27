@@ -1,0 +1,44 @@
+
+
+2299. Indian J Med Res. 2017 Aug;146(2):267-271. doi: 10.4103/ijmr.IJMR_1303_15.
+
+Incidence of Japanese Encephalitis amongst acute encephalitis syndrome cases in
+upper Assam districts from 2012 to 2014: A report from a tertiary care hospital.
+
+Medhi M(1), Saikia L(1), Patgiri SJ(2), Lahkar V(3), Hussain ME(1), Kakati S(4).
+
+Author information: 
+(1)Department of Microbiology, Assam Medical College & Hospital, Dibrugarh,
+India.
+(2)Department of Multidisciplinary Research Laboratory (ICMR), Assam Medical
+College & Hospital, Dibrugarh, India.
+(3)Department of Microbiology, Narayana Hrudayalaya Superspeciality Hospital,
+Guwahati, India.
+(4)Department of Medicine, Assam Medical College & Hospital, Dibrugarh, India.
+
+BACKGROUND & OBJECTIVES: Japanese encephalitis (JE) is a major public health
+problem in India because of high mortality rate and residual neuropsychiatric
+damage in the survivors. The present study was undertaken to investigate JE
+positivity amongst patients admitted with acute encephalitis syndrome (AES) in
+upper Assam districts and different parameters with their changing trends related
+to it.
+METHODS: It was a hospital-based prospective cross-sectional study conducted from
+January 2012 to December 2014. A total of 1707 consecutive non-repetitive
+hospitalized patients, satisfying the clinical case definition of AES as per the 
+WHO guidelines, were included in the study. Cerebrospinal fluid (CSF) and serum
+samples were tested for JEV-specific IgM antibodies.
+RESULTS: Of the 1707 patients admitted, 696 (40.77 %) were diagnosed as JE with
+male-to-female ratio 1.7:1 and adult to paediatric ratio 2.2:1. Fever (100%),
+change in mental status (100%), headache (80.02%), neck rigidity (52.01%),
+unconsciousness (48.99%), seizure (37.64%) and paralysis (11.06%) were the major 
+clinical findings. The majority of cases (94%) were from rural areas. There was a
+significant association of JE cases with rainy season of the year i.e., June to
+August (P<0.001). Overall, 14.94 per cent deaths were reported in JE positive
+cases.
+INTERPRETATION & CONCLUSIONS: A higher occurrence of JE was observed in above 15 
+yr age group. Cases were mainly from rural areas, and there was clustering of
+cases in rainy season.
+
+DOI: 10.4103/ijmr.IJMR_1303_15 
+PMCID: PMC5761038
+PMID: 29265029  [Indexed for MEDLINE]

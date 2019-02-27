@@ -1,0 +1,42 @@
+
+
+3079. J Clin Endocrinol Metab. 2010 Feb;95(2):620-9. doi: 10.1210/jc.2009-0708. Epub
+2009 Dec 4.
+
+Low bone mass and high bone turnover in postmenopausal human immunodeficiency
+virus-infected women.
+
+Yin MT(1), McMahon DJ, Ferris DC, Zhang CA, Shu A, Staron R, Colon I, Laurence J,
+Dobkin JF, Hammer SM, Shane E.
+
+Author information: 
+(1)M.S., Division of Infectious Diseases, Columbia University Medical Center, 630
+West 168th Street, PH8-876, New York, New York 10032, USA. Mty4@columbia.edu
+
+CONTEXT: Low bone mineral density (BMD) is commonly reported in young men and
+women with HIV infection, and fracture rates may be higher. With effective
+antiretroviral therapy (ART), the HIV population is aging. However, little is
+known about the skeletal status of postmenopausal women.
+OBJECTIVE: We aimed to assess the effects of HIV infection and ART on BMD and
+bone turnover in postmenopausal minority women.
+DESIGN, SETTING, AND PATIENTS: A prospective cohort study was performed in 92
+HIV+ and 95 HIV- postmenopausal Hispanic and African-American women.
+MAIN OUTCOME MEASURES: We measured BMD by dual-energy x-ray absorptiometry,
+fracture prevalence, serum levels of inflammatory cytokines (TNFalpha, IL-6),
+bone turnover markers, calciotropic hormones, and estrone.
+RESULTS: HIV+ women were younger (56 +/- 1 vs. 60 +/- 1 yr; P < 0.01) and had
+lower BMI (28 +/- 1 vs. 30 +/- 1 kg/m(2); P < 0.01) and estrone levels.
+Prevalence of T scores below -1.0 was greater in HIV+ women at the spine (78 vs. 
+64%; P < 0.05), total hip (45 vs. 29%; P < 0.05), and femoral neck (64 vs. 46%; P
+< 0.05), and Z scores adjusted for BMI were lower in HIV+ women at the same
+sites. Serum TNFalpha, N-telopeptide, and C-telopeptide were significantly higher
+in HIV+ than HIV- women, particularly those receiving ART. HIV+ status was
+independently and negatively associated with spine and hip BMD after adjustment
+for age, ethnicity, BMI, and alcohol.
+CONCLUSION: The lower BMD, higher prevalence of low BMD, and higher levels of
+bone turnover markers detected in HIV+ postmenopausal minority women could place 
+them at high risk for future fractures.
+
+DOI: 10.1210/jc.2009-0708 
+PMCID: PMC2840861
+PMID: 19965927  [Indexed for MEDLINE]

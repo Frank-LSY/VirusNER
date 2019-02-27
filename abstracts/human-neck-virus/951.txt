@@ -1,0 +1,46 @@
+
+
+951. J Clin Virol. 2011 Jun;51(2):100-4. doi: 10.1016/j.jcv.2011.03.003. Epub 2011 May
+6.
+
+Human papillomavirus genotype distribution in oropharynx and oral cavity cancer
+in France--The EDiTH VI study.
+
+St Guily JL(1), Jacquard AC, Prétet JL, Haesebaert J, Beby-Defaux A, Clavel C,
+Agius G, Birembaut P, Okaïs C, Léocmach Y, Soubeyrand B, Pradat P, Riethmuller D,
+Mougin C, Denis F.
+
+Author information: 
+(1)Service d'Oto-rhino-laryngologie et chirurgie cervico-faciale, Hôpital Tenon, 
+Université de Paris 6 et Faculté de Médecine Pierre-et-Marie Curie, Assistance
+Publique-Hôpitaux de Paris, 4 rue de la Chine, 75970 Paris cedex 20, France.
+jean.lacau@tnn.aphp.fr
+
+BACKGROUND: The incidence of oropharyngeal cancers has gradually increased over
+the last decades. Recent studies suggest an association between human
+papillomavirus (HPV) infection and several head and neck cancers, especially
+oropharyngeal and oral cavity invasive carcinomas.
+OBJECTIVES: The objective was to assess the overall and type specific HPV
+prevalence in oropharyngeal and oral cavity carcinomas in France.
+STUDY DESIGN: Paraffin-embedded tumour specimens were retrospectively collected
+in 12 French centres and centrally tested for HPV detection and genotyping
+(INNO-LiPA assay).
+RESULTS: A total of 523 cases (77% males) were collected, among which 60% were
+oropharyngeal and 40% oral cavity carcinomas. The most frequent anatomical sites 
+were tonsil (58.9%) and base of tongue (13.7%) for the oropharynx and floor of
+mouth (41.1%) and oral tongue (38.3%) for the oral cavity. Overall HPV prevalence
+was 46.5% in oropharyngeal carcinomas and 10.5% in oral cavity carcinomas and was
+higher in female than in male cases (63.5% vs 42.2% in oropharynx and 17.2% vs
+8.0% in oral cavity). About 95% of HPV-positive cases were infected by a single
+HPV type. HPV 16 was the most prevalent type and was found in 89.7% and 95.5% of 
+HPV-positive oropharyngeal and oral cavity carcinoma cases, respectively. All
+other HPV types had prevalence below 5%.
+CONCLUSIONS: Our results indicate that HPV is common among oropharyngeal and oral
+cavity carcinoma cases in France and emphasize the predominance of HPV 16. The
+potential benefit of HPV vaccination on the occurrence of head and neck
+carcinomas should be further evaluated.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2011.03.003 
+PMID: 21527208  [Indexed for MEDLINE]

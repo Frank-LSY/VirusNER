@@ -1,0 +1,66 @@
+
+
+2834. Eur Ann Otorhinolaryngol Head Neck Dis. 2014 Apr;131(2):121-9. doi:
+10.1016/j.anorl.2014.02.002. Epub 2014 Mar 19.
+
+French ENT Society (SFORL) guidelines for the management of immunodeficient
+patients with head and neck cancer of cutaneous origin.
+
+Bejar C(1), Basset-Seguin N(2), Faure F(3), Fieschi C(4), Frances C(5), Guenne
+C(6), Lebbe C(2), Peraldi MN(7), Roux J(2), Lamas G(8), Maubec E(9); SFORL
+workgroup.
+
+Author information: 
+(1)Service de dermatologie, groupe hospitalier Bichat-Claude-Bernard, AP-HP, 46, 
+rue Henri-Huchard, 75018 Paris, France.
+(2)Service de dermatologie, hôpital Saint-Louis, AP-HP, 1, avenue
+Claude-Vellefaux, 75010 Paris, France.
+(3)Service d'ORL, clinique Protestante, 1, chemin Penthod, 69300 Caluire et
+Cuire, France.
+(4)Service d'immunologie, hôpital Saint-Louis, AP-HP, 1, avenue Claude-Vellefaux,
+75010 Paris, France.
+(5)Service de dermatologie, hôpital Tenon, AP-HP, 4, rue de la Chine, 75020
+Paris, France.
+(6)Service d'ORL, hôpital Édouard-Herriot, 5, place d'Arsonval, 69437 Lyon cedex 
+03, France.
+(7)Service de néphrologie, hôpital Saint-Louis, AP-HP, 1, avenue
+Claude-Vellefaux, 75010 Paris, France.
+(8)Service d'ORL, hôpital Pitié-Salpêtrière, AP-HP, 47-83, boulevard de
+l'Hôpital, 75013 Paris, France.
+(9)Service de dermatologie, groupe hospitalier Bichat-Claude-Bernard, AP-HP, 46, 
+rue Henri-Huchard, 75018 Paris, France. Electronic address: eve.maubec@inserm.fr.
+
+OBJECTIVES: The French ENT Society (SFORL) created a workgroup to draw up
+guidelines for the management of immunodeficient patients with head and neck
+cancer of cutaneous origin. The present guidelines cover diagnostic and
+therapeutic management and prevention of head and neck cancer of cutaneous origin
+in immunodeficient patients, and in particular in transplant patients and those
+with HIV infection.
+MATERIALS AND METHODS: The present guidelines were based on a critical
+multidisciplinary reading of the literature. Immunosuppression and its varieties 
+are defined. The usual risk factors for skin cancer and those specific to
+immunodeficiency are presented. The prevention, assessment and management of
+cutaneous carcinoma, melanoma, Kaposi's sarcoma and lymphoma are dealt with. The 
+level of evidence of the source studies was assessed so as to grade the various
+guidelines. When need be, expert opinions are put forward.
+RESULTS: Immunodeficient patients are at higher risk of head and neck skin
+tumors. The level of risk depends on the type of deficiency; there is an
+especially high risk of squamous cell carcinoma in transplant patients and of
+Kaposi's sarcoma in HIV-positive subjects. Various viruses are associated with
+skin cancers. Skin tumors are often evolutive in case of immunodeficiency,
+requiring rapid treatment. Management is generally the same as in immunocompetent
+subjects and should be discussed in a multidisciplinary team meeting.
+Immunosuppression may need to be modulated. In organ transplant patients, the
+only class of immunosuppressants with proven antitumoral efficacy are mTOR
+inhibitors, particularly in cutaneous squamous cell carcinoma. The rhythm of
+clinical surveillance should be adapted according to the risk of recurrence.
+Preventive measures should be undertaken.
+CONCLUSION: Skin cancers in immunodeficiency are highly evolutive, requiring the 
+earliest possible treatment. Immunosuppression may need modulating. As the risk
+of recurrence may be elevated, careful surveillance should be implemented.
+Preventive measures should also be undertaken.
+
+Copyright © 2014 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.anorl.2014.02.002 
+PMID: 24656876  [Indexed for MEDLINE]

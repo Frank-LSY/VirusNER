@@ -1,0 +1,36 @@
+
+
+3080. Cancer Biol Ther. 2015;16(2):261-7. doi: 10.1080/15384047.2014.1001287.
+
+MiR-1204 sensitizes nasopharyngeal carcinoma cells to paclitaxel both in vitro
+and in vivo.
+
+Peng X(1), Cao P, Li J, He D, Han S, Zhou J, Tan G, Li W, Yu F, Yu J, Li Z, Cao
+K.
+
+Author information: 
+(1)a Department of Head and Neck Surgery and Oncology Plastic Surgery; The
+Affiliated Cancer Hospital of Xiangya Medical School ; Central South University ;
+Changsha , Hunan , China.
+
+Nasopharyngeal carcinoma (NPC) is an endemic tumor with a relatively high
+incidence in Southern China and Southeast Asia. Paclitaxel combination
+chemotherapy has been used for treatment of advanced NPC. However, treatment
+failure often occurs due to development of acquired paclitaxel resistance. In
+this study, we first established a paclitaxel-resistant CNE-1/Taxol, HNE-2/Taxol 
+and 5-8F/Taxol cell sublines by treating the parental CNE-1, HNE-2 and 5-8F cells
+with increasing doses of paclitaxel for about 5 months, respectively. Then,
+microRNA arrays were used to screen differentially expressed miRNAs between the
+CNE-1/Taxol cells and the parental CNE-1 cells. We found 13 differentially
+expressed miRNAs, of which miR-1204 was significantly downregulated in the
+paclitaxel-resistant CNE-1/Taxol cells. We restored miR-1204 expression in the
+CNE-1/Taxol, HNE-2/Taxol and 5-8F/Taxol cells and found that restoration of
+miR-1204 re-sensitized the paclitaxel-resistant CNE-1/Taxol, HNE-2/Taxol and
+5-8F/Taxol cells to paclitaxel both in vitro. Finally, we demonstrated that
+restoration of miR-1204 in significantly inhibits tumor growth in vivo. Thus, our
+study provides important information for the development of targeted gene therapy
+for reversing paclitaxel resistance in NPC.
+
+DOI: 10.1080/15384047.2014.1001287 
+PMCID: PMC4622873
+PMID: 25756509  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+308. Int J Radiat Oncol Biol Phys. 2009 Jun 1;74(2):553-61. doi:
+10.1016/j.ijrobp.2009.02.015.
+
+The relationship between human papillomavirus status and other molecular
+prognostic markers in head and neck squamous cell carcinomas.
+
+Kong CS(1), Narasimhan B, Cao H, Kwok S, Erickson JP, Koong A, Pourmand N, Le QT.
+
+Author information: 
+(1)Department of Pathology, Stanford University, Santa Cruz, CA, USA.
+
+PURPOSE: To evaluate the relationship between human papillomavirus (HPV) status
+and known prognostic makers for head and neck cancers including tumor hypoxia,
+epidermal growth factor receptor (EGFR) expression and intratumoral T-cell levels
+and to determine the prognostic impact of these markers by HPV status.
+METHODS AND MATERIALS: HPV status in 82 evaluable head and neck squamous cell
+carcinomas patients was determined by pyrosequencing and related to p16(INK4a)
+staining and treatment outcomes. It was correlated with tumor hypoxia (tumor
+pO(2) and carbonic anhydrase [CAIX] staining), EGFR status, and intratumoral
+lymphocyte expression (CD3 staining).
+RESULTS: Forty-four percent of evaluable tumors had strong HPV signal by
+pyrosequencing. There was a significant relationship between strong HPV signal
+and p16(INK4a) staining as well as oropharynx location. The strong HPV signal
+group fared significantly better than others, both in time to progression (TTP, p
+= 0.008) and overall survival (OS, p = 0.004) for all patients and for the
+oropharyngeal subset. Positive p16(INK4a) staining was associated with better TTP
+(p = 0.014) and OS (p = 0.00002). There was no relationship between HPV status
+and tumor pO(2) or CAIX staining. However, HPV status correlated inversely with
+EGFR reactivity (p = 0.0006) and directly with CD3(+) T-lymphocyte level (p =
+0.03). Whereas CAIX and EGFR overexpression were negative prognostic factors
+regardless of HPV status, CD3(+) T-cell levels was prognostic only in HPV(-)
+tumors.
+CONCLUSION: HPV status was a prognostic factor for progression and survival. It
+correlated inversely with EGFR expression and directly with T-cell infiltration. 
+The prognostic effect of CAIX and EGFR expression was not influenced by HPV
+status, whereas intratumoral T-cell levels was significant only for HPV(-)
+tumors.
+
+DOI: 10.1016/j.ijrobp.2009.02.015 
+PMCID: PMC2768774
+PMID: 19427557  [Indexed for MEDLINE]

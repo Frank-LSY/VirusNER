@@ -1,0 +1,34 @@
+
+
+14. Virology. 2018 Jan 1;513:208-216. doi: 10.1016/j.virol.2017.10.017. Epub 2017 Nov
+5.
+
+Viral sequences in human cancer.
+
+Cantalupo PG(1), Katz JP(1), Pipas JM(2).
+
+Author information: 
+(1)Department of Biological Sciences, University of Pittsburgh, Pittsburgh, PA
+15260, USA.
+(2)Department of Biological Sciences, University of Pittsburgh, Pittsburgh, PA
+15260, USA. Electronic address: pipas@pitt.edu.
+
+We have developed a virus detection and discovery computational pipeline,
+Pickaxe, and applied it to NGS databases provided by The Cancer Genome Atlas
+(TCGA). We analyzed a collection of whole genome (WGS), exome (WXS), and RNA
+(RNA-Seq) sequencing libraries from 3052 participants across 22 different
+cancers. NGS data from nearly all tumor and normal tissues examined contained
+contaminating viral sequences. Intensive computational and manual efforts are
+required to remove these artifacts. We found that several different types of
+cancers harbored Herpesviruses including EBV, CMV, HHV1, HHV2, HHV6 and HHV7. In 
+addition to the reported associations of Hepatitis B and C virus (HBV & HCV) with
+liver cancer, and Human papillomaviruses (HPV) with cervical cancer and a subset 
+of head and neck cancers, we found additional cases of HPV integrated in a small 
+number of bladder cancers. Gene expression and mutational profiles suggest that
+HPV drives tumorigenesis in these cases.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2017.10.017 
+PMCID: PMC5828528
+PMID: 29107929  [Indexed for MEDLINE]

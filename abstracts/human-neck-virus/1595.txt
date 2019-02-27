@@ -1,0 +1,36 @@
+
+
+1595. J Proteome Res. 2014 Feb 7;13(2):1002-11. doi: 10.1021/pr401009f. Epub 2014 Jan
+10.
+
+Regulation of interleukin-6 in head and neck squamous cell carcinoma is related
+to papillomavirus infection.
+
+Guerrera IC(1), Quetier I, Fetouchi R, Moreau F, Vauloup-Fellous C, Lekbaby B,
+Rousselot C, Chhuon C, Edelman A, Lefevre M, Nicolas JC, Kremsdorf D, Lacau Saint
+Guily J, Soussan P.
+
+Author information: 
+(1)Plateau Protéome Necker, IFR 94, Université Paris Descartes , Paris, France.
+
+The prevalence of head and neck squamous cell carcinoma (HNSCC) related to human 
+papillomavirus (HPV) is increasing, unlike tobacco- and alcohol-associated
+cancers. To gain a clearer understanding of the molecular mechanisms implicated
+in HNSCC, depending on the presence or not of a viral sequence, we investigated
+the expression of proteins detected in the tumor regions of HNSCC patients.
+Twenty-two untreated HNSCC patients were selected according to the presence of
+HPV-16. For six patients, tumor and controlateral healthy tissues were tested for
+viral detection before quantitative proteomic analysis. After confirmation by
+Western blot, proteins were connected into a network, leading to investigate
+interleukin-6 (IL-6) by immunocytochemistry and ELISA. 41 ± 5% of proteins
+quantified by proteomics were differentially expressed in tumor compared with
+healthy regions. Among them, 36 proteins were retained as modulated in HPV-16
+positive or negative tumors, including cytokeratins, tubulins, annexin A1, and
+serpin B1. Network analysis suggested a central role of IL-6, confirmed by
+overexpression of IL-6 in tumor tissues as in sera of HPV-negative HNSCC compared
+with HPV-16-positive tumors. This modulation may contribute to the survival and
+proliferation of cancer cells, although it was not related to tumor stage or to
+the level of HPV-16 DNA.
+
+DOI: 10.1021/pr401009f 
+PMID: 24405156  [Indexed for MEDLINE]

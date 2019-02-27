@@ -1,0 +1,31 @@
+
+
+2876. Int J Surg Pathol. 2010 Oct;18(5):406-8. doi: 10.1177/1066896908330051. Epub 2009
+Jan 14.
+
+Bona fide primary Merkel cell carcinoma of an intraparotid lymph node in a
+HIV-positive patient.
+
+Ottaviani F(1), Capaccio P, Villani F, Banderali M, Pruneri G, Klinger M,
+Pignataro L.
+
+Author information: 
+(1)Department of Otorhinolaryngological and Ophthalmological Sciences,
+Policlinico Foundation IRCCS, University of Milan, Milan, Italy.
+francesco.ottaviani@unimi.it
+
+Merkel cell carcinomas are uncommon malignant tumors thought to originate from
+the neuroendocrine cells of the skin that mainly affects sun-exposed body areas, 
+particularly the head and neck. In approximately 10% of cases, they present with 
+localized lymphadenopathy without any clinical evidence or history of a primary
+lesion, but a truly primary lymph node Merkel cell carcinoma may occur, possibly 
+originating from epithelial inclusions or an anomalous neuroendocrine
+differentiation of hematopoietic stem cells. It has been observed that Merkel
+cell carcinoma is more likely to affect patients whose immune status is impaired 
+as a result of iatrogenic immunosuppression, human immunodeficiency virus
+infection, or hematological malignancies. This study reports the case of a bona
+fide primary Merkel cell carcinoma arising in an intraparotid lymph node of a
+patient infected by HIV that had a particularly unfavorable clinical course.
+
+DOI: 10.1177/1066896908330051 
+PMID: 19147511  [Indexed for MEDLINE]

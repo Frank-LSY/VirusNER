@@ -1,0 +1,63 @@
+
+
+2921. Curr Probl Cancer. 2017 Nov - Dec;41(6):398-406. doi:
+10.1016/j.currproblcancer.2017.10.001. Epub 2017 Oct 4.
+
+Genomic and epigenetic characterization for the comparison of synchronous
+bilateral tongue squamous cell carcinomas-A case report.
+
+Ribeiro IP(1), Barroso L(2), Marques F(3), Santos A(4), Caramelo F(5), Julião
+MJ(6), Melo JB(1), Carreira IM(7).
+
+Author information: 
+(1)Cytogenetics and Genomics Laboratory, Faculty of Medicine, University of
+Coimbra, Coimbra, Portugal; CIMAGO-Center of Investigation on Environment
+Genetics and Oncobiology, Faculty of Medicine, University of Coimbra, Coimbra,
+Portugal.
+(2)Maxillofacial Surgery Department, Coimbra Hospital and University Centre,
+CHUC, EPE, Coimbra, Portugal.
+(3)Department of Dentistry, Faculty of Medicine, University of Coimbra, Coimbra, 
+Portugal.
+(4)Cytogenetics and Genomics Laboratory, Faculty of Medicine, University of
+Coimbra, Coimbra, Portugal.
+(5)Laboratory of Biostatistics and Medical Informatics, IBILI-Faculty of
+Medicine, University of Coimbra, Coimbra, Portugal.
+(6)Department of Pathology, Coimbra Hospital and University Centre, CHUC, EPE,
+Coimbra, Portugal.
+(7)Cytogenetics and Genomics Laboratory, Faculty of Medicine, University of
+Coimbra, Coimbra, Portugal; CIMAGO-Center of Investigation on Environment
+Genetics and Oncobiology, Faculty of Medicine, University of Coimbra, Coimbra,
+Portugal. Electronic address: citogenetica@fmed.uc.pt.
+
+The tongue is the most common and aggressive site for tumors in the oral cavity. 
+These tumors are usually located in the lateral border of the tongue and are
+often related to the use of tobacco and alcohol. Clinical management of these
+tumors is predominantly based on anatomic location and TNM classification. The
+identification of molecular signatures with ability to explain the different
+outcomes observed in these patients is of paramount importance to guide and help 
+their management.CASE PRESENTATION: we herein describe an 88-year-old woman
+diagnosed with synchronous bilateral tongue carcinoma. This woman did not present
+the traditional risk factors related to oral cancer-alcohol, tobacco, or presence
+of human papiloma virus (HPV). Both tumors were classified by a pathologist as
+pT2. This patient was submitted to surgery, 6 months later was diagnosed with
+cervical metastasis and in the following 2 months died. Copy number alterations
+and methylation status of these 2 simultaneous tumors were analyzed using array
+comparative genomic hybridization, multiplex ligation-dependent probe
+amplification, and methylation specific multiplex ligation-dependent probe
+amplification. In conclusion, in both tumors we identified several molecular
+traits usually found among oral cavity tumors and some of those have been
+associated with clinical outcome, reinforcing their importance to accurately
+establish biomarkers with clinical applicability. Specific genomic and epigenetic
+signatures for each of these 2 tumors were also observed allowing their molecular
+discrimination. The tumor of the right side of the tongue exhibited more copy
+number gains than the tumor of the left side. In the left side tumor less and
+smaller copy number alterations and more methylated genes were observed, which
+could be indicative of an early phase of tumor development. This case shows the
+molecular heterogeneity of oral cavity tumors even in the same patient and
+anatomic site, which could be the key to explain the different outcomes of oral
+tumor patients.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.currproblcancer.2017.10.001 
+PMID: 29056289  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+2748. Genet Mol Res. 2015 Jun 1;14(2):6028-36. doi: 10.4238/2015.June.1.20.
+
+Integrated miRNA-mRNA analysis of Epstein-Barr virus-positive nasopharyngeal
+carcinoma.
+
+Zhu LH(1), Miao XT(2), Wang NY(3).
+
+Author information: 
+(1)Department of Otolaryngology & Head and Neck Surgery, Beijing Chaoyang
+Hospital, Capital Medical University.
+(2)Department of Otolaryngology & Head and Neck Surgery, Beijing Jishuitan
+Hospital, XiCheng District, Beijing, China.
+(3)Chaoyang District, Beijing, China wangningyyoo@163.com.
+
+This study aims to identify the crucial miRNAs in Epstein-Barr virus-positive
+nasopharyngeal carcinoma (NPC) and their target genes. Gene expression profile
+data (GSE12452) that included 31 NPC and 10 normal nasopharyngeal tissue
+specimens were downloaded. Differentially expressed genes (DEGs) were identified 
+using significance analysis of microarrays. The underlying function of DEGs was
+predicted via Gene Ontology and Kyoto Encyclopedia of Genes and Genomes pathway
+enrichment analyses. The miRNA sequencing dataset GSE14738 was also downloaded,
+and expression levels of miRNA were calculated by the number of reads mapped to
+each miRNA. The selected miRNAs were integrated into the miRecords database to
+obtain their target genes. Target genes associated with DEGs were used to
+construct the interaction network via Cytoscape. A total of 1437 DEGs between NPC
+and control were identified, most of which were enriched in cell cycle and
+extracellular matrix-receptor interaction signaling pathways. Furthermore, 112
+miRNAs were considered upregulated in NPC samples. A total of 2228 relationships 
+between 39 miRNAs and 1247 target genes were obtained, of which 182 relationships
+between 32 miRNAs and 97 target genes were chosen to construct an interaction
+network. The interactions between DEGs and the let-7 or miR-29 families appeared 
+strongest in this network, where CDC25A, COL3A1, and COL1A1 were regulated by
+several let-7 family members, while COL4A1 and COL5A2 were regulated by several
+miR-29 family members. The let-7 and miR-29 families may be related to the
+development of NPC by regulating the genes involved in cell cycle and
+ECM-receptor interaction.
+
+DOI: 10.4238/2015.June.1.20 
+PMID: 26125802  [Indexed for MEDLINE]

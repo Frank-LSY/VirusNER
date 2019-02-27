@@ -1,0 +1,55 @@
+
+
+514. PLoS One. 2015 Oct 16;10(10):e0140700. doi: 10.1371/journal.pone.0140700.
+eCollection 2015.
+
+Alcohol and Tobacco Increases Risk of High Risk HPV Infection in Head and Neck
+Cancer Patients: Study from North-East Region of India.
+
+Kumar R(1), Rai AK(2), Das D(2), Das R(3), Kumar RS(4), Sarma A(5), Sharma S(6), 
+Kataki AC(7), Ramteke A(1).
+
+Author information: 
+(1)Cancer Genetics and Chemoprevention Research Group, Department of Molecular
+Biology and Biotechnology, Tezpur University, Tezpur, Assam, India.
+(2)DBT center for Molecular Biology and Cancer Research, Dr. B. Borooah Cancer
+Institute, Guwahati, Assam, India.
+(3)Department of Head and Neck Oncology, Dr. B. Borooah Cancer Institute,
+Guwahati, Assam, India.
+(4)Division of Molecular Genetics, Institute of Cytology and Preventive Oncology 
+(ICMR), I-7, Sector 39, Noida, Uttar Pradesh, India.
+(5)Department of Pathology, Dr. B. Borooah Cancer Institute, Guwahati, Assam,
+India.
+(6)Division of Epidemiology and Biostatistics, Institute of Cytology and
+Preventive Oncology (ICMR), I-7, Sector 39, Noida, Uttar Pradesh, India.
+(7)Department of Gynecologic oncology, Dr. B. Borooah Cancer Institute, Guwahati,
+Assam, India.
+
+BACKGROUND: Human papilloma virus (HPV) associated Head and Neck Cancers (HNCs)
+have generated significant amount of research interest in recent times. Due to
+high incidence of HNCs and lack of sufficient data on high-risk HPV (hr-HPV)
+infection from North -East region of India, this study was conceived to
+investigate hr-HPV infection, its types and its association with life style
+habits such as tobacco, alcohol consumption etc.
+METHODS: A total of one hundred and six primary HNC tumor biopsy specimens were
+collected. These samples were analyzed for hr-HPV DNA (13 HPV types) using hybrid
+capture 2 (HC2) assay and genotyping was done by E6 nested multiplex PCR (NMPCR).
+RESULTS: The presence of hr-HPV was confirmed in 31.13% (n = 33) and 24.52% (n = 
+26) of the HNC patients by nested multiplex PCR (NMPCR) and HC2 assay
+respectively. Among hr-HPV positive cases, out of thirteen hr- HPV types
+analyzed, only two prevalent genotypes, HPV-16 (81.81%) followed by HPV-18
+(18.18%) were found. Significant association was observed between hr-HPV
+infection with alcohol consumption (p <0.001) and tobacco chewing (p = 0.02) in
+HNC cases. Compared to HPV-18 infection the HPV-16 was found to be significantly 
+associated with tobacco chewing (p = 0.02) habit.
+CONCLUSIONS: Our study demonstrated that tobacco chewing and alcohol consumption 
+may act as risk factors for hr-HPV infection in HNCs from the North-East region
+of India. This was the first study from North-East India which also assessed the 
+clinical applicability of HC2 assay in HNC patient specimens. We suggest that
+alcohol, tobacco and hr- HPV infection act synergistically or complement each
+other in the process of HNC development and progression in the present study
+population.
+
+DOI: 10.1371/journal.pone.0140700 
+PMCID: PMC4608822
+PMID: 26473489  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+2342. Asian Pac J Cancer Prev. 2015;16(1):253-8.
+
+HPV-associated p16 INK4A expression and response to therapy and survival in
+selected head and neck cancers.
+
+Kanyilmaz G(1), Ekinci O, Muge A, Celik S, Ozturk F.
+
+Author information: 
+(1)Department of Radiation Oncology, Faculty of Medicine, Necmettin Erbakan
+University, Konya, Turkey E-mail : drgulgun@yahoo.com.
+
+BACKGROUND: Development of squamous cell cancer of head and neck (SCCHN) is
+associated with human papillomavirus (HPV) infection, which in turn is closely
+related with expression of p16 INK4A. Loss of p16 INK4A expression by deletion,
+mutation, or hypermethylation is common in SCCHN. We here evaluated p16 INK4A as 
+a prognostic marker of treatment response and survival in our SCCHN patients with
+laryngeal, hypopharyngeal or nasopharyngeal cancers.
+MATERIALS AND METHODS: 131 patients diagnosed with SCCHN between January 2,2006
+and July 17, 2010 were examined for p16 INK4A. The median age was 60 years (15-82
+years). Fifty one patients were stage I-II and 80 were stage III-IV.
+Immunohistochemical expression of p16 INK4A was analyzed in pretreatment
+paraffin-embedded tumor blocks. The influence of p16 INK4A status on disease-free
+survival, and overall survival after treatment was evaluated.
+RESULTS: P16 INK4A positivity was found in 58 patients (44%). Tumor-positivity
+for p16INK4A was correlated with improved disease free survival (70.1 months vs
+59 months) and improved overall survival (2, 3 and 5-year values; 77% vs 72%, 70%
+vs 63% and, 63% vs 55%; respectively). On multivariate analysis, stage was
+determined as independent prognostic factor for disease-free survival.
+CONCLUSIONS: Stage was the major prognostic factor on treatment response and
+survival in our patients. P16 INK4A status predicts better outcome in laryngeal, 
+hypopharyngeal or nasopharyngeal cancer cases treated with surgery plus adjuvant 
+radiochemotherapy as well as with definitive radiation therapy and/or
+chemotherapy.
+
+
+PMID: 25640361  [Indexed for MEDLINE]

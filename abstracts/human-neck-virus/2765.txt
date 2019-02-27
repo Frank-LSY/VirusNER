@@ -1,0 +1,46 @@
+
+
+2765. Int J Oncol. 2017 Nov;51(5):1471-1481. doi: 10.3892/ijo.2017.4142. Epub 2017 Oct 
+2.
+
+Adoptive immunotherapy combined with FP treatment for head and neck cancer: An
+in vitro study.
+
+Nishio-Nagai M(1), Suzuki S(2), Yoshikawa K(3), Ueda R(2), Kazaoka Y(1).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, Aichi Medical University,
+Nagakute, Aichi 480-1195, Japan.
+(2)Department of Tumor Immunology, Aichi Medical University School of Medicine,
+Nagakute, Aichi 480-1195, Japan.
+(3)Division of Advanced Research Promotion, Institute of Comprehensive Medical
+Research, Aichi Medical University School of Medicine, Nagakute, Aichi 480-1195, 
+Japan.
+
+FP treatment, which combines 5-fluorouracil (5-FU) and cisplatin (CDDP)
+chemotherapy, is widely used for treatment of advanced head and neck cancer
+(HNC). It has been suggested that these drugs cause immunomodulation in the
+cancer microenvironment, for example, downregulation of immunosuppressive cells
+such as regulatory T-cells (Tregs) and myeloid-derived suppressive cells (MDSCs),
+activating dendritic cells (DCs), and upregulation of tumor antigens and major
+histocompatibility complex (MHC) molecules in cancer cells leads to enhancement
+of cancer immunity, which is important in cancer treatment, as well as providing 
+a direct killing effect. Therefore, development of chemoimmunotherapy by
+combining FP treatment with immunotherapy for HNC has become a recent challenging
+issue. However, the direct effects of these drugs on immune effector cells,
+especially cytotoxic T-lymphocytes (CTLs), are not well known. We have
+investigated the direct actions of these drugs on CTL functions in in vitro
+experiments using cytomegalovirus (CMV) pp65 antigen-specific CTLs (CMVpp65-CTLs)
+and oral squamous cell cancer (OSCC) cell lines overexpressing CMVpp65 antigen as
+target cells. Although CDDP partially inhibited proliferation of memory
+CMVpp65-CTL in peripheral blood, the proliferation was not inhibited by 5-FU.
+Cytotoxicity and the IFN-γ release response of the CMVpp65-CTLs were not
+inhibited by these drugs, and it is important to note that these drugs,
+especially 5-FU, sensitized OSCC cell lines to CMVpp65-CTL. Furthermore,
+CMVpp65-CTL cytotoxicity to CDDP-resistant OSCC cells, HSC-3/CDDP-R1, was the
+same as the cytotoxicity to the parental cells. Thus, we suggest that combined
+immunotherapy with FP treatment is an effective novel HNC treatment.
+
+DOI: 10.3892/ijo.2017.4142 
+PMCID: PMC5643067
+PMID: 29048671  [Indexed for MEDLINE]

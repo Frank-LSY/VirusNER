@@ -1,0 +1,46 @@
+
+
+814. Oral Oncol. 2014 Jun;50(6):565-74. doi: 10.1016/j.oraloncology.2013.09.008. Epub 
+2013 Oct 14.
+
+The clinical impact of HPV tumor status upon head and neck squamous cell
+carcinomas.
+
+Benson E(1), Li R(2), Eisele D(3), Fakhry C(4).
+
+Author information: 
+(1)Johns Hopkins Medical Institutions, Department of Otolaryngology-Head and Neck
+Surgery., 601 N. Caroline Street, 6th Floor, Baltimore, MD 21287, United States. 
+Electronic address: ebenson6@jhmi.edu.
+(2)Johns Hopkins Medical Institutions, Department of Otolaryngology-Head and Neck
+Surgery., 601 N. Caroline Street, 6th Floor, Baltimore, MD 21287, United States. 
+Electronic address: rli15@jhmi.edu.
+(3)Johns Hopkins Medical Institutions, Department of Otolaryngology-Head and Neck
+Surgery., 601 N. Caroline Street, 6th Floor, Baltimore, MD 21287, United States. 
+Electronic address: deisele1@jhmi.edu.
+(4)Johns Hopkins Medical Institutions, Department of Otolaryngology-Head and Neck
+Surgery., 601 N. Caroline Street, 6th Floor, Baltimore, MD 21287, United States; 
+Milton J. Dance Jr. Head and Neck Cancer Center, Baltimore, MD 21204, United
+States; Johns Hopkins Bloomberg School of Public Health, Department of
+Epidemiology, 615 N Wolfe St., Baltimore, MD 21205, United States. Electronic
+address: cfakhry@jhmi.edu.
+
+Human papillomavirus (HPV) is etiologically responsible for a distinct subset of 
+head and neck squamous cell cancers (HNSCCs). HPV-positive HNSCCs (HPV-HNSCCs)
+most commonly arise from the oropharynx and are responsible for the increasing
+incidence of oropharyngeal SCC (OSCC) in the United States (US) and abroad.
+HPV-positive OSCC (HPV-OSCC) has a unique demographic and risk factor profile and
+tumor biology. HPV-OSCC patients tend to be white, younger, and have a higher
+cumulative exposure to sexual behaviors as compared with HPV-negative OSCC
+patients. HPV-positive tumor status also significantly improves survival, and is 
+indeed the single strongest prognostic factor for OSCC. The mechanisms that
+underlie the improved prognosis conferred by HPV-positive disease are unknown.
+The purpose of this review is to describe the clinical impact of HPV status in
+HNSCC, particularly in OSCC, both in terms of the unique clinic-demographic
+profile and prognostic implications.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.09.008 
+PMCID: PMC4391706
+PMID: 24134947  [Indexed for MEDLINE]

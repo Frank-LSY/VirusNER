@@ -1,0 +1,42 @@
+
+
+232. Int J Cancer. 2016 Nov 1;139(9):2001-11. doi: 10.1002/ijc.30243. Epub 2016 Jul
+15.
+
+Genomic characterization of viral integration sites in HPV-related cancers.
+
+Bodelon C(1), Untereiner ME(1), Machiela MJ(1), Vinokurova S(2), Wentzensen N(1).
+
+Author information: 
+(1)Division of Cancer Epidemiology and Genetics, National Cancer Institute,
+Bethesda, MD.
+(2)Laboratory of Molecular Biology of Viruses, NN Blokhin Russian Cancer Research
+Center, Moscow, Russia.
+
+Persistent infection with carcinogenic human papillomaviruses (HPV) causes the
+majority of anogenital cancers and a subset of head and neck cancers. The HPV
+genome is frequently found integrated into the host genome of invasive cancers.
+The mechanisms of how it may promote disease progression are not well understood.
+Thoroughly characterizing integration events can provide insights into HPV
+carcinogenesis. Individual studies have reported limited number of integration
+sites in cell lines and human samples. We performed a systematic review of
+published integration sites in HPV-related cancers and conducted a pooled
+analysis to formally test for integration hotspots and genomic features enriched 
+in integration events using data from the Encyclopedia of DNA Elements (ENCODE). 
+Over 1,500 integration sites were reported in the literature, of which 90.8%
+(N = 1,407) were in human tissues. We found 10 cytobands enriched for integration
+events, three previously reported ones (3q28, 8q24.21 and 13q22.1) and seven
+additional ones (2q22.3, 3p14.2, 8q24.22, 14q24.1, 17p11.1, 17q23.1 and 17q23.2).
+Cervical infections with HPV18 were more likely to have breakpoints in 8q24.21
+(p = 7.68 × 10(-4) ) than those with HPV16. Overall, integration sites were more 
+likely to be in gene regions than expected by chance (p = 6.93 × 10(-9) ). They
+were also significantly closer to CpG regions, fragile sites, transcriptionally
+active regions and enhancers. Few integration events occurred within 50 Kb of
+known cervical cancer driver genes. This suggests that HPV integrates in
+accessible regions of the genome, preferentially genes and enhancers, which may
+affect the expression of target genes.
+
+© 2016 UICC.
+
+DOI: 10.1002/ijc.30243 
+PMID: 27343048  [Indexed for MEDLINE]

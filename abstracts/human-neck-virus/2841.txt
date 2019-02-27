@@ -1,0 +1,52 @@
+
+
+2841. J Am Acad Dermatol. 2014 Sep;71(3):548-54. doi: 10.1016/j.jaad.2014.03.027. Epub 
+2014 May 16.
+
+Primary cutaneous follicle center lymphoma with diffuse CD30 expression: a report
+of 4 cases of a rare variant.
+
+Kempf W(1), Kazakov DV(2), Rütten A(3), Rupec RA(4), Talarcik P(5), Ballová V(6),
+Kerl K(7), Dummer R(7), Lautenschlager S(8), Zimmermann DR(9), Tinguely M(10).
+
+Author information: 
+(1)Kempf und Pfaltz, Histologische Diagnostik, Zurich, Switzerland; Department of
+Dermatology, University Hospital, Zurich, Switzerland. Electronic address:
+kempf@kempf-pfaltz.ch.
+(2)Kempf und Pfaltz, Histologische Diagnostik, Zurich, Switzerland; Department of
+Pathology, Medical Faculty in Pilsen, Charles University, Prague, Czech Republic.
+(3)Dermatopathologie Friedrichshafen, Friedrichshafen, Germany.
+(4)Derma AG, Solothurn, Switzerland; Department of Dermatology,
+Ludwig-Maximilians-University, Munich, Germany.
+(5)Cytopathos Laboratories, Bratislava, Slovak Republic.
+(6)National Oncology Department, Bratislava, Slovak Republic.
+(7)Department of Dermatology, University Hospital, Zurich, Switzerland.
+(8)Dermatologisches Ambulatorium, Stadtspital Triemli, Zurich, Switzerland.
+(9)Molecular Biology Laboratory, Department of Pathology, University Hospital
+Zurich, Zurich, Switzerland.
+(10)Kempf und Pfaltz, Histologische Diagnostik, Zurich, Switzerland.
+
+BACKGROUND: CD30 is expressed in aggressive and Epstein-Barr virus-associated
+forms of B-cell non-Hodgkin lymphomas, but is rarely expressed by the majority of
+tumor cells in primary cutaneous B-cell lymphomas (CBCLs). The expression of CD30
+in CBCLs may be at risk for misinterpretation as an unequivocal indicator of a
+highly aggressive form of the disease.
+OBJECTIVE: We report 4 cases of low malignant primary cutaneous follicle center
+lymphoma (PCFCL) with diffuse and strong expression of CD30 by the majority of
+neoplastic cells.
+RESULTS: The patients included 3 men and 1 woman with tumors on the scalp (3
+patients) and chest wall (1 patient). The histologic examinations revealed a
+mixed, diffuse, and follicular growth pattern with CD20(+), bcl-6(+), and
+bcl-2(-) tumor cells. Seventy percent to 90% of the tumor cells expressed CD30.
+Clonal rearrangement of immunoglobulin heavy chain genes was found in 1 of 4
+cases. None of the 3 cases yielded positivity for Epstein-Barr virus RNA.
+LIMITATIONS: The study is limited by the small number of patients.
+CONCLUSIONS: This rare variant of CD30(+) PCFCL needs be distinguished from
+CD30(+) aggressive B-cell lymphomas. CD30 in this variant of CBCLs may serve as a
+therapeutic target for anti-CD30 antibody-based strategies.
+
+Copyright © 2014 American Academy of Dermatology, Inc. Published by Mosby, Inc.
+All rights reserved.
+
+DOI: 10.1016/j.jaad.2014.03.027 
+PMID: 24836545  [Indexed for MEDLINE]

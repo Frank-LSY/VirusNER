@@ -1,0 +1,33 @@
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+3066. Head Neck. 2013 Jun;35(6):847-51. doi: 10.1002/hed.23042. Epub 2012 Jun 22.
+
+Expression of BMI1 and p16 in laryngeal squamous cell carcinoma.
+
+Allegra E(1), Caltabiano R, Amorosi A, Vasquez E, Garozzo A, Puzzo L.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University Magna Graecia
+of Catanzaro, Italy. eualle@unicz.it
+
+BACKGROUND: The clinical evolution of laryngeal squamous cell carcinoma (SCC) is 
+undetectable with the current staging criteria. To more completely understand the
+biology of laryngeal SCC, we assessed the expression of the proteins
+B-cell-specific Moloney murine leukemia virus integration site 1 (BMI1) and p16.
+METHODS: We assessed immunohistochemically the expression of BMI1 and p16 in 25
+laryngeal SCCs at different stages.
+RESULTS: High BMI1 expression was detected in 11.7% of glottic tumors and in 50% 
+of supraglottic tumors. No significant differences were observed in the patients'
+clinical data after they were stratified by the tumor expression of p16. The
+expression of nuclear BMI1 in the absence of p16 immunoreactivity correlated
+significantly with the pN status of the primary tumors.
+CONCLUSION: Nuclear BMI1 expression in the absence of p16 expression seems to
+characterize a subset of patients with a high risk of developing lymph node
+metastasis.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23042 
+PMID: 22730165  [Indexed for MEDLINE]

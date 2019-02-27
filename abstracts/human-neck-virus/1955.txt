@@ -1,0 +1,43 @@
+
+
+1955. Oral Oncol. 2013 Mar;49(3):211-5. doi: 10.1016/j.oraloncology.2012.09.007. Epub
+2012 Oct 15.
+
+MATH, a novel measure of intratumor genetic heterogeneity, is high in
+poor-outcome classes of head and neck squamous cell carcinoma.
+
+Mroz EA(1), Rocco JW.
+
+Author information: 
+(1)Center for Cancer Research and Department of Surgery, Massachusetts General
+Hospital, Boston, MA 02114, USA.
+
+OBJECTIVES: Differences among cancer cells within a tumor are important in
+tumorigenesis and treatment resistance, yet no measure of intratumor
+heterogeneity is suitable for routine application. We developed a quantitative
+measure of intratumor genetic heterogeneity, based on differences among mutated
+loci in the mutant-allele fractions determined by next-generation sequencing
+(NGS) of tumor DNA. We then evaluated the application of this measure to head and
+neck squamous cell carcinoma (HNSCC).
+MATERIALS AND METHODS: We analyzed published electronically available NGS results
+for 74 HNSCC. For each tumor we calculated mutant-allele tumor heterogeneity
+(MATH) as the ratio of the width to the center of its distribution of
+mutant-allele fractions among tumor-specific mutated loci.
+RESULTS: Intratumor heterogeneity assessed by MATH was higher in three
+poor-outcome classes of HNSCC: tumors with disruptive mutations in the TP53 gene 
+(versus wild-type TP53 or non-disruptive mutations), tumors negative versus
+positive for human papillomavirus (even when restricted to tumors having
+wild-type TP53), and HPV-negative tumors from smokers with more pack-years of
+cigarette exposure (with TP53 status taken into account).
+CONCLUSION: The relation of this type of intratumor heterogeneity to HNSCC
+outcome classes supports its further evaluation as a prognostic biomarker. As NGS
+of tumor DNA becomes widespread in clinical research and practice, MATH should
+provide a simple, quantitative, and clinically practical biomarker to help
+evaluate relations of intratumor genetic heterogeneity to outcome in any type of 
+cancer.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2012.09.007 
+PMCID: PMC3570658
+PMID: 23079694  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+29. FEBS J. 2017 Nov;284(21):3550-3572. doi: 10.1111/febs.14094. Epub 2017 May 19.
+
+Virus-host interplay in hepatitis B virus infection and epigenetic treatment
+strategies.
+
+Hensel KO(1), Rendon JC(2)(3), Navas MC(3), Rots MG(2), Postberg J(1).
+
+Author information: 
+(1)HELIOS Medical Centre Wuppertal, Paediatrics Centre, Centre for Clinical &
+Translational Research (CCTR), Faculty of Health, Centre for Biomedical Education
+& Research (ZBAF), Witten/Herdecke University, Germany.
+(2)Epigenetic Editing, Department of Pathology and Medical Biology, University of
+Groningen, University Medical Center Groningen (UMCG), The Netherlands.
+(3)Grupo de Gastrohepatologia, Facultad de Medicina, Universidad de Antioquia
+(UdeA), Medellin, Colombia.
+
+Worldwide, chronic hepatitis B virus (HBV) infection is a major health problem
+and no cure exists. Importantly, hepatocyte intrusion by HBV particles results in
+a complex deregulation of both viral and host cellular genetic and epigenetic
+processes. Among the attempts to develop novel therapeutic approaches against HBV
+infection, several options targeting the epigenomic regulation of HBV replication
+are gaining attention. These include the experimental treatment with 'epidrugs'. 
+Moreover, as a targeted approach, the principle of 'epigenetic editing' recently 
+is being exploited to control viral replication. Silencing of HBV by specific
+rewriting of epigenetic marks might diminish viral replication, viremia, and
+infectivity, eventually controlling the disease and its complications.
+Additionally, epigenetic editing can be used as an experimental tool to increase 
+our limited understanding regarding the role of epigenetic modifications in viral
+infections. Aiming for permanent epigenetic reprogramming of the viral genome
+without unspecific side effects, this breakthrough may pave the roads for an
+ambitious technological pursuit: to start designing a curative approach utilizing
+manipulative molecular therapies for viral infections in vivo.
+
+© 2017 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.14094 
+PMID: 28457020  [Indexed for MEDLINE]

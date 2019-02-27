@@ -1,0 +1,35 @@
+
+
+1131. Head Neck. 2014 Mar;36(3):411-8. doi: 10.1002/hed.23309. Epub 2013 Jun 1.
+
+Telomerase-specific oncolytic adenovirus: antitumor effects on
+radiation-resistant head and neck squamous cell carcinoma cells.
+
+Takahashi H(1), Hyakusoku H, Horii C, Takahashi M, Nishimura G, Taguchi T, Kondo 
+N, Sakakibara A, Urata Y, Sano D.
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, Yokohama City
+University School of Medicine, Yokohama, Japan.
+
+BACKGROUND: Radioresistance remains a critical issue in the use of radiotherapy
+for the treatment of head and neck squamous cell carcinoma (HNSCC). This study
+evaluated the efficacy of combination treatment with OBP-301, a
+telomerase-specific replication-selective adenovirus, and radiotherapy in
+overcoming radioresistance by examining its effect on radiation-resistant HNSCC
+cells.
+METHODS: Radiation-resistant HNSCC cells were treated with OBP-301 and radiation 
+in vitro and in an orthotopic nude mouse model in vivo and synergism was
+assessed. Apoptosis and expression of MRN complex, which plays a key role in DNA 
+repair machinery, were also analyzed.
+RESULTS: Infection with OBP-301 was found to enhance the antitumor efficacy of
+radiation both in vitro and in vivo by inhibiting MRN complex expression and
+increasing apoptosis induction.
+CONCLUSION: Combined OBP-301 and radiation therapy seems to overcome
+radioresistance in HNSCC cells by inhibiting DNA repair machinery, and may thus
+be a novel therapeutic strategy for treating HNSCC.
+
+Copyright © 2013 Wiley Periodicals, Inc., A Wiley Company.
+
+DOI: 10.1002/hed.23309 
+PMID: 23728900  [Indexed for MEDLINE]

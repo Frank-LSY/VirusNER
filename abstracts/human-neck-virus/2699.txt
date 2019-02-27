@@ -1,0 +1,41 @@
+
+
+2699. BMC Cancer. 2015 Mar 6;15:102. doi: 10.1186/s12885-015-1107-2.
+
+Nuclear expression of p65 (RelA) in patients receiving post-operative
+radiotherapy for locally advanced squamous cell carcinoma of the head and neck.
+
+Rades D, Huttenlocher S, Seibold ND, Gebhard MP, Thorns C, Hasselbacher K,
+Wollenberg B, Schild SE.
+
+BACKGROUND: This study investigated the prognostic role of nuclear expression of 
+p65 in patients with locally advanced squamous cell carcinoma of the head and
+neck (SCCHN) receiving post-operative radio(chemo)therapy.
+METHODS: Nuclear p65-expression (H-score ≤50 versus >50) plus twelve
+characteristics were analyzed in 151 patients for overall survival (OS),
+metastases-free survival (MFS) and loco-regional control (LRC). Additional
+characteristics included age, gender, Karnofsky performance score (KPS),
+pre-radiotherapy hemoglobin levels, tumor site, histological grading, human
+papilloma virus (HPV)-status, T-classification, N-classification, American Joint 
+Committee on Cancer (AJCC)-stage, extent of resection and concurrent
+chemotherapy. Univariate analyses were performed with Kaplan-Meier method and
+log-rank test, multivariate analyses with Cox proportional hazards model.
+RESULTS: On univariate analyses, p65-expression had a significant impact on OS
+(p < 0.001) and LRC (p < 0.001) but not on MFS (p = 0.29). On multivariate
+analysis, KPS ≥80 (risk ratio [RR] 2.23; p = 0.012), HPV-positivity (RR 5.83;
+p = 0.020), T1-T2 (RR 1.38; p = 0.048), N0-N2a (RR 2.72; p = 0.005) and complete 
+resection (RR 2.02; p = 0.049) were positively associated with OS; p65-negativity
+achieved borderline significance (RR 3.02; p = 0.052). Better MFS was associated 
+with KPS ≥80 (RR 2.49; p = 0.015), T1-T2 (RR: 1.74; p = 0.005), N0-N2a (RR: 6.22;
+p < 0.001) and complete resection (RR 3.43; p = 0.003). Positive associations
+with LRC were found for p65-negativity (RR 5.06; p = 0.008), T1-T2 (RR: 1.49;
+p = 0.022), N0-N2a (RR: 2.97; p = 0.004) and favorable tumor site (RR 1.28;
+p = 0.025).
+CONCLUSIONS: P65-negativity was significantly associated with improved LRC and
+achieved borderline significance with respect to improved OS. Thus,
+p65-expression may be an additional target for novel agents in the treatment of
+locally advanced SCCHN.
+
+DOI: 10.1186/s12885-015-1107-2 
+PMCID: PMC4352566
+PMID: 25868613  [Indexed for MEDLINE]

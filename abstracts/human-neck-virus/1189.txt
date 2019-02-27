@@ -1,0 +1,43 @@
+
+
+1189. Head Neck. 2017 Mar;39(3):419-426. doi: 10.1002/hed.24641. Epub 2016 Nov 29.
+
+Human papillomavirus DNA detection in fine-needle aspirates as indicator of human
+papillomavirus-positive oropharyngeal squamous cell carcinoma: A prospective
+study.
+
+Sivars L(1), Landin D(2), Haeggblom L(1), Tertipis N(1), Grün N(1), Bersani C(1),
+Marklund L(2), Ghaderi M(1)(3), Näsman A(1)(3), Ramqvist T(1), Nordfors C(1)(4), 
+Munck-Wikland E(2), Tani E(1)(3), Dalianis T(1).
+
+Author information: 
+(1)Department of Oncology - Pathology, Karolinska Institutet, Stockholm, Sweden.
+(2)Department of Oto-Rhino-Laryngology, Head and Neck Surgery, CLINTEC,
+Karolinska Institutet, Stockholm, Sweden.
+(3)Department of Clinical Pathology, Karolinska University Hospital, Stockholm,
+Sweden.
+(4)Department of Medical Biochemistry and Microbiology, Microbiology -
+Immunology, Uppsala University, Uppsala, Sweden.
+
+BACKGROUND: Human papillomavirus (HPV)-positive oropharyngeal squamous cell
+carcinoma (SCC) has a better outcome than most head neck squamous cell carcinomas
+(HNSCCs) and an HPV-positive lymph node metastasis likely has an HPV-positive
+oropharyngeal SCC origin. Determining HPV-status in cervical lymph nodes by
+fine-needle aspiration cytology (FNAC) may be useful for diagnosis.
+METHODS: FNACs from 66 patients with neck masses were prospectively examined for 
+HPV DNA and HPV16 mRNA by a polymerase chain reaction (PCR)-based assay, and the 
+data correlated to diagnosis and HPV-status obtained from histopathological
+specimens.
+RESULTS: Aspirates from 17 of 66 patients, later diagnosed with HPV-positive
+oropharyngeal SCC, were HPV16 DNA-positive. HPV16 mRNA was detected in all cases 
+with extractable RNA. All remaining FNACs, including 18 branchial cleft cysts,
+were HPV DNA-negative. HPV DNA status in the aspirates showed perfect concordance
+with corresponding biopsies.
+CONCLUSION: HPV16 DNA detection in fine-needle aspirations from neck masses is
+reliable and HPV16 DNA in a metastasis is a strong indicator of an HPV-positive
+oropharyngeal SCC. © 2016 Wiley Periodicals, Inc. Head Neck 39: 419-426, 2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24641 
+PMID: 27898186  [Indexed for MEDLINE]

@@ -1,0 +1,23 @@
+
+
+549. Recent Results Cancer Res. 2017;206:101-111.
+
+HPV Testing of Head and Neck Cancer in Clinical Practice.
+
+Robinson M(1).
+
+Author information: 
+(1)Oral Pathology, Centre for Oral Health Research, Newcastle University,
+Framlington Place, Newcastle upon Tyne, NE2 4BW, UK.
+max.robinson@newcastle.ac.uk.
+
+The pathology laboratory has a central role in providing human papillomavirus
+(HPV) tests for patients with head and neck cancer. There is an extensive
+literature around HPV testing and a large number of proprietary HPV tests, which 
+makes the field difficult to navigate. This review provides a concise
+contemporary overview of the evidence around HPV testing in head and neck cancer 
+and signposts key publications, guideline documents and the most commonly used
+methods in clinical practice.
+
+DOI: 10.1007/978-3-319-43580-0_7 
+PMID: 27699532  [Indexed for MEDLINE]

@@ -1,0 +1,66 @@
+
+
+1825. Ann Oncol. 2015 Jun;26(6):1216-23. doi: 10.1093/annonc/mdv109. Epub 2015 Feb 23.
+
+Genomic alterations in head and neck squamous cell carcinoma determined by cancer
+gene-targeted sequencing.
+
+Chung CH(1), Guthrie VB(2), Masica DL(2), Tokheim C(2), Kang H(3), Richmon J(4), 
+Agrawal N(4), Fakhry C(5), Quon H(6), Subramaniam RM(7), Zuo Z(8), Seiwert T(8), 
+Chalmers ZR(9), Frampton GM(9), Ali SM(9), Yelensky R(9), Stephens PJ(9), Miller 
+VA(9), Karchin R(10), Bishop JA(11).
+
+Author information: 
+(1)Department of Oncology Department of Otolaryngology-Head and Neck Surgery
+cchung11@jhmi.edu.
+(2)Department of Biomedical Engineering, Institute for Computational Medicine.
+(3)Department of Oncology.
+(4)Department of Otolaryngology-Head and Neck Surgery.
+(5)Department of Oncology Department of Otolaryngology-Head and Neck Surgery
+Department of Milton J. Dance Head and Neck Center, Baltimore.
+(6)Department of Radiation Oncology.
+(7)Department of Oncology Department of Otolaryngology-Head and Neck Surgery
+Department of Radiology and Radiological Sciences.
+(8)Department of Medicine, University of Chicago, Chicago.
+(9)Foundation Medicine, Inc., Cambridge, USA.
+(10)Department of Oncology Department of Biomedical Engineering, Institute for
+Computational Medicine.
+(11)Department of Pathology, The Johns Hopkins University School of Medicine,
+Baltimore.
+
+BACKGROUND: To determine genomic alterations in head and neck squamous cell
+carcinoma (HNSCC) using formalin-fixed, paraffin-embedded (FFPE) tumors obtained 
+through routine clinical practice, selected cancer-related genes were evaluated
+and compared with alterations seen in frozen tumors obtained through research
+studies.
+PATIENTS AND METHODS: DNA samples obtained from 252 FFPE HNSCC were analyzed
+using next-generation sequencing-based (NGS) clinical assay to determine sequence
+and copy number variations in 236 cancer-related genes plus 47 introns from 19
+genes frequently rearranged in cancer. Human papillomavirus (HPV) status was
+determined by presence of the HPV DNA sequence in all samples and corroborated
+with high-risk HPV in situ hybridization (ISH) and p16 immunohistochemical (IHC) 
+staining in a subset of tumors. Sequencing data from 399 frozen tumors in The
+Cancer Genome Atlas and University of Chicago public datasets were analyzed for
+comparison.
+RESULTS: Among 252 FFPE HNSCC, 84 (33%) were HPV positive and 168 (67%) were HPV 
+negative by sequencing. A subset of 40 tumors with HPV ISH and p16 IHC results
+showed complete concordance with NGS-derived HPV status. The most common genes
+with genomic alterations were PIK3CA and PTEN in HPV-positive tumors and TP53 and
+CDKN2A/B in HPV-negative tumors. In the pathway analysis, the PI3K pathway in
+HPV-positive tumors and DNA repair-p53 and cell cycle pathways in HPV-negative
+tumors were frequently altered. The HPV-positive oropharynx and HPV-positive
+nasal cavity/paranasal sinus carcinoma shared similar mutational profiles.
+CONCLUSION: The genomic profile of FFPE HNSCC tumors obtained through routine
+clinical practice is comparable with frozen tumors studied in research setting,
+demonstrating the feasibility of comprehensive genomic profiling in a clinical
+setting. However, the clinical significance of these genomic alterations requires
+further investigation through application of these genomic profiles as integral
+biomarkers in clinical trials.
+
+© The Author 2015. Published by Oxford University Press on behalf of the European
+Society for Medical Oncology. All rights reserved. For permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/annonc/mdv109 
+PMCID: PMC4516044
+PMID: 25712460  [Indexed for MEDLINE]

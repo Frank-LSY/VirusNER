@@ -1,0 +1,33 @@
+
+
+2432. Nan Fang Yi Ke Da Xue Xue Bao. 2016 Jun 20;36(7):915-20.
+
+[Silencing of endothelin-1 suppresses growth, migration, and invasion of
+nasopharyngeal carcinoma cells in vitro].
+
+[Article in Chinese]
+
+Lin SX(1), Zhang Y, Lu J, Liu X, Li XP.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Medical College of Shantou
+University, Shantou 515041, China.E-mail: 37680150@qq.com.
+
+OBJECTIVE: To explore the role of endothelin-1 (ET-1) gene in regulating the
+proliferation, migration and invasion of nasopharyngeal carcinoma cells.
+METHODS: A lentivirus-mediated shRNA-ET-1 vector was infected into 5-8F cells,
+and the interference efficiency was examined with Western blotting. MTT assay,
+cell cycle analysis, plate colony formation assay, Transwell assay, Boyden
+chamber assay and tumor growth assay were carried out to analyze the changes in
+cell proliferation, migration and invasion. The expressions of genes related with
+epithelial-mesenchymal transition (EMT) were examined using Western blotting.
+RESULTS: shRNA-ET-1 transfection significantly inhibited the expression of ET-1, 
+and suppressed the growth, migration and invasion of 5-8F cells. ET-1 knockdown
+enhanced the expression of E-cadherin and CK18 and inhibited the expression of
+N-cadherin and vimentin.
+CONCLUSION: ET-1 promotes cell growth, migration and invasion by modulating the
+genes associated with epithelial-mesenchymal transition in nasopharyngeal
+carcinoma cells.
+
+
+PMID: 27435768  [Indexed for MEDLINE]

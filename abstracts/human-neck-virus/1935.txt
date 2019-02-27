@@ -1,0 +1,47 @@
+
+
+1935. Sci Rep. 2017 Jun 12;7(1):3218. doi: 10.1038/s41598-017-03156-3.
+
+Epstein-Barr virus-induced up-regulation of TCAB1 is involved in the DNA damage
+response in nasopharyngeal carcinoma.
+
+Wang K(1), Ge Y(1), Ni C(1)(2), Cui B(1), Du J(3), Zhang B(1)(4), Hu X(1), Chen
+J(1), Xiao L(5), Sun C(6), Li Y(7).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, West China Hospital of Stomatology,
+Sichuan University, Chengdu, Sichuan, China.
+(2)Department of Prosthodontics, West China Hospital of Stomatology, Sichuan
+University, Chengdu, Sichuan, China.
+(3)Department of Otorhinolaryngology-Head and Neck Surgery, West China Hospital, 
+Chengdu, Sichuan, China.
+(4)Department of Stomatology of University Hospital of Hubei University for
+Nationalities, Hubei, China.
+(5)State Key Laboratory of Oral Diseases, West China Hospital of Stomatology,
+Sichuan University, Chengdu, Sichuan, China. klobme@163.com.
+(6)State Key Laboratory of Oral Diseases, West China Hospital of Stomatology,
+Sichuan University, Chengdu, Sichuan, China. cksun@scu.edu.cn.
+(7)State Key Laboratory of Oral Diseases, West China Hospital of Stomatology,
+Sichuan University, Chengdu, Sichuan, China. feifeiliyan@163.com.
+
+Telomerase Cajal body protein 1 (TCAB1), which is involved in Cajal body
+maintenance, telomere elongation and ribonucleoprotein biogenesis, has been
+linked to cancer predisposition, including nasopharyngeal carcinoma (NPC), due to
+its oncogenic properties. However, there are no specific reports to date on the
+functional relevance of TCAB1 and Epstein-Barr virus (EBV), which is considered
+to be a risk factor for NPC. In this study, we first examined NPC clinical
+tissues and found a notable overexpression of TCAB1 in EBV-positive specimens.
+Secondly, on a cellular level, we also observed that TCAB1 expression rose
+gradually along with the increased duration of EBV exposure in NPC cell lines.
+Additionally, EBV infection promoted cell proliferation and telomerase activity, 
+but the activation was significantly inhibited after TCAB1 knockdown. Moreover,
+depletion of TCAB1 caused both cell cycle arrest and apoptosis, and suppressed
+the activation of ataxia telangiectasia and Rad3 related protein (ATR) induced by
+EBV, resulting in accumulation of DNA damage. Taken together, we here demonstrate
+that up-regulated expression of TCAB1, induced by EBV in the development of NPC, 
+is involved in stimulating telomerase activity and regulating the DNA damage
+response within the context of EBV infection.
+
+DOI: 10.1038/s41598-017-03156-3 
+PMCID: PMC5468285
+PMID: 28607398  [Indexed for MEDLINE]

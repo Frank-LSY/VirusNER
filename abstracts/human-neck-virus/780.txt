@@ -1,0 +1,36 @@
+
+
+780. BMC Dermatol. 2014 Jul 21;14:12. doi: 10.1186/1471-5945-14-12.
+
+Two sisters reveal autosomal recessive inheritance of epidermodysplasia
+verruciformis: a case report.
+
+Yoshida R, Kato T, Kawase M, Honda M, Mitsuishi T(1).
+
+Author information: 
+(1)Department of Dermatology, Tokyo Women's Medical University Yachiyo Medical
+Center, 477-96, Ohwada-Shinden, Yachiyo 276-8524, Chiba, Japan.
+tmitsu@tymc.twmu.ac.jp.
+
+BACKGROUND: Epidermodysplasia verruciformis is a rare genodermatosis
+characterized by a unique susceptibility to cutaneous human papillomaviruses
+infection. Most patients show autosomal recessive patterns of inheritance.
+CASE PRESENTATION: We report a case of two sisters with clinically
+epidermodysplasia verruciformis specific lesions on the face, neck, trunk, and
+extremities. PCR analysis indicated the presence of human papillomavirus type 5
+in the lesions. Electron microscopic examination showed viral-like particles in
+keratinocyte nuclei and the stratum corneum of the epidermodysplasia
+verruciformis lesions. In addition, we examined the EVER1 and EVER2 genes using
+eight different primer pairs without finding any nonsense or frameshift mutations
+in the gDNA from lymphocytes of the elder sister.
+CONCLUSIONS: In this report, the patient's parents did not have epidermodysplasia
+verruciformis lesions or a consanguineous marriage. EV did not develop in the
+elder sister until five years of age, so the parents did not perceive EV as an
+inherited disease. The probability that EV developed in both sisters was only
+6.25%. Thus, it is rare for both sisters to develop epidermodysplasia
+verruciformis lesions considering that the parents were presumed to be carriers
+and the disease reveal an autosomal recessive pattern of inheritance.
+
+DOI: 10.1186/1471-5945-14-12 
+PMCID: PMC4110534
+PMID: 25048734  [Indexed for MEDLINE]

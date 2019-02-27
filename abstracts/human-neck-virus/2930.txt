@@ -1,0 +1,41 @@
+
+
+2930. Medicine (Baltimore). 2018 Nov;97(48):e13418. doi: 10.1097/MD.0000000000013418.
+
+Primary squamous cell carcinoma of the endometrium in a woman of perimenopausal
+age: A case report.
+
+Zhang C(1), Zhang H(2), Yang L(2), Wang Y(2), Li X(3), Guo J(2), Xu J(2).
+
+Author information: 
+(1)School of Clinical Medicine Jining Medical University.
+(2)Department of Gynecology.
+(3)Department of Otolaryngology-Head and Neck Surgery, The Affiliated Hospital of
+Jining Medical University, Jining, Shandong Province, China.
+
+RATIONALE: Primary squamous cell carcinoma of the endometrium (PSCCE) is a rare
+entity, and only sporadic cases have been reported in the literature since the
+1st report in 1892. This report describes a case of a perimenopausal woman with
+PSCCE.
+PATIENT CONCERNS: A 47-year-old, human papilloma virus type 16-positive,
+perimenopausal woman was admitted to our hospital with irregular vaginal bleeding
+for 6 months and secondary anemia.
+DIAGNOSES: The patient was diagnosed with stage IIIc primary and moderately
+differentiated endometrial squamous cell carcinoma.
+INTERVENTIONS: The patient underwent diagnostic curettage twice and cold knife
+conization (CKC). Following this total abdominal hysterectomy combined with
+bilateral adnexectomy and pelvic lymph node, dissection was performed. After the 
+surgery, the patient was treated with radiotherapy and chemotherapy. Tumor
+markers were followed up regularly after the operation to monitor tumor
+recurrence and therapeutic effect.
+OUTCOMES: Ninety-two days after the operation, there was tumor recurrence of the 
+left pelvic cavity and the patient died after 11 months of follow-up.
+LESSONS: Intrauterine pathology after the 1st diagnostic curettage suggests that 
+high-grade squamous intraepithelial lesion should make the clinician vigilant and
+investigate the origin of the lesion. Magnetic resonance imaging scans and tumor 
+markers can be used to confirm the diagnosis as soon as possible and avoid
+unnecessary interventions like CKC.
+
+DOI: 10.1097/MD.0000000000013418 
+PMCID: PMC6283105
+PMID: 30508948  [Indexed for MEDLINE]

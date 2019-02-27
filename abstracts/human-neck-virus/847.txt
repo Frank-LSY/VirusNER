@@ -1,0 +1,37 @@
+
+
+847. J Med Virol. 2014 Mar;86(3):531-5. doi: 10.1002/jmv.23750. Epub 2013 Sep 16.
+
+Prevalence of human papillomaviruses in patients with head and neck squamous cell
+carcinoma in Lithuania and Belarus.
+
+Gudleviciene Z(1), Didziapetriene J, Mackeviciene I, Cicenas S, Smolyakova R,
+Zhukavetc A.
+
+Author information: 
+(1)Institute of Oncology, Vilnius University, Vilnius, Lithuania.
+
+Erratum in
+    J Med Virol. 2014 Jul;86(7):1279. Zivile, Gudleviciene [corrected to
+Gudleviciene, Zivile]; Janina, Didziapetriene [corrected to Didziapetriene,
+Janina]; Irina, Mackeviciene [corrected to Mackeviciene, Irina]; Saulius, Cicenas
+[corrected to Cicenas, Saulius]; Raisa, Smolyakova [corrected t.
+
+Overall, head and neck sqamous cell carcinoma accounts for more than 550,000
+cases annually worldwide. It is well known that human papillomavirus (HPV) is the
+main risk factor for cervical cancer development. As the incidence and the
+mortality of cervical cancer are closely related to the HPV prevalence, we
+hypothesized that there is the same association between HPV prevalence and head
+and neck squamous cell carcinoma. Therefore we performed the study aiming to
+compare the level of HPV infection and HPV type distribution between two groups
+of Lithuanian and Belarusian patients with head and neck sqamous cell carcinoma. 
+One hundred ninety head and neck sqamous cell carcinoma patients were included in
+the study, 75 from Lithuania and 115 from Belarus. PCR was used for HPV detection
+and typing. The distribution of HPV infection among head and neck sqamous cell
+carcinoma patients was similar in the Lithuanian (20.0%) and Belarusian (18.3%)
+patient groups, however differences were found in the distribution of HPV types.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.23750 
+PMID: 24105830  [Indexed for MEDLINE]

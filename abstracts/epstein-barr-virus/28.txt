@@ -1,0 +1,40 @@
+
+
+28. Virology. 2016 Feb;489:223-32. doi: 10.1016/j.virol.2015.12.019. Epub 2016 Jan
+13.
+
+Epstein-Barr virus glycoprotein gM can interact with the cellular protein p32 and
+knockdown of p32 impairs virus.
+
+Changotra H(1), Turk SM(1), Artigues A(2), Thakur N(1), Gore M(1), Muggeridge
+MI(1), Hutt-Fletcher LM(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Center for Molecular and Tumor
+Virology and Feist-Weiller Cancer Center, Louisiana State University Health
+Sciences Center, Shreveport, LA, USA.
+(2)Department of Biochemistry, University of Kansas Medical Center, Kansas City, 
+KS, USA.
+(3)Department of Microbiology and Immunology, Center for Molecular and Tumor
+Virology and Feist-Weiller Cancer Center, Louisiana State University Health
+Sciences Center, Shreveport, LA, USA. Electronic address: lhuttf@lsuhsc.edu.
+
+The Epstein-Barr virus glycoprotein complex gMgN has been implicated in assembly 
+and release of fully enveloped virus, although the precise role that it plays has
+not been elucidated. We report here that the long predicted cytoplasmic tail of
+gM is not required for complex formation and that it interacts with the cellular 
+protein p32, which has been reported to be involved in nuclear egress of human
+cytomegalovirus and herpes simplex virus. Although redistribution of p32 and
+colocalization with gM was not observed in virus infected cells, knockdown of p32
+expression by siRNA or lentivirus-delivered shRNA recapitulated the phenotype of 
+a virus lacking expression of gNgM. A proportion of virus released from cells
+sedimented with characteristics of virus lacking an intact envelope and there was
+an increase in virus trapped in nuclear condensed chromatin. The observations
+suggest the possibility that p32 may also be involved in nuclear egress of
+Epstein-Barr virus.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.12.019 
+PMCID: PMC4761307
+PMID: 26773383  [Indexed for MEDLINE]

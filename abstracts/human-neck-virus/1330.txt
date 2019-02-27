@@ -1,0 +1,34 @@
+
+
+1330. Jpn J Clin Oncol. 2015 Mar;45(3):244-7. doi: 10.1093/jjco/hyu212. Epub 2015 Jan
+12.
+
+Progress and controversy for the role of chemotherapy in nasopharyngeal
+carcinoma.
+
+Yoshizaki T(1), Kondo S(2), Murono S(2), Endo K(2), Tsuji A(2), Nakanishi Y(2),
+Nakanishi S(2), Sugimoto H(2), Hatano M(2), Ueno T(2), Wakisaka N(2).
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, Kanazawa 920-8640, Japan
+tomoy@med.kanazawa-u.ac.jp.
+(2)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, Kanazawa 920-8640, Japan.
+
+Since the publication of Intergroup Study 0099, representing a superiority of
+concurrent chemoradiotherapy with cisplatin followed by adjuvant chemotherapy to 
+radiotherapy alone for the treatment of locoregionally advanced nasopharyngeal
+carcinoma, an efficacy of concurrent setting of cisplatin-based chemotherapy with
+radiotherapy has been repeatedly validated. In meanwhile, the role of adjuvant
+part of the protocol has been controversial. There is an increasing evidence for 
+the positive role of neoadjuvant chemotherapy with following concurrent
+chemoradiotherapy whereas favorable contribution was not proven in the last
+century. This article reviews the role of chemotherapy in the treatment of
+locoregionally advanced nasopharyngeal carcinoma.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jjco/hyu212 
+PMID: 25583421  [Indexed for MEDLINE]

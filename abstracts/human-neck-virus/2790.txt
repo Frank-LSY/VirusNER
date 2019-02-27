@@ -1,0 +1,36 @@
+
+
+2790. Oncol Rep. 2010 Apr;23(4):1027-36.
+
+BUBR1 expression in benign oral lesions and squamous cell carcinomas: correlation
+with human papillomavirus.
+
+Lira RC(1), Miranda FA, Guimarães MC, Simões RT, Donadi EA, Soares CP, Soares EG.
+
+Author information: 
+(1)Departamento de Patologia, Faculdade de Medicina de Ribeirão Preto,
+Universidade de São Paulo-USP, CEP 14049-900, Ribeirão Preto, SP, Brazil.
+
+Oral squamous cell carcinoma (OSCC) is the most common head and neck cancer. Only
+in Brazil, the estimate is for 14,160 new cases in 2009. HPV is associated with
+increasing risk of oral cancer, but its role in carcinogenesis is still
+controversial. BUBR1, an important protein in the mitotic spindle assembly
+checkpoint (SAC), has been associated with some virus-encoded proteins and
+cancer. The aim of the present study was to evaluate the expression of BUBR1 in
+non-malignant oral lesions and OSCC with and without metastasis associated with
+HPV infection. We performed immunohistochemistry for BUBR1 in 70 OSCC biopsies
+divided into three groups (in situ tumors, invasive tumors without metastasis and
+invasive tumors with metastasis) with their respective lymph nodes from samples
+with metastasis and in 16 non-malignant oral lesions. PCR was performed in order 
+to detect HPV DNA. Significantly higher BUBR1 expression associated with shorter 
+survival (p=0.0479) was observed in malignant lesions. There was also a
+significant correlation (r=1.000) with BUBR1 expression in lesions with
+metastasis and their lymph nodes. Ninety percent of OSCC and 100% of benign
+lesions were HPV positive. HPV16 and HVP18 were present in 13 and 24% of
+HPV-positive OSCC samples, respectively. HPV was more prevalent (76%) in samples 
+with a high BUBR1 expression and the absence of viral DNA had no influence on
+BUBR1 expression. These findings suggest that HPV could be associated with
+overexpression of BUBR1 in OSCC, but not in benign oral lesions.
+
+
+PMID: 20204288  [Indexed for MEDLINE]

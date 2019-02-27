@@ -1,0 +1,60 @@
+
+
+1865. Cancer. 2017 May 15;123(10):1778-1790. doi: 10.1002/cncr.30570. Epub 2017 Mar 13.
+
+TRAF3/CYLD mutations identify a distinct subset of human
+papillomavirus-associated head and neck squamous cell carcinoma.
+
+Hajek M(1), Sewell A(1), Kaech S(2), Burtness B(3), Yarbrough WG(1)(3)(4),
+Issaeva N(1)(3).
+
+Author information: 
+(1)Division of Otolaryngology, Department of Surgery, Yale University, New Haven,
+Connecticut.
+(2)Department of Immunobiology, Yale University, New Haven, Connecticut.
+(3)Yale Cancer Center, Yale School of Medicine, New Haven, Connecticut.
+(4)Department of Pathology, Yale School of Medicine, New Haven, Connecticut.
+
+Comment in
+    Cancer. 2017 May 15;123(10):1695-1698.
+
+BACKGROUND: The incidence of human papillomavirus (HPV)-associated (HPV-positive)
+head and neck squamous cell carcinoma (HNSCC) of the oropharynx has dramatically 
+increased over the last decade and continues to rise. Newly diagnosed
+HPV-positive HNSCCs in the United States currently outnumber any other
+HPV-associated cancers, including cervical cancer. Despite introduction of the
+HPV vaccine, the epidemic of HPV-positive HNSCC is expected to continue for
+approximately 60 years. Compared with patients who have tobacco-associated HNSCC,
+those who have HPV-positive HNSCC have better overall survival and response to
+treatment. Current treatment, including chemotherapy and radiation therapy, is
+associated with lifelong morbidity, and there are limited treatments and no
+curative options for patients who develop recurrent metastatic disease.
+Therapeutic de-escalation (decreased radiation dose) is being tested through
+clinical trials; however, those studies select patients based solely on tumor and
+patient smoking characteristics. Mechanisms of HPV-driven carcinogenesis in HNSCC
+are not well understood, which limits new therapeutic strategies and hinders the 
+appropriate selection of patients for de-escalation therapy.
+METHODS: The authors analyzed HNSCC data from The Cancer Genome Atlas to identify
+molecular characteristics that correlate with outcomes and integration status of 
+the HPV genome.
+RESULTS: The current investigations identified a subset of HPV-positive HNSCCs
+with mutations in the genes TRAF3 (tumor necrosis factor receptor-associated
+factor 3) and CYLD (cylindromatosis lysine 63 deubiquitinase). Defects in TRAF3
+and CYLD correlated with the activation of transcriptional factor nuclear factor 
+κB, episomal HPV status of tumors, and improved patient survival.
+CONCLUSIONS: Defects in TRAF3/CYLD were accompanied with the activation of
+nuclear factor κB signaling and maintenance of episomal HPV in tumors, suggesting
+that these mutations may support an alternative mechanism of HPV tumorigenesis in
+head and neck tumors. Cancer 2017;123:1778-1790. © 2017 The Authors. Cancer
+published by Wiley Periodicals, Inc. on behalf of American Cancer Society. This
+is an open access article under the terms of the Creative Commons Attribution
+NonCommercial License, which permits use, distribution and reproduction in any
+medium, provided the original work is properly cited and is not used for
+commercial purposes.
+
+© 2017 The Authors. Cancer published by Wiley Periodicals, Inc. on behalf of
+American Cancer Society.
+
+DOI: 10.1002/cncr.30570 
+PMCID: PMC5419871
+PMID: 28295222  [Indexed for MEDLINE]

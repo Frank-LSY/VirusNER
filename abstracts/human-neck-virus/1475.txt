@@ -1,0 +1,39 @@
+
+
+1475. Curr Treat Options Oncol. 2014 Dec;15(4):595-610. doi: 10.1007/s11864-014-0309-1.
+
+Human papillomavirus-associated oropharynx cancer (HPV-OPC): treatment options.
+
+Chau NG(1), Rabinowits G, Haddad RI.
+
+Author information: 
+(1)Center for Head and Neck Oncology, Dana-Farber Cancer Institute, Harvard
+Medical School, 450 Brookline Ave, Boston, MA, 02215, USA,
+Nicole_chau@dfci.harvard.edu.
+
+OPINION STATEMENT: Human papillomavirus-associated oropharynx cancer (HPV-OPC) is
+growing in incidence and has distinct clinical, pathologic, molecular, and
+epidemiologic features. However, the management of HPV-OPC does not presently
+differ from HPV-negative OPC based on the current evidence and requires complex
+multidisciplinary approaches. The superior prognosis of HPV-OPC and the
+toxicities of current multimodality treatment in a young population serve as the 
+impetus to evaluate de-intensification treatment regimens aimed at reducing
+toxicity while maintaining therapeutic efficacy. Clinical trials are underway to 
+evaluate reduced doses of radiation or less toxic systemic therapy regimens in
+HPV-OPC. Minimally invasive surgical approaches in the HPV-OPC population with
+early tumor stage also are being investigated. De-intensification strategies
+should only be employed in the context of clinical trials, and HPV-OPC patients
+should be offered clinical trials' participation. Appropriate patient selection
+is critical to the development of de-intensification regimens, and this requires 
+greater understanding of risk factors within the HPV-OPC population, HPV-OPC
+biology, and how HPV modulates response to specific therapies. Smoking history
+and bulky nodal disease have been shown to impact negatively the favorable
+prognosis of HPV association. Validated biomarkers within the HPV-OPC population 
+are lacking, although alterations in the PI3K pathway and markers of immune
+response may emerge as important considerations in the future. Novel therapeutic 
+strategies are desperately needed particularly for HPV-OPC patients who fail
+definitive therapy, and select patients with recurrent or metastatic disease may 
+benefit from aggressive approaches.
+
+DOI: 10.1007/s11864-014-0309-1 
+PMID: 25240410  [Indexed for MEDLINE]

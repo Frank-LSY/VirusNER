@@ -1,0 +1,55 @@
+
+
+545. Cir Cir. 2016 Sep-Oct;84(5):363-8. doi: 10.1016/j.circir.2016.01.006. Epub 2016
+Mar 28.
+
+[Prevalence of human papillomavirus infection in squamous cell carcinoma of the
+oral cavity, oropharynx and larynx].
+
+[Article in Spanish]
+
+Villagómez-Ortíz VJ(1), Paz-Delgadillo DE(2), Marino-Martínez I(3),
+Ceseñas-Falcón LÁ(4), Sandoval-de la Fuente A(2), Reyes-Escobedo A(2).
+
+Author information: 
+(1)Servicio de Otorrinolaringología, Hospital Universitario Dr. José Eleuterio
+González, Facultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey,
+Nuevo León, México. Electronic address: centrodevoz@yahoo.com.mx.
+(2)Servicio de Otorrinolaringología, Hospital Universitario Dr. José Eleuterio
+González, Facultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey,
+Nuevo León, México.
+(3)Centro de Investigación y Desarrollo en Ciencias de la Salud, Universidad
+Autónoma de Nuevo León, Monterrey, Nuevo León, México.
+(4)Servicio de Anatomía Patológica, Hospital Universitario Dr. José Eleuterio
+González, Facultad de Medicina, Universidad Autónoma de Nuevo León, Monterrey,
+Nuevo León, México.
+
+BACKGROUND: Cancer of the head and neck comprises a group of neoplasms that share
+a similar anatomical origin. Most originate from the epithelium of the
+aerodigestive tract and 90% correspond to squamous cell carcinoma. In the last 15
+years, an increase in the incidence of squamous cell carcinoma induced by human
+papillomavirus (HPV) has been seen, mainly types 16 and 18, which are the most
+frequent found in cancers of the oral cavity and oropharynx, and types 6 and 11
+in laryngeal cancer. There are reports in the literature that show HPV as the
+leading cause of oropharyngeal squamous cell carcinoma.
+OBJECTIVE: Determine the prevalence of infection with high-risk HPV in patients
+diagnosed with squamous cell carcinoma of the oral cavity, oropharynx and larynx.
+MATERIAL AND METHODS: An observational, cross-sectional, descriptive, unblinded
+study was performed. Prevalence of HPV infection was determined by polymerase
+chain reaction (PCR) in DNA samples from tumour tissue of patients with squamous 
+cell carcinoma of the oral cavity, oropharynx and larynx. Typing was subsequently
+performed in HPV positive samples in order to detect types 18, 16, 11 and 6,
+using custom primers.
+RESULTS: A total of 45 patients were included. The association between laryngeal 
+squamous cell carcinoma and HPV was established in two patients, which
+represented an overall prevalence of 4.4% in our population, and 10% for
+laringeal tumours.
+CONCLUSIONS: There is a low prevalence of HPV infection in squamous cell
+carcinoma of the oral cavity, oropharynx and larynx, in our population.
+Prospective studies on younger patients could provide more information.
+
+Copyright © 2016 Academia Mexicana de Cirugía A.C. Publicado por Masson Doyma
+México S.A. All rights reserved.
+
+DOI: 10.1016/j.circir.2016.01.006 
+PMID: 27032466  [Indexed for MEDLINE]

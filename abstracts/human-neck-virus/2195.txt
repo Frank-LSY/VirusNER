@@ -1,0 +1,33 @@
+
+
+2195. Free Radic Biol Med. 2011 May 1;50(9):1039-52. doi:
+10.1016/j.freeradbiomed.2011.01.014. Epub 2011 Jan 19.
+
+Crosstalk between platelet-derived growth factor-induced Nox4 activation and MUC8
+gene overexpression in human airway epithelial cells.
+
+Kim HJ(1), Kim CH, Ryu JH, Joo JH, Lee SN, Kim MJ, Lee JG, Bae YS, Yoon JH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Chung-Ang University
+College of Medicine, Seoul, Korea.
+
+Reactive oxygen species (ROS) contribute to chronic airway inflammation, and
+NADPH oxidase (Nox) is an important source of ROS. However, little is known of
+the role that ROS play in chronic upper respiratory tract inflammation. We
+investigated the mechanism of ROS generation and its association with mucin gene 
+overexpression in the nasal epithelium. The level of platelet-derived growth
+factor (PDGF) expression was increased in sinusitis mucosa, and high-level PDGF
+expression induced intracellular ROS, followed by MUC8 gene overexpression in
+normal human nasal epithelial cells. Knockdown of Nox4 expression with Nox4 siRNA
+decreased PDGF-induced intracellular ROS and MUC8 expression. Infection with an
+adenovirus containing Nox4 cDNA resulted in Nox4 overexpression and increased
+intracellular levels of ROS and MUC8 expression. PDGF and Nox4 overexpression are
+essential components of intracellular ROS generation and may contribute to
+chronic inflammation in the nasal epithelium through induction of MUC8
+overexpression.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.freeradbiomed.2011.01.014 
+PMID: 21255638  [Indexed for MEDLINE]

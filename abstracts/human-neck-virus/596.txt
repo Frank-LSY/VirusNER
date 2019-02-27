@@ -1,0 +1,43 @@
+
+
+596. J Virol Methods. 2015 Jun 15;218:40-5. doi: 10.1016/j.jviromet.2015.03.006. Epub 
+2015 Mar 17.
+
+A new quantitative PCR for human parvovirus B19 genotypes.
+
+Toppinen M(1), Norja P(2), Aaltonen LM(3), Wessberg S(4), Hedman L(5),
+Söderlund-Venermo M(2), Hedman K(5).
+
+Author information: 
+(1)University of Helsinki, Department of Virology, Haartmaninkatu 3, 00290
+Helsinki, Finland. Electronic address: mari.toppinen@helsinki.fi.
+(2)University of Helsinki, Department of Virology, Haartmaninkatu 3, 00290
+Helsinki, Finland.
+(3)Helsinki University Hospital, Department of Otorhinolaryngology-Head and Neck 
+Surgery, Haartmaninkatu 4, 00290 Helsinki, Finland.
+(4)Finnish Red Cross Blood Service, Kivihaantie 7, 00310 Helsinki, Finland.
+(5)University of Helsinki, Department of Virology, Haartmaninkatu 3, 00290
+Helsinki, Finland; Helsinki University Hospital Laboratory Division,
+Haartmaninkatu 3, 00290 Helsinki, Finland.
+
+Parvovirus B19 (B19V) is a minute ssDNA virus associated with a wide range of
+diseases from childhood erythema to fetal death. After primary infection, the
+viral genomes persist lifelong in solid tissues of most types. Quantification of 
+the viral DNA is important in the timing of primary infection, assessment of
+tissue persistence and screening of blood donor plasma. In this study, we present
+a new PCR assay for detection and quantification as well as for differentiation
+of all three B19V genotypes. A new B19V qPCR was designed to target a 154-bp
+region of the NS1 area. Serum, plasma and solid tissue samples were suitable for 
+testing in the assay. The WHO International Reference Panel for Parvovirus B19
+Genotypes was utilized to validate the assay for detection of different genotypes
+of B19V in clinical material. Each panel member yielded, by the new qPCR, a
+quantity similar to the one reported by National Institute for Biological
+Standards and Control (NIBSC). The qPCR was specific for B19V and amplified and
+quantified all three genotypes with detection sensitivities of ≤10
+copies/reaction. The differentiation of B19V genotypes was performed by Sanger
+sequencing of the amplified products.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jviromet.2015.03.006 
+PMID: 25794796  [Indexed for MEDLINE]

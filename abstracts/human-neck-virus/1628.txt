@@ -1,0 +1,60 @@
+
+
+1628. Head Neck. 2017 Oct;39(10):2004-2015. doi: 10.1002/hed.24865. Epub 2017 Jul 10.
+
+Impact of human papillomavirus on outcome in patients with oropharyngeal cancer
+treated with primary surgery.
+
+Broglie MA(1), Stoeckli SJ(1), Sauter R(2), Pasche P(3), Reinhard A(3), de Leval 
+L(4), Huber GF(5), Pezier TF(5), Soltermann A(6), Giger R(7), Arnold A(7),
+Dettmer M(8), Arnoux A(9), Müller M(9), Spreitzer S(10), Lang F(11), Lutchmaya
+M(11), Stauffer E(12), Espeli V(13), Martucci F(14), Bongiovanni M(4), Foerbs
+D(15), Jochum W(15).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Kantonsspital St.
+Gallen, St. Gallen, Switzerland.
+(2)Clinical Trials Unit, Kantonsspital St. Gallen, St. Gallen, Switzerland.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+of Lausanne, Lausanne, Switzerland.
+(4)Department of Pathology, University Hospital of Lausanne, Lausanne,
+Switzerland.
+(5)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+of Zurich, Switzerland.
+(6)Institute of Surgical Pathology, University Hospital of Zurich, Zurich,
+Switzerland.
+(7)Department of Otorhinolaryngology, Head and Neck Surgery, Bern University
+Hospital, Inselspital, Switzerland.
+(8)Department of Pathology, Bern University Hospital, Inselspital, Switzerland.
+(9)Department of Otorhinolaryngology, Head and Neck Surgery, Kantonsspital Aarau,
+Switzerland.
+(10)Department of Pathology, Kantonsspital Aarau, Switzerland.
+(11)Department of Otorhinolaryngology, Head and Neck Surgery, Kantonsspital
+Fribourg, Switzerland.
+(12)Institute of Pathology, Promed SA, Fribourg, Switzerland.
+(13)Oncology Institute of Southern Switzerland (IOSI), Bellinzona, Switzerland.
+(14)Department of Radiooncology, Oncology Institute of Southern Switzerland
+(IOSI), Bellinzona, Switzerland.
+(15)Institute of Pathology, Kantonsspital St. Gallen, Switzerland.
+
+BACKGROUND: Knowledge about prognostic factors in surgically treated patients
+with oropharyngeal squamous cell carcinoma (SCC) is limited. The purpose of this 
+study was to identify influential factors on survival in a large cohort of
+patients with surgically treated oropharyngeal SCC.
+METHODS: Retrospective analysis of survival estimates in patients with surgically
+treated oropharyngeal SCC using tumoral positivity for human papillomavirus (HPV)
+and risk-of-death categories according to a study from 2010 as stratification
+factors.
+RESULTS: The 5-year overall survival (OS) and disease-specific survival (DSS)
+rates after surgery alone were higher in HPV-associated oropharyngeal SCC (OS 80%
+vs 62%; P = .01; DSS 92% vs 76%; P = .03). Patients in the low-risk category had 
+higher survival rates (OS 91%; DSS 99%) than patients in the intermediate-risk
+group (OS 63%; DSS 83%), and high-risk group (OS 61%; DSS 75%).
+CONCLUSION: Nonsmokers with HPV-positive oropharyngeal SCC have a better
+prognosis than smokers with HPV-positive oropharyngeal SCC and also than patients
+with HPV-negative tumors when treated by surgery alone.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24865 
+PMID: 28691255  [Indexed for MEDLINE]

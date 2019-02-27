@@ -1,0 +1,38 @@
+
+
+3131. Cancer Immunol Immunother. 2015 Jun;64(6):697-705. doi:
+10.1007/s00262-015-1675-7. Epub 2015 Mar 10.
+
+CCL17 and CCL22/CCR4 signaling is a strong candidate for novel targeted therapy
+against nasal natural killer/T-cell lymphoma.
+
+Kumai T(1), Nagato T, Kobayashi H, Komabayashi Y, Ueda S, Kishibe K, Ohkuri T,
+Takahara M, Celis E, Harabuchi Y.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Asahikawa Medical
+University, Midorigaoka-Higashi 2-1-1-1, Asahikawa, 078-8510, Japan.
+
+Nasal natural killer/T-cell lymphoma (NNKTL) is associated with Epstein-Barr
+virus and has a poor prognosis because of local invasion and/or multiple
+dissemination. Various chemokines play a role in tumor proliferation and
+invasion, and chemokine receptors including the C-C chemokine receptor 4 (CCR4)
+are recognized as potential targets for treating hematologic malignancies. The
+aim of the present study was to determine whether specific chemokines are
+produced by NNKTL. We compared chemokine expression patterns in culture
+supernatants of NNKTL cell lines with those of other lymphoma or leukemia cell
+lines using chemokine protein array and ELISA. Chemokine (C-C motif) ligand (CCL)
+17 and CCL22 were highly produced by NNKTL cell lines as compared to the other
+cell lines. In addition, CCL17 and CCL22 were readily observed in the sera of
+NNKTL patients. The levels of these chemokines were significantly higher in
+patients than in healthy controls. Furthermore, we detected the expression of
+CCR4 (the receptor for CCL17 and CCL22) on the surface of NNKTL cell lines and in
+tissues of NNKTL patients. Anti-CCR4 monoclonal antibody (mAb) efficiently
+induced antibody-dependent cellular cytotoxicity mediated by natural killer cells
+against NNKTL cell lines. Our results suggest that CCL17 and CCL22 may be
+important factors in the development of NNKTL and open up the possibility of
+immunotherapy of this lymphoma using anti-CCR4 mAb.
+
+DOI: 10.1007/s00262-015-1675-7 
+PMCID: PMC4648286
+PMID: 25754123  [Indexed for MEDLINE]

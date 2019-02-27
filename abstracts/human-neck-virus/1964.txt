@@ -1,0 +1,56 @@
+
+
+1964. J Otolaryngol Head Neck Surg. 2017 Jun 10;46(1):45. doi:
+10.1186/s40463-017-0223-1.
+
+Prognostic factors for head and neck cancer of unknown primary including the
+impact of human papilloma virus infection.
+
+Axelsson L(1), Nyman J(2), Haugen-Cange H(2), Bove M(3), Johansson L(4), De Lara 
+S(5), Kovács A(5), Hammerlid E(6).
+
+Author information: 
+(1)Department of Otorhinolaryngology - Head and Neck Surgery, University of
+Gothenburg, Sahlgrenska University Hospital, Göteborg, Sweden.
+lars.axelsson@vgregion.se.
+(2)Department of Oncology, Sahlgrenska University Hospital, Göteborg, Sweden.
+(3)Department of Otorhinolaryngology, Norra Älvsborgs Hospital, Trollhättan,
+Sweden.
+(4)Department of Otorhinolaryngology, Central Hospital Skövde, Skövde, Sweden.
+(5)Department of Clinical Pathology and Genetics, Sahlgrenska University
+Hospital, Göteborg, Sweden.
+(6)Department of Otorhinolaryngology - Head and Neck Surgery, University of
+Gothenburg, Sahlgrenska University Hospital, Göteborg, Sweden.
+
+BACKGROUND: Head and neck cancer of unknown primary (HNCUP) is rare and
+prospective studies are lacking. The impact of different prognostic factors such 
+as age and N stage is not completely known, the optimal treatment is not yet
+established, and the reported survival rates vary. In the last decade, human
+papilloma virus (HPV) has been identified as a common cause of and important
+prognostic factor in oropharyngeal cancer, and there is now growing interest in
+the importance of HPV for HNCUP. The aim of the present study on curatively
+treated HNCUP was to investigate the prognostic importance of different factors, 
+including HPV status, treatment, and overall survival.
+METHODS: A search for HNCUP was performed in the Swedish Cancer Registry, Western
+health district, between the years 1992-2009. The medical records were reviewed, 
+and only patients with squamous cell carcinoma or undifferentiated carcinoma
+treated with curative intent were included. The tumor specimens were
+retrospectively analyzed for HPV with p16 immunostaining.
+RESULTS: Sixty-eight patients were included. The mean age was 59 years. The
+majority were males, and had N2 tumors. Sixty-nine percent of the tumors were HPV
+positive using p16 staining. Patients who were older than 70 years, patients with
+N3-stage tumors, and patients with tumors that were p16 negative had a
+significantly worse prognosis. The overall 5-year survival rate for patients with
+p16-positive tumors was 88% vs 61% for p16-negative tumors. Treatment with neck
+dissection and postoperative radiation or (chemo) radiation had 81 and 88% 5-year
+survival rates, respectively. The overall and disease-free 5-year survival rates 
+for all patients in the study were 82 and 74%.
+CONCLUSIONS: Curatively treated HNCUP had good survival. HPV infection was
+common. Independent prognostic factors for survival were age over 70 years, HPV
+status and N3 stage. We recommend that HPV analysis should be performed routinely
+for HNCUP. Treatment with neck dissection and postoperative radiation or (chemo) 
+radiation showed similar survival rates.
+
+DOI: 10.1186/s40463-017-0223-1 
+PMCID: PMC5466757
+PMID: 28601094  [Indexed for MEDLINE]

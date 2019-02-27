@@ -1,0 +1,36 @@
+
+
+227. Curr Protoc Microbiol. 2016 May 6;41:14B.8.1-14B.8.19. doi: 10.1002/cpmc.4.
+
+Using Organotypic Epithelial Tissue Culture to Study the Human Papillomavirus
+Life Cycle.
+
+Lee D(1), Norby K(2), Hayes M(1), Chiu YF(1), Sugden B(1), Lambert PF(1).
+
+Author information: 
+(1)McArdle Laboratory for Cancer Research, University of Wisconsin School of
+Medicine and Public Health, Madison, Wisconsin.
+(2)Flow Cytometry Laboratory, Carbone Cancer Center, University of Wisconsin,
+Madison, Wisconsin.
+
+Human papillomaviruses (HPVs) are small double-stranded DNA viruses that are
+associated with greater than 95% of cervical cancers and 20% of head and neck
+cancers. These cancers arise from persistent infections in which there is
+continued expression of the HPV E6 and E7 oncogenes, often as a consequence of
+integration of HPV DNA into the host genome. Such cancers represent "dead ends"
+for the virus as integration disrupts the viral genome and because the cancers
+are defective in normal epithelial differentiation, which is required for
+production of progeny papillomavirus. In order to study the full viral life
+cycle, from the establishment to maintenance to productive stages, our lab makes 
+use of the organotypic epithelial tissue culture system. This system allows us to
+mimic the three-dimensional structure of epithelia whose differentiation is
+tightly linked to the completion of the HPV viral life cycle. In this chapter we 
+describe how various aspects of the HPV life cycle are monitored in raft cultures
+making use of an immortalized keratinocyte cell line. © 2016 by John Wiley &
+Sons, Inc.
+
+Copyright © 2016 John Wiley & Sons, Inc.
+
+DOI: 10.1002/cpmc.4 
+PMCID: PMC5035105
+PMID: 27153383  [Indexed for MEDLINE]

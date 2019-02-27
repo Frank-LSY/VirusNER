@@ -1,0 +1,59 @@
+
+
+3095. Autoimmun Rev. 2018 Jun;17(6):567-575. doi: 10.1016/j.autrev.2017.12.006. Epub
+2018 Apr 6.
+
+Behçet's disease: New insights into pathophysiology, clinical features and
+treatment options.
+
+Greco A(1), De Virgilio A(2), Ralli M(3), Ciofalo A(4), Mancini P(5), Attanasio
+G(6), de Vincentiis M(7), Lambiase A(8).
+
+Author information: 
+(1)Department of Sense Organs, Sapienza University of Rome, Viale del Policlinico
+155, 00100 Rome, Italy. Electronic address: antonio.greco@uniroma1.it.
+(2)Department of Otolaryngology-Head and Neck Surgery, Humanitas Clinical and
+Research Center, via Manzoni 56, 20089 Rozzano, MI, Italy.
+(3)Department of Oral and Maxillofacial Sciences, Sapienza University of Rome,
+Viale del Policlinico 155, 00100 Rome, Italy. Electronic address:
+massimo.ralli@uniroma1.it.
+(4)Department of Sense Organs, Sapienza University of Rome, Viale del Policlinico
+155, 00100 Rome, Italy. Electronic address: andrea.ciofalo@uniroma1.it.
+(5)Department of Sense Organs, Sapienza University of Rome, Viale del Policlinico
+155, 00100 Rome, Italy. Electronic address: p.mancini@uniroma1.it.
+(6)Department of Sense Organs, Sapienza University of Rome, Viale del Policlinico
+155, 00100 Rome, Italy. Electronic address: giuseppe.attanasio@uniroma1.it.
+(7)Department of Oral and Maxillofacial Sciences, Sapienza University of Rome,
+Viale del Policlinico 155, 00100 Rome, Italy. Electronic address:
+marco.devincentiis@uniroma1.it.
+(8)Department of Sense Organs, Sapienza University of Rome, Viale del Policlinico
+155, 00100 Rome, Italy. Electronic address: alessandro.lambiase@uniroma1.it.
+
+Behçet's disease (BD) is a rare systemic vasculitis characterized by oral
+aphthous ulcers, genital ulcers, ocular lesions and other systemic
+manifestations. BD occurs most frequently in Eurasian populations along the
+ancient trading route known as the "Silk Road" which extends from eastern Asia to
+the Mediterranean basin. The causes of BD are unknown: it is believed to be due
+to an autoimmune process triggered by an infectious or environmental agent in
+genetically predisposed individuals. HLA-B51 allele located in the MHC locus, on 
+chromosome 6p, has been the most strongly associated risk factor for BD in areas 
+along the Old Silk Route. Herpes simplex virus-1 and Streptococcus have been
+postulated as possible environmental triggers of BD. T cell homeostasis
+perturbation, especially Th1 and Th17 expansion and decreased regulation by Tregs
+are now supposed to be the cornerstone of BD pathogenesis. The histology shows
+vasculitis that involves both arteries and veins, and vessels of any size. BD is 
+a systemic vasculitis with significant neutrophil infiltration, endothelial cell 
+swelling, and fibrinoid necrosis. The diagnosis of BD is only supported by
+clinical criteria and requires the exclusion of other diagnoses based on clinical
+presentation. There are no pathognomonic laboratorial findings of BD. This rare
+disease often leads to blindness and fatal systemic involvement. Main causes of
+death include major vessel disease and central nervous system involvement.
+Corticosteroids are commonly used to treat clinical manifestations of BD in
+combination with immunosuppressant drugs. Tumor necrosis factor (TNF)-blocking
+agents such as Infliximab, Etanercept, and Adalimumab have been reported to have 
+success in patients with BD.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.autrev.2017.12.006 
+PMID: 29631062  [Indexed for MEDLINE]

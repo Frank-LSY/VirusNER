@@ -1,0 +1,55 @@
+
+
+2469. Oral Oncol. 2015 May;51(5):500-7. doi: 10.1016/j.oraloncology.2015.02.100. Epub
+2015 Mar 11.
+
+Telomere shortening in mucosa surrounding the tumor: biosensor of field
+cancerization and prognostic marker of mucosal failure in head and neck squamous 
+cell carcinoma.
+
+Boscolo-Rizzo P(1), Rampazzo E(2), Perissinotto E(3), Piano MA(2), Giunco S(4),
+Baboci L(2), Spinato G(5), Spinato R(6), Tirelli G(5), Da Mosto MC(1), Del Mistro
+A(4), De Rossi A(7).
+
+Author information: 
+(1)Section of Otolaryngology and Regional Center for Head and Neck Cancer,
+Department of Neurosciences, University of Padova, Treviso, Italy.
+(2)Section of Oncology and Immunology, Department of Surgery, Oncology and
+Gastroenterology, University of Padova, Padova, Italy.
+(3)Unit of Biostatistics, Epidemiology and Public Health, Department of
+Cardiological Thoracic and Vascular Sciences, University of Padova, Padova,
+Italy.
+(4)Immunology and Molecular Oncology Unit, Istituto Oncologico Veneto - IRCCS,
+Padova, Italy.
+(5)Head and Neck Department, University of Trieste, Trieste, Italy.
+(6)Otolaryngology Unit, Ospedale dell'Angelo, Venezia, Italy.
+(7)Section of Oncology and Immunology, Department of Surgery, Oncology and
+Gastroenterology, University of Padova, Padova, Italy; Immunology and Molecular
+Oncology Unit, Istituto Oncologico Veneto - IRCCS, Padova, Italy. Electronic
+address: anita.derossi@unipd.it.
+
+OBJECTIVES: The aim of the present study was to investigate the pattern of
+telomere length and telomerase expression in cancer tissues and the surrounding
+mucosa (SM), as markers of field cancerization and clinical outcome in patients
+successfully treated for with head and neck squamous cell carcinoma (HNSCC).
+MATERIALS AND METHODS: This investigation was a prospective cohort study.
+Telomere length and levels of telomerase reverse transcriptase (TERT) transcripts
+were quantified by real-time PCR in cancer tissues and SM from 139 and 90
+patients with HNSCC, respectively.
+RESULTS: No correlation was found between age and telomere length in SM. Patients
+with short telomeres in SM had a higher risk of mucosal failure (adjusted
+HR=4.29). Patients with high TERT levels in cancer tissues had a higher risk of
+regional failure (HR=2.88), distant failure (HR=7.27), worse disease-specific
+survival (HR for related death=2.62) but not mucosal failure. High-risk patients 
+having both short telomeres in SM and high levels of TERT in cancer showed a
+significantly lower overall survival (HR=2.46).
+CONCLUSIONS: Overall these findings suggest that telomere shortening in SM is a
+marker of field cancerization and may precede reactivation of TERT. Short
+telomeres in SM are strongly prognostic of mucosal failure, whereas TERT levels
+in cancer tissues increase with the aggressiveness of the disease and are
+prognostic of tumor spread.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.02.100 
+PMID: 25771075  [Indexed for MEDLINE]

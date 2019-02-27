@@ -1,0 +1,40 @@
+
+
+445. J Biol Chem. 2011 Nov 25;286(47):40681-92. doi: 10.1074/jbc.M111.300673. Epub
+2011 Sep 30.
+
+Mutagenesis of surfactant protein D informed by evolution and x-ray
+crystallography enhances defenses against influenza A virus in vivo.
+
+Crouch E(1), Nikolaidis N, McCormack FX, McDonald B, Allen K, Rynkiewicz MJ,
+Cafarella TM, White M, Lewnard K, Leymarie N, Zaia J, Seaton BA, Hartshorn KL.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, Missouri 63110, USA. crouch@path.wustl.edu
+
+The recognition of influenza A virus (IAV) by surfactant protein D (SP-D) is
+mediated by interactions between the SP-D carbohydrate recognition domains (CRD) 
+and glycans displayed on envelope glycoproteins. Although native human SP-D shows
+potent antiviral and aggregating activity, trimeric recombinant neck+CRDs (NCRDs)
+show little or no capacity to influence IAV infection. A mutant trimeric NCRD,
+D325A/R343V, showed marked hemagglutination inhibition and viral neutralization, 
+with viral aggregation and aggregation-dependent viral uptake by neutrophils.
+D325A/R343V exhibited glucose-sensitive binding to Phil82 hemagglutinin trimer
+(HA) by surface plasmon resonance. By contrast, there was very low binding to the
+HA trimer from another virus (PR8) that lacks glycans on the HA head. Mass
+spectrometry demonstrated the presence of high mannose glycans on the Phil82 HA
+at positions known to contribute to IAV binding. Molecular modeling predicted an 
+enhanced capacity for bridging interactions between HA glycans and D325A/R343V.
+Finally, the trimeric D325A/R343V NCRD decreased morbidity and increased viral
+clearance in a murine model of IAV infection using a reassortant A/WSN/33 virus
+with a more heavily glycosylated HA. The combined data support a model in which
+altered binding by a truncated mutant SP-D to IAV HA glycans facilitates viral
+aggregation, leading to significant viral neutralization in vitro and in vivo.
+These studies demonstrate the potential utility of homology modeling and protein 
+structure analysis for engineering effective collectin antivirals as in vivo
+therapeutics.
+
+DOI: 10.1074/jbc.M111.300673 
+PMCID: PMC3220461
+PMID: 21965658  [Indexed for MEDLINE]

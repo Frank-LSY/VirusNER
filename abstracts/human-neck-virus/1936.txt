@@ -1,0 +1,34 @@
+
+
+1936. Am J Surg Pathol. 2014 Jun;38(6):809-15. doi: 10.1097/PAS.0000000000000183.
+
+Keratinizing-type squamous cell carcinoma of the oropharynx: p16 overexpression
+is associated with positive high-risk HPV status and improved survival.
+
+Cai C(1), Chernock RD, Pittman ME, El-Mofty SK, Thorstad WL, Lewis JS Jr.
+
+Author information: 
+(1)Departments of *Pathology and Immunology †Otolaryngology Head and Neck Surgery
+‡Radiation Oncology, Washington University School of Medicine, St Louis, MO.
+
+It is well established that nonkeratinizing squamous cell carcinoma (SCC) of the 
+oropharynx is causally related to transcriptionally active human papillomavirus
+(HPV) and has better survival as compared with carcinomas with a keratinizing
+phenotype (KSCC). Although the great majority of KSCCs are unrelated to HPV,
+transcriptionally active HPV is detected in a minority of oropharyngeal cases. To
+date, it has not been established whether the HPV status in KSCC also confers a
+survival advantage as it does in HPV-related nonkeratinizing SCC. This study
+compares clinical outcomes between patients with HPV-positive versus HPV-negative
+oropharyngeal KSCC. Among a total of 54 cases, 7 (13%) were diffusely and
+strongly positive for p16. HPV E6/E7 RNA was positive in 5 of the 6 (83%)
+p16-positive cases that were tested and in only 1 of the 47 (2%) p16-negative
+cases. Only 1 of the 7 (14%) p16-positive patients developed disease recurrence
+and died in the follow-up period. Kaplan-Meier survival analysis showed
+significantly better overall and disease-specific survival in the p16-positive
+than in the p16-negative patients (P=0.01 and 0.046, respectively). These data,
+although with relatively small patient numbers, suggest that HPV-related SCC in
+the oropharynx is associated with highly favorable outcomes, regardless of the
+keratinizing or nonkeratinizing phenotype.
+
+DOI: 10.1097/PAS.0000000000000183 
+PMID: 24698966  [Indexed for MEDLINE]

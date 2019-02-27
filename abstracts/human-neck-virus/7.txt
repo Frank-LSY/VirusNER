@@ -1,0 +1,51 @@
+
+
+7. Oral Oncol. 2016 May;56:25-31. doi: 10.1016/j.oraloncology.2016.02.014. Epub 2016
+Mar 18.
+
+Oncolytic adenoviruses targeted to Human Papilloma Virus-positive head and neck
+squamous cell carcinomas.
+
+LaRocca CJ(1), Han J(1), Salzwedel AO(1), Davydova J(2), Herzberg MC(3),
+Gopalakrishnan R(3), Yamamoto M(4).
+
+Author information: 
+(1)Department of Surgery, University of Minnesota, United States.
+(2)Department of Surgery, University of Minnesota, United States; Masonic Cancer 
+Center, University of Minnesota, United States.
+(3)Department of Diagnostic & Biological Sciences, School of Dentistry,
+University of Minnesota, United States.
+(4)Department of Surgery, University of Minnesota, United States; Masonic Cancer 
+Center, University of Minnesota, United States; Institute of Molecular Virology, 
+University of Minnesota, United States. Electronic address: yamam016@umn.edu.
+
+OBJECTIVES: In recent years, the incidence of Human Papilloma Virus
+(HPV)-positive head and neck squamous cell carcinomas (HNSCC) has markedly
+increased. Our aim was to design a novel therapeutic agent through the use of
+conditionally replicative adenoviruses (CRAds) that are targeted to the HPV E6
+and E7 oncoproteins.
+METHODS: Each adenovirus included small deletion(s) in the E1a region of the
+genome (Δ24 or CB016) intended to allow for selective replication in HPV-positive
+cells. In vitro assays were performed to analyze the transduction efficiency of
+the vectors and the cell viability following viral infection. Then, the UPCI
+SCC090 cell line (HPV-positive) was used to establish subcutaneous tumors in the 
+flanks of nude mice. The tumors were then treated with either one dose of the
+virus or four doses (injected every fourth day).
+RESULTS: The transduction analysis with luciferase-expressing viruses
+demonstrated that the 5/3 fiber modification maximized virus infectivity. In
+vitro, both viruses (5/3Δ24 and 5/3CB016) demonstrated profound oncolytic
+effects. The 5/3CB016 virus was more selective for HPV-positive HNSCC cells,
+whereas the 5/3Δ24 virus killed HNSCC cells regardless of HPV status. In vivo,
+single injections of both viruses demonstrated anti-tumor effects for only a few 
+days following viral inoculation. However, after four viral injections, there was
+statistically significant reductions in tumor growth when compared to the control
+group (p<0.05).
+CONCLUSION: CRAds targeted to HPV-positive HNSCCs demonstrated excellent in vitro
+and in vivo therapeutic effects, and they have the potential to be clinically
+translated as a novel treatment modality for this emerging disease.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.02.014 
+PMCID: PMC5089835
+PMID: 27086483  [Indexed for MEDLINE]

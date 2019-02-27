@@ -1,0 +1,33 @@
+
+
+541. Orv Hetil. 2013 Jan 20;154(3):102-12. doi: 10.1556/OH.2013.29525.
+
+[A probable etiological role of Merkel cell polyomavirus in the development of
+Merkel cell carcinoma].
+
+[Article in Hungarian]
+
+Horváth KB(1), Pankovics P, Battyáni Z, Kálmán E, Reuter G.
+
+Author information: 
+(1)Állami Népegészségügyi és Tisztiorvosi Szolgálat Dél-dunántúli Regionális
+Intézete Regionális Virológiai Laboratórium, Gastroenteralis Vírusok Nemzeti
+Referencialaboratóriuma Pécs Szabadság u, Általáno Orvostudományi Kar.
+
+Approximately 20% of the tumours in humans are associated with contagious viral
+agents. Merkel cell carcinoma is a rare and highly aggressive tumour which may
+originate from the epidermal stratum basale, although the origin is still
+controversial. This tumour is most commonly found in elderly and
+immunocompromised patients in sun exposed areas, especially in the head and neck 
+regions. Merkel cell carcinoma often causes a diagnostic challenge with a
+dramatically increasing incidence. In 2008, a DNA tumour virus, a polyomavirus
+(Merkel cell polyomavirus) was detected in Merkel cell carcinomas, and this
+finding helped to understand the etiological background of the disease. The
+infectious - probably viral - etiology resulted in a paradigm shift in
+pathogenesis and, hopefully, in therapy as well. This review summarizes the
+current knowledge related to Merkel cell carcinoma and the first oncogenic human 
+polyomavirus, the Merkel cell polyomavirus, to promote the clinical adaptation of
+the information.
+
+DOI: 10.1556/OH.2013.29525 
+PMID: 23315225  [Indexed for MEDLINE]

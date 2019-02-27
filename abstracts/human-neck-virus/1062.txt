@@ -1,0 +1,75 @@
+
+
+1062. Eur J Cancer. 2017 Mar;74:73-81. doi: 10.1016/j.ejca.2016.12.020. Epub 2017 Feb
+10.
+
+Human papillomavirus as prognostic marker with rising prevalence in neck squamous
+cell carcinoma of unknown primary: A retrospective multicentre study.
+
+Schroeder L(1), Boscolo-Rizzo P(2), Dal Cin E(2), Romeo S(3), Baboci L(1),
+Dyckhoff G(4), Hess J(5), Lucena-Porcel C(6), Byl A(7), Becker N(7), Alemany
+L(8), Castellsagué X(8), Quer M(9), León X(9), Wiesenfarth M(10), Pawlita M(1),
+Holzinger D(11).
+
+Author information: 
+(1)Division of Molecular Diagnostics of Oncogenic Infections, Infection,
+Inflammation and Cancer Program, German Cancer Research Center (DKFZ), Im
+Neuenheimer Feld 242, 69120 Heidelberg, Germany.
+(2)Department of Neurosciences, ENT Clinic and Regional Center for Head and Neck 
+Cancer, University of Padua, School of Medicine, Treviso Regional Hospital,
+Piazza Ospedale 1, 31100 Treviso, Italy.
+(3)Department of Pathology, San Donà di Piave Hospital, Via Nazario Sauro 23,
+30027 San Donà di Piave, Italy.
+(4)Molecular Cell Biology Group, Department of Otorhinolaryngology, Head and Neck
+Surgery, University Hospital Heidelberg, Im Neuenheimer Feld 400, 69120
+Heidelberg, Germany.
+(5)Section Experimental and Translational Head and Neck Oncology, Department of
+Otorhinolaryngology, Head and Neck Surgery, University Hospital Heidelberg and
+Molecular Mechanism of Head and Neck Tumors, German Cancer Research Center
+(DKFZ), Im Neuenheimer Feld 400, 69120 Heidelberg, Germany.
+(6)NCT Tissue Bank of the National Center of Tumor Diseases (NCT) Heidelberg and 
+Institute of Pathology, University Hospital Heidelberg, Im Neuenheimer Feld 224, 
+69120 Heidelberg, Germany.
+(7)NCT Cancer Registry, University Hospital Heidelberg and German Cancer Research
+Center (DKFZ), Im Neuenheimer Feld 280, 69120 Heidelberg, Germany.
+(8)Unit of Infections and Cancer, Institut Català d'Oncologia (ICO), IDIBELL,
+L'Hospitalet de Llobregat, Avinguda Granvia 199-203, 08908 Barcelona, Catalonia, 
+Spain; Centro de Investigación Biomédica en Red: Epidemiología y Salud Pública
+(CIBERESP), Madrid, Spain.
+(9)Servicio de Otorrinolaringología, Hospital de la Santa Creu i Sant Pau, Carrer
+de Sant Quintí, 89, 08026 Barcelona, Spain.
+(10)Division of Biostatistics, German Cancer Research Center (DKFZ), Im
+Neuenheimer Feld 280, 69120 Heidelberg, Germany.
+(11)Division of Molecular Diagnostics of Oncogenic Infections, Infection,
+Inflammation and Cancer Program, German Cancer Research Center (DKFZ), Im
+Neuenheimer Feld 242, 69120 Heidelberg, Germany. Electronic address:
+d.holzinger@dkfz.de.
+
+Patients with neck squamous cell carcinomas of unknown primary tumour (NSCCUP)
+present with lymph node metastasis without evidence for a primary tumour. Most
+patients undergo an aggressive multimodal treatment, which induces severe,
+potentially unnecessary toxicity. Primary tumours of NSCCUP can be hidden in the 
+oropharynx. Human papillomavirus (HPV) is causally involved in a subgroup of
+oropharyngeal squamous cell carcinomas (OPSCC) associated with early lymph node
+metastasis and good prognosis. Detection of markers for HPV transformation in
+NSCCUP could allow focussing on the oropharynx in primary tumour search and could
+be of value for choice and extent of treatment. In a retrospective multicentre
+study (Germany, Italy and Spain), we analysed metastatic lymph nodes from 180
+NSCCUP patients for the presence of HPV DNA, HPV E6*I mRNA and cellular p16INK4a 
+overexpression, a surrogate marker for HPV-induced transformation. HPV status,
+defined as positivity for viral mRNA with at least one additional marker, was
+correlated with clinical parameters and survival outcome. A substantial
+proportion (16%) of NSCCUP were HPV-driven, mainly by HPV16 (89%). HPV prevalence
+increased with year of diagnosis from 9% during 1998-2004 to 23% during 2005-2014
+(p = 0.007). HPV-driven NSCCUP had significantly better overall and
+progression-free survival rates (p ≤ 0.008). Based on this survival benefit, it
+is contended that HPV RNA status should be included in NSCCUP diagnosis and in
+therapeutic decision-making. Deintensification of radiation in patients with
+HPV-driven NSCCUP, while concurrently concentrating on the oropharynx appears to 
+be a promising therapeutic strategy, the efficacy of which should be assessed in 
+prospective trials. To our knowledge, this is the largest study on HPV in NSCCUP.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2016.12.020 
+PMID: 28335889  [Indexed for MEDLINE]

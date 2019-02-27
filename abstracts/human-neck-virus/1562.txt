@@ -1,0 +1,41 @@
+
+
+1562. Am J Otolaryngol. 2018 Nov - Dec;39(6):764-770. doi:
+10.1016/j.amjoto.2018.07.005. Epub 2018 Jul 11.
+
+Is human papillomavirus and p16 expression associated with survival outcomes in
+nasopharyngeal cancer?: A systematic review and meta-analysis.
+
+Tham T(1), Teegala S(2), Bardash Y(2), Herman SW(3), Costantino P(2).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Donald and Barbara
+Zucker School of Medicine at Hofstra/Northwell, New York, USA. Electronic
+address: ttham@northwell.edu.
+(2)Department of Otolaryngology - Head and Neck Surgery, Donald and Barbara
+Zucker School of Medicine at Hofstra/Northwell, New York, USA.
+(3)Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, New York,
+USA.
+
+INTRODUCTION: Human papillomavirus (HPV) is a known prognostic indicator in
+oropharyngeal cancer. Not much is known about the prognostic role of HPV in
+Nasopharyngeal cancer (NPC). Here, we performed a systematic review and
+meta-analysis of the literature to investigate if HPV status was a prognostic
+factor for NPC.
+METHODS: PubMed (via the web), Embase, Scopus, and the Cochrane Library were
+searched. A systematic review and meta-analysis was done to generate the pooled
+Hazard Ratios (HR) for Overall Survival (OS).
+RESULTS: A total of 7 studies from 2014 to 2018, reporting data on 2646 patients 
+(range 43-1328) were included in this meta-analysis. The pooled data showed that 
+HPV/p16 status was not associated with OS in NPC with HR of 0.77 (95% CI:
+0.55-1.09, p = 0.14). The test for heterogeneity showed little to no
+heterogeneity of results (I2 = 4%, p = 0.38). Subgroup analysis showed that in
+large sample sizes, HPV was significantly associated with survival.
+CONCLUSION: Despite the finding in the pooled HR, we could not draw a definitive 
+conclusion as to the prognostic significance of HPV in NPC. Recommendations for
+future research are given.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2018.07.005 
+PMID: 30029797  [Indexed for MEDLINE]

@@ -1,0 +1,148 @@
+
+
+2139. Int J Epidemiol. 2016 Jun;45(3):752-61. doi: 10.1093/ije/dyw069. Epub 2016 May
+19.
+
+Combined effects of smoking and HPV16 in oropharyngeal cancer.
+
+Anantharaman D(1), Muller DC(1), Lagiou P(2), Ahrens W(3), Holcátová I(4),
+Merletti F(5), Kjærheim K(6), Polesel J(7), Simonato L(8), Canova C(8),
+Castellsague X(9), Macfarlane TV(10), Znaor A(11), Thomson P(12), Robinson M(12),
+Conway DI(13), Healy CM(14), Tjønneland A(15), Westin U(16), Ekström J(17),
+Chang-Claude J(18), Kaaks R(18), Overvad K(19), Drogan D(20), Hallmans G(21),
+Laurell G(22), Bueno-de-Mesquita HB(23), Peeters PH(24), Agudo A(25), Larrañaga
+N(26), Travis RC(27), Palli D(28), Barricarte A(29), Trichopoulou A(30), George
+S(31), Trichopoulos D(32), Quirós JR(33), Grioni S(34), Sacerdote C(35), Navarro 
+C(36), Sánchez MJ(37), Tumino R(38), Severi G(39), Boutron-Ruault MC(40),
+Clavel-Chapelon F(40), Panico S(41), Weiderpass E(42), Lund E(43), Gram IT(43),
+Riboli E(44), Pawlita M(45), Waterboer T(45), Kreimer AR(46), Johansson M(1),
+Brennan P(47).
+
+Author information: 
+(1)Genetic Epidemiology Group, International Agency for Research on Cancer, Lyon,
+France.
+(2)Department of Hygiene, Epidemiology and Medical Statistics, University of
+Athens Medical School, Athens, Greece.
+(3)Leibniz Institute for Prevention Research and Epidemiology, BIPS, Bremen,
+Germany, Faculty of Mathematics and Computer Science, University of Bremen,
+Bremen, Germany.
+(4)Institute of Hygiene and Epidemiology, First Faculty of Medicine, Charles
+University of Prague, Prague, Czech Republic.
+(5)Unit of Cancer Epidemiology, Department of Medical Sciences, University of
+Turin, Turin, Italy.
+(6)Cancer Registry of Norway, Oslo, Norway.
+(7)Unit of Epidemiology and Biostatistics, CRO Aviano National Cancer Institute, 
+Aviano, Italy.
+(8)Laboratory of Public Health and Population Studies, Department of Molecular
+Medicine, University of Padova, Padova, Italy.
+(9)Unit of Infections and Cancer, Institut Català d'Oncologia (ICO), IDIBELL,
+CIBERESP, L'Hospitalet de Llobregat, Barcelona, Spain.
+(10)School of Medicine and Dentistry, University of Aberdeen, Aberdeen, UK.
+(11)Croatian National Cancer Registry, Croatian National Institute of Public
+Health, Zagreb, Croatia, Section of Cancer Surveillance, International Agency for
+Research on Cancer, Lyon, France.
+(12)Centre for Oral Health Research, Newcastle University, Newcastle-upon-Tyne,
+UK.
+(13)Dental School, College of Medicine, Veterinary and Life Sciences, University 
+of Glasgow, Glasgow, UK.
+(14)School of Dental Science, Trinity College Dublin, Dublin, Ireland.
+(15)Danish Cancer Society, Institute of Cancer Epidemiology, Copenhagen, Denmark.
+(16)Department of Otorhinolaryngology of Malmö and Lund.
+(17)Department of Clinical Sciences, Lund University, Lund, Sweden.
+(18)Division of Cancer Epidemiology, German Cancer Research Centre (DKFZ),
+Heidelberg, Germany.
+(19)Institute of Public Health, Aarhus, Denmark.
+(20)German Institute of Human Nutrition Potsdam Rehbruecke (DIfE), Nuthetal,
+Germany.
+(21)Department of Biobank Research, Umeå University, Umeå, Sweden.
+(22)Department of Surgical Sciences, Uppsala University, Uppsala, Sweden.
+(23)Department for Determinants of Chronic Diseases (DCD), National Institute for
+Public Health and the Environment (RIVM), Bilthoven, The Netherlands, Department 
+of Gastroenterology and Hepatology, University Medical Centre, Utrecht, The
+Netherlands, Department of Epidemiology and Biostatistics, Imperial College
+London, School of Public Health, London, UK, Department of Social & Preventive
+Medicine, Faculty of Medicine, University of Malaya, Kuala Lumpur, Malaysia.
+(24)Department of Epidemiology, Julius Centre for Health Sciences and Primary
+Care, University Medical Centre, Utrecht, The Netherlands, MRC-PHE, Imperial
+College London, School of Public Health, London, UK.
+(25)Unit of Nutrition and Cancer, Institut Català d'Oncologia (ICO), L'Hospitalet
+de Llobregat, Barcelona, Spain.
+(26)Public Health Division of Gipuzkoa, BIODonostia Research Institute, Basque
+Health Department, San Sebastián, Spain, CIBER of Epidemiology and Public Health 
+(CIBERESP), Madrid, Spain.
+(27)Cancer Epidemiology Unit, Nuffield Department of Population Health,
+University of Oxford, Oxford, UK.
+(28)Molecular and Nutritional Epidemiology Unit, Cancer Research and Prevention
+Institute-ISPO, Florence, Italy.
+(29)CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain, Navarre
+Public Health Institute, Pamplona, Spain.
+(30)Hellenic Health Foundation, Athens, Greece, Bureau of Epidemiologic Research,
+Academy of Athens, Athens, Greece.
+(31)Hellenic Health Foundation, Athens, Greece, Department of Hygiene,
+Epidemiology and Medical Statistics, University of Athens Medical School, Athens,
+Greece.
+(32)Hellenic Health Foundation, Athens, Greece, Bureau of Epidemiologic Research,
+Academy of Athens, Athens, Greece, Department of Epidemiology, Harvard School of 
+Public Health, Boston, MA, USA.
+(33)Public Health Directorate Asturias, Oviedo, Spain.
+(34)Epidemiology and Prevention Unit, Fondazione IRCCS, Istituto Nazionale dei
+Tumori, Milan, Italy.
+(35)Unit of Cancer Epidemiology, Citta' della Salute e della Scienza Hospital,
+University of Turin and Centre for Cancer Prevention (CPO), Turin, Italy.
+(36)CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain, Department
+of Epidemiology, Murcia Regional Health Council, IMIB-Arrixaca, Murcia, Spain,
+Department of Health and Social Sciences, Universidad de Murcia, Murcia, Spain.
+(37)CIBER of Epidemiology and Public Health (CIBERESP), Madrid, Spain, Instituto 
+de Investigación Biosanitaria, Universidad de Granada, Granada, Spain.
+(38)Cancer Registry and Histopathology Unit, Civic - M P Arezzo Hospital, ASP
+Ragusa, Ragusa, Italy.
+(39)Human Genetics Foundation (HuGeF), Torino, Italy, Cancer Epidemiology Centre,
+Cancer Council Victoria, Melbourne, VIC, Australia, Centre for Epidemiology and
+Biostatistics, Melbourne School of Population and Global Health, University of
+Melbourne, VIC, Australia.
+(40)INSERM, Centre for research in Epidemiology and Population Health (CESP),
+Villejuif, France, Université Paris Sud, Villejuif, France, Institut Gustave
+Roussy, Villejuif, France.
+(41)Dipartimento di Medicina Clinica e Chirurgia, Federico II University, Naples,
+Italy.
+(42)Department of Community Medicine, Faculty of Health Science, University of
+Tromsø, Arctic University of Norway, Tromsø, Norway, Cancer Registry of Norway,
+Oslo, Norway, Department of Medical Epidemiology and Biostatistics, Karolinska
+Institutet, Stockholm, Sweden, Department of Genetic Epidemiology, Folkhälsan
+Research Centre, Helsinki, Finland.
+(43)Department of Community Medicine, Faculty of Health Science, University of
+Tromsø, Arctic University of Norway, Tromsø, Norway.
+(44)School of Public Health, Imperial College London, London, UK.
+(45)German Cancer Research Centre (DKFZ), Heidelberg, Germany and.
+(46)National Cancer Institute, NIH, Bethesda, MD, USA.
+(47)Genetic Epidemiology Group, International Agency for Research on Cancer,
+Lyon, France, gep@iarc.fr.
+
+BACKGROUND: Although smoking and HPV infection are recognized as important risk
+factors for oropharyngeal cancer, how their joint exposure impacts on
+oropharyngeal cancer risk is unclear. Specifically, whether smoking confers any
+additional risk to HPV-positive oropharyngeal cancer is not understood.
+METHODS: Using HPV serology as a marker of HPV-related cancer, we examined the
+interaction between smoking and HPV16 in 459 oropharyngeal (and 1445 oral cavity 
+and laryngeal) cancer patients and 3024 control participants from two large
+European multi-centre studies. Odds ratios and credible intervals [CrI], adjusted
+for potential confounders, were estimated using Bayesian logistic regression.
+RESULTS: Both smoking [odds ratio (OR [CrI]: 6.82 [4.52, 10.29]) and HPV
+seropositivity (OR [CrI]: 235.69 [99.95, 555.74]) were independently associated
+with oropharyngeal cancer. The joint association of smoking and HPV
+seropositivity was consistent with that expected on the additive scale (synergy
+index [CrI]: 1.32 [0.51, 3.45]), suggesting they act as independent risk factors 
+for oropharyngeal cancer.
+CONCLUSIONS: Smoking was consistently associated with increase in oropharyngeal
+cancer risk in models stratified by HPV16 seropositivity. In addition, we report 
+that the prevalence of oropharyngeal cancer increases with smoking for both
+HPV16-positive and HPV16-negative persons. The impact of smoking on
+HPV16-positive oropharyngeal cancer highlights the continued need for smoking
+cessation programmes for primary prevention of head and neck cancer.
+
+© The Author 2016; all rights reserved. Published by Oxford University Press on
+behalf of the International Epidemiological Association.
+
+DOI: 10.1093/ije/dyw069 
+PMCID: PMC5841602
+PMID: 27197530  [Indexed for MEDLINE]

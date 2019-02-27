@@ -1,0 +1,72 @@
+
+
+2193. Lancet. 2016 Sep 3;388(10048):994-1001. doi: 10.1016/S0140-6736(16)30623-7. Epub 
+2016 Jul 9.
+
+MERS-CoV outbreak following a single patient exposure in an emergency room in
+South Korea: an epidemiological outbreak study.
+
+Cho SY(1), Kang JM(2), Ha YE(1), Park GE(1), Lee JY(1), Ko JH(1), Lee JY(1), Kim 
+JM(2), Kang CI(1), Jo IJ(3), Ryu JG(4), Choi JR(4), Kim S(5), Huh HJ(6), Ki
+CS(6), Kang ES(6), Peck KR(1), Dhong HJ(7), Song JH(1), Chung DR(8), Kim YJ(9).
+
+Author information: 
+(1)Division of Infectious Diseases, Department of Internal Medicine, Samsung
+Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea.
+(2)Division of Infectious Diseases, Department of Paediatrics, Samsung Medical
+Center, Sungkyunkwan University School of Medicine, Seoul, South Korea.
+(3)Department of Emergency Medicine, Samsung Medical Center, Sungkyunkwan
+University School of Medicine, Seoul, South Korea.
+(4)Infection Control Office, Samsung Medical Center, Sungkyunkwan University
+School of Medicine, Seoul, South Korea.
+(5)Biostatistics team, Samsung Biomedical Research Institute, Seoul, South Korea.
+(6)Department of Laboratory Medicine and Genetics, Samsung Medical Center,
+Sungkyunkwan University School of Medicine, Seoul, South Korea.
+(7)Department of Otorhinolaryngology-Head and Neck Surgery, Samsung Medical
+Center, Sungkyunkwan University School of Medicine, Seoul, South Korea.
+(8)Division of Infectious Diseases, Department of Internal Medicine, Samsung
+Medical Center, Sungkyunkwan University School of Medicine, Seoul, South Korea.
+Electronic address: iddrchung@gmail.com.
+(9)Division of Infectious Diseases, Department of Paediatrics, Samsung Medical
+Center, Sungkyunkwan University School of Medicine, Seoul, South Korea.
+Electronic address: yaejeankim@skku.edu.
+
+Comment in
+    Lancet. 2016 Sep 3;388(10048):942-3.
+
+BACKGROUND: In 2015, a large outbreak of Middle East respiratory syndrome
+coronavirus (MERS-CoV) infection occurred following a single patient exposure in 
+an emergency room at the Samsung Medical Center, a tertiary-care hospital in
+Seoul, South Korea. We aimed to investigate the epidemiology of MERS-CoV outbreak
+in our hospital.
+METHODS: We identified all patients and health-care workers who had been in the
+emergency room with the index case between May 27 and May 29, 2015. Patients were
+categorised on the basis of their exposure in the emergency room: in the same
+zone as the index case (group A), in different zones except for overlap at the
+registration area or the radiology suite (group B), and in different zones (group
+C). We documented cases of MERS-CoV infection, confirmed by real-time PCR testing
+of sputum samples. We analysed attack rates, incubation periods of the virus, and
+risk factors for transmission.
+FINDINGS: 675 patients and 218 health-care workers were identified as contacts.
+MERS-CoV infection was confirmed in 82 individuals (33 patients, eight
+health-care workers, and 41 visitors). The attack rate was highest in group A
+(20% [23/117] vs 5% [3/58] in group B vs 1% [4/500] in group C; p<0·0001), and
+was 2% (5/218) in health-care workers. After excluding nine cases (because of
+inability to determine the date of symptom onset in six cases and lack of data
+from three visitors), the median incubation period was 7 days (range 2-17, IQR
+5-10). The median incubation period was significantly shorter in group A than in 
+group C (5 days [IQR 4-8] vs 11 days [6-12]; p<0·0001). There were no confirmed
+cases in patients and visitors who visited the emergency room on May 29 and who
+were exposed only to potentially contaminated environment without direct contact 
+with the index case. The main risk factor for transmission of MERS-CoV was the
+location of exposure.
+INTERPRETATION: Our results showed increased transmission potential of MERS-CoV
+from a single patient in an overcrowded emergency room and provide compelling
+evidence that health-care facilities worldwide need to be prepared for emerging
+infectious diseases.
+FUNDING: None.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S0140-6736(16)30623-7 
+PMID: 27402381  [Indexed for MEDLINE]

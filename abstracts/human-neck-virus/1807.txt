@@ -1,0 +1,44 @@
+
+
+1807. Int J Oncol. 2012 Oct;41(4):1531-40. doi: 10.3892/ijo.2012.1584. Epub 2012 Aug 7.
+
+The NEDD8 conjugation pathway regulates p53 transcriptional activity and head and
+neck cancer cell sensitivity to ionizing radiation.
+
+Guihard S(1), Ramolu L, Macabre C, Wasylyk B, Noël G, Abecassis J, Jung AC.
+
+Author information: 
+(1)EA3430, Laboratory for Tumor Biology, Paul Strauss Cancer Center,
+F-67065 Strasbourg Cedex, France.
+
+Human papillomavirus (HPV)-related oropharyngeal cancer represents a distinct
+head and neck squamous cell carcinoma (HNSCC) subpopulation, with improved
+disease-free and overall survival. In general, HPV-positive HNSCCs express
+wild-type TP53, which could explain its increased radiosensitivity. However, the 
+molecular mechanisms underlying this higher sensitivity remain elusive. We have
+previously shown that HPV-related oropharyngeal carcinomas express decreased
+levels of the NEDD8-activating enzyme 1/amyloid β precursor protein-binding
+protein 1 (NAE1/APP-BP1) gene. NAE1/APP-BP1 function is required for the
+NEDDylation of target proteins, and has been shown to be a negative regulator of 
+p53 transcriptional activity. In this study, we addressed the hypothesis that
+NAE1/APP-BP1 expression levels regulate p53 activity and cell survival upon
+ionizing irradiation. We used the radiosensitive and naturally HPV16-infected
+UPCI:SCC90 cell line and the radioresistant and HPV-negative SQ20B cell line as
+the control. NAE1/APP-BP1 expression levels were modulated with expression
+constructs and siRNAs. Radiosensitivity was evaluated with clonogenic survival
+assays. p53 transcriptional activity was measured with a luciferase assay. The
+overexpression of NAE1/APP-BP1 in UPCI:SCC90 cells resulted in the increased
+NEDDylation of p53, inhibition of p53 activity and increased cell resistance to
+ionizing radiation. Conversely, the inhibition of NAE1/APP-BP1 expression in
+SQ20B cells induced p53-dependent cell death after treatment with X-rays. Taken
+together, these results indicate that NAE1/APP-BP1 and NEDDylation are invovled
+in modulating p53 activity and regulating its role in the response of cells to
+ionizing radiation. Our findings bring new insights in the molecular mechanisms
+underlying the increased radiosensitivity of HPV-related oropharyngeal tumors.
+This is of importance, as no reliable and robust predictive biomarkers for tumor 
+response to radiotherapy are currently available. These results also have
+potential clinical significance, as drugs targeting NAE1/APP-BP1 have recently
+emerged as a novel therapeutic modality in cancer treatment.
+
+DOI: 10.3892/ijo.2012.1584 
+PMID: 22895816  [Indexed for MEDLINE]

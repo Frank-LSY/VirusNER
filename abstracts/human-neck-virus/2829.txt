@@ -1,0 +1,50 @@
+
+
+2829. Medicine (Baltimore). 2017 Dec;96(52):e9072. doi: 10.1097/MD.0000000000009072.
+
+Coinfection of disseminated Talaromyces marneffei and Mycobacteria kansasii in a 
+patient with papillary thyroid cancer: A case report.
+
+Zhang J(1), Huang X(1), Zhang X(1), Zhu Y(2), Liao K(3), Ma J(4), Wang G(4), Guo 
+Y(1), Xie C(1).
+
+Author information: 
+(1)Department of Respiratory Medicine.
+(2)Department of Radiology.
+(3)Department of Laboratory Medicine, The First Affiliated Hospital of Sun
+Yat-sen University, Guangzhou.
+(4)Department of Respiratory and Critical Care Medicine, Peking University First 
+Hospital, Beijing, China.
+
+RATIONALE: Recently, Talaromyces marneffei (T. marneffei) has been reported in
+human immunodeficiency virus (HIV)-negative patient with underlying diseases,
+such as oral cancer, colon cancer, haematological malignancies, connective tissue
+disease, diabetes mellitus, and corticosteroids or immunosuppressive agents.
+Similar to HIV-positive ones, such patients were observed with CD4
+lymphocytopenia.
+PATIENT CONCERNS: We reported a case of a 45-year-old woman who was diagnosed
+with disseminated T. marneffei and Mycobacteria kansasii (M. kansasii) with
+papillary thyroid cancer as the underlying disease. T-cell subsets counts, CD4
+T-cell%, CD8 T-cell%, CD4/CD8 ratio, and NK cell% were all turned out to be
+normal.
+DIAGNOSES: Based on bronchoalveolar lavage fluid and skin lesions secretion
+cultures, blood culture, the patient was diagnosed with disseminated T. marneffei
+and M. kansasii. Pathological examination reported papillary thyroid cancer with 
+cervical lymph node metastasis.
+INTERVENTIONS: The patient received the combined and longer antifungal therapy
+and drug regimens for M. kansasii. She had total thyroidectomy with radical neck 
+dissection to treat the papillary thyroid cancer.
+OUTCOMES: The patient had a favorable outcome for 19 months without recurrence.
+LESSONS: T. marneffei could infect non-HIV individuals with underlying disease
+under the condition of normal T-cell counts. The symptoms were lack of
+specificity and were more likely to be misdiagnosed. Such patients with
+unidentified T-cell dysfunction or other unidentified primary immunodeficiency
+disorders may prone to coinfect with other opportunistic pathogens, such as M.
+kansasii. Compared with HIV-positive ones, they need combined and much longer
+antifungal therapy.
+
+Copyright © 2017 The Authors. Published by Wolters Kluwer Health, Inc. All rights
+reserved.
+
+DOI: 10.1097/MD.0000000000009072 
+PMID: 29384899  [Indexed for MEDLINE]

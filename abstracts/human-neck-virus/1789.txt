@@ -1,0 +1,43 @@
+
+
+1789. Chin Med J (Engl). 2011 May;124(9):1357-61.
+
+In vitro induction of specific anti-tumoral immunity against laryngeal carcinoma 
+by using human interleukin-12 gene-transfected dendritic cells.
+
+Liang W(1), Wang XF.
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, First Affiliated Hospital 
+of Liaoning Medical Colledge, Jinzhou, Liaoning 121001, China.
+
+BACKGROUND: Objective evaluation of the antitumor effect of interleukin-12
+(IL-12) gene-transfected dendritic cell (DC) vaccine on laryngeal carcinoma
+requires in vivo and in vitro tests. The aim of this study was to investigate the
+function of IL-12 gene transfected DC at initiating specific immune response to
+laryngeal carcinoma in vitro.
+METHODS: Recombinant adenovirus with IL-12 gene was constructed. DCs were
+isolated from the peripheral blood of patients with laryngeal carcinoma, pulsed
+with tumor lysate of laryngeal carcinoma cells (DC⁺Ag), and transfected with
+IL-12 (DC-IL-12⁺Ag). The cells pheotypes including CD83, CD86 and HLA-DR on
+surface of DCs were assayed by flow cytometry (FCM). The concentration of IL-12
+in culture supernatant of DCs and interferon γ (IFN-γ) in culture supernatant of 
+T cells cocultured with DCs were quantified by ELISA. Methyl thiazolys
+tetrazolium (MTT) was used to evaluate proliferation of autologous T lymphocytes 
+and activation of cytotoxic T lymphocytes (CTL) stimulated by IL-12-transfected
+DCs pulsed with tumor lysate against laryngeal carcinoma cells.
+RESULTS: The recombinant adenovirus expressing IL-12 gene was constructed
+successfully. Gene-transfected DC plused with tumor lysate with IL-12
+(DC-IL-12⁺Ag) expressed higher level of CD83, CD86 and produced higher level of
+IL-12 than untransfected DCs (DC⁺Ag) (CD83: (60.2 ± 1.8)% vs. (50.7 ± 1.2)%, P < 
+0.05; CD86: (88.9 ± 2.1)% vs. (78.2 ± 3.9)%, P < 0.05; IL-12: (262.5 ± 3.0) ng/L 
+vs. (103.8 ± 5.1) ng/L, P < 0.05). The proliferation of autologous T lymphocytes 
+and production of IFN-γ stimulated by DC transfected with IL-12 were more
+obviously than untransfected DCs. Cytotoxicity of CTL stimulated by
+IL-12-transfected DC pulsed with tumor lysate against laryngeal carcinoma cells
+were significantly stronger than stimulated by untransfected DC.
+CONCLUSION: It is a promising approach for IL-12-transfected DC pulsed with tumor
+lysate to increase the antitumoral effect.
+
+
+PMID: 21740748  [Indexed for MEDLINE]

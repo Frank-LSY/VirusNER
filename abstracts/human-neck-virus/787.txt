@@ -1,0 +1,39 @@
+
+
+787. Pathol Res Pract. 2010 Nov 15;206(11):768-71. doi: 10.1016/j.prp.2010.07.011.
+Epub 2010 Sep 17.
+
+Core classification of head and neck squamous cell carcinomas: correlations
+between morphology, DNA ploidy and HPV infection.
+
+Kotb WF(1), Blind C, Friedrich KH, Schewe C, Zhang ZG, Zheng JM, Deutschman N,
+Pacyna-Gengelbach M, Dietel M, Petersen I.
+
+Author information: 
+(1)Institute of Pathology, Charité Campus Mitte, Charitéplatz 1, 10117 Berlin,
+Germany.
+
+AIMS: The study intended to reveal whether HPV infection is reflected by nuclear 
+morphology and DNA cytometry parameters in head and neck squamous cell carcinomas
+(HNSCC).
+METHODS: In total, 39 HNSCC were selected for reanalysis by histomorphology
+applying the core classification, DNA cytometry and HPV detection. For the core
+classification, HE sections were assessed by a score system to evaluate the
+nuclear size, the mitosis size, their variabilities and the presence of tripolar 
+or tetrapolar mitoses. HPV was analyzed by consensus PCR followed by a
+hybridization method for virus typing. Static DNA cytometry was applied on single
+cell suspension focusing particularly on the parameters DNA modal value, DNA
+index peak, DNA index mean, 2c deviation index and 5c exceeding rate. Statistical
+analysis was done by T-test or Fisher's exact test.
+RESULTS: The analysis revealed that HPV positive HNSCC had significantly smaller 
+nuclei than HPV negative cases. Increasing values of the nuclear size and mitosis
+size were significantly associated with higher indices of the DNA cytometry
+analysis.
+CONCLUSIONS: The study confirms that the core classification can provide
+information on the ploidy of HNSCC and that HPV positive tumors represent a
+distinct morphological and genetic carcinoma subtype.
+
+Copyright © 2010 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.prp.2010.07.011 
+PMID: 20850227  [Indexed for MEDLINE]

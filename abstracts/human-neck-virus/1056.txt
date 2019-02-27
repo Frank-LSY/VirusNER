@@ -1,0 +1,50 @@
+
+
+1056. Head Neck. 2016 Apr;38 Suppl 1:E873-83. doi: 10.1002/hed.24119. Epub 2015 Aug 6.
+
+Head and neck second primary cancer rates in the human papillomavirus era: A
+population-based analysis.
+
+Diaz DA(1), Reis IM(2), Weed DT(3), Elsayyad N(1), Samuels M(1), Abramowitz
+MC(1).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Miami Sylvester Comprehensive 
+Cancer Center, Miami, Florida.
+(2)Department of Public Health Sciences, University of Miami Sylvester
+Comprehensive Cancer Center, Miami, Florida.
+(3)Department of Otolaryngology, University of Miami Sylvester Comprehensive
+Cancer Center, Miami, Florida.
+
+BACKGROUND: Patients with head and neck cancer are at high risk for second
+primary malignancies. Human papillomavirus (HPV)-driven tumors are generally
+high-grade oropharyngeal cancers. We analyzed the incidence of second primary
+malignancy of the head and neck in patients with primary squamous cell carcinoma 
+(SCC) of the head and neck and temporal trends in the HPV era.
+METHODS: The Surveillance, Epidemiology, and End Results (SEER) database was
+queried for patients with SCC of the head and neck (range, 1973-2008). Cumulative
+incidence rates of second primary malignancy of the head and neck were compared
+based on competing risk analysis.
+RESULTS: A total of 104,639 cases were included in this study, of which 4616
+patients had second primary malignancy of the head and neck. Oropharyngeal cancer
+incidence increased over time. Estimated incidence rate/10,000 person-years
+(105.5, 80.6, and 50.2 for 1973-1989, 1990-1999, and 2000-2008, respectively) and
+cumulative incidence rates (10-year rates of 6.68%, 5.72%, and 4.59% for
+1973-1989, 1990-1999, and 2000-2008, respectively) of second primary malignancies
+of the head and neck for patients with oropharyngeal cancer decreased over time
+(p < .001). The second primary malignancy of the head and neck incidence rate was
+significantly lower in patients with high-grade oropharyngeal cancer from 2000 to
+2008 (30.3 vs 65.5 and 54.6 from 1973-1989 and 1990-1999, respectively;
+p < .001).
+CONCLUSION: The incidence of second primary malignancy of the head and neck in
+patients with head and neck cancer has decreased over time. This is driven by
+lower rates in patients with high-grade oropharyngeal cancer, is temporally
+related with increases in HPV-associated oropharyngeal cancer, and suggests that 
+incidence rates of second primary malignancy of the head and neck may be lower
+for HPV-associated cancer. © 2015 Wiley Periodicals, Inc. Head Neck 38:
+E873-E883, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24119 
+PMID: 25966421  [Indexed for MEDLINE]

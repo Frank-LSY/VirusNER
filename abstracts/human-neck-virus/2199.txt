@@ -1,0 +1,48 @@
+
+
+2199. Cancer Immunol Immunother. 2017 Dec;66(12):1619-1629. doi:
+10.1007/s00262-017-2054-3. Epub 2017 Aug 30.
+
+Toll-like receptor 5 and 7 expression may impact prognosis of HPV-positive
+oropharyngeal squamous cell carcinoma patients.
+
+Jouhi L(1), Mohamed H(2), Mäkitie A(3)(4), Remes SM(2), Haglund C(5)(6), Atula
+T(3), Hagström J(2)(6).
+
+Author information: 
+(1)Otorhinolaryngology - Head and Neck Surgery, University of Helsinki and
+Helsinki University Hospital, P.O Box 263, 00029 HUS, Helsinki, Finland.
+lauri.jouhi@helsinki.fi.
+(2)Pathology, University of Helsinki, HUSLAB, and Helsinki University Hospital,
+P.O Box 21, 00014 University of Helsinki, Helsinki, Finland.
+(3)Otorhinolaryngology - Head and Neck Surgery, University of Helsinki and
+Helsinki University Hospital, P.O Box 263, 00029 HUS, Helsinki, Finland.
+(4)Division of Ear, Nose and Throat Diseases, Department of Clinical Sciences,
+Intervention and Technology, Karolinska Institutet and Karolinska Hospital,
+Stockholm, Sweden.
+(5)Surgery, University of Helsinki and Helsinki University Hospital, P.O Box 22, 
+00014 University of Helsinki, Helsinki, Finland.
+(6)Research Programs Unit, Translational Cancer Biology, University of Helsinki, 
+P.O Box 63, 00014 University of Helsinki, Helsinki, Finland.
+
+A large subset of oropharyngeal squamous cell carcinomas (OPSCCs) is associated
+with HPV infection and has better outcome than non-viral-related tumors. Various 
+malignancies also carry a role for TLRs, key activators of inflammation and
+innate immunity. We examined the expression of TLRs in OPSCC, and their
+association with HPV status and treatment outcome. TLR 5, 7, 9, and p16 were
+studied by immunohistochemistry and HPV status was detected with in situ
+hybridization in 202 tumors of consecutively treated OPSCC patients using tissue 
+microarray method. The relations between TLR expression and HPV status, p16
+expression, clinicopathological factors, and survival were analyzed. TLR 5, 7,
+and 9 expression patterns differed between HPV-positive and -negative tumors, and
+they were statistically significantly associated with history of smoking, heavy
+drinking, tumor site, grade, size (T), metastasis (N), and stage. Moreover, in
+HPV-positive tumors the expression of TLR 5 and 7 correlated with tumor
+recurrence. After adjustment, among HPV-positive OPSCC patients, high TLR 5 and
+low TLR 7 expression were associated with poor disease-specific survival. Our
+results indicate that TLR 5 and 7 may have a role in the prognostication of
+HPV-positive OPSCC, however, further studies are needed to clarify the
+comprehensive role of these TLRs in OPSCC.
+
+DOI: 10.1007/s00262-017-2054-3 
+PMID: 28856441  [Indexed for MEDLINE]

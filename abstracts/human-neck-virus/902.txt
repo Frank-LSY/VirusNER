@@ -1,0 +1,51 @@
+
+
+902. Int J Pharm. 2012 May 1;427(1):97-104. doi: 10.1016/j.ijpharm.2011.09.037. Epub
+2011 Oct 1.
+
+Comparison of silk-elastinlike protein polymer hydrogel and poloxamer in
+matrix-mediated gene delivery.
+
+Price R(1), Gustafson J, Greish K, Cappello J, McGill L, Ghandehari H.
+
+Author information: 
+(1)Department of Pharmaceutics and Pharmaceutical Chemistry, University of Utah, 
+Salt Lake City, Utah, USA.
+
+The silk-elastinlike protein polymer, SELP 815K, and poloxomer 407, a
+commercially available synthetic copolymer, were evaluated to compare their
+relative performance in matrix-mediated viral gene delivery. Using a xenogenic
+mouse tumor model of human head and neck squamous cell carcinoma, the efficacy of
+viral gene-directed enzyme prodrug therapy with these polymers was characterized 
+by viral gene expression in the tumor tissue, tumor size reduction, and
+survivability with treatment. Viral injection in SELP 815K produced a greater
+level and more prolonged extent of gene expression in the tumor, a statistically 
+greater tumor size reduction, a longer time until tumor rebound, and a
+significantly increased survivability, as compared to injection of virus alone or
+in Poloxamer 407. Safety of treatment with these polymers was evaluated in a
+non-tumor bearing immunocompetent mouse model. Compared to virus injected alone
+or in Poloxamer 407, virus injected in SELP 815K had fewer and less severe
+indications of toxicity related to treatment as assessed by blood analysis, body 
+weight, and histopathology of distant organs and the injection sites. Similar to 
+virus alone or in Poloxamer 407, virus injected in SELP 815K elicited a mild
+injection site inflammatory response characterized primarily by a mononuclear
+leukocyte infiltrate and the formation of granulation tissue. Virus injected in
+SELP 815K resulted in fewer animals with elevated white blood cell counts and a
+less pronounced local toxicity reaction than was observed with virus in Poloxamer
+407. In contrast to virus injected alone or in Poloxamer 407, which were not
+retained in the injection site tissues beyond week 1, SELP 815K was retained at
+the injection sites and by the end of the study (week 12), displayed limited
+absorption, and mild encapsulation. These results demonstrate the benefits of
+SELP 815K for matrix-mediated gene delivery over the injection of free virus and 
+the injection of virus in Poloxamer 407. Virus in SELP 815K had greater efficacy 
+of tumor suppression, promoted greater levels and greater duration of viral gene 
+expression, and displayed reduced levels of injection site toxicity. Combining
+these performance and safety benefits with the degree of control with which they 
+can be designed, synthesized and formulated, SELPs continue to show promise for
+their application in viral gene delivery.
+
+Copyright Â© 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijpharm.2011.09.037 
+PMCID: PMC3305828
+PMID: 21982738  [Indexed for MEDLINE]

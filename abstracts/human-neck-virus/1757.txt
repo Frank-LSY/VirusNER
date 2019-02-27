@@ -1,0 +1,63 @@
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+1757. Zhonghua Bing Li Xue Za Zhi. 2016 Sep 8;45(9):636-41. doi:
+10.3760/cma.j.issn.0529-5807.2016.09.010.
+
+[Clinicopathologic features of non-keratinizing carcinoma of nasal cavity and
+paranasal sinus].
+
+[Article in Chinese]
+
+Zhao YH(1), Liu HG.
+
+Author information: 
+(1)Department of Pathology, Beijing Tongren Hospital, Capital Medical University,
+Beijing Key Laboratory of Head and Neck Molecular Diagnostic Pathology, Beijing
+100730, China.
+
+OBJECTIVE: To study the clinicopathologic features, immunophenotype, differential
+diagnosis and prognosis of non-keratinizing carcinoma of nasal cavity and
+paranasal sinus.
+METHODS: Four hundred and forty-one cases of squamous cell carcinoma of the nasal
+cavity and sinuses diagnosed in Beijing Tongren Hospital from January 2008 to
+August 2015 were included. Twenty-six cases of non-keratinizing carcinomas were
+selected. The histopathologic features and the clinicopathologic data of these
+twenty-six cases were retrospectively analyzed. Immunohistochemistry (two-step
+EnVision method) was done to evaluate the expression of CK, vimentin, CK5/6, CK7,
+CK8/18, p16, p53, Ki-67 etc. In situ hybridization was used to detect
+Epstein-Barr virus mRNA(EBER), and flow-through hybridization was used to
+evaluate the presence of human papilloma virus (HPV). One of the cases which HPV 
+is positive was detected by HPV in situ hybridization and RNAscope technology.
+RESULTS: The mean age for the twenty-six patients (16 males, 10 females) was 51.2
+years (range 22 to 79 years). Three patients had a history of inverted
+papilloma.Microscopically the tumors showed invasive papillary and inverted
+growth, and formed solid cell nests with different sizes. It was similar to
+papillary carcinoma of the urinary tract: the nuclei of the tumor were rounded
+and the nucleolus are clear. Three cases displayed transition between normal
+epithelium to neoplastic cells; in two cases (2/26), some tumor cells were
+spindle shaped. Twenty cases (20/20) were strongly positive for CK, p63; 17 cases
+(17/20) were strongly positive for CK5/6 and three cases (3/20) were focally
+positive. Sixteen cases were strongly positive for CK8/18 and three cases (3/20) 
+were focally positive and one case was negative. Seven cases (7/20) were strongly
+positive for CK7 and 13 cases (13/20) were negative. Two cases (2/20) were
+focally positive for vimentin and eighteen (18/20) cases were negative. One case 
+(1/20) was strongly positive for p16 and nineteen cases (19/20) were negative.
+Nineteen cases (19/20) were positive for p53 and one case (1/20) was negative.
+Ki-67 index was >50% in 11 cases. Twenty cases (20/20) were negative for AFP,
+NUT, S-100 protein, HMB45 and Melan A. One case was positive for HPV (6, 11, 16, 
+18), as detected by in situ hybridization. The HPV18 mRNA was detected by
+RNAscope technique. In situ hybridization were negative in all twenty cases. The 
+mean follow-up time of the patients in this group was less than 5 years, and the 
+prognosis needs further observation.
+CONCLUSIONS: Non-keratinizing squamous cell carcinoma is a rare neoplasm with
+distinct morphological characteristics. Its diagnosis is primarily based on the
+site of lesions and the histological features.Immunohistochemistry staining can
+aid the diagnosis and differential diagnoses. The tumor may originate from the
+epithelium of nasal cavity and sinus. This disease has no relation with HPV and
+EBV infection, and the treatment is primarily surgical excision combined with
+postoperative radiotherapy.
+
+DOI: 10.3760/cma.j.issn.0529-5807.2016.09.010 
+PMID: 27646894  [Indexed for MEDLINE]

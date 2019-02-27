@@ -1,0 +1,57 @@
+
+
+919. Anticancer Res. 2015 Apr;35(4):1951-9.
+
+Targeting mTOR and AREG with everolimus, sunitinib and sorafenib in HPV-positive 
+and -negative SCC.
+
+Aderhold C(1), Faber A(2), Umbreit C(2), Birk R(2), Weiss C(2), Sommer JU(2),
+Hörmann K(2), Schultz JD(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Mannheim, Germany christoph.aderhold@umm.de.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Mannheim, Germany.
+
+BACKGROUND/AIM: Head and neck squamous cell carcinoma (HNSCC) is an aggressive
+epithelial malignancy. It is the most common neoplasm appearing in the upper
+aerodigestive tract and the sixth most common cancer worldwide. The five-year
+survival rate remains poor despite advances in surgery, radiation and
+chemotherapy. Furthermore, the incidence of human papillomavirus (HPV)-associated
+oropharyngeal cancer is rising. Thus, innovative therapy approaches are
+imperative in order to improve the situation. Everolimus, an inhibitor of the
+mammalian target of rapamycin (mTOR) and sorafenib and sunitinib, multityrosine
+kinase inhibitors, have been notably effective in the therapy of different tumor 
+entities. The modest side-effects and oral application of the drugs might improve
+patient compliance. Expression levels of mTOR and Amphiregulin (AREG) in
+p16-positive and -negative SCC (squamous cell carcinoma) and the effect of
+everolimus, sorafenib or sunitinib on the expression levels of these target
+proteins were assessed. As far as we are aware of, this is one of the first in
+vitro studies to evaluate the effect of these small-molecule drugs with regard to
+the p16 status of SCC cells.
+MATERIALS AND METHODS: p16-negative HNSCC 11A and 14C cells and p16-positive
+CERV196 cells were exposed to different concentrations of everolimus, sorafenib
+and sunitinib for 2-8 days. Expression levels of mTOR and AREG were determined by
+enzyme-linked immunosorbent assay (ELISA) and compared against a chemonaïve
+control.
+RESULTS: AREG and mTOR were expressed in all tested cell lines. CERV196 displayed
+a remarkable increase of mTOR expression compared to p16-negative HNSCC. On the
+contrary, AREG levels were reduced by 50% in CERV196. Everolimus, sorafenib and
+sunitinib significantly reduced mTOR expression. Everolimus significantly
+decreased AREG expression independently of the HPV status. Sunitinib and
+sorafenib increased AREG expression in HNSCC 11A and 14C but not in CERV196.
+CONCLUSION: The applied drugs showed remarkable suppression of mTOR expression,
+which might delay tumor progression. Interestingly, sorafenib and sunitinib
+increased AREG in HNSCC 11A and 14C, which could be a possible evasive mechanism 
+following incubation with these drugs. On the contrary, p16-positive CERV196
+showed increased susceptibility to sorafenib and sunitinib concerning suppression
+of AREG expression. Further studies are required to evaluate the HPV-dependent
+differences of therapy response and the possible consequences for treatment
+options.
+
+Copyright© 2015 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 25862847  [Indexed for MEDLINE]

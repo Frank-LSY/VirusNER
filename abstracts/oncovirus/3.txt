@@ -1,0 +1,38 @@
+
+
+3. Virology. 2018 Jan 15;514:1-8. doi: 10.1016/j.virol.2017.10.020. Epub 2017 Nov 9.
+
+The roles of five conserved lentiviral RNA structures in HIV-1 replication.
+
+Liu Y(1), Chen J(1), Nikolaitchik OA(1), Desimmie BA(2), Busan S(3), Pathak
+VK(2), Weeks KM(3), Hu WS(4).
+
+Author information: 
+(1)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institute, Frederick, MD 21702, USA.
+(2)Viral Mutation Section, HIV Dynamics and Replication Program, National Cancer 
+Institute, Frederick, MD 21702, USA.
+(3)Department of Chemistry, University of North Carolina, Chapel Hill, NC, USA.
+(4)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institute, Frederick, MD 21702, USA. Electronic address:
+Wei-Shau.Hu@nih.gov.
+
+The HIV-1 RNA genome contains complex structures with many structural elements
+playing regulatory roles during viral replication. A recent study has identified 
+multiple RNA structures with unknown functions that are conserved among HIV-1 and
+two simian immunodeficiency viruses. To explore the roles of these conserved RNA 
+structures, we introduced synonymous mutations into the HIV-1 genome to disrupt
+each structure. These mutants exhibited similar particle production, viral
+infectivity, and replication kinetics relative to the parent NL4-3 virus.
+However, when replicating in direct competition with the wild-type NL4-3 virus,
+mutations of RNA structures at inter-protein domain junctions can cause fitness
+defects. These findings reveal the ability of HIV-1 to tolerate changes in its
+sequences, even in apparently highly conserved structures, which permits high
+genetic diversity in HIV-1 population. Our results also suggest that some
+conserved RNA structures may function to fine-tune viral replication.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2017.10.020 
+PMCID: PMC5766380
+PMID: 29128752  [Indexed for MEDLINE]

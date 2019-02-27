@@ -1,0 +1,45 @@
+
+
+44. J Virol. 2016 Aug 12;90(17):7607-17. doi: 10.1128/JVI.00407-16. Print 2016 Sep 1.
+
+Cell-Free versus Cell-to-Cell Infection by Human Immunodeficiency Virus Type 1
+and Human T-Lymphotropic Virus Type 1: Exploring the Link among Viral Source,
+Viral Trafficking, and Viral Replication.
+
+Dutartre H(1), Clavière M(2), Journo C(2), Mahieux R(2).
+
+Author information: 
+(1)Equipe Oncogenèse Rétrovirale, Equipe Labellisée Ligue Nationale Contre le
+Cancer, Centre International de Recherche en Infectiologie INSERM U1111-CNRS
+UMR5308, Ecole Normale Supérieure de Lyon, Université de Lyon 1, and LabEx
+ECOFECT, Université Lyon, Lyon, France helene.dutartre@ens-lyon.fr.
+(2)Equipe Oncogenèse Rétrovirale, Equipe Labellisée Ligue Nationale Contre le
+Cancer, Centre International de Recherche en Infectiologie INSERM U1111-CNRS
+UMR5308, Ecole Normale Supérieure de Lyon, Université de Lyon 1, and LabEx
+ECOFECT, Université Lyon, Lyon, France.
+
+Human immunodeficiency virus type 1 (HIV-1) and human T-lymphotropic virus type 1
+(HTLV-1) are complex retroviruses mainly infecting CD4(+) T lymphocytes. In
+addition, antigen-presenting cells such as dendritic cells (DCs) are targeted in 
+vivo by both viruses, although to a lesser extent. Interaction of HIV-1 with DCs 
+plays a key role in viral dissemination from the mucosa to CD4(+) T lymphocytes
+present in lymphoid organs. While similar mechanisms may occur for HTLV-1 as
+well, most HTLV-1 data were obtained from T-cell studies, and little is known
+regarding the trafficking of this virus in DCs. We first compared the efficiency 
+of cell-free versus cell-associated viral sources of both retroviruses at
+infecting DCs. We showed that both HIV-1 and HTLV-1 cell-free particles are
+poorly efficient at productively infecting DCs, except when DC-SIGN has been
+engaged. Furthermore, while SAMHD-1 accounts for restriction of cell-free HIV-1
+infection, it is not involved in HTLV-1 restriction. In addition, cell-free
+viruses lead mainly to a nonproductive DC infection, leading to trans-infection
+of T-cells, a process important for HIV-1 spread but not for that of HTLV-1.
+Finally, we show that T-DC cell-to-cell transfer implies viral trafficking in
+vesicles that may both increase productive infection of DCs ("cis-infection") and
+allow viral escape from immune surveillance. Altogether, these observations
+allowed us to draw a model of HTLV-1 and HIV-1 trafficking in DCs.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00407-16 
+PMCID: PMC4988172
+PMID: 27334587  [Indexed for MEDLINE]

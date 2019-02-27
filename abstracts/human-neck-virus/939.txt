@@ -1,0 +1,38 @@
+
+Conflict of interest statement: Umamaheswar Duvvuri, The University of Pittsburgh
+Medical Center was awarded a Clinical Robotics Research Grant from Intuitive
+Surgical, Inc. Intuitive Surgical has no direct financial relationship with any
+of the authors and does not censor any research performed. Dr Duvvuri is the
+director of this grant.
+
+
+939. Am J Surg Pathol. 2009 Nov;33(11):1720-4. doi: 10.1097/PAS.0b013e3181b6d8e6.
+
+Papillary squamous cell carcinoma of the head and neck: frequent association with
+human papillomavirus infection and invasive carcinoma.
+
+Jo VY(1), Mills SE, Stoler MH, Stelow EB.
+
+Author information: 
+(1)Department of Pathology, University of Virginia, Charlottesville, VA, USA.
+
+Papillary squamous cell carcinoma (SCC) is an uncommon variant of SCC in the
+upper aerodigestive tract. It is most frequently located in the larynx,
+oropharynx, and sinonasal tract, and is more common in older men. Because of its 
+complex exophytic papillary architecture, histologic assessment of underlying
+invasion can be challenging. Risk factors and pathogenesis are unclear. We
+reviewed 31 papillary SCCs of the upper aerodigestive tract seen at our
+institution over a 17-year period with respect to p16 immunoreactivity and human 
+papillomavirus (HPV) status. Twelve papillary SCCs were associated with invasive 
+SCC in their disease course. In our study, more than two-thirds of papillary SCCs
+in the upper aerodigestive tract were immunoreactive with antibody to p16 and 68%
+of those lesions had identifiable high-risk HPV by in situ hybridization. As with
+other HPV-associated SCCs of the upper aerodigestive tract, the majority of
+HPV-associated papillary SCCs are oropharyngeal (base of tongue and palatine
+tonsils), although both sinonasal and laryngeal tumors were also associated with 
+infection (67% and 33% of cases, respectively). Given the better prognosis of
+HPV-associated SCCs of the upper aerodigestive tract, it may be prudent to report
+the p16 and HPV status of these tumors when they are encountered.
+
+DOI: 10.1097/PAS.0b013e3181b6d8e6 
+PMID: 19745700  [Indexed for MEDLINE]

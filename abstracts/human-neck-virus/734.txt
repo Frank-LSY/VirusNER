@@ -1,0 +1,27 @@
+
+
+734. Radiother Oncol. 2010 Jun;95(3):371-80. doi: 10.1016/j.radonc.2010.04.022. Epub
+2010 May 20.
+
+The role of Human papillomavirus in head and neck cancer and the impact on
+radiotherapy outcome.
+
+Lassen P(1).
+
+Author information: 
+(1)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+DK-8000 Aarhus C, Denmark. pernille@oncology.dk
+
+The profound influence of Human papillomavirus (HPV) on the epidemiological
+pattern and clinical course of head and neck cancer (HNSCC) has led to a change
+in the traditional understanding of this disease entity. Separate therapeutic
+strategies based on tumour HPV status are under consideration and in this light
+provision of knowledge concerning the influence of tumour HPV on the radiation
+response in HNSCC appears highly relevant. This review provides a summary of the 
+current understanding of the role of HPV in head and neck cancer with specific
+focus on the viral impact on radiotherapy outcome of HNSCC.
+
+Copyright 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2010.04.022 
+PMID: 20493569  [Indexed for MEDLINE]

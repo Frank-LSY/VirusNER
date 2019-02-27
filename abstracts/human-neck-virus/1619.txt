@@ -1,0 +1,36 @@
+
+
+1619. CA Cancer J Clin. 2013 Jan;63(1):57-81. doi: 10.3322/caac.21167. Epub 2012 Dec
+19.
+
+The role of human papillomavirus in nongenital cancers.
+
+Zandberg DP(1), Bhargava R, Badin S, Cullen KJ.
+
+Author information: 
+(1)Division of Hematology/Oncology, Department of Medicine, University of
+Maryland School of Medicine and Marlene and Stewart Greenebaum Cancer Center,
+University of Maryland, Baltimore, MD 21201, USA.
+
+Human papillomavirus (HPV), one of the most common sexually transmitted diseases 
+worldwide, has an established role in the pathogenesis of genital malignancies
+such as cervical cancer. The virus has also been implicated in the oncogenesis of
+nongenital cancers including head and neck malignancies (specifically
+oropharyngeal cancers) as well as anal cancer. There is less clarity regarding
+its role in lung and esophageal cancers. Worldwide, the incidence and prevalence 
+of HPV-associated oropharyngeal cancer has been increasing over time. These
+patients have improved outcomes compared with those with HPV-negative
+oropharyngeal cancers, and there is continued interest in designing treatments
+specifically for this HPV-positive subgroup. Clinicians continue to gain an
+understanding of HPV in anal cancers and the risk factors associated with
+infection and progression to malignancy. This has potential implications for the 
+eventual screening of high-risk groups. While HPV vaccination is currently
+approved for the prevention of cervical cancer, it also has potential in the
+prevention of all HPV-associated malignancies. In this review, current
+understanding of the role of HPV in nongenital cancers is discussed, as well as
+future implications for treatment and prevention.
+
+Copyright © 2012 American Cancer Society, Inc.
+
+DOI: 10.3322/caac.21167 
+PMID: 23258613  [Indexed for MEDLINE]

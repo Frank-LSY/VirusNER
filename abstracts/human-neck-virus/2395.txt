@@ -1,0 +1,33 @@
+
+
+2395. Int J Pediatr Otorhinolaryngol. 2017 Feb;93:103-106. doi:
+10.1016/j.ijporl.2016.12.035. Epub 2016 Dec 27.
+
+Therapeutic use of the HPV vaccine in Recurrent Respiratory Papillomatosis: A
+case report.
+
+Sullivan C(1), Curtis S(2), Mouzakes J(2).
+
+Author information: 
+(1)Albany Medical College, Albany, NY, USA. Electronic address:
+sullivac421@gmail.com.
+(2)Division of Otolaryngology and Head-Neck Surgery, Department of Surgery,
+Albany Medical Center, Albany, NY, USA.
+
+Recurrent Respiratory Papillomatosis (RRP) is a condition characterized by
+recurring squamous papillomas in the aerodigestive tract due to Human Papilloma
+Virus (HPV) infection. Treatment includes surgical debridement of the lesions
+often with adjuvant therapy. A newer adjuvant agent being tested is the HPV
+vaccine. The case report includes a child with RRP who underwent 10 surgeries in 
+a year with an average inter-surgical interval (ISI) of 46 days. The patient then
+received the scheduled regimen of 3 doses of 9 valent HPV vaccine. Since
+beginning the vaccination, her average ISI increased to 113 days and as of
+writing of this paper only 1 surgery in the last 340 days. It is theorized that
+the increase in humoral response to the virus can slow the course of the disease,
+lengthen the ISI, and decrease morbidity. The results of this case report lends
+evidence to the use of the HPV vaccine as a therapeutic adjuvant therapy for RRP.
+
+Copyright © 2017 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.ijporl.2016.12.035 
+PMID: 28109479  [Indexed for MEDLINE]

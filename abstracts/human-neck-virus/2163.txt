@@ -1,0 +1,60 @@
+
+
+2163. Adv Med Sci. 2016 Sep;61(2):293-299. doi: 10.1016/j.advms.2016.03.009. Epub 2016 
+Apr 1.
+
+Cell-cycle gene expression analysis using real time PCR in locally advanced
+squamous-cell head and neck cancer.
+
+Woźniak G(1), Herok R(2), Jaksik R(3), Misiołek M(4), Kolebacz B(5),
+Fiszer-Kierzkowska A(2), Miśkiewicz-Orczyk K(4), Szymczyk C(6), Maciejewski A(6),
+Głowacki G(7), Suwiński R(8).
+
+Author information: 
+(1)Radiotherapy Department, Maria Sklodowska-Curie Memorial Cancer Center and
+Institute of Oncology, Gliwice Branch, Gliwice, Poland. Electronic address:
+gwozniak.md@gmail.com.
+(2)Center for Translational Research and Molecular Biology of Cancer, Maria
+Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, Gliwice
+Branch, Gliwice, Poland.
+(3)Institute of Automatic Control, Silesian University of Technology, Gliwice,
+Poland.
+(4)Clinical Department of Otolaryngology in Zabrze, Medical University of
+Silesia, Katowice, Poland.
+(5)Department of Laryngology, Upper Silesian Medical Center, Katowice-Ochojec,
+Poland.
+(6)Clinic of Oncological and Reconstructive Surgery, Maria Sklodowska-Curie
+Memorial Cancer Center and Institute of Oncology, Gliwice Branch, Gliwice,
+Poland.
+(7)Radiotherapy Department, Maria Sklodowska-Curie Memorial Cancer Center and
+Institute of Oncology, Gliwice Branch, Gliwice, Poland.
+(8)II Radiotherapy and Chemotherapy Clinic and Teaching Hospital, Maria
+Sklodowska-Curie Memorial Cancer Center and Institute of Oncology, Gliwice
+Branch, Gliwice, Poland.
+
+PURPOSE: The analysis of gene expression, especially those involved in cell cycle
+control, can help to discover mechanisms determining the outcome of radiation
+treatment. The main purpose of this study was to examine the expression level of 
+genes responsible for cell cycle regulation in samples of the head and neck
+cancer, obtained during surgery.
+METHODS: Postsurgical samples of SCC of head and neck region were collected. Over
+80 genes were analysed using cell cycle quantitative real-time RT-PCR Array
+method. Presence of 14 high-risk HPV types DNA in frozen or paraffin-embedded
+tumour pathological samples was also assessed. To correlate gene expression with 
+selected pathological features and clinical outcome we used different
+hierarchical clustering method.
+RESULTS: Hierarchical clustering demonstrated the association between gene
+expression within certain clusters and gender, tumour site, T stage, N stage,
+grade, pathological subtype or tumour recurrence.
+CONCLUSIONS: Despite some limitations we were able to identify gene clusters that
+allowed to classify patients according to selected clinical features and
+occurrence of tumour recurrence. The results of the analysis also confirm that
+the incidence of HPV infection among the patients from Upper Silesia is
+relatively low, whereas HPV negative tumours, likely associated with smoking,
+appeared dominant.
+
+Copyright © 2016 Medical University of Bialystok. Published by Elsevier Urban &
+Partner Sp. z o.o. All rights reserved.
+
+DOI: 10.1016/j.advms.2016.03.009 
+PMID: 27136187  [Indexed for MEDLINE]

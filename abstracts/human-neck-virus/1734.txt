@@ -1,0 +1,69 @@
+
+
+1734. Br J Cancer. 2015 Mar 17;112(6):1098-104. doi: 10.1038/bjc.2015.59.
+
+Frequency and prognostic significance of p16(INK4A) protein overexpression and
+transcriptionally active human papillomavirus infection in laryngeal squamous
+cell carcinoma.
+
+Young RJ(1), Urban D(2), Angel C(3), Corry J(4), Lyons B(5), Vallance N(6), Kleid
+S(7), Iseli TA(8), Solomon B(9), Rischin D(10).
+
+Author information: 
+(1)1] Research Division, Peter MacCallum Cancer Centre, Melbourne, Australia [2] 
+Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne,
+Australia.
+(2)1] Research Division, Peter MacCallum Cancer Centre, Melbourne, Australia [2] 
+Department of Medical Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Australia.
+(3)1] Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Melbourne, Australia [2] Department of Pathology, Peter MacCallum Cancer Centre, 
+Melbourne, Australia.
+(4)Department of Radiation Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Australia.
+(5)Department of Surgery, St Vincent's Hospital, Melbourne, Australia.
+(6)Department of Otorhinolaryngology, Monash Medical Centre, Melbourne,
+Australia.
+(7)Department of Surgical Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Australia.
+(8)Department of Surgery, Melbourne University, Royal Melbourne Hospital,
+Melbourne, Australia.
+(9)1] Research Division, Peter MacCallum Cancer Centre, Melbourne, Australia [2] 
+Sir Peter MacCallum Department of Oncology, University of Melbourne, Melbourne,
+Australia [3] Department of Medical Oncology, Peter MacCallum Cancer Centre,
+Melbourne, Australia.
+(10)1] Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Melbourne, Australia [2] Department of Medical Oncology, Peter MacCallum Cancer
+Centre, Melbourne, Australia.
+
+BACKGROUND: Human papillomavirus (HPV) infection is a powerful prognostic
+biomarker in a subset of head and neck squamous cell carcinomas, specifically
+oropharyngeal cancers. However, the role of HPV in non-oropharyngeal sites, such 
+as the larynx, remains unconfirmed.
+METHODS: We evaluated a cohort of 324 laryngeal squamous cell carcinoma (LSCC)
+patients for the expression of p16(INK4A) (p16) protein by immunohistochemistry
+(IHC) and for high-risk HPV E6 and E7 mRNA transcripts by RNA in situ
+hybridisation (ISH). p16 expression and HPV status were correlated with
+clinicopathological features and outcomes.
+RESULTS: Of 307 patients assessable for p16 IHC, 20 (6.5%) were p16 positive.
+Females and node-positive patients were more likely to be p16 positive (P<0.05). 
+There were no other significant clinical or demographic differences between
+p16-positive and -negative cases. There was no difference in overall survival
+(OS) between p16-positive and -negative patients with 2-year survival of 79% in
+each group (HR=0.83, 95% CI 0.36-1.89, P=0.65). There was no statistically
+significant difference in failure-free survival (FFS) with 2-year FFS of 79% and 
+66% for p16-positive and -negative patients, respectively (HR=0.60, 95% CI
+0.26-1.36, P=0.22). Only seven cases were found to be HPV RNA ISH positive, all
+of which were p16 IHC positive. There was no statistically significant difference
+in OS between patients with HPV RNA ISH-positive tumours compared with -negative 
+tumours with 2-year survival of 86% and 71%, respectively (HR=0.76, 95% CI
+0.23-2.5, P=0.65). The 2-year FFS was 86% and 59%, respectively (HR=0.62, 95% CI 
+0.19-2.03, P=0.43).
+CONCLUSIONS: p16 overexpression is infrequent in LSCC and the proportion of cases
+with high-risk HPV transcripts is even lower. There are no statistically
+significant correlations between p16 IHC or HPV RNA ISH status and OS or disease 
+outcomes.
+
+DOI: 10.1038/bjc.2015.59 
+PMCID: PMC4366899
+PMID: 25688737  [Indexed for MEDLINE]

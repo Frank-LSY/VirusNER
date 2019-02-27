@@ -1,0 +1,57 @@
+
+
+1828. Eur J Cancer. 2015 Aug;51(12):1580-7. doi: 10.1016/j.ejca.2015.04.024. Epub 2015 
+May 26.
+
+A model for predicting clinical outcome in patients with human
+papillomavirus-positive tonsillar and base of tongue cancer.
+
+Tertipis N(1), Hammar U(2), Näsman A(1), Vlastos A(3), Nordfors C(1), Grün N(1), 
+Ährlund-Richter A(1), Sivars L(1), Haeggblom L(1), Marklund L(4),
+Hammarstedt-Nordenvall L(4), Chaturvedi AK(5), Munck-Wikland E(4), Ramqvist T(1),
+Bottai M(2), Dalianis T(6).
+
+Author information: 
+(1)Dept. of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden.
+(2)Dept. of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden.
+(3)Dept. of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden; Dept.
+of Clinical Science and Technology, Karolinska Institutet, Stockholm, Sweden;
+Dept. of Oto-Rhino-Laryngology, Head and Neck Surgery, Karolinska University
+Hospital, Stockholm, Sweden.
+(4)Dept. of Clinical Science and Technology, Karolinska Institutet, Stockholm,
+Sweden; Dept. of Oto-Rhino-Laryngology, Head and Neck Surgery, Karolinska
+University Hospital, Stockholm, Sweden.
+(5)Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and 
+Genetics, National Cancer Institute, National Institutes of Health, Rockville,
+MD, USA.
+(6)Dept. of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden.
+Electronic address: tina.dalianis@ki.se.
+
+AIM: To combine clinical and molecular markers into an algorithm for predicting
+outcome for individual patients with human papillomavirus (HPV) DNA/p16(INK4a)
+positive tonsillar and base of tongue squamous cell carcinoma (TSCC and BOTSCC).
+BACKGROUND: Head-neck cancer treatment has become more intensified, comprising
+not only surgery and radiotherapy, but also induction/concomitant chemotherapy
+and targeted therapy. With less treatment, 3-year disease free survival (DFS) is 
+80% for HPV-positive TSCC and BOTSCC. An 85-100% 3-year DFS is observed for
+HPV(+) TSCC and BOTSCC with absence of HLA class I, or CD44 expression, or high
+CD8(+) tumour-infiltrating lymphocyte (TIL) counts suggesting that therapy could 
+be tapered for many if patients could be identified individually.
+PATIENTS AND METHODS: Patients treated curatively, with HPV DNA/p16(INK4a)
+positive tumours examined for HLA class I and II, CD44 and CD8(+)TILs, were
+included. An L1-regularised logistic regression was used to evaluate the effect
+of the biomarker data, age, stage, diagnosis, smoking and treatment on 3-year
+risk of death or relapse on a training cohort of 197 patients diagnosed 2000-2007
+and validated on a cohort of 118 patients diagnosed 2008-2011.
+RESULTS: The variables finally included in the model were HLA class I, CD8(+)
+TILs, age, stage and diagnosis (TSCC or BOTSCC). The model showed acceptable
+discrimination and calibration. The discriminative ability of the model did not
+diminish after validation (AUC=0.77).
+CONCLUSION: To our knowledge, this is the first model to utilise information from
+several markers to predict an individual probability of clinical outcome for
+patients with HPV DNA/p16(INK4a) positive tumours.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2015.04.024 
+PMID: 26025766  [Indexed for MEDLINE]

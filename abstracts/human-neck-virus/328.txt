@@ -1,0 +1,43 @@
+
+
+328. PLoS Pathog. 2016 Aug 22;12(8):e1005844. doi: 10.1371/journal.ppat.1005844.
+eCollection 2016 Aug.
+
+EBV Nuclear Antigen 3C Mediates Regulation of E2F6 to Inhibit E2F1 Transcription 
+and Promote Cell Proliferation.
+
+Pei Y(1), Banerjee S(1), Sun Z(1), Jha HC(1), Saha A(2), Robertson ES(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, and the Tumor
+Virology Program, Abramson Comprehensive Cancer Center, Perelman School of
+Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, United
+States of America.
+(2)Department of Biological Sciences, Presidency University, Kolkata, India.
+
+Epstein-Barr virus (EBV) is considered a ubiquitous herpesvirus with the ability 
+to cause latent infection in humans worldwide. EBV-association is evidently
+linked to different types of human malignancies, mainly of epithelial and
+lymphoid origin. Of interest is the EBV nuclear antigen 3C (EBNA3C) which is
+critical for EBV-mediated immortalization. Recently, EBNA3C was shown to bind the
+E2F1 transcription regulator. The E2F transcription factors have crucial roles in
+various cellular functions, including cell cycle, DNA replication, DNA repair,
+cell mitosis, and cell fate. Specifically, E2F6, one of the unique E2F family
+members, is known to be a pRb-independent transcription repressor of E2F-target
+genes. In our current study, we explore the role of EBNA3C in regulating E2F6
+activities. We observed that EBNA3C plays an important role in inducing E2F6
+expression in LCLs. Our study also shows that EBNA3C physically interacts with
+E2F6 at its amino and carboxy terminal domains and they form a protein complex in
+human cells. In addition, EBNA3C stabilizes the E2F6 protein and is co-localized 
+in the nucleus. We also demonstrated that both EBNA3C and E2F6 contribute to
+reduction in E2F1 transcriptional activity. Moreover, E2F1 forms a protein
+complex with EBNA3C and E2F6, and EBNA3C competes with E2F1 for E2F6 binding.
+E2F6 is also recruited by EBNA3C to the E2F1 promoter, which is critical for
+EBNA3C-mediated cell proliferation. These results demonstrate a critical role for
+E2F family members in EBV-induced malignancies, and provide new insights for
+targeting E2F transcription factors in EBV-associated cancers as potential
+therapeutic intervention strategies.
+
+DOI: 10.1371/journal.ppat.1005844 
+PMCID: PMC4993364
+PMID: 27548379  [Indexed for MEDLINE]

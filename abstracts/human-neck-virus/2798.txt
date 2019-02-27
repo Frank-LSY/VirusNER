@@ -1,0 +1,48 @@
+
+
+2798. Mol Cancer Ther. 2017 Apr;16(4):591-600. doi: 10.1158/1535-7163.MCT-16-0352. Epub
+2017 Jan 30.
+
+Combining Chk1/2 Inhibition with Cetuximab and Radiation Enhances In Vitro and In
+Vivo Cytotoxicity in Head and Neck Squamous Cell Carcinoma.
+
+Zeng L(1), Beggs RR(1), Cooper TS(1), Weaver AN(1), Yang ES(2)(3)(4)(5).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Alabama at Birmingham School
+of Medicine, Birmingham, Alabama.
+(2)Department of Radiation Oncology, University of Alabama at Birmingham School
+of Medicine, Birmingham, Alabama. eyang@uab.edu.
+(3)Department of Pharmacology and Toxiology, University of Alabama at Birmingham 
+School of Medicine, Birmingham, Alabama.
+(4)Department of Cell, Developmental, and Integrative Biology, University of
+Alabama at Birmingham School of Medicine, Birmingham, Alabama.
+(5)Comprehensive Cancer Center, University of Alabama at Birmingham School of
+Medicine, Birmingham, Alabama.
+
+EGFR inhibition and radiotherapy are potent inducers of DNA damage. Checkpoint
+kinases 1 and 2 (Chk1/2) are critical regulators of the DNA-damage response,
+controlling cell-cycle checkpoints that may permit recovery from
+therapy-associated genomic stress. We hypothesized that Chk1/2 inhibition (CHKi) 
+with prexasertib may enhance cytotoxicity from EGFR inhibition plus radiotherapy 
+in head and neck squamous cell carcinoma (HNSCC). In this study, we found that
+the addition of CHKi to the EGFR inhibitor cetuximab with and without
+radiotherapy significantly decreased cell proliferation and survival fraction in 
+human papillomavirus virus (HPV)-positive and HPV-negative HNSCC cell lines.
+Reduced proliferation was accompanied by decreased checkpoint activation, induced
+S-phase accumulation, persistent DNA damage, and increased caspase cleavage and
+apoptosis. Importantly, a significant tumor growth delay was observed in vivo in 
+both HPV-positive and HPV-negative cell line xenografts receiving triple
+combination therapy with CHKi, cetuximab, and radiotherapy without a concomitant 
+increase in toxicity as assessed by mouse body weight. Taken together, the
+combination of CHKi with cetuximab plus irradiation displayed significant
+antitumor effects in HNSCCs both in vitro and in vivo, suggesting that this
+combination therapy may increase clinical benefit. A clinical trial to test this 
+treatment for patients with head and neck cancer is currently ongoing
+(NCT02555644). Mol Cancer Ther; 16(4); 591-600. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/1535-7163.MCT-16-0352 
+PMCID: PMC5560482
+PMID: 28138028  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+16. Methods Mol Biol. 2016;1387:177-212. doi: 10.1007/978-1-4939-3292-4_9.
+
+Molecular Properties of Poliovirus Isolates: Nucleotide Sequence Analysis, Typing
+by PCR and Real-Time RT-PCR.
+
+Burns CC(1), Kilpatrick DR(2), Iber JC(2), Chen Q(2), Kew OM(2).
+
+Author information: 
+(1)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, National
+Center for Immunization and Respiratory Disease, Centers for Disease Control and 
+Prevention, 1600 Clifton Rd., NE MS G-10, Atlanta, GA, 30333, USA.
+cburns@cdc.gov.
+(2)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, National
+Center for Immunizationand Respiratory Disease, Centers for Disease Control and
+Prevention, Atlanta, GA, USA.
+
+Virologic surveillance is essential to the success of the World Health
+Organization initiative to eradicate poliomyelitis. Molecular methods have been
+used to detect polioviruses in tissue culture isolates derived from stool samples
+obtained through surveillance for acute flaccid paralysis. This chapter describes
+the use of realtime PCR assays to identify and serotype polioviruses. In
+particular, a degenerate, inosine-containing, panpoliovirus (panPV) PCR primer
+set is used to distinguish polioviruses from NPEVs. The high degree of nucleotide
+sequence diversity among polioviruses presents a challenge to the systematic
+design of nucleic acid-based reagents. To accommodate the wide variability and
+rapid evolution of poliovirus genomes, degenerate codon positions on the template
+were matched to mixed-base or deoxyinosine residues on both the primers and the
+TaqMan™ probes. Additional assays distinguish between Sabin vaccine strains and
+non-Sabin strains. This chapter also describes the use of generic poliovirus
+specific primers, along with degenerate and inosine-containing primers, for
+routine VP1 sequencing of poliovirus isolates. These primers, along with
+nondegenerate serotype-specific Sabin primers, can also be used to sequence
+individual polioviruses in mixtures.
+
+DOI: 10.1007/978-1-4939-3292-4_9 
+PMID: 26983735  [Indexed for MEDLINE]

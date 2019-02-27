@@ -1,0 +1,42 @@
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+founding sponsors had no role in the design of the study; in the collection,
+analyses, or interpretation of data; in the writing of the manuscript, and in the
+decision to publish the results.
+
+
+188. Curr Opin Otolaryngol Head Neck Surg. 2017 Apr;25(2):108-112. doi:
+10.1097/MOO.0000000000000341.
+
+Is p16 an adequate surrogate for human papillomavirus status determination?
+
+Jouhi L(1), Hagström J, Atula T, Mäkitie A.
+
+Author information: 
+(1)aDepartment of Otorhinolaryngology - Head and Neck Surgery bDepartment of
+Pathology, University of Helsinki and Helsinki University Hospital, Helsinki,
+Finland cDivision of Ear, Nose and Throat Diseases, Department of Clinical
+Sciences, Intervention and Technology, Karolinska Institutet, Karolinska
+University Hospital, Stockholm, Sweden.
+
+PURPOSE OF REVIEW: In head and neck cancer management, immunoexpression of
+protein p16 is widely used as a surrogate marker for human papillomavirus (HPV)
+positivity due to challenges of direct HPV testing. Previously p16 has been
+reported to have good sensitivity but only moderate specificity in HPV-status
+determination. The aim of this review is to evaluate the existing information on 
+sensitivity and specificity of p16 immunohistochemistry (IHC) in HPV-status
+determination among the recent studies.
+RECENT FINDINGS: We searched the time period from October 2014 to April 2016 and 
+included 28 studies (a total of 31 analyses), which reported both p16 and HPV
+status in their series. The sensitivity of p16 in HPV determination ranged
+between 28.2 and 100.0%. The mean and median sensitivities were 90.5 and 95.4%,
+respectively. The specificity ranged between 31.1 and 100.0%. The mean and median
+specificities were 83.3 and 87.3%, respectively.
+SUMMARY: Our review presents current information on the feasibility of p16 IHC in
+HPV status determination, which is in line with previous studies. Patients with
+HPV-positive tumors can be identified with p16 IHC, but a risk for
+misclassification of HPV-negative tumors as HPV positive exists. This fact has to
+be taken into consideration if HPV status will influence treatment planning.
+
+DOI: 10.1097/MOO.0000000000000341 
+PMID: 28141601  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+3057. Expert Opin Investig Drugs. 2017 Jun;26(6):677-685. doi:
+10.1080/13543784.2017.1324568. Epub 2017 May 8.
+
+Investigational drugs for nasopharyngeal carcinoma.
+
+Ma BBY(1)(2)(3), Hui EP(1)(2)(3), Chan ATC(1)(2)(3).
+
+Author information: 
+(1)a State Key Laboratory in Oncology in South China , Sir YK Pao Centre for
+Cancer , Hong Kong SAR , China.
+(2)b Department of Clinical Oncology , Hong Kong Cancer Institute , Hong Kong SAR
+, China.
+(3)c Li Ka Shing Institute of Health Sciences , The Chinese University of Hong
+Kong , Hong Kong SAR , China.
+
+INTRODUCTION: Nasopharyngeal carcinoma (NPC) is endemic to Southern China and
+Asia and is etiologically associated with the Epstein Barr virus (EBV). Whole
+exome and genome sequencing (WES, WGS) studies of NPC have reported several
+actionable therapeutic targets, and that the mutational load of NPC maybe
+comparable to that of squamous head and neck cancer. These unique biological
+characteristics have been exploited as potential targets and a wide range of
+investigational drugs are being investigated in clinical trials. Area covered:
+This review focused on the latest clinical development of the most promising
+classes of investigational agents in the treatment of advanced NPC. These include
+inhibitors of tumor angiogenesis, kinase signaling pathways and immunotherapy.
+Expert opinion: Checkpoint inhibitors and EBV-specific T-cell therapy have shown 
+promising activity in early phase clinical trials, and are being further
+evaluated in randomized studies. For patients whose tumors express genetic
+alterations that are known to predict response to kinase inhibitors, novel trial 
+designs such as an 'Umbrella' study may be considered given the abundance of
+targeted agents that are now available for clinical evaluation. It is envisioned 
+that regulatory approval for new drugs for advanced NPC will occur in the near
+future.
+
+DOI: 10.1080/13543784.2017.1324568 
+PMID: 28446055  [Indexed for MEDLINE]

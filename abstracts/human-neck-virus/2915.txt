@@ -1,0 +1,37 @@
+
+
+2915. Medicine (Baltimore). 2015 Jul;94(27):e1035. doi: 10.1097/MD.0000000000001035.
+
+The Stem Cell Marker Bmi-1 Is Sensitive in Identifying Early Lesions of Carcinoma
+ex Pleomorphic Adenoma.
+
+Sedassari BT(1), Rodrigues MF, Mariano FV, Altemani A, Nunes FD, Sousa S.
+
+Author information: 
+(1)From the Department of Oral and Maxillofacial Pathology, School of Dentistry, 
+University of São Paulo, São Paulo, Brazil (BTS, MFSDR, FDN, SS); and Department 
+of Anatomic Pathology, School of Medicine, State University of Campinas, São
+Paulo, Brazil (FVM, AA).
+
+In the present study, we evaluated and described the sensitivity of the stem cell
+marker B cell-specific moloney murine leukemia virus integration site 1 (Bmi-1)
+in identifying early lesions of carcinoma ex pleomorphic adenoma (CXPA). While
+invasive CXPAs are tumors with a prominent and easily recognizable malignant
+component, the identification of early carcinomatous changes in PA remains a
+diagnostic challenge due to the lack of objective morphological criteria. The
+immunohistochemical expression of Bmi-1 was assessed in both adenomatous and
+carcinomatous components of 9 CXPA cases at an early phase of histological
+progression (6 intracapsular and 3 minimally invasive) grouped according to the
+cellular differentiation as luminal (7 cases) or myoepithelial (2 cases). A
+selective nuclear expression of Bmi-1 was found exclusively in the malignant
+component of 8 cases (6 luminal type and 2 myoepithelial type), including
+intraductal carcinoma areas, except for 1 case in which scarce cells of the
+remnant PA were positive. Thus, Bmi-1 is expressed from the earliest
+morphologically detectable stages of PA malignant transformation. When faced with
+atypical features in PA, evaluation of Bmi-1 expression can provide more
+objective criteria for identification and diagnosis of early lesions of CXPA.
+This is applied to carcinomas with luminal or myoepithelial differentiation.
+
+DOI: 10.1097/MD.0000000000001035 
+PMCID: PMC4504655
+PMID: 26166073  [Indexed for MEDLINE]

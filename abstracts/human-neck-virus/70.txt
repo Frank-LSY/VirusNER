@@ -1,0 +1,48 @@
+
+
+70. J Int Med Res. 2014 Oct;42(5):1093-101. doi: 10.1177/0300060514543041. Epub 2014 
+Aug 18.
+
+Prevalence of human papillomavirus and Epstein-Barr virus in salivary gland
+diseases.
+
+Lin FC(1), Chen PL(2), Tsao TY(3), Li CR(4), Jeng KC(4), Tsai SC(5).
+
+Author information: 
+(1)Institute of Medicine, Chung Shan Medical University, Taichung, Taiwan
+Department of Surgery, Chung Shan Medical University Hospital, Taichung, Taiwan.
+(2)Department of Pharmacy, Tungs' Taichung Metro Harbour Hospital, Taichung,
+Taiwan Department of Medical Research, Tungs' Taichung Metro Harbour Hospital,
+Taichung, Taiwan.
+(3)Department of Pathology, Tungs' Taichung Metro Harbour Hospital, Taichung,
+Taiwan.
+(4)Department of Medical Research, Tungs' Taichung Metro Harbour Hospital,
+Taichung, Taiwan.
+(5)Department of Medical Research, Tungs' Taichung Metro Harbour Hospital,
+Taichung, Taiwan Department of Otolaryngology, Tungs' Taichung Metro Harbour
+Hospital, Taichung, Taiwan Department of Food and Nutrition, Providence
+University, Taichung, Taiwan tsaistella111@gmail.com.
+
+OBJECTIVE: The roles of human papillomavirus (HPV) and Epstein-Barr virus (EBV)
+in head and neck neoplasms have been well reported, but little is known about
+their relationship with salivary gland tumours. This study investigated the
+presence of HPV and EBV in salivary gland diseases.
+METHODS: The presence of HPV 16/18 and EBV was analysed in archival pathological 
+specimens collected from patients who had undergone surgery for salivary gland
+diseases. HPV 16/18 DNA was detected using nested polymerase chain reaction (PCR)
+and further confirmed with immunohistochemistry. EBV DNA was detected using
+real-time PCR.
+RESULTS: A total of 61 pathological specimens were examined: 39.5% (15/38) of
+pleomorphic adenomas, 33.3% (3/9) of Warthin's tumours, 33.3% (one of 3) of
+mucoepidermoid carcinomas, and 25.0% (one of 4) of benign lymphoepithelial
+lesions were positive for high-risk HPV 16/18. Only two Warthin's tumours were
+positive for EBV.
+CONCLUSION: The infectious nature of salivary gland neoplasms was revealed by the
+high prevalence of HPV infection, and the specific presence of EBV in Warthin's
+tumours, suggesting a potential role for HPV and EBV in salivary gland diseases.
+
+© The Author(s) 2014 Reprints and permissions:
+sagepub.co.uk/journalsPermissions.nav.
+
+DOI: 10.1177/0300060514543041 
+PMID: 25136053  [Indexed for MEDLINE]

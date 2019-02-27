@@ -1,0 +1,49 @@
+
+
+43. PLoS One. 2017 Nov 14;12(11):e0187532. doi: 10.1371/journal.pone.0187532.
+eCollection 2017.
+
+STING expression and response to treatment with STING ligands in premalignant and
+malignant disease.
+
+Baird JR(1), Feng Z(2), Xiao HD(3), Friedman D(1), Cottam B(1), Fox BA(1), Kramer
+G(1), Leidner RS(1), Bell RB(1)(4), Young KH(1)(5), Crittenden MR(1)(5), Gough
+MJ(1).
+
+Author information: 
+(1)Earle A. Chiles Research Institute, Robert W. Franz Cancer Center, Providence 
+Portland Medical Center, Portland, OR, United States of America.
+(2)Oregon Health and Sciences University, Portland, OR, United States of America.
+(3)Pathology, Providence Portland Medical Center, Portland, OR, United States of 
+America.
+(4)The Head and Neck Surgical Institute, Portland, OR, United States of America.
+(5)The Oregon Clinic, Portland, OR, United States of America.
+
+Erratum in
+    PLoS One. 2018 Feb 15;13(2):e0192988.
+
+Human papilloma virus positive (HPV+) tumors represent a large proportion of
+anal, vulvar, vaginal, cervical and head and neck squamous carcinomas (HNSCC) and
+late stage invasive disease is thought to originate from a premalignant state.
+Cyclic dinucleotides that activate STimulator of INterferon Genes (STING) have
+been shown to cause rapid regression of a range of advanced tumors. We aimed to
+investigate STING ligands as a novel treatment for papilloma. We tested therapies
+in a spontaneous mouse model of papilloma of the face and anogenital region that 
+histologically resembles human HPV-associated papilloma. We demonstrate that
+STING ligands cause rapid regression of papilloma, associated with T cell
+infiltration, and are significantly more effective than Imiquimod, a current
+immunotherapy for papilloma. In humans, we show that STING is expressed in the
+basal layer of normal skin and lost during keratinocyte differentiation. We found
+STING was expressed in all HPV-associated cervical and anal dysplasia and was
+strongly expressed in the cancer cells of HPV+ HNSCC but not in HPV-unrelated
+HNSCC. We found no strong association between STING expression and progressive
+disease in non-HPV oral dysplasia and oral pre-malignancies that are not
+HPV-related. These data demonstrate that STING is expressed in basal cells of the
+skin and is retained in HPV+ pre-malignancies and advanced cancers, but not in
+HPV-unrelated HNSCC. However, using a murine HNSCC model that does not express
+STING, we demonstrate that STING ligands are an effective therapy regardless of
+expression of STING by the cancer cells.
+
+DOI: 10.1371/journal.pone.0187532 
+PMCID: PMC5685615
+PMID: 29135982  [Indexed for MEDLINE]

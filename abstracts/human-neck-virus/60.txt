@@ -1,0 +1,43 @@
+
+
+60. BMC Cancer. 2014 Dec 17;14:968. doi: 10.1186/1471-2407-14-968.
+
+Prevalence of human papillomavirus in head and neck cancers in European
+populations: a meta-analysis.
+
+Abogunrin S(1), Di Tanna GL, Keeping S, Carroll S, Iheanacho I.
+
+Author information: 
+(1)Evidera Inc,, Metro Building, 6th Floor, 1 Butterwick, London W6 8DL, UK.
+seye.abogunrin@evidera.com.
+
+BACKGROUND: Infection with human papillomavirus (HPV) is necessary for the
+development of cervical carcinoma. By contrast, the role of HPV in the
+pathogenesis of other malignancies, such as head and neck cancers, is less well
+characterised. This study aimed to address key information gaps by conducting a
+systematic review and meta-analysis of the prevalence of HPV infection in head
+and neck cancers, focusing on data for European populations.
+METHODS: MEDLINE, Embase and grey literature sources were systematically searched
+for primary studies that were published in English between July 2002 and July
+2012, and which reported on the prevalence of HPV infection in head and neck
+cancers in European populations. Studies on non-European populations, those not
+published in English, and those assessing patients co-infected with human
+immunodeficiency virus were excluded. Eligible studies were combined in a
+meta-analysis. In addition, the potential statistical association between the
+head and neck cancers and certain HPV types was investigated.
+RESULTS: Thirty-nine publications met the inclusion criteria. The prevalence of
+HPV of any type in 3,649 patients with head and neck cancers was 40.0% (95%
+confidence interval, 34.6% to 45.5%), and was highest in tonsillar cancer (66.4%)
+and lowest in pharyngeal (15.3%) and tongue (25.7%) cancers. There were no
+statistically significant associations between the HPV types analysed and the
+geographical setting, type of sample analysed or type of primer used to analyse
+samples in head and neck cancers.
+CONCLUSIONS: The prevalence of HPV infection in European patients with head and
+neck cancers is high but varies between the different anatomical sites of these
+malignancies. There appears to be no association between HPV type and
+geographical setting, type of samples analysed or type of primer used to analyse 
+samples in such cancers.
+
+DOI: 10.1186/1471-2407-14-968 
+PMCID: PMC4320477
+PMID: 25515630  [Indexed for MEDLINE]

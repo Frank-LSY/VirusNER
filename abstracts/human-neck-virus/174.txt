@@ -1,0 +1,50 @@
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+174. Cancer Lett. 2014 Nov 28;354(2):272-80. doi: 10.1016/j.canlet.2014.08.034. Epub
+2014 Sep 1.
+
+Combination of vaccine-strain measles and mumps virus synergistically kills a
+wide range of human hematological cancer cells: Special focus on acute myeloid
+leukemia.
+
+Zhang LF(1), Tan DQ(1), Jeyasekharan AD(2), Hsieh WS(3), Ho AS(4), Ichiyama K(1),
+Ye M(1), Pang B(5), Ohba K(1), Liu X(6), de Mel S(6), Cuong BK(4), Chng WJ(7),
+Ryo A(8), Suzuki Y(1), Yeoh KG(8), Toan NL(4), Yamamoto N(9).
+
+Author information: 
+(1)Department of Microbiology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore.
+(2)Department of Medicine, National University Hospital, Singapore.
+(3)Department of Otolaryngology - Head and Neck Surgery, National University
+Health System, Singapore; Cancer Science Institute, National University of
+Singapore, Singapore.
+(4)Department of Pathophysiology, Vietnam Military Medical University, Vietnam.
+(5)Department of Pathology, National University Health System and National
+University of Singapore, Singapore.
+(6)Department of Haematology-Oncology, National University Cancer Institute,
+National University Health System, Singapore.
+(7)Cancer Science Institute, National University of Singapore, Singapore;
+Department of Haematology-Oncology, National University Cancer Institute,
+National University Health System, Singapore; Department of Medicine, Yong Loo
+Lin School of Medicine, National University of Singapore, Singapore.
+(8)Department of Microbiology, Yokohama City University School of Medicine,
+Yokohama, Japan.
+(9)Department of Microbiology, Yong Loo Lin School of Medicine, National
+University of Singapore, Singapore. Electronic address: micny@nus.edu.sg.
+
+Through combining vaccine-derived measles and mumps viruses (MM), we efficiently 
+targeted a wide range of hematopoietic cancer cell lines. MM synergistically
+killed many cell lines including acute myeloid leukemia (AML) cell lines. Further
+investigation suggested that enhanced oncolytic effect of MM was due to increased
+apoptosis induction. In an U937 xenograft AML mouse model, MM displayed greater
+tumor suppression and prolonged survival. Furthermore, MM efficiently killed
+blasts from 16 out of 20 AML patients and elicited more efficient killing effect 
+on 11 patients when co-administered with Ara-C. Our results demonstrate that MM
+is a promising therapeutic candidate for hematological malignancies.
+
+Copyright © 2014 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.canlet.2014.08.034 
+PMID: 25193462  [Indexed for MEDLINE]

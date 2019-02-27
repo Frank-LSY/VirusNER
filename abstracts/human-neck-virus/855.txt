@@ -1,0 +1,30 @@
+
+Conflict of interest statement: The authors of this article and the planning
+committee members and staff have no relevant financial relationships with
+commercial interests to disclose.
+
+
+855. Immunotherapy. 2013 Jan;5(1):49-61. doi: 10.2217/imt.12.135.
+
+Immunotherapy for head and neck cancer patients: shifting the balance.
+
+Turksma AW(1), Braakhuis BJ, Bloemena E, Meijer CJ, Leemans CR, Hooijberg E.
+
+Author information: 
+(1)VU University Medical Center - Cancer Center Amsterdam, Department of
+Pathology 2.26, de Boelelaan 1117, NL-1081 HV Amsterdam, The Netherlands.
+
+Head and neck squamous cell carcinoma is the sixth most common cancer in the
+western world. Over the last few decades little improvement has been made to
+increase the relatively low 5-year survival rate. This calls for novel and
+improved therapies. Here, we describe opportunities in immunotherapy for head and
+neck cancer patients and hurdles yet to be overcome. Viruses are involved in a
+subset of head and neck squamous cell carcinoma cases. The incidence of
+HPV-related head and neck cancer is increasing and is a distinctly different
+disease from other head and neck carcinomas. Virus-induced tumors express viral
+antigens that are good targets for immunotherapeutic treatment options. The type 
+of immunotherapeutic treatment, either active or passive, should be selected
+depending on the HPV status of the tumor and the immune status of the patient.
+
+DOI: 10.2217/imt.12.135 
+PMID: 23256798  [Indexed for MEDLINE]

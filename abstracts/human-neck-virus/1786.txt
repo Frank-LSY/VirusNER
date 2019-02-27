@@ -1,0 +1,46 @@
+
+
+1786. Oncologist. 2012;17(3):436-45. doi: 10.1634/theoncologist.2011-0342. Epub 2012
+Feb 21.
+
+A prospective study of the factors shaping antibody responses to the
+AS03-adjuvanted influenza A/H1N1 vaccine in cancer outpatients.
+
+Hottinger AF(1), George AC, Bel M, Favet L, Combescure C, Meier S, Grillet S,
+Posfay-Barbe K, Kaiser L, Siegrist CA, Dietrich PY; H1N1 Study Group.
+
+Collaborators: Siegrist CA, Posfay-Barbe K, Meier S, Sealy G, Charvat S, Verdon
+M, Hirschel B, Guerne PA, Seebach J, Dietrich PY, George AC, Hottinger AF, van
+Delden C, Morard I, Hadaya K, Martin PY, Berney T, Noble S, Nagy M, Roosnek E,
+Kaiser L, Thomas Y, Wunderli W.
+
+Author information: 
+(1)Center of Oncology, Geneva University Hospitals, 4 Rue Gabrielle
+Perret-Gentil, 1211 Geneva 4, Switzerland.
+
+PURPOSE: To identify the determinants of antibody responses to adjuvanted
+influenza A/H1N1/09 vaccines in a cohort of cancer outpatients.
+PATIENTS AND METHODS: Patients with cancer and controls were enrolled in a
+prospective single-center field study. Two doses of AS03-adjuvanted pandemic
+influenza vaccine were administered to patients and one dose was administered to 
+controls. Antibody responses were measured using hemagglutination inhibition and 
+confirmed by microneutralization. Geometric mean titers (GMTs) and seroprotection
+rates (defined as GMTs ≥40) were compared.
+RESULTS: Immunizations were safe and well tolerated in 197 cancer patients
+(lymphoma, 57; glioma, 26; lung or head and neck, 37; gastrointestinal, 41;
+breast, 36) and 138 controls. Similar seroprotection rates (82.3% versus 87%) and
+GMTs (336.9 versus 329.9) were achieved after two doses of adjuvanted vaccine in 
+cancer patients and one dose in controls. Univariate analyses identified older
+age, prior immunization against seasonal influenza, lymphoma, CD4 count, active
+chemotherapy, and rituximab and steroid treatments as being associated with
+weaker antibody responses. However, only age and chemotherapy plus rituximab
+remained independent determinants of vaccine responses in multivariate analyses.
+CONCLUSIONS: Two doses of AS03-adjuvanted influenza vaccine elicited potent
+antibody responses in most cancer patients despite ongoing chemotherapy, with the
+exception of rituximab-induced B-cell depletion. Oncology patients treated in an 
+outpatient setting benefit from preventive vaccination against influenza with
+adjuvanted vaccines.
+
+DOI: 10.1634/theoncologist.2011-0342 
+PMCID: PMC3316930
+PMID: 22357731  [Indexed for MEDLINE]

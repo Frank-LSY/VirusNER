@@ -1,0 +1,54 @@
+
+
+1917. Clin Cancer Res. 2014 Aug 15;20(16):4289-301. doi: 10.1158/1078-0432.CCR-14-0677.
+Epub 2014 Jun 18.
+
+Intraperitoneal oxidative stress in rabbits with papillomavirus-associated head
+and neck cancer induces tumoricidal immune response that is adoptively
+transferable.
+
+Rossmann A(1), Mandic R(2), Heinis J(3), Höffken H(3), Küssner O(3), Kinscherf
+R(4), Weihe E(5), Bette M(6).
+
+Author information: 
+(1)Departments of Molecular Neuroscience and Otorhinolaryngology, Head and Neck
+Surgery and.
+(2)Otorhinolaryngology, Head and Neck Surgery and.
+(3)Nuclear Medicine, University Hospital Giessen and Marburg, Campus Marburg,
+Marburg, Germany.
+(4)Medical Cell Biology, Institute of Anatomy and Cell Biology, Philipps
+University; Departments of.
+(5)Departments of Molecular Neuroscience and.
+(6)Departments of Molecular Neuroscience and bette@staff.uni-marburg.de.
+
+PURPOSE: How tumors evade or suppress immune surveillance is a key question in
+cancer research, and overcoming immune escape is a major goal for lengthening
+remission after cancer treatment. Here, we used the papillomavirus-associated
+rabbit auricular VX2 carcinoma, a model for studying human head and neck cancer, 
+to reveal the mechanisms underlying the antitumorigenic effects of
+intraperitoneal oxidative stress following O3/O2-pneumoperitoneum (O3/O2-PP)
+treatment.
+EXPERIMENTAL DESIGN: Solid auricular VX2 tumors were induced in immune-competent 
+adult New Zealand White Rabbits. Animals were O3/O2-PP- or sham-treated, after
+which they underwent tumor ablation upon reaching no-go criteria. CD3(+)
+tumor-infiltrating lymphocytes (TIL) were evaluated by immunohistochemistry, and 
+expression levels of 84 immune response genes were measured by quantitative
+real-time PCR. Adoptive transfer of peripheral blood leukocytes (PBL)-derived
+from animals with tumor regression-into control animals with progressing tumors
+was implemented to assess acquired tumor resistance functionally.
+RESULTS: Auricular VX2 tumors regressing after O3/O2-PP treatment exhibited
+increased levels of CD3(+) TILs; they also exhibited enhanced expression of genes
+that encode receptors involved in pattern recognition, molecules that are
+required for antigen presentation and T cell activation, and inflammatory
+mediators. Adoptive cell transfer of PBLs from donor rabbits with regressing
+tumors to recipient rabbits with newly implanted VX2 carcinoma resulted in
+acquired tumor resistance of the host and tumor regression.
+CONCLUSION: Intraperitoneal oxidative stress effectively converts the immune
+response against the papillomavirus-associated rabbit VX2 carcinoma from tumor
+permissive to tumoricidal and leads to a sustainable, adoptively transferable
+oncolytic immune response.
+
+©2014 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-14-0677 
+PMID: 24944316  [Indexed for MEDLINE]

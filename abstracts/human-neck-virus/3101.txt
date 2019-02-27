@@ -1,0 +1,55 @@
+
+
+3101. J Acquir Immune Defic Syndr. 2018 Mar 1;77(3):288-294. doi:
+10.1097/QAI.0000000000001591.
+
+Bone Mineral Density Declines Twice as Quickly Among HIV-Infected Women Compared 
+With Men.
+
+Erlandson KM(1), Lake JE(2), Sim M(3), Falutz J(4), Prado CM(5), Domingues da
+Silva AR(6), Brown TT(7), Guaraldi G(8).
+
+Author information: 
+(1)Division of Infectious Diseases and Geriatric Medicine, Department of
+Medicine, University of Colorado, Aurora, CO.
+(2)Division of Infectious Diseases, University of Texas Health Sciences Center,
+Houston, TX.
+(3)Department of Medicine, Statistics Core, University of California Los Angeles,
+Los Angeles, CA.
+(4)Division of Geriatrics, McGill University, Montreal, Canada.
+(5)Department of Agricultural, Food, and Nutritional Sciences, University of
+Alberta, Edmonton, Canada.
+(6)Department of Infectious Diseases, Hospital Beatriz Ângelo, Loures, Portugal.
+(7)Division of Endocrinology, Diabetes, and Metabolism, Department of Medicine,
+Johns Hopkins University, Baltimore, MD.
+(8)Department of Medical and Surgical Sciences, University of Modena and Reggio
+Emilia, Modena, Italy.
+
+BACKGROUND: Initial declines in bone mineral density (BMD) after antiretroviral
+therapy initiation in HIV are well described, but data on long-term changes and
+risk factors for decline, particularly among women, are limited.
+METHODS: HIV-infected men and women in the Modena Metabolic Clinic underwent
+dual-energy X-ray absorptiometry (DXA) scans every 6-12 months for up to 10 years
+(median 4.6 years). Mixed effect regression models in combined and sex-stratified
+models determined annual rates of decline and clinical factors associated with
+BMD. Models included demographics, HIV-specific factors, and bone-specific
+factors; a final model added a sex × time interaction term.
+RESULTS: A total of 839 women and 1759 men contributed ≥2 DXA scans. The majority
+(82%) were 50 years and younger; 76% had HIV-1 RNA <50 copies per milliliter at
+baseline; 15% of women were postmenopausal and 7% of men had hypogonadism; and
+30% and 27%, respectively, had hepatitis C virus (HCV) coinfection. The adjusted 
+slopes in BMD among women and men were significantly different at both the
+femoral neck (women -0.00897 versus men -0.00422 g/cm per year; P < 0.001) and
+L-spine (women -0.0127 versus men -0.00763 g/cm per year; P < 0.001). Modifiable 
+risks associated with BMD decline included antiretroviral therapy exposure
+(greater decline with tenofovir disoproxil fumarate and less decline with
+integrase strand transfer inhibitor therapy), HCV, physical activity, and vitamin
+D insufficiency.
+CONCLUSIONS: Among HIV-infected individuals, bone density at the femoral neck, a 
+significant predictor of fracture risk, declined twice as quickly among women
+compared with men. Female sex was independently associated with both lower
+femoral neck and lumbar BMD over time in adjusted models.
+
+DOI: 10.1097/QAI.0000000000001591 
+PMCID: PMC5807215 [Available on 2019-03-01]
+PMID: 29140875  [Indexed for MEDLINE]

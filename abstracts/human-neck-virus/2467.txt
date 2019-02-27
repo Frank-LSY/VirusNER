@@ -1,0 +1,56 @@
+
+
+2467. Zhonghua Bing Li Xue Za Zhi. 2018 Sep 8;47(9):682-686. doi:
+10.3760/cma.j.issn.0529-5807.2018.09.006.
+
+[Significance of HPV and cell cycle related proteins in basaloid squamous cell
+carcinoma of the larynx].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Cui LF(1), Chang H, Zhao HY, Qu CL, Gao Y, Liu HG.
+
+Author information: 
+(1)Department of Pathology, Beijing Shijitan Hospital, Capital Medical
+University, Beijing 100038, China.
+
+Objective: To study the significance of HPV and cell cycle related proteins in
+basaloid squamous cell carcinoma (BSCC) of the larynx. Methods: Twenty-nine cases
+of laryngeal BSCC from Beijing Tongren Hospital from January 2005 to December
+2011 were reviewed. HPV typing by polymerase chain reaction-reverse dot blot
+(PCR-RDB) and p53, Ki-67, p16, p21 and cyclin D1 expression by
+immunohistochemistry were performed. The relationship between these indicators,
+various pathologic parameters (TNM, tumor size, tumor site and lymph node
+metastasis) and HPV status was analyzed. Results: There were 27 male and 2 female
+patients. The median age was 62 years. Lymph node metastasis and supraglottic
+tumor location were slightly higher than that of "usual" SCC, but not
+statistically significant (P>0.05). HPV DNA was detected in 27.6% (8/29) of the
+laryngeal BSCC, and all were HPV16. The expression of HPV was not related to age,
+alcohol consumption, tumor stage and tumor size. p53 was expressed in 31.0%(9/29)
+of laryngeal BSCC, and these cases were more likely supraglottic and had lymph
+node metastases (P<0.05). p16 staining was seen in 24.1% (7/29) of laryngeal
+BSCC, and these cases showed slightly higher rate of lymph node metastasis
+compared to p16 negative cases. The expression rates of p21 and cyclinD1 were
+27.6% (8/29) and 69.0%(20/29), respectively, which were not related to age, tumor
+size, stage, lymph node metastasis, smoking and drinking. There were only 3 p16+ 
+/HPV+ cases, which showed higher p21 and Ki-67 index compared to the HPV negative
+group (P<0.05). Conclusion: Some laryngeal BSCC expresses HPV DNA, possibly
+indicating an association with HPV; but p16 expression is not a reliable
+indicator for HPV infection.
+
+Publisher: 目的： 研究喉基底样鳞状细胞癌(basaloid squamous cell carcinoma,
+BSCC)中人乳头状瘤病毒(HPV)及细胞周期相关蛋白的表达及意义。 方法：
+收集北京同仁医院2005年1月至2011年12月332例喉鳞状细胞癌(SCC)病理资料，包括303例普通型SCC及29例喉BSCC，回顾性分析其中29例喉BSCC
+(8.7%)临床病理学特点，采用聚合酶链反应(PCR)反向点杂交方法检测HPV
+DNA，免疫组织化学SP法染色观察细胞周期相关蛋白p53、Ki-67、p16、p21、cyclin
+D1的表达，比较分析以上指标与肿瘤大小、分期、部位、淋巴结转移等主要病理学特点的关系，初步探讨HPV与细胞周期相关蛋白之间的相关性。 结果：
+(1)29例喉BSCC男性27例，女性2例，年龄46～82岁(中位年龄62岁)，与普通型SCC相比，发病年龄、淋巴结转移个数、淋巴结转移率及声门上肿瘤的发生率略高
+，但差异无统计学意义(P>0.05)。(2)喉BSCC中27.6%(8/29)检测到HPV
+DNA，且均为HPV16，HPV的表达与年龄、是否饮酒及分期、肿瘤大小等无关(P>0.05)。(3)31.0%(9/29)的喉BSCC表达p53，且p53阳性病例
+更容易发生于声门上并伴有淋巴结转移(P<0.05)。p16的阳性表达率为24.1%(7/29)，其淋巴结转移率略高于p16阴性病例，p21、cyclin
+D1的表达率分别为27.6%(8/29)和69.0%
+(20/29)，与年龄、肿瘤大小、分期、淋巴结转移、是否吸烟、饮酒等均无相关性(P>0.05)。(4)8例HPV阳性的BSCC只有3例p16阳性，HPV阳性组p2
+1及Ki-67阳性指数比HPV阴性组增高(P<0.05)。 结论： 部分喉BSCC表达HPV，个别病例可能为HPV相关性喉BSCC，p16表达并不是喉BSCC
+HPV感染的可靠替代性指标。.
+DOI: 10.3760/cma.j.issn.0529-5807.2018.09.006 
+PMID: 30220121  [Indexed for MEDLINE]

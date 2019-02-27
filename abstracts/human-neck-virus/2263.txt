@@ -1,0 +1,45 @@
+
+
+2263. Cancer. 2017 Oct 15;123(20):4013-4021. doi: 10.1002/cncr.30828. Epub 2017 Jun 13.
+
+Elevated risk of human papillomavirus-related second cancers in survivors of anal
+canal cancer.
+
+Nelson RA(1), Lai LL(2).
+
+Author information: 
+(1)Department of Information Sciences, City of Hope, Duarte, California.
+(2)Department of Surgery, City of Hope, Duarte, California.
+
+BACKGROUND: Over the last decade, the causal link between human papillomavirus
+(HPV) infection and squamous cell carcinoma of the anus (SCCA) has been well
+described. Because HPV infection in one site is often associated with other sites
+of infection, it then follows that patients with SCCA may have an increased risk 
+of additional HPV-related cancers. Identifying and targeting at-risk sites
+through cancer screening and surveillance may help to guide best practices. The
+current study sought to ascertain sites and risk of HPV-related second primary
+malignancies (SPMs) in survivors of SCCA.
+METHODS: Using population-based data from 1992 through 2012, the authors
+identified patients with SCCA and determined their risk of HPV-related SPMs,
+including anal, oral, and genital cancers. Standardized incidence ratios (SIRs), 
+defined as observed to expected cases, were calculated to determine excess risk.
+RESULTS: Of 10,537 patients with SCCA, 416 developed HPV-related SPMs, which
+corresponded to an overall SIR of 21.5 (99% confidence interval [99% CI],
+19.0-24.2). Men were found to have a higher SIR (35.8; 99% CI, 30.7-41.6)
+compared with women (12.8; 99% CI, 10.4-15.5). SIRs for a second SCCA were
+markedly higher in men (127.5; 99% CI, 108.1-149.2) compared with women (47.0;
+99% CI, 34.7-62.1), whereas SIRs for oral cavity and pharyngeal cancers were
+elevated in men (3.1; 99% CI, 1.5-5.7) and women (4.4; 99% CI, 1.5-9.7). SIRs for
+sex-specific sites also were elevated, with male genital cancers having an SIR of
+19.6 (99% CI, 8.7-37.6) and female genital cancers an SIR of 8.3 (99% CI,
+6.1-11.0).
+CONCLUSIONS: Patients with index SCCA are at an increased risk of subsequent
+HPV-related SPMs. The elevated risk is most striking in patients with second
+primary SCCAs; however, the risk of second cancers also appears to be increased
+in other HPV-related sites. Cancer 2017;123:4013-21. © 2017 American Cancer
+Society.
+
+© 2017 American Cancer Society.
+
+DOI: 10.1002/cncr.30828 
+PMID: 28608917  [Indexed for MEDLINE]

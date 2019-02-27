@@ -1,0 +1,48 @@
+
+
+1826. Clin Cancer Res. 2012 Apr 1;18(7):2080-9. doi: 10.1158/1078-0432.CCR-11-2181.
+Epub 2012 Feb 7.
+
+Phase I/II trial of carboplatin and paclitaxel chemotherapy in combination with
+intravenous oncolytic reovirus in patients with advanced malignancies.
+
+Karapanagiotou EM(1), Roulstone V, Twigger K, Ball M, Tanay M, Nutting C, Newbold
+K, Gore ME, Larkin J, Syrigos KN, Coffey M, Thompson B, Mettinger K, Vile RG,
+Pandha HS, Hall GD, Melcher AA, Chester J, Harrington KJ.
+
+Author information: 
+(1)The Institute of Cancer Research, Chester Beatty Laboratories, The Institute
+of Cancer Research, 237 Fulham Road, London SW3 6JB, United Kingdom.
+
+PURPOSE: Reovirus type 3 Dearing (RT3D) replicates preferentially in
+Ras-activated cancers. RT3D shows synergistic in vitro cytotoxicity in
+combination with platins and taxanes. The purpose of this phase I/II study was to
+assess RT3D combined with carboplatin/paclitaxel in patients with advanced
+cancers.
+EXPERIMENTAL DESIGN: Patients were initially treated in a dose-escalating, phase 
+I trial with intravenous RT3D days 1 to 5, carboplatin [area under curve (AUC) 5,
+day 1] and paclitaxel (175 mg/m(2), day 1) 3-weekly. RT3D was escalated through
+three dose levels: 3 × 10(9), 1 × 10(10), and 3 × 10(10) TCID(50) in cohorts of
+three. Primary endpoints were to define the maximum tolerated dose and
+dose-limiting toxicity and to recommend a dose for phase II studies. Secondary
+endpoints included pharmacokinetics, immune response, and antitumor activity. A
+subsequent phase II study using the 3 × 10(10) TCID(50) dose characterized the
+response rate in patients with head and neck cancer.
+RESULTS: Thirty-one heavily pretreated patients received study therapy. There
+were no dose-limiting toxicities during dose-escalation and most toxicities were 
+grade I/II. Overall effectiveness rates were as follows: one patient had a
+complete response (3.8%), six patients (23.1%) had partial response, two patients
+(7.6%) had major clinical responses clinically evaluated in radiation pretreated 
+lesions which are not evaluable by Response Evaluation Criteria in Solid Tumors
+(RECIST), nine patients (34.6%) had stable disease, and eight patients (30.8%)
+had disease progression. Viral shedding was minimal and antiviral immune
+responses were attenuated compared with previous single-agent data for RT3D.
+CONCLUSIONS: The combination of RT3D plus carboplatin/paclitaxel is well
+tolerated with evidence of activity in cancer of the head and neck. A randomized 
+phase III study is currently open for recruitment.
+
+©2012 AACR.
+
+DOI: 10.1158/1078-0432.CCR-11-2181 
+PMCID: PMC5553618
+PMID: 22316603  [Indexed for MEDLINE]

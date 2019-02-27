@@ -1,0 +1,45 @@
+
+
+1946. Am J Surg Pathol. 2013 Feb;37(2):185-92. doi: 10.1097/PAS.0b013e3182698673.
+
+Human papillomavirus-related carcinomas of the sinonasal tract.
+
+Bishop JA(1), Guo TW, Smith DF, Wang H, Ogawa T, Pai SI, Westra WH.
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore, MD
+21231, USA. jbishop@jhmi.edu
+
+High-risk human papillomavirus (HPV) is an established cause of head and neck
+carcinomas arising in the oropharynx. The presence of HPV has also been reported 
+in some carcinomas arising in the sinonasal tract, but little is known about
+their overall incidence or their clinicopathologic profile. The surgical
+pathology archives of The Johns Hopkins Hospital were searched for all carcinomas
+arising in the sinonasal tract from 1995 to 2011, and tissue microarrays were
+constructed. p16 immunohistochemical analysis and DNA in situ hybridization for
+high-risk types of HPV were performed. Demographic and clinical outcome data were
+extracted from patient medical records. Of 161 sinonasal carcinomas, 34 (21%)
+were positive for high-risk HPV DNA, including type 16 (82%), type 31/33 (12%),
+and type 18 (6%). HPV-positive carcinomas consisted of 28 squamous cell
+carcinomas and variants (15 nonkeratinizing or partially keratinizing, 4
+papillary, 5 adenosquamous, 4 basaloid), 1 small cell carcinoma, 1 sinonasal
+undifferentiated carcinoma, and 4 carcinomas that were difficult to classify but 
+exhibited adenoid cystic carcinoma-like features. Immunohistochemistry for p16
+was positive in 59/161 (37%) cases, and p16 expression strongly correlated with
+the presence of HPV DNA: 33 of 34 (97%) HPV-positive tumors exhibited high p16
+expression, whereas only 26 of 127 (20%) HPV-negative tumors were p16 positive
+(P<0.0001). The HPV-related carcinomas occurred in 19 men and 15 women ranging in
+age from 33 to 87 years (mean, 54 y). A trend toward improved survival was
+observed in the HPV-positive group (hazard ratio=0.58, 95% confidence interval
+[0.26, 1.28]). The presence of high-risk HPV in 21% of sinonasal carcinomas
+confirms HPV as an important oncologic agent of carcinomas arising in the
+sinonasal tract. Although nonkeratinizing squamous cell carcinoma is the most
+common histologic type, there is a wide morphologic spectrum of HPV-related
+disease that includes a variant that resembles adenoid cystic carcinoma. The
+distinctiveness of these HPV-related carcinomas of the sinonasal tract with
+respect to risk factors, clinical behavior, and response to therapy remains to be
+clarified.
+
+DOI: 10.1097/PAS.0b013e3182698673 
+PMCID: PMC3545097
+PMID: 23095507  [Indexed for MEDLINE]

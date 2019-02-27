@@ -1,0 +1,32 @@
+
+
+2399. Head Neck. 2017 Dec;39(12):2494-2500. doi: 10.1002/hed.24921. Epub 2017 Sep 30.
+
+Surrogate for oropharyngeal cancer HPV status in cancer database studies.
+
+Megwalu UC(1), Chen MM(1), Ma Y(1), Divi V(1).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Stanford University
+School of Medicine, Stanford, California.
+
+BACKGROUND: The utility of cancer databases for oropharyngeal cancer studies is
+limited by lack of information on human papillomavirus (HPV) status. The purpose 
+of this study was to develop a surrogate that can be used to adjust for the
+effect of HPV status on survival.
+METHODS: The study cohort included 6419 patients diagnosed with oropharyngeal
+squamous cell carcinoma between 2004 and 2012, identified in the National Cancer 
+Database (NCDB). The HPV surrogate score was developed using a logistic
+regression model predicting HPV-positive status.
+RESULTS: The HPV surrogate score was predictive of HPV status (area under the
+curve [AUC] 0.73; accuracy of 70.4%). Similar to HPV-positive tumors, HPV
+surrogate positive tumors were associated with improved overall survival (OS;
+hazard ratio [HR] 0.73; 95% confidence interval [CI] 0.59-0.91; P = .005), after 
+adjusting for important covariates.
+CONCLUSION: The HPV surrogate score is useful for adjusting for the effect of HPV
+status on survival in studies utilizing cancer databases.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24921 
+PMID: 28963794  [Indexed for MEDLINE]

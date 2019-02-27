@@ -1,0 +1,43 @@
+
+
+1280. Hum Gene Ther. 2017 Aug;28(8):690-700. doi: 10.1089/hum.2017.041. Epub 2017 May
+19.
+
+An Oncolytic Adenovirus Expressing SNORD44 and GAS5 Exhibits Antitumor Effect in 
+Colorectal Cancer Cells.
+
+Yuan S(1), Wu Y(1), Wang Y(2), Chen J(3), Chu L(1).
+
+Author information: 
+(1)1 Hepatic Surgery Center, Tongji Hospital, Tongji Medical College, Huazhong
+University of Science and Technology , Wuhan, China .
+(2)2 Xinyuan Institute of Medicine and Biotechnology, School of Life Sciences,
+Zhejiang Sci-Tech University , Hangzhou, China .
+(3)3 State Key Laboratory of Oncogenes and Related Genes, Shanghai Cancer
+Institute, Renji Hospital, School of Medicine, Shanghai Jiao Tong University ,
+Shanghai, China .
+
+SNORD44 is a C/D box small nucleolar RNA, and exhibits low expression in breast
+cancer and head and neck squamous cell carcinoma tissues. Its host gene is growth
+arrest specific transcript 5 (GAS5), which is a long noncoding RNA. GAS5 is
+downregulated in colorectal cancer (CRC), and overexpression of GAS5 suppresses
+cell proliferation. However, the function of SNORD44 in CRC remains largely
+unknown, and the application of SNORD44 combined with GAS5 in CRC treatment has
+not been reported. In this study, the expression levels of SNORD44 and GAS5 were 
+measured in CRC tissues by quantitative RT-PCR. The correlation between SNORD44
+and GAS5 was evaluated by Pearson correlation analysis. An oncolytic adenovirus
+expressing SNORD44 and GAS5 (SPDD-UG) was constructed. The biological effects of 
+SPDD-UG were investigated in CRC cell line SW620 and LS174T in vitro and in
+xenografts. The synergistic effect of rapamycin and SPDD-UG was explored in SW620
+and LS174T cells and tumors. We demonstrated that SNORD44 expression level was
+markedly decreased in CRC tissues and positively correlated with GAS5 expression.
+SPDD-UG significantly inhibited SW620 and LS174T cell growth and induced cell
+apoptosis. Intratumoral injection of SPDD-UG significantly suppressed xenografts 
+growth in nude mice. Moreover, the mechanistic target of rapamycin (mTOR)
+inhibitor, rapamycin, enhanced the antitumor effect through antagonizing the
+PI3K/Akt pathway activated by SPDD-UG. These results suggest that overexpression 
+of SNORD44 and GAS5 by oncolytic adenovirus provides a promising method for CRC
+therapy.
+
+DOI: 10.1089/hum.2017.041 
+PMID: 28530127  [Indexed for MEDLINE]

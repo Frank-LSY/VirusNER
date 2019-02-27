@@ -1,0 +1,34 @@
+
+
+1275. Curr Gene Ther. 2012 Dec;12(6):444-53.
+
+Induction of apoptosis and sensitization of head and neck squamous carcinoma
+cells to cisplatin by targeting survivin gene expression.
+
+Khan Z(1), Tiwari RP, Khan N, Prasad GB, Bisen PS.
+
+Author information: 
+(1)School of Studies in Biotechnology, Jiwaji University, Gwalior 474011, India. 
+zakirq.khan@gmail.com
+
+Survivin is known to be highly-expressed in various carcinomas; and is associated
+with their biologically aggressive characteristics and drug resistance. We have
+previously reported survivin as an important anti-apototic protein involved in
+head and neck squamous cell carcinoma (HNSCC) tumorigenesis and providing
+resistance to conventional cancer therapies. The purpose of present study was to 
+investigate the potential of survivin as a therapeutic target in HNSCC. This
+study was designed to explore the effect(s) of survivin-siRNA therapy on the
+apoptosis in HNSCC cells, and its influence on cisplatin-sensitivity. Lentivirus 
+vector was developed to deliver survivin specific siRNA into cancer cells. The
+data indicates that silencing of survivin-mediated by Lentivirus-siRNA therapy
+effectively suppressed cancer cell proliferation and induced caspase-dependent
+apoptosis in HNSCC cells. The study also shows that the response of HNSCC cells
+to cisplatin drug treatment at clinically relevant level was limited. We observed
+survivin to be a key factor involved in this cisplatin-resistance mechanism, and 
+down-regulation of survivin significantly increased sensitivity of cancer cells
+to cisplatin-mediated apoptosis. Thus, this combination therapy acts as a
+multimodality regimen with significant potential to improve clinical outcomes in 
+head and neck cancers.
+
+
+PMID: 22974420  [Indexed for MEDLINE]

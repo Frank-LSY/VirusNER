@@ -1,0 +1,50 @@
+
+
+1462. Otolaryngol Head Neck Surg. 2014 Oct;151(4):606-11. doi:
+10.1177/0194599814542939. Epub 2014 Jul 21.
+
+Transoral robotic versus open surgical approaches to oropharyngeal squamous cell 
+carcinoma by human papillomavirus status.
+
+Ford SE(1), Brandwein-Gensler M(2), Carroll WR(3), Rosenthal EL(3), Magnuson
+JS(4).
+
+Author information: 
+(1)University of Alabama School of Medicine, Birmingham, Alabama, USA.
+(2)Department of Surgical Pathology, University of Alabama at Birmingham,
+Birmingham, Alabama, USA.
+(3)Department of Surgery, Division of Otolaryngology-Head and Neck Surgery,
+University of Alabama at Birmingham, Birmingham, Alabama, USA.
+(4)Head and Neck Surgery Center of Florida, Florida Hospital Celebration Health, 
+Celebration, Florida, USA scott.magnuson@flhospital.org.
+
+OBJECTIVES: (1) Investigate oncologic survival outcomes and (2) analyze the
+impact of human papillomavirus status on prognosis in patients with oropharyngeal
+squamous cell carcinoma treated with transoral robotic versus open surgery.
+STUDY DESIGN: Retrospective cohort study.
+SETTING: Tertiary care referral center, University of Alabama at Birmingham
+Hospital.
+SUBJECTS: One hundred thirty total (65 per treatment arm) with primary
+oropharyngeal squamous cell carcinoma (OPSCC).
+METHODS: Patients treated for primary oropharyngeal squamous cell carcinoma with 
+either transoral robotic (TORS) or open surgery plus standard of care adjuvant
+therapy between October 2004 and March 2012 were matched based on TNM staging
+before a retrospective chart review was performed. Carcinoma tissue was stained
+both prospectively and retrospectively with CINtec p16-INK4a kits for surrogate
+human papillomavirus typing. Recurrence-free survival was used to evaluate the
+impact of human papillomavirus tumor status and method of surgical intervention
+on prognosis.
+RESULTS: As a whole, patients treated with transoral robotic surgery survived
+more frequently (94%, 91%, 89% at 1, 2, 3 years, respectively) than those treated
+with open surgery (85%, 75%, 73% at 1, 2, 3 years, correspondingly) (P = .035).
+The subgroup of patients with human papillomavirus-negative malignancies treated 
+with open surgery survived without recurrence less frequently at 1, 2, and 3 year
+rates of 58%, 25%, 25%, respectively (P < .01).
+CONCLUSION: These retrospective data suggest that oncologic outcomes are not
+being sacrificed when patients with OPSCC are treated with TORS instead of open
+surgery regardless of tumor human papillomavirus immunohistochemical staining.
+
+© American Academy of Otolaryngology—Head and Neck Surgery Foundation 2014.
+
+DOI: 10.1177/0194599814542939 
+PMID: 25049265  [Indexed for MEDLINE]

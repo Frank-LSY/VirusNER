@@ -1,0 +1,80 @@
+
+
+386. J Clin Virol. 2014 Oct;61(2):230-6. doi: 10.1016/j.jcv.2014.07.007. Epub 2014 Jul
+22.
+
+Human papillomavirus 16/18 E7 viral loads predict distant metastasis in oral
+cavity squamous cell carcinoma.
+
+Huang CG(1), Lee LA(2), Tsao KC(3), Liao CT(4), Yang LY(5), Kang CJ(2), Chang
+KP(2), Huang SF(2), Chen IH(2), Yang SL(3), Lee LY(6), Hsueh C(6), Chen TC(6),
+Lin CY(7), Fan KH(7), Chang TC(7), Wang HM(8), Ng SH(9), Yen TC(10).
+
+Author information: 
+(1)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; Department of Laboratory Medicine, Chang Gung Memorial Hospital, Taoyuan,
+Taiwan, ROC; Department of Medical Biotechnology and Laboratory Science, Graduate
+Institute of Biomedical Sciences, College of Medicine, Chang Gung University,
+Taoyuan, Taiwan, ROC.
+(2)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Otorhinolaryngology-Head and Neck Surgery, Chang Gung
+Memorial Hospital, Taoyuan, Taiwan, ROC.
+(3)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; Department of Laboratory Medicine, Chang Gung Memorial Hospital, Taoyuan,
+Taiwan, ROC.
+(4)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Otorhinolaryngology-Head and Neck Surgery, Chang Gung
+Memorial Hospital, Taoyuan, Taiwan, ROC. Electronic address: liaoct@cgmh.org.tw.
+(5)Departments of Biostatistics and Informatics Unit, Chang Gung Memorial
+Hospital, Taoyuan, Taiwan, ROC.
+(6)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Clinical Trial Center, Chang Gung Memorial Hospital, 
+Taoyuan, Taiwan, ROC.
+(7)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Radiation Oncology, Chang Gung Memorial Hospital,
+Taoyuan, Taiwan, ROC.
+(8)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Medical Oncology, Chang Gung Memorial Hospital,
+Taoyuan, Taiwan, ROC.
+(9)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan,
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Diagnostic Radiology, Chang Gung Memorial Hospital,
+Taoyuan, Taiwan, ROC.
+(10)Head and Neck Oncology Group, Chang Gung Memorial Hospital, Taoyuan, Taiwan, 
+ROC; School of Medicine, College of Medicine, Chang Gung University, Taoyuan,
+Taiwan, ROC; Departments of Nuclear Medicine and Molecular Imaging Center, Chang 
+Gung Memorial Hospital, Taoyuan, Taiwan, ROC. Electronic address:
+yen1110@cgmh.org.tw.
+
+BACKGROUND: Human papillomaviruses (HPV) seem to be related to distant metastasis
+(DM) in advanced oral cavity squamous cell carcinoma (OSCC) patients.
+OBJECTIVES: This study aimed to investigate whether high-risk HPV viral load may 
+predict DM among OSCC patients and stratify patients for risk-adapted treatment.
+STUDY DESIGN: Viral loads of E7 oncogenes for HPV 16/18 were measured by
+quantitative PCR tests in paraffin-embedded lesional specimens from 312 OSCC of
+which the HPV genotypes had been determined previously. Multivariable Cox
+regression analysis was used to identify the independent prognostic factors for
+5-year DM and C statistics were further computed.
+RESULTS: By multivariable analysis, high HPV 16 E7 viral load (≥15.0
+copies/genome); high HPV 18 E7 viral load (≥15.0 copies/genome); pathological N2 
+status (pN2); tumor depth ≥11 mm; extracapsular spread (ECS); and level IV/V
+metastases were independent risk factors for DM. We further identified three
+prognostic groups. In the high-risk group (level IV/V metastases or high HPV
+16/18 E7 viral load plus pN2, tumor depth ≥11 mm, or ECS), the 5-year distant
+metastasis rate was 74%. In the intermediate-risk group (high HPV 16/18 E7 viral 
+load, pN2, tumor depth ≥11 mm, or ECS), the 5-year DM rate was 17%. Finally, the 
+5-year DM rate was 1% in the low-risk group (no risk factors). The value of the C
+statistics was 0.78.
+CONCLUSIONS: Among OSCC patients, high HPV 16/18 E7 viral load identifies a small
+subgroup of patients at high-risk of 5-year DM and suggest the need for more
+intensive treatments and follow-up strategies.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2014.07.007 
+PMID: 25097016  [Indexed for MEDLINE]

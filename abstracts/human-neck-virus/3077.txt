@@ -1,0 +1,36 @@
+
+
+3077. J Clin Neurosci. 2010 Aug;17(8):1064-6. doi: 10.1016/j.jocn.2009.10.037. Epub
+2010 May 18.
+
+Isolated osteoradionecrosis of the dens mimicking metastasis of nasopharyngeal
+carcinoma after radiotherapy.
+
+Lee JS(1), Huang CM, Yeh IC, Chen HH, Lin JC, Chen HH.
+
+Author information: 
+(1)Division of Neurosurgery, Department of Surgery, National Cheng Kung
+University Hospital, Tainan, Taiwan.
+
+Nasopharyngeal carcinoma (NPC) is common in southern China, and radiotherapy
+remains the mainstay of treatment. A rare late complication of this treatment is 
+the development of osteoradionecrosis (ORN), which seldom involves the cervical
+spine. We describe a 47-year-old female with undifferentiated carcinoma of the
+nasopharynx, stage II (T2N0M0), who had undergone radiotherapy 51 months prior,
+and complained of a twitching headache on neck flexion/extension. Imaging
+studies, including MRI and 18-fluoro-2-deoxyglucose positron emission tomography 
+scan, suggested the diagnosis of cervical spinal metastasis. However, plasma
+Epstein-Barr virus DNA was undetectable, favoring absence of tumor recurrence.
+The patient underwent atlantoaxial sublaminar wiring for an unstable spine and a 
+subsequent transoral biopsy, the histopathologic diagnosis of ORN. The
+postoperative clinical course was uneventful and follow-up MRI, 2 years later,
+revealed gradual resolution of the lesion. To our knowledge this is the first
+report of an isolated ORN lesion of the dens confirmed surgically in a patient
+with a history of previously treated NPC, a lesion at the cervical spine, and
+inconclusive imaging and biological marker results. We recommend that ORN be
+suspected until proven otherwise in a previously irradiated patient.
+
+Copyright 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jocn.2009.10.037 
+PMID: 20483618  [Indexed for MEDLINE]

@@ -1,0 +1,31 @@
+
+
+277. Clin Cancer Res. 2015 Feb 1;21(3):495-7. doi: 10.1158/1078-0432.CCR-14-1776. Epub
+2014 Oct 9.
+
+Novel targets in head and neck cancer: should we be optimistic?
+
+Krigsfeld GS(1), Chung CH(2).
+
+Author information: 
+(1)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+(2)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland. Department of Otolaryngology-Head and Neck Surgery, Johns
+Hopkins University School of Medicine, Baltimore, Maryland. cchung11@jhmi.edu.
+
+Comment on
+    Clin Cancer Res. 2015 Feb 1;21(3):632-41.
+
+Head and neck squamous cell carcinomas have distinct mutation and copy-number
+profiles depending on human papillomavirus status. Although several challenges
+remain in biomarker implementation and clinical trial feasibility, incorporating 
+available genomic data will expedite the development of novel therapeutics and
+predictive biomarker-driven clinical trials. See related article by Seiwert et
+al., p. 632.
+
+©2014 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-14-1776 
+PMCID: PMC4316824
+PMID: 25301846  [Indexed for MEDLINE]

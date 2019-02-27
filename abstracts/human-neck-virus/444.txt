@@ -1,0 +1,32 @@
+
+
+444. Arch Dermatol. 2010 Nov;146(11):1279-82. doi: 10.1001/archdermatol.2010.341.
+
+"Bullfrog neck," a unique morphologic trait in HIV lipodystrophy: case series and
+review of the literature.
+
+Tierney EP(1), Hanke CW.
+
+Author information: 
+(1)Department of Dermatology, Boston University School of Medicine, 609 Albany
+St, Boston, MA 02118, USA. etierney@bu.edu
+
+BACKGROUND: Human immunodeficiency virus (HIV)-associated lipodystrophy is a
+syndrome that occurs primarily in individuals who are being treated with highly
+active antiretroviral therapy (HAART).
+OBSERVATIONS: We describe 3 patients with an 8- to 15-year history of HIV disease
+and HAART who presented a unique feature of HIV lipodystrophy, the "bullfrog
+neck." In addition to their features of facial lipoatrophy and "buffalo hump,"
+patients had the unique feature of circumferential enlargement of the neck. All
+patients were undergoing treatment with the same non-nucleoside
+reverse-transcriptase inhibitor (NRTI) medication, efavirenz.
+CONCLUSIONS: We present a novel finding of the bullfrog neck in 3 patients with
+classic features of HIV lipodystrophy. The dysmorphic features of HIV
+lipodystrophy present a significant therapeutic challenge because the current
+repertoire of treatments is only modestly effective, and the disease in patients 
+who continue HAART regimens over the long term will progress. Review of the
+recent literature suggests that the individual protease inhibitors and NRTIs used
+may play a role in the development and progression of HIV lipodystrophy.
+
+DOI: 10.1001/archdermatol.2010.341 
+PMID: 21079066  [Indexed for MEDLINE]

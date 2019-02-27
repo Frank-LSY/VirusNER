@@ -1,0 +1,42 @@
+
+
+2585. Laryngoscope. 2017 Nov;127(11):2673-2677. doi: 10.1002/lary.26674. Epub 2017 May 
+23.
+
+Obstructive sleep apnea in the irradiated head and neck cancer patient.
+
+Huyett P(1), Kim S(1), Johnson JT(1), Soose RJ(1).
+
+Author information: 
+(1)Department of Otolaryngology, University of Pittsburgh Medical Center,
+Pittsburgh, Pennsylvania, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: To assess the prevalence of obstructive sleep apnea (OSA) 
+in head and neck cancer (HNSCC) patients treated with radiation therapy.
+STUDY DESIGN: Prospective case series without comparison group.
+METHODS: Patients who underwent radiation therapy for oropharyngeal or laryngeal 
+squamous cell carcinoma completed a 3-night home sleep test (HST), Epworth
+Sleepiness Scale, Functional Outcomes of Sleep Questionnaire, and University of
+Washington Quality of Life questionnaire. Exclusion criteria included oncologic
+surgical procedures, active disease, history of tracheotomy, history of OSA, or
+completion of radiation therapy within the last 3 months.
+RESULTS: Sixteen HNSCC patients completed the HST, with 50% (8) demonstrating
+objective evidence of OSA ranging from mild to severe (range 5.6-38.8, median
+13.9). Median age was 61.6 years, with a median body mass index (BMI) of 29.8,
+and 13 of the subjects were male. There were no differences in age, BMI, median
+radiation dose, tumor primary site or stage, human papilloma virus status, or
+comorbidity status between the OSA and non-OSA groups. Self-reported
+questionnaire scores were no different between the two groups. OSA patients had a
+nonsignificant shorter time interval between the completion of radiation and the 
+HST date (1.8 vs. 3.4 years, P = 0.065) and higher rate of gastrostomy tube
+placement during radiation (62.5% vs. 12.5%, P = 0.059).
+CONCLUSION: The results of this preliminary study suggest that the prevalence of 
+OSA is increased in the head and neck irradiated patient when compared to the
+general population. Self-report of sleep symptoms alone may be unreliable to
+determine risk of OSA in the HNSCC population.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 127:2673-2677, 2017.
+
+© 2017 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26674 
+PMID: 28543072  [Indexed for MEDLINE]

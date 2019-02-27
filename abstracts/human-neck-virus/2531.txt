@@ -1,0 +1,56 @@
+
+
+2531. Proc Natl Acad Sci U S A. 2017 Sep 5;114(36):9695-9700. doi:
+10.1073/pnas.1708894114. Epub 2017 Aug 23.
+
+Local gene therapy durably restores vestibular function in a mouse model of Usher
+syndrome type 1G.
+
+Emptoz A(1)(2)(3), Michel V(1)(2)(3), Lelli A(1)(2)(3), Akil O(4), Boutet de
+Monvel J(1)(2)(3), Lahlou G(1)(2)(3), Meyer A(1)(2), Dupont T(1)(2)(3), Nouaille 
+S(1)(2)(3), Ey E(5), Franca de Barros F(6), Beraneck M(6), Dulon D(7), Hardelin
+JP(1)(2)(3), Lustig L(8), Avan P(9), Petit C(10)(2)(3)(11), Safieddine
+S(10)(2)(3).
+
+Author information: 
+(1)INSERM, UMR 1120, Paris, France.
+(2)Génétique et Physiologie de l'Audition, Institut Pasteur, 75015 Paris, France.
+(3)Complexité du Vivant, Sorbonne Universités, Université Pierre-et-Marie-Curie, 
+Université Paris VI, 75015 Paris, France.
+(4)Otolaryngology-Head & Neck Surgery, University of California, San Francisco,
+CA 94117.
+(5)Unité de Génétique Humaine et Fonctions Cognitives, Institut Pasteur, CNRS UMR
+3571, 75015 Paris, France.
+(6)Centre de Neurophysique, Physiologie, et Pathologie, CNRS UMR 8119, Université
+Paris-Descartes, 75006 Paris, France.
+(7)Laboratoire de Neurophysiologie de la Synapse Auditive, Bordeaux Neurocampus, 
+INSERM, UMR 1120, Université de Bordeaux, 33076 Bordeaux, France.
+(8)Columbia University School of Medicine and New York Presbyterian Hospital, New
+York, NY 10034.
+(9)Laboratoire de Biophysique Sensorielle, Faculté de Médecine, Université
+d'Auvergne, Biophysique Médicale, Centre Jean Perrin, 63000 Clermont-Ferrand,
+France.
+(10)INSERM, UMR 1120, Paris, France; christine.petit@pasteur.fr
+saaid.safieddine@pasteur.fr.
+(11)Collège de France, 75005 Paris, France.
+
+Our understanding of the mechanisms underlying inherited forms of inner ear
+deficits has considerably improved during the past 20 y, but we are still far
+from curative treatments. We investigated gene replacement as a strategy for
+restoring inner ear functions in a mouse model of Usher syndrome type 1G,
+characterized by congenital profound deafness and balance disorders. These mice
+lack the scaffold protein sans, which is involved both in the morphogenesis of
+the stereociliary bundle, the sensory antenna of inner ear hair cells, and in the
+mechanoelectrical transduction process. We show that a single delivery of the
+sans cDNA by the adenoassociated virus 8 to the inner ear of newborn mutant mice 
+reestablishes the expression and targeting of the protein to the tips of
+stereocilia. The therapeutic gene restores the architecture and
+mechanosensitivity of stereociliary bundles, improves hearing thresholds, and
+durably rescues these mice from the balance defects. Our results open up new
+perspectives for efficient gene therapy of cochlear and vestibular disorders by
+showing that even severe dysmorphogenesis of stereociliary bundles can be
+corrected.
+
+DOI: 10.1073/pnas.1708894114 
+PMCID: PMC5594693
+PMID: 28835534  [Indexed for MEDLINE]

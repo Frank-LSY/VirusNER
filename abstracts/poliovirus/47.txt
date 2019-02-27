@@ -1,0 +1,33 @@
+
+
+47. Biologicals. 1993 Dec;21(4):379-84.
+
+Evolution and polymorphism of poliovirus genomes.
+
+Crainic R(1), Kew O.
+
+Author information: 
+(1)Institut Pasteur, Paris, France.
+
+The three poliovirus serotypes are very stable. Breakthrough of the serotype
+barrier has never been observed in the natural evolution of poliovirus. This
+serotype stability contrasts with the high level of genomic and phenotypic
+variability that occurs within the bounds of serotype. The efficient control of
+poliomyelitis by immunization is based upon type-specific immunity and serotype
+stability. The development of attenuated strains by Albert Sabin was possible
+because of the high variability of poliovirus genomes. The three Sabin strains,
+one for each serotype, were selected as variants of non-attenuated wild
+polioviruses, and each represents a unique poliovirus genotype. A consequence of 
+poliovirus variability is the polymorphic character of its genome. This
+polymorphism makes possible the identification of poliovirus genotypes upon which
+studies on poliovirus evolution, virologic surveillance, and poliomyelitis
+diagnostics are based. The antigenic and genomic peculiarities of the Sabin
+strains are used to distinguish them from wild polioviruses among field isolates.
+The mechanisms of poliovirus variation and their significance to the evolution of
+both wild and vaccine poliovirus strains are the subjects of this article. The
+natural evolution of polioviruses is discussed in the context of the global
+initiative to eradicate poliomyelitis, which relies on the worldwide use of
+Sabin's vaccine.
+
+DOI: 10.1006/biol.1993.1099 
+PMID: 8024754  [Indexed for MEDLINE]

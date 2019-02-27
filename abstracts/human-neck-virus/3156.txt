@@ -1,0 +1,39 @@
+
+
+3156. Pediatrics. 2013 May;131(5):e1639-42. doi: 10.1542/peds.2012-1126. Epub 2013 Apr 
+15.
+
+Haemophilus influenzae type B in an immunocompetent, fully vaccinated ALL
+survivor.
+
+Nevin J(1), Kanter Washko J, Arnold J.
+
+Author information: 
+(1)Departments of Pediatrics, Naval Medical Center, San Diego, San Diego,
+California, USA. gtg968h@gmail.com
+
+A 7-year-old boy with a history of recurrent acute lymphoblastic leukemia (ALL), 
+in remission, presented to primary care clinic after 2 days of progressive right 
+hip pain with weight-bearing activities. He was otherwise asymptomatic at the
+time of presentation. Blood cultures revealed Gram-negative diplococci, which
+prompted an MRI that was significant for a hip joint effusion and femoral head
+bone marrow edema. The patient had no sick contacts and no significant past
+medical history other than ALL. The patient had been given all recommended
+childhood vaccinations. Arthrocentesis and needle biopsy of the femoral neck were
+not diagnostic for malignancy and revealed only mild hip joint inflammation,
+leading to a diagnosis of osteomyelitis. The organism in the original blood
+culture was identified as Haemophilus influenzae type b, β-lactamase negative.
+Review of the patient's medical records showed a history of complete immunization
+to Haemophilus influenzae type b. An immunologic evaluation was made to determine
+if the patient retained immunity from his other vaccinations. Pathogen-specific
+antibody testing revealed detectable antibodies to polio but not measles, mumps, 
+rubella, varicella-zoster virus, tetanus, diphtheria, pertussis, or hepatitis B. 
+This loss of immunologic memory appears to be a rarely described side effect of
+ALL chemotherapy. There is currently no protocol to evaluate the immunologic
+memory of patients who underwent chemotherapy for ALL or to revaccinate them
+after their treatment. It is unclear whether the loss of immunologic memory is
+genuinely rare or is underdiagnosed because affected patients are protected by
+herd immunity.
+
+DOI: 10.1542/peds.2012-1126 
+PMID: 23589809  [Indexed for MEDLINE]

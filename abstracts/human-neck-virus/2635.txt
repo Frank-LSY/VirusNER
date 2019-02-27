@@ -1,0 +1,39 @@
+
+
+2635. Am J Case Rep. 2018 Feb 19;19:183-186.
+
+A Rare Presentation of Cryptococcal Meningitis and Cerebellitis in an Asplenic
+Patient, Seronegative for Human Immunodeficiency Virus (HIV).
+
+Abbas H(1), CiFuentes Kottkamp A(2), Abbas N(3), Cindrich R(4), Singh M(4).
+
+Author information: 
+(1)Department of Medicine, Bronx Lebanon Hospital Center, Bronx, NY, USA.
+(2)Department of Medicine, Division of Infectious Diseases and Immunology, New
+York University School of Medicine, New York, NY, USA.
+(3)Department of Medicine, Division of Gastroenterology, Bronx Lebanon Hospital
+Center, Bronx, NY, USA.
+(4)Department of Medicine, Division of Infectious Diseases, Bronx Lebanon
+Hospital Center, Bronx, NY, USA.
+
+BACKGROUND Cryptococcal meningitis in patients who are seronegative for the human
+immunodeficiency virus (HIV) and in patients who are splenectomized is rare. This
+report is an unusual case of meningeal and cerebellar infection due to the
+encapsulated yeast, Cryptococcus neoformans, which has not previously been
+associated with asplenia. CASE REPORT A 65-year-old HIV-negative patient with a
+previous splenectomy, presented with a three-day history of fever, vomiting, and 
+headache. His symptoms progressed to generalized body aches, persistent fever,
+and neck stiffness. A lumbar puncture was performed, and cerebrospinal fluid
+(CSF) culture grew Cryptococcus neoformans. Treatment commenced with intravenous 
+amphotericin B and flucytosine. The patient required serial lumbar punctures due 
+to persistent raised intracranial pressure (ICP). Magnetic resonance imaging
+(MRI) of the brain showed acute meningitis and cerebellitis. Antimicrobial
+therapy and CSF drainage resulted in clinical improvement.  CONCLUSIONS The
+occurrence of meningeal and cerebellar cryptococcosis in an asplenic patient is
+rare, and few cases have been previously reported. This case report highlights
+the possibility of invasive cryptococcal infection, or cryptococcosis, in
+asplenic individuals in the absence of HIV infection.
+
+
+PMCID: PMC5829552
+PMID: 29456239  [Indexed for MEDLINE]

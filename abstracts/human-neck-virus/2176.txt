@@ -1,0 +1,45 @@
+
+
+2176. Oncotarget. 2016 Jul 12;7(28):43805-43819. doi: 10.18632/oncotarget.9698.
+
+Aberrant methylation-mediated silencing of microRNAs contributes to HPV-induced
+anchorage independence.
+
+Wilting SM(1), Miok V(1)(2), Jaspers A(1), Boon D(1), Sørgård H(1), Lando M(3),
+Snoek BC(1), van Wieringen WN(2), Meijer CJ(1), Lyng H(3), Snijders PJ(1),
+Steenbergen RD(1).
+
+Author information: 
+(1)Department of Pathology, VU University Medical Center, Amsterdam, The
+Netherlands.
+(2)Department of Epidemiology & Biostatistics, VU University Medical Center,
+Amsterdam, The Netherlands.
+(3)Department of Radiation Biology, Norwegian Radium Hospital, Oslo University
+Hospital, Oslo, Norway.
+
+Cervical cancer and a subset of anogenital and head-and-neck carcinomas are
+caused by high-risk types of the human papillomavirus (hrHPV). During
+hrHPV-induced malignant transformation keratinocytes become able to grow
+anchorage independently, a tumorigenic trait at least partly associated with
+inactivation of tumor suppressor genes. We used hrHPV-containing keratinocytes to
+investigate the role of DNA methylation-mediated silencing of microRNAs (miRNAs) 
+in the acquisition of anchorage independence.Anchorage dependent (n=11) and
+independent passages (n=19) of 4 hrHPV-immortalized keratinocyte cell lines were 
+treated with 2'-deoxy-5-azacytidine (DAC). Genome-wide miRNA expression profiles 
+before and after treatment were compared to identify miRNAs silenced by
+methylation. Bisulfite sequencing and methylation-specific PCR showed increased
+methylation of hsa-mir-129-2/-137/-935/-3663/-3665 and -4281 in anchorage
+independent HPV-transformed keratinocytes and cervical cancer cell lines. Mature 
+miRNAs derived from hsa-mir-129-2/-137/-3663 and -3665 showed functional
+relevance as they decreased anchorage independence in cervical cancer cell lines.
+Cervical (pre)cancerous lesions demonstrated increased methylation of
+hsa-mir-129-2/-935/-3663/-3665 and -4281, underlining the clinical relevance of
+our findings.In conclusion, methylation-mediated silencing of tumor suppressive
+miRNAs contributes to acquisition of an anchorage independent phenotype. This
+study further substantiates the importance of miRNAs during early stages of
+carcinogenesis and underlines their potential as both disease markers and
+therapeutic targets.
+
+DOI: 10.18632/oncotarget.9698 
+PMCID: PMC5190061
+PMID: 27270309  [Indexed for MEDLINE]

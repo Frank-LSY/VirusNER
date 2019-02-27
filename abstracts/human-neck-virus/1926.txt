@@ -1,0 +1,43 @@
+
+
+1926. J Otolaryngol Head Neck Surg. 2012 Apr;41 Suppl 1:S65-70.
+
+Epigenetic differences between human papillomavirus-positive and -negative
+oropharyngeal squamous cell carcinomas.
+
+Biron VL(1), Mohamed A, Hendzel MJ, Alan Underhill D, Seikaly H.
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+Michael J Hendzel and D Alan Underhill, Undergraduate Education, University of
+Alberta, Edmonton, AB.
+
+BACKGROUND: Epigenetic modifications are defined as heritable changes in gene
+expression that are not encoded in deoxyribonucleic acid (DNA). Despite the
+importance of epigenetics in tumorigenesis, there is a paucity of information
+regarding the epigenetic profiles of oropharyngeal squamous cell carcinoma
+(OPSCC).
+OBJECTIVE: The objective of this study was to identify epigenetic signatures
+associated with human papillomavirus (HPV)-positive and -negative OPSCC.
+METHODS: We collected demographic, pathologic, and survival data from 44 patients
+with advanced-stage OPSCC treated with surgery and chemoradiation at the
+University of Alberta between January 2006 and December 2008. Tumour specimen
+from these patients were retreived and sectioned for immunohistochemical
+analysis. Double immunofluorescence staining was performed with p16 (HPV
+surrogate) and a panel of epigenetic markers, namely, histone methyl-lysines 4,
+9, and 27 and H4 methyl-lysine 20. Correlation between p16 and epigenetic markers
+was measured using Metamorph and Image J software.
+RESULTS: Forty-one percent of patients were p16 positive. No statistically
+significant differences were found between p16-positive and -negative patients in
+terms of age at diagnosis, tumour subsite, or smoking history. We found
+significant differences in histone methylation between p16-positive and -negative
+tumours. OPSCC tumours positive for p16 had global elevations of histone H4
+monomethylated lysine 20 (H4K20me1) and H3 trimethylated lysine 27 (H3K27me3)
+with depletions of H4 trimethylated lysine 20 (H4K20me3). In contrast,
+p16-negative tumours had depleted levels of H4K20me1 and H3K27me3 with high
+levels of H4K20me3.
+CONCLUSIONS: HPV-positive and -negative OPSCCs have distinct epigenetic profiles 
+representing broad gene expression differences between these tumours.
+
+
+PMID: 22569052  [Indexed for MEDLINE]

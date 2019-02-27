@@ -1,0 +1,44 @@
+
+
+2617. Pathology. 2018 Aug;50(5):524-529. doi: 10.1016/j.pathol.2018.03.002. Epub 2018
+Jun 8.
+
+ALDH1A1 positive cells are a unique component of the tonsillar crypt niche and
+are lost along with NGFR positive stem cells during tumourigenesis.
+
+Wu V(1), Auchman M(2), Mollica PA(2), Sachs PC(2), Bruno RD(3).
+
+Author information: 
+(1)Department of Otolaryngology, Leroy T. Canoles Jr. Cancer Research Center,
+Eastern Virginia Medical School, Norfolk, VA, United States.
+(2)School of Medical Diagnostic and Translational Sciences, College of Health
+Sciences, Old Dominion University, Norfolk, VA, United States.
+(3)School of Medical Diagnostic and Translational Sciences, College of Health
+Sciences, Old Dominion University, Norfolk, VA, United States. Electronic
+address: rbruno@odu.edu.
+
+Interest into the cellular biology of human tonsillar crypts has grown in recent 
+years because it is now known to be the site of origin of most human papilloma
+virus (HPV) induced oropharyngeal squamous cell carcinomas (OPSCC). Despite the
+interest, still relatively little is known regarding the cellular hierarchy and
+dynamics of this anatomical subsite. Here we evaluate normal tonsillar crypts for
+expression of putative stem cell markers. We found that ALDH1A1 was uniquely
+expressed in a subset of suprabasal tonsillar crypt epithelium. This cell
+population was unique from NGFR expressing cells, which were previously
+identified to have stem/progenitor activity in vitro. In vivo mitochondrial
+lineage tracing was consistent with a basal to luminal progression of cellular
+development. This provides support for NGFR cells as the resident stem/progenitor
+cells in tonsillar crypts, and suggests that the ALDH1A1 cells are not
+stem/progenitor cells, but merely a unique component of the crypt cellular
+microenvironment. Analysis of tumours found that both NGFR and ALDH1A1 are lost
+in HPV+ and HPV- tumours, while LGR5 expression is induced in the same tumours.
+These results identify a unique component of the tonsillar crypt
+epithelium-ALDH1A1 cells-and support a cellular model where NGFR+ cells are the
+long-lived progenitor cells within tonsillar crypts. They also provide evidence
+that NGFR and ALDH1A1+ cells are lost during tumourigenesis.
+
+Copyright © 2018 Royal College of Pathologists of Australasia. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pathol.2018.03.002 
+PMID: 29891189  [Indexed for MEDLINE]

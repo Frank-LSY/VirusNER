@@ -1,0 +1,31 @@
+
+
+782. Head Neck Oncol. 2010 Mar 12;2:6. doi: 10.1186/1758-3284-2-6.
+
+Low prevalence of human papillomavirus in oral cavity carcinomas.
+
+Machado J(1), Reis PP, Zhang T, Simpson C, Xu W, Perez-Ordonez B, Goldstein DP,
+Brown DH, Gilbert RW, Gullane PJ, Irish JC, Kamel-Reid S.
+
+Author information: 
+(1)Department of Laboratory Medicine and Pathobiology, University of Toronto,
+Toronto, Ontario, Canada.
+
+BACKGROUND: Increasing evidence shows that Human Papillomavirus (HPV) is
+preferentially associated with some head and neck squamous cell carcinomas
+(HNSCCs), with variable infection rates reported.
+METHODS: We assessed HPV involvement in HNSCC using the Roche Linear Array HPV
+Genotyping Test, which can detect 37 different HPV types. We examined the
+prevalence of HPV infection in 92 HNSCCs (oropharynx, oral cavity, and other
+HNSCC sites).
+RESULTS: HPV was frequently detected in oropharyngeal cancers (OPCs) (16/22,
+73%), but was uncommon in oral cavity cancers (2/53, 4%), and in other HNSCC
+subsites (1/17, 6%). HPV positive tumors were associated with patients that were 
+40-60 years old (p = 0.02), and node positive (p = < 0.0001). HPV 16 was the most
+prevalent type, but other types detected included 6, 18, 33, 35, 45, and 52/58.
+CONCLUSION: Our results show that in contrast to oropharyngeal cancers, oral
+cancers and other HNSCCs infrequently harbor HPV.
+
+DOI: 10.1186/1758-3284-2-6 
+PMCID: PMC2851586
+PMID: 20226055  [Indexed for MEDLINE]

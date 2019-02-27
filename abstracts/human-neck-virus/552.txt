@@ -1,0 +1,61 @@
+
+
+552. Epigenetics. 2016;11(1):61-73. doi: 10.1080/15592294.2015.1137414. Epub 2016 Jan 
+19.
+
+Gene promoter methylation signature predicts survival of head and neck squamous
+cell carcinoma patients.
+
+Kostareli E(1)(2), Hielscher T(3), Zucknick M(3)(4), Baboci L(5)(6), Wichmann
+G(7), Holzinger D(6), Mücke O(1), Pawlita M(6), Del Mistro A(5), Boscolo-Rizzo
+P(8), Da Mosto MC(8), Tirelli G(9), Plinkert P(2), Dietz A(7), Plass C(1),
+Weichenhan D(1), Hess J(2)(10).
+
+Author information: 
+(1)a Division of Epigenomics and Cancer Risk Factors, German Cancer Research
+Center (DKFZ) , Heidelberg , Germany.
+(2)b Department of Otolaryngology , Head and Neck Surgery, University Hospital , 
+Heidelberg, Heidelberg , Germany.
+(3)c Division of Biostatistics, German Cancer Research Center (DKFZ) , Heidelberg
+, Germany.
+(4)d Oslo Center for Biostatistics and Epidemiology, Department of Biostatistics,
+Institute of Basic Medical Sciences, University of Oslo , Norway.
+(5)e Veneto Institute of Oncology IOV - IRCCS, Immunology and Molecular Oncology 
+Unit , Padua , Italy.
+(6)f Division of Molecular Diagnostics of Oncogenic Infections, German Cancer
+Research Center (DKFZ) , Heidelberg , Germany.
+(7)g Department of Otorhinolaryngology , University Hospital Leipzig , Germany.
+(8)h Department of Neurosciences , ENT Clinic and Regional Center for Head and
+Neck Cancer, University of Padua, School of Medicine, Treviso Regional Hospital ,
+Treviso , Italy.
+(9)i Head and Neck Department, Hospital of Cattinara, University of Trieste ,
+Trieste , Italy.
+(10)j Research Group Molecular Mechanisms of Head and Neck Tumors, German Cancer 
+Research Center (DKFZ) , Heidelberg , Germany.
+
+Infection with high-risk types of human papilloma virus (HPV) is currently the
+best-established prognostic marker for head and neck squamous cell carcinoma
+(HNSCC), one of the most common and lethal human malignancies worldwide. Clinical
+trials have been launched to address the concept of treatment de-escalation for
+HPV-positive HNSCC with the final aim to reduce treatment related toxicity and
+debilitating long-term impacts on the quality of life. However, HPV-related
+tumors are mainly restricted to oropharyngeal SCC (OPSCC) and there is an urgent 
+need to establish reliable biomarkers for all patients at high risk for treatment
+failure. A patient cohort (n = 295) with mainly non-OPSCC (72.9%) and a low
+prevalence of HPV16-related tumors (8.8%) was analyzed by MassARRAY to determine 
+a previously established prognostic methylation score (MS). Kaplan-Meier revealed
+a highly significant correlation between a high MS and a favorable survival for
+OPSCC (P = 0.0004) and for non-OPSCC (P<0.0001), which was confirmed for all
+HNSCC by multivariate Cox regression models (HR: 9.67, 95% CI [4.61-20.30],
+P<0.0001). Next, we established a minimal methylation signature score (MMSS),
+which consists of ten most informative of the originally 62 CpG units used for
+the MS. The prognostic value of the MMSS was confirmed by Kaplan-Meier analysis
+for all HNSCC (P<0.0001) and non-OPSCC (P = 0.0002), and was supported by
+multivariate Cox regression models for all HNSCC (HR: 2.15, 95% CI [1.36-3.41], P
+= 0.001). In summary, the MS and the MMSS exhibit an excellent performance as
+prognosticators for survival, which is not limited by the anatomical site, and
+both could be implemented in future clinical trials.
+
+DOI: 10.1080/15592294.2015.1137414 
+PMCID: PMC4846111
+PMID: 26786582  [Indexed for MEDLINE]

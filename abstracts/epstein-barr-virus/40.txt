@@ -1,0 +1,31 @@
+
+
+40. Annu Rev Immunol. 2015;33:787-821. doi: 10.1146/annurev-immunol-032414-112326.
+Epub 2015 Feb 11.
+
+The immunology of Epstein-Barr virus-induced disease.
+
+Taylor GS(1), Long HM, Brooks JM, Rickinson AB, Hislop AD.
+
+Author information: 
+(1)School of Cancer Sciences, University of Birmingham, Birmingham B15 2TT,
+United Kingdom; email: g.s.taylor@bham.ac.uk , h.m.long@bham.ac.uk ,
+j.m.brooks@bham.ac.uk , a.b.rickinson@bham.ac.uk , a.d.hislop@bham.ac.uk.
+
+Epstein-Barr virus (EBV) is usually acquired silently early in life and carried
+thereafter as an asymptomatic infection of the B lymphoid system. However, many
+circumstances disturb the delicate EBV-host balance and cause the virus to
+display its pathogenic potential. Thus, primary infection in adolescence can
+manifest as infectious mononucleosis (IM), as a fatal illness that magnifies the 
+immunopathology of IM in boys with the X-linked lymphoproliferative disease
+trait, and as a chronic active disease leading to life-threatening
+hemophagocytosis in rare cases of T or natural killer (NK) cell infection.
+Patients with primary immunodeficiencies affecting the NK and/or T cell systems, 
+as well as immunosuppressed transplant recipients, handle EBV infections poorly, 
+and many are at increased risk of virus-driven B-lymphoproliferative disease. By 
+contrast, a range of other EBV-positive malignancies of lymphoid or epithelial
+origin arise in individuals with seemingly intact immune systems through
+mechanisms that remain to be understood.
+
+DOI: 10.1146/annurev-immunol-032414-112326 
+PMID: 25706097  [Indexed for MEDLINE]

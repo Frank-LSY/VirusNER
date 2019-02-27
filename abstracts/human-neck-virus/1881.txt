@@ -1,0 +1,44 @@
+
+Conflict of interest statement: The authors have no conflict of interest to
+disclose.
+
+
+1881. Auris Nasus Larynx. 2012 Apr;39(2):137-44. doi: 10.1016/j.anl.2011.02.012. Epub
+2011 May 17.
+
+Current understanding and management of nasopharyngeal carcinoma.
+
+Yoshizaki T(1), Ito M, Murono S, Wakisaka N, Kondo S, Endo K.
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, 13-1 Takaramachi, Kanazawa, Japan.
+tomoy@med.kanazawa-u.ac.jp
+
+Nasopharyngeal carcinoma (NPC) is a kind of rare head and neck cancer in Japan.
+However, NPC has some unique features. It is one of the most popular cancers in
+southern China, Southeast Asia, the Arctic, and the middle East/north Africa.
+This distinctive racial, ethnical, and geographic predisposition to NPC implies
+that both genetic susceptibility and environmental factors contribute to the
+development of this tumor. NPC is an Epstein-Barr virus - associated tumor.
+Consistent elevation of EBV antibody titers is a well-established risk factor of 
+development of NPC. Not only pathophysiological relationship, but also molecular 
+mechanism of EBV-mediated carcinogenesis has been enthusiastically investigated. 
+LMP1, an EBV primary oncogene, upregulates each step of metastasis, and
+contribute to highly metastatic feature of NPC. A tumor suppressor gene p53 is
+mostly intact and overexpressed in NPC whereas expression of p16, a
+cyclin-dependent kinase inhibitory protein, is downregulated in 2/3 of NPC.
+Intention modulated radiotherapy (IMRT) is now getting prevalent for the
+treatment of NPC because of complicated structure and location of nasopharynx. A 
+good therapeutic result can be achieved by distributing a high dose to the tumor 
+while keeping down normal tissue complications by reducing radiation dose to
+normal tissues. Chemotherapy is important to control distant metastasis of
+chemoradiosensitive NPC, and thus, should play an important role. However, most
+effective combination of anti-tumor drugs, protocol of chemoradiotherapy has not 
+well-established. Finally, molecular targeting therapy, including targeting EBV
+gene product, has been developing and on the way to the clinical use.
+
+Copyright © 2011 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.anl.2011.02.012 
+PMID: 21592702  [Indexed for MEDLINE]

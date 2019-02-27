@@ -1,0 +1,38 @@
+
+
+495. Braz J Med Biol Res. 2009 Aug;42(8):761-4. Epub 2009 Jul 3.
+
+High HTLV-1 proviral load, a marker for HTLV-1 associated myelopathy/tropical
+spastic paraparesis, is also detected in patients with infective dermatitis
+associated with HTLV-1.
+
+Primo J(1), Siqueira I, Nascimento MC, Oliveira MF, Farre L, Carvalho EM,
+Bittencourt AL.
+
+Author information: 
+(1)Departamento de Medicina Interna, Complexo Hospitalar Universitário Prof.
+Edgard Santos, Universidade Federal da Bahia, Salvador, BA, Brasil.
+
+Salvador (BA, Brazil) is an endemic area for human T-cell lymphotrophic virus
+type 1 (HTLV-1). The overall prevalence of HTLV-1 infection in the general
+population has been estimated to be 1.76%. HTLV-1 carriers may develop a variety 
+of diseases such as adult T-cell leukemia/lymphoma, HTLV-1-associated
+myelopathy/tropical spastic paraparesis (HAM/TSP) and infective dermatitis
+associated with HTLV-1 (IDH). IDH is a chronic and severe form of childhood
+exudative and infective dermatitis involving mainly the scalp, neck and ears. It 
+has recently been observed that 30% of patients with IDH develop juvenile
+HAM/TSP. The replication of HTLV-1 has been reported to be greater in adult
+HAM/TSP patients than in asymptomatic HTLV-1 carriers. In the current study, the 
+proviral load of 28 children and adolescents with IDH not associated with HAM/TSP
+was determined and the results were compared to those obtained in 28 HTLV-1 adult
+carriers and 28 adult patients with HAM/TSP. The proviral load in IDH patients
+was similar to that of patients with HAM/TSP and much higher than that found in
+HTLV-1 carriers. The high levels of proviral load in IDH patients were not
+associated with age, duration of illness, duration of breast-feeding, or activity
+status of the skin disease. Since proviral load is associated with neurological
+disability, these data support the view that IDH patients are at high risk of
+developing HAM/TSP.
+
+
+PMCID: PMC2963476
+PMID: 19578703  [Indexed for MEDLINE]

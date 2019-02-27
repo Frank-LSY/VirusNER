@@ -1,0 +1,53 @@
+
+
+2162. Mol Ther. 2017 Nov 1;25(11):2440-2451. doi: 10.1016/j.ymthe.2017.09.010. Epub
+2017 Sep 14.
+
+Adenovirotherapy Delivering Cytokine and Checkpoint Inhibitor Augments CAR T
+Cells against Metastatic Head and Neck Cancer.
+
+Rosewell Shaw A(1), Porter CE(1), Watanabe N(1), Tanoue K(1), Sikora A(2),
+Gottschalk S(3), Brenner MK(4), Suzuki M(5).
+
+Author information: 
+(1)Department of Medicine, Baylor College of Medicine, Houston, TX, USA; Center
+for Cell and Gene Therapy, Baylor College of Medicine, Texas Children's Hospital,
+Houston Methodist Hospital, Houston, TX, USA.
+(2)Department of Otolaryngology, Baylor College of Medicine, Houston, TX, USA.
+(3)Center for Cell and Gene Therapy, Baylor College of Medicine, Texas Children's
+Hospital, Houston Methodist Hospital, Houston, TX, USA; Department of Pediatrics,
+Baylor College of Medicine, Houston, TX, USA.
+(4)Department of Medicine, Baylor College of Medicine, Houston, TX, USA; Center
+for Cell and Gene Therapy, Baylor College of Medicine, Texas Children's Hospital,
+Houston Methodist Hospital, Houston, TX, USA; Department of Pediatrics, Baylor
+College of Medicine, Houston, TX, USA.
+(5)Department of Medicine, Baylor College of Medicine, Houston, TX, USA; Center
+for Cell and Gene Therapy, Baylor College of Medicine, Texas Children's Hospital,
+Houston Methodist Hospital, Houston, TX, USA. Electronic address: suzuki@bcm.edu.
+
+Comment in
+    Mol Ther. 2017 Nov 1;25(11):2434-2435.
+
+In solid tumors, chimeric antigen receptor (CAR)-modified T cells must overcome
+the challenges of the immunosuppressive tumor microenvironment. We hypothesized
+that pre-treating tumors with our binary oncolytic adenovirus (CAd), which
+produces local oncolysis and expresses immunostimulatory molecules, would enhance
+the antitumor activity of HER2-specific CAR T cells, which alone are insufficient
+to cure solid tumors. We tested multiple cytokines in conjunction with
+PD-L1-blocking antibody and found that Ad-derived IL-12p70 prevents the loss of
+HER2.CAR-expressing T cells at the tumor site. Accordingly, we created a
+construct encoding the PD-L1-blocking antibody and IL-12p70 (CAd12_PDL1). In head
+and neck squamous cell carcinoma (HNSCC) xenograft models, combining local
+treatment with CAd12_PDL1 and systemic HER2.CAR T cell infusion improved survival
+to >100 days compared with approximately 25 days with either approach alone. This
+combination also controlled both primary and metastasized tumors in an orthotopic
+model of HNSCC. Overall, our data show that CAd12_PDL1 augments the anti-tumor
+effects of HER2.CAR T cells, thus controlling the growth of both primary and
+metastasized tumors.
+
+Copyright © 2017 The American Society of Gene and Cell Therapy. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ymthe.2017.09.010 
+PMCID: PMC5675597
+PMID: 28974431  [Indexed for MEDLINE]

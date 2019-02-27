@@ -1,0 +1,37 @@
+
+
+1209. World J Surg Oncol. 2009 Dec 18;7:99. doi: 10.1186/1477-7819-7-99.
+
+Atypical presentation of angiosarcoma of the scalp in the setting of human
+immunodeficiency virus (HIV).
+
+Govender PS(1).
+
+Author information: 
+(1)Department of Radiotherapy and Oncology, Nelson R, Mandela School of Medicine,
+University of Kwazulu Natal, Durban, South Africa. poovan.gov@gmail.com
+
+BACKGROUND: Angiosarcoma of the head and neck is an uncommon, aggressive
+malignant entity most commonly found in elderly Caucasian males. We present a
+case in a young black female with co-existing HIV. The atypical gender, age and
+race of the patient reflect the unusual clinical presentation of this case of
+angiosarcoma, attributable to the patient's HIV status.
+CASE PRESENTATION: A 22 year old patient presented with a large unresectable
+lesion over the occiput with surrounding ulceration, satellite lesions and
+associated lymphadenopathy. She is HIV-infected with a CD4 count of 360
+cells/microl. She was not on antiretroviral treatment based on South African
+treatment guidelines advocating antiretroviral treatment when the CD4 count is
+below 200 cells/microl, in the absence of other AIDS-defining illnesses.The
+patient was treated with a course of ifosfamide and anthracyline based
+chemotherapy. Disease progression was noted on chemotherapy and she was
+subsequently palliated with a course of radiotherapy. She had a satisfactory
+response with an improvement in local symptoms. She is currently receiving
+symptomatic care.
+CONCLUSIONS: South Africa is at the epicenter of the HIV epidemic. Consequently, 
+the management of patients in the field of oncology in our clinical practice is
+often burdened with malignancies manifesting with an atypical disease
+presentation and clinical course.
+
+DOI: 10.1186/1477-7819-7-99 
+PMCID: PMC2803177
+PMID: 20021674  [Indexed for MEDLINE]

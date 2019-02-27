@@ -1,0 +1,36 @@
+
+Conflict of interest statement: No potential conficts of interest were disclosed.
+
+
+2282. Acta Med Indones. 2013 Jul;45(3):175-9.
+
+Factors influencing bone mineral density in ARV-naive patients at Sanglah
+Hospital, Bali.
+
+Masyeni S(1), Utama S, Somia A, Widiana R, Merati TP.
+
+Author information: 
+(1)Department of Internal Medicine, Faculty of Medicine, Udayana University,
+Denpasar, Bali, Indonesia.
+
+AIM: to evaluate factors which influence bone mineral density in ARV-naive
+patients in Sanglah Hospital, Bali.
+METHODS: a cross-sectional BMD measured by dual X-ray absorptiometry at the
+lumbar spine (LS) and femoral neck (FN) in 73 ARV-naive HIV-infected patients in 
+out patient clinic of Sanglah Hospital, consecutively, from January to June 2012.
+Inclusion criteria are ARV-naive HIV-infected patients age 13-50 year old. The
+relationship among factors influence BMD, CD4 level, HIV RNA, HIV stage (WHO)
+analysed with Anova and Spearman's correlation test.
+RESULTS: this study involved 49 males and 24 females. Mean age was 33.08±8.29.
+Mean CD4 was 144.71±143.40 cell/mmc with the lowest CD4 is 1. Mean viral load
+(VL) was 272.330±282.990 copies/ml, the lowest VL 400 copies/ml, and the highest 
+750 000 copies/ml. Low BMD found in 32/73 (43.8%). Osteopenia and osteoporosis
+were diagnosed in 26/73 (35.6%) and 6/73 (8.2%). 13 (40.6%) of the low BMD cases 
+occurred on the age group 21-30 year. Significant correlation found between low
+BMD with HIV stage (r=0.337; p<0.001).
+CONCLUSION: patients with higher HIV stage have higher risk of low BMD in
+ARV-naive patient. Further study is needed to evaluate correlation of low BMD
+with its risk factors.
+
+
+PMID: 24045386  [Indexed for MEDLINE]

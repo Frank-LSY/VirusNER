@@ -1,0 +1,48 @@
+
+
+146. Vaccine. 2012 Nov 20;30 Suppl 5:F34-54. doi: 10.1016/j.vaccine.2012.05.070.
+
+Human papillomavirus and diseases of the upper airway: head and neck cancer and
+respiratory papillomatosis.
+
+Gillison ML(1), Alemany L, Snijders PJ, Chaturvedi A, Steinberg BM, Schwartz S,
+Castellsagué X.
+
+Author information: 
+(1)Viral Oncology, The Ohio State University Comprehensive Cancer Center,
+Columbus, OH, USA. Maura.gillison@osumc.edu
+
+Human papillomavirus (HPV) infection is causally associated with benign and
+malignant diseases of the upper airway, including respiratory papillomatosis and 
+oropharyngeal cancer. Low-risk HPV types 6 and 11 are the predominant cause of
+papillomatosis, whereas only HPV16 definitively satisfies both molecular and
+epidemiological causal criteria as a carcinogenic or high-risk type in the upper 
+airway. HPV16 E6/E7 mRNA expression and integration are observed predominantly
+among oropharyngeal cancers, and experimental models have shown E6/E7 expression 
+to be necessary for the initiation and maintenance of the malignant phenotype of 
+these cancers. From an epidemiological perspective, a strong and consistent
+association between markers of HPV16 exposure and oropharyngeal cancer has been
+demonstrated in numerous case-control studies. HPV-positive oropharyngeal cancers
+have also been shown to be distinct from HPV-negative head and neck squamous cell
+cancers with regard to risk-factor profiles, molecular genetic alterations,
+population-level incidence trends over time, and prognosis. Tumor HPV status (as 
+determined by certain HPV16 in situ hybridization assays or certain p16
+immunohistochemistry assays) is the strongest determinant of survival for
+patients with local-regionally advanced oropharyngeal cancer: patients with
+HPV-positive cancer have at least a 50% improvement in overall survival at 5
+years, which is equivalent to an approximate 30% difference in absolute survival.
+Thus, HPV status determination is now part of the routine diagnostic evaluation
+for prognostication. Preliminary evidence indicates that a small proportion of
+head and neck cancers may be caused by additional HPV types (e.g., 18, 31, 33,
+35) and that HPV-caused cancers may rarely arise from non-oropharyngeal sites
+(e.g., the oral cavity, nasopharynx, and larynx). Whether or not HPV vaccination 
+has the potential to prevent oral HPV infections that lead to cancer or
+papillomatosis in the upper airway is currently unknown, as is the potential for 
+secondary prevention with HPV detection. This article forms part of a special
+supplement entitled "Comprehensive Control of HPV Infections and Related
+Diseases" Vaccine Volume 30, Supplement 5, 2012.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.vaccine.2012.05.070 
+PMID: 23199965  [Indexed for MEDLINE]

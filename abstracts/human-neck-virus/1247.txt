@@ -1,0 +1,59 @@
+
+
+1247. Mol Med. 2018 May 16;24(1):23. doi: 10.1186/s10020-018-0022-9.
+
+Microarray analysis of human keratinocytes from different anatomic sites reveals 
+site-specific immune signaling and responses to human papillomavirus type 16
+transfection.
+
+Israr M(1), Rosenthal D(1), Frejo-Navarro L(2), DeVoti J(1), Meyers C(3),
+Bonagura VR(4).
+
+Author information: 
+(1)The Feinstein Institute for Medical Research, Manhasset, NY, USA; Division of 
+Allergy and Immunology, Department of Pediatrics, Donald and Barbara Zucker
+School of Medicine at Hofstra/Northwell, Great Neck, NY, USA.
+(2)Department of Genomic Medicine, Otology and Neurotology Group CTS495, Centre
+for Genomics and Oncological Research, Pfizer/Universidad de Granada/Junta de
+Andalucía (GENYO), Granada, Spain.
+(3)Department of Microbiology and Immunology, The Pennsylvania State University
+College of Medicine, Hershey, PA, USA.
+(4)The Feinstein Institute for Medical Research, Manhasset, NY, USA; Division of 
+Allergy and Immunology, Department of Pediatrics, Donald and Barbara Zucker
+School of Medicine at Hofstra/Northwell, Great Neck, NY, USA.
+VBonagura@northwell.edu.
+
+BACKGROUND: Stratified human keratinocytes (SHKs) are an essential part of
+mucosal innate immune response that modulates adaptive immunity to microbes
+encountered in the environment. The importance of these SHKs in mucosal integrity
+and development has been well characterized, however their regulatory immunologic
+role at different mucosal sites, has not. In this study we compared the immune
+gene expression of SHKs from five different anatomical sites before and after
+HPV16 transfection using microarray analyses.
+METHODS: Individual pools of human keratinocytes from foreskin, cervix, vagina,
+gingiva, and tonsils (HFKs, HCKs, HVKs, HGKs and HTLKs) were prepared.
+Organotypic (raft) cultures were established for both normal and HPV16
+immortalized HFKs, HCKs, HVKs, HGKs and HTLKs lines which stably maintained
+episomal HPV16 DNA. Microarray analysis was carried out using the HumanHT-12 V4
+gene chip (Illumina). Immune gene expression profiles were obtained by global
+gene chip (GeneSifter) and Ingenuity pathway analysis (IPA) for each individual
+site, with or without HPV16 transfection.
+RESULTS: We examined site specific innate immune response gene expression in SHKs
+from all five different anatomical sites before and after HPV16 transfection. We 
+observed marked differences in SHK immune gene repertoires within and between
+mucosal tracts before HPV 16 infection. In addition, we observed additional
+changes in SHKs immune gene repertoire patterns when these SHKs were productively
+transfected with HPV16. Some immune response genes were similarly expressed by
+SHKs from different sites. However, there was also variable expression of
+non-immune response genes, such as keratin genes, by the different SHKs.
+CONCLUSIONS: Our results suggest that keratinocytes from different anatomical
+sites are likely hard wired in their innate immune responses, and that these
+immune responses are unique depending on the anatomical site from which the SHKs 
+were derived. These observations may help explain why select HPV types
+predominate at different mucosal sites, cause persistent infection at these
+sites, and on occasion, lead to HPV induced malignant and benign tumor
+development.
+
+DOI: 10.1186/s10020-018-0022-9 
+PMCID: PMC6016891
+PMID: 30134802  [Indexed for MEDLINE]

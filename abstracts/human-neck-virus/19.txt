@@ -1,0 +1,31 @@
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+19. Microbes Infect. 2017 Sep - Oct;19(9-10):464-475. doi:
+10.1016/j.micinf.2017.06.001. Epub 2017 Jun 12.
+
+Molecular mechanisms of human papillomavirus-related carcinogenesis in head and
+neck cancer.
+
+Faraji F(1), Zaidi M(1), Fakhry C(1), Gaykalova DA(2).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Johns Hopkins School of 
+Medicine, Baltimore, MD, USA.
+(2)Department of Otolaryngology - Head and Neck Surgery, Johns Hopkins School of 
+Medicine, Baltimore, MD, USA. Electronic address: dgaykal1@jhmi.edu.
+
+This review examines the general cellular and molecular underpinnings of human
+papillomavirus (HPV)-related carcinogenesis in the context of head and neck
+squamous cell carcinoma (HNSCC) and focuses on HPV-positive oropharyngeal
+squamous cell carcinoma in areas for which specific data is available. It covers 
+the major pathways dysregulated in HPV-positive HNSCC and the genome-wide changes
+associated with this disease.
+
+Copyright © 2017 Institut Pasteur. Published by Elsevier Masson SAS. All rights
+reserved.
+
+DOI: 10.1016/j.micinf.2017.06.001 
+PMCID: PMC5603399
+PMID: 28619685  [Indexed for MEDLINE]

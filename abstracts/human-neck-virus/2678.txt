@@ -1,0 +1,36 @@
+
+
+2678. Genome Med. 2016 Jan 28;8(1):10. doi: 10.1186/s13073-016-0267-2.
+
+Epigenetic impact of infection on carcinogenesis: mechanisms and applications.
+
+Hattori N(1), Ushijima T(2).
+
+Author information: 
+(1)Division of Epigenomics, National Cancer Center Research Institute, 5-1-1
+Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan.
+(2)Division of Epigenomics, National Cancer Center Research Institute, 5-1-1
+Tsukiji, Chuo-ku, Tokyo, 104-0045, Japan. tushijim@ncc.go.jp.
+
+Viral and bacterial infections are involved in the development of human cancers, 
+such as liver, nasopharyngeal, cervical, head and neck, and gastric cancers.
+Aberrant DNA methylation is frequently present in these cancers, and some of the 
+aberrantly methylated genes are causally involved in cancer development and
+progression. Notably, aberrant DNA methylation can be present even in
+non-cancerous or precancerous tissues, and its levels correlate with the risk of 
+cancer development, producing a so-called 'epigenetic field for cancerization'.
+Mechanistically, most viral or bacterial infections induce DNA methylation
+indirectly via chronic inflammation, but recent studies have indicated that some 
+viruses have direct effects on the epigenetic machinery of host cells. From a
+translational viewpoint, a recent multicenter prospective cohort study
+demonstrated that assessment of the extent of alterations in DNA methylation in
+non-cancerous tissues can be used to predict cancer risk. Furthermore,
+suppression of aberrant DNA methylation was shown to be a useful strategy for
+cancer prevention in an animal model. Here, we review the involvement of aberrant
+DNA methylation in various types of infection-associated cancers, along with
+individual induction mechanisms, and we discuss the application of these findings
+for cancer prevention, diagnosis, and therapy.
+
+DOI: 10.1186/s13073-016-0267-2 
+PMCID: PMC4731931
+PMID: 26823082  [Indexed for MEDLINE]

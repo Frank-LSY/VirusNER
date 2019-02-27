@@ -1,0 +1,36 @@
+
+
+3092. Med Sci Monit. 2015 Dec 28;21:4068-73.
+
+Expression of Serum Sialic Acid, Early Antigen-IgA, and Viral Capsid Antigen-IgA 
+in Nasopharynx Cancer Patients: The Diagnostic Implication of Combined Assays.
+
+Sun Y(1), Sun C(1), Zhang E(1).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Second Municipal Hospital 
+of Weihai, Weihai, Shandong, China (mainland).
+
+BACKGROUND Ebstein-Barr virus (EBV) plays a critical role in nasopharynx cancer, 
+which can be effectively monitored by serum levels of early antigen antibody
+(EA-IgA) and viral capsid antigen antibody (VCA-IgA). This study explored the
+diagnostic value of combined assays of sialic acid (SA), EA-IgA, and VCA-IgA via 
+the expressional assay. MATERIAL AND METHODS A total of 42 nasopharynx cancer
+patients and 42 benign rhinitis and healthy controls were recruited in this
+study. Serum EA-IgA and VCA-IgA were tested by enzyme-linked immunosorbent assay 
+(ELISA) and enzymatic assay of serum SA. Specificity and sensitivity of those 3
+assays were compared. The diagnostic value of each parameter was evaluated by ROC
+curves. RESULTS All 3 indexes (SA, EA-IgA and VCA-IgA) showed elevated serum
+levels in nasopharynx cancer patients when compared to those with rhinitis, who
+had higher levels than healthy individuals. Concentrations of these factors were 
+also positively correlated with the TNM staging of cancer. The sensitivity and
+specificity were 30.95% and 83.33% (in SA), 57.14% and 95.24% (in EA-IgA), and
+76.19% and 92.86% (in VCA-IgA), respectively. VCA-IgA had the highest sensitivity
+among all 3 indexes. The combined assay increased the diagnostic sensitivity to
+92.86% without compromising specificity. CONCLUSIONS SA, EA-IgA, and VCA-IgA
+levels were significantly elevated in nasopharynx patients' serum. The combined
+assay may have clinical value in diagnosis and monitoring.
+
+
+PMCID: PMC4699620
+PMID: 26709095  [Indexed for MEDLINE]

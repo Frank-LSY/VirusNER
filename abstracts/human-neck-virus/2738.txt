@@ -1,0 +1,58 @@
+
+
+2738. Clin Rev Allergy Immunol. 2015 Dec;49(3):278-87. doi: 10.1007/s12016-014-8431-1.
+
+The Differential Diagnosis of Dry Eyes, Dry Mouth, and Parotidomegaly: A
+Comprehensive Review.
+
+Cornec D(1)(2)(3), Saraux A(1)(2)(3), Jousse-Joulin S(1)(2)(3), Pers JO(2)(3)(4),
+Boisramé-Gastrin S(4), Renaudineau Y(2)(3)(4)(5), Gauvin Y(6), Roguedas-Contios
+AM(7), Genestet S(8), Chastaing M(9), Cochener B(10), Devauchelle-Pensec
+V(11)(12)(13)(14).
+
+Author information: 
+(1)Department of Rheumatology, Brest Teaching Hospital, Brest, France.
+(2)EA2216, INSERM ESPRI, ERI29, Université de Brest, Brest, France.
+(3)LabEx IGO, Brest, France.
+(4)Department of Odontology, Brest Teaching Hospital, Brest, France.
+(5)Laboratory of Immunology, Brest Teaching Hospital, Brest, France.
+(6)Department of Ear, Nose, Throat, Brest Teaching Hospital, Brest, France.
+(7)Department of Dermatology, Brest Teaching Hospital, Brest, France.
+(8)Department of Neurological Functional Explorations, Brest Teaching Hospital,
+Brest, France.
+(9)Department of Psychiatry, Brest Teaching Hospital, Brest, France.
+(10)Department of Ophthalmology, Brest Teaching Hospital, Brest, France.
+(11)Department of Rheumatology, Brest Teaching Hospital, Brest, France.
+valerie.devauchelle-pensec@chu-brest.fr.
+(12)EA2216, INSERM ESPRI, ERI29, Université de Brest, Brest, France.
+valerie.devauchelle-pensec@chu-brest.fr.
+(13)LabEx IGO, Brest, France. valerie.devauchelle-pensec@chu-brest.fr.
+(14)Service de Rhumatologie, Hôpital de la Cavale Blanche, BP 824, 29609, Brest
+Cedex, France. valerie.devauchelle-pensec@chu-brest.fr.
+
+Primary Sjögren's syndrome (pSS) is a frequent autoimmune systemic disease,
+clinically characterized by eyes and mouth dryness in all patients, salivary
+gland swelling or extraglandular systemic manifestations in half of the patients,
+and development of lymphoma in 5 to 10 % of the patients. However, patients
+presenting with sicca symptoms or salivary gland swelling may have a variety of
+conditions that may require very different investigations, treatments, or
+follow-up. Eye and/or mouth dryness is a frequent complaint in clinical setting, 
+and its frequency increases with age. When evaluating a patient with suspected
+pSS, the first step is to rule out its differential diagnoses, before looking for
+positive arguments for the disease. Knowledge of normal and abnormal lachrymal
+and salivary gland physiology allows the clinician to prescribe the most adapted 
+procedures for evaluating their function and structure. New tests have been
+developed in recent years for evaluating these patients, notably new ocular
+surface staining scores or salivary gland ultrasonography. We describe the
+different diagnoses performed in our monocentric cohort of 240 patients with
+suspected pSS. The most frequent diagnoses are pSS, other systemic autoimmune
+diseases, idiopathic sicca syndrome and drug-induced sicca syndrome. However,
+other diseases are important to rule out due to their specific management, such
+as sarcoidosis, granulomatosis with polyangeitis, IgG4-related disease, chronic
+hepatitis C virus or human immunodeficiency virus infections, graft-versus-host
+disease, and head and neck radiation therapy. At the light of these data, we
+propose a core of minimal investigations to be performed when evaluating a
+patient with suspected pSS.
+
+DOI: 10.1007/s12016-014-8431-1 
+PMID: 24952023  [Indexed for MEDLINE]

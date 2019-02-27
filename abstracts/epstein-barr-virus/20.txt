@@ -1,0 +1,31 @@
+
+
+20. Curr Opin Virol. 2016 Oct;20:34-39. doi: 10.1016/j.coviro.2016.08.010. Epub 2016 
+Sep 1.
+
+Epstein Barr virus - a tumor virus that needs cytotoxic lymphocytes to persist
+asymptomatically.
+
+Münz C(1).
+
+Author information: 
+(1)Viral Immunobiology, Institute of Experimental Immunology, University of
+Zürich, Switzerland. Electronic address: christian.muenz@uzh.ch.
+
+Epstein Barr virus (EBV) is a human γ-herpesvirus that was discovered in
+Burkitt's lymphoma more than 50 years ago. Since then it has been proposed as the
+causative agent of up to 2% of all tumors worldwide, mainly lymphomas and
+epithelial cell carcinomas. Surprisingly, persistent EBV infection is at the same
+time found in more than 90% of healthy human adults. Even the very same programs 
+of EBV infection that are found in the associated malignancies are continuously
+present in healthy EBV carriers. We will discuss primary immunodeficiencies and
+immune compartment changes during the first decade of human life that give us
+insights into how tumorigenesis by persistent EBV infection and Hodgkin's
+lymphoma predisposing infectious mononucleosis is prevented during primary
+infection. These insights should allow identifying individuals at risk to develop
+EBV associated malignancies, who would benefit from EBV specific vaccination.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2016.08.010 
+PMID: 27591678  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+258. Sci Transl Med. 2015 Sep 23;7(306):306ra151. doi: 10.1126/scitranslmed.aab1720.
+Epub 2015 Sep 23.
+
+JC polyomavirus mutants escape antibody-mediated neutralization.
+
+Ray U(1), Cinque P(2), Gerevini S(3), Longo V(2), Lazzarin A(4), Schippling S(5),
+Martin R(5), Buck CB(6), Pastrana DV(6).
+
+Author information: 
+(1)Lab of Cellular Oncology, Center for Cancer Research, National Cancer
+Institute, Bethesda, MD 20892, USA.
+(2)Department of Infectious Diseases, San Raffaele Scientific Institute, 20132
+Milan, Italy.
+(3)Neuroradiology Unit, Head and Neck Department, San Raffaele Scientific
+Institute, 20132 Milan, Italy.
+(4)Department of Infectious Diseases, San Raffaele Scientific Institute, 20132
+Milan, Italy. San Raffaele University, 20132 Milan, Italy.
+(5)Neuroimmunology and Multiple Sclerosis Research Section, Department of
+Neurology, University Hospital Zurich, University Zurich, 8091 Zurich,
+Switzerland.
+(6)Lab of Cellular Oncology, Center for Cancer Research, National Cancer
+Institute, Bethesda, MD 20892, USA. buckc@mail.nih.gov pastrand@mail.nih.gov.
+
+JC polyomavirus (JCV) persistently infects the urinary tract of most adults.
+Under conditions of immune impairment, JCV causes an opportunistic brain disease,
+progressive multifocal leukoencephalopathy (PML). JCV strains found in the
+cerebrospinal fluid of PML patients contain distinctive mutations in surface
+loops of the major capsid protein, VP1. We hypothesized that VP1 mutations might 
+allow the virus to evade antibody-mediated neutralization. Consistent with this
+hypothesis, neutralization serology revealed that plasma samples from PML
+patients neutralized wild-type JCV strains but failed to neutralize
+patient-cognate PML-mutant JCV strains. This contrasted with serological results 
+for healthy individuals, most of whom robustly cross-neutralized all tested JCV
+variants. Mice administered a JCV virus-like particle (VLP) vaccine initially
+showed neutralizing "blind spots" (akin to those observed in PML patients) that
+closed after booster immunization. A PML patient administered an experimental JCV
+VLP vaccine likewise showed markedly increased neutralizing titer against her
+cognate PML-mutant JCV. The results indicate that deficient humoral immunity is a
+common aspect of PML pathogenesis and that vaccination may overcome this humoral 
+deficiency. Thus, vaccination with JCV VLPs might prevent the development of PML.
+
+Copyright © 2015, American Association for the Advancement of Science.
+
+DOI: 10.1126/scitranslmed.aab1720 
+PMCID: PMC6290683
+PMID: 26400912  [Indexed for MEDLINE]

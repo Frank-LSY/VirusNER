@@ -1,0 +1,56 @@
+
+
+858. Cancer. 2016 Jun 1;122(11):1702-7. doi: 10.1002/cncr.29965. Epub 2016 Mar 28.
+
+Radiation therapy (with or without neck surgery) for phenotypic human
+papillomavirus-associated oropharyngeal cancer.
+
+Garden AS(1), Fuller CD(1), Rosenthal DI(1), William WN Jr(2), Gunn GB(1), Beadle
+BM(1), Johnson FM(2), Morrison WH(1), Phan J(1), Frank SJ(1), Kies MS(2), Sturgis
+EM(3)(4).
+
+Author information: 
+(1)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(2)Department of Thoracic Head and Neck Medical Oncology, The University of Texas
+MD Anderson Cancer Center, Houston, Texas.
+(3)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas.
+(4)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas.
+
+Comment in
+    Cancer. 2016 Nov 15;122(21):3410.
+    Cancer. 2016 Nov 15;122(21):3411-3412.
+
+BACKGROUND: Favorable outcomes for human papillomavirus-associated oropharyngeal 
+cancer have led to interest in identifying a subgroup of patients with the lowest
+risk of disease recurrence after therapy. De-intensification of therapy for this 
+group may result in survival outcomes that are similar to those associated with
+current therapy but with less toxicity. To advance this effort, this study
+analyzed the outcomes of oropharyngeal cancer patients treated with or without
+systemic therapy.
+METHODS: This was a retrospective study of patients with oropharyngeal cancer
+treated between 1985 and 2012. The criteria for inclusion were ≤10 pack-years of 
+cigarette smoking and stage III/IVA cancer limited to T1-3, N1-N2b, and T3N0
+disease. A survival analysis was performed with the primary endpoint of
+progression-free survival (PFS).
+RESULTS: The cohort included 857 patients. Systemic therapy was given to 439
+patients (51%). The median survival was 80 months. The 2-year PFS rate was 91%.
+When the analysis was limited to 324 patients irradiated without systemic
+therapy, the 2- and 5-year PFS rates were 90% and 85%, respectively. Furthermore,
+for these 324 patients, the 5-year PFS rates for T1, T2, and T3 disease were 90%,
+83%, and 70%, respectively. The 5-year PFS rate for patients treated with
+systemic therapy for T3 disease was 77% (P = .07).
+CONCLUSIONS: According to the low-risk definition currently established in
+cooperative trials, the patients had a 2-year PFS rate approximating 90%. When
+patients who were treated with radiation alone were evaluated, no compromise was 
+observed in this high rate of PFS, which is higher than the 2-year PFS thresholds
+used in current cooperative trials. Cancer 2016;122:1702-7. © 2016 American
+Cancer Society.
+
+© 2016 American Cancer Society.
+
+DOI: 10.1002/cncr.29965 
+PMCID: PMC4873387
+PMID: 27019396  [Indexed for MEDLINE]

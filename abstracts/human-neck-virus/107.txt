@@ -1,0 +1,43 @@
+
+
+107. Int J STD AIDS. 2018 Jan;29(1):92-95. doi: 10.1177/0956462417722479. Epub 2017
+Aug 2.
+
+Unsuspected human immunodeficiency virus infection presenting as immunoglobulin
+G4-related lymphadenopathy: a case report.
+
+Yu HT(1), Lee CH(2), Huang SC(3), Yu SF(4).
+
+Author information: 
+(1)1 Department of Obstetrics and Gynecology, 117544 Linkou Chang Gung Memorial
+Hospital and Chang Gung University College of Medicine, Tao-Yuan, Taiwan.
+(2)2 Division of Infectious Diseases, Department of Internal Medicine, Kaohsiung 
+Chang Gung Memorial Hospital and Chang Gung University College of Medicine,
+Kaohsiung, Taiwan.
+(3)3 Department of Anatomic Pathology, Kaohsiung Chang Gung Memorial Hospital and
+Chang Gung University College of Medicine, Kaohsiung, Taiwan.
+(4)4 Division of Rheumatology, Allergy, and Immunology, Department of Internal
+Medicine, Kaohsiung Chang Gung Memorial Hospital and Chang Gung University
+College of Medicine, Kaohsiung, Taiwan.
+
+Immunoglobulin G4 (IgG4)-related disease (IgG4-RD) is an immune-mediated
+condition characterized by infiltration of the involved organs by IgG4-bearing
+plasma cells. The prevalence of autoimmune diseases, associated with or occurring
+in patients with human immunodeficiency virus (HIV) infection, has been
+increasing. We describe a 58-year-old man with an undiagnosed HIV infection,
+which presented as chronic cervical lymphadenopathy with an elevated serum IgG4
+and a very high IgE. Histologically, lymph nodes showed expanded sinusoids and
+burnt-out germinal centers with increased plasmacytic infiltration and collagen
+fiber deposition. The absolute number of IgG4+ plasma cells and the IgG4+/IgG+
+plasma cell ratio was increased. The lymph nodes were enlarged and clinically the
+patient improved after steroid treatment. Nine months later, he was diagnosed
+with acquired immune deficiency syndrome, following presentation with a cavitary 
+left lung lesion. Immunohistochemical studies on the previously resected lymph
+node revealed complete absence of CD4+ T-lymphocytes and increased CD8+
+T-lymphocytes. The pathologic findings met the criteria of both HIV infection and
+IgG4-related lymphadenopathy. Our case demonstrates that further investigations
+for underlying HIV infection in a case of IgG4-RD are critical, especially when
+extremely elevated IgE is concomitantly present.
+
+DOI: 10.1177/0956462417722479 
+PMID: 28768471  [Indexed for MEDLINE]

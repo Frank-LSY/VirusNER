@@ -1,0 +1,36 @@
+
+
+2893. J Surg Oncol. 2013 Apr;107(5):469-73. doi: 10.1002/jso.23286. Epub 2012 Nov 5.
+
+Extent of local invasion and safe resection in cT1-2 tonsil cancer.
+
+Lee J(1), Yoon N, Choi SY, Moon JH, Chung MK, Son YI, Ko YH, Jeong HS, Baek CH.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Samsung Medical
+Center, Sungkyunkwan University School of Medicine, Seoul, Korea.
+
+BACKGROUND: Although intraoral resection of small-sized tonsil cancer achieves
+excellent tumor control, the extent of local invasion and adequate safety margin 
+in resection have not been studied. Thus, we aim to determine the extent of local
+invasion in terms of mucosal spread and deep infiltration in stage T1-2 tonsil
+cancer.
+METHODS: We re-analyzed the surgical specimens from 49 cT1-2 tonsil cancers.
+Microscopic tumor cell extension from the tumor gross boundary of specimens was
+assessed in representative sections of each tumor. We also tested whether local
+extension correlates with human papilloma virus (HPV) status of tumors.
+RESULTS: The extent of microscopic deep invasion from the gross tumor border was 
+0.52 ± 0.41 mm, which was significantly less than that of mucosal spread
+(0.83 ± 0.61 mm, P = 0.01) in cT1-2 tonsil cancer. The microscopic deep invasion 
+correlated with tumor size (rho = 0.703, P < 0.001). We found tumor invasion into
+superior constrictor muscles in 58.1%, no cases of tumor invasion into the deep
+fascia. In terms of HPV status (genotyping plus p16 staining), there were no
+differences in microscopic tumor extension.
+CONCLUSION: Our detailed pathologic analyses confirm that an oropharyngectomy
+including the superior constrictor muscle is an oncologically safe procedure for 
+stage T1-2 tonsil cancer.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jso.23286 
+PMID: 23129069  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+1663. Mol Carcinog. 2012 Oct;51 Suppl 1:E54-64. doi: 10.1002/mc.21838. Epub 2011 Nov
+15.
+
+Genetic variants of a BH3-only pro-apoptotic gene, PUMA, and risk of
+HPV16-associated squamous cell carcinoma of the head and neck.
+
+Zhou Z(1), Sturgis EM, Liu Z, Wang LE, Wei Q, Li G.
+
+Author information: 
+(1)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas 77030, USA.
+
+P53 up-regulated modulator of apoptosis (PUMA) is a critical factor in the
+intrinsic apoptotic pathway. Through PUMA-dependent mechanisms, human
+papillomavirus 16 (HPV16) oncoprotein may affect apoptosis by E6-mediated p53
+degradation. To examine whether the PUMA variants modify the association between 
+HPV16 serology and risk of squamous cell carcinoma of the head and neck (SCCHN), 
+we genotyped two polymorphisms in the PUMA promoter (rs3810294 and rs2032809) in 
+380 cases and 335 cancer-free controls of non-Hispanic Whites, who were
+frequency-matched by age (±5 yr), sex, smoking, and drinking status. We found
+that each individual polymorphism had only a modest impact on risk of SCCHN,
+particularly in oropharyngeal cancer for rs3810294 and non-oropharyngeal cancer
+for rs2032809. After we stratified the individuals by HPV16 serology, and used
+those with the corresponding common homozygous genotype and HPV16 seronegativity 
+as the reference group, for each polymorphism we found that the risk of SCCHN
+associated with HPV16 seropositivity was higher among those with variant
+genotypes than those with the corresponding common homozygous genotype. Notably, 
+this effect modification was particularly pronounced in several subgroups
+including never smokers, never drinkers, younger patients, and patients with
+oropharyngeal cancer. Furthermore, we also characterized the functional relevance
+of the two polymorphisms to explore the genotype-phenotype correlation. Our
+results suggested that the PUMA promoter polymorphisms may be a biomarker for
+risk of HPV16-associated SCCHN, particularly in never smokers, never drinkers,
+younger patients, and patients with oropharyngeal cancer. Larger studies are
+needed to validate our findings.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mc.21838 
+PMCID: PMC3326219
+PMID: 22086558  [Indexed for MEDLINE]

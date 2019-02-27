@@ -1,0 +1,42 @@
+
+
+129. Auris Nasus Larynx. 2017 Jun;44(3):327-332. doi: 10.1016/j.anl.2016.07.015. Epub 
+2016 Aug 4.
+
+The influence of human papillomavirus on nasopharyngeal carcinoma in Japan.
+
+Kano M(1), Kondo S(2), Wakisaka N(1), Moriyama-Kita M(1), Nakanishi Y(1), Endo
+K(1), Murono S(1), Nakamura H(3), Yoshizaki T(1).
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, 13-1 Takara-machi, Kanazawa, Ishikawa, 920-8640,
+Japan.
+(2)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, 13-1 Takara-machi, Kanazawa, Ishikawa, 920-8640,
+Japan. Electronic address: ksatoru@med.kanazawa-u.ac.jp.
+(3)Department of Environmental and Preventive Medicine, Graduate School of
+Advanced Preventive Medical Sciences, Kanazawa University, Japan.
+
+OBJECTIVE: Although Japan is a non-endemic area with nasopharyngeal carcinoma
+(NPC), the proportion of WHO type I NPC in Japan are different from that in
+non-endemic areas such as North America and Europe. Recently, it is said that not
+only Epstein-Barr virus (EBV) but also human papillomavirus (HPV) has an
+influence on NPC in non-endemic areas. The aim of this study is to clarify the
+influence of HPV on NPC in Japan.
+METHODS: Paraffin-embedded tumor specimens were available for 59 patients with
+NPC diagnosed between 1996 and 2015. We detected the virus status by p16
+immunohistochemistry, HPV PCR, and in situ hybridization for Epstein-Barr virus
+(EBV)-encoded RNA. Kaplan-Meier curves were used to compare the overall survival 
+by viral status.
+RESULTS: Among the 59 patients, 49 (83%) were EBV-positive/HPV-negative, 2 (3%)
+were EBV-positive/HPV-positive, and 8 (16%) were EBV-negative/HPV-negative. All
+HPV-positive NPCs were co-infected with EBV. There were no significant
+differences between the overall survival in the three groups (p=0.111).
+CONCLUSION: In Japan, HPV was detected in a few patients with NPC, and we suggest
+that HPV has no influence on NPC carcinogenesis in this population.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.anl.2016.07.015 
+PMID: 27499435  [Indexed for MEDLINE]

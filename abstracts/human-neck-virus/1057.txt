@@ -1,0 +1,39 @@
+
+
+1057. Cancer Med. 2013 Dec;2(6):978-86. doi: 10.1002/cam4.155. Epub 2013 Nov 4.
+
+Occupational dust exposure and head and neck squamous cell carcinoma risk in a
+population-based case-control study conducted in the greater Boston area.
+
+Langevin SM(1), McClean MD, Michaud DS, Eliot M, Nelson HH, Kelsey KT.
+
+Author information: 
+(1)Department of Environmental Health, University of Cincinnati College of
+Medicine, Cincinnati, Ohio.
+
+Head and neck cancers account for an estimated 549,000 global cancer diagnoses
+each year. While tobacco use, alcohol consumption, and HPV16 infection are
+considered to be the major risk factors for this disease, occupational risk
+factors, including exposure to asbestos, have also been described, although dust 
+exposures other than asbestos have been historically understudied. We have
+investigated the relationship between occupational exposures to five types of
+dusts, including sawdust, concrete dust, leather dust, metal dust, and chimney
+soot, and head and neck squamous cell carcinomas (HNSCC) in the greater Boston
+area. We report findings from a population-based case-control study involving 951
+incident HNSCC cases and 1193 controls, frequency matched on age (±3 years), sex,
+and town/neighborhood of residence. Multivariable logistic regression was used to
+assess the association between occupational exposure to each type of dust and
+HNSCC, overall and by primary tumor site. After adjusting for age, sex, race,
+smoking, alcohol consumption, education, and HPV16 serology, laryngeal carcinoma 
+risk increased for each decade of occupational exposure to sawdust (OR = 1.2, 95%
+CI: 1.0, 1.3) and metal dust (OR = 1.2, 95% CI: 1.0, 1.4); and HNSCC risk
+increased for each decade of occupational leather dust exposure (OR = 1.5, 95%
+CI: 1.2, 1.9). We have provided evidence for an association between occupational 
+sawdust and metal dust and laryngeal squamous cell carcinoma, and leather dust
+and HNSCC, with increasing risk with longer duration at the exposed occupation.
+
+© 2013 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.155 
+PMCID: PMC3892403
+PMID: 24403272  [Indexed for MEDLINE]

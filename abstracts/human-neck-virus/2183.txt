@@ -1,0 +1,58 @@
+
+
+2183. N Engl J Med. 2010 Jul 1;363(1):24-35. doi: 10.1056/NEJMoa0912217. Epub 2010 Jun 
+7.
+
+Human papillomavirus and survival of patients with oropharyngeal cancer.
+
+Ang KK(1), Harris J, Wheeler R, Weber R, Rosenthal DI, Nguyen-Tân PF, Westra WH, 
+Chung CH, Jordan RC, Lu C, Kim H, Axelrod R, Silverman CC, Redmond KP, Gillison
+ML.
+
+Author information: 
+(1)University of Texas M.D. Anderson Cancer Center, Houston, USA.
+
+Comment in
+    N Engl J Med. 2010 Jul 1;363(1):82-4.
+    Nat Rev Clin Oncol. 2010 Sep;7(9):481.
+    Immunotherapy. 2011 Apr;3(4):469-73.
+    Natl Med J India. 2011 Mar-Apr;24(2):88-90.
+    N Engl J Med. 2010 Oct 14;363(16):1576.
+    N Engl J Med. 2010 Oct 14;363(16):1576.
+
+BACKGROUND: Oropharyngeal squamous-cell carcinomas caused by human papillomavirus
+(HPV) are associated with favorable survival, but the independent prognostic
+significance of tumor HPV status remains unknown.
+METHODS: We performed a retrospective analysis of the association between tumor
+HPV status and survival among patients with stage III or IV oropharyngeal
+squamous-cell carcinoma who were enrolled in a randomized trial comparing
+accelerated-fractionation radiotherapy (with acceleration by means of concomitant
+boost radiotherapy) with standard-fractionation radiotherapy, each combined with 
+cisplatin therapy, in patients with squamous-cell carcinoma of the head and neck.
+Proportional-hazards models were used to compare the risk of death among patients
+with HPV-positive cancer and those with HPV-negative cancer.
+RESULTS: The median follow-up period was 4.8 years. The 3-year rate of overall
+survival was similar in the group receiving accelerated-fractionation
+radiotherapy and the group receiving standard-fractionation radiotherapy (70.3%
+vs. 64.3%; P=0.18; hazard ratio for death with accelerated-fractionation
+radiotherapy, 0.90; 95% confidence interval [CI], 0.72 to 1.13), as were the
+rates of high-grade acute and late toxic events. A total of 63.8% of patients
+with oropharyngeal cancer (206 of 323) had HPV-positive tumors; these patients
+had better 3-year rates of overall survival (82.4%, vs. 57.1% among patients with
+HPV-negative tumors; P<0.001 by the log-rank test) and, after adjustment for age,
+race, tumor and nodal stage, tobacco exposure, and treatment assignment, had a
+58% reduction in the risk of death (hazard ratio, 0.42; 95% CI, 0.27 to 0.66).
+The risk of death significantly increased with each additional pack-year of
+tobacco smoking. Using recursive-partitioning analysis, we classified our
+patients as having a low, intermediate, or high risk of death on the basis of
+four factors: HPV status, pack-years of tobacco smoking, tumor stage, and nodal
+stage.
+CONCLUSIONS: Tumor HPV status is a strong and independent prognostic factor for
+survival among patients with oropharyngeal cancer. (ClinicalTrials.gov number,
+NCT00047008.)
+
+2010 Massachusetts Medical Society
+
+DOI: 10.1056/NEJMoa0912217 
+PMCID: PMC2943767
+PMID: 20530316  [Indexed for MEDLINE]

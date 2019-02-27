@@ -1,0 +1,56 @@
+
+
+13. Arch Virol. 2018 Feb;163(2):319-330. doi: 10.1007/s00705-017-3551-6. Epub 2017
+Oct 23.
+
+Epidemiology of hepatitis B in pregnant Iranian women: a systematic review and
+meta-analysis.
+
+Badfar G(1), Shohani M(2), Nasirkandy MP(3), Mansouri A(4), Abangah G(5), Rahmati
+S(6), Aazami S(7), Soleymani A(8), Azami M(9).
+
+Author information: 
+(1)Department of Pediatrics, Behbahan Faculty of Medical Sciences, Behbahan,
+Iran.
+(2)Department of Nursing, Faculty of Allied Medical Sciences, Ilam University of 
+Medical Sciences, Ilam, Iran.
+(3)Women's Reproductive Health Research Center, Tabriz University of Medical
+Sciences, Tabriz, Iran.
+(4)School of Nursing and Midwifery, Ahvaz Jundishapour University of Medical
+Science, Ahvaz, Iran.
+(5)Department of Gastroenterology, Faculty of Medicine, Ilam University of
+Medical Sciences, Ilam, Iran.
+(6)Student Research Committee, Ilam University of Medical Sciences, Ilam, Iran.
+(7)Faculty of Nursing and Midwife, Ilam University of Medical Sciences, Ilam,
+Iran.
+(8)Faculty of Medicine, Dezful University of Medical Sciences, Dezful, Iran.
+(9)Student Research Committee, Faculty of Medicine, Ilam University of Medical
+Sciences, Ilam, Iran. MiladAzami@medilam.ac.ir.
+
+Perinatal transmission is one of the most common routes of hepatitis B virus
+(HBV) transmission. This study aims to identify the epidemiological features of
+HBV among pregnant Iranian women. This study followed the Preferred Reporting
+Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. Two authors
+independently searched several online databases without time limit until May
+2017. The databases include Magiran, Iranmedex, SID, Medlib, IranDoc, Scopus,
+PubMed, Science Direct, Cochrane, Web of Science and Google Scholar. The data
+were analyzed based on a random-effects model using Comprehensive Meta-Analysis
+software version 2. Thirty-seven studies were included in the meta-analysis. The 
+prevalence of HBV among pregnant Iranian women was 1.18% (95% CI: 0.09%-1.53%).
+The prevalence of HBV among pregnant women living in urban and rural areas was
+1.60% (95% CI: 0.06%-4.30%) and 1.70% (95% CI: 0.09%-3.2%), respectively. The
+prevalence of HBV among housewives and working pregnant women was 4.3% (95% CI:
+1.4%-12.5%) and 1.2% (95% CI: 0.02%-5.8%), respectively. The risk of developing
+an HBV infection was significantly associated with illiteracy (p = 0.013),
+abortion (p = 0.001), blood transfusion (p < 0.001) and addicted spouse
+(p = 0.045). However, no significant relationship was observed between HBV
+infection and urbanization (p = 0.65), occupation (p = 0.37), history of surgery 
+(p = 0.32) or tattooing (p = 0.69). Vaccination coverage (receiving at least a
+single dose) in pregnant women was 9.8% (95% CI: 5.3%-17.5%). The prevalence of
+HBV among pregnant women is lower than in the general population of Iran. HBV
+vaccination coverage was low among pregnant Iranian women. Therefore, health
+policy-makers are recommended to enforce immunization programs for HBV
+vaccination among high-risk pregnant women.
+
+DOI: 10.1007/s00705-017-3551-6 
+PMID: 29063378  [Indexed for MEDLINE]

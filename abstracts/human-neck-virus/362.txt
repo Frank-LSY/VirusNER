@@ -1,0 +1,54 @@
+
+
+362. Head Neck Pathol. 2010 Jun;4(2):97-105. doi: 10.1007/s12105-010-0171-9. Epub 2010
+Mar 24.
+
+Head and neck squamous cell carcinomas in HIV-positive patients: a preliminary
+investigation of viral associations.
+
+McLemore MS(1), Haigentz M Jr, Smith RV, Nuovo GJ, Alos L, Cardesa A,
+Brandwein-Gensler M.
+
+Author information: 
+(1)Department of Pathology, MD Anderson, Houston, TX, USA.
+
+Oncogenic human papillomaviruses (HPVs) are associated with oropharyngeal
+squamous cell carcinoma (SCC). Infection with human immunodeficiency virus (HIV) 
+increases susceptibility to opportunistic infections and viral-promoted cancers. 
+The prevalences of HPV, herpes simplex virus (HSV), Epstein-Barr virus (EBV), and
+human herpesvirus-8 (HHV-8) have not been established for head and neck squamous 
+cell carcinoma in HIV-positive patients (HIV+ HNSCC). We have observed that HIV+ 
+HNSCC tend to contain numerous multinucleated tumor giant cells, this finding has
+not been described previously. The goal of this study is to test for these
+oncogenic viruses in a small cohort of retrospectively identified patients with
+HIV infection, and to compare histologically these cancers to a control group of 
+HNSCC patients. Tumors were reviewed histologically and compared to a control
+group of 102 patients with HNSCC (serologically untyped or HIV negative).
+Polymerase chain reaction (PCR) was performed on formalin-fixed,
+paraffin-embedded HIV+ HNSCC samples from combined 25 patients in two
+institutions. In situ hybridization was performed to identify EBV (EBER) and
+immunohistochemistry was performed to detect HSV-1, HSV-2, HHV-8, and HIV-related
+proteins (Nef, p24). The study sample consisted of 34 HIV+ patients with HNSCC
+from Montefiore Medical Center, and six HIV+ HNSCC patients from Hospital Clinic,
+University of Barcelona; 24 (60%) men and 16 (40%) women. The larynx was most
+commonly involved (65%, n = 26); followed by the oropharynx (22.5%, n = 9). Four 
+carcinomas arose from the oral cavity (10%) and one from the nasal cavity (2.5%).
+Histologically, multinucleated tumor giant cells were more common in the HIV+
+group (39/40, 97.5%) than the control group (27/102, 26%, p 0.001, chi-square).
+HPV was detected in 6 of 25 (24%) HNSCC tumors by PCR, five were typed as HPV 16 
+and one as HPV 26/69; five of these tumors (83%) were located in the oropharynx. 
+EBV, HSV-1, HSV-2, and HHV-8 were detected only infrequently in tumor cells. Nef 
+protein was detected in tumor cells in 7 of 21 (33.3%) cases; p24 was not
+detectable in 6 tumors studied. There were no significant associations between
+HPV positive tumors and co-infections with other viruses. This study is
+consistent with other reports that suggest an increased incidence of laryngeal
+carcinoma for HIV+ patients. HPV was detected in 24% of HIV+ HNSCC, however, the 
+number of tumors with amplifiable DNA (n = 25) is too small to allow for
+conclusions. EBV, HSV-1, HSV-2, and HHV-8 are uncommon in HIV+ HNSCC; it is
+unlikely that these viruses have a promoting effect. MNTCG are significantly
+common in HIV+ HNSCC, but there is overlap in MNTCG counts with the control group
+and therefore this finding cannot be used as a biomarker of HIV infection.
+
+DOI: 10.1007/s12105-010-0171-9 
+PMCID: PMC2878620
+PMID: 20333562  [Indexed for MEDLINE]

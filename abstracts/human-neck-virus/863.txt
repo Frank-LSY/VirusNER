@@ -1,0 +1,29 @@
+
+
+863. APMIS. 2010 Jun;118(6-7):471-93. doi: 10.1111/j.1600-0463.2010.02618.x.
+
+Interaction of viral oncoproteins with cellular target molecules: infection with 
+high-risk vs low-risk human papillomaviruses.
+
+Pim D(1), Banks L.
+
+Author information: 
+(1)International Centre for Genetic Engineering and Biotechnology, Trieste,
+Italy. pim@icgeb.org <pim@icgeb.org>
+
+Persistent infection by a subgroup of so-called high-risk human papillomaviruses 
+(HPVs) that have a tropism for mucosal epithelia has been defined as the cause of
+more than 98% of cervical carcinomas as well as a high proportion of other
+cancers of the anogenital region. Infection of squamous epithelial tissues in the
+head and neck region by these same high-risk HPVs is also associated with a
+subset of cancers. Despite the general conservation of genetic structure amongst 
+all HPV types, infection by the low-risk types, whether in genital or head and
+neck sites, carries a negligible risk of malignant progression, and infections
+have a markedly different pathology. In this review, we will examine and discuss 
+the interactions that the principal viral oncoproteins of the high-risk
+mucosotrophic HPVs and their counterparts from the low-risk group make with
+cellular target proteins, with a view to explaining the differences in their
+respective pathology.
+
+DOI: 10.1111/j.1600-0463.2010.02618.x 
+PMID: 20553529  [Indexed for MEDLINE]

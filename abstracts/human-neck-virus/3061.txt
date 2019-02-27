@@ -1,0 +1,59 @@
+
+
+3061. Int J Cancer. 2015 Dec 15;137(12):2994-9. doi: 10.1002/ijc.29660. Epub 2015 Jul
+14.
+
+Deep brush-based cytology in tonsils resected for benign diseases.
+
+Franceschi S(1), Combes JD(1), Dalstein V(2)(3), Caudroy S(2)(3), Clifford G(1), 
+Gheit T(1), Tommasino M(1), Clavel C(2)(3), Lacau St Guily J(4), Birembaut
+P(2)(3); Study of Natural History of Human Papillomavirus Infection and
+Precancerous Lesions in the Tonsils (SPLIT).
+
+Collaborators: McKay-Chopin S, Albert S, Barry B, Hourseau M, Berrebi D, Van Den 
+Abeele T, Tessier N, Galmiche-Rolland L, Leboulanger N, Couloigner V, de
+Crouy-Chanel O, Perie S, Lesnik M, Lefevre M, Coulomb A, Denoyelle F, Badet JM,
+Mauvais O, Valmary-Degano S, Pretet JL, Lechapt-Zalchman E, Babin E, Brambilla E,
+Lantuejoul S, Righini C, Coulibaly B, Bessede JP, Lerat J, Ceruse P, Cosmidis A, 
+Costes V, Garrel R, Cassagnau E, Malard O, Chapuis H, Lallemant B, Levillain P,
+Dufour X, Merol JC, Vergez S, Uro-Coste E, Rousselot C, Moriniere S, Schultz P,
+Onea M, Denoux Y, Bach C.
+
+Author information: 
+(1)International Agency for Research on Cancer, 69372 Lyon cedex 08, France.
+(2)CHU Reims, Hôpital Maison Blanche, Laboratoire Pol Bouin Histologie -
+Cytologie - Biologie Cellulaire, Reims, F-51092, France.
+(3)INSERM, UMR-S 903, Reims, F-51092 France, Université de Reims
+Champagne-Ardenne, Faculté de Médecine, Reims, F-51095 France.
+(4)Department of Otorhinolaryngology and Head and Neck Surgery, Faculty of
+Medicine-Pierre Et Marie Curie University-Paris VI and Tenon Hospital, Assistance
+Publique Hôpitaux De Paris, France.
+
+A fraction of oropharyngeal cancer (OPC), especially in the tonsil, is caused by 
+human papillomavirus (HPV), mainly HPV16. Noninvasive diagnostic methods to
+detect precancerous lesions in the tonsil would be useful, e.g., liquid-based
+cytology (LBC). However, ill-characterized precancerous lesions may be hidden in 
+the depth of the tonsillar crypts. We therefore conducted a study on HPV and
+tonsillar precancerous lesions to evaluate, among other things, the utility of
+LBC obtained by deep brushing of the resected tonsils. Two hundred non-paediatric
+patients (mean age: 30.3 years) who underwent tonsillectomy for infection-related
+conditions (69%) or other conditions (mainly obstructive sleep apnoea, 31%) were 
+included. An ultra-sensitive Luminex bead-based platform was used to test for the
+DNA of 21 mucosal HPV types; 56% of slides were unsatisfactory due to low number 
+of squamous epithelial cells or the masking effect of a large number of
+lymphocytes. Three patients (1.5%; 95% CI: 0.5-4.3) showed suspicious cytological
+findings (atypical squamous cells-cannot exclude high-grade squamous
+intraepithelial lesion, ASC-H) while 3 others were HPV-positive (2 for HPV16 and 
+1 for HPV39). None of the ASC-H patients and HPV-positive patients showed
+dysplasia at histological examination. The rarity of HPV infection in the tonsil 
+conflicts with the relatively frequent detection of the virus in the mouth. In
+conclusion, aggressive deep brushing of tonsils, while hardly applicable in vivo,
+is unlikely to be a reliable method to detect precancerous lesions. The absence
+of OPC screening modalities places the priority on multi-purpose primary
+prevention strategies, i.e., HPV vaccination and reduction of smoking and
+drinking.
+
+© 2015 UICC.
+
+DOI: 10.1002/ijc.29660 
+PMID: 26111735  [Indexed for MEDLINE]

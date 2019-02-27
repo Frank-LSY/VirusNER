@@ -1,0 +1,37 @@
+
+
+1854. Rom J Morphol Embryol. 2014;55(3 Suppl):1057-62.
+
+Detection of Merkel cell polyomavirus in formalin-fixed, paraffin-embedded tissue
+of Merkel cell carcinoma and correlation with prognosis.
+
+Andea AA(1), Patel R, Ponnazhagan S, Isayeva T, Kumar S, Siegal GP.
+
+Author information: 
+(1)Department of Pathology, University of Michigan, Ann Arbor, MI, USA;
+andeaa@med.umich.edu.
+
+Merkel cell carcinoma (MCC) is a rare, but highly aggressive primary cutaneous
+malignancy, showing neuroendocrine differentiation. In 2008, a novel member of
+the polyomavirus family, named Merkel cell polyomavirus (MCPyV) was identified in
+the genome of MCC tumors raising the possibility of an involvement in its
+pathogenesis. Due to the rarity of this tumor and current pathology practices,
+the most readily available tissue is archival formalin-fixed, paraffin-embedded
+(FFPE) material. In this study, we evaluated the presence of MCPyV in FFPE tissue
+and correlated its presence with tumor progression. Representative FFPE specimens
+from 18 tumors belonging to 14 patients with a diagnosis of MCC spanning the
+period from 2003 to 2008 were retrieved. Following DNA extraction, we performed
+PCR amplification and sequencing with four different MCPyV-specific primer pairs 
+mapping within the T antigen and VP1 region. Overall, we detected MCPyV amplicons
+in 8/18 (44.4%) analyzed tumors from 7/14 (50%) cases. Two-year survival rate and
+median survival for the MCPyV-positive MCCs were 48% and 22.5 months,
+respectively and for the negative ones 69% and 51.3 months, respectively;
+however, the difference did not reach statistical significance (p=0.8). There was
+no significant correlation between the presence of the virus and the stage at
+presentation; however, tumors in the head and neck area had a lower frequency of 
+viral positivity compared to those arising in the extremities suggesting a
+MCPyV-independent oncogenetic pathway perhaps, dependent on UV exposure, in a
+subset of these cases.
+
+
+PMID: 25607385  [Indexed for MEDLINE]

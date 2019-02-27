@@ -1,0 +1,46 @@
+
+
+3150. Laryngoscope. 2017 Feb;127(2):E55-E61. doi: 10.1002/lary.26344. Epub 2016 Oct 18.
+
+Longitudinal analysis of inflammatory biomarkers during acute rhinosinusitis.
+
+Autio TJ(1)(2)(3), Koskenkorva T(1)(2)(3), Leino TK(4), Koivunen P(1)(2)(3), Alho
+OP(1)(2)(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, Oulu University
+Hospital, Oulu, Finland.
+(2)PEDEGO Research Unit, University of Oulu, Oulu, Finland.
+(3)Medical Research Center Oulu, Oulu.
+(4)Air Force Command Finland, Finnish Defense Forces, Tikkakoski, Finland.
+
+OBJECTIVE: To illuminate the pathophysiology of acute rhinosinusitis (ARS) with
+sequential monitoring of inflammatory biomarkers during an ARS episode and to
+clarify their diagnostic usability in bacterial ARS.
+STUDY DESIGN: Inception cohort study with 50 conscripts with ARS.
+METHODS: We collected peripheral blood high-sensitive C-reactive protein
+(hs-CRP), white blood cell (WBC), procalcitonin, and nasal nitric oxide (nNO)
+counts at 2 to 3 and 9 to 10 days of symptoms during an ARS episode. We
+simultaneously gathered various clinical parameters and microbiological samples. 
+Bacterial ARS was confirmed with a positive culture of sinus aspirate.
+RESULTS: Reciprocal correlations and a significant change in biomarker levels
+between the two visits suggest that ARS involves a local and systemic
+inflammatory response that was strongest at 2 to 3 days. High-sensitive CRP and
+nNO reflected responses best (52% had increased CRP levels at 2-3 days; 66% had
+decreased nNO levels). White blood cell and procalcitonin counts rarely exceeded 
+the reference range. Increased local and systemic inflammatory response were
+linked to multiple, adenoviral, or influenza A viral etiology or the detection of
+bacterial ARS. Local response correlated with imaging findings of wide paranasal 
+sinus involvement and ostiomeatal complex occlusion. At 9 to 10 days, elevated (≥
+11 mg/L) and moderately elevated (≥ 49 mg/L) hs-CRP predicted bacterial ARS well 
+(likelihood ratio [LR]+ 3.3 and LR+ 15.8, respectively), but the sensitivity for 
+both findings remained low.
+CONCLUSION: Acute rhinosinusitis (particularly bacterial ARS) involves a local
+and systemic inflammatory response that is strongest at the beginning of
+symptoms. Elevated hs-CRP supports the diagnosis of bacterial ARS.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 2016 127:E55-E61, 2017.
+
+© 2016 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26344 
+PMID: 27753120  [Indexed for MEDLINE]

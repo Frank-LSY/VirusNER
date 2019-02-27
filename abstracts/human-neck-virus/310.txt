@@ -1,0 +1,38 @@
+
+
+310. Arch Otolaryngol Head Neck Surg. 2010 Feb;136(2):151-8. doi:
+10.1001/archoto.2009.214.
+
+Oncolysis using herpes simplex virus type 1 engineered to express cytosine
+deaminase and a fusogenic glycoprotein for head and neck squamous cell carcinoma.
+
+Price DL(1), Lin SF, Han Z, Simpson G, Coffin RS, Wong J, Li S, Fong Y, Wong RJ.
+
+Author information: 
+(1)Department of Surgery, Memorial Sloan-Kettering Cancer Center, New York, New
+York, USA.
+
+OBJECTIVE: To determine if prodrug conversion of fluorocytosine to fluorouracil
+by an engineered herpes virus, OncoVEX(GALV/CD), enhances oncolytic therapy of
+head and neck squamous cell carcinoma.
+DESIGN: We assessed the ability of OncoVEX(GALV/CD) and OncoVEX(GFP) to infect,
+replicate within, and lyse 4 head and neck squamous cell carcinoma lines in
+vitro. The effects of adding fluorocytosine with OncoVEX(GALV/CD) were evaluated.
+RESULTS: Head and neck squamous cell carcinoma was permissive to green
+fluorescent protein expression in100% of cells by OncoVEX(GFP) at a multiplicity 
+of infection of 1 after 48 hours and supported logarithmic viral replication.
+Virus caused more than 60% cell death 6 days after exposure to virus at a
+multiplicity of infection of 0.1 in 3 of the 4 cell lines. Fluorocytosine did not
+enhance cytotoxicity induced by OncoVEX(GALV/CD) at a multiplicity of infection
+of 0.1. However, for the least-sensitive SCC25 cell line, virus at a multiplicity
+of infection of 0.01 was cytotoxic to only 4% of cells after 6 days but was
+cytotoxic to 35% of cells with fluorocytosine.
+CONCLUSIONS: OncoVEX(GALV/CD) efficiently infects, replicates within, and lyses
+head and neck squamous cell carcinoma at relatively low viral doses. Prodrug
+conversion by cytosine deaminase did not enhance therapy at viral doses that
+cause efficient cytotoxicity but may have beneficial effects in less-sensitive
+cell lines at low viral doses.
+
+DOI: 10.1001/archoto.2009.214 
+PMCID: PMC2824889
+PMID: 20157061  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+1223. Cancer Sci. 2015 Oct;106(10):1333-40. doi: 10.1111/cas.12761. Epub 2015 Sep 25.
+
+Human papillomavirus type 16 E7 oncoprotein mediates CCNA1 promoter methylation.
+
+Chalertpet K(1), Pakdeechaidan W(1), Patel V(2), Mutirangura A(3),
+Yanatatsaneejit P(1)(3).
+
+Author information: 
+(1)Human Genetics Research Group, Department of Botany, Faculty of Science,
+Chulalongkorn University, Bangkok, Thailand.
+(2)Cancer Research Initiatives Foundation, Sime Darby Medical Centre, Subang
+Jaya, Malaysia.
+(3)Center of Excellence in Molecular Genetics of Cancer and Human Diseases,
+Department of Anatomy, Faculty of Medicine, Chulalongkorn University, Bangkok,
+Thailand.
+
+Human papillomavirus (HPV) oncoproteins drive distinctive promoter methylation
+patterns in cancer. However, the underlying mechanism remains to be elucidated.
+Cyclin A1 (CCNA1) promoter methylation is strongly associated with HPV-associated
+cancer. CCNA1 methylation is found in HPV-associated cervical cancers, as well as
+in head and neck squamous cell cancer. Numerous pieces of evidence suggest that
+E7 may drive CCNA1 methylation. First, the CCNA1 promoter is methylated in
+HPV-positive epithelial lesions after transformation. Second, the CCNA1 promoter 
+is methylated at a high level when HPV is integrated into the human genome.
+Finally, E7 has been shown to interact with DNA methyltransferase 1 (Dnmt1).
+Here, we sought to determine the mechanism by which E7 increases methylation in
+cervical cancer by using CCNA1 as a gene model. We investigated whether E7
+induces CCNA1 promoter methylation, resulting in the loss of expression. Using
+both E7 knockdown and overexpression approaches in SiHa and C33a cells, our data 
+showed that CCNA1 promoter methylation decreases with a corresponding increase in
+expression in E7 siRNA-transfected cells. By contrast, CCNA1 promoter methylation
+was augmented with a corresponding reduction in expression in E7-overexpressing
+cells. To confirm whether the binding of the E7-Dnmt1 complex to the CCNA1
+promoter induced methylation and loss of expression, ChIP assays were carried out
+in E7-, del CR3-E7 and vector control-overexpressing C33a cells. The data showed 
+that E7 induced CCNA1 methylation by forming a complex with Dnmt1 at the CCNA1
+promoter, resulting in the subsequent reduction of expression in cancers. It is
+interesting to further explore the genome-wide mechanism of E7
+oncoprotein-mediated DNA methylation.
+
+© 2015 The Authors. Cancer Science published by Wiley Publishing Asia Pty Ltd on 
+behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.12761 
+PMCID: PMC4638020
+PMID: 26250467  [Indexed for MEDLINE]

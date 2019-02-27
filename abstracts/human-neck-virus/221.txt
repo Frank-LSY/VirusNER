@@ -1,0 +1,54 @@
+
+
+221. Pathol Res Pract. 2016 Jun;212(6):524-31. doi: 10.1016/j.prp.2016.03.002. Epub
+2016 Mar 14.
+
+Origin of cystic squamous cell carcinoma metastases in head and neck lymph nodes:
+Addition of EBV testing improves diagnostic accuracy.
+
+Švajdler M Jr(1), Kašpírková J(2), Hadravský L(2), Laco J(3), Dubinský P(4),
+Straka Ľ(5), Ondič O(2), Michal M(2), Skálová A(2).
+
+Author information: 
+(1)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, Czech Republic; Bioptická laboratoř,
+s.r.o., Pilsen, Czech Republic; Department of Pathology, Louis Pasteur University
+Hospital, Košice, Slovakia. Electronic address: svajdler@yahoo.com.
+(2)Šikl's Department of Pathology, Charles University in Prague, The Faculty of
+Medicine and Faculty Hospital in Pilsen, Czech Republic; Bioptická laboratoř,
+s.r.o., Pilsen, Czech Republic.
+(3)The Fingerland Department of Pathology, Charles University in Prague, The
+Faculty of Medicine and University Hospital in Hradec Kralove, Czech Republic.
+(4)Department of Radiation Oncology, Oncology Institute, Košice, Slovakia.
+(5)Klinická patológia Prešov, s.r.o., Prešov, Slovakia.
+
+Most cases of cystic squamous cell carcinoma (SCC) metastases in the upper neck
+are associated with an oropharyngeal primary, namely human papillomavirus
+(HPV)-associated SCC arising in the palatine or lingual tonsil. A retrospective
+study was performed on 22 patients who presented with cystic head and neck SCC
+metastases. The purpose of the study was to find out whether histological
+characteristics, p16 protein expression, HPV and Epstein-Barr virus (EBV) status 
+could be useful in predicting the localization of the primary tumor. The primary 
+site was identified in 20 of 22 patients and included the oropharynx in 14
+patients (63.6%), the nasopharynx in 3 patients (13.6%), the lungs in 2 cases
+(9%), and the skin of the auricle in one case (4.5%). No primary was found in two
+patients (9%). Sixteen of 17 cases (94.1%) originating in Waldayer's ring
+(oropharynx and nasopharynx), and both cases with an unknown primary showed
+morphology of non-keratinizing SCC or non-keratinizing SCC with maturation. All
+tumors with oropharyngeal primary and both cases with unknown primary showed
+diffuse p16 staining and presence of HPV DNA. All three cystic metastases of
+nasopharyngeal carcinoma were EBV-positive and p16/HPV-negative. In contrast,
+cutaneous and pulmonary metastases showed morphology of a well differentiated
+keratinizing SCC and poorly differentiated keratinizing SCC, respectively, and
+were HPV/EBV-negative. We confirmed that cystic SCC lymph node metastases of the 
+head and neck region are strongly associated with the occult primary localized in
+the oropharynx. The oropharyngeal origin should always be corroborated by p16
+immunohistochemistry and HPV-specific testing because SCC arising in other sites,
+such as nasopharynx, skin or lungs may manifest with cystic neck metastases as
+well. Addition of EBV testing in p16/HPV-negative cases can disclose the
+nasopharyngeal origin of the cystic neck metastases in a subset of cases.
+
+Copyright © 2016 Elsevier GmbH. All rights reserved.
+
+DOI: 10.1016/j.prp.2016.03.002 
+PMID: 27013059  [Indexed for MEDLINE]

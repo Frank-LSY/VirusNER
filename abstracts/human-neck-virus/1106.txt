@@ -1,0 +1,40 @@
+
+
+1106. Head Neck. 2016 Mar;38(3):417-25. doi: 10.1002/hed.23918. Epub 2015 Jul 15.
+
+Establishment and characterization of a human papillomavirus type 16-positive
+tonsillar carcinoma xenograft in BALB/c nude mice.
+
+Letsolo BT(1)(2), Faust H(1), Ekblad L(3), Wennerberg J(4), Forslund O(1).
+
+Author information: 
+(1)Department of Laboratory Medicine, Division of Medical Microbiology, Lund
+University and Skåne Regional and University Laboratories, Malmö, Sweden.
+(2)School of Molecular and Cell Biology, University of the Witwatersrand,
+Johannesburg, Republic of South Africa.
+(3)Division of Oncology, Clinical Sciences, Lund University and Skåne University 
+Hospital, Lund, Sweden.
+(4)Division of Otorhinolaryngology/Head and Neck Surgery, Clinical Sciences, Lund
+University and University Hospital of Scania, Lund, Sweden.
+
+BACKGROUND: Among head and neck cancers, human papillomavirus type 16 (HPV16) is 
+associated with tonsillar carcinomas. Despite this, no HPV16-positive tonsillar
+cancer cell line has been established in nude mice.
+METHODS: Fresh tonsillar carcinoma biopsies were obtained from 23 patients and
+implanted subcutaneously into nude mice (BALB/c, nu/nu).
+RESULTS: After 7 months, one xenograft was established. The primary tumor
+harbored 2.7 copies (95% confidence interval = 2.4-2.9) of HPV16/cell and
+displayed 99.9% (7904/7906) nucleotide identity to HPV16 (EU118173.1). The
+xenograft showed increased methylation in two E2-binding sites of the HPV16
+genome. Both episomal and integrated HPV16 were detected in the original tumor
+and in 14 xenografts from the second passage. From this passage, a viral load of 
+6.4 copies/cell (range = 4.6-9.6) and 3.7 (range = 1.0-5.5) E7-mRNA
+transcripts/HPV16-genome were detected.
+CONCLUSION: This xenograft represents the first established HPV16-positive
+tonsillar tumor in nude mice and could provide an experimental system of
+HPV16-positive tonsillar cancers.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23918 
+PMID: 25352201  [Indexed for MEDLINE]

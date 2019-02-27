@@ -1,0 +1,38 @@
+
+
+26. Retrovirology. 2014 Jan 10;11:3. doi: 10.1186/1742-4690-11-3.
+
+Novel restriction factor RNA-associated early-stage anti-viral factor (REAF)
+inhibits human and simian immunodeficiency viruses.
+
+Marno KM, Ogunkolade BW, Pade C, Oliveira NM, O'Sullivan E, McKnight Á(1).
+
+Author information: 
+(1)Centre for Immunology and Infectious Disease, Blizard Institute, Barts and The
+London School of Medicine and Dentistry, Queen Mary University of London, London,
+UK. a.mcknight@qmul.ac.uk.
+
+BACKGROUND: The discovery of novel anti-viral restriction factors illuminates
+unknown aspects of innate sensing and immunity. We identified RNA-associated
+Early-stage Anti-viral Factor (REAF) using a whole genome siRNA screen for
+restriction factors to human immunodeficiency virus (HIV) that act in the early
+phase of viral replication.
+RESULTS: We observed more than 50 fold rescue of HIV-1 infection, using a focus
+forming unit (FFU) assay, following knockdown of REAF by specific siRNA.
+Quantitative PCR was used to show that REAF knockdown results in an increase of
+early and late reverse transcripts which impacts the level of integration. REAF
+thus appears to act at an early stage of the viral life cycle during reverse
+transcription. Conversely when REAF is over-expressed in target cells less
+infected cells are detectable and fewer reverse transcripts are produced. Human
+REAF can also inhibit HIV-2 and simian immunodeficiency virus (SIV) infection.
+REAF associates with viral nucleic acids and may act to prevent reverse
+transcription.
+CONCLUSIONS: This report firmly places REAF alongside APOBECs and SAMHD1 as a
+potent inhibitor of HIV replication acting early in the replication cycle, just
+after cell entry. We propose that REAF is part of an anti-viral surveillance
+system destroying incoming retroviruses. This novel mechanism could apply to
+invasion of cells by any intracellular pathogen.
+
+DOI: 10.1186/1742-4690-11-3 
+PMCID: PMC3895926
+PMID: 24410916  [Indexed for MEDLINE]

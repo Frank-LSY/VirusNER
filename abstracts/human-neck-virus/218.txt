@@ -1,0 +1,40 @@
+
+
+218. Am J Case Rep. 2017 Feb 15;18:166-169.
+
+Coxsackie Myocarditis and Hepatitis with Reactivated Epstein-Bar Virus (EBV): A
+Case Report.
+
+Atti V(1), Anderson NM(1), Day MB(1).
+
+Author information: 
+(1)Department of Internal Medicine, University of Nebraska Medical Center, Omaha,
+NE, USA.
+
+BACKGROUND Myocarditis, defined as inflammation of myocardial tissue of the
+heart, is an uncommon cardiac presentation and is due to a variety of causes. It 
+affects 1% of the US population, 50% of which is caused by coxsackie B virus.
+Cardiac tissue is the prime target, and destruction of myocardium results in
+cardiac failure with fluid overload. CASE REPORT Our patient was a 57-year-old
+woman with fever, headache, neck pain, and generalized malaise. Her white blood
+cell count was 13×10³ cells/mm³. Interestingly, lumbar puncture ruled out
+meningitis. An echocardiogram to evaluate elevated troponin revealed an ejection 
+fraction of 30% with severe left ventricular global hypokinesis without valvular 
+vegetations consistent with new-onset systolic heart failure. Cardiac MRI showed 
+a small pericardial effusion with bilateral pleural effusion. As she continued to
+be febrile, a viral panel was ordered, revealing coxsackie B4 antibody titer of
+1: 640 (reference: >1: 32 indicates recent infection) with positive Epstein-Barr 
+virus deoxyribonucleic acid by PCR, consistent with viral myocarditis.
+CONCLUSIONS Coxsackie B virus myocarditis is rarely recognized and reported by
+the general internist in clinical practice, so we would like present our
+experience with an interesting clinical presentation of the viral prodrome. An
+estimated 95% people in the US are infected with Epstein-Barr virus by adulthood,
+but it remains dormant in memory B lymphocytes. Recirculation of these B cells in
+lymphoid tissue stimulated by antigens, which in our case is coxsackie B virus;
+they differentiate into plasma cells, and the production of Z Epstein-Barr
+replication activator protein (ZEBRA) increases viral replication, thus
+explaining the positive EBV DNA measured by PCR.
+
+
+PMCID: PMC5321173
+PMID: 28196967  [Indexed for MEDLINE]

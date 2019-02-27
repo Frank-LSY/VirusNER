@@ -1,0 +1,35 @@
+
+
+350. Hepatogastroenterology. 2014 May;61(131):599-605.
+
+Phase I Dose-escalation Clinical Trial of HF10 Oncolytic Herpes Virus in 17
+Japanese Patients with Advanced Cancer.
+
+Kasuya H, Kodera Y, Nakao A, Yamamura K, Gewen T, Zhiwen W, Hotta Y, Yamada S,
+Fujii T, Fukuda S, Tsurumaru N, Kuwahara T, Kikumori T, Koide Y, Fujimoto Y,
+Nakashima T, Hirooka Y, Shiku H, Tanaka M, Takesako K, Kondo T, Aleksic B,
+Kawashima H, Goto H, Nishiyama Y.
+
+Oncolytic virus therapy is a promising new therapeutic method, one of an eagerly 
+anticipated class of biological therapies against cancer. There are many
+different classes of oncolytic virus. One of these, herpes oncolytic virus, is
+strongly oncolytic and has a large DNA genome as 150k bp. HF10 is a spontaneous
+mutant of herpes simplex virus -1 (HSV-1) that replicates within tumors and
+destroys cancers without damaging normal tissue and organs. Clinical trials of
+HF10 are underway in Japan and the United States. The first pilot study of HF10
+was initiated in Japan in 2003. This study examined the safety and efficacy of
+HF10 in the treatment of breast cancer and head and neck cancers; the trial also 
+included careful dose escalation studies. In 2005, a clinical trial using HF10 to
+treat pancreatic cancer was initiated. screened In this Japanese study, 17
+patients received HF10 in their tumor sites. A clinical trial in the United
+States is also ongoing to evaluate safety, tolerability and evidence of antitumor
+activity in patients with refractory superficial solid tumors. Here, we report
+the evaluation of the 17 patients treated in Japan. Among the patients, 6 had
+recurrent breast cancer, 3 had recurrent head and neck cancer, and 8 had
+non-resectable pancreatic cancer. No severe adverse side effects have been
+observed, and some therapeutic potential has been reported based on pathological 
+findings, tumor markers, and diagnostic radiography. Those results should
+encourage further clinical trials of HF10 around the world.
+
+
+PMID: 26176043  [Indexed for MEDLINE]

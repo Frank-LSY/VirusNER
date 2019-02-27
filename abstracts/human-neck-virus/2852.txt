@@ -1,0 +1,36 @@
+
+
+2852. Oncotarget. 2014 Apr 15;5(7):1856-68.
+
+ΔNp63 isoform-mediated β-defensin family up-regulation is associated with
+(lymph)angiogenesis and poor prognosis in patients with squamous cell carcinoma.
+
+Suarez-Carmona M(1), Hubert P, Gonzalez A, Duray A, Roncarati P, Erpicum C,
+Boniver J, Castronovo V, Noel A, Saussez S, Peulen O, Delvenne P, Herfs M.
+
+Author information: 
+(1)Laboratory of Experimental Pathology, GIGA-Cancer, University of Liege, Liege,
+Belgium.
+
+Beside a role in normal development/differentiation, high p63 immunoreactivity is
+also frequently observed in squamous cell carcinoma (SCC). Due to the complexity 
+of the gene, the role of each p63 isotype in tumorigenesis is still confusing.
+Constitutively produced or induced in inflammatory conditions, human
+beta-defensins (HβDs) are cationic peptides involved in host defenses against
+bacteria, viruses and fungi. Here, we investigated both the role of p63 proteins 
+in the regulation of HβDs and the implication of these antimicrobial peptides in 
+tumor (lymph)angiogenesis. Thus, in contrast to TAp63 isotypes, we observed that 
+ΔNp63 proteins (α, β, γ) induce HβD1, 2 and 4 expression. Similar results were
+observed in cancer tissues and cell lines. We next demonstrated that
+ΔNp63-overexpressing SCC are associated with both a poor prognosis and a high
+tumor vascularisation and lymphangiogenesis. Moreover, we showed that HβDs exert 
+a chemotactic activity for (lymphatic) endothelial cells in a CCR6-dependent
+manner. The ability of HβDs to enhance (lymph)angiogenesis in vivo was also
+evaluated. We observed that HβDs increase the vessel number and induce a
+significant increase in relative vascular area compared to negative control.
+Taken together, the results of this study suggest that ΔNp63-regulated HβD could 
+promote tumor (lymph)angiogenesis in SCC microenvironment.
+
+DOI: 10.18632/oncotarget.1819 
+PMCID: PMC4039122
+PMID: 24732135  [Indexed for MEDLINE]

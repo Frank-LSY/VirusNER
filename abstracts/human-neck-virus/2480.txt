@@ -1,0 +1,54 @@
+
+
+2480. J Craniomaxillofac Surg. 2014 Oct;42(7):1160-5. doi: 10.1016/j.jcms.2014.02.001. 
+Epub 2014 Feb 21.
+
+Knowledge of diagnostic and risk factors in oral cancer: results from a
+large-scale survey among non-dental healthcare providers in Northern Germany.
+
+Hertrampf K(1), Wenz HJ(2), Koller M(3), Ambrosch P(4), Arpe N(5), Wiltfang J(6).
+
+Author information: 
+(1)Clinic of Oral and Maxillofacial Surgery, (Head: Prof. Dr. Dr. Jörg Wiltfang),
+University Hospital Schleswig-Holstein, Arnold-Heller-Str. 16, 24105 Kiel,
+Germany. Electronic address: hertrampf@mkg.uni-kiel.de.
+(2)Clinic of Prosthodontics, Propaedeutics and Dental Materials, (Head: Prof. Dr.
+Matthias Kern), University Hospital Schleswig-Holstein, Arnold-Heller-Str. 16,
+24105 Kiel, Germany.
+(3)Centre for Clinical Studies, (Head: Prof. Dr. Michael Koller), University
+Hospital Regensburg, 93042 Regensburg, Germany.
+(4)Clinic of Otorhinolaryngology, Head and Neck Surgery, (Head: Prof. Dr. Petra
+Ambrosch), University Hospital Schleswig-Holstein, Arnold-Heller-Str. 3, Haus 27,
+24105 Kiel, Germany.
+(5)Clinic of Radiotherapy, (Head: Prof. Dr. Jürgen Dunst), University Hospital
+Schleswig-Holstein, Arnold-Heller-Str. 3, Haus 50, 24105 Kiel, Germany.
+(6)Clinic of Oral and Maxillofacial Surgery, (Head: Prof. Dr. Dr. Jörg Wiltfang),
+University Hospital Schleswig-Holstein, Arnold-Heller-Str. 16, 24105 Kiel,
+Germany.
+
+INTRODUCTION: A survey was conducted to assess the level of knowledge on oral
+cancer among different medical fields, in particular about diagnostic items and
+risk factors.
+MATERIAL AND METHODS: A self-administered questionnaire was mailed to physicians 
+from various fields, such as otorhinolaryngology, general practice, internal
+medicine, and dermatology.
+RESULTS: 388 of the 2,952 questionnaires were returned (13.1%), subdivided into
+otorhinolaryngology (n = 33), internal medicine (n = 135), dermatology (n = 28), 
+and general practice (n = 192). The average knowledge of risk factors was similar
+in the specialisations, ranging from 68% for internal medicine to 76% for
+otorhinolaryngology and 77% for dermatology. The three main risk factors: tobacco
+(93%-100%), alcohol (79%-100%), and prior oral cancer lesions (91%-100%) were the
+most commonly known. Regarding the diagnostic items, the average percentage of
+correct answers ranged from 69% for internal and general medicine to 77% for
+dermatologists. Continuous courses of education and the year of graduation were
+the only two variables that significantly related to a better level of knowledge 
+of risk factors and diagnostic items.
+CONCLUSIONS: The average knowledge among the different medical fields was
+satisfying. These results demonstrated a robust base for all healthcare providers
+to continue working together to improve the early detection of oral cancer.
+
+Copyright © 2014 European Association for Cranio-Maxillo-Facial Surgery.
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jcms.2014.02.001 
+PMID: 24736229  [Indexed for MEDLINE]

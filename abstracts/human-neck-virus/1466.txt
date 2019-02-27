@@ -1,0 +1,38 @@
+
+
+1466. Br J Cancer. 2011 Mar 1;104(5):886-91. doi: 10.1038/sj.bjc.6606091. Epub 2011 Feb
+1.
+
+Head and neck cancer in Australia between 1982 and 2005 show increasing incidence
+of potentially HPV-associated oropharyngeal cancers.
+
+Hocking JS(1), Stein A, Conway EL, Regan D, Grulich A, Law M, Brotherton JM.
+
+Author information: 
+(1)Centre for Women's Health, Gender and Society, University of Melbourne, 2/723 
+Swanston Street, Carlton 3053, Victoria, Australia. jhocking@unimelb.edu.au
+
+BACKGROUND: Although tobacco- and alcohol-associated head and neck cancers are
+declining in the developed world, potentially human papillomavirus
+(HPV)-associated oropharnygeal cancers are increasing.
+METHODS: We analysed oropharyngeal and oral cavity cancer rates in Australia in
+1982-2005. Cancers from the oropharynx (base of tongue, tonsil and other specific
+oropharyngeal sites) were classified as potentially HPV associated (n=8844);
+cancers in other oral cavity and oropharyngeal sites not previously associated
+with HPV were classified as comparison (n=28,379).
+RESULTS: In 2000-2005, an average of 219, 159 and 110 cancers of the tonsil, base
+of tongue and other oropharyngeal sites were diagnosed annually, with incidences 
+of 1.09 (95% CI: 1.03, 1.15), 0.79 (95% CI: 0.74, 0.84) and 0.55 (95% CI: 0.50,
+0.59) per 100,000, respectively. An average of 1242 comparison cancers were
+diagnosed annually (6.17 (95% CI: 6.03, 6.31) per 100,000). In 1982-2005, there
+were significant annual increases in tonsil (1.39% (95% CI: 0.88, 1.92%)) and
+base of tongue cancers in males (3.02% (95% CI: 2.27, 3.78%)) and base of tongue 
+cancer in females (3.45% (95% CI: 2.21, 4.70%)). There was a significant decrease
+in comparison cancers in men (-1.69% (95% CI: -1.96, -1.42%)), but not in
+females.
+CONCLUSION: Potentially HPV-associated oropharyngeal cancer in Australia is
+increasing; the impact of HPV vaccination on these cancers should be monitored.
+
+DOI: 10.1038/sj.bjc.6606091 
+PMCID: PMC3048203
+PMID: 21285981  [Indexed for MEDLINE]

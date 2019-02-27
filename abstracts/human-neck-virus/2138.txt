@@ -1,0 +1,58 @@
+
+Conflict of interest statement: Conflict of interest statement: Y.M.D.L. is a
+scientific cofounder and member of the scientific advisory board for Grail.
+Y.M.D.L., R.W.K.C., and K.C.A.C. hold equity in Grail and receive research
+funding from Grail/Cirina. P.J. is a consultant to Xcelom and Grail. W.K.J.L. is 
+a consultant to Grail. E.P.H. receives fees for serving on an advisory board for 
+Bristol-Myers Squibb and Merck Sharp & Dohme. Y.M.D.L., R.W.K.C., K.C.A.C., P.J.,
+and W.K.J.L. have filed patent applications based on the data generated from this
+work.
+
+
+2138. Head Neck. 2016 Jan;38(1):44-50. doi: 10.1002/hed.23836. Epub 2015 Jan 27.
+
+Impact of race on oropharyngeal squamous cell carcinoma presentation and outcomes
+among veterans.
+
+Zevallos JP(1)(2), Sandulache VC(2), Hamblin J(2), Skinner HD(3), Kramer J(4)(5),
+Hartman CM(4), Horter KL(2), Lai S(6)(7), Zhou X(8), Chiao EY(4)(5).
+
+Author information: 
+(1)Otolaryngology/Head and Neck Surgery, Michael E. DeBakey VA Medical Center,
+Houston, Texas.
+(2)Bobby R. Alford Department of Otolaryngology Head and Neck Surgery, Baylor
+College of Medicine, Houston, Texas.
+(3)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(4)VA Health Services Research and Development Center for Innovations in Quality,
+Effectiveness, and Safety, Michael E. DeBakey VA Medical Center, Houston, Texas.
+(5)Department of Medicine, Baylor College of Medicine, Houston, Texas.
+(6)Department of Pathology and Immunology, Baylor College of Medicine, Houston,
+Texas.
+(7)Department of Pathology, Michael E. DeBakey VA Medical Center, Houston, Texas.
+(8)Department of Internal Medicine, The University of Texas Health Science Center
+at Houston, Houston, Texas.
+
+BACKGROUND: Racial disparities in oropharyngeal squamous cell carcinoma (SCC)
+have been demonstrated and attributed to differences in human papillomavirus
+(HPV) status. The purpose of this study was to examine racial disparities in
+oropharyngeal SCC among veterans.
+METHODS: Retrospective review of patients with oropharyngeal SCC at a
+tertiary-care Veterans Affairs (VA) hospital. Adjusted Cox proportional hazards
+models were conducted to examine the effect of race on oropharyngeal SCC
+outcomes.
+RESULTS: Of 158 patients, 126 (79.7%) were white and 32 (20.3%) were African
+American. No difference in p16 tumor expression was noted between the groups.
+Five-year disease-free survival (DFS) was 42.6% and 55.1% for African Americans
+and whites, respectively (p = .372). Five-year overall survival (OS) for African 
+Americans and whites was 54.6% and 51.8%, respectively (p = .768). On
+multivariate analysis, there was no significant difference in risk of recurrence 
+or death by race.
+CONCLUSION: Racial disparities are largely ameliorated in patients with
+oropharyngeal SCC treated within the VA, there were no racial differences in p16 
+tumor expression, and outcomes remain poor.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23836 
+PMID: 24992520  [Indexed for MEDLINE]

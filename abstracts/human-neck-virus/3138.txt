@@ -1,0 +1,30 @@
+
+
+3138. BMJ Case Rep. 2013 Apr 23;2013. pii: bcr2012008524. doi: 10.1136/bcr-2012-008524.
+
+Unravelling the Gordian knot: diagnostic dilemma in an HIV-positive patient with 
+neurological involvement.
+
+Chakraborty A(1), Siddhanta S, Bhattacharyya K, Das A, Banerjee S, Sarkar RN,
+Datta UK, Chakraborty N.
+
+Author information: 
+(1)ICMR Virus Unit, Kolkata, ID & BG Hospital, Kolkata, West Bengal, India.
+
+We report a case of a 40-year-old seropositive-HIV patient with a CD4 count of
+120 who presented with fever, severe headache and neck stiffness. Suspecting a
+case of tubercular meningitis (TBM; as tuberculosis is the commonest
+opportunistic infection in HIV/AIDS patients in India), a lumbar puncture was
+performed and a cerebrospinal fluid study revealed TBM. The patient was started
+on combination antitubercular drug therapy from directly observed treatment,
+short course (DOTS) (Cat 1 regimen) along with pyridoxine 40 mg/day and
+adjunctive corticosteroid therapy. However, despite adequate antitubercular
+therapy for 4 weeks, the patient did not show any improvement in his clinical
+condition. On the contrary, in the process he developed cytomegalovirus (CMV)
+retinitis. So we question our learned readers if the coinfection of Mycobacterium
+tuberculosis and CMV should be implicated for the failure to respond to isolated 
+antitubercular therapy contrary to our expectation.
+
+DOI: 10.1136/bcr-2012-008524 
+PMCID: PMC3644930
+PMID: 23616316  [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+
+
+1394. PLoS Pathog. 2018 Sep 13;14(9):e1007253. doi: 10.1371/journal.ppat.1007253.
+eCollection 2018 Sep.
+
+Shugoshin 1 is dislocated by KSHV-encoded LANA inducing aneuploidy.
+
+Lang F(1), Sun Z(1), Pei Y(1), Singh RK(1), Jha HC(1), Robertson ES(1).
+
+Author information: 
+(1)Departments of Otorhinolaryngology-Head and Neck Surgery, and Microbiology,
+the Tumor Virology Program, Abramson Cancer Center, Perelman School of Medicine
+at the University of Pennsylvania, Philadelphia, PA, United States of America.
+
+Shugoshin-1 (Sgo1) protects the integrity of the centromeres, and H2A
+phosphorylation is critical for this process. The mitotic checkpoint kinase Bub1,
+phosphorylates H2A and ensures fidelity of chromosome segregation and chromosome 
+number. Oncogenic KSHV induces genetic alterations through chromosomal
+instability (CIN), and its essential antigen LANA regulates Bub1. We show that
+LANA inhibits Bub1 phosphorylation of H2A and Cdc20, important for chromosome
+segregation and mitotic signaling. Inhibition of H2A phosphorylation at residue
+T120 by LANA resulted in dislocation of Sgo1, and cohesin from the centromeres.
+Arrest of Cdc20 phosphorylation also rescued degradation of Securin and Cyclin B1
+at mitotic exit, and interaction of H2A, and Cdc20 with Bub1 was inhibited by
+LANA. The N-terminal nuclear localization sequence domain of LANA was essential
+for LANA and Bub1 interaction, reversed LANA inhibited phosphorylation of H2A and
+Cdc20, and attenuated LANA-induced aneuploidy and cell proliferation. This
+molecular mechanism whereby KSHV-induced CIN, demonstrated that the NNLS of LANA 
+is a promising target for development of anti-viral therapies targeting KSHV
+associated cancers.
+
+DOI: 10.1371/journal.ppat.1007253 
+PMCID: PMC6136811
+PMID: 30212568  [Indexed for MEDLINE]

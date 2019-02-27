@@ -1,0 +1,20 @@
+
+
+25. Microbiol Spectr. 2016 Jun;4(3). doi: 10.1128/microbiolspec.DMIH2-0011-2015.
+
+Epstein-Barr Virus.
+
+Nowalk A, Green M.
+
+This review covers relevant clinical and laboratory information relating to
+Epstein-Barr virus (EBV) infections in immunocompromised hosts. It describes the 
+epidemiology and clinical manifestations with a primary focus on disease in solid
+organ and stem cell transplant recipients. The review pays particular attention
+to diagnostic approaches, including serologic testing and imaging, with an
+expanded discussion on the role of measuring the EBV load in peripheral blood,
+identifying both strengths and limitations of this assay. Additional attention is
+paid to potential additional strategies of immunologic monitoring that may
+enhance the performance of EBV load monitoring.
+
+DOI: 10.1128/microbiolspec.DMIH2-0011-2015 
+PMID: 27337443  [Indexed for MEDLINE]

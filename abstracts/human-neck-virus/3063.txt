@@ -1,0 +1,33 @@
+
+
+3063. Southeast Asian J Trop Med Public Health. 2013 Sep;44(5):791-8.
+
+Hospital-based surveillance of Japanese encephalitis at a tertiary hospital in
+Manila.
+
+Alera MT(1), Velasco JM(1), Ypil-Cardenas CA(1), Jarman RG(1), Nisalak AN(1),
+Thaisomboonsuk B(1), Gibbons RV(1), Dimaano EM(2), Yoon IK(2).
+
+Author information: 
+(1)Department of Virology, US Army Medical Component - Armed Forces Research
+Institute of Medical Sciences, Bangkok, Thailand.
+(2)San Lazaro Hospital, Manila, Philippines.
+
+Japanese encephalitis virus (JEV) is endemic in the Philippines but the incidence
+and burden of disease are not well established. We conducted a prospective
+hospital-based study at San Lazaro Hospital, a tertiary level hospital in Manila,
+from September 2005 to December 2006. Cases were determined using an in-house
+dengue and Japanese encephalitis (JE) enzyme-linked immunosorbent assay in order 
+to detect the proportion of JE cases among the acute encephalitis syndrome (AES) 
+cases admitted to our hospital. Fifteen patients were found to have AES, of whom 
+6 (40%) had confirmed JE. Of the JE cases, 4 were females and 2 were males with
+an age range of 3-14 years. Three of the 6 JE cases occurred during July. The
+most common signs and symptoms on admission among JE cases were: fever, headache,
+loss of appetite, neck rigidity and altered sensorium. JE likely comprises a
+significant proportion of hospitalized AES cases among children from Manila and
+nearby provinces. Further studies on the nation-wide prevalence and distribution 
+of JE in the Philippines are needed to guide health authorities in disease
+control and prevention strategies.
+
+
+PMID: 24437314  [Indexed for MEDLINE]

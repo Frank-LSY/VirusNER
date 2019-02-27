@@ -1,0 +1,44 @@
+
+
+2791. Anticancer Res. 2018 May;38(5):2723-2731.
+
+Tyrosine Kinase Inhibition in HPV-related Squamous Cell Carcinoma Reveals
+Beneficial Expression of cKIT and Src.
+
+Kramer B(1), Kneissle M(2), Birk R(3), Rotter N(2), Aderhold C(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Medical Faculty Mannheim, University Heidelberg, Manheim, Germany
+benedikt.kramer@umm.de.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Medical Faculty Mannheim, University Heidelberg, Manheim, Germany.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, University Hospital 
+Marburg, University Marburg, Marburg, Germany.
+
+BACKGROUND/AIM: Therapeutic options of locally advanced or metastatic head and
+neck squamous cell carcinoma (HNSCC) are limited. Src and cKIT are key protein
+regulators for local tumor progression. The aim of the study was to investigate
+the therapeutic potential of targeted therapies in human squamous cell carcinoma 
+(HNSCC) in vitro. Therefore, the influence of the selective tyrosine kinase
+inhibitors niotinib, dasatinib, erlotinib, gefitinib and afatinib on Src and cKIT
+expression in Human papilloma virus (HPV)-positive and HPV-negative squamous
+cancer cells (SCC) was analyzed in vitro.
+MATERIALS AND METHODS: ELISA was performed to evaluate the expression of Src and 
+cKIT under the influence of nilotinib, dasatinib, erlotinib, gefitinib and
+afatinib (10 μmol/l) in HPV-negative and HPV-positive SCC (24-96 h of
+incubation).
+RESULTS: Gefitinib significantly increased cKIT expression in HPV-positive and
+HPV-negative cells whereas nilotinib and afatinib decreased cKIT expression in
+HPV-positive SCC. The influence of tyrosine kinase inhibitors in HPV-negative SCC
+was marginal. Surprisingly, Src expression was significantly increased by all
+tested tyrosine kinase inhibitors in HPV-positive SCC.
+CONCLUSION: The results revealed beneficial and unexpected information concerning
+the interaction of selective tyrosine kinase inhibitors and the tumor biology of 
+HNSCC.
+
+Copyright© 2018, International Institute of Anticancer Research (Dr. George J.
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.12514 
+PMID: 29715092  [Indexed for MEDLINE]

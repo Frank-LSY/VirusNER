@@ -1,0 +1,27 @@
+
+
+2389. Drug Discov Today. 2009 Jun;14(11-12):570-8. doi: 10.1016/j.drudis.2009.03.008.
+Epub 2009 Mar 17.
+
+Targeted genetic and viral therapy for advanced head and neck cancers.
+
+Huang PI(1), Chang JF, Kirn DH, Liu TC.
+
+Author information: 
+(1)Cancer Center, Taipei Veterans General Hospital, School of Medicine, National 
+Yang-Ming University, Taipei, Taiwan.
+
+Head and neck cancers usually present with advanced disease and novel therapies
+are urgently needed. Genetic therapy aims at restoring malfunctioned tumor
+suppressor gene(s) or introducing proapoptotic genes. Oncolytic virotherapeutics 
+induce multiple cycles of cancer-specific virus replication, followed by
+oncolysis, virus spreading and infection of adjacent cancer cells. Oncolytic
+viruses can also be armed to express therapeutic transgene(s). Recent advances in
+preclinical and clinical studies are revealing the potential of both therapeutic 
+classes for advanced head and neck cancers, including the approval of two
+products (Gendicine and H101) by a governmental agency. This review summarizes
+the available clinical data to date and discusses the challenges and future
+directions.
+
+DOI: 10.1016/j.drudis.2009.03.008 
+PMID: 19508919  [Indexed for MEDLINE]

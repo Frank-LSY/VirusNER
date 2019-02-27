@@ -1,0 +1,51 @@
+
+
+2438. Radiother Oncol. 2018 Jan;126(1):107-115. doi: 10.1016/j.radonc.2017.10.018.
+
+Prognostic impact of HPV-associated p16-expression and smoking status on outcomes
+following radiotherapy for oropharyngeal cancer: The MARCH-HPV project.
+
+Lassen P(1), Lacas B(2), Pignon JP(2), Trotti A(3), Zackrisson B(4), Zhang Q(5), 
+Overgaard J(1), Blanchard P(6); MARCH Collaborative Group.
+
+Author information: 
+(1)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+Denmark.
+(2)Gustave-Roussy, Paris-Saclay University, Biostatistics and Epidemiology
+Department, Villejuif, France; INSERM U1018, CESP, Université Paris-Sud,
+Université Paris-Saclay, Villejuif, France.
+(3)Moffitt Cancer Center, Department of Radiation Oncology, Tampa, USA.
+(4)Department of Radiation Sciences - Oncology, Umeå University, Umeå, Sweden.
+(5)NRG Oncology Statistics and Data Management Center (formerly RTOG),
+Philadelphia, USA.
+(6)Gustave-Roussy, Paris-Saclay University, Radiotherapy Department, Villejuif,
+France; INSERM U1018, CESP, Université Paris-Sud, Université Paris-Saclay,
+Villejuif, France. Electronic address: pierre.blanchard@gustaveroussy.fr.
+
+BACKGROUND AND PURPOSE: Evaluate the prognostic and predictive impact of
+HPV-associated p16-expression and assess the combined prognostic impact of p16
+and smoking on altered fractionated radiotherapy (AFRT) for oropharyngeal cancer 
+(OPC) within the frames of the update of the Meta-Analysis of Radiotherapy in
+Carcinomas of Head and neck (MARCH).
+MATERIALS AND METHODS: Patients with OPC, known tumor p16-status and smoking
+history were identified from the MARCH update, resulting in a dataset of 815
+patients from four randomized trials (RTOG9003, DAHANCA6&7, RTOG0129, ARTSCAN).
+Analysis was performed using a Cox model stratified by trial and adjusted on
+gender, age, T-stage, N-stage, type of radiotherapy fractionation, p16, smoking. 
+Primary endpoint was progression-free survival (PFS).
+RESULTS: In total, 465 patients (57%) had p16-positive tumors and 350 (43%)
+p16-negative. Compared to p16-negative, p16-positive patients had significantly
+better PFS (HR = 0.42 [95% CI: 0.34-0.51], 28.9% absolute increase at 10 years)
+and OS (HR = 0.40 [0.32-0.49], 32.1% absolute increase at 10 years). No
+interaction between p16-status and fractionation schedule was detected. Smoking
+negatively impacted outcome; in the p16-positive subgroup, never smokers had
+significantly better PFS than former/current smokers (HR = 0.49 [0.33-0.75],
+24.2% survival benefit at 10 years).
+CONCLUSIONS: No predictive impact of p16-status on response to AFRT could be
+detected but the strong prognostic impact of p16-status was confirmed and
+especially p16-positive never smoking patients have superior outcome after RT.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.radonc.2017.10.018 
+PMID: 29100700  [Indexed for MEDLINE]

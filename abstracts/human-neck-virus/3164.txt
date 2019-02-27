@@ -1,0 +1,41 @@
+
+
+3164. Oral Oncol. 2011 Jun;47(6):541-5. doi: 10.1016/j.oraloncology.2011.03.017. Epub
+2011 Apr 7.
+
+Tobacco smoking, alcohol drinking, and the risk of different histological types
+of nasopharyngeal cancer in a low-risk population.
+
+Polesel J(1), Franceschi S, Talamini R, Negri E, Barzan L, Montella M, Libra M,
+Vaccher E, Franchin G, La Vecchia C, Serraino D.
+
+Author information: 
+(1)Unit of Epidemiology and Biostatistics, Centro di Riferimento Oncologico,
+IRCCS, Via F. Gallini 2, 33081 Aviano (PN), Italy. polesel@cro.it
+
+Nasopharyngeal carcinoma (NPC) is rare in western Countries. Tobacco smoking is a
+well-recognised risk factor, whereas the role of alcohol drinking is still in
+debate. We conducted a hospital-based case-control study in Italy on 150,
+histologically-confirmed, NPC cases of Caucasian ethnicity, aged 18-76years,
+including 118 undifferentiated NPCs and 22 differentiated squamous-cell NPC.
+Controls were 450 Caucasian cancer-free patients admitted to general hospitals
+for acute conditions. Cases and controls were matched according to sex, age, and 
+place of residence. Logistic regression was used to estimate odds ratios (OR) and
+the corresponding 95% confidence intervals (CI) while adjusting for known
+confounders. No significant association emerged between tobacco smoking and all
+NPCs (OR for current vs. never smokers=1.52; 95% CI: 0.89-2.60). Conversely, for 
+differentiated NPC only, statistically significant elevated OR were associated
+with increasing smoking intensity (OR for ⩾15cigarettes/day=5.40; 95% CI:
+1.34-21.76) and duration of the habit (OR for ⩾32years=4.48; 95% CI: 1.11-18.04).
+Although alcohol drinking was not, per se, significantly associated to NPC risk, 
+the combination of tobacco smoking and alcohol drinking accounted for 57% of
+differentiated NPCs, whereas it accounted for only 14% of undifferentiated
+carcinomas. Our findings suggest that, in western populations, NPC includes two
+separate entities: the differentiated NPC, associated with tobacco smoking like
+other cancers of head and neck, and the undifferentiated NPC, upon which tobacco 
+smoking has little or no influence.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2011.03.017 
+PMID: 21478046  [Indexed for MEDLINE]

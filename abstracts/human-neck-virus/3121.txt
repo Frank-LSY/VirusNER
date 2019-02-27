@@ -1,0 +1,39 @@
+
+
+3121. Eur Arch Otorhinolaryngol. 2013 Sep;270(9):2515-20. doi:
+10.1007/s00405-013-2354-y. Epub 2013 Jan 23.
+
+Comparison of narrow-band imaging and conventional nasopharyngoscopy for the
+screening of unaffected members of families with nasopharyngeal carcinoma.
+
+Ho CY(1), Chan KT, Chu PY.
+
+Author information: 
+(1)Department of Otolaryngology, Taipei Veterans General Hospital and School of
+Medicine, National Yang-Ming University, No. 201, Sec. 2, Shih-Pai Rd, Taipei
+11217, Taiwan. cyho@vghtpe.gov.tw
+
+Familial aggregation of nasopharyngeal carcinoma (NPC) has been widely reported. 
+The excess risk is about 4-8-fold among first-degree relatives of NPC patients
+compared with those without a family history of the disease. We used
+nasopharyngoscopy and a narrow-band image system (NBI) to screen NPC high-risk
+patients and identify a good tool for the early detection of NPC in these
+high-risk groups. We recruited all available, affected blood relations of the
+patients. When NPC patients were more distant relatives, such as cousins, we
+recruited their shared second-degree relatives, such as unaffected aunts and
+uncles, to genetically connect the NPC cases. We performed transnasal endoscopy, 
+first in white-light mode, then under the NBI system. There were two NBI patterns
+in NPC: microvascular proliferation and engorged blood vessels. The NBI pattern
+in normal nasopharyngeal mucosa was a regular cobblestone pattern. A prospective 
+study included 211 asymptomatic members from 154 NPC families. We found four
+cases of NPC, all with a tumor stage of T1. In one patient (1/4), MRI revealed a 
+2-cm-diameter neck lymphadenopathy (N1). The correlation between conventional
+nasopharyngoscopy and NBI was very high (κ = 0.798, P = 0.000). In conclusions,
+NBI is not superior to conventional nasopharyngoscopy for the early detection of 
+NPC in unaffected members of families with NPC history. The long-term follow-up
+is necessary in high-risk NPC patients. Further studies will be needed to
+determine which screening tool-conventional nasopharyngoscopy, NBI, or EB virus
+titer-is most effective.
+
+DOI: 10.1007/s00405-013-2354-y 
+PMID: 23341094  [Indexed for MEDLINE]

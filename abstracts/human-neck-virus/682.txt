@@ -1,0 +1,45 @@
+
+
+682. J Wildl Dis. 2015 Jul;51(3):774-9. doi: 10.7589/2015-02-044. Epub 2015 Apr 28.
+
+A Recently Discovered Pathogenic Paramyxovirus, Sosuga Virus, is Present in
+Rousettus aegyptiacus Fruit Bats at Multiple Locations in Uganda.
+
+Amman BR(1), Albariño CG(1), Bird BH(1), Nyakarahuka L(2), Sealy TK(1), Balinandi
+S(3), Schuh AJ(1), Campbell SM(1), Ströher U(1), Jones ME(1)(4), Vodzack ME(5),
+Reeder DM(5), Kaboyo W(6), Nichol ST(1), Towner JS(1)(4).
+
+Author information: 
+(1)1  Centers for Disease Control and Prevention, Viral Special Pathogens Branch,
+1600 Clifton Rd. NE, Atlanta, Georgia 30333, USA.
+(2)2  Uganda Virus Research Institute, PO Box 49, Wilson Rd. and Nakiwago Rd.,
+Entebbe, Uganda.
+(3)3  Centers for Disease Control and Prevention, Viral Special Pathogens Branch,
+PO Box 49, Wilson Rd. and Nakiwago Rd., Entebbe, Uganda.
+(4)4  College of Veterinary Medicine, University of Georgia, 501 D. W. Brooks
+Drive, Athens, Georgia 30602, USA.
+(5)5  Department of Biology, Bucknell University, 1 Dent Drive, Lewisburg,
+Pennsylvania 17837, USA.
+(6)6  Uganda Ministry of Health, PO Box 7272, Plot 6 Lourdel Rd., Nakasero,
+Kampala, Uganda.
+
+In August 2012, a wildlife biologist became ill immediately following a 6-wk
+field trip to collect bats and rodents in South Sudan and Uganda. After returning
+to the US, the biologist was admitted to the hospital with multiple symptoms
+including fever, malaise, headache, generalized myalgia and arthralgia, stiffness
+in the neck, and sore throat. Soon after admission, the patient developed a
+maculopapular rash and oropharynx ulcerations. The patient remained hospitalized 
+for 14 d. Several suspect pathogens, including viral hemorrhagic fever viruses
+such as Ebola viruses and Marburg viruses, were ruled out through standard
+diagnostic testing. However, deep sequencing and metagenomic analyses identified 
+a novel paramyxovirus, later named Sosuga virus, in the patient's blood. To
+determine the potential source, bat tissues collected during the 3-wk period just
+prior to the onset of symptoms were tested for Sosuga virus, and several Egyptian
+rousette bats (Rousettus aegyptiacus) were found to be positive. Further analysis
+of archived Egyptian rousette tissues collected at other localities in Uganda
+found additional Sosuga virus-positive bats, suggesting this species could be a
+potential natural reservoir for this novel paramyxovirus.
+
+DOI: 10.7589/2015-02-044 
+PMCID: PMC5022529
+PMID: 25919464  [Indexed for MEDLINE]

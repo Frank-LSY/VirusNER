@@ -1,0 +1,35 @@
+
+
+1012. Cancer Treat Rev. 2016 Jan;42:24-9. doi: 10.1016/j.ctrv.2015.10.009. Epub 2015
+Oct 31.
+
+From HPV-positive towards HPV-driven oropharyngeal squamous cell carcinomas.
+
+Boscolo-Rizzo P(1), Pawlita M(2), Holzinger D(2).
+
+Author information: 
+(1)Department of Neurosciences, Regional Center for Head and Neck Cancer,
+University of Padua, Treviso, Italy. Electronic address:
+paolo.boscolorizzo@unipd.it.
+(2)Division of Molecular Diagnostics of Oncogenic Infections, Research Program
+Infection and Cancer, German Cancer Research Center (DKFZ), F020, Heidelberg,
+Germany.
+
+The incidence of HPV-positive oropharyngeal squamous cell carcinoma (OPSCC),
+which is both biologically and clinically distinct from tobacco- and
+alcohol-related OPSCC, is dramatically increasing. The finding that individuals
+with HPV-positive local/regionally advanced OPSCC have a significantly better
+prognosis than their negative counterparts have led to efforts to de-escalate
+treatment in those patients to avoid serious side effects and to improve their
+long-term quality of life, while maintaining treatment efficacy. Identifying
+diagnostic tests that are able to distinguish cancers etiologically associated
+with HPV is thus becoming a pressing challenge for researchers. The purpose of
+this review is to provide an overview of the diagnostic tools presently available
+to evaluate HPV status in patients with OPSCC and, in particular, to discuss
+their strengths and weaknesses in identifying those infections that are the real 
+driving force in the oropharyngeal carcinogenesis process.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2015.10.009 
+PMID: 26547133  [Indexed for MEDLINE]

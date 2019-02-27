@@ -1,0 +1,51 @@
+
+
+1159. Head Neck. 2016 Nov;38(11):1634-1642. doi: 10.1002/hed.24487. Epub 2016 Apr 21.
+
+Comparative analysis of micro-RNAs in human papillomavirus-positive versus
+-negative oropharyngeal cancers.
+
+Mirghani H(1)(2), Ugolin N(3), Ory C(3), Goislard M(3), Lefèvre M(4), Baulande
+S(5), Hofman P(6), Guily JL(7)(8), Chevillard S(3), Lacave R(7)(9).
+
+Author information: 
+(1)ER2 Unit and GRC10, Université Pierre et Marie Curie, Paris, France.
+haitham.mirghani@gustaveroussy.fr.
+(2)Department of Head and Neck Surgery, Institut de Cancérologie Gustave Roussy, 
+Villejuif, France. haitham.mirghani@gustaveroussy.fr.
+(3)CEA, DSV, iRCM, Laboratory of Experimental Cancerology, Fontenay-aux-Roses,
+Cedex, France.
+(4)Department of Pathology, GHUEP, Hôpital Tenon, Assistance Publique-Hôpitaux de
+Paris, Paris, France.
+(5)PartnerChip, Evry, France.
+(6)Laboratory of Clinical and Experimental Pathology and Biobank of CHUN, Pasteur
+Hospital, Nice, France.
+(7)ER2 Unit and GRC10, Université Pierre et Marie Curie, Paris, France.
+(8)Department of Otolaryngology - Head and Neck Surgery, GHUEP, Hôpital Tenon,
+Assistance Publique-Hôpitaux de Paris, France.
+(9)Tumours Genomic Unit, GHUEP, Hôpital Tenon, Assistance Publique-Hôpitaux de
+Paris, France.
+
+BACKGROUND: Oncogenic mechanisms of human papillomavirus (HPV)-positive
+oropharyngeal cancer are still poorly characterized. Analysis of their microRNA
+expression profile might provide valuable information.
+METHODS: The microRNA expression profiles were analyzed by micro-arrays in 26
+oropharyngeal cancers. A microRNA signature specific to HPV-status was identified
+by analyzing a learning/training set consisting of 16 oropharyngeal cancers. The 
+robustness of this signature was further confirmed by blind case-by-case
+classification of a validation set composed of 10 independent tumors. Putative
+targeted molecular pathways were proposed using DIANA miRPath online software
+(http://microrna.gr/mirpath).
+RESULTS: We have identified 25 miRNA signatures, which discriminates
+HPV16-positive oropharyngeal cancer from their HPV-negative counterparts. These
+25 microRNAs play a potential role in Wnt and PI3K-pathways,
+cell-adhesion/cell-polarity, and the cytoskeleton regulation.
+CONCLUSION: Our study contributes to a better understanding of pathogenic
+mechanisms involved in the development of HPV-positive oropharyngeal cancer and
+in the identification of potential therapeutic molecular targets. © 2016 Wiley
+Periodicals, Inc. Head Neck 38: 1708-1716, 2016.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24487 
+PMID: 27097597  [Indexed for MEDLINE]

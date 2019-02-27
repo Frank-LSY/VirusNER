@@ -1,0 +1,43 @@
+
+
+1885. PLoS One. 2013 May 13;8(5):e63263. doi: 10.1371/journal.pone.0063263. Print 2013.
+
+Impact of hepatitis C virus infection on bone mineral density in renal transplant
+recipients.
+
+Huang WH(1), Yu MC, Huang JY, Lai PC.
+
+Author information: 
+(1)Department of Nephrology, Chang Gung Memorial Hospital, Linkou, Taiwan, R.O.C.
+
+BACKGROUND: The average prevalence of hepatitis C virus (HCV) infection in renal 
+transplant recipients is 10%. Studies of these patients with HCV infection
+usually focuses on long-term graft survival and patient survival. Studies of the 
+correlation between HCV infection and bone mineral density (BMD) in renal
+transplant patients are limited. The aim of this study was to investigate whether
+HCV infection is a risk factor for BMD change during a short follow-up period.
+METHODS: Seventy-six renal transplant recipients underwent 2 separate dual-energy
+X-ray absorptiometry (DXA) scans during a mean period of 14 months. Fifteen
+patients were HCV infection. First bone mineral density (BMD) at the lumbar
+spine, hip, and femoral neck was determined using dual-energy X-ray
+absorptiometry (DXA) between September 2008 and March 2009. After that, 34
+patients took alendronate sodium 70 mg per week. Subgroups risk factors analysis 
+was also performed into with or without alendronate. Immunosuppressive agents,
+bisphosphonates, patient characteristics, and biochemical factors were analyzed
+to identify associations with BMD.
+RESULTS: After 14 months, in 76 patients, BMD of the lumbar spine had
+significantly increased (from 0.9 g/cm² to 0.92 g/cm², p<0.001), whereas BMD of
+the hip and femoral neck had not. Multiple linear regression analysis showed that
+HCV infection was negatively associated with BMD change in the lumbar spine ( β: 
+-0.247, 95% CI, -0.035 to -0.002; p = 0.028). Moreover, in subgroup analysis,
+among 42 patients without alendronate, multiple linear regression analysis showed
+HCV infection was a risk factor for adverse BMD change of the lumbar spine ( β:
+-0.371, 95% CI, -0.043 to -0.003; p = 0.023).
+CONCLUSION: HCV infection in renal transplant recipients was a negative risk
+factor for BMD change in the lumbar spine. Moreover, alendronate may be able to
+reverse the negative effect of HCV infection on bone in renal transplant
+recipients.
+
+DOI: 10.1371/journal.pone.0063263 
+PMCID: PMC3652826
+PMID: 23675468  [Indexed for MEDLINE]

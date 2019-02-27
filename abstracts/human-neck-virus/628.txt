@@ -1,0 +1,34 @@
+
+
+628. Head Neck. 2011 Apr;33(4):504-12. doi: 10.1002/hed.21475.
+
+Alteration of microRNA profiles in squamous cell carcinoma of the head and neck
+cell lines by human papillomavirus.
+
+Wald AI(1), Hoskins EE, Wells SI, Ferris RL, Khan SA.
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, University of Pittsburgh
+School of Medicine, Pittsburgh, Pennsylvania, USA. khan@pitt.edu
+
+BACKGROUND: Human papillomavirus (HPV)-positive cases of squamous cell carcinoma 
+of the head and neck (SCCHN) have a much better disease outcome compared to SCCHN
+cases lacking HPV. Differences in microRNA (miRNA) expression may affect their
+clinical outcomes.
+METHODS: The miRNA expression was studied using microarrays and quantitative
+reverse transcriptase-polymerase chain reaction (RT-PCR) in HPV-16-positive and
+HPV-negative SCCHN cell lines. The role of HPV-16 E6 and E7 oncogenes in altering
+miRNA expression was investigated using human foreskin keratinocytes (HFKs).
+RESULTS: The miRNAs miR-363, miR-33, and miR-497 were upregulated, whereas
+miR-155, miR-181a, miR-181b, miR-29a, miR-218, miR-222, miR-221, and miR-142-5p
+were downregulated in HPV-positive cells compared to both HPV-negative SCCHN and 
+normal oral keratinocytes. HPV-16 E6 oncogene altered miRNA expression in HFKs
+and in an HPV-16-positive cell line with E6 knockdown using siRNA.
+CONCLUSION: miRNAs differentially expressed in the presence of HPV-16 may provide
+biomarkers for SCCHN and identify cellular pathways targeted by this virus.
+
+Copyright © 2010 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21475 
+PMCID: PMC3080748
+PMID: 20652977  [Indexed for MEDLINE]

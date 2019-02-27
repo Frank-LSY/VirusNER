@@ -1,0 +1,48 @@
+
+
+45. PLoS One. 2016 Jun 16;11(6):e0157709. doi: 10.1371/journal.pone.0157709.
+eCollection 2016.
+
+Dual Simian Foamy Virus/Human Immunodeficiency Virus Type 1 Infections in Persons
+from Côte d'Ivoire.
+
+Switzer WM(1), Tang S(1), Zheng H(1), Shankar A(1), Sprinkle PS(1), Sullivan
+V(1), Granade TC(1), Heneine W(1).
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention,
+Atlanta, GA 30329, United States of America.
+
+Zoonotic transmission of simian retroviruses in West-Central Africa occurring in 
+primate hunters has resulted in pandemic spread of human immunodeficiency viruses
+(HIVs) and human T-lymphotropic viruses (HTLVs). While simian foamy virus (SFV)
+and simian T- lymphotropic virus (STLV)-like infection were reported in healthy
+persons exposed to nonhuman primates (NHPs) in West-Central Africa, less is known
+about the distribution of these viruses in Western Africa and in hospitalized
+populations. We serologically screened for SFV and STLV infection using 1,529
+specimens collected between 1985 and 1997 from Côte d'Ivoire patients with high
+HIV prevalence. PCR amplification and analysis of SFV, STLV, and HIV/SIV
+sequences from PBMCs was used to investigate possible simian origin of infection.
+We confirmed SFV antibodies in three persons (0.2%), two of whom were
+HIV-1-infected. SFV polymerase (pol) and LTR sequences were detected in PBMC DNA 
+available for one HIV-infected person. Phylogenetic comparisons with new SFV
+sequences from African guenons showed infection likely originated from a
+Chlorocebus sabaeus monkey endemic to Côte d'Ivoire. 4.6% of persons were HTLV
+seropositive and PCR testing of PBMCs from 15 HTLV seroreactive persons
+identified nine with HTLV-1 and one with HTLV-2 LTR sequences. Phylogenetic
+analysis showed that two persons had STLV-1-like infections, seven were HTLV-1,
+and one was an HTLV-2 infection. 310/858 (53%), 8/858 (0.93%), and 18/858 (2.1%) 
+were HIV-1, HIV-2, and HIV-positive but undifferentiated by serology,
+respectively. No SIV sequences were found in persons with HIV-2 antibodies (n =
+1) or with undifferentiated HIV results (n = 7). We document SFV, STLV-1-like,
+and dual SFV/HIV infection in Côte d'Ivoire expanding the geographic range for
+zoonotic simian retrovirus transmission to West Africa. These findings highlight 
+the need to define the public health consequences of these infections. Studying
+dual HIV-1/SFV infections in immunocompromised populations may provide a new
+opportunity to better understand SFV pathogenicity and transmissibility in
+humans.
+
+DOI: 10.1371/journal.pone.0157709 
+PMCID: PMC4911074
+PMID: 27310836  [Indexed for MEDLINE]

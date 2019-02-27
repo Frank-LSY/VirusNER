@@ -1,0 +1,49 @@
+
+Conflict of interest statement: Esteban Celis has filed patent applications based
+on the use of synthetic peptides and poly-IC combinatorial vaccines. The rights
+of the patent applications have been transferred to the Moffitt Cancer Center
+(Tampa, FL). Andres Salazar is President and CEO of Oncovir, Inc., who is
+developing poly-ICLC (Hiltonol™) for the clinic. Hussein Sultan, Valentyna
+Fesenkova, Diane Addis, Aaron Fan, Takumi Kumai, and Juan Wu declare no conflict 
+of interest.
+
+
+3170. Otolaryngol Head Neck Surg. 2014 Jan;150(1):28-33. doi: 10.1177/0194599813510891.
+Epub 2013 Nov 15.
+
+No evidence for distinguishing bacterial from viral acute rhinosinusitis using
+fever and facial/dental pain: a systematic review of the evidence base.
+
+Hauer AJ(1), Luiten EL, van Erp NF, Blase PE, Aarts MC, Kaper NM, van der Heijden
+GJ.
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head & Neck Surgery, Brain Center Rudolf
+Magnus, University Medical Center Utrecht, Utrecht, the Netherlands.
+
+OBJECTIVE: To assess the diagnostic value of fever and facial and dental pain in 
+adults suspected of acute bacterial rhinosinusitis.
+DATA SOURCES: PubMed, EMBASE, and the Cochrane Library.
+REVIEW METHODS: A comprehensive systematic search was performed on March 18,
+2013. We included articles reporting studies on the diagnostic value of fever or 
+facial and dental pain in patients suspected of acute bacterial rhinosinusitis.
+For included articles, the reported study design was assessed for directness of
+evidence and risk of bias. Prevalences, positive predictive values, and negative 
+predictive values were extracted.
+RESULTS: Of 3171 unique records, we included 1 study with a high directness of
+evidence and a moderate risk of bias. The prior probability of bacterial
+rhinosinusitis was 0.29 (95% confidence interval: 0.24 to 0.35). We could not
+extract posterior probabilities with accompanying positive and negative
+predictive values. The study reported an odds ratio from univariate analysis for 
+fever of 1.02 (0.52 to 2.00) and 1.65 (0.83 to 3.28) for facial and dental pain. 
+In subsequent multivariate analysis, the odds ratio of facial and dental pain was
+1.86 (1.06 to 3.29).
+CONCLUSION AND RECOMMENDATION: There is 1 study with moderate risk of bias,
+reporting data in such a manner that we could not assess the value of fever and
+facial and dental pain in adults suspected of an acute bacterial rhinosinusitis. 
+Therefore, these symptoms should not be used in clinical practice to distinguish 
+between a bacterial and viral source of acute rhinosinusitis or for decision
+making about prescribing antibiotic treatment.
+
+DOI: 10.1177/0194599813510891 
+PMID: 24357394  [Indexed for MEDLINE]

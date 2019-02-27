@@ -1,0 +1,50 @@
+
+
+658. Am J Physiol Lung Cell Mol Physiol. 2016 Mar 1;310(5):L415-25. doi:
+10.1152/ajplung.00398.2015. Epub 2015 Dec 18.
+
+Estrogenic compounds reduce influenza A virus replication in primary human nasal 
+epithelial cells derived from female, but not male, donors.
+
+Peretz J(1), Pekosz A(2), Lane AP(3), Klein SL(4).
+
+Author information: 
+(1)W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, Maryland;
+(2)W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, Maryland; Department of
+Environmental Health Sciences, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, Maryland;
+(3)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(4)W. Harry Feinstone Department of Molecular Microbiology and Immunology, Johns 
+Hopkins Bloomberg School of Public Health, Baltimore, Maryland; Department of
+Biochemistry and Molecular Biology, Johns Hopkins Bloomberg School of Public
+Health, Baltimore, Maryland; and sklein2@jhu.edu.
+
+Influenza causes an acute infection characterized by virus replication in
+respiratory epithelial cells. The severity of influenza and other respiratory
+diseases changes over the life course and during pregnancy in women, suggesting
+that sex steroid hormones, such as estrogens, may be involved. Using primary,
+differentiated human nasal epithelial cell (hNEC) cultures from adult male and
+female donors, we exposed cultures to the endogenous 17β-estradiol (E2) or select
+estrogen receptor modulators (SERMs) and then infected cultures with a seasonal
+influenza A virus (IAV) to determine whether estrogenic signaling could affect
+the outcome of IAV infection and whether these effects were sex dependent.
+Estradiol, raloxifene, and bisphenol A decreased IAV titers in hNECs from female,
+but not male, donors. The estrogenic decrease in viral titer was dependent on the
+genomic estrogen receptor-2 (ESR2) as neither genomic ESR1 nor nongenomic GPR30
+was expressed in hNEC cultures and addition of the genomic ER antagonist ICI
+182,780 reversed the antiviral effects of E2. Treatment of hNECs with E2 had no
+effect on interferon or chemokine secretion but significantly downregulated cell 
+metabolic processes, including genes that encode for zinc finger proteins, many
+of which contain estrogen response elements in their promoters. These data
+provide novel insights into the cellular and molecular mechanisms of how natural 
+and synthetic estrogens impact IAV infection in respiratory epithelial cells
+derived from humans.
+
+Copyright © 2016 the American Physiological Society.
+
+DOI: 10.1152/ajplung.00398.2015 
+PMCID: PMC4773846 [Available on 2017-03-01]
+PMID: 26684252  [Indexed for MEDLINE]

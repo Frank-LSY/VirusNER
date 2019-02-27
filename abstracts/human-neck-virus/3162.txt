@@ -1,0 +1,70 @@
+
+
+3162. Cancer Prev Res (Phila). 2015 Aug;8(8):729-36. doi:
+10.1158/1940-6207.CAPR-14-0397. Epub 2015 May 19.
+
+Autoantibody Signatures Combined with Epstein-Barr Virus Capsid Antigen-IgA as a 
+Biomarker Panel for the Detection of Nasopharyngeal Carcinoma.
+
+Peng YH(1), Xu YW(2), Huang LS(3), Zhai TT(3), Dai LH(4), Qiu SQ(5), Yang YS(6), 
+Chen WZ(7), Zhang LQ(8), Li EM(9), Xu LY(10).
+
+Author information: 
+(1)Department of Clinical Laboratory, the Cancer Hospital of Shantou University
+Medical College, Guangdong, China. The Key Laboratory of Molecular Biology for
+High Cancer Incidence Coastal Chaoshan Area, Shantou University Medical College, 
+Guangdong, China.
+(2)Department of Clinical Laboratory, the Cancer Hospital of Shantou University
+Medical College, Guangdong, China. The Key Laboratory of Molecular Biology for
+High Cancer Incidence Coastal Chaoshan Area, Shantou University Medical College, 
+Guangdong, China. Institute of Oncologic Pathology, Shantou University Medical
+College, Guangdong, China.
+(3)Department of Radiation Oncology, the Cancer Hospital of Shantou University
+Medical College, Guangdong, China.
+(4)Department of Biochemistry and Molecular Biology, Shantou University Medical
+College, Guangdong, China.
+(5)The Breast Center, the Cancer Hospital of Shantou University Medical College, 
+Guangdong, China.
+(6)Record Room, the Cancer Hospital of Shantou University Medical College,
+Guangdong, China.
+(7)Department of Head and Neck Surgery, the Cancer Hospital of Shantou University
+Medical College, Guangdong, China.
+(8)Department of Information, the Cancer Hospital of Shantou University Medical
+College, Guangdong, China.
+(9)The Key Laboratory of Molecular Biology for High Cancer Incidence Coastal
+Chaoshan Area, Shantou University Medical College, Guangdong, China. Department
+of Biochemistry and Molecular Biology, Shantou University Medical College,
+Guangdong, China. lyxu@stu.edu.cn nmli@stu.edu.cn.
+(10)The Key Laboratory of Molecular Biology for High Cancer Incidence Coastal
+Chaoshan Area, Shantou University Medical College, Guangdong, China. Institute of
+Oncologic Pathology, Shantou University Medical College, Guangdong, China.
+lyxu@stu.edu.cn nmli@stu.edu.cn.
+
+Nasopharyngeal carcinoma (NPC) is prevalent in Southern China and Southeast Asia,
+and autoantibody signatures may improve early detection of NPC. In this study,
+serum levels of autoantibodies against a panel of six tumor-associated antigens
+(p53, NY-ESO-1, MMP-7, Hsp70, Prx VI, and Bmi-1) and Epstein-Barr virus capsid
+antigen-IgA (VCA-IgA) were tested by enzyme-linked immunosorbent assay in a
+training set (220 NPC patients and 150 controls) and validated in a validation
+set (90 NPC patients and 68 controls). We used receiver-operating characteristics
+(ROC) to calculate diagnostic accuracy. ROC curves showed that use of these 6
+autoantibody assays provided an area under curve (AUC) of 0.855 [95% confidence
+interval (CI), 0.818-0.892], 68.2% sensitivity, and 90.0% specificity in the
+training set and an AUC of 0.873 (95% CI, 0.821-0.925), 62.2% sensitivity, and
+91.2% specificity in the validation set. Moreover, the autoantibody panel
+maintained diagnostic accuracy for VCA-IgA-negative NPC patients [0.854
+(0.809-0.899), 67.8%, and 90.0% in the training set; 0.879 (0.815-0.942), 67.4%, 
+and 91.2% in the validation set]. Importantly, combination of the autoantibody
+panel and VCA-IgA improved diagnostic accuracy for NPC versus controls compared
+with the autoantibody panel alone [0.911 (0.881-0.940), 81.4%, and 90.0% in the
+training set; 0.919 (0.878-0.959), 78.9%, and 91.2% in the validation set), as
+well as for early-stage NPC (0.944 (0.894-0.994), 87.9%, and 94.0% in the
+training set; 0.922 (0.808-1.000), 80.0%, and 92.6% in the validation set]. These
+results reveal autoantibody signatures in an optimized panel that could improve
+the identification of VCA-IgA-negative NPC patients, may aid screening and
+diagnosis of NPC, especially when combined with VCA-IgA.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1940-6207.CAPR-14-0397 
+PMID: 25990085  [Indexed for MEDLINE]

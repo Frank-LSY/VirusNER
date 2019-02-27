@@ -1,0 +1,35 @@
+
+
+250. Viruses. 2014 Feb 18;6(2):893-908. doi: 10.3390/v6020893.
+
+The tetraspanin CD151 in papillomavirus infection.
+
+Scheffer KD(1), Berditchevski F(2), Florin L(3).
+
+Author information: 
+(1)Department of Medical Microbiology and Hygiene, University Medical Centre of
+the Johannes Gutenberg University, Obere Zahlbacher Strasse 67, 55131 Mainz,
+Germany. scheffek@uni-mainz.de.
+(2)School of Cancer Sciences, The University of Birmingham, Birmingham B15 2TT,
+UK. f.berditchevski@bham.ac.uk.
+(3)Department of Medical Microbiology and Hygiene, University Medical Centre of
+the Johannes Gutenberg University, Obere Zahlbacher Strasse 67, 55131 Mainz,
+Germany. lflorin@uni-mainz.de.
+
+Human papillomaviruses (HPV) are non-enveloped DNA tumor viruses that infect skin
+and mucosa. The most oncogenic subtype, HPV16, causes various types of cancer,
+including cervical, anal, and head and neck cancers. During the multistep process
+of infection, numerous host proteins are required for the delivery of virus
+genetic information into the nucleus of target cells. Over the last two decades, 
+many host-cell proteins such as heparan sulfate proteoglycans, integrins, growth 
+factor receptors, actin and the tetraspanin CD151 have been described to be
+involved in the process of infectious entry of HPV16. Tetraspanins have the
+ability to organize membrane microdomains and to directly influence the function 
+of associated molecules, including binding of receptors to their ligands,
+receptor oligomerization and signal transduction. Here, we summarize the current 
+knowledge on CD151, and CD151-associated partners during HPV infection and
+discuss the underlying mechanisms.
+
+DOI: 10.3390/v6020893 
+PMCID: PMC3939487
+PMID: 24553111  [Indexed for MEDLINE]

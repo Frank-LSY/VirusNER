@@ -1,0 +1,55 @@
+
+
+597. Oral Oncol. 2014 Apr;50(4):241-6. doi: 10.1016/j.oraloncology.2013.12.012. Epub
+2014 Jan 13.
+
+Patients with HPV-related tonsil squamous cell carcinoma rarely harbour oncogenic
+HPV infection at other pharyngeal sites.
+
+Thavaraj S(1), Stokes A(2), Mazuno K(3), Henley-Smith R(4), Suh YE(4), Paleri
+V(5), Tavassoli M(6), Odell E(2), Robinson M(7).
+
+Author information: 
+(1)Oral Pathology, King's College London Dental Institute, London, United
+Kingdom. Electronic address: selvam.thavaraj@kcl.ac.uk.
+(2)Oral Pathology, King's College London Dental Institute, London, United
+Kingdom.
+(3)Department of Oral Pathology, Osaka Dental University, Osaka, Japan.
+(4)Oral Pathology, Guy's and St. Thomas' NHS Foundation Trust, London, United
+Kingdom.
+(5)Otolaryngology-Head and Neck Surgery, Newcastle upon Tyne Hospitals NHS Trust,
+United Kingdom.
+(6)Molecular Oncology, King's College London Dental Institute, London, United
+Kingdom.
+(7)Centre for Oral Health Research, School of Dental Sciences, Newcastle
+University, Newcastle Upon Tyne, United Kingdom.
+
+OBJECTIVES: Patients with human papillomavirus (HPV)-related oropharyngeal
+squamous cell carcinoma (OPSCC) have a reduced risk of developing second primary 
+upper aerodigestive tract (UADT) tumours compared to patients with HPV-negative
+primary tumours at the same site. To determine whether this finding might be
+explained by a lack of viral-induced field cancerisation or multifocal infection,
+we investigated whether there was epithelial dysplasia and/or evidence of HPV
+infection at other pharyngeal mucosal sites in patients presenting with the
+disease.
+MATERIALS AND METHODS: Sixty-three patients with primary tonsil SCC and 108
+pharyngeal endoscopic biopsies, representing at least one pharyngeal subsite from
+each patient, were included in this study. Tissue samples were tested using HPV
+PCR (GP5+/6+), p16 immunohistochemistry (IHC) and high risk HPV DNA in situ
+hybridisation (ISH).
+RESULTS: There were 46 patients with HPV-related SCC and 17 patients with
+HPV-negative disease. PCR detected HPV DNA in a fifth of pharyngeal endoscopic
+biopsies and was equally likely to be from a patient with HPV-related SCC as from
+a patient with HPV negative disease. All PCR positive cases were tested using p16
+IHC and high risk HPV ISH and only three biopsies were positive. Significantly,
+these three biopsies all showed evidence of epithelial dysplasia and were from
+patients with an HPV positive index tumour.
+CONCLUSION: Our data suggest that virus-induced field cancerisation and/or
+multifocal oncogenic HPV infection of the pharynx is uncommon in OPSCC and
+supports the concept that these patients have a lower risk of developing second
+primary tumours of the UADT.
+
+Copyright © 2013 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.12.012 
+PMID: 24434066  [Indexed for MEDLINE]

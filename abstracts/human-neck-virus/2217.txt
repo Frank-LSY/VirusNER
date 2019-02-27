@@ -1,0 +1,43 @@
+
+
+2217. Eur Arch Otorhinolaryngol. 2011 May;268(5):721-6. doi: 10.1007/s00405-010-1396-7.
+Epub 2010 Oct 12.
+
+Impact of HPV infection on the clinical outcome of p-CAIR trial in head and neck 
+cancer.
+
+Snietura M(1), Piglowski W, Jaworska M, Mucha-Malecka A, Wozniak G, Lange D,
+Suwinski R.
+
+Author information: 
+(1)Department of Tumour Pathology, Center of Oncology, Maria Sklodowska-Curie
+Memorial Cancer Center and Institute of Oncology, Gliwice Branch, Gliwice,
+Poland.
+
+The purpose of the study was to analyse the influence of HPV infection on the
+outcome of a randomized clinical trial of conventional (CF) versus 7-days-a-week 
+postoperative radiotherapy (p-CAIR) for squamous cell cancer of the head and neck
+(SCCHN). Between 2001 and 2004, 279 patients with high-risk SCC of the larynx or 
+cancer of the oral cavity/oropharynx were randomized to receive 63 Gy in
+fractions of 1.8 Gy given 5 days a week or 7 days a week (Radiother Oncol
+87:155-163, 2008). The presence of HPV DNA in 131 archival paraffin blocks was
+assessed with multiplex quantitative real-time PCR using five consensus primers
+for the conservative L1 region and molecular beacon probes targeting 14 high-risk
+HPV subtypes. Following the RT-PCR procedure, we could determine the presence and
+type of HPV16, HPV18 and the other 12 less frequent oncogenic subtypes. Out of
+131 samples, 9 were positive for HPV infection (6.9%), all of them with HPV16
+subtype. None of the 65 laryngeal tumours was HPV positive. The 5-year LRC in
+HPV-positive patients was 100%, compared to 58% in the HPV-negative group (p =
+0.02, log-rank test). Amongst 122 patients with HPV-negative tumours, 5-year LRC 
+was 50.3% in p-CF versus 65.2 in p-CAIR (p = 0.37). HPV infection was associated 
+with low expression of EGFR and cyclin D. This study demonstrates a favourable
+outcome for HPV-positive patients with SCCHN treated with postoperative
+radiotherapy. While considering the small number of HPV+ tumours, the data set
+can be considered as hypothesis generating only, the outcome raises new questions
+on the necessity of aggressive postoperative treatment in HPV+ patients.
+
+© The Author(s) 2010
+
+DOI: 10.1007/s00405-010-1396-7 
+PMCID: PMC3071948
+PMID: 20938670  [Indexed for MEDLINE]

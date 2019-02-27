@@ -1,0 +1,38 @@
+
+
+1905. Exp Cell Res. 2017 Apr 15;353(2):63-71. doi: 10.1016/j.yexcr.2017.02.020. Epub
+2017 Feb 20.
+
+Thiazolidinediones abrogate cervical cancer growth.
+
+Wuertz BR(1), Darrah L(2), Wudel J(3), Ondrey FG(4).
+
+Author information: 
+(1)Molecular Oncology Program, Department of Otolaryngology, University of
+Minnesota, Minneapolis, MN 55455, USA. Electronic address: knier003@umn.edu.
+(2)Molecular Oncology Program, Department of Otolaryngology, University of
+Minnesota, Minneapolis, MN 55455, USA. Electronic address: ldarrah@obgynmn.com.
+(3)Molecular Oncology Program, Department of Otolaryngology, University of
+Minnesota, Minneapolis, MN 55455, USA. Electronic address: drwudel@drwudel.com.
+(4)Molecular Oncology Program, Department of Otolaryngology, University of
+Minnesota, Minneapolis, MN 55455, USA. Electronic address: ondre002@umn.edu.
+
+Peroxisome proliferator-activated receptor gamma (PPAR γ) is activated by
+thiazolidinedione drugs (TZDs) and can promote anti-cancer properties. We used
+three TZDs (pioglitazone, rosiglitazone, and ciglitazone) to target cervical
+cancer cell lines and a nude mouse animal model. Each agent increased activation 
+of PPAR γ, as judged by a luciferase reporter gene assay in three HPV-associated 
+cell lines (CaSki, SiHa, and HeLa cells) while decreasing cellular proliferation 
+in a dose-dependent manner. They also promoted Oil Red O accumulation in treated 
+cell lines and upregulated the lipid differentiation marker adipsin.
+Interestingly, xenograft HeLa tumors in nude mice treated with 100mg/kg/day
+pioglitazone exhibited decreased growth compared to control mice or mice treated 
+with standard cervical chemotherapy. In conclusion, TZDs slow tumor cell growth
+in vitro and in vivo with decreases in cell proliferation and increases in PPAR γ
+and adipsin. These agents may be interesting treatments or treatment adjuncts for
+HPV-associated cancers or perhaps even precancerous conditions.
+
+Copyright © 2017. Published by Elsevier Inc.
+
+DOI: 10.1016/j.yexcr.2017.02.020 
+PMID: 28219679  [Indexed for MEDLINE]

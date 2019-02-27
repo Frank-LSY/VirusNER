@@ -1,0 +1,59 @@
+
+
+1312. Cancer Causes Control. 2017 Nov;28(11):1333-1340. doi: 10.1007/s10552-017-0966-z.
+Epub 2017 Sep 25.
+
+Prevalence of oral HPV infection among healthy individuals and head and neck
+cancer cases in the French West Indies.
+
+Auguste A(1)(2), Gaëte S(3), Herrmann-Storck C(4), Michineau L(1)(2), Joachim
+C(5), Deloumeaux J(3)(6), Duflo S(7), Luce D(8)(9)(10).
+
+Author information: 
+(1)INSERM U 1085 - IRSET (Research Institute for Environmental and Occupational
+Health), Pointe-à-Pitre, Guadeloupe, France.
+(2)University of Rennes 1, Rennes, France.
+(3)Centre de Ressources Biologiques de Guadeloupe, Pointe-à-Pitre, Guadeloupe,
+France.
+(4)Laboratory of Microbiology, University Hospital of Guadeloupe, Pointe-à-Pitre,
+Guadeloupe, France.
+(5)Martinique Cancer Registry, UF 1441 Registre des cancers, Pôle de Cancérologie
+Hématologie Urologie Pathologie, University Hospital of Martinique,
+Fort-de-France, Martinique, France.
+(6)General Cancer Registry of Guadeloupe, University Hospital of Guadeloupe,
+Pointe-à-Pitre, Guadeloupe, France.
+(7)Department of Oto-Rhino-Laryngology and Head and Neck Surgery, University
+Hospital of Guadeloupe, Pointe-à-Pitre, Guadeloupe, France.
+(8)INSERM U 1085 - IRSET (Research Institute for Environmental and Occupational
+Health), Pointe-à-Pitre, Guadeloupe, France. daniele.luce@inserm.fr.
+(9)University of Rennes 1, Rennes, France. daniele.luce@inserm.fr.
+(10)INSERM U 1085 - IRSET, Faculté de Médecine, Campus de Fouillole, BP 145,
+97154, Pointe-à-Pitre, France. daniele.luce@inserm.fr.
+
+PURPOSE: Human papillomavirus (HPV) is known to play a role in the development of
+head and neck squamous cell carcinomas (HNSCC) and to date, no study has reported
+on the association between oral HPV infection and HNSCC in the Caribbean. The
+objective was to determine the prevalence of oral HPV infection in the French
+West Indies (FWI), overall and by HPV genotype, among HNSCC cases and healthy
+population controls.
+METHOD: We used data from a population-based case-control study conducted in the 
+FWI. The prevalence of oral HPV was estimated separately among 100 HNSCC cases
+(mean age 59 years) and 308 population controls (mean age 57 years). Odds ratios 
+(OR) and 95% confidence intervals (CI) were estimated using a logistic regression
+adjusting for age, sex, tobacco, and alcohol consumption, to assess the
+association between oral HPV infection and HNSCC.
+RESULTS: Prevalence of oral HPV infections was 26% in controls (30% in men and
+14% in women) and 36% in HNSCC cases (36% in men, 33% in women). HPV52 was the
+most commonly detected genotype, in cases and in controls. The prevalence of
+HPV16, HPV33, and HPV51 was significantly higher in cases than in controls
+(p = 0.0340, p = 0.0472, and 0.0144, respectively). Oral infection with high-risk
+HPV was associated with an increase in risk of HNSCC (OR 1.99, 95% CI 0.95-4.15).
+HPV16 was only associated with oropharyngeal cancer (OR 16.01, 95% CI
+1.67-153.64).
+CONCLUSION: This study revealed a high prevalence of oral HPV infection in this
+middle-aged Afro-Caribbean population, and a specific distribution of HPV
+genotypes. These findings may provide insight into HNSCC etiology specific to the
+FWI.
+
+DOI: 10.1007/s10552-017-0966-z 
+PMID: 28948421  [Indexed for MEDLINE]

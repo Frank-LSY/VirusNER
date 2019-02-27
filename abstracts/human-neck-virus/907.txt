@@ -1,0 +1,42 @@
+
+
+907. Rev Med Virol. 2015 Nov;25(6):345-53. doi: 10.1002/rmv.1834. Epub 2015 Mar 17.
+
+Association of human papillomavirus with Fanconi anemia promotes carcinogenesis
+in Fanconi anemia patients.
+
+Liu GB(1), Chen J(2)(3), Wu ZH(4), Zhao KN(5)(6).
+
+Author information: 
+(1)School of Health and Wellbeing, Faculty of Health, Engineering and Sciences,
+The University of Southern Queensland, Toowoomba, Australia.
+(2)School of Biomedical Sciences, The University of Queensland, Brisbane,
+Australia.
+(3)Faculty of Science, Medicine and Health, University of Wollongong, Wollongong,
+Australia.
+(4)Western Sydney Genomic Diagnosis, The Children's Hospital at Westmead, Sydney,
+Australia.
+(5)Institute of Molecular Virology and Immunology, Department of Medical
+Microbiology and Immunology, Wenzhou Medical University, Wenzhou, China.
+(6)Centre for Kidney Disease Research-Venomics Research, The University of
+Queensland School of Medicine, Translational Research Institute, Brisbane,
+Australia.
+
+Fanconi anemia (FA) is a rare recessive disorder associated with chromosomal
+fragility. FA patients are at very high risk of cancers, especially head and neck
+squamous cell carcinomas and squamous cell carcinomas caused by infection of
+human papillomaviruses (HPVs). By integrating into the host genome, HPV oncogenes
+E6 and E7 drive the genomic instability to promote DNA damage and gene mutations 
+necessary for carcinogenesis in FA patients. Furthermore, E6 and E7 oncoproteins 
+not only inhibit p53 and retinoblastoma but also impair the FANC/BRCA signaling
+pathway to prevent DNA damage repair and alter multiple signals including
+cell-cycle checkpoints, telomere function, cell proliferation, and interference
+of the host immune system leading to cancer development in FA patients. In this
+review, we summarize recent advances in unraveling the molecular mechanisms of FA
+susceptibility to HPV-induced cancers, which facilitate rational preventive and
+therapeutic strategies.
+
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/rmv.1834 
+PMID: 25776992  [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+
+
+2856. Oncogene. 2015 Aug 20;34(34):4491-9. doi: 10.1038/onc.2014.380. Epub 2014 Dec 22.
+
+SYK interaction with ITGβ4 suppressed by Epstein-Barr virus LMP2A modulates
+migration and invasion of nasopharyngeal carcinoma cells.
+
+Zhou X(1)(2), Matskova L(1), Rathje LS(1), Xiao X(1)(2), Gish G(3), Werner M(1), 
+Ignatyev I(1), Yu N(2), Zhao W(2), Tian F(2), Hou B(2), Zhang Z(2), Pawson T(3), 
+Chen F(1), Ernberg I(1).
+
+Author information: 
+(1)Department of Microbiology, Tumor and Cell Biology (MTC), Karolinska
+Institutet, Stockholm, Sweden.
+(2)Department of Otolaryngology-Head & Neck Surgery, First Affiliated Hospital of
+Guangxi Medical University, Nanning, China.
+(3)Samuel Lunenfeld Research Institute, Mount Sinai Hospital, Toronto, Ontario,
+Canada.
+
+Epstein-Barr virus (EBV)-encoded Latent Membrane Protein 2A (LMP2A) is an EBV
+latency-associated protein regularly expressed in nasopharyngeal carcinoma (NPC).
+In B cells, LMP2A activity resembles that of a constitutively activated antigen
+receptor, which recruits the Syk tyrosine kinase to activate a set of downstream 
+signaling pathways. LMP2A also downregulates cellular Syk levels. In the present 
+study, we demonstrate that Syk interacts with the integrin β4 subunit (ITGβ4) of 
+integrin α6β4 in epithelial cells and that concurrent LMP2A expression interferes
+with this interaction by competitive binding to Syk. We find that both Syk and
+LMP2A have an effect on ITGβ4 cell surface expression. However, in LMP2A
+expressing cells, ITGβ4 remains concentrated at the cellular protrusions, an
+expression pattern characteristic of motile cells, including NPC-derived
+epithelial cells. This effect of LMP2A on ITGβ4 localization is associated with a
+greater propensity for migration and invasion in-vitro, and may contribute to the
+invasive property of LMP2A-expressing NPC.
+
+DOI: 10.1038/onc.2014.380 
+PMID: 25531330  [Indexed for MEDLINE]

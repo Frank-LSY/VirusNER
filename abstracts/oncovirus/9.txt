@@ -1,0 +1,70 @@
+
+
+9. Viruses. 2015 Nov 24;7(11):6080-8. doi: 10.3390/v7112929.
+
+Recent Advances in BLV Research.
+
+Barez PY(1), de Brogniez A(2), Carpentier A(3), Gazon H(4), Gillet N(5),
+Gutiérrez G(6), Hamaidia M(7), Jacques JR(8), Perike S(9), Neelature Sriramareddy
+S(10), Renotte N(11), Staumont B(12), Reichert M(13), Trono K(14), Willems L(15).
+
+Author information: 
+(1)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+epy.barez@doct.ulg.ac.be.
+(2)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+alix.debrogniez@ulg.ac.be.
+(3)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+a.carpentier@doct.ulg.ac.be.
+(4)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+helene.gazon@ulg.ac.be.
+(5)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+n.gillet@ulg.ac.be.
+(6)Instituto de Virología, Centro de Investigaciones en Ciencias Veterinarias y
+Agronómicas, INTA, Castelar C.C. 1712, Argentina. gutierrez.geronimo@inta.gob.ar.
+(7)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+mhamaidia@ulg.ac.be.
+(8)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+jacques.jeanrock@gmail.com.
+(9)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+Srikanthperike@gmail.com.
+(10)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+sathy.ns@gmail.com.
+(11)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+nrenotte@ulg.ac.be.
+(12)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+b.staumont@doct.ulg.ac.be.
+(13)Department of Pathology, National Veterinary Research Institute, Pulawy
+24-110, Poland. reichert@piwet.pulawy.pl.
+(14)Instituto de Virología, Centro de Investigaciones en Ciencias Veterinarias y 
+Agronómicas, INTA, Castelar C.C. 1712, Argentina. trono.karina@inta.gob.ar.
+(15)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+luc.willems@ulg.ac.be.
+
+Different animal models have been proposed to investigate the mechanisms of Human
+T-lymphotropic Virus (HTLV)-induced pathogenesis: rats, transgenic and
+NOD-SCID/γcnull (NOG) mice, rabbits, squirrel monkeys, baboons and macaques.
+These systems indeed provide useful information but have intrinsic limitations
+such as lack of disease relevance, species specificity or inadequate immune
+response. Another strategy based on a comparative virology approach is to
+characterize a related pathogen and to speculate on possible shared mechanisms.
+In this perspective, bovine leukemia virus (BLV), another member of the
+deltaretrovirus genus, is evolutionary related to HTLV-1. BLV induces
+lymphoproliferative disorders in ruminants providing useful information on the
+mechanisms of viral persistence, genetic determinants of pathogenesis and
+potential novel therapies.
+
+DOI: 10.3390/v7112929 
+PMCID: PMC4664998
+PMID: 26610551  [Indexed for MEDLINE]

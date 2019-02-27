@@ -1,0 +1,41 @@
+
+
+2679. Oral Oncol. 2014 Dec;50(12):1137-43. doi: 10.1016/j.oraloncology.2014.09.010.
+Epub 2014 Oct 14.
+
+Reviewing and reconsidering invasion assays in head and neck cancer.
+
+Inglehart RC(1), Scanlon CS(1), D'Silva NJ(2).
+
+Author information: 
+(1)Department of Periodontics and Oral Medicine, School of Dentistry, University 
+of Michigan, Ann Arbor, USA.
+(2)Department of Periodontics and Oral Medicine, School of Dentistry, University 
+of Michigan, Ann Arbor, USA; Department of Pathology, University of Michigan
+Medical School, University of Michigan, Ann Arbor, USA. Electronic address:
+njdsilva@umich.edu.
+
+Head and neck squamous cell carcinomas (HNSCC) are malignant tumors that arise
+from the surface epithelium of the oral cavity, oropharynx and larynx, primarily 
+due to exposure to chemical carcinogens or the human papilloma virus. Due to
+their location, dental practitioners are well-positioned to detect the lesions.
+Deadlier than lymphoma or melanoma, HNSCC is incompletely understood. For these
+reasons, dental practitioners and researchers are focused on understanding HNSCC 
+and the processes driving it. One of these critical processes is invasion, the
+degradation of the basement membrane by HNSCC cells with subsequent movement into
+the underlying connective tissue, blood vessels or nerves. Cancer cells
+metastasize to distant sites via the blood vessels, lymphatics and nerves.
+Metastasis is associated with poor survival. Since invasion is essential for
+development and metastasis of HNSCC, it is essential to understand the
+mechanism(s) driving this process. Elucidation of the mechanisms involved will
+facilitate the development of targeted treatment, thereby accelerating
+development of precision/personalized medicine to treat HNSCC. Robust in vitro
+and in vivo assays are required to investigate the mechanistic basis of invasion.
+This review will focus on in vitro and in vivo assays used to study invasion in
+HNSCC, with special emphasis on some of the latest assays to study HNSCC.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.09.010 
+PMCID: PMC4254578
+PMID: 25448226  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+2958. Laryngoscope. 2010 Sep;120(9):1788-94. doi: 10.1002/lary.21044.
+
+Histopathologic findings of HPV and p16 positive HNSCC.
+
+Mendelsohn AH(1), Lai CK, Shintaku IP, Elashoff DA, Dubinett SM, Abemayor E, St
+John MA.
+
+Author information: 
+(1)Division of Head and Neck Surgery, Department of Surgery, David Geffen School 
+of Medicine at UCLA, Los Angeles, California 90095, USA.
+
+OBJECTIVE: Human papilloma virus (HPV) and p16INKa (p16) positivity in head and
+neck squamous cell carcinomas (HNSCCs) is currently thought to be an encouraging 
+prognostic indicator. However, the histopathologic changes responsible for this
+behavior are poorly understood. It is our objective to elucidate these
+histopathologic characteristics to help define the clinical utility of these
+markers.
+DESIGN: Retrospective cohort study.
+METHODS: 71 HNSCC tumors between July 1, 2008 and August 30, 2009 were examined
+for HPV, p16, and epidermal growth factor receptor (EGFR). Specified pathologic
+features were examined: perivascular invasion (PVI), perineural invasion (PNI),
+grade of squamous differentiation, basaloid classification.
+RESULTS: HPV and p16 had no direct impact on perineural or perivascular invasion.
+However, HPV and p16 were strongly predictive of poorly differentiated tumors, as
+well as basaloid squamous cell carcinoma (SCCA) (P < .001). Additionally, upon
+multivariate analysis, HPV(+) and p16(+) tumors had an increased risk of nodal
+metastasis (HPV: odds ratio [OR] = 23.9 (2.2, 265.1) p = .01; p16: OR = 6.5 (1.4,
+31.2) p = .02; PVI: OR = 6.0 (1.6, 22.8) p < .01). The area under the curve (AUC)
+of receiver operating characteristic (ROC) curves demonstrated improved
+predictive value for lymph node metastasis above standard H&E histopathologic
+features (76.7%) for both HPV (83.2%) and p16 (81.3%) individually.
+CONCLUSIONS: HPV(+) and p16(+) are highly predictive for poorly differentiated
+tumors and basaloid SCCA. Additionally, HPV and p16 positivity demonstrate
+superior predictive value for lymph node metastasis above standard H&E
+histopathologic features. Although exact recommendations should be tempered by
+considerations of primary tumor subsite, T-stage, and depth of invasion, head and
+neck multidisciplinary teams should strongly consider aggressive lymph node
+treatment for any HPV(+) or p16(+) tumor.
+
+DOI: 10.1002/lary.21044 
+PMID: 20803740  [Indexed for MEDLINE]

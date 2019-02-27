@@ -1,0 +1,25 @@
+
+
+2662. Bull Cancer. 2014 Nov;101(11):1030-3. doi: 10.1684/bdc.2014.2025.
+
+[Head and neck cancers in HIV patients].
+
+[Article in French]
+
+Auclin E(1), Quéro L(1).
+
+Author information: 
+(1)AP-HP, Hôpital Saint-Louis, Service de cancérologie-radiothérapie, 1, avenue
+Claude-Vellefaux, 75010 Paris, France.
+
+Among HIV-infected patients, head and neck cancer incidence has increased over
+the last few years. Head and neck cancer treatment in HIV-infected patients does 
+not differ from the general population but those patients are exposed more
+frequently to radiation severe toxic effects and need close monitoring during
+chemoradiotherapy treatment. Close cooperation between oncologist and
+infectiologist is crucial to eventually adjust antiretroviral therapy. Like
+general population, HIV-infected patients should be advised to avoid excessive
+alcohol consumption and tobacco smoking.
+
+DOI: 10.1684/bdc.2014.2025 
+PMID: 25418595  [Indexed for MEDLINE]

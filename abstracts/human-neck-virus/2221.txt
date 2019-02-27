@@ -1,0 +1,40 @@
+
+
+2221. Int J Cancer. 2013 Feb 15;132(4):882-90. doi: 10.1002/ijc.27739. Epub 2012 Sep 7.
+
+A novel RT-PCR method for quantification of human papillomavirus transcripts in
+archived tissues and its application in oropharyngeal cancer prognosis.
+
+Gao G(1), Chernock RD, Gay HA, Thorstad WL, Zhang TR, Wang H, Ma XJ, Luo Y, Lewis
+JS Jr, Wang X.
+
+Author information: 
+(1)Department of Radiation Oncology, Washington University School of Medicine, St
+Louis, MO 63108, USA.
+
+Oropharyngeal squamous cell carcinoma (SCC) is strongly associated with human
+papillomavirus (HPV) infection, which is distinctively different from most other 
+head and neck cancers. However, a robust quantitative reverse transcription PCR
+(RT-qPCR) method for comprehensive expression profiling of HPV genes in routinely
+fixed tissues has not been reported. To address this issue, we have established a
+new real-time RT-PCR method for the expression profiling of the E6 and E7
+oncogenes from 13 high-risk HPV types. This method was validated in cervical
+cancer and by comparison with another HPV RNA detection method (in situ
+hybridization) in oropharyngeal tumors. In addition, the expression profiles of
+selected HPV-related human genes were also analyzed. HPV E6 and E7 expression
+profiles were then analyzed in 150 archived oropharyngeal SCC samples and
+compared with other variables and with patient outcomes. Our study showed that
+RT-qPCR and RNA in situ hybridization were 100% concordant in determining HPV
+status. HPV transcriptional activity was found in most oropharyngeal SCC (81.3%),
+a prevalence that is higher than in previous studies. Besides HPV16, three other 
+HPV types were also detected, including 33, 35 and 18. Furthermore, HPV and p16
+had essentially identical expression signatures, and both HPV and p16 were
+prognostic biomarkers for the prediction of disease outcome. Thus, p16 mRNA or
+protein expression signature is a sensitive and specific surrogate marker for HPV
+transcriptional activity (all genotypes combined).
+
+Copyright © 2012 UICC.
+
+DOI: 10.1002/ijc.27739 
+PMCID: PMC3498587
+PMID: 22821242  [Indexed for MEDLINE]

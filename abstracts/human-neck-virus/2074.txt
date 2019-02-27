@@ -1,0 +1,41 @@
+
+
+2074. Anal Cell Pathol (Amst). 2018 Mar 11;2018:1607814. doi: 10.1155/2018/1607814.
+eCollection 2018.
+
+Identification of Malignancy-Associated Changes in Histologically Normal
+Tumor-Adjacent Epithelium of Patients with HPV-Positive Oropharyngeal Cancer.
+
+Jabalee J(1), Carraro A(1), Ng T(2), Prisman E(3)(4), Garnis C(1), Guillaud M(1).
+
+Author information: 
+(1)British Columbia Cancer Research Centre, Department of Integrative Oncology,
+Vancouver, BC, Canada.
+(2)Department of Pathology, Vancouver General Hospital and University of British 
+Columbia, Vancouver, BC, Canada.
+(3)Vancouver General Hospital, Division of Otolaryngology-Head and Neck Surgery, 
+Vancouver, BC, Canada.
+(4)University of British Columbia, Vancouver, BC, Canada.
+
+The incidence of HPV-positive oropharyngeal cancer (HPV+ OPC) is increasing, thus
+presenting new challenges for disease detection and management. Noninvasive
+methods involving brush biopsies of diseased tissues were recently reported as
+insufficient for tumor detection in HPV+ OPC patients, likely due to differences 
+between the site of tumor initiation at the base of involuted crypts and the site
+of brush biopsy at the crypt surface. We hypothesized that histologically normal 
+surface epithelial cells in the oropharynx contain changes in nuclear morphology 
+that arise due to tumor proximity. We analyzed the nuclear phenotype of matched
+tumor, tumor-adjacent normal, and contralateral normal tissues from biopsies of
+nine HPV+ OPC patients. Measurements of 89 nuclear features were used to train a 
+random forest-based classifier to discriminate between normal and tumor nuclei.
+We then extracted voting scores from the trained classifier, which classify
+nuclei on a continuous scale from zero ("normal-like") to one ("tumor-like"). In 
+each case, the average score of the adjacent normal nuclei was intermediate
+between the tumor and contralateral normal nuclei. These results provide evidence
+for the existence of phenotypic changes in histologically normal, tumor-adjacent 
+surface epithelial cells, which could be used as brush biopsy-based biomarkers
+for HPV+ OPC detection.
+
+DOI: 10.1155/2018/1607814 
+PMCID: PMC5866869
+PMID: 29713583  [Indexed for MEDLINE]

@@ -1,0 +1,55 @@
+
+
+1519. Biomed Res Int. 2018 Mar 6;2018:7929104. doi: 10.1155/2018/7929104. eCollection
+2018.
+
+Epithelial-Mesenchymal Transition during Metastasis of HPV-Negative Pharyngeal
+Squamous Cell Carcinoma.
+
+Ihler F(1), Gratz R(1)(2), Wolff HA(3)(4), Weiss BG(1), Bertlich M(1), Kitz J(5),
+Salinas G(6), Rave-Fränk M(7), Canis M(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, University Medical Center Göttingen,
+Georg-August-University Göttingen, Robert-Koch-Strasse 40, 37099 Göttingen,
+Germany.
+(2)Department of Radiotherapy and Radiation Oncology, Pius-Hospital Oldenburg,
+Georgstrasse 12, 26121 Oldenburg, Germany.
+(3)University Medical Center Göttingen, Georg-August-University Göttingen,
+Robert-Koch-Strasse 40, 37099 Göttingen, Germany.
+(4)Strahlentherapie Radiologie München, Burgstrasse 7, 80331 München, Germany.
+(5)Department of Pathology, University Medical Center Göttingen,
+Georg-August-University Göttingen, Göttingen, Germany.
+(6)Transcriptome and Genome Analysis Laboratory (TAL), Department of
+Developmental Biochemistry, University Medical Center Göttingen,
+Georg-August-University Göttingen, Justus-von-Liebig-Weg 11, 37077 Göttingen,
+Germany.
+(7)Department of Radiotherapy and Radiation Oncology, University Medical Center
+Göttingen, Georg-August-University Göttingen, Robert-Koch-Strasse 40, 37099
+Göttingen, Germany.
+
+In epithelial tumors, a shift towards a mesenchymal phenotype has been associated
+with increased invasiveness and metastasis. It is assumed that this phenomenon
+plays a major role in disease progression and ultimately prognosis. This study
+investigated epithelial-mesenchymal transition (EMT) in human papillomavirus-
+(HPV-) negative pharyngeal squamous cell carcinoma. Tissue was obtained from one 
+hypopharyngeal primary tumor and a regional lymph node metastasis during surgery 
+with curative intention. A cell culture was established from the primary tumor
+and mesenchymal growth conditions were emulated. Gene expression profiling was
+performed (Human 8 × 60 K design array, Agilent Technologies) and EMT was
+assessed by a gene set (MSigDB: M5930,
+Hallmark_epithelial_mesenchymal_transition), applying gene set expression
+analysis (GSEA). Immunohistochemical staining and flow cytometry of CD44 and
+E-cadherin were compared in primary tumor, metastasis, and cell cultures. Primary
+tumor and metastasis were highly positive for CD44. A loss of E-cadherin occurred
+in the metastasis. Flow cytometry showed the appearance of a population without
+E-cadherin in spheroid colonies. In GSEA, the EMT phenotype was enriched in the
+primary tumor compared to metastasis and cell cultures (FDR < 25%, p < 5%). EMT
+showed variable expression during metastasis. It may thereby be a dynamic state
+in HPV-negative pharyngeal squamous cell carcinoma that is active only during the
+process of metastasis itself. Thereby, the primary tumor as well as the
+metastasis may exhibit fewer EMT properties.
+
+DOI: 10.1155/2018/7929104 
+PMCID: PMC5859914
+PMID: 29693014  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+871. Auris Nasus Larynx. 2017 Apr;44(2):195-198. doi: 10.1016/j.anl.2016.05.002. Epub 
+2016 Aug 21.
+
+Adult T-cell leukemia/lymphoma in patients with head and neck cancer after S-1
+chemotherapy.
+
+Nagano H(1), Kurono Y(2), Matushita K(3).
+
+Author information: 
+(1)Department of Otolaryngology and Head and Neck Surgery, Kagoshima University
+Graduate School of Medical and Dental Sciences, Japan. Electronic address:
+nagano@m.kufm.kagoshima-u.ac.jp.
+(2)Department of Otolaryngology and Head and Neck Surgery, Kagoshima University
+Graduate School of Medical and Dental Sciences, Japan.
+(3)Division of Hematology and Immunology, Kagoshima University Graduate School of
+Medical and Dental Sciences, Japan; Palliative Care Center, Kagoshima University 
+Hospital, Kagoshima University Graduate School of Medical and Dental Sciences,
+Japan.
+
+OBJECTIVE: One in 1000-3000 carriers of human T-cell leukemia virus type 1
+(HTLV-1) develops adult T-cell leukemia/lymphoma (ATLL) per year; however, the
+pathogenic mechanism is not completely clear. We have observed that some patients
+with squamous cell carcinoma (SCC) develop ATLL during treatment at our hospital.
+The aim of this study was to examine treatment factors associated with onset of
+ATLL through an evaluation of the therapeutic background of these patients.
+METHODS: The impact of radiotherapy, chemotherapy and surgery on occurrence of
+ATLL was evaluated in 146 patients with head and neck SCC who were treated at our
+hospital between April 2010 and December 2013.
+RESULTS: Of 146 patients, 17 were HTLV-1 positive and 6 developed ATLL. There was
+a significant relationship between ATLL development and administration of S-1
+chemotherapy (p=0.0003), but not with use of radiotherapy, surgery or other
+drugs.
+CONCLUSION: The involvement of S-1 chemotherapy in ATLL development suggests that
+a test for HTLV-1 antibody should be performed before treatment and that S-1
+should not be administered in HTLV-1 positive patients with head and neck
+carcinoma.
+
+Copyright © 2016 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.anl.2016.05.002 
+PMID: 27552830  [Indexed for MEDLINE]

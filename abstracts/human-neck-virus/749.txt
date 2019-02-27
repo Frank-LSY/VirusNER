@@ -1,0 +1,57 @@
+
+
+749. J Magn Reson Imaging. 2017 Apr;45(4):1013-1023. doi: 10.1002/jmri.25523. Epub
+2016 Nov 11.
+
+Intravoxel incoherent motion diffusion-weighted MRI during chemoradiation therapy
+to characterize and monitor treatment response in human papillomavirus head and
+neck squamous cell carcinoma.
+
+Paudyal R(1), Oh JH(1), Riaz N(2), Venigalla P(2), Li J(2)(3), Hatzoglou V(4),
+Leeman J(2), Nunez DA(1), Lu Y(5), Deasy JO(1), Lee N(2), Shukla-Dave A(1)(4).
+
+Author information: 
+(1)Department of Medical Physics, Memorial Sloan Kettering Cancer Center, New
+York, New York, USA.
+(2)Radiation Oncology, Memorial Sloan Kettering Cancer Center, New York, New
+York, USA.
+(3)Department of Radiation Oncology, Jiangxi Cancer Hospital, Nanchang, P.R.
+China.
+(4)Department of Radiology, Memorial Sloan Kettering Cancer Center, New York, New
+York, USA.
+(5)Department of Radiation Oncology, Washington University in St. Louis, St.
+Louis, Missouri, USA.
+
+PURPOSE: Characterize and monitor treatment response in human papillomavirus
+(HPV) head and neck squamous cell carcinoma (HNSCC) using intra-treatment
+(intra-TX) imaging metrics derived from intravoxel incoherent motion (IVIM)
+diffusion-weighted magnetic resonance imaging (DW-MRI).
+MATERIALS AND METHODS: Thirty-four (30 HPV positive [+] and 4 HPV negative [-])
+HNSCC patients underwent a total of 136 MRI including multi-b value DW-MRI
+(pretreatment [pre-TX] and intra-TX weeks 1, 2, and 3) at 3.0 Tesla. All patients
+were treated with chemo-radiation therapy. Monoexponential (yielding apparent
+diffusion coefficient [ADC]) and bi-exponential (yielding perfusion fraction [f],
+diffusion [D], and pseudo-diffusion [D*] coefficients) fits were performed on a
+region of interest and voxel-by-voxel basis, on metastatic neck nodes. Response
+was assessed using RECISTv1.1. The relative percentage change in D, f, and D*
+between the pre- and intra-TX weeks were used for hierarchical clustering. A
+Wilcoxon rank-sum test was performed to assess the difference in metrics within
+and between the complete response (CR) and non-CR groups.
+RESULTS: The delta (Δ) change in volume (V)1wk-0wk for the CR group differed
+significantly (P = 0.016) from the non-CR group, while not for V2wk-0wk and
+V3wk-0wk (P > 0.05). The mean increase in ΔD3wk-0wk for the CR group was
+significantly higher (P = 0.017) than the non-CR group. ADC and D showed an
+increasing trend at each intra-TX week when compared with pre-TX in CR group
+(P < 0.003). Hierarchical clustering demonstrated the existence of clusters in
+HPV + patients.
+CONCLUSION: After appropriate validation in a larger population, these IVIM
+imaging metrics may be useful for individualized treatment in HNSCC patients.
+LEVEL OF EVIDENCE: 2 J. Magn. Reson. Imaging 2017;45:1013-1023.
+
+© 2016 The Authors Journal of Magnetic Resonance Imaging published by Wiley
+Periodicals, Inc. on behalf of International Society for Magnetic Resonance in
+Medicine.
+
+DOI: 10.1002/jmri.25523 
+PMCID: PMC5363344
+PMID: 27862553  [Indexed for MEDLINE]

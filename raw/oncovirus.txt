@@ -1,0 +1,1877 @@
+
+1. Virology. 2018 Oct;523:52-63. doi: 10.1016/j.virol.2018.07.024. Epub 2018 Aug 3.
+
+Equine MX2 is a restriction factor of equine infectious anemia virus (EIAV).
+
+Meier K(1), Jaguva Vasudevan AA(1), Zhang Z(1), Bähr A(1), Kochs G(2), Häussinger
+D(1), Münk C(3).
+
+Author information: 
+(1)Clinic for Gastroenterology, Hepatology, and Infectiology, Medical Faculty,
+Heinrich-Heine-University, Moorenstr. 5, 40225 Düsseldorf, Germany.
+(2)Institute of Virology, Medical Center, University of Freiburg, Faculty of
+Medicine, University of Freiburg, Herman-Herder-Str. 1, 79104 Freiburg, Germany.
+(3)Clinic for Gastroenterology, Hepatology, and Infectiology, Medical Faculty,
+Heinrich-Heine-University, Moorenstr. 5, 40225 Düsseldorf, Germany. Electronic
+address: carsten.muenk@med.uni-duesseldorf.de.
+
+Human myxovirus resistance protein B (hMXB) is a restriction factor of HIV-1 that
+also inhibits a variety of retroviruses. However, hMXB is not antiviral against
+equine infectious anemia virus (EIAV). We show here that equine MX2 (eMX2)
+potently restricts EIAV in vitro. Additionally, eMX2 inhibits HIV-1 and other
+lentiviruses, including murine leukemia virus. Previously, it was reported that
+hMXB repression is reduced in hMXB Δ1-25, but not in GTP-binding mutant K131A and
+GTP-hydrolysis mutant T151A. In contrast to this phenomenon, our study indicates 
+that eMX2 restriction is not diminished in eMX2 Δ1-25, but is in eMX2 K127A and
+T147A, which correspond to hMXB K131A and T151A, respectively. Thus, eMX2 may
+inhibit retroviral replication by a novel mechanism that differs from that of
+hMXB.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2018.07.024 
+PMID: 30081309  [Indexed for MEDLINE]
+
+
+2. Virology. 2018 Mar;516:158-164. doi: 10.1016/j.virol.2017.12.035.
+
+Spumaretroviruses: Updated taxonomy and nomenclature.
+
+Khan AS(1), Bodem J(2), Buseyne F(3), Gessain A(3), Johnson W(4), Kuhn JH(5),
+Kuzmak J(6), Lindemann D(7), Linial ML(8), Löchelt M(9), Materniak-Kornas M(6),
+Soares MA(10), Switzer WM(11).
+
+Author information: 
+(1)Laboratory of Retroviruses, US Food and Drug Administration, Silver Spring, MD
+20993, USA. Electronic address: arifa.khan@fda.hhs.gov.
+(2)Institut für Virologie und Immunbiologie, Universität Würzburg, Würzburg,
+Germany.
+(3)Unit of Epidemiology and Physiopathology of Oncogenic Viruses, Institut
+Pasteur, Paris, France; Centre National de la Recherche Scientifique, CNRS
+UMR3569, Paris, France.
+(4)Biology Department, Boston College, Chestnut Hill, MA 02467, USA.
+(5)Integrated Research Facility at Fort Detrick, National Institute of Allergy
+and Infectious Diseases, National Institutes of Health, Frederick, MD 21702, USA.
+(6)Department of Biochemistry, National Veterinary Research Institute, Puławy,
+Poland.
+(7)Institute of Virology, Technische Universität Dresden, Dresden, Germany.
+(8)Division of Basic Sciences, Fred Hutchinson Cancer Research Center, Seattle,
+WA 98109, USA.
+(9)Research Program Infection, Inflammation and Cancer, German Cancer Research
+Center (DFKZ), Heidelberg, Germany.
+(10)Instituto Nacional de Câncer and Universidade Federal do Rio de Janeiro, Rio 
+de Janeiro, Brazil.
+(11)Laboratory Branch, Division of HIV/AIDS Prevention, Centers for Disease
+Control and Prevention, Atlanta, GA 30329, USA.
+
+Erratum in
+    Virology. 2019 Jan 20;:.
+
+Spumaretroviruses, commonly referred to as foamy viruses, are complex
+retroviruses belonging to the subfamily Spumaretrovirinae, family Retroviridae,
+which naturally infect a variety of animals including nonhuman primates (NHPs).
+Additionally, cross-species transmissions of simian foamy viruses (SFVs) to
+humans have occurred following exposure to tissues of infected NHPs. Recent
+research has led to the identification of previously unknown exogenous foamy
+viruses, and to the discovery of endogenous spumaretrovirus sequences in a
+variety of host genomes. Here, we describe an updated spumaretrovirus taxonomy
+that has been recently accepted by the International Committee on Taxonomy of
+Viruses (ICTV) Executive Committee, and describe a virus nomenclature that is
+generally consistent with that used for other retroviruses, such as lentiviruses 
+and deltaretroviruses. This taxonomy can be applied to distinguish different, but
+closely related, primate (e.g., human, ape, simian) foamy viruses as well as
+those from other hosts. This proposal accounts for host-virus co-speciation and
+cross-species transmission.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2017.12.035 
+PMID: 29407373  [Indexed for MEDLINE]
+
+
+3. Virology. 2018 Jan 15;514:1-8. doi: 10.1016/j.virol.2017.10.020. Epub 2017 Nov 9.
+
+The roles of five conserved lentiviral RNA structures in HIV-1 replication.
+
+Liu Y(1), Chen J(1), Nikolaitchik OA(1), Desimmie BA(2), Busan S(3), Pathak
+VK(2), Weeks KM(3), Hu WS(4).
+
+Author information: 
+(1)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institute, Frederick, MD 21702, USA.
+(2)Viral Mutation Section, HIV Dynamics and Replication Program, National Cancer 
+Institute, Frederick, MD 21702, USA.
+(3)Department of Chemistry, University of North Carolina, Chapel Hill, NC, USA.
+(4)Viral Recombination Section, HIV Dynamics and Replication Program, National
+Cancer Institute, Frederick, MD 21702, USA. Electronic address:
+Wei-Shau.Hu@nih.gov.
+
+The HIV-1 RNA genome contains complex structures with many structural elements
+playing regulatory roles during viral replication. A recent study has identified 
+multiple RNA structures with unknown functions that are conserved among HIV-1 and
+two simian immunodeficiency viruses. To explore the roles of these conserved RNA 
+structures, we introduced synonymous mutations into the HIV-1 genome to disrupt
+each structure. These mutants exhibited similar particle production, viral
+infectivity, and replication kinetics relative to the parent NL4-3 virus.
+However, when replicating in direct competition with the wild-type NL4-3 virus,
+mutations of RNA structures at inter-protein domain junctions can cause fitness
+defects. These findings reveal the ability of HIV-1 to tolerate changes in its
+sequences, even in apparently highly conserved structures, which permits high
+genetic diversity in HIV-1 population. Our results also suggest that some
+conserved RNA structures may function to fine-tune viral replication.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2017.10.020 
+PMCID: PMC5766380
+PMID: 29128752  [Indexed for MEDLINE]
+
+
+4. Biochim Biophys Acta Mol Basis Dis. 2018 Feb;1864(2):481-487. doi:
+10.1016/j.bbadis.2017.09.023. Epub 2017 Sep 28.
+
+The interaction between mitochondria and oncoviruses.
+
+Song S(1), Gong S(2), Singh P(3), Lyu J(4), Bai Y(5).
+
+Author information: 
+(1)Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang
+Provincial Key Laboratory of Medical Genetics, College of Laboratory Medicine and
+Life Sciences, Wenzhou Medical University, Wenzhou, Zhejiang, China.
+(2)School of Medicine, Taizhou College, Taizhou, Zhejiang, China.
+(3)Department of Cell Systems and Anatomy, University of Texas Health San
+Antonio, San Antonio, TX, USA.
+(4)Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang
+Provincial Key Laboratory of Medical Genetics, College of Laboratory Medicine and
+Life Sciences, Wenzhou Medical University, Wenzhou, Zhejiang, China. Electronic
+address: jxlu313@163.com.
+(5)Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang
+Provincial Key Laboratory of Medical Genetics, College of Laboratory Medicine and
+Life Sciences, Wenzhou Medical University, Wenzhou, Zhejiang, China; Department
+of Cell Systems and Anatomy, University of Texas Health San Antonio, San Antonio,
+TX, USA. Electronic address: baiy@uthscsa.edu.
+
+Mitochondria play important roles in multiple aspects of viral tumorigenesis.
+Mitochondrial genomes contribute to the host's genetic background. After viruses 
+enter the cell, they modulate mitochondrial function and thus alter bioenergetics
+and retrograde signaling pathways. At the same time, mitochondria also regulate
+and mediate viral oncogenesis. In this context, oncogenesis by oncoviruses like
+Hepatitis B virus (HBV), Hepatitis C virus (HCV), Human papilloma virus (HPV),
+Human Immunodeficiency virus (HIV) and Epstein-Barr virus (EBV) will be
+discussed.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbadis.2017.09.023 
+PMID: 28962899  [Indexed for MEDLINE]
+
+
+5. Curr Opin Virol. 2016 Dec;21:102-108. doi: 10.1016/j.coviro.2016.08.016. Epub
+2016 Sep 13.
+
+Lentiviral vector interactions with the host cell.
+
+Borsotti C(1), Borroni E(1), Follenzi A(2).
+
+Author information: 
+(1)Department of Health Sciences, Università del Piemonte Orientale "A.
+Avogadro", Novara 28100, Italy.
+(2)Department of Health Sciences, Università del Piemonte Orientale "A.
+Avogadro", Novara 28100, Italy. Electronic address:
+antonia.follenzi@med.uniupo.it.
+
+Lentiviral vectors (LVs)-mediated gene transfer is an efficient method for ex
+vivo and in vivo gene therapy. Actually, LVs have been used in several clinical
+trials and therapeutic correction was reached in affected patients. However, in
+order to be effective gene therapy needs to be efficient without detrimental
+effects for target cells. Successful cell transduction by LVs can be hampered by 
+several factors such as the activation of innate immune sensors during cell
+transduction and different restriction factors (RFs) inhibiting viral replication
+inside the cells. Therefore, a better knowledge of host-vector interactions is
+important for the development of more efficient gene therapy strategies improving
+the LVs platform by limiting harmful responses.
+
+Copyright Â© 2016. Published by Elsevier B.V.
+
+DOI: 10.1016/j.coviro.2016.08.016 
+PMID: 27637073  [Indexed for MEDLINE]
+
+
+6. PLoS One. 2016 Jun 16;11(6):e0157709. doi: 10.1371/journal.pone.0157709.
+eCollection 2016.
+
+Dual Simian Foamy Virus/Human Immunodeficiency Virus Type 1 Infections in Persons
+from Côte d'Ivoire.
+
+Switzer WM(1), Tang S(1), Zheng H(1), Shankar A(1), Sprinkle PS(1), Sullivan
+V(1), Granade TC(1), Heneine W(1).
+
+Author information: 
+(1)Division of HIV/AIDS Prevention, National Center for HIV/AIDS, Viral
+Hepatitis, STD, and TB Prevention, Centers for Disease Control and Prevention,
+Atlanta, GA 30329, United States of America.
+
+Zoonotic transmission of simian retroviruses in West-Central Africa occurring in 
+primate hunters has resulted in pandemic spread of human immunodeficiency viruses
+(HIVs) and human T-lymphotropic viruses (HTLVs). While simian foamy virus (SFV)
+and simian T- lymphotropic virus (STLV)-like infection were reported in healthy
+persons exposed to nonhuman primates (NHPs) in West-Central Africa, less is known
+about the distribution of these viruses in Western Africa and in hospitalized
+populations. We serologically screened for SFV and STLV infection using 1,529
+specimens collected between 1985 and 1997 from Côte d'Ivoire patients with high
+HIV prevalence. PCR amplification and analysis of SFV, STLV, and HIV/SIV
+sequences from PBMCs was used to investigate possible simian origin of infection.
+We confirmed SFV antibodies in three persons (0.2%), two of whom were
+HIV-1-infected. SFV polymerase (pol) and LTR sequences were detected in PBMC DNA 
+available for one HIV-infected person. Phylogenetic comparisons with new SFV
+sequences from African guenons showed infection likely originated from a
+Chlorocebus sabaeus monkey endemic to Côte d'Ivoire. 4.6% of persons were HTLV
+seropositive and PCR testing of PBMCs from 15 HTLV seroreactive persons
+identified nine with HTLV-1 and one with HTLV-2 LTR sequences. Phylogenetic
+analysis showed that two persons had STLV-1-like infections, seven were HTLV-1,
+and one was an HTLV-2 infection. 310/858 (53%), 8/858 (0.93%), and 18/858 (2.1%) 
+were HIV-1, HIV-2, and HIV-positive but undifferentiated by serology,
+respectively. No SIV sequences were found in persons with HIV-2 antibodies (n =
+1) or with undifferentiated HIV results (n = 7). We document SFV, STLV-1-like,
+and dual SFV/HIV infection in Côte d'Ivoire expanding the geographic range for
+zoonotic simian retrovirus transmission to West Africa. These findings highlight 
+the need to define the public health consequences of these infections. Studying
+dual HIV-1/SFV infections in immunocompromised populations may provide a new
+opportunity to better understand SFV pathogenicity and transmissibility in
+humans.
+
+DOI: 10.1371/journal.pone.0157709 
+PMCID: PMC4911074
+PMID: 27310836  [Indexed for MEDLINE]
+
+
+7. MBio. 2016 Feb 9;7(1):e02025-15. doi: 10.1128/mBio.02025-15.
+
+Host RNA Packaging by Retroviruses: A Newly Synthesized Story.
+
+Eckwahl MJ(1), Telesnitsky A(2), Wolin SL(3).
+
+Author information: 
+(1)Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut,
+USA.
+(2)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
+Michigan, USA.
+(3)Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut,
+USA Department of Molecular Biophysics and Biochemistry, Yale School of Medicine,
+New Haven, Connecticut, USA sandra.wolin@yale.edu.
+
+A fascinating aspect of retroviruses is their tendency to nonrandomly incorporate
+host cell RNAs into virions. In addition to the specific tRNAs that prime reverse
+transcription, all examined retroviruses selectively package multiple host cell
+noncoding RNAs (ncRNAs). Many of these ncRNAs appear to be encapsidated shortly
+after synthesis, before assembling with their normal protein partners.
+Remarkably, although some packaged ncRNAs, such as pre-tRNAs and the spliceosomal
+U6 small nuclear RNA (snRNA), were believed to reside exclusively within
+mammalian nuclei, it was demonstrated recently that the model retrovirus murine
+leukemia virus (MLV) packages these ncRNAs from a novel pathway in which unneeded
+nascent ncRNAs are exported to the cytoplasm for degradation. The finding that
+retroviruses package forms of ncRNAs that are rare in cells suggests several
+hypotheses for how these RNAs could assist retrovirus assembly and infectivity.
+Moreover, recent experiments in several laboratories have identified additional
+ways in which cellular ncRNAs may contribute to the retrovirus life cycle. This
+review focuses on the ncRNAs that are packaged by retroviruses and the ways in
+which both encapsidated ncRNAs and other cellular ncRNAs may contribute to
+retrovirus replication.
+
+Copyright © 2016 Eckwahl et al.
+
+DOI: 10.1128/mBio.02025-15 
+PMCID: PMC4752605
+PMID: 26861021  [Indexed for MEDLINE]
+
+
+8. Methods Mol Biol. 2016;1382:107-14. doi: 10.1007/978-1-4939-3271-9_8.
+
+Lentivirus Production and Purification.
+
+Benskey MJ(1), Manfredsson FP(2).
+
+Author information: 
+(1)Department of Translational Science and Molecular Medicine, Michigan State
+University, 333 Bostwick Avenue NE, Grand Rapids, MI, 49503-2532, USA.
+Matthew.Benskey@hc.msu.edu.
+(2)Translational Science and Molecular Medicine, Michigan State University, 333
+Bostwick Avenue NE, Grand Rapids, MI, 49503-2532, USA.
+
+Lentiviral (LV) vectors offer unique advantages over other gene delivery systems,
+namely the ability to integrate transgenes into the genome of both dividing and
+nondividing cells. Detailed herein is a simple protocol for the production LV
+vectors, describing the triple transfection of an LV transfer vector and LV
+helper plasmids into HEK-293 cells, and the subsequent purification of virions
+from the cellular media. The current protocol is versatile, and can be easily
+modified to fit the specific needs of the researcher in order to produce
+relatively high-titer LV vectors which can be used to transduce a wide variety of
+cells both in vitro and in vivo.
+
+DOI: 10.1007/978-1-4939-3271-9_8 
+PMID: 26611582  [Indexed for MEDLINE]
+
+
+9. Viruses. 2015 Nov 24;7(11):6080-8. doi: 10.3390/v7112929.
+
+Recent Advances in BLV Research.
+
+Barez PY(1), de Brogniez A(2), Carpentier A(3), Gazon H(4), Gillet N(5),
+Gutiérrez G(6), Hamaidia M(7), Jacques JR(8), Perike S(9), Neelature Sriramareddy
+S(10), Renotte N(11), Staumont B(12), Reichert M(13), Trono K(14), Willems L(15).
+
+Author information: 
+(1)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+epy.barez@doct.ulg.ac.be.
+(2)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+alix.debrogniez@ulg.ac.be.
+(3)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+a.carpentier@doct.ulg.ac.be.
+(4)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+helene.gazon@ulg.ac.be.
+(5)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+n.gillet@ulg.ac.be.
+(6)Instituto de Virología, Centro de Investigaciones en Ciencias Veterinarias y
+Agronómicas, INTA, Castelar C.C. 1712, Argentina. gutierrez.geronimo@inta.gob.ar.
+(7)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+mhamaidia@ulg.ac.be.
+(8)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+jacques.jeanrock@gmail.com.
+(9)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+Srikanthperike@gmail.com.
+(10)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+sathy.ns@gmail.com.
+(11)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+nrenotte@ulg.ac.be.
+(12)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+b.staumont@doct.ulg.ac.be.
+(13)Department of Pathology, National Veterinary Research Institute, Pulawy
+24-110, Poland. reichert@piwet.pulawy.pl.
+(14)Instituto de Virología, Centro de Investigaciones en Ciencias Veterinarias y 
+Agronómicas, INTA, Castelar C.C. 1712, Argentina. trono.karina@inta.gob.ar.
+(15)Molecular and Cellular Epigenetics (GIGA) and Molecular Biology (Gembloux
+Agro-Bio Tech), University of Liège (ULg), Liège 4000, Belgium.
+luc.willems@ulg.ac.be.
+
+Different animal models have been proposed to investigate the mechanisms of Human
+T-lymphotropic Virus (HTLV)-induced pathogenesis: rats, transgenic and
+NOD-SCID/γcnull (NOG) mice, rabbits, squirrel monkeys, baboons and macaques.
+These systems indeed provide useful information but have intrinsic limitations
+such as lack of disease relevance, species specificity or inadequate immune
+response. Another strategy based on a comparative virology approach is to
+characterize a related pathogen and to speculate on possible shared mechanisms.
+In this perspective, bovine leukemia virus (BLV), another member of the
+deltaretrovirus genus, is evolutionary related to HTLV-1. BLV induces
+lymphoproliferative disorders in ruminants providing useful information on the
+mechanisms of viral persistence, genetic determinants of pathogenesis and
+potential novel therapies.
+
+DOI: 10.3390/v7112929 
+PMCID: PMC4664998
+PMID: 26610551  [Indexed for MEDLINE]
+
+
+10. Retrovirology. 2015 Aug 12;12:70. doi: 10.1186/s12977-015-0198-9.
+
+dUTPase: the frequently overlooked enzyme encoded by many retroviruses.
+
+Hizi A(1), Herzig E(2).
+
+Author information: 
+(1)Department of Cell and Developmental Biology, Sackler School of Medicine, Tel 
+Aviv University, 69978, Tel Aviv, Israel. ahizy@post.tau.ac.il.
+(2)Department of Cell and Developmental Biology, Sackler School of Medicine, Tel 
+Aviv University, 69978, Tel Aviv, Israel. herzigey@post.tau.ac.il.
+
+Erratum in
+    Retrovirology. 2015;12:77.
+
+Retroviruses are among the best studied viruses in last decades due to their
+pivotal involvement in cellular processes and, most importantly, in causing human
+diseases, most notably-acquired immunodeficiency syndrome (AIDS) that is
+triggered by human immunodeficiency viruses types 1 and 2 (HIV-1 and HIV-2,
+respectively). Numerous studied were conducted to understand the involvement of
+the three cardinal retroviral enzymes, reverse transcriptase, integrase and
+protease, in the life cycle of the viruses. These studies have led to the
+development of many inhibitors of these enzymes as anti-retroviral specific drugs
+that are used for routine treatments of HIV/AIDS patients. Interestingly, a
+fourth virus-encoded enzyme, the deoxyuridine 5'-triphosphate nucleotidohydrolase
+(dUTPase) is also found in several major retroviral groups. The presence and the 
+importance of this enzyme to the life cycle of retroviruses were usually
+overlooked by most retrovirologists, although the occurrence of dUTPases,
+particularly in beta-retroviruses and in non-primate retroviruses, is known for
+more than 20 years. Only more recently, retroviral dUTPases were brought into the
+limelight and were shown in several cases to be essential for viral replication. 
+Therefore, it is likely that future studies on this enzyme will advance our
+knowledge to a level that will allow designing novel, specific and potent
+anti-dUTPase drugs that are effective in combating retroviral diseases. The aim
+of this review is to give concise background information on dUTPases in general
+and to summarize the most relevant data on retroviral dUTPases and their
+involvement in the replication processes and pathogenicity of the viruses, as
+well as in possibly-associated human diseases.
+
+DOI: 10.1186/s12977-015-0198-9 
+PMCID: PMC4531489
+PMID: 26259899  [Indexed for MEDLINE]
+
+
+11. Curr Top Microbiol Immunol. 2016;392:277-302. doi: 10.1007/82_2015_458.
+
+Models of Viral Population Dynamics.
+
+Padmanabhan P(1), Dixit NM(2).
+
+Author information: 
+(1)Department of Chemical Engineering, Indian Institute of Science, Bangalore,
+560012, Karnataka, India.
+(2)Department of Chemical Engineering, Indian Institute of Science, Bangalore,
+560012, Karnataka, India. narendra@chemeng.iisc.ernet.in.
+
+Models of viral population dynamics have contributed enormously to our
+understanding of the pathogenesis and transmission of several infectious
+diseases, the coevolutionary dynamics of viruses and their hosts, the mechanisms 
+of action of drugs, and the effectiveness of interventions. In this chapter, we
+review major advances in the modeling of the population dynamics of the human
+immunodeficiency virus (HIV) and briefly discuss adaptations to other viruses.
+
+DOI: 10.1007/82_2015_458 
+PMID: 26174625  [Indexed for MEDLINE]
+
+
+12. Retrovirology. 2015 Apr 30;12:39. doi: 10.1186/s12977-015-0167-3.
+
+Key determinants of target DNA recognition by retroviral intasomes.
+
+Serrao E(1), Ballandras-Colas A(2), Cherepanov P(3)(4), Maertens GN(5), Engelman 
+AN(6).
+
+Author information: 
+(1)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute,
+Boston, MA, USA. SerraoErik_Serrao@DFCI.HARVARD.EDU.
+(2)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute,
+Boston, MA, USA. Allison_Ballandras-Colas@DFCI.HARVARD.edu.
+(3)Division of Infectious Diseases, Imperial College London, London, UK.
+Peter.Cherepanov@crick.ac.uk.
+(4)Clare Hall Laboratories, The Francis Crick Institute, London, UK.
+Peter.Cherepanov@crick.ac.uk.
+(5)Division of Infectious Diseases, Imperial College London, London, UK.
+g.maertens@imperial.ac.uk.
+(6)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute,
+Boston, MA, USA. alan_engelman@dfci.harvard.edu.
+
+BACKGROUND: Retroviral integration favors weakly conserved palindrome sequences
+at the sites of viral DNA joining and generates a short (4-6 bp) duplication of
+host DNA flanking the provirus. We previously determined two key parameters that 
+underlie the target DNA preference for prototype foamy virus (PFV) and human
+immunodeficiency virus type 1 (HIV-1) integration: flexible pyrimidine (Y)/purine
+(R) dinucleotide steps at the centers of the integration sites, and base contacts
+with specific integrase residues, such as Ala188 in PFV integrase and Ser119 in
+HIV-1 integrase. Here we examined the dinucleotide preference profiles of a range
+of retroviruses and correlated these findings with respect to length of target
+site duplication (TSD).
+RESULTS: Integration datasets covering six viral genera and the three lengths of 
+TSD were accessed from the literature or generated in this work. All viruses
+exhibited significant enrichments of flexible YR and/or selection against rigid
+RY dinucleotide steps at the centers of integration sites, and the magnitude of
+this enrichment inversely correlated with TSD length. The DNA sequence
+environments of in vivo-generated HIV-1 and PFV sites were consistent with
+integration into nucleosomes, however, the local sequence preferences were
+largely independent of target DNA chromatinization. Integration sites derived
+from cells infected with the gammaretrovirus reticuloendotheliosis virus strain A
+(Rev-A), which yields a 5 bp TSD, revealed the targeting of global chromatin
+features most similar to those of Moloney murine leukemia virus, which yields a 4
+bp duplication. In vitro assays revealed that Rev-A integrase interacts with and 
+is catalytically stimulated by cellular bromodomain containing 4 protein.
+CONCLUSIONS: Retroviral integrases have likely evolved to bend target DNA to fit 
+scissile phosphodiester bonds into two active sites for integration, and viruses 
+that cut target DNA with a 6 bp stagger may not need to bend DNA as sharply as
+viruses that cleave with 4 bp or 5 bp staggers. For PFV and HIV-1, the selection 
+of signature bases and central flexibility at sites of integration is largely
+independent of chromatin structure. Furthermore, global Rev-A integration is
+likely directed to chromatin features by bromodomain and extraterminal domain
+proteins.
+
+DOI: 10.1186/s12977-015-0167-3 
+PMCID: PMC4422553
+PMID: 25924943  [Indexed for MEDLINE]
+
+
+13. Viruses. 2015 Mar 31;7(4):1651-66. doi: 10.3390/v7041651.
+
+Tenth International Foamy Virus Conference 2014--achievements and perspectives.
+
+Materniak M(1), Kubiś P(2), Rola-Łuszczak M(3), Khan AS(4), Buseyne F(5),
+Lindemann D(6), Löchelt M(7), Kuźmak J(8).
+
+Author information: 
+(1)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland. magdalena.materniak@piwet.pulawy.pl.
+(2)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland. kubip@piwet.pulawy.pl.
+(3)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland.
+(4)Laboratory of Retroviruses, Division of Viral Products, OVRR, CBER, U.S. Food 
+and Drug Administration, Silver Spring, MD 20993, USA. arifa.khan@fda.hhs.gov.
+(5)Unité d'épidémiologie et Physiopathologie des Virus Oncogènes, Institut
+Pasteur, 75015 Paris, France. florence.buseyne@pasteur.fr.
+(6)Institute of Virology, Medical Faculty "Carl Gustav Carus", Technische
+Universität Dresden, 01307 Dresden, Germany. Dirk.Lindemann@tu-dresden.de.
+(7)Department of Genome Modifications and Carcinogenesis, German Cancer Research 
+Center, 69121 Heidelberg, Germany. m.loechelt@dkfz.de.
+(8)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland. jkuzmak@piwet.pulawy.pl.
+
+For the past two decades, scientists from around the world, working on different 
+aspects of foamy virus (FV) research, have gathered in different research
+institutions almost every two years to present their recent results in formal
+talks, to discuss their ongoing studies informally, and to initiate fruitful
+collaborations. In this report we review the 2014 anniversary conference to share
+the meeting summary with the virology community and hope to arouse interest by
+other researchers to join this exciting field. The topics covered included
+epidemiology, virus molecular biology, and immunology of FV infection in
+non-human primates, cattle, and humans with zoonotic FV infections, as well as
+recent findings on endogenous FVs. Several topics focused on virus replication
+and interactions between viral and cellular proteins. Use of FV in biomedical
+research was highlighted with presentations on using FV vectors for gene therapy 
+and FV proteins as scaffold for vaccine antigen presentation. On behalf of the FV
+community, this report also includes a short tribute to commemorate Prof. Axel
+Rethwilm, one of the leading experts in the field of retrovirology and foamy
+viruses, who passed away 29 July 2014.
+
+DOI: 10.3390/v7041651 
+PMCID: PMC4411671
+PMID: 25835535  [Indexed for MEDLINE]
+
+
+14. J Virol. 2015 May;89(10):5204-12. doi: 10.1128/JVI.03684-14. Epub 2015 Mar 11.
+
+The Road Less Traveled: HIV's Use of Alternative Routes through Cellular
+Pathways.
+
+Marx A(1), Alian A(2).
+
+Author information: 
+(1)Faculty of Biology, Technion-Israel Institute of Technology, Haifa, Israel.
+(2)Faculty of Biology, Technion-Israel Institute of Technology, Haifa, Israel
+alian@tx.technion.ac.il.
+
+Pathogens such as HIV-1, with their minimalist genomes, must navigate cellular
+networks and rely on hijacking and manipulating the host machinery for successful
+replication. Limited overlap of host factors identified as vital for pathogen
+replication may be explained by considering that pathogens target, rather than
+specific cellular factors, crucial cellular pathways by targeting different,
+functionally equivalent, protein-protein interactions within that pathway. The
+ability to utilize alternative routes through cellular pathways may be essential 
+for pathogen survival when restricted and provide flexibility depending on the
+viral replication stage and the environment in the infected host. In this
+minireview, we evaluate evidence supporting this notion, discuss specific HIV-1
+examples, and consider the molecular mechanisms which allow pathogens to flexibly
+exploit different routes.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03684-14 
+PMCID: PMC4442546
+PMID: 25762730  [Indexed for MEDLINE]
+
+
+15. Curr Opin Virol. 2015 Feb;10:47-55. doi: 10.1016/j.coviro.2014.12.003. Epub 2015 
+Feb 17.
+
+Origin, evolution and innate immune control of simian foamy viruses in humans.
+
+Rua R(1), Gessain A(2).
+
+Author information: 
+(1)Institut Pasteur, Unité d'Epidémiologie et Physiopathologie des Virus
+Oncogènes, 28 Rue du Dr. Roux, 75015 Paris, France; Département de Virologie,
+Institut Pasteur, 25-28 rue du Dr Roux, 75724 Paris, Cedex 15, France; CNRS,
+UMR369, 28 Rue du Dr. Roux, F-75015 Paris, France; Université Paris Diderot,
+Cellule Pasteur, Paris, France. Electronic address: rejane.rua@nih.gov.
+(2)Institut Pasteur, Unité d'Epidémiologie et Physiopathologie des Virus
+Oncogènes, 28 Rue du Dr. Roux, 75015 Paris, France; Département de Virologie,
+Institut Pasteur, 25-28 rue du Dr Roux, 75724 Paris, Cedex 15, France; CNRS,
+UMR369, 28 Rue du Dr. Roux, F-75015 Paris, France.
+
+Most viral pathogens that have emerged in humans have originated from various
+animal species. Emergence is a multistep process involving an initial spill-over 
+of the infectious agent into single individuals and its subsequent dissemination 
+into the human population. Similar to simian immunodeficiency viruses and simian 
+T lymphotropic viruses, simian foamy viruses (SFV) are retroviruses that are
+widespread among non-human primates and can be transmitted to humans, giving rise
+to a persistent infection, which seems to be controlled in the case of SFV. In
+this review, we present current data on the discovery, cross-species
+transmission, and molecular evolution of SFV in human populations initially
+infected and thus at risk for zoonotic emergence.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2014.12.003 
+PMID: 25698621  [Indexed for MEDLINE]
+
+
+16. Virology. 2015 May;479-480:297-309. doi: 10.1016/j.virol.2015.01.017. Epub 2015
+Feb 11.
+
+Studies of retroviral infection in humanized mice.
+
+Marsden MD(1), Zack JA(2).
+
+Author information: 
+(1)Department of Medicine, Division of Hematology and Oncology, University of
+California, Los Angeles, CA 90095, USA.
+(2)Department of Medicine, Division of Hematology and Oncology, University of
+California, Los Angeles, CA 90095, USA; Department of Microbiology, Immunology,
+and Molecular Genetics, University of California, Los Angeles, CA 90095, USA.
+Electronic address: jzack@ucla.edu.
+
+Many important aspects of human retroviral infections cannot be fully evaluated
+using only in vitro systems or unmodified animal models. An alternative approach 
+involves the use of humanized mice, which consist of immunodeficient mice that
+have been transplanted with human cells and/or tissues. Certain humanized mouse
+models can support robust infection with human retroviruses including different
+strains of human immunodeficiency virus (HIV) and human T cell leukemia virus
+(HTLV). These models have provided wide-ranging insights into retroviral biology,
+including detailed information on primary infection, in vivo replication and
+pathogenesis, latent/persistent reservoir formation, and novel therapeutic
+interventions. Here we describe the humanized mouse models that are most commonly
+utilized to study retroviral infections, and outline some of the important
+discoveries that these models have produced during several decades of intensive
+research.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.01.017 
+PMCID: PMC4424058
+PMID: 25680625  [Indexed for MEDLINE]
+
+
+17. Proc Natl Acad Sci U S A. 2015 Jan 13;112(2):464-9. doi: 10.1073/pnas.1414980112.
+Epub 2014 Dec 22.
+
+Pan-vertebrate comparative genomics unmasks retrovirus macroevolution.
+
+Hayward A(1), Cornwallis CK(2), Jern P(1).
+
+Author information: 
+(1)Science for Life Laboratory, Department of Medical Biochemistry and
+Microbiology, Uppsala University, Uppsala, SE-75123, Sweden; and
+Patric.Jern@imbim.uu.se Alexander.Hayward@zoologi.su.se.
+(2)Department of Biology, Lund University, Lund, SE-22362, Sweden.
+
+Although extensive research has demonstrated host-retrovirus microevolutionary
+dynamics, it has been difficult to gain a deeper understanding of the
+macroevolutionary patterns of host-retrovirus interactions. Here we use recent
+technological advances to infer broad patterns in retroviral diversity,
+evolution, and host-virus relationships by using a large-scale phylogenomic
+approach using endogenous retroviruses (ERVs). Retroviruses insert a proviral DNA
+copy into the host cell genome to produce new viruses. ERVs are provirus
+insertions in germline cells that are inherited down the host lineage and
+consequently present a record of past host-viral associations. By mining ERVs
+from 65 host genomes sampled across vertebrate diversity, we uncover a great
+diversity of ERVs, indicating that retroviral sequences are much more prevalent
+and widespread across vertebrates than previously appreciated. The majority of
+ERV clades that we recover do not contain known retroviruses, implying either
+that retroviral lineages are highly transient over evolutionary time or that a
+considerable number of retroviruses remain to be identified. By characterizing
+the distribution of ERVs, we show that no major vertebrate lineage has escaped
+retroviral activity and that retroviruses are extreme host generalists, having an
+unprecedented ability for rampant host switching among distantly related
+vertebrates. In addition, we examine whether the distribution of ERVs can be
+explained by host factors predicted to influence viral transmission and find that
+internal fertilization has a pronounced effect on retroviral colonization of host
+genomes. By capturing the mode and pattern of retroviral evolution and
+contrasting ERV diversity with known retroviral diversity, our study provides a
+cohesive framework to understand host-virus coevolution better.
+
+DOI: 10.1073/pnas.1414980112 
+PMCID: PMC4299219
+PMID: 25535393  [Indexed for MEDLINE]
+
+
+18. Virol J. 2014 Dec 18;11:222. doi: 10.1186/s12985-014-0222-z.
+
+Clearly different mechanisms of enhancement of short-lived Nef-mediated viral
+infectivity between SIV and HIV-1.
+
+Harada K(1), Takamune N(2)(3), Shoji S(4), Misumi S(5).
+
+Author information: 
+(1)Department of Pharmaceutical Biochemistry, Faculty of Life Sciences, Kumamoto 
+University, 5-1Oe-Honmachi, Chuo-ku, Kumamoto, 8620973, Japan.
+tetsukuroe@gmail.com.
+(2)Department of Pharmaceutical Biochemistry, Faculty of Life Sciences, Kumamoto 
+University, 5-1Oe-Honmachi, Chuo-ku, Kumamoto, 8620973, Japan.
+tkmnnbtk@gpo.kumamoto-u.ac.jp.
+(3)Innovative Collaboration Organization, Kumamoto University, 2-39-1 Kurokami,
+Chuo-ku, Kumamoto, 8608555, Japan. tkmnnbtk@gpo.kumamoto-u.ac.jp.
+(4)Department of Pharmaceutical Biochemistry, Faculty of Life Sciences, Kumamoto 
+University, 5-1Oe-Honmachi, Chuo-ku, Kumamoto, 8620973, Japan.
+shoji@gpo.kumamoto-u.ac.jp.
+(5)Department of Pharmaceutical Biochemistry, Faculty of Life Sciences, Kumamoto 
+University, 5-1Oe-Honmachi, Chuo-ku, Kumamoto, 8620973, Japan.
+misumi@gpo.kumamoto-u.ac.jp.
+
+BACKGROUND: One of the major functions of Nef is in the enhancement of the
+infectivity of the human and simian immunodeficiency viruses (HIV and SIV,
+respectively). However, the detailed mechanism of the enhancement of viral
+infectivity by Nef remains unclear. Additionally, studies of mechanisms by which 
+Nef enhances the infectivity of SIV are not as intensive as those of HIV-1.
+METHODS: We generated short-lived Nef constructed by fusing Nef to a
+proteasome-mediated protein degradation sequence to characterize the Nef role in 
+viral infectivity.
+RESULTS: The apparent expression level of the short-lived Nef was found to be
+extremely lower than that of the wild-type Nef. Moreover, the expression level of
+the short-lived Nef increased with the treatment with a proteasome inhibitor. The
+infectivity of HIV-1 with the short-lived Nef was significantly lower than that
+with the wild-type Nef. On the other hand, the short-lived Nef enhanced the
+infectivity of SIVmac239, an ability observed to be interestingly equivalent to
+that of the wild-type Nef. The short-lived Nef was not detected in SIVmac239, but
+the wild-type Nef was, suggesting that the incorporation of Nef into SIVmac239 is
+not important for the enhancement of SIVmac239 infectivity.
+CONCLUSIONS: Altogether, the findings suggest that the mechanisms of infectivity 
+enhancement by Nef are different between HIV-1 and SIVmac239. Lastly, we propose 
+the following hypothesis: even when the expression level of a protein is
+extremely low, the protein may still be sufficiently functional.
+
+DOI: 10.1186/s12985-014-0222-z 
+PMCID: PMC4310179
+PMID: 25519983  [Indexed for MEDLINE]
+
+
+19. J Virol. 2015 Feb;89(4):1965-74. doi: 10.1128/JVI.03279-14. Epub 2014 Dec 3.
+
+Generation and evaluation of clade C simian-human immunodeficiency virus
+challenge stocks.
+
+Chang HW(1), Tartaglia LJ(1), Whitney JB(2), Lim SY(1), Sanisetty S(3), Lavine
+CL(1), Seaman MS(1), Rademeyer C(4), Williamson C(4), Ellingson-Strouss K(5),
+Stamatatos L(6), Kublin J(7), Barouch DH(8).
+
+Author information: 
+(1)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA Harvard Medical School, Boston, Massachusetts,
+USA.
+(2)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA Harvard Medical School, Boston, Massachusetts,
+USA Ragon Institute of MGH, MIT, and Harvard, Cambridge, Massachusetts, USA.
+(3)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA.
+(4)Division of Medical Virology, Institute of Infectious Diseases and Molecular
+Medicine, University of Cape Town, Cape Town, South Africa.
+(5)Seattle Biomedical Research Institute, Seattle, Washington, USA.
+(6)Seattle Biomedical Research Institute, Seattle, Washington, USA Fred
+Hutchinson Cancer Research Center, Seattle, Washington, USA.
+(7)Fred Hutchinson Cancer Research Center, Seattle, Washington, USA.
+(8)Center for Virology and Vaccine Research, Beth Israel Deaconess Medical
+Center, Boston, Massachusetts, USA Harvard Medical School, Boston, Massachusetts,
+USA Ragon Institute of MGH, MIT, and Harvard, Cambridge, Massachusetts, USA
+dbarouch@bidmc.harvard.edu.
+
+The development of a panel of mucosally transmissible simian-human
+immunodeficiency virus (SHIV) challenge stocks from multiple virus clades would
+facilitate preclinical evaluation of candidate HIV-1 vaccines and therapeutics.
+The majority of SHIV stocks that have been generated to date have been derived
+from clade B HIV-1 env sequences from viruses isolated during chronic infection
+and typically required serial animal-to-animal adaptation for establishing
+mucosal transmissibility and pathogenicity. To capture essential features of
+mucosal transmission of clade C viruses, we produced a series of SHIVs with early
+clade C HIV-1 env sequences from acutely HIV-1-infected individuals from South
+Africa. SHIV-327c and SHIV-327cRM expressed env sequences that were 99.7 to 100% 
+identical to the original HIV-1 isolate and did not require in vivo passaging for
+mucosal infectivity. These challenge stocks infected rhesus monkeys efficiently
+by both intrarectal and intravaginal routes, replicated to high levels during
+acute infection, and established chronic setpoint viremia in 13 of 17 (76%)
+infected animals. The SHIV-327cRM challenge stock was also titrated for both
+single, high-dose intrarectal challenges and repetitive, low-dose intrarectal
+challenges in rhesus monkeys. These SHIV challenge stocks should facilitate the
+preclinical evaluation of vaccines and other interventions aimed at preventing
+clade C HIV-1 infection.IMPORTANCE: We describe the development of two related
+clade C SHIV challenge stocks. These challenge stocks should prove useful for
+preclinical testing of vaccines and other interventions aimed at preventing clade
+C HIV-1 infection.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03279-14 
+PMCID: PMC4338880
+PMID: 25473043  [Indexed for MEDLINE]
+
+
+20. Virology. 2015 Jan 1;474:10-8. doi: 10.1016/j.virol.2014.10.015. Epub 2014 Nov 7.
+
+Primate lentiviruses are differentially inhibited by interferon-induced
+transmembrane proteins.
+
+Qian J(1), Le Duff Y(2), Wang Y(1), Pan Q(2), Ding S(3), Zheng YM(4), Liu SL(4), 
+Liang C(5).
+
+Author information: 
+(1)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2; Department of Medicine, McGill University, Montreal, Quebec, Canada H3A 2B4.
+(2)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2.
+(3)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2; Department of Microbiology and Immunology, McGill University, Montreal,
+Quebec, Canada H3A 2B4.
+(4)Department of Molecular Microbiology & Immunology, School of Medicine, Bond
+Life Sciences Center, University of Missouri, Columbia, MO 65211-7310, USA.
+(5)Lady Davis Institute, Jewish General Hospital, Montreal, Quebec, Canada H3T
+1E2; Department of Medicine, McGill University, Montreal, Quebec, Canada H3A 2B4;
+Department of Microbiology and Immunology, McGill University, Montreal, Quebec,
+Canada H3A 2B4. Electronic address: chen.liang@mcgill.ca.
+
+Interferon-induced transmembrane (IFITM) proteins inhibit the entry of a large
+number of viruses. Not surprisingly, many viruses are refractory to this
+inhibition. In this study, we report that different strains of HIV and SIV are
+inhibited by human IFITM proteins to various degrees, with SIV of African green
+monkeys (SIV(AGM)) being mostly restricted by human IFITM2. Interestingly,
+SIV(AGM) is as much inhibited by human IFITM2 as by IFITM3 of its own host
+African green monkeys. Our data further demonstrate that the entry of SIV(AGM) is
+impaired by human IFITM2 and that this inhibition is overcome by the
+cholesterol-binding compound amphotericin B that also overcomes IFITM inhibition 
+of influenza A viruses. These results suggest that IFITM proteins exploit similar
+mechanisms to inhibit the entry of both pH-independent primate lentiviruses and
+the pH-dependent influenza A viruses.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2014.10.015 
+PMCID: PMC4581848
+PMID: 25463599  [Indexed for MEDLINE]
+
+
+21. Viruses. 2014 Aug 22;6(8):3311-33. doi: 10.3390/v6083311.
+
+Immunogenetics of small ruminant lentiviral infections.
+
+Stonos N(1), Wootton SK(2), Karrow N(3).
+
+Author information: 
+(1)Centre for the Genetic Improvement of Livestock, Department of Animal and
+Poultry Science, University of Guelph, Guelph, ON N1G 2W1, Canada.
+nstonos@uoguelph.ca.
+(2)Department of Pathobiology, Ontario Veterinary College, University of Guelph, 
+Guelph, ON N1G 2W1, Canada. kwootton@uoguelph.ca.
+(3)Centre for the Genetic Improvement of Livestock, Department of Animal and
+Poultry Science, University of Guelph, Guelph, ON N1G 2W1, Canada.
+nkarrow@uoguelph.ca.
+
+The small ruminant lentiviruses (SRLV) include the caprine arthritis encephalitis
+virus (CAEV) and the Maedi-Visna virus (MVV). Both of these viruses limit
+production and can be a major source of economic loss to producers. Little is
+known about how the immune system recognizes and responds to SRLVs, but due to
+similarities with the human immunodeficiency virus (HIV), HIV research can shed
+light on the possible immune mechanisms that control or lead to disease
+progression. This review will focus on the host immune response to HIV-1 and
+SRLV, and will discuss the possibility of breeding for enhanced SRLV disease
+resistance.
+
+DOI: 10.3390/v6083311 
+PMCID: PMC4147697
+PMID: 25153344  [Indexed for MEDLINE]
+
+
+22. Nucleic Acids Res. 2014;42(16):10209-25. doi: 10.1093/nar/gku769. Epub 2014 Aug
+21.
+
+Molecular mechanisms of retroviral integration site selection.
+
+Kvaratskhelia M(1), Sharma A(2), Larue RC(2), Serrao E(3), Engelman A(4).
+
+Author information: 
+(1)Center for Retrovirus Research and College of Pharmacy, The Ohio State
+University, Columbus, OH 43210, USA alan_engelman@dfci.harvard.edu.
+(2)Center for Retrovirus Research and College of Pharmacy, The Ohio State
+University, Columbus, OH 43210, USA.
+(3)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute and
+Department of Medicine, Harvard Medical School, Boston, MA 02215, USA.
+(4)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute and
+Department of Medicine, Harvard Medical School, Boston, MA 02215, USA
+alan_engelman@dfci.harvard.edu.
+
+Retroviral replication proceeds through an obligate integrated DNA provirus,
+making retroviral vectors attractive vehicles for human gene-therapy. Though most
+of the host cell genome is available for integration, the process of integration 
+site selection is not random. Retroviruses differ in their choice of
+chromatin-associated features and also prefer particular nucleotide sequences at 
+the point of insertion. Lentiviruses including HIV-1 preferentially integrate
+within the bodies of active genes, whereas the prototypical gammaretrovirus
+Moloney murine leukemia virus (MoMLV) favors strong enhancers and active gene
+promoter regions. Integration is catalyzed by the viral integrase protein, and
+recent research has demonstrated that HIV-1 and MoMLV targeting preferences are
+in large part guided by integrase-interacting host factors (LEDGF/p75 for HIV-1
+and BET proteins for MoMLV) that tether viral intasomes to chromatin. In each
+case, the selectivity of epigenetic marks on histones recognized by the protein
+tether helps to determine the integration distribution. In contrast, nucleotide
+preferences at integration sites seem to be governed by the ability for the
+integrase protein to locally bend the DNA duplex for pairwise insertion of the
+viral DNA ends. We discuss approaches to alter integration site selection that
+could potentially improve the safety of retroviral vectors in the clinic.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gku769 
+PMCID: PMC4176367
+PMID: 25147212  [Indexed for MEDLINE]
+
+
+23. PLoS One. 2014 May 5;9(5):e96554. doi: 10.1371/journal.pone.0096554. eCollection 
+2014.
+
+Discrepant amplification results during the development of an assay leads to
+reclassification of two AIDS reagent repository HIV-2 isolates as HIV-1.
+
+Jagodzinski LL(1), Liu Y(2), Hack HR(2), Kibirige C(2), Peel SA(1), Manak MM(2).
+
+Author information: 
+(1)U.S. Military HIV Research Program, Walter Reed Army Institute of Research,
+Silver Spring, Maryland, United States of America.
+(2)U.S. Military HIV Research Program, Henry M. Jackson Foundation for the
+Advancement of Military Medicine, Silver Spring, Maryland, United States of
+America.
+
+The development and verification of HIV-2 assays depends in part on the
+availability of well-characterized samples, including those from reagent
+repositories. During the development of an HIV-2 RNA quantification assay, two
+HIV-2 viral isolates (CDC 301340 and CDC 301342) obtained from the NIAID AIDS
+Reagent and Reference Repository were not detected leading to an investigation.
+Two HIV-2 primers/probe sets of known performance in real-time viral RNA
+quantification assays, targeting different regions of the virus, also failed to
+generate RT-PCR products for these two isolates. These isolates were tested in
+the HIV-1 specific COBAS AmpliPrep/COBAS TaqMan HIV-1 Test v2.0 (Roche Molecular 
+Diagnostics) and were quantified at high copy number. Other HIV-2 isolates tested
+were not amplified in the COBAS HIV-1 TaqMan assay. Furthermore, the discrepant
+isolates were highly reactive in an HIV-1 p24 antigen test while the other HIV-2 
+isolates showed very weak, if any, cross-reactivity with the HIV-1 p24 assay.
+Phylogenetic tree analysis of sequences from the protease-reverse transcriptase
+regions of the discrepant HIV-2 isolates mapped with HIV-1 Group M, Subtype
+CRF02_AG confirming these isolates were of HIV-1 origin and had been
+misclassified as HIV-2. The use of misclassified isolates in the verification of 
+molecular and immunological assays can lead to misinterpretation of test results,
+misdirection of efforts into assay redesign and increased development costs. The 
+results of this study were shared with the NIAID AIDS Reagent Program, leading to
+the reclassification of the two discrepant isolates as HIV-1.
+
+DOI: 10.1371/journal.pone.0096554 
+PMCID: PMC4010467
+PMID: 24797800  [Indexed for MEDLINE]
+
+
+24. PLoS One. 2014 Mar 19;9(3):e92423. doi: 10.1371/journal.pone.0092423. eCollection
+2014.
+
+Recombinant viruses initiated the early HIV-1 epidemic in Burkina Faso.
+
+Fonjungo PN(1), Kalish ML(2), Schaefer A(2), Rayfield M(2), Mika J(2), Rose
+LE(2), Heslop O(2), Soudré R(3), Pieniazek D(2).
+
+Author information: 
+(1)HIV and Retrovirology Branch, Division of AIDS, STD, and TB Laboratory
+Research, National Center for Infectious Diseases, Atlanta, Georgia, United
+States of America; Division of Global HIV/AIDS, Center for Global Health, Centers
+for Disease Control and Prevention, Atlanta, Georgia, United States of America.
+(2)HIV and Retrovirology Branch, Division of AIDS, STD, and TB Laboratory
+Research, National Center for Infectious Diseases, Atlanta, Georgia, United
+States of America.
+(3)Unité de Formation et de Recherche en Sciences de la Santé (UFR/SDS),
+Université de Ouagadougou, Ouagadougou, Burkina Faso.
+
+We analyzed genetic diversity and phylogenetic relationships among 124 HIV-1 and 
+19 HIV-2 strains in sera collected in 1986 from patients of the state hospital in
+Ouagadougou, Burkina Faso. Phylogenetic analysis of the HIV-1 env gp41 region of 
+65 sequences characterized 37 (56.9%) as CRF06_cpx strains, 25 (38.5%) as
+CRF02_AG, 2 (3.1%) as CRF09_cpx, and 1 (1.5%) as subtype A. Similarly,
+phylogenetic analysis of the protease (PR) gene region of 73 sequences identified
+52 (71.2%) as CRF06_cpx, 15 (20.5%) as CRF02_AG, 5 (6.8%) as subtype A, and 1
+(1.4%) was a unique strain that clustered along the B/D lineage but basal to the 
+node connecting the two lineages. HIV-2 PR or integrase (INT) groups A (n = 17
+[89.5%]) and B (n = 2 [10.5%]) were found in both monotypic (n = 11) and
+heterotypic HIV-1/HIV-2 (n = 8) infections, with few HIV-2 group B infections.
+Based on limited available sampling, evidence suggests two recombinant viruses,
+CRF06_cpx and CRF02_AG, appear to have driven the beginning of the mid-1980s
+HIV-1 epidemic in Burkina Faso.
+
+DOI: 10.1371/journal.pone.0092423 
+PMCID: PMC3960253
+PMID: 24647246  [Indexed for MEDLINE]
+
+
+25. AIDS Rev. 2014 Jan-Mar;16(1):23-34.
+
+Origin and diversity of human retroviruses.
+
+Peeters M(1), D'Arc M, Delaporte E.
+
+Author information: 
+(1)UMI 233, Institut de Recherche pour le Développement (IRD) and University of
+Montpellier 1, Montpellier, France.
+
+Simian immunodeficiency viruses, simian T‑cell lymphotropic viruses, and simian
+foamy viruses from nonhuman primates have crossed the species barrier to humans
+at several time points, leading to the HIV and human T lymphotropic virus
+epidemic and to sporadic cases of human infections with simian foamy viruses,
+respectively. Efficient infection and spread in humans differs between simian
+foamy virus, simian lymphotropic virus, and simian immunodeficiency virus, but
+seems also to differ among the different viruses from the same simian lineage, as
+illustrated by the different spread of HIV‑1 M, N O, P or for the different HIV‑2
+groups. Among the four HIV‑1 groups, only HIV‑1 group M has spread worldwide, and
+the actual diversity within HIV‑1 M (subtypes, circulating recombinants) is the
+result of subsequent evolution and spread in the human population. HIV‑2 only
+spread to some extent in West Africa, and similarly as for HIV‑1, the nine HIV‑2 
+groups have also a different epidemic history. Four types of human T lymphotropic
+virus, type 1 to 4, have been described in humans and for three of them simian
+counterparts (simian T lymphotropic virus‑1, ‑2, ‑3) have been identified in
+multiple nonhuman primate species. The majority of human infections are with
+human T lymphotropic virus‑1, which is present throughout the world as clusters
+of high endemicity. Humans are susceptible to a wide variety of simian foamy
+viruses and seem to acquire these viruses more readily than simian
+immunodeficiency viruses or simian T lymphotropic viruses, but neither signs of
+disease in humans nor human‑to‑human transmission of simian foamy virus have been
+documented yet. The current HIV‑1 M epidemic illustrates the impact of a single
+cross‑species transmission. The recent discovery of HIV‑1 P, HIV‑2 I, new human T
+lymphotropic virus‑1 and ‑3 variants, as well as simian foamy virus infections in
+humans in Central Africa, show that our knowledge of genetic diversity and
+cross‑species transmissions of simian retroviruses is still incomplete.
+
+
+PMCID: PMC4289907
+PMID: 24584106  [Indexed for MEDLINE]
+
+
+26. Retrovirology. 2014 Jan 10;11:3. doi: 10.1186/1742-4690-11-3.
+
+Novel restriction factor RNA-associated early-stage anti-viral factor (REAF)
+inhibits human and simian immunodeficiency viruses.
+
+Marno KM, Ogunkolade BW, Pade C, Oliveira NM, O'Sullivan E, McKnight Á(1).
+
+Author information: 
+(1)Centre for Immunology and Infectious Disease, Blizard Institute, Barts and The
+London School of Medicine and Dentistry, Queen Mary University of London, London,
+UK. a.mcknight@qmul.ac.uk.
+
+BACKGROUND: The discovery of novel anti-viral restriction factors illuminates
+unknown aspects of innate sensing and immunity. We identified RNA-associated
+Early-stage Anti-viral Factor (REAF) using a whole genome siRNA screen for
+restriction factors to human immunodeficiency virus (HIV) that act in the early
+phase of viral replication.
+RESULTS: We observed more than 50 fold rescue of HIV-1 infection, using a focus
+forming unit (FFU) assay, following knockdown of REAF by specific siRNA.
+Quantitative PCR was used to show that REAF knockdown results in an increase of
+early and late reverse transcripts which impacts the level of integration. REAF
+thus appears to act at an early stage of the viral life cycle during reverse
+transcription. Conversely when REAF is over-expressed in target cells less
+infected cells are detectable and fewer reverse transcripts are produced. Human
+REAF can also inhibit HIV-2 and simian immunodeficiency virus (SIV) infection.
+REAF associates with viral nucleic acids and may act to prevent reverse
+transcription.
+CONCLUSIONS: This report firmly places REAF alongside APOBECs and SAMHD1 as a
+potent inhibitor of HIV replication acting early in the replication cycle, just
+after cell entry. We propose that REAF is part of an anti-viral surveillance
+system destroying incoming retroviruses. This novel mechanism could apply to
+invasion of cells by any intracellular pathogen.
+
+DOI: 10.1186/1742-4690-11-3 
+PMCID: PMC3895926
+PMID: 24410916  [Indexed for MEDLINE]
+
+
+27. J Virol. 2014 Feb;88(4):2327-32. doi: 10.1128/JVI.02553-13. Epub 2013 Nov 27.
+
+Differential inhibitory effects of cyanovirin-N, griffithsin, and scytovirin on
+entry mediated by envelopes of gammaretroviruses and deltaretroviruses.
+
+Jensen SM(1), Ruscetti FW, Rein A, Bertolette DC, Saucedo CJ, O'Keefe BR, Jones
+KS.
+
+Author information: 
+(1)Cancer and Inflammation Program, Center for Cancer Research, National Cancer
+Institute, Frederick, Maryland, USA.
+
+The antiviral lectins griffithsin (GRFT), cyanovirin-N (CV-N), and scytovirin
+(SVN), which inhibit several enveloped viruses, including lentiviruses, were
+examined for their ability to inhibit entry mediated by Env proteins of delta-
+and gammaretroviruses. The glycoproteins from human T-cell leukemia virus type 1 
+(HTLV-1) were resistant to the antiviral effects of all three lectins. For
+gammaretroviruses, CV-N inhibited entry mediated by some but not all of the
+envelopes examined, whereas GRFT and SVN displayed only little or no effect.
+
+DOI: 10.1128/JVI.02553-13 
+PMCID: PMC3911537
+PMID: 24284326  [Indexed for MEDLINE]
+
+
+28. J Virol. 2014 Jan;88(1):143-53. doi: 10.1128/JVI.02023-13. Epub 2013 Oct 16.
+
+Crystal structures of beta- and gammaretrovirus fusion proteins reveal a role for
+electrostatic stapling in viral entry.
+
+Aydin H(1), Cook JD, Lee JE.
+
+Author information: 
+(1)Department of Laboratory Medicine and Pathobiology, Faculty of Medicine,
+University of Toronto, Toronto, ON, Canada.
+
+Membrane fusion is a key step in the life cycle of all envelope viruses, but this
+process is energetically unfavorable; the transmembrane fusion subunit (TM) of
+the virion-attached glycoprotein actively catalyzes the membrane merger process. 
+Retroviral glycoproteins are the prototypical system to study pH-independent
+viral entry. In this study, we determined crystal structures of extramembrane
+regions of the TMs from Mason-Pfizer monkey virus (MPMV) and xenotropic murine
+leukemia virus-related virus (XMRV) at 1.7-Å and 2.2-Å resolution, respectively. 
+The structures are comprised of a trimer of hairpins that is characteristic of
+class I viral fusion proteins and now completes a structural library of
+retroviral fusion proteins. Our results allowed us to identify a series of intra-
+and interchain electrostatic interactions in the heptad repeat and chain reversal
+regions. Mutagenesis reveals that charge-neutralizing salt bridge mutations
+significantly destabilize the postfusion six-helix bundle and abrogate retroviral
+infection, demonstrating that electrostatic stapling of the fusion subunit is
+essential for viral entry. Our data indicate that salt bridges are a major
+stabilizing force on the MPMV and XMRV retroviral TMs and likely provide the key 
+energetics for viral and host membrane fusion.
+
+DOI: 10.1128/JVI.02023-13 
+PMCID: PMC3911763
+PMID: 24131724  [Indexed for MEDLINE]
+
+
+29. Viruses. 2013 Sep 25;5(10):2349-74. doi: 10.3390/v5102349.
+
+Evolution of foamy viruses: the most ancient of all retroviruses.
+
+Rethwilm A(1), Bodem J.
+
+Author information: 
+(1)Universität Würzburg, Institut für Virologie und Immunbiologie, Versbacher
+Str.7, Würzburg 97078, Germany. virologie@vim.uni-wuerzburg.de.
+
+Recent evidence indicates that foamy viruses (FVs) are the oldest retroviruses
+(RVs) that we know and coevolved with their hosts for several hundred million
+years. This coevolution may have contributed to the non-pathogenicity of FVs, an 
+important factor in development of foamy viral vectors in gene therapy. However, 
+various questions on the molecular evolution of FVs remain still unanswered. The 
+analysis of the spectrum of animal species infected by exogenous FVs or harboring
+endogenous FV elements in their genome is pivotal. Furthermore, animal studies
+might reveal important issues, such as the identification of the FV in vivo
+target cells, which than require a detailed characterization, to resolve the
+molecular basis of the accuracy with which FVs copy their genome. The issues of
+the extent of FV viremia and of the nature of the virion genome (RNA vs. DNA)
+also need to be experimentally addressed.
+
+DOI: 10.3390/v5102349 
+PMCID: PMC3814592
+PMID: 24072062  [Indexed for MEDLINE]
+
+
+30. J Antimicrob Chemother. 2014 Jan;69(1):21-7. doi: 10.1093/jac/dkt326. Epub 2013
+Aug 20.
+
+Defective HIV-1 quasispecies in the form of multiply drug-resistant proviral DNA 
+within cells can be rescued by superinfection with different subtype variants of 
+HIV-1 and by HIV-2 and SIV.
+
+Quan Y(1), Xu H, Wainberg MA.
+
+Author information: 
+(1)McGill University AIDS Centre, Lady Davis Institute for Medical Research, Sir 
+Mortimer B. Davis Jewish General Hospital, McGill University, Montréal, Québec,
+Canada.
+
+OBJECTIVES: HIV-1 generates swarms of similar, but genetically distinct, variants
+termed quasispecies and many of these variants can be defective. A relevant
+question is whether such defective species can contribute to viral pathogenesis. 
+Indeed, we previously reported that a presumed recombination of defective
+proviral DNA with other complementary defective proviral DNA or with wild-type
+viral DNA in the aftermath of superinfection could lead to the rescue of
+defective provirus and the production of replication-competent virus. We then
+wished to determine whether such rescue could be affected by viruses of different
+subtypes or even by other members of the retrovirus family.
+METHODS: Here, we have used drug resistance mutations within the HIV genome as
+markers of potential recombination.
+RESULTS: We show that a defective proviral DNA within cells can be rescued by the
+superinfection of MT2 cells by various subtypes of HIV-1, and by HIV-2 and simian
+immunodeficiency virus, but not by human T cell leukaemia virus type 1 or by
+human herpes virus-6. The drug-resistance phenotype of the rescued HIV was
+confirmed in a second round of infection.
+CONCLUSIONS: Defective proviral HIV-1 can be rescued by the infection by
+different variants of HIV-1 and by several other retroviruses as well.
+
+DOI: 10.1093/jac/dkt326 
+PMID: 23963235  [Indexed for MEDLINE]
+
+
+31. Adv Exp Med Biol. 2013;790:128-49. doi: 10.1007/978-1-4614-7651-1_7.
+
+Cellular entry of retroviruses.
+
+Lindemann D(1), Steffen I, Pöhlmann S.
+
+Author information: 
+(1)Institute for Virology, Technische Universität Dresden, Dresden, Germany.
+
+The retrovirus family contains several important human and animal pathogens,
+including the human immunodeficiency virus (HIV), the causative agent of acquired
+immunodeficiency syndrome (AIDS). Studies with retroviruses were instrumental to 
+our present understanding of the cellular entry of enveloped viruses in general. 
+For instance, studies with alpharetroviruses defined receptor engagement, as
+opposed to low pH, as a trigger for the envelope protein-driven membrane fusion. 
+The insights into the retroviral entry process allowed the generation of a new
+class of antivirals, entry inhibitors, and these therapeutics are at present used
+for treatment of HIV/AIDS. In this chapter, we will summarize key concepts
+established for entry of avian sarcoma and leukosis virus (ASLV), a widely used
+model system for retroviral entry. We will then review how foamy virus and HIV,
+primate- and human retroviruses, enter target cells, and how the interaction of
+the viral and cellular factors involved in the cellular entry of these viruses
+impacts viral tropism, pathogenesis and approaches to therapy and vaccine
+development.
+
+DOI: 10.1007/978-1-4614-7651-1_7 
+PMID: 23884589  [Indexed for MEDLINE]
+
+
+32. Retrovirology. 2013 Jul 24;10:77. doi: 10.1186/1742-4690-10-77.
+
+Heterogeneous susceptibility of circulating SIV isolate capsids to
+HIV-interacting factors.
+
+Mamede JI(1), Sitbon M, Battini JL, Courgnaud V.
+
+Author information: 
+(1)Institut de Génétique Moléculaire de Montpellier UMR 5535 CNRS, 1919 Route de 
+Mende, 34293 Montpellier Cedex 5, France.
+
+BACKGROUND: Many species of non-human primates in Africa are naturally infected
+by simian immunodeficiency viruses (SIV) and humans stand at the forefront of
+exposure to these viruses in Sub-Saharan Africa. Cross-species transmission and
+adaptation of SIV to humans have given rise to human immunodeficiency viruses
+(HIV-1 and HIV-2) on twelve accountable, independent occasions. However, the
+determinants contributing to a simian-to-human lasting transmission are not fully
+understood. Following entry, viral cores are released into the cytoplasm and
+become the principal target of host cellular factors. Here, we evaluated cellular
+factors likely to be involved in potential new SIV cross-species transmissions.
+We investigated the interactions of capsids from naturally circulating SIV
+isolates with both HIV-1 restricting (i.e. TRIM5 proteins) and facilitating (i.e.
+cyclophilin A and nucleopore-associated Nup358/RanBP2 and Nup153) factors in
+single-round infectivity assays that reproduce early stages of the viral
+life-cycle.
+RESULTS: We show that human TRIM5α is unlikely to prevent cross-species
+transmission of any SIV we tested and observed that the SIV CA-CypA interaction
+is a widespread but not a universal feature. Moreover, entry in the nucleus of
+different SIV appeared to follow pathways that do not necessarily recruit
+Nup358/RanBP2 or Nup153, and this regardless of their interaction with CypA.
+Nevertheless, we found that, like HIV-1, human-adapted HIV-2 infection was
+dependent on Nup358/RanBP2 and Nup153 interactions for optimal infection.
+Furthermore, we found that, unlike HIV CA, SIV CA did not require a direct
+interaction with the Cyp-like domain of Nup358/RanBP2 to carry out successful
+infection.
+CONCLUSIONS: Circulating SIV present a variety of phenotypes with regard to
+CA-interacting restricting or facilitating factors. Altogether, we unveiled
+unidentified pathways for SIV CA, which could also be exploited by HIV in
+different cellular contexts, to drive entry into the nucleus. Our findings
+warrant a closer evaluation of other potential defenses against circulating SIV.
+
+DOI: 10.1186/1742-4690-10-77 
+PMCID: PMC3751554
+PMID: 23883001  [Indexed for MEDLINE]
+
+
+33. Retrovirology. 2013 Mar 5;10:26. doi: 10.1186/1742-4690-10-26.
+
+Restriction of diverse retroviruses by SAMHD1.
+
+Gramberg T(1), Kahle T, Bloch N, Wittmann S, Müllers E, Daddacha W, Hofmann H,
+Kim B, Lindemann D, Landau NR.
+
+Author information: 
+(1)Microbiology Department, New York University School of Medicine, New York,
+USA. thomas.gramberg@viro.med.uni-erlangen.de
+
+BACKGROUND: SAMHD1 is a triphosphohydrolase that restricts the replication of
+HIV-1 and SIV in myeloid cells. In macrophages and dendritic cells, SAMHD1
+restricts virus replication by diminishing the deoxynucleotide triphosphate pool 
+to a level below that which supports lentiviral reverse transcription. HIV-2 and 
+related SIVs encode the accessory protein Vpx to induce the proteasomal
+degradation of SAMHD1 following virus entry. While SAMHD1 has been shown to
+restrict HIV-1 and SIV, the breadth of its restriction is not known and whether
+other viruses have a means to counteract the restriction has not been determined.
+RESULTS: We show that SAMHD1 restricts a wide array of divergent retroviruses,
+including the alpha, beta and gamma classes. Murine leukemia virus was restricted
+by SAMHD1 in macrophages yet removal of SAMHD1 did not alleviate the block to
+infection because of an additional block to viral nuclear import. Prototype foamy
+virus (PFV) and Human T cell leukemia virus type I (HTLV-1) were the only
+retroviruses tested that were not restricted by SAMHD1. PFV reverse transcribes
+predominantly prior to entry and thus is unaffected by the dNTP level in the
+target cell. It is possible that HTLV-1 has a mechanism to render the virus
+resistant to SAMHD1-mediated restriction.
+CONCLUSION: The results suggest that SAMHD1 has broad anti-retroviral activity
+against which most viruses have not found an escape.
+
+DOI: 10.1186/1742-4690-10-26 
+PMCID: PMC3605129
+PMID: 23497255  [Indexed for MEDLINE]
+
+
+34. Curr Protoc Microbiol. 2013;Chapter 15:Unit 15J.1. doi:
+10.1002/9780471729259.mc15j01s28.
+
+Human immunodeficiency viruses: propagation, quantification, and storage.
+
+Peters PJ(1), Richards K, Clapham P.
+
+Author information: 
+(1)Department of Molecular Medicine, University of Massachusetts Medical School, 
+Worcester, Massachusetts, USA.
+
+Described in this unit are basic protocols frequently used in the research of
+human immunodeficiency viruses (HIVs). Provided are methods for propagating and
+quantifying HIV, as well as recommendations for long-term storage. Background
+information about these methods is also provided and includes their advantages,
+disadvantages, and troubleshooting.
+
+© 2013 by John Wiley & Sons, Inc.
+
+DOI: 10.1002/9780471729259.mc15j01s28 
+PMID: 23408133  [Indexed for MEDLINE]
+
+
+35. J Virol. 2013 Mar;87(5):2496-507. doi: 10.1128/JVI.01668-12. Epub 2012 Dec 19.
+
+Poly(ADP-ribose) polymerase 1 promotes transcriptional repression of integrated
+retroviruses.
+
+Bueno MT(1), Reyes D, Valdes L, Saheba A, Urias E, Mendoza C, Fregoso OI, Llano
+M.
+
+Author information: 
+(1)Department of Biological Sciences, University of Texas at El Paso, El Paso,
+Texas, USA.
+
+Poly(ADP-ribose) polymerase 1 (PARP-1) is a cellular enzyme with a fundamental
+role in DNA repair and the regulation of chromatin structure, processes involved 
+in the cellular response to retroviral DNA integration. However, the function of 
+PARP-1 in retroviral DNA integration is controversial, probably due to the
+functional redundancy of the PARP family in mammalian cells. We evaluated the
+function of PARP-1 in retroviral infection using the chicken B lymphoblastoid
+cell line DT40. These cells lack significant PARP-1 functional redundancy and
+efficiently support the postentry early events of the mammalian-retrovirus
+replication cycle. We observed that DT40 PARP-1(-/-) cells were 9- and 6-fold
+more susceptible to infection by human immunodeficiency virus type 1 (HIV-1)- and
+murine leukemia virus (MLV)-derived viral vectors, respectively, than cells
+expressing PARP-1. Production of avian Rous-associated virus type 1 was also
+impaired by PARP-1. However, the susceptibilities of these cell lines to
+infection by the nonretrovirus vesicular stomatitis virus were indistinguishable.
+Real-time PCR analysis of the HIV-1 life cycle demonstrated that PARP-1 did not
+impair reverse transcription, nuclear import of the preintegration complex, or
+viral DNA integration, suggesting that PARP-1 regulates a postintegration step.
+In support of this hypothesis, pharmacological inhibition of the epigenetic
+mechanism of transcriptional silencing increased retroviral expression in
+PARP-1-expressing cells, suppressing the differences observed. Further analysis
+of the implicated molecular mechanism indicated that PARP-1-mediated retroviral
+silencing requires the C-terminal region, but not the enzymatic activity, of the 
+protein. In sum, our data indicate a novel role of PARP-1 in the transcriptional 
+repression of integrated retroviruses.
+
+DOI: 10.1128/JVI.01668-12 
+PMCID: PMC3571415
+PMID: 23255787  [Indexed for MEDLINE]
+
+
+36. J Virol. 2013 Feb;87(4):1937-46. doi: 10.1128/JVI.01442-12. Epub 2012 Dec 5.
+
+Betaretroviral envelope subunits are noncovalently associated and restricted to
+the mammalian class.
+
+Henzy JE(1), Coffin JM.
+
+Author information: 
+(1)Tufts University School of Medicine, Department of Molecular Biology and
+Microbiology, Boston, Massachusetts, USA.
+
+The structure of the transmembrane subunit (TM) of the retroviral envelope
+glycoprotein (Env) is highly conserved among most retrovirus genera and includes 
+a pair of cysteines that forms an intramolecular disulfide loop within the
+ectodomain. Alpha-, gamma-, and deltaretroviruses have a third cysteine, adjacent
+to the loop, which forms a disulfide bond between TM and the surface subunit (SU)
+of Env, while lentiviruses, which have noncovalently associated subunits, lack
+this third cysteine. The Betaretrovirus genus includes Jaagsiekte sheep
+retrovirus (JSRV) and mouse mammary tumor virus (MMTV), as well as many
+endogenous retroviruses. Envelope subunit association had not been characterized 
+in the betaretroviruses, but lack of a third cysteine in the TM ectodomain
+suggested noncovalently associated subunits. We tested the Env proteins of JSRV
+and MMTV, as well as human endogenous retrovirus K (HERV-K)108--a
+betaretrovirus-like human endogenous retrovirus--for intersubunit bonding and
+found that, as in the lentiviruses, the Env subunits lack an intersubunit
+disulfide bond. Since these results suggest that the number of cysteines in the
+TM loop region readily distinguishes between covalent and noncovalent structure, 
+we surveyed endogenous retroviral TM sequences in the genomes of vertebrates
+represented in public databases and found that (i) retroviruses with
+noncovalently associated subunits have been present during all of anthropoid
+evolution and (ii) the noncovalent env motif is limited to mammals, while the
+covalent type is found among five vertebrate classes. We discuss implications of 
+these findings for retroviral evolution, cross-species transmissions, and
+recombination events involving the env gene.
+
+DOI: 10.1128/JVI.01442-12 
+PMCID: PMC3571459
+PMID: 23221553  [Indexed for MEDLINE]
+
+
+37. Virology. 2013 Feb 5;436(1):81-90. doi: 10.1016/j.virol.2012.10.029. Epub 2012
+Nov 13.
+
+Contribution of SAM and HD domains to retroviral restriction mediated by human
+SAMHD1.
+
+White TE(1), Brandariz-Nuñez A, Valle-Casuso JC, Amie S, Nguyen L, Kim B,
+Brojatsch J, Diaz-Griffero F.
+
+Author information: 
+(1)Department of Microbiology and Immunology, Albert Einstein College of Medicine
+Bronx, NY 10461, USA.
+
+The human SAMHD1 protein is a novel retroviral restriction factor expressed in
+myeloid cells. Previous work has correlated the deoxynucleotide
+triphosphohydrolase activity of SAMHD1 with its ability to block HIV-1 and
+SIV(mac) infection. SAMHD1 is comprised of the sterile alpha motif (SAM) and
+histidine-aspartic (HD) domains; however the contribution of these domains to
+retroviral restriction is not understood. Mutagenesis and deletion studies
+revealed that expression of the sole HD domain of SAMHD1 is sufficient to achieve
+potent restriction of HIV-1 and SIV(mac). We demonstrated that the HD domain of
+SAMHD1 is essential for the ability of SAMHD1 to oligomerize by using a
+biochemical assay. In agreement with previous observations, we mapped the
+RNA-binding ability of SAMHD1 to the HD domain. We also demonstrated a direct
+interaction of SAMHD1 with RNA by using enzymatically-active purified SAMHD1
+protein from insect cells. Interestingly, we showed that double-stranded RNA
+inhibits the enzymatic activity of SAMHD1 in vitro suggesting the possibility
+that RNA from a pathogen might modulate the enzymatic activity of SAMHD1 in
+cells. By contrast, we found that the SAM domain is dispensable for retroviral
+restriction, oligomerization and RNA binding. Finally we tested the ability of
+SAMHD1 to block the infection of retroviruses other than HIV-1 and SIV(mac).
+These results showed that SAMHD1 blocks infection of HIV-2, feline
+immunodeficiency virus (FIV), bovine immunodeficiency virus (BIV), Equine
+infectious anemia virus (EIAV), N-tropic murine leukemia virus (N-MLV), and
+B-tropic murine leukemia virus (B-MLV).
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.virol.2012.10.029 
+PMCID: PMC3767443
+PMID: 23158101  [Indexed for MEDLINE]
+
+
+38. J Mol Biol. 2013 Jan 9;425(1):112-23. doi: 10.1016/j.jmb.2012.10.006. Epub 2012
+Oct 16.
+
+Unclosed HIV-1 capsids suggest a curled sheet model of assembly.
+
+Yu Z(1), Dobro MJ, Woodward CL, Levandovsky A, Danielson CM, Sandrin V, Shi J,
+Aiken C, Zandi R, Hope TJ, Jensen GJ.
+
+Author information: 
+(1)CryoEM Shared Resources, Janelia Farm Research Campus, Howard Hughes Medical
+Institute, Ashburn, VA 20147, USA.
+
+The RNA genome of retroviruses is encased within a protein capsid. To gather
+insight into the assembly and function of this capsid, we used electron
+cryotomography to image human immunodeficiency virus (HIV) and equine infectious 
+anemia virus (EIAV) particles. While the majority of viral cores appeared closed,
+a variety of unclosed structures including rolled sheets, extra flaps, and cores 
+with holes in the tip were also seen. Simulations of nonequilibrium growth of
+elastic sheets recapitulated each of these aberrations and further predicted the 
+occasional presence of seams, for which tentative evidence was also found within 
+the cryotomograms. To test the integrity of viral capsids in vivo, we observed
+that ~25% of cytoplasmic HIV complexes captured by TRIM5α had holes large enough 
+to allow internal green fluorescent protein (GFP) molecules to escape. Together, 
+these findings suggest that HIV assembly at least sometimes involves the union in
+space of two edges of a curling sheet and results in a substantial number of
+unclosed forms.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.jmb.2012.10.006 
+PMCID: PMC3597093
+PMID: 23079241  [Indexed for MEDLINE]
+
+
+39. Proteomics. 2012 Jul;12(13):2127-38. doi: 10.1002/pmic.201100526.
+
+Cancer and viruses: a double-edged sword.
+
+Butt AQ(1), Miggin SM.
+
+Author information: 
+(1)Immune Signalling Group, Institute of Immunology, Department of Biology,
+National University of Ireland Maynooth, Co. Kildare, Ireland.
+
+Oncovirus, synonymously called a 'tumour virus', is a virus that can cause
+cancer. An oncolytic virus preferentially infects the host's cancer cells and
+lyses them, causing tumour destruction, and is thus referred to as a 'cancer
+killing virus'. With an estimated 11% of cancer-associated deaths caused by
+oncoviruses and the possibility that many cancers may be treated by using
+oncolytic viruses, the role of viruses in cancer may be viewed as a double-edged 
+sword. A total of seven human cancer viruses have been identified as oncoviruses,
+having been associated with various cancers. Conversely, a large number of
+oncolytic viruses have shown great potential towards the treatment of certain
+types of cancer. Proteomics has now been applied towards understanding the
+complex interplay that exists between oncoviruses and the immune responses that
+serve to prevent oncoviral diseases. This review attempts to summarise the
+neoplastic potential of human tumour associated viruses and associated vaccine
+successes. The potential use of oncolytic viruses for the therapeutic
+intervention of cancer will also be discussed. Finally, this review will discuss 
+the enormous potential of proteomics technology in the field of oncovirology.
+
+© 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/pmic.201100526 
+PMID: 22623378  [Indexed for MEDLINE]
+
+
+40. AIDS. 2012 Mar 27;26(6):659-73. doi: 10.1097/QAD.0b013e328350fb68.
+
+Cross-species transmission of simian retroviruses: how and why they could lead to
+the emergence of new diseases in the human population.
+
+Locatelli S, Peeters M.
+
+The HIV-1 group M epidemic illustrates the extraordinary impact and consequences 
+resulting from a single zoonotic transmission. Exposure to blood or other
+secretions of infected animals, through hunting and butchering of bushmeat, or
+through bites and scratches inflicted by pet nonhuman primates (NHPs), represent 
+the most plausible source for human infection with simian immunodeficiency virus 
+(SIV), simian T-cell lymphotropic virus (STLV) and simian foamy virus. The chance
+for cross-species transmissions could increase when frequency of exposure and
+retrovirus prevalence is high. According to the most recent data, human exposure 
+to SIV or STLV appears heterogeneous across the African countries surveyed.
+Exposure is not sufficient to trigger disease: viral and host molecular
+characteristics and compatibility are fundamental factors to establish infection.
+A successful species jump is achieved when the pathogen becomes transmissible
+between individuals within the new host population. To spread efficiently, HIV
+likely required changes in human behavior. Given the increasing exposure to NHP
+pathogens through hunting and butchering, it is likely that SIV and other simian 
+viruses are still transmitted to the human population. The behavioral and
+socio-economic context of the twenty-first century provides favorable conditions 
+for the emergence and spread of new epidemics. Therefore, it is important to
+evaluate which retroviruses the human population is exposed to and to better
+understand how these viruses enter, infect, adapt and spread to its new host.
+
+DOI: 10.1097/QAD.0b013e328350fb68 
+PMID: 22441170  [Indexed for MEDLINE]
+
+
+41. Methods Enzymol. 2012;507:29-57. doi: 10.1016/B978-0-12-386509-0.00003-X.
+
+Retrovirus and lentivirus vector design and methods of cell conditioning.
+
+Cooray S(1), Howe SJ, Thrasher AJ.
+
+Author information: 
+(1)Centre for Immunodeficiency, Molecular Immunology Unit, Institute of Child
+Health, University College London, London, United Kingdom.
+
+Retroviruses are useful tools for the efficient delivery of genes to mammalian
+cells, owing to their ability to stably integrate into the host cell genome. Over
+the past few decades, retroviral vectors have been used in gene therapy clinical 
+trials for the treatment of a number of inherited diseases and cancers. The
+earliest retrovirus vectors were based on simple oncogenic gammaretroviruses such
+as Moloney murine leukemia virus (MMLV) which, when pseudotyped with envelope
+proteins from other viruses such as the gibbon ape leukemia virus envelope
+protein (GALV) or vesicular stomatitis virus G protein (VSV-G), can efficiently
+introduce genes to a wide range of host cells. However, gammaretroviral vectors
+have the disadvantage that they are unable to efficiently transduce nondividing
+or slowly dividing cells. As a result, specific protocols have been developed to 
+activate cells through the use of growth factors and cytokines. In the case of
+hematopoietic stem cells, activation has to be carefully controlled so that
+pluripotency is maintained. For many applications, gammaretroviral vectors are
+being superseded by lentiviral vectors based on human immunodeficiency virus
+type-1 (HIV-1) which has additional accessory proteins that enable integration in
+the absence of cell division. In addition, retroviral and lentiviral vector
+design has evolved to address a number of safety concerns. These include separate
+expression of the viral genes in trans to prevent recombination events leading to
+the generation of replication-competent viruses. Further, the development of
+self-inactivating (SIN) vectors reduces the potential for transactivation of
+neighboring genes and allows the incorporation of regulatory elements that may
+target gene expression more physiologically to particular cell types.
+
+Copyright Â© 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/B978-0-12-386509-0.00003-X 
+PMID: 22365768  [Indexed for MEDLINE]
+
+
+42. Med Microbiol Immunol. 2010 Aug;199(3):197-207. doi: 10.1007/s00430-010-0158-x.
+Epub 2010 May 6.
+
+Molecular biology of foamy viruses.
+
+Rethwilm A(1).
+
+Author information: 
+(1)Institut für Virologie und Immunbiologie, University of Würzburg, Versbacher
+Str. 7, Würzburg, Germany. virologie@vim.uni-wuerzburg.de
+
+One of the most fascinating areas in retrovirology is the study of foamy viruses 
+(FVs), because these viruses appear to do everything that is common to all other 
+retroviruses differently. FVs have found a completely new way to propagate their 
+genome. And they do this extremely successfully because most of wild non-human
+primates, felines, bovines, equines, and small ruminants are likely to be
+non-pathogenically infected. The success of FVs can also be viewed from a
+different angle, since they replicate very conservatively and do not need to
+shape their genotypic and phenotypic makeup every now and then. The elucidation
+of the underlying basic mechanisms of the FV replication strategy is the topic of
+this review.
+
+DOI: 10.1007/s00430-010-0158-x 
+PMID: 20445989  [Indexed for MEDLINE]
+
+
+43. Ann Ist Super Sanita. 2010;46(1):5-14. doi: 10.4415/ANN_10_01_02.
+
+HIV virology and pathogenetic mechanisms of infection: a brief overview.
+
+Fanales-Belasio E(1), Raimondo M, Suligoi B, Buttò S.
+
+Author information: 
+(1)Centro Nazionale AIDS, Istituto Superiore di Sanità, Rome, Italy.
+
+Studies on HIV virology and pathogenesis address the complex mechanisms that
+result in the HIV infection of the cell and destruction of the immune system.
+These studies are focused on both the structure and the replication
+characteristics of HIV and on the interaction of the virus with the host.
+Continuous updating of knowledge on structure, variability and replication of
+HIV, as well as the characteristics of the host immune response, are essential to
+refine virological and immunological mechanisms associated with the viral
+infection and allow us to identify key molecules in the virus life cycle that can
+be important for the design of new diagnostic assays and specific antiviral drugs
+and vaccines. In this article we review the characteristics of molecular
+structure, replication and pathogenesis of HIV, with a particular focus on those 
+aspects that are important for the design of diagnostic assays.
+
+DOI: 10.4415/ANN_10_01_02 
+PMID: 20348614  [Indexed for MEDLINE]
+
+
+44. Curr Gene Ther. 2005 Aug;5(4):387-98.
+
+Altering the tropism of lentiviral vectors through pseudotyping.
+
+Cronin J(1), Zhang XY, Reiser J.
+
+Author information: 
+(1)Gene Therapy Program, Louisiana State University Health Sciences Center, New
+Orleans, 70112, USA.
+
+Erratum in
+    Curr Gene Ther. 2005 Oct;5(5):531.
+
+The host range of retroviral vectors including lentiviral vectors can be expanded
+or altered by a process known as pseudotyping. Pseudotyped lentiviral vectors
+consist of vector particles bearing glycoproteins (GPs) derived from other
+enveloped viruses. Such particles possess the tropism of the virus from which the
+GP was derived. For example, to exploit the natural neural tropism of rabies
+virus, vectors designed to target the central nervous system have been
+pseudotyped using rabies virus-derived GPs. Among the first and still most widely
+used GPs for pseudotyping lentiviral vectors is the vesicular stomatitis virus GP
+(VSV-G), due to the very broad tropism and stability of the resulting
+pseudotypes. Pseudotypes involving VSV-G have become effectively the standard for
+evaluating the efficiency of other pseudotypes. This review samples a few of the 
+more prominent examples from the ever-expanding list of published lentiviral
+pseudotypes, noting comparisons made with pseudotypes involving VSV-G in terms of
+titer, viral particle stability, toxicity, and host-cell specificity. Particular 
+attention is paid to publications of successfully targeting a specific organ or
+cell types.
+
+
+PMCID: PMC1368960
+PMID: 16101513  [Indexed for MEDLINE]
+
+
+45. Microbes Infect. 2002 Feb;4(2):189-99.
+
+Nef: agent of cell subversion.
+
+Arora VK(1), Fredericksen BL, Garcia JV.
+
+Author information: 
+(1)Department of Internal Medicine, Division of Infectious Diseases Y9.206,
+University of Texas Southwestern Medical Center at Dallas, 5323 Harry Hines
+Blvd., Dallas, TX 75390-9113, USA. vivek.arora@utsouthwestern.edu
+
+Primate lentiviruses encode a small protein designated Nef that has been shown to
+be a major determinant of virus pathogenicity. Nef regulates multiple host
+factors in order to optimize the cellular environment for virus replication. The 
+mechanisms by which this small protein modulates distinct host cell properties
+provide intriguing insight into the intricate interaction between virus and host.
+
+
+PMID: 11880052  [Indexed for MEDLINE]
+
+
+46. J Virol. 1998 Dec;72(12):9873-80.
+
+Self-inactivating lentivirus vector for safe and efficient in vivo gene delivery.
+
+Zufferey R(1), Dull T, Mandel RJ, Bukovsky A, Quiroz D, Naldini L, Trono D.
+
+Author information: 
+(1)Department of Genetics and Microbiology, University of Geneva Medical School, 
+Geneva, Switzerland.
+
+In vivo transduction of nondividing cells by human immunodeficiency virus type 1 
+(HIV-1)-based vectors results in transgene expression that is stable over several
+months. However, the use of HIV-1 vectors raises concerns about their safety.
+Here we describe a self-inactivating HIV-1 vector with a 400-nucleotide deletion 
+in the 3' long terminal repeat (LTR). The deletion, which includes the TATA box, 
+abolished the LTR promoter activity but did not affect vector titers or transgene
+expression in vitro. The self-inactivating vector transduced neurons in vivo as
+efficiently as a vector with full-length LTRs. The inactivation design achieved
+in this work improves significantly the biosafety of HIV-derived vectors, as it
+reduces the likelihood that replication-competent retroviruses will originate in 
+the vector producer and target cells, and hampers recombination with wild-type
+HIV in an infected host. Moreover, it improves the potential performance of the
+vector by removing LTR sequences previously associated with transcriptional
+interference and suppression in vivo and by allowing the construction of
+more-stringent tissue-specific or regulatable vectors.
+
+
+PMCID: PMC110499
+PMID: 9811723  [Indexed for MEDLINE]
+
+
+47. J Virol. 1997 Apr;71(4):3328-31.
+
+Replication-competent chimeric lenti-oncovirus with expanded host cell tropism.
+
+Reiprich S(1), Gundlach BR, Fleckenstein B, Uberla K.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie, Universität
+Erlangen-Nurnberg, Germany.
+
+Baboon bone marrow was grafted into human immunodeficiency virus type 1-infected 
+patients in the course of recent trials for AIDS treatment. Since the baboon
+genome harbors multiple copies of an endogenous oncovirus, chimeric
+lenti-oncoviruses could emerge in the xenotransplant recipient. To analyze the
+potential replication competence of hybrid viruses between different genera of
+retroviruses, we replaced most of the env gene of simian immunodeficiency virus
+with the env gene of an amphotropic murine leukemia virus. The hybrid virus could
+be propagated in human T-cell lines, in peripheral blood mononuclear cells of
+rhesus macaques, and in CD4- B-cell lines. Because of the expanded cell tropism, 
+the hybrid virus might have a selective advantage in comparison to parental
+viruses. Therefore, emerging chimeric viruses may be considered a serious risk of
+xenotransplantation. A note of caution is also suggested for the use of
+pseudotyped lentiviral vectors for human gene therapy.
+
+
+PMCID: PMC191473
+PMID: 9060704  [Indexed for MEDLINE]
+
+
+48. Vet Microbiol. 1992 Nov;33(1-4):311-31.
+
+Animal immunodeficiency viruses.
+
+Egberink H(1), Horzinek MC.
+
+Author information: 
+(1)Institute of Virology, School of Veterinary Medicine, State University of
+Utrecht, Netherlands.
+
+Feline immunodeficiency virus (FIV) has morphological, physical and biochemical
+characteristics similar to human immunodeficiency virus (HIV), the cause of AIDS 
+in man. However, it is antigenically and genetically distinct from HIV; an
+antigenic relatedness with equine infectious anaemia virus has been demonstrated.
+FIV has been molecularly cloned and sequenced. Diagnostic tests are commercially 
+available and attempts at preparing inactivated, subunit and molecularly
+engineered vaccines are being made in different laboratories. During FIV
+infection a transient primary illness can be recognized, with fever, neutropenia 
+and lymphadenopathy. After a long period of clinical normalcy a secondary stage
+is distinguished with signs of an immunodeficiency-like syndrome. The incubation 
+period for this stage can be as long as 5 years, during which gradual impairment 
+of immune function develops. Many FIV-infected cats are presented for the first
+time showing vague signs of illness: recurrent fevers, emaciation, lack of
+appetite, lymphadenopathy, anaemia, leucopenia and behavioural changes. Later,
+the predominant clinical signs observed are chronic stomatitis/gingivitis,
+enteritis, upper respiratory tract infections, and infections of the skin.
+Neoplasias, neurological, immunological and haematological disorder are seen in a
+smaller proportion. The immunodeficiency-like syndrome is progressive over a
+period of months to years. Concomitant infection with feline leukaemia virus has 
+been shown to accelerate the progression of disease. In vitro, phenotypic mixing 
+between FIV and an endogenous feline oncovirus (RD114) has been demonstrated
+which leads to a broadening of the cell spectrum of the lentivirus. Bovine
+immunodeficiency virus (BIV) has been isolated only once, and all attempts to
+obtain additional isolates have failed; it has been recovered from the leucocytes
+of cattle with persistent lymphocytosis, lymphadenopathy, lesions in the central 
+nervous system, progressive weakness and emaciation. As with the feline
+representative, BIV also was found to possess a lentivirus morphology and to
+encode a reverse transcriptase with Mg++ preference; it replicates and induces
+syncytia in a variety of embryonic bovine tissues in vitro. Antigenic analyses
+have demonstrated a conservation of epitopes between the major core protein of
+BIV and HIV. The original isolate has been molecularly cloned and sequenced.
+Besides the three large open reading frames (ORFs) comprising the gag, pol, and
+env genes common to all replication-competent retroviruses, five additional small
+ORFs were found. Numerous point mutations and deletions were found, mostly in the
+env-encoding ORF. These data suggest that, within a single virus isolate, BIV
+displays extensive genomic variation.(ABSTRACT TRUNCATED AT 400 WORDS)
+
+
+PMID: 1336243  [Indexed for MEDLINE]
+
+
+49. Science. 1986 Jul 18;233(4761):343-6.
+
+Isolation of a new human retrovirus from West African patients with AIDS.
+
+Clavel F, Guétard D, Brun-Vézinet F, Chamaret S, Rey MA, Santos-Ferreira MO,
+Laurent AG, Dauguet C, Katlama C, Rouzioux C, et al.
+
+The etiological agent of AIDS, LAV/HTLV-III, is common in Central Africa but is
+not endemic in other areas of that continent. A novel human retrovirus, distinct 
+from LAV/HTLV-III, has now been isolated from two AIDS patients from West Africa.
+Partial characterization of this virus revealed that it has biological and
+morphological properties very similar to LAV but that it differs in some of its
+antigenic components. Although the core antigens may share some common epitopes, 
+the West African AIDS retrovirus and LAV differ substantially in their envelope
+glycoproteins. The envelope antigen of the West African virus can be recognized
+by serum from a macaque with simian AIDS infected by the simian retrovirus termed
+STLV-IIImac, suggesting that the West African AIDS virus may be more closely
+related to this simian virus than to LAV. Hybridization experiments with LAV
+subgenomic probes further established that this new retrovirus, here referred to 
+as LAV-II, is distantly related to LAV and distinct from STLV-IIImac.
+
+
+PMID: 2425430  [Indexed for MEDLINE]
+
+
+50. Int J Cancer. 1978 Jan 15;21(1):27-34.
+
+Type-C oncovirus isolate from human leukemic bone marrow: further in vitro and in
+vivo characterization.
+
+Nooter K, Overdevest J, Dubbes R, Koch G, Bentvelzen P, Zurcher C, Coolen J,
+Calafat J.
+
+Rabbit corneal cells transformed by a putative human type-C helper virus
+pseudotype of the mouse sarcoma virus produce large amounts of transforming and
+non-transforming viruses. The virions are antigenically related to the woolly
+monkey (simian) sarcoma-leukemia type-C oncovirus. Typical sarcoma virus lesions 
+developed in newborn rats injected with virus-producing rabbit cells. Cells
+producing only the putative type-C helper viruses as a result of exposure to a
+high dilution of transforming virus stock induce lymphosarcomas after inoculation
+into newborn rats.
+
+
+PMID: 203541  [Indexed for MEDLINE]
+

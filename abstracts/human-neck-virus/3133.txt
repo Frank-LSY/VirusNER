@@ -1,0 +1,141 @@
+
+
+3133. Dan Med J. 2017 Mar;64(3). pii: B5333.
+
+Peritonsillar abscess: clinical aspects of microbiology, risk factors, and the
+association with parapharyngeal abscess.
+
+Klug TE(1).
+
+Author information: 
+(1)tejsehlersklug@hotmail.com.
+
+PTA is a collection of pus located between the tonsillar capsule and the
+pharyngeal constrictor muscle. It is considered a complication of acute
+tonsillitis and is the most prevalent deep neck infection (approximately 2000
+cases annually in Denmark) and cause of acute admission to Danish ENT
+departments. Teenagers and young adults are most commonly affected and males may 
+predominate over females. However, no studies of age- and gender-stratified
+incidence rates have previously been published. Furthermore, smoking may be
+associated with increased risk of peritonsillar abscess (PTA) development,
+although the magnitude of the association has not been estimated. Complications
+are relatively rare. They include parapharyngeal abscess (PPA), upper airway
+obstruction, Lemierre´s syndrome, necrotizing fasciitis, mediastinitis, erosion
+of the internal carotid artery, brain abscess, and streptococcal toxic shock
+syndrome. The treatment consists of abscess drainage and antimicrobial therapy.
+There are three accepted methods of surgical intervension: needle aspiration,
+incision and drainage (ID), and acute tonsillectomy (á chaud). Internationally,
+there is a strong trend towards less invasive surgical approach to PTA treatment 
+with avoidance of acute tonsillectomy, needle aspiration instead of ID, and in
+some cases even antibiotic treatment without surgical drainage. The preferred
+antibiotic regimen varies greatly between countries and centers. Group A
+streptococcus (GAS) is the only established pathogen in PTA. However, GAS is only
+recovered from approximately 20% of PTA patients. The pathogens in the remaining 
+80% are unknown. Culturing of PTA pus aspirates often yields a polymicrobial
+mixture of aerobes and anaerobes. As the tonsils of healthy individuals are
+already heavily and diversely colonized, the identification of significant
+pathogens is challenging. In addition, when studying PTA microbiology, one must
+consider diagnostic precision, collection, handling, and transportation of
+appropriate specimens, choice of methodology for detection and quantification of 
+microorganisms, current or recent antibiotic treatment of patients, potential
+shift in significant pathogens during the course of infection, and factors
+associated with increased risk of PTA development.  The trend towards
+de-escalated surgical intervention and increasing reliance on antibiotic
+treatment, require studies defining the significant pathogens in PTA in order to 
+determine optimal antibiotic regimens. Complications secondary to PTA may be
+avoided or better controlled with improved knowledge concerning the significant
+pathogens in PTA. Furthermore, identification of pathogens other than GAS, may
+lead the way for earlier bacterial diagnosis and timely intervention before
+abscess formation in sore throat patients. The identification and quantification 
+of risk factors for PTA development constitutes another approach to reduce the
+incidence of PTA. As clinicians, we noticed that FN was recovered from PTA
+patients with increasing frequency and that patients infected with Fusobacterium 
+necrophorum (FN) seemed to be more severely affected than patients infected with 
+other bacteria. Furthermore, we occationally observed concomitant PPA in addition
+to a PTA, which made us hypothesize that PPA and PTA is often closely related and
+may share significant pathogens. Hence, our aims were: 1. To explore the
+microbiology of PTA with a special attention to Fusobacterium necrophorum (FN).
+2. To elucidate whether smoking, age, gender, and seasons are risk factors for
+the development of PTA. 3. To characterize patients with PPA, explore the
+relationship between PPA and PTA, identify the pathogens associated with PPA, and
+review our management of PPA. In a retrospective study on all 847 PTA patients
+admitted to the ENT department at Aarhus University Hospital (AUH) from 2001 to
+2006, we found that FN was the most prevalent (23%) bacterial strain in pus
+specimens. FN-positive patients displayed significantly higher infection markers 
+(CRP and neutrophil counts) than patients infected with other bacteria (P = 0.01 
+and P < 0.001, respectively). In a subsequent prospective and comparative study
+on 36 PTA patients and 80 patients undergoing elective tonsillectomy (controls), 
+we recovered FN from 58% of PTA aspirates. Furthermore, FN was detected
+significantly more frequently in the tonsillar cores of PTA patients (56%)
+compared to the tonsillar cores of the controls (24%) (P = 0.001). We also
+analysed sera taken acutely and at least two weeks after surgery for the presence
+of anti-FN antibodies. We found increasing levels (at least two-fold) of anti-FN 
+antibodies in eight of 11 FN-positive (in the tonsillar cultures) PTA patients,
+which was significantly more frequent compared to none of four FN-negative PTA
+patients and nine of 47 electively tonsillectomized controls (P = 0.026 and P <
+0.001, respectively). Blood cultures obtained during acute tonsillectomy mirrored
+the bacterial findings in the tonsillar specimens with 22% of patients having
+bacteremia with FN. However, bacteremia during elective tonsillectomy was at
+least as prevalent as bacteremia during quinsy tonsillectomy, which challenges
+the distinction made by the European Society of Cardiology between quinsy and
+elective tonsillectomy, namely that antibiotic prophylaxis is only recommended to
+patients undergoing procedures to treat an established infection (i.e. PTA).
+Using PCR analysis for the presence of herpes simplex 1 and 2, adenovirus,
+influenza A and B, Epstein-Barr virus (EBV), and respiratory syncytial virus A
+and B, we explored a possible role of viruses in PTA. However, our results did
+not indicate that any of these viruses are involved in the development of PTA.
+Privious studies have documented an association between EBV and PTA in
+approximately 4% of PTA cases. In addition to the involvement of GAS, the
+following findings suggest a pathogenic role for FN in PTA: 1. Repeated high
+isolation rates of FN in PTA pus aspirates. 2. Higher isolation rates in PTA
+patients compared to electively tonsillectomised controls. 3. Development of
+anti-FN antibodies in FN-positive patients with PTA. 4. Significantly higher
+inflammatory markers in FN-positive patients compared to PTA patients infected
+with other bacteria. We studied the smoking habits among the same 847 PTA
+patients admitted to the ENT department, AUH from 2001 to 2006. We found that
+smoking was associated with increased risk of PTA for both genders and across all
+age groups. The increased risk of PTA among smokers was not related to specific
+bacteria. Conclusions on causality cannot be drawn from this retrospective study,
+but the pathophysiology behind the increased risk of PTA in smokers may be
+related to, previously shown, alterations in the tonsillar, bacterial flora or
+the local and systemical inflammatory and immunological milieu. Studying all
+1,620 patients with PTA in Aarhus County from 2001 to 2006 and using population
+data for Aarhus County for the same six years, age- and gender-stratified mean
+annual incidence rates of PTA were calculated. The incidence of PTA was highly
+related to age and gender. The seasonal variation of PTA was insignificant.
+However, the microbiology of PTA fluctuated with seasons: GAS-positive PTA cases 
+were significantly more prevalent in the winter and spring compared to the
+summer, while FN-positive PTA patients exhibited a more even distribution over
+the year, but with a trend towards higher prevalence in the summer than in the
+winter. In a series of 63 patients with PPA, we found that 33 (52%) patients had 
+concomitant PTA. This association between PPA and PTA was much higher than
+previously documented. We therefore suggest that combined tonsillectomy and
+intrapharyngeal incision in cases where PTA is present or suspected. The results 
+of our routine cultures could not support a frequent role of FN in PPA. Based on 
+our findings suggesting that FN is a frequent pathogen in PTA, we recommend
+clindamycin instead of a macrolide in penicillin-allergic patients with PTA.
+Furthermore, cultures made from PTA aspirates should include a selective FN-agar 
+plate in order to identify growth of this bacterium. Recent studies of sore
+throat patients document an association between recovery of FN and acute
+tonsillitis. Studying the bacterial flora of both tonsils in study II, we found
+almost perfect concordance between the bacterial findings of the tonsillar core
+at the side of the abscess and contralaterally. This finding suggests that FN is 
+not a subsequent overgrowth phenomenon after abscess development, but that FN can
+act as pathogen in severe acute tonsillitis. Future studies of patients with
+FN-positive acute tonsillitis focusing on the optimal methods (clinical
+characteristics, culture, polymerase chain reaction, or other) for diagnosis and 
+whether antibiotics (and which) can reduce symptoms and avoid complications are
+warranted. Until further studies are undertaken, we recommend clinicians to have 
+increased focus on acute tonsillitis patients aged 15-24 years with regards to
+symptoms and findings suggestive of incipient peritonsillar involvement. We have 
+conducted a number of studies with novel findings: 1. FN is a significant and
+prevalent pathogen in PTA. 2. Bacteremia during abscess tonsillectomy is no more 
+prevalent than during elective tonsillectomy. 3. The development of anti-FN
+antibodies in FN-positive PTA patients. We have used novel approaches as
+principles to suggest pathogenic significance of candidate microorganisms: 1.
+Comparative microbiology between PTA patients and "normal tonsils". 2.
+Measurements indicating larger inflammatory response compared to clinically
+equivalent infection.
+
+
+PMID: 28260599  [Indexed for MEDLINE]

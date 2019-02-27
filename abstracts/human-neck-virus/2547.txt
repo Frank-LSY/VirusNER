@@ -1,0 +1,28 @@
+
+
+2547. Trends Cell Biol. 2012 Mar;22(3):133-40. doi: 10.1016/j.tcb.2011.11.007. Epub
+2012 Jan 10.
+
+ESCRT-III polymers in membrane neck constriction.
+
+Guizetti J(1), Gerlich DW.
+
+Author information: 
+(1)Institute of Biochemistry, Swiss Federal Institute of Technology Zurich
+(ETHZ), Schafmattstr. 18, CH-8093 Zurich, Switzerland.
+
+The endosomal sorting complex required for transport (ESCRT)-III machinery
+contributes to membrane deformation and scission in cytokinesis, intraluminal
+vesicle formation, autophagy and virus budding. Recombinant ESCRT-III subunits
+polymerize in vitro into filaments, tubes, sheets or rings, and
+ESCRT-III-dependent filaments have been observed in cells at virus bud necks and 
+at the cytokinetic abscission site. These observations have inspired speculation 
+about how ESCRT-III could mediate constriction and fission of membrane necks.
+Based on the polymer structures observed in vitro and in vivo, we discuss models 
+for ESCRT-III function and outline how emerging technologies could be used to
+test these models.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tcb.2011.11.007 
+PMID: 22240455  [Indexed for MEDLINE]

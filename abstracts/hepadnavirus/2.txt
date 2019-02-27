@@ -1,0 +1,34 @@
+
+
+2. Mem Inst Oswaldo Cruz. 2018 Jan;113(1):62-65. doi: 10.1590/0074-02760170071.
+
+Detection of occult hepatitis B in serum and oral fluid samples.
+
+Portilho MM(1), Nabuco LC(2), Villela-Nogueira CA(2), Brandão-Mello CE(3),
+Pilotto JH(4)(5), Flores GL(1), Lewis-Ximenez LL(1), Lampe E(1), Villar LM(1).
+
+Author information: 
+(1)Fundação Oswaldo Cruz-Fiocruz, Instituto Oswaldo Cruz, Laboratório de
+Hepatites Virais, Rio de Janeiro, RJ, Brasil.
+(2)Universidade Federal do Rio de Janeiro, Hospital Universitário Clementino
+Fraga Filho, Rio de Janeiro, RJ, Brasil.
+(3)Universidade Federal do Estado do Rio de Janeiro, Hospital Universitário
+Gaffrée e Guinle, Rio de Janeiro, RJ, Brasil.
+(4)Hospital Geral de Nova Iguaçu, Nova Iguaçu, RJ, Brasil.
+(5)Fundação Oswaldo Cruz-Fiocruz, Instituto Oswaldo Cruz, Laboratório de AIDS e
+Imunologia Molecular, Rio de Janeiro, RJ, Brasil.
+
+In occult hepatitis B infection (OBI), hepatitis B virus DNA (HBV DNA) can be
+detected in serum samples; however, oral fluid collection for detection of HBV
+DNA has not yet been explored, despite the availability of collection devices.
+Serum and oral fluid samples from 45 hepatitis B core antibody
+(anti-HBc)-positive patients were collected for the amplification of the HBV
+polymerase gene. HBV DNA was detected in five serum and four oral fluid samples
+(the detection limit for oral fluid was 1.656 log IU/mL in paired serum). In
+conclusion, simple methodologies of sample collection and in-house polymerase
+chain reaction (PCR) allowed detection of HBV DNA, and these could be used to
+improve the diagnosis of OBI, especially in locations with limited resources.
+
+DOI: 10.1590/0074-02760170071 
+PMCID: PMC5719542
+PMID: 29211108  [Indexed for MEDLINE]

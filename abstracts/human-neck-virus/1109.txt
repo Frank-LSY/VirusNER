@@ -1,0 +1,37 @@
+
+
+1109. Rhinology. 2012 Mar;50(1):87-94. doi: 10.4193/Rhino11.106.
+
+Human papillomavirus load and physical status in sinonasal inverted papilloma and
+squamous cell carcinoma.
+
+Hasegawa M(1), Deng Z, Maeda H, Yamashita Y, Matayoshi S, Kiyuna A, Agena S,
+Uehara T, Suzuki M.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Graduate School of
+Medicine, University of Ryukyus, Okinawa, Japan.
+
+BACKGROUND: This study investigated prospectively the role of human
+papillomavirus (HPV) in paranasal inverted papilloma (IP).
+METHODS: HPV presence and viral load and physical status of HPV-16 were examined 
+by polymerase chain reaction-based methods using fresh frozen samples obtained
+from 13 patients with IP (IP group), 11 with squamous cell carcinoma in the
+maxillary sinus (SCC group) and 39 with chronic inflammatory lesions
+(inflammatory group).
+RESULTS: The presence of the HPV genome was detected in 46.1%, 27.3% and 7.6% of 
+patients in the IP, SCC and inflammatory groups, respectively. The IP group
+showed significantly higher HPV-positive rates than the inflammatory group. All
+types of HPV detected were high-risk HPV, especially HPV-16. The relative HPV-16 
+copy numbers varied from 2.5 to 1524.1 per 50 ng genomic DNA. The viral load was 
+higher in the IP and SCC groups than in the inflammatory group. In the IP group, 
+no significant relationship was found between HPV-16 viral load and clinical
+characteristics, or between physical status and clinical characteristics. One
+patient with IP and concomitant squamous cell carcinoma, however, showed high
+viral load and integration.
+CONCLUSIONS: HPV infection is involved in the pathogenesis of IP, and high viral 
+load and integration of HPV have an important role in malignant lesion in
+association with IP.
+
+DOI: 10.4193/Rhino11.106 
+PMID: 22469610  [Indexed for MEDLINE]

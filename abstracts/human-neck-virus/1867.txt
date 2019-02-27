@@ -1,0 +1,39 @@
+
+
+1867. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2010 Mar;45(3):238-43.
+
+[Transporter associated with antigen processing 1 637A/G gene polymorphisms and
+susceptibility to nasopharyngeal carcinoma in Han population in Yunnan Province, 
+China].
+
+[Article in Chinese]
+
+Sui J(1), Mo Q, Li XJ, Ma J, Ren YX, Gao W, Wang H, Yang J.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The Third Affilliated Hospital of Kunming
+Medical College, Kunming 650118, China.
+
+OBJECTIVE: To study the relationship between 637A/G gene polymorphisms of the
+transporter associated with antigen processing 1 gene and nasopharyngeal
+carcinomas (NPC) and to find out the susceptible genes of NPC in Han population
+in Yunnan Province, China.
+METHODS: Two hundred and thirty-three cases with NPC and 296 cases matched
+cancer-free controls were genotyped for the TAP1 637A/G polymorphism by
+polymerase chain reaction-restriction fragment length polymorphism (PCR-RFLP).
+Epstein-Barr virus infection was detected by PCR. The adjusted odds ratios (OR)
+and 95% confidence intervals (CI) were calculated by using unconditional logistic
+regression model.
+RESULTS: Contrast with homozygous TAP1 637 AA, G allele significantly increasing 
+risk of NPC was associated with homozygous 637 GG OR = 4.26 (95%CI were 2.08 -
+8.66, P < 0.001) and heterozygous 637 AG OR = 1.56 (95%CI were 1.12 - 2.33, P <
+0.05). The subjects at least having one TAP1 637 G allele had OR of 1.88 (95%CI
+were 1.35 - 2.82, P < 0.001). Furthermore, EBV infection may increase the risk of
+developing NPC interacting with TAP1 637 A/G polymorphism OR = 2.76(95% CI were
+1.69 - 4.63, P < 0.001).
+CONCLUSIONS: The TAP1 637G allele is associated with the NPC in Han population in
+Yunnan China, EBV pathogenesis in NPC might be facilitated by polymorphisms in
+the TAP1 proteins.
+
+
+PMID: 20450707  [Indexed for MEDLINE]

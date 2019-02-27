@@ -1,0 +1,48 @@
+
+
+1892. Nat Commun. 2018 Aug 13;9(1):3220. doi: 10.1038/s41467-018-05570-1.
+
+Pan-cancer deconvolution of tumour composition using DNA methylation.
+
+Chakravarthy A(1)(2), Furness A(3), Joshi K(3), Ghorani E(3), Ford K(4), Ward
+MJ(4), King EV(4), Lechner M(1), Marafioti T(5), Quezada SA(3), Thomas GJ(4),
+Feber A(6), Fenton TR(7).
+
+Author information: 
+(1)Department of Oncology, UCL Cancer Institute, University College London,
+London, WC1E 6BT, UK.
+(2)Princess Margaret Cancer Centre, Toronto, ON, M5G 2C4, Canada.
+(3)Department of Haematology, UCL Cancer Institute, University College London,
+London, WC1E 6BT, UK.
+(4)Cancer Sciences Unit, University of Southampton, Tremona Road, Southampton,
+SO16 6YD, UK.
+(5)Department of Pathology, UCL Cancer Institute, University College London,
+London, WC1E 6BT, UK.
+(6)Division of Surgery and Interventional Science, University College London,
+London, WC1E 6BT, UK.
+(7)School of Biosciences, University of Kent, Canterbury, CT2 7NJ, UK.
+t.fenton@kent.ac.uk.
+
+Erratum in
+    Nat Commun. 2018 Nov 2;9(1):4642.
+
+The nature and extent of immune cell infiltration into solid tumours are key
+determinants of therapeutic response. Here, using a DNA methylation-based
+approach to tumour cell fraction deconvolution, we report the integrated analysis
+of tumour composition and genomics across a wide spectrum of solid cancers.
+Initially studying head and neck squamous cell carcinoma, we identify two
+distinct tumour subgroups: 'immune hot' and 'immune cold', which display
+differing prognosis, mutation burden, cytokine signalling, cytolytic activity and
+oncogenic driver events. We demonstrate the existence of such tumour subgroups
+pan-cancer, link clonal-neoantigen burden to cytotoxic T-lymphocyte infiltration,
+and show that transcriptional signatures of hot tumours are selectively engaged
+in immunotherapy responders. We also find that treatment-naive hot tumours are
+markedly enriched for known immune-resistance genomic alterations, potentially
+explaining the heterogeneity of immunotherapy response and prognosis seen within 
+this group. Finally, we define a catalogue of mediators of active antitumour
+immunity, deriving candidate biomarkers and potential targets for precision
+immunotherapy.
+
+DOI: 10.1038/s41467-018-05570-1 
+PMCID: PMC6089972
+PMID: 30104673  [Indexed for MEDLINE]

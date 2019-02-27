@@ -1,0 +1,48 @@
+
+
+1053. Laryngoscope. 2016 Jun;126(6):1365-72. doi: 10.1002/lary.25822. Epub 2015 Dec 28.
+
+Predictors of high-risk and low-risk oral HPV infection in the United States.
+
+Orosco RK(1), Kedarisetty S(2), Hecht AS(1), Chang DC(3), Coffey CS(1), Weissbrod
+PA(1).
+
+Author information: 
+(1)Division of Head and Neck Surgery, University of California, San Diego, San
+Diego, California, U.S.A.
+(2)School of Medicine, University of California, San Diego, San Diego,
+California, U.S.A.
+(3)Department of Surgery, University of California, San Diego, San Diego,
+California, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: Determine predictors of high-risk and low-risk oral HPV
+infection in the United States.
+STUDY DESIGN: Retrospective analyses of National Health and Nutrition Examination
+Survey cross-sectional data of U.S. population from 2009 to 2012.
+METHODS: Database queried for subjects aged 18 to 69 with oral rinse human
+papillomavirus (HPV) DNA data. Logistic regression identified factors associated 
+with high-risk and low-risk infection. Covariates included age, gender,
+ethnicity, income-to-poverty (IP) ratio, sexual orientation, human
+immunodeficiency virus infection, other sexually transmitted infections, lifetime
+sexual partners, and lifetime oral sex partners.
+RESULTS: In total, 9,256 subjects were identified with mean age of 42.1 years.
+Oral HPV infection was present in 8.1% (N = 747); 55.7% were high-risk and 55.3% 
+were low-risk types, including 11% with both. Oral infection had a negative
+association with female gender (odds ratio [OR] 0.3, P < 0.001), IP ratio ≥ 3 (OR
+0.7, P = 0.02), and one lifetime oral sex partner (OR 0.7, P = 0.03). Increasing 
+oral sex behavior (6-21+ lifetime partners) was positively associated with oral
+HPV (OR 1.4-3.0, P = 0.03). Low-risk infection had negative associations with
+female gender (OR 0.4, P < 0.001) and non-Hispanic white ethnicity (OR 0.6, P =
+0.02), IP ratio ≥ 3 (OR 0.6, P = 0.01), and positive association with > 20 sexual
+partners (all sex OR 1.7, P = 0.04; oral sex OR 1.9, P = 0.02). Predictors of
+high-risk HPV infection included male gender and increasing oral sex partners.
+CONCLUSION: Increasing oral sex partners is positively associated with oral HPV
+infection; female sex and higher socioeconomic class are negatively associated.
+The risk-factor profiles for high-risk and low-risk HPV types are distinct, with 
+similar trends related to sexual behaviors.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 126:1365-1372, 2016.
+
+© 2015 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.25822 
+PMID: 26707355  [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+
+
+687. PLoS Pathog. 2017 Jul 24;13(7):e1006500. doi: 10.1371/journal.ppat.1006500.
+eCollection 2017 Jul.
+
+An essential EBV latent antigen 3C binds Bcl6 for targeted degradation and cell
+proliferation.
+
+Pei Y(1), Banerjee S(1), Jha HC(1), Sun Z(1), Robertson ES(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, and Microbiology, the
+Tumor Virology Program, Abramson Comprehensive Cancer Center, Perelman School of 
+Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, United
+States of America.
+
+The latent EBV nuclear antigen 3C (EBNA3C) is required for transformation of
+primary human B lymphocytes. Most mature B-cell malignancies originate from
+malignant transformation of germinal center (GC) B-cells. The GC reaction appears
+to have a role in malignant transformation, in which a major player of the GC
+reaction is Bcl6, a key regulator of this process. We now demonstrate that EBNA3C
+contributes to B-cell transformation by targeted degradation of Bcl6. We show
+that EBNA3C can physically associate with Bcl6. Notably, EBNA3C expression leads 
+to reduced Bcl6 protein levels in a ubiquitin-proteasome dependent manner.
+Further, EBNA3C inhibits the transcriptional activity of the Bcl6 promoter
+through interaction with the cellular protein IRF4. Bcl6 degradation induced by
+EBNA3C rescued the functions of the Bcl6-targeted downstream regulatory proteins 
+Bcl2 and CCND1, which resulted in increased proliferation and G1-S transition.
+These data provide new insights into the function of EBNA3C in B-cell
+transformation during GC reaction, and raises the possibility of developing new
+targeted therapies against EBV-associated cancers.
+
+DOI: 10.1371/journal.ppat.1006500 
+PMCID: PMC5524291
+PMID: 28738086  [Indexed for MEDLINE]

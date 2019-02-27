@@ -1,0 +1,32 @@
+
+
+48. FEBS Lett. 2016 Jul;590(13):1858-76. doi: 10.1002/1873-3468.12186. Epub 2016 May 
+10.
+
+Super-resolved insights into human immunodeficiency virus biology.
+
+Hanne J(1)(2), Zila V(1), Heilemann M(3), Müller B(1), Kräusslich HG(1).
+
+Author information: 
+(1)Department of Infectious Diseases, Virology, University Hospital Heidelberg,
+Germany.
+(2)Optical Nanoscopy Division, German Cancer Research Center, Heidelberg,
+Germany.
+(3)Institute of Physical and Theoretical Chemistry, Goethe-University Frankfurt, 
+Germany.
+
+The recent development of fluorescence microscopy approaches overcoming the
+diffraction limit of light microscopy opened possibilities for studying
+small-scale cellular processes. The spatial resolution achieved by these novel
+techniques, together with the possibility to perform live-cell and multicolor
+imaging, make them ideally suited for visualization of native viruses and
+subviral structures within the complex environment of a host cell or organ, thus 
+providing fundamentally new possibilities for investigating virus-cell
+interactions. Here, we review the use of super-resolution microscopy approaches
+to study virus-cell interactions, and discuss recent insights into human
+immunodeficiency virus biology obtained by exploiting these novel techniques.
+
+© 2016 Federation of European Biochemical Societies.
+
+DOI: 10.1002/1873-3468.12186 
+PMID: 27117435  [Indexed for MEDLINE]

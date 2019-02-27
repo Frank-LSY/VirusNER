@@ -1,0 +1,33 @@
+
+
+2086. ORL J Otorhinolaryngol Relat Spec. 2016;78(1):46-54. doi: 10.1159/000442354. Epub
+2016 Jan 20.
+
+Human Papillomavirus 16 Physical Status and the TP53 Codon 72 Polymorphism in
+Japanese HPV-Positive Oropharyngeal Cancer Patients.
+
+Saito Y(1), Ando M, Fujimoto C, Omura G, Kobayashi K, Asakage T, Yamasoba T.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, University of Tokyo,
+Tokyo, Japan.
+
+BACKGROUND: In human papillomavirus (HPV)-induced carcinogenesis, the arginine
+(Arg) allele of the TP53 codon 72 polymorphism binds more efficiently to the HPV 
+E6 oncoprotein than the proline (Pro) allele. We investigated the physical status
+of HPV-16 DNA and the TP53 codon 72 polymorphism in oropharyngeal squamous cell
+carcinoma (OPSCC).
+METHODS: Tumor samples from 70 p16-positive OPSCC patients were tested for HPV-16
+physical status by examining the E2 and E6 open reading frames. The TP53 codon 72
+polymorphism was screened by direct sequencing.
+RESULTS: Of 70 patients, 53 were E6 positive, 29 had integrated forms of HPV-16
+DNA, and 24 had mixed or episomal forms. Furthermore, 44 carried the Arg/Arg or
+Arg/Pro genotype, 3 carried the Pro/Pro genotype, and in 6 patients we were
+unable to obtain sequencing data.
+CONCLUSIONS: HPV-16 physical status was heterogeneous in our OPSCC patients. Most
+OPSCC patients had the TP53 Arg/Arg or Arg/Pro genotype.
+
+© 2016 S. Karger AG, Basel.
+
+DOI: 10.1159/000442354 
+PMID: 26785263  [Indexed for MEDLINE]

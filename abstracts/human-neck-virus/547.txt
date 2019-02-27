@@ -1,0 +1,43 @@
+
+Conflict of interest statement: MP is inventor of patents owned by DKFZ in the
+field of HPV DNA diagnostic assays: Novel Broad Spectrum BS---GP5+/6+PCR for
+Homogeneous Amplification of Human Alpha Papillomaviruses. Patent EP 2195468, US 
+8,202,694. This does not alter our adherence to PLOS ONE policies on sharing data
+and materials.
+
+
+547. Radiother Oncol. 2010 Jun;95(3):365-70. doi: 10.1016/j.radonc.2010.02.001. Epub
+2010 Mar 24.
+
+HPV and high-risk gene expression profiles predict response to chemoradiotherapy 
+in head and neck cancer, independent of clinical factors.
+
+de Jong MC(1), Pramana J, Knegjens JL, Balm AJ, van den Brekel MW, Hauptmann M,
+Begg AC, Rasch CR.
+
+Author information: 
+(1)Department of Experimental Oncology, The Netherlands Cancer Institute/Antoni
+van Leeuwenhoek Hospital, 1066CX Amsterdam, The Netherlands.
+
+PURPOSE: The purpose of this study was to combine gene expression profiles and
+clinical factors to provide a better prediction model of local control after
+chemoradiotherapy for advanced head and neck cancer.
+MATERIAL AND METHODS: Gene expression data were available for a series of 92
+advanced stage head and neck cancer patients treated with primary
+chemoradiotherapy. The effect of the Chung high-risk and Slebos HPV expression
+profiles on local control was analyzed in a model with age at diagnosis, gender, 
+tumor site, tumor volume, T-stage and N-stage and HPV profile status.
+RESULTS: Among 75 patients included in the study, the only factors significantly 
+predicting local control were tumor site (oral cavity vs. Pharynx, hazard ratio
+4.2 [95% CI 1.4-12.5]), Chung gene expression status (high vs. Low risk profile, 
+hazard ratio 4.4 [95% CI 1.5-13.3]) and HPV profile (negative vs. Positive
+profile, hazard ratio 6.2 [95% CI 1.7-22.5]).
+CONCLUSIONS: Chung high-risk expression profile and a negative HPV expression
+profile were significantly associated with increased risk of local recurrence
+after chemoradiotherapy in advanced pharynx and oral cavity tumors, independent
+of clinical factors.
+
+Copyright 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2010.02.001 
+PMID: 20346528  [Indexed for MEDLINE]

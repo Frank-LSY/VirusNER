@@ -1,0 +1,35 @@
+
+
+2990. Mol Oncol. 2013 Oct;7(5):884-94. doi: 10.1016/j.molonc.2013.04.007. Epub 2013 Apr
+25.
+
+MicroRNA-9 enhances migration and invasion through KLF17 in hepatocellular
+carcinoma.
+
+Sun Z(1), Han Q, Zhou N, Wang S, Lu S, Bai C, Zhao RC.
+
+Author information: 
+(1)Department of Oncology, Peking Union Medical College Hospital, Chinese Academy
+of Medical Sciences and Peking Union Medical College, Beijing 100730, People's
+Republic of China.
+
+Metastasis is one of the hallmarks of cancer malignancy that usually causes more 
+detrimental effects than a primary tumor. Many microRNAs were reported to be
+involved in the process of tumor metastasis. Hep11 and Hep12 cells were derived
+from primary and recurrence (intrahepatic metastatic) sites of hepatocellular
+carcinoma (HCC), respectively. Hep12 exhibited a higher invasive and migratory
+potential than Hep11. There was also a significantly higher expression of miR-9
+in Hep12 cells than in Hep11 cells. Further studies in HCC cell lines
+demonstrated that miR-9 could promote tumor cell migration and invasion. In
+addition, miR-9 downregulated KLF17 protein expression by targeting the 3'UTR
+region of the KLF17 gene directly. As a transcription factor, KLF17 directly
+acted on the promoters of EMT-related genes (ZO-1, Vimentin and Fibronectin (FN))
+in HCC cell lines. Therefore, we conclude that miR-9 may possibly promote HCC
+migration and invasion through regulation of KLF17.
+
+Copyright © 2013 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.molonc.2013.04.007 
+PMCID: PMC5528452
+PMID: 23684102  [Indexed for MEDLINE]

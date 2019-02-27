@@ -1,0 +1,44 @@
+
+
+522. PLoS One. 2017 May 25;12(5):e0177275. doi: 10.1371/journal.pone.0177275.
+eCollection 2017.
+
+Expression profile of Epstein-Barr virus and human adenovirus small RNAs in
+tonsillar B and T lymphocytes.
+
+Assadian F(1), Kamel W(1), Laurell G(2), Svensson C(1), Punga T(1), Akusjärvi
+G(1).
+
+Author information: 
+(1)Department of Medical Biochemistry and Microbiology, Uppsala Biomedical
+Center, Uppsala University, Uppsala, Sweden.
+(2)Department of Surgical Sciences, Otorhinolaryngology and Head and Neck
+Surgery, Uppsala University, Uppsala, Sweden.
+
+We have used high-throughput small RNA sequencing to characterize viral small RNA
+expression in purified tonsillar B and T lymphocytes isolated from patients
+tested positive for Epstein-Barr virus (EBV) or human adenovirus (HAdV)
+infections, respectively. In the small set of patients analyzed, the expression
+profile of EBV and HAdV miRNAs could not distinguish between patients diagnosed
+with tonsillar hypertrophy or chronic/recurrent tonsillitis. The EBV miR-BART
+expression profile among the patients diagnosed with tonsillar diseases resembles
+most closely the pattern seen in EBV+ tumors (Latency II/I). The miR-BARTs that
+appear to be absent in normal EBV infected cells are essentially all detectable
+in the diseased tonsillar B lymphocytes. In the EBV+ B cells we detected 44 EBV
+miR-BARTs derived from the proposed BART precursor hairpins whereof five are not 
+annotated in miRBase v21. One previously undetected miRNA, BART16b-5p, originates
+from the miR-BART16 precursor hairpin as an alternative 5´ miR-BART16 located
+precisely upstream of the annotated miR-BART16-5p. Further, our analysis revealed
+an extensive sequence variation among the EBV miRNAs with isomiRs having a
+constant 5´ end but alternative 3´ ends. A range of small RNAs was also detected 
+from the terminal stem of the EBER RNAs and the 3´ part of v-snoRNA1. During a
+lytic HAdV infection in established cell lines the terminal stem of the viral
+non-coding VA RNAs are processed to highly abundant viral miRNAs (mivaRNAs). In
+contrast, mivaRNA expression in HAdV positive tonsillar T lymphocytes was very
+low. The small RNA profile further showed that the 5´ mivaRNA from VA RNAI and
+the 3´ mivaRNA from VA RNAII were as predicted, whereas the 3´ mivaRNA from VA
+RNAI showed an aberrant processing upstream of the expected Dicer cleavage site.
+
+DOI: 10.1371/journal.pone.0177275 
+PMCID: PMC5444648
+PMID: 28542273  [Indexed for MEDLINE]

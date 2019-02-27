@@ -1,0 +1,32 @@
+
+
+2860. Int J Clin Exp Pathol. 2015 Sep 1;8(9):11685-90. eCollection 2015.
+
+Primary mucosal CD30-positive T-cell lymphoproliferative disorders of the head
+and neck rarely involving epiglottis: clinicopathological, immunohistomchemical
+and genetic features of a case.
+
+Zhou J(1), Wang G(1), Zhang D(1), Yin Y(1), Pang X(1), Zhang J(1), Zhang Y(1), Li
+W(1).
+
+Author information: 
+(1)Department of Pathology, The First Affiliated Hospital of Zhengzhou
+University, Zhengzhou; Basic Medicine College of Zhengzhou University China.
+
+A case of primary mucosal CD30-positive T-cell lymphoproliferative disorder of
+the head and neck rarely involving epiglottis in a 59-year-old male was reported.
+Histologically, the ulcerative mucosa was affected by sheets of mixed
+inflammatory infiltration, with scattered large atypical lymphoid cells arranging
+in an individual or small clusters with focal epidermotropism.
+Immunohistochemically, tumor cells were uniformly immunoreactive to antibodies
+against CD2, CD3, CD7, CD43, CD4, TIA-1, with a heterogeneous expression of CD30,
+but negative for CD20, CD79a, CD21, CD8, CD56, ALK, EMA, granzyme B. Epstein-Barr
+virus encoded RNA (EBER) were detected. Genetically, T-cell receptor (TCR) γ gene
+showed an oligoclonal rearrangement. This first case developing in epiglottis
+demonstrates mucosal CD30-positive T-cell lymphoproliferative disorders are
+characteristic of a broad clinicopathologic spectrum similar to the counterpart
+in the skin with a favorable prognosis.
+
+
+PMCID: PMC4637727
+PMID: 26617911  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+40. Antiviral Res. 2013 May;98(2):186-91. doi: 10.1016/j.antiviral.2013.03.003. Epub 
+2013 Mar 13.
+
+Anti-poliovirus activity of protease inhibitor AG-7404, and assessment of in
+vitro activity in combination with antiviral capsid inhibitor compounds.
+
+Rhoden E(1), Liu HM, Wang-Chern SW, Oberste MS.
+
+Author information: 
+(1)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, Centers 
+for Disease Control and Prevention, Atlanta, GA, USA. erhoden@cdc.gov
+
+Erratum in
+    Antiviral Res. 2013 Sep;99(3):436.
+
+The National Research Council has recommended that at least one, preferably two, 
+polio antiviral drugs be developed as a supplement to the tools currently
+available for control of polio outbreaks post-eradication. The primary
+application of such drugs is expected to be the resolution of chronic poliovirus 
+excretion in persons with primary immunodeficiency disorders. We have assessed
+the in vitro activity of AG-7404 (also known as "compound 1"), an inhibitor of
+picornaviral 3C protease, against a large panel of programmatically important
+poliovirus strains and its activity in combination with two poliovirus capsid
+inhibitors, V-073 and BTA798. AG-7404 was active against all viruses in this
+panel, with EC50 values ranging from 0.080 to 0.674 μM. Similarly, BTA798 was
+active against all viruses in this panel, with EC50 values ranging from 0.003 to 
+0.591μM. By comparison, values for V-073 were 0.003-0.126 μM. BTA798 was active
+against V-073-resistant variants with an alanine to valine change in VP3 at
+position 24. However, BTA798 was inactive against the V-073-resistant strains
+with amino acid substitutions at VP1 amino acids 194 (equivalent to 192 in type
+3) and 236. As expected from its different mechanism of action, AG-7404 was fully
+active against all V-073-resistant variants, with EC₅₀ values ranging from 0.218 
+to 0.819 μM, compared to values of 0.202-0.407 μM for the V-073-susceptible
+parental strains. In vitro drug combination experiments demonstrated synergy
+between AG-7404 and either V-073 or BTA798, whereas the combination of the two
+capsid inhibitors acted additively.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.antiviral.2013.03.003 
+PMID: 23499651  [Indexed for MEDLINE]

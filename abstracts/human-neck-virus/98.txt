@@ -1,0 +1,37 @@
+
+
+98. J Med Virol. 2015 Feb;87(2):281-6. doi: 10.1002/jmv.24052. Epub 2014 Aug 22.
+
+Low prevalence of human papillomavirus in head and neck squamous cell carcinoma
+in Chinese patients.
+
+Xu Y(1), Liu S, Yi H, Wang J, Luo Y, Yin S.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Shanghai Jiao Tong University Affiliated
+Sixth People's Hospital, Shanghai, China; Department of Head and Neck Surgery,
+Renji Hospital of Shanghai Jiaotong University School of Medicine, Shanghai,
+China; Otolaryngological Institute of Shanghai Jiaotong University, Shanghai,
+China.
+
+The aim of this study was to ascertain the prevalence and prognostic value of
+human papillomavirus (HPV) infection status in head and neck squamous cell
+carcinoma. Immunohistochemistry and GenoArray HPV genotyping assays were used to 
+evaluate the HPV infection status of 256 Chinese patients with head and neck
+squamous cell carcinoma. Long-term survival rates were calculated using the
+Kaplan-Meier method. Immunostaining for p16 was prevalent in 6.6% (17/256) of
+patients, whereas HPV infection was detected in 9 of 256 (3.5%) patients using
+the HPV genotyping test. None of the p16-negative subjects were found to have HPV
+infection according to the HPV genotyping test. P16 positivity was more common
+among nonsmokers than smokers (16.3% vs. 4.7%, respectively; P = 0.02). Among
+nine HPV-positive cases, seven were infected with HPV-16, one with HPV-33, and
+one with both HPV-16 and HPV-11. The 3-year overall survival rate was 87.5% for
+p16-positive/HPV-positive patients, 75.0% for p16-positive/HPV-negative patients,
+and 76.9% for p16-negative/HPV-negative patients (P = 0.30). A very low rate of
+HPV infection was found among the study patients. HPV infection status may not be
+a useful prognostic marker for head and neck cancer patients.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24052 
+PMID: 25156555  [Indexed for MEDLINE]

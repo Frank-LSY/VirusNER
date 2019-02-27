@@ -1,0 +1,32 @@
+
+
+2536. HNO. 2011 Sep;59(9):885-92. doi: 10.1007/s00106-011-2357-1.
+
+[HPV-associated head and neck cancer. The basics of molecular and translational
+research].
+
+[Article in German]
+
+Wittekindt C(1), Wagner S, Klussmann JP.
+
+Author information: 
+(1)Klinik für Hals-Nasen-Ohren-Heilkunde, Kopf-Hals-Chirurgie und plastische
+Operationen, Universitätsklinikum Gießen & Marburg, Standort Gießen, Klinikstr.
+29, 35392, Gießen, Deutschland. claus.wittekindt@hno.med.uni-giessen.de
+
+Translational research refers to the interfaces between preclinical research and 
+targeted short- and medium-term developments through to clinical standards. There
+are two distinct groups of oropharyngeal malignancies: those caused by tobacco
+and alcohol abuse and those caused by HPV infection. Although the prognosis of
+patients in the latter group is significantly better, this is not taken into
+consideration in the choice of treatment. However, less intensive use of
+radiotherapy, chemotherapy, or surgery, as well as targeted multimodal
+therapeutic approaches, is under research. This article summarizes the main
+events in the HPV life cycle, with emphasis on carcinogenic mechanisms and
+potential new molecular targets. Identifying distinct tumor entities of the
+oropharynx enables the design and development of new preventive and therapeutic
+strategies to reduce the incidence and mortality of HPV-associated oropharyngeal 
+cancers in the near future.
+
+DOI: 10.1007/s00106-011-2357-1 
+PMID: 21769577  [Indexed for MEDLINE]

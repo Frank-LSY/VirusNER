@@ -1,0 +1,67 @@
+
+
+2747. Acta Oncol. 2018 Apr;57(4):541-551. doi: 10.1080/0284186X.2017.1400688. Epub 2017
+Nov 17.
+
+Epidemiological and treatment-related factors contribute to improved outcome of
+oropharyngeal squamous cell carcinoma in Finland.
+
+Jouhi L(1), Halme E(2), Irjala H(3), Saarilahti K(4), Koivunen P(5), Pukkila
+M(6), Hagström J(7)(8), Haglund C(9)(8), Lindholm P(10), Hirvikoski P(11),
+Vaittinen S(12), Ellonen A(3), Tikanto J(5), Blomster H(6), Laranne J(2), Grénman
+R(3), Mäkitie A(1), Atula T(1).
+
+Author information: 
+(1)a Department of Otorhinolaryngology-Head and Neck Surgery , University of
+Helsinki, Helsinki University Hospital , Helsinki , Finland.
+(2)b Department of Otorhinolaryngology-Head and Neck Surgery , Tampere University
+Hospital, University of Tampere , Tampere , Finland.
+(3)c Department of Otorhinolaryngology-Head and Neck Surgery , Turku University
+Hospital, University of Turku , Turku , Finland.
+(4)d Department of Oncology , Helsinki University Hospital, University of
+Helsinki , Helsinki , Finland.
+(5)e Department of Otorhinolaryngology-Head and Neck Surgery , Oulu University
+Hospital, University of Oulu , Oulu , Finland.
+(6)f Department of Otorhinolaryngology-Head and Neck Surgery , Kuopio University 
+Hospital, University of Eastern Finland , Kuopio , Finland.
+(7)g Department of Pathology , University of Helsinki, HUSLAB, Helsinki
+University Hospital , Helsinki , Finland.
+(8)i Research Programs Unit, Translational Cancer Biology , University of
+Helsinki , Helsinki , Finland.
+(9)h Department of Surgery , University of Helsinki, Helsinki University Hospital
+, Helsinki , Finland.
+(10)j Department of Oncology , Turku University Hospital, University of Turku ,
+Turku , Finland.
+(11)k Department of Pathology , Oulu University Hospital, University of Oulu ,
+Oulu , Finland.
+(12)l Department of Pathology , Turku University Hospital, University of Turku , 
+Turku , Finland.
+
+BACKGROUND: Treatment for oropharyngeal squamous cell carcinoma (OPSCC) has
+changed, as the proportion of human papilloma virus (HPV)-related disease has
+increased. We evaluated nationwide information on its management and outcome
+during the treatment paradigm change period.
+METHODS: We included all patients diagnosed and treated for OPSCC at the five
+Finnish university hospitals from 2000 to 2009. Patient records and pathology
+registries provided the clinicopathological data. p16 staining was performed on
+primary tumor samples of patients who had received treatment with curative
+intent.
+RESULTS: A total of 674 patients were diagnosed and treated for OPSCC and the
+incidence increased along the study period. Of the evaluable tumors 58.5% were
+p16-positive and the number of p16-positive tumors increased along the years. The
+treatment was given with curative intent for 600 patients and it was completed in
+564. Of them, 47.9% underwent primary surgery and 52.1% received definitive
+oncological treatment. Also, the treatment protocol changed towards a more
+oncological approach. Among patients treated with curative intent the five-year
+overall, disease-specific and disease-free survival rates were 60.1, 71.5 and
+57.0%. In multivariate analysis, p16-positivity seemed to relate to reduced
+disease mortality in lateral and anterior-wall disease. Depending on primary
+tumor localization, also sex, classes T3-4, presence of regional metastasis and
+radiotherapy modality had an association with disease mortality.
+CONCLUSION: The incidence of p16-positive OPSCC and delivery of definitive
+oncological treatment increased in Finland during the study period. An improved
+survival outcome compared with the previous nationwide investigation was observed
+in this subset of patients.
+
+DOI: 10.1080/0284186X.2017.1400688 
+PMID: 29145765  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+2309. PLoS One. 2015 Dec 31;10(12):e0146185. doi: 10.1371/journal.pone.0146185.
+eCollection 2015.
+
+Incidence, Trends and Ethnic Differences of Oropharyngeal, Anal and Cervical
+Cancers: Singapore, 1968-2012.
+
+Lam JO(1), Lim WY(2), Chow KY(3), D'Souza G(1).
+
+Author information: 
+(1)Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD,
+United States of America.
+(2)Saw Swee Hock School of Public Health, National University of Singapore,
+Singapore, Singapore.
+(3)National Registry of Diseases Office, Singapore, Singapore.
+
+In recent decades, several Western countries have reported an increase in
+oropharyngeal and anal cancers caused by human papillomavirus (HPV). Trends in
+HPV-associated cancers in Asia have not been as well described. We describe the
+epidemiology of potentially HPV-related cancers reported to the Singapore Cancer 
+Registry from 1968-2012. Analysis included 998 oropharyngeal squamous cell
+carcinoma (OPSCC), 183 anal squamous cell carcinoma (ASCC) and 8,019 invasive
+cervical cancer (ICC) cases. Additionally, 368 anal non-squamous cell carcinoma
+(ANSCC) and 2,018 non-oropharyngeal head and neck carcinoma (non-OP HNC) cases
+were included as comparators. Age-standardized incidence rates (ASR) were
+determined by gender and ethnicity (Chinese, Malay and Indian). Joinpoint
+regression was used to evaluate annual percentage change (APC) in incidence.
+OPSCC incidence increased in both genders (men 1993-2012, APC = 1.9%, p<0.001;
+women 1968-2012, APC = 2.0%, p = 0.01) and was 5 times higher in men than women. 
+In contrast, non-OP HNC incidence declined between 1968-2012 among men (APC =
+-1.6%, p<0.001) and women (APC = -0.4%, p = 0.06). ASCC and ANSCC were rare (ASR 
+= 0.2 and 0.7 per 100,000 person-years, respectively) and did not change
+significantly over time except for increasing ANSCCs in men (APC = 2.8%,
+p<0.001). ICC was the most common HPV-associated cancer (ASR = 19.9 per 100,000
+person-years) but declined significantly between 1968-2012 (APC = -2.4%).
+Incidence of each cancer varied across ethnicities. Similar to trends in Western 
+countries, OPSCC incidence increased in recent years, while non-OP HNC decreased.
+ICC remains the most common HPV-related cancer in Singapore, but Pap screening
+programs have led to consistently decreasing incidence.
+
+DOI: 10.1371/journal.pone.0146185 
+PMCID: PMC4705110
+PMID: 26720001  [Indexed for MEDLINE]

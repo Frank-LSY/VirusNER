@@ -1,0 +1,55 @@
+
+
+1822. Protein Eng Des Sel. 2014 Oct;27(10):331-7. doi: 10.1093/protein/gzu040.
+
+A fusogenic dengue virus-derived peptide enhances antitumor efficacy of an
+antibody-ribonuclease fusion protein targeting the EGF receptor.
+
+Kiesgen S(1), Liebers N(1), Cremer M(1), Arnold U(2), Weber T(1), Keller A(1),
+Herold-Mende C(3), Dyckhoff G(4), Jäger D(1), Kontermann RE(5), Arndt MA(6),
+Krauss J(7).
+
+Author information: 
+(1)Department of Medical Oncology, National Center for Tumor Diseases, Heidelberg
+University Hospital, Im Neuenheimer Feld 460, 69120 Heidelberg, Germany.
+(2)Institute of Biochemistry and Biotechnology, Martin Luther University
+Halle-Wittenberg, Kurt-Mothes-Str. 3, 06120 Halle, Germany.
+(3)Division of Experimental Neurosurgery, Department of Neurosurgery, University 
+of Heidelberg, Im Neuenheimer Feld 400, 69120 Heidelberg, Germany Molecular Cell 
+Biology Group, ENT Department, University of Heidelberg, Im Neuenheimer Feld 400,
+69120 Heidelberg, Germany.
+(4)Molecular Cell Biology Group, ENT Department, University of Heidelberg, Im
+Neuenheimer Feld 400, 69120 Heidelberg, Germany.
+(5)Institute of Cell Biology and Immunology, University of Stuttgart, Allmandring
+31, 70569 Stuttgart, Germany.
+(6)Department of Medical Oncology, National Center for Tumor Diseases, Heidelberg
+University Hospital, Im Neuenheimer Feld 460, 69120 Heidelberg, Germany Present
+address: Immunotherapy Program, National Center for Tumor Diseases, German Cancer
+Research Center (DKFZ), Im Neuenheimer Feld 280, 69120 Heidelberg, Germany.
+(7)Department of Medical Oncology, National Center for Tumor Diseases, Heidelberg
+University Hospital, Im Neuenheimer Feld 460, 69120 Heidelberg, Germany
+juergen.krauss@nct-heidelberg.de.
+
+Due to its frequent overexpression in a variety of solid tumors the epidermal
+growth factor receptor (EGFR) is a well-established target for therapeutic
+interventions in epithelial cancers. In order to target EGFR in head and neck
+cancer, we have generated a ribonuclease (RNase) fusion protein comprising a
+humanized anti-EGFR antibody single-chain Fv fragment (scFv) and Ranpirnase, an
+RNase from Rana pipiens. Fusion of Ranpirnase to the N-terminus of the scFv via a
+flexible glycine-serine linker (G4S)3 resulted in very poor cytotoxicity of the
+fusion protein. As endosomal accumulation and lysosomal degradation have been
+reported to diminish the antitumor efficacy of ribonuclease or toxin-based
+immunoagents, we explored a fusion peptide from dengue virus that has been
+reported to be involved in the endosomal escape of the virus. This peptide was
+introduced as a linker between Ranpirnase and the scFv moiety. The modified
+immunoRNase exhibited exceptionally high cytotoxicity toward EGFR-expressing head
+and neck cell lines without affecting specificity. These results indicate that
+endosomal entrapment needs to be considered for Ranpirnase-based immunoagents and
+might be overcome by the use of tailored transduction domains from viral
+proteins.
+
+© The Author 2014. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/protein/gzu040 
+PMID: 25301960  [Indexed for MEDLINE]

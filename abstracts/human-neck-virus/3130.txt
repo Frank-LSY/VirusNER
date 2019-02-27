@@ -1,0 +1,36 @@
+
+
+3130. Br J Haematol. 2013 Feb;160(3):331-42. doi: 10.1111/bjh.12136. Epub 2012 Dec 4.
+
+Expression of CD70 in nasal natural killer/T cell lymphoma cell lines and
+patients; its role for cell proliferation through binding to soluble CD27.
+
+Yoshino K(1), Kishibe K, Nagato T, Ueda S, Komabayashi Y, Takahara M, Harabuchi
+Y.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Asahikawa Medical College,
+Asahikawa, Japan.
+
+Nasal natural killer (NK)/T cell lymphoma (NNKTL) is associated with Epstein-Barr
+virus (EBV). The present study analysed gene expression patterns of the NNKTL
+cell lines SNK6, SNK1 and SNT8, which are positive for EBV and latent membrane
+protein (LMP)-1, using a complementary DNA array analysis. We found that CD70 was
+specifically expressed in SNK6 and SNT8. Reverse transcription polymerase chain
+reaction and flow cytometric analyses confirmed that CD70 was expressed in all 3 
+NNKTL cell lines, but not in the other EBV-positive NK-cell lines. In vitro
+studies showed that NNKTL cell lines proliferated, in a dose-dependent fashion,
+in response to exogenous soluble CD27, which is the ligand for CD70. In NNKTL
+patients, we confirmed that the CD70 was expressed on the lymphoma cells in NNKTL
+tissues and that soluble CD27 was present in sera at higher levels as compared to
+healthy individuals. Finally, complement-dependent cytotoxicity assay showed that
+anti-CD70 antibody mediated effective complement-dependent killing of NNKTL cells
+and the affected target CD70 expression on the cells. These results suggest that 
+CD70 acts as a functional receptor binding to soluble CD27, resulting in lymphoma
+progression and that immunotherapy using anti-CD70 antibody may be a potential
+candidate for treatment for NNKTL.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/bjh.12136 
+PMID: 23206232  [Indexed for MEDLINE]

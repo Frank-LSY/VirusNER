@@ -1,0 +1,56 @@
+
+
+1878. PLoS One. 2016 Dec 5;11(12):e0167665. doi: 10.1371/journal.pone.0167665.
+eCollection 2016.
+
+Impact of Sonic Hedgehog Pathway Expression on Outcome in HPV Negative Head and
+Neck Carcinoma Patients after Surgery and Adjuvant Radiotherapy.
+
+Enzenhofer E(1), Parzefall T(1), Haymerle G(1), Schneider S(1), Kadletz L(1),
+Heiduschka G(1), Pammer J(2), Oberndorfer F(2), Wrba F(2), Loader B(3), Grasl
+MC(1), Perisanidis C(4), Erovic BM(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Medical University
+of Vienna, Vienna, Austria.
+(2)Department of Clinical Pathology, Medical University of Vienna, Vienna,
+Austria.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, Rudolfstiftung,
+Vienna, Austria.
+(4)Department of Oral and Maxillofacial Surgery, Medical University of Vienna,
+Vienna, Austria.
+
+INTRODUCTION: HPV positive patients suffering from head and neck cancer benefit
+from intensified radiotherapy when applied as a primary as well as an adjuvant
+treatment strategy. However, HPV negative patients treated with surgery and
+adjuvant radiotherapy lack validated prognostic biomarkers. It is therefore
+important to define prognostic biomarkers in this particular patient population. 
+Especially, ´high-risk groups´ need to be defined in order to adapt treatment
+protocols. Since dysregulation of the sonic hedgehog pathway plays an important
+role in carcinogenesis, we aimed to assess whether members of the sonic
+hedgehog-signaling pathway may act as prognostic factors in patients with HPV
+negative head and neck squamous cell carcinoma.
+MATERIALS AND METHODS: In this prospective study, pretreatment tumor biopsies of 
+patients with head and neck squamous cell carcinoma were taken during
+panendoscopy (2005 to 2008). All patients were treated with surgery and
+postoperative radiotherapy. After assessment of HPV and p16 status, protein
+expression profiles of the Sonic hedgehog-signaling pathway were determined by
+immunohistochemistry and tissue microarray analyses in 36 HPV negative tumor
+biopsies. Expression profiles of Sonic hedgehog, Indian hedgehog, Patched,
+Smoothened, Gli-1, Gli-2 and Gli-3 were correlated with patients´ clinical data, 
+local-control rate, disease-free as well as overall survival. Data from The
+Cancer Genome Atlas databank were used for external validation of our results.
+RESULTS: Gli-1 (p = 0.04) and Gli-2 (p = 0.02) overexpression was significantly
+linked to improved overall survival of HPV negative patients. Gli-2 (p = 0.04)
+overexpression correlated significantly with prolonged disease-free survival.
+Cox-multivariate analysis showed that overexpression of Gli-2 correlated
+independently (HR 0.40, 95% CI 0.16-0.95, p = 0.03) with increased overall
+survival.
+DISCUSSION: Gli-1 and Gli-2 overexpression represents a substantial prognostic
+factor for overall and disease-free survival in patients with locally advanced
+HPV negative head and neck cancer undergoing surgery and postoperative
+radiotherapy.
+
+DOI: 10.1371/journal.pone.0167665 
+PMCID: PMC5137890
+PMID: 27918595  [Indexed for MEDLINE]

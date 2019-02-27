@@ -1,0 +1,48 @@
+
+
+2823. Clin Otolaryngol. 2017 Feb;42(1):115-122. doi: 10.1111/coa.12674. Epub 2016 Jun
+19.
+
+Outcomes of intensity-modulated radiotherapy as primary treatment for
+oropharyngeal squamous cell carcinoma - a European singleinstitution analysis.
+
+Bird T(1), De Felice F(1), Michaelidou A(1), Thavaraj S(2), Jeannon JP(3), Lyons 
+A(3), Oakley R(3), Simo R(3), Lei M(1), Guerrero Urbano T(1).
+
+Author information: 
+(1)Department of Clinical Oncology, Guy's & St Thomas' NHS Foundation Trust,
+London, UK.
+(2)Department of Pathology, Guy's & St Thomas' NHS Foundation Trust, London, UK.
+(3)Department of Head & Neck Surgery, Guy's & St Thomas' NHS Foundation Trust,
+London, UK.
+
+OBJECTIVES: To analyse survival and toxicity outcomes in patients treated with
+primary intensity-modulated radiotherapy (IMRT) for oropharyngeal squamous cell
+carcinoma (OPSCC) in the era of routine human papilloma virus (HPV) testing.
+DESIGN: Single-institution case series.
+SETTING: Tertiary Head and Neck Cancer Unit.
+PARTICIPANTS: A total of 186 patients received IMRT (+/- chemotherapy) for
+radical primary treatment of OPSCC between March 2010 and December 2013. HPV
+status was available for 88% of cases. Median radiation dose was 65 Gy in 30
+daily fractions. 90% of stage III/IV patients received concurrent chemotherapy or
+cetuximab.
+MAIN OUTCOME MEASURES: Overall, disease-free and disease-specific survival; rates
+of late xerostomia and dysphagia.
+RESULTS: A total of 177 patients completed treatment (Stage I/II: 23; Stage
+III/IV: 154), with median follow-up of 26 months. Estimated 3-year overall
+survival (OS), disease-free survival (DFS) and disease-specific survival (DSS)
+rates were 77.2% (70.5-83.9), 72.3% (65.4-79.2) and 80.2% (74.1-86.3). Estimated 
+3-year OS, DFS and DSS for HPV-positive patients were 90.9% (85.2-96.6), 87.9%
+(81.4-94.4) and 91.8% (86.3-97.3). A previously identified risk stratification
+method was validated, showing improved OS for low-risk over high-risk patients
+(HR 0.09, P < 0.001). The 2-year feeding tube retention rate was 6%, and 2-year
+grade ≥2 xerostomia rate was 38% (23% if mean contralateral parotid dose <24 Gy).
+CONCLUSIONS: Outcomes with IMRT are favourable, particularly in the HPV-positive 
+patient group. This data further supports the use of a previously described
+prognostication model that can be used to select patients for
+escalation/de-escalation clinical trials.
+
+© 2016 John Wiley & Sons Ltd.
+
+DOI: 10.1111/coa.12674 
+PMID: 27185284  [Indexed for MEDLINE]

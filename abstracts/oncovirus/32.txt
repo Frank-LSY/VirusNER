@@ -1,0 +1,46 @@
+
+
+32. Retrovirology. 2013 Jul 24;10:77. doi: 10.1186/1742-4690-10-77.
+
+Heterogeneous susceptibility of circulating SIV isolate capsids to
+HIV-interacting factors.
+
+Mamede JI(1), Sitbon M, Battini JL, Courgnaud V.
+
+Author information: 
+(1)Institut de Génétique Moléculaire de Montpellier UMR 5535 CNRS, 1919 Route de 
+Mende, 34293 Montpellier Cedex 5, France.
+
+BACKGROUND: Many species of non-human primates in Africa are naturally infected
+by simian immunodeficiency viruses (SIV) and humans stand at the forefront of
+exposure to these viruses in Sub-Saharan Africa. Cross-species transmission and
+adaptation of SIV to humans have given rise to human immunodeficiency viruses
+(HIV-1 and HIV-2) on twelve accountable, independent occasions. However, the
+determinants contributing to a simian-to-human lasting transmission are not fully
+understood. Following entry, viral cores are released into the cytoplasm and
+become the principal target of host cellular factors. Here, we evaluated cellular
+factors likely to be involved in potential new SIV cross-species transmissions.
+We investigated the interactions of capsids from naturally circulating SIV
+isolates with both HIV-1 restricting (i.e. TRIM5 proteins) and facilitating (i.e.
+cyclophilin A and nucleopore-associated Nup358/RanBP2 and Nup153) factors in
+single-round infectivity assays that reproduce early stages of the viral
+life-cycle.
+RESULTS: We show that human TRIM5α is unlikely to prevent cross-species
+transmission of any SIV we tested and observed that the SIV CA-CypA interaction
+is a widespread but not a universal feature. Moreover, entry in the nucleus of
+different SIV appeared to follow pathways that do not necessarily recruit
+Nup358/RanBP2 or Nup153, and this regardless of their interaction with CypA.
+Nevertheless, we found that, like HIV-1, human-adapted HIV-2 infection was
+dependent on Nup358/RanBP2 and Nup153 interactions for optimal infection.
+Furthermore, we found that, unlike HIV CA, SIV CA did not require a direct
+interaction with the Cyp-like domain of Nup358/RanBP2 to carry out successful
+infection.
+CONCLUSIONS: Circulating SIV present a variety of phenotypes with regard to
+CA-interacting restricting or facilitating factors. Altogether, we unveiled
+unidentified pathways for SIV CA, which could also be exploited by HIV in
+different cellular contexts, to drive entry into the nucleus. Our findings
+warrant a closer evaluation of other potential defenses against circulating SIV.
+
+DOI: 10.1186/1742-4690-10-77 
+PMCID: PMC3751554
+PMID: 23883001  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+26. Methods Mol Biol. 2015;1238:369-79. doi: 10.1007/978-1-4939-1804-1_20.
+
+Human papilloma virus (HPV) modulation of the HNSCC epigenome.
+
+Stephen JK(1), Worsham MJ.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, Henry Ford Hospital, 1
+Ford Place, 1D, Detroit, MI, 48202, USA.
+
+Currently, the human papilloma virus (HPV), in addition to tobacco and alcohol,
+is considered another independent risk factor for oropharyngeal squamous head and
+neck cancer (OPSCC), where the prevalence of HPV-16 increases to 50-90 % for the 
+oropharynx. Also, incidence and mortality in head and neck SCC (HNSCC) continue
+to be higher in African Americans (AA) than in Caucasian Americans (CA). A recent
+study found that poorer survival outcomes for AA versus CA with oropharyngeal
+tumors were attributable to racial differences in the prevalence of HPV positive 
+(+) tumors; HPV negative (-) AA and CA patients had similar outcomes (Settle et
+al., Cancer Prev Res (Phila) 2:776-781, 2009). Evidence indicates that a
+HPV+ diagnosis has significant prognostic implications; these patients have at
+least half the risk of death when compared with the HPV- patient, due in part to 
+a better response to chemoradiotherapy (Fakhry et al., J Natl Cancer Inst
+100:261-269, 2008).Epigenetic events of promoter hypermethylation are emerging as
+promising molecular strategies for cancer detection, representing tumor-specific 
+markers occurring early in tumor progression. HPV infection is now recognized to 
+play a role in the pathogenesis of OPSCC, where HPV+ and HPV- patients appear to 
+be clinically and biologically distinct with reported genome-wide hypomethylation
+and promoter hypermethylation in HPV+ HNSCC tumors. A recent study from our group
+applying pathway analysis to investigate the biological role of the
+differentially methylated genes in HPV+ and HPV- HNSCC reported 8 signal
+transduction pathways germane to HNSCC (Worsham et al., Otolaryngol Head Neck
+Surg 149:409-416, 2013).
+
+DOI: 10.1007/978-1-4939-1804-1_20 
+PMID: 25421671  [Indexed for MEDLINE]

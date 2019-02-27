@@ -1,0 +1,39 @@
+
+
+2694. Int J Circumpolar Health. 2010 Sep;69(4):373-82. Epub 2010 Aug 17.
+
+Survival of head and neck cancer in Greenland.
+
+Jensen RG(1), Friborg J, Rosborg J, Specht L, Brofeldt S, Hamilton Therkildsen M,
+Homøe P.
+
+Author information: 
+(1)Department of Otolaryngology, Head & Neck Surgery F2071, Rigshospitalet,2100
+Copenhagen, Denmark. ramon@dadlnet.dk
+
+OBJECTIVES: Head and neck cancer is frequent in the Inuit population of Greenland
+and is characterized by a very high incidence of Epstein-Barr virus associated
+nasopharyngeal carcinoma (NPC). However, information on the treatment and
+survival of Inuit head and neck cancer patients is practically non-existent. The 
+aim of this study, therefore, was to analyse the epidemiological pattern, time
+course and survival of head and neck cancer patients in Greenland.
+STUDY DESIGN: Retrospective register-based study.
+METHODS: The Danish Civil Registration System, the Danish Cancer Registry and
+hospital-based registries were used to identify all patients resident in
+Greenland diagnosed with head and neck cancer during the period 1994-2003. Data
+were analysed with regard to clinical characteristics, treatment delay and
+survival.
+RESULTS: A total of 125 patients were identified. The age-standardized incidence 
+rate for all head and neck cancer cases was 28/100,000 for males and 19/100,000
+for females. High incidence rates were found for NPC and oral cancers. Of all
+cancers, 47% were stage IV at the time of diagnosis, while 61% of all NPC's were 
+stage IV. The median delay from date of first symptom to treatment was 248 days
+for all cancers. The overall crude 5-year survival rate for all sites together
+was 35% and for NPC 20%.
+CONCLUSION: Survival of head and neck cancer in Greenland is very low. Delays in 
+treatment and inadequate follow-up on treatment complications are probable
+causes. The improvements in treatment for NPC and other head and neck cancer
+cases over the last decades are yet to be seen in this Inuit population.
+
+
+PMID: 20719105  [Indexed for MEDLINE]

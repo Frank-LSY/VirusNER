@@ -1,0 +1,32 @@
+
+
+1526. Cytogenet Genome Res. 2016;150(3-4):185-193. doi: 10.1159/000458166. Epub 2017
+Mar 1.
+
+Human Papillomavirus and the Development of Different Cancers.
+
+Gao G(1), Smith DI.
+
+Author information: 
+(1)Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN,
+USA.
+
+Human papillomaviruses (HPV) are responsible for the development of almost all
+cervical cancers. HPV is also found in 85% of anal cancer and in 50% of penile,
+vulvar, and vaginal cancers, and they are increasingly found in a subset of head 
+and neck cancers, i.e., oropharyngeal squamous cell carcinomas (OPSCC). The model
+for how HPV causes cancer is derived from several decades of study on cervical
+cancer, and it is just presumed that this model is not only completely valid for 
+cervical cancer but for all other HPV-driven cancers as well. Next-generation
+sequencing (NGS) has now provided the necessary tools to characterize genomic
+alterations in cancer cells and can precisely determine the physical status of
+HPV in those cells as well. We discuss recent discoveries from different
+applications of NGS in both cervical cancer and OPSCCs, including whole-genome
+sequencing and mate-pair NGS. We also discuss what NGS studies have revealed
+about the different ways that HPV can be involved in cancer formation,
+specifically comparing cervical cancer and OPSCC.
+
+© 2017 S. Karger AG, Basel.
+
+DOI: 10.1159/000458166 
+PMID: 28245440  [Indexed for MEDLINE]

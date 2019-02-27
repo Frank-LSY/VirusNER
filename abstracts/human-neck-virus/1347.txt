@@ -1,0 +1,54 @@
+
+
+1347. Oral Oncol. 2016 Sep;60:90-5. doi: 10.1016/j.oraloncology.2016.06.009. Epub 2016 
+Jul 17.
+
+Patient experience and anxiety during and after treatment for an HPV-related
+oropharyngeal cancer.
+
+D'Souza G(1), Zhang Y(1), Merritt S(2), Gold D(2), Robbins HA(1), Buckman V(1),
+Gerber J(1), Eisele DW(3), Ha P(4), Califano J(3), Fakhry C(5).
+
+Author information: 
+(1)Johns Hopkins Bloomberg School of Public Health, Department of Epidemiology,
+615 North Wolfe St, Baltimore, MD 21205, United States.
+(2)Greater Baltimore Medical Association, Department of Otolaryngology - Head and
+Neck Surgery, 6701 North Charles Street, Baltimore, MD 21204, United States.
+(3)Johns Hopkins University, Department of Otolaryngology - Head and Neck
+Surgery, 601 North Caroline St, Baltimore, MD 21287, United States.
+(4)Johns Hopkins University, Department of Otolaryngology - Head and Neck
+Surgery, 601 North Caroline St, Baltimore, MD 21287, United States; University of
+California San Francisco, Department of Otolaryngology - Head and Neck Surgery,
+2380 Sutter St, San Francisco, CA 94115, United States.
+(5)Johns Hopkins University, Department of Otolaryngology - Head and Neck
+Surgery, 601 North Caroline St, Baltimore, MD 21287, United States. Electronic
+address: cfakhry@jhmi.edu.
+
+OBJECTIVES: Diagnosis with an HPV-related oropharyngeal cancer includes unique
+social issues. However, it is unknown how common these psychosocial issues are
+for patients and whether they continue after treatment.
+MATERIALS AND METHODS: Patients with pathologically confirmed HPV-positive
+oropharyngeal cancer (HPV-OPC, n=48) were recruited from two medical centers.
+Participants completed a computer assisted self interview that explored their
+psychosocial experiences during and after treatment. We examined responses
+overall and by age.
+RESULTS: The majority of participants with confirmed HPV-OPC, reported being told
+that HPV could have (90%) or did cause (77%) their malignancy, but only 52%
+believed that HPV was the main cause of their OPC. Participants over 65years were
+less likely than younger participants to report that their doctors told them
+their tumor was HPV-positive (50% vs 84%, p=0.03). Anxiety that their tumor was
+HPV-related was a major issue among participants when first diagnosed (93%).
+However, only 17% still reported anxiety after treatment was complete. While many
+patients reported that providers discussed the emotional effects of diagnosis and
+treatment adequately (58%), almost half reported discussing these emotional
+effects inadequately (24%), or not at all (18%). Further, 18% reported that their
+families still wondered about some questions that they had never asked.
+CONCLUSION: After treatment, some HPV-OPC patients remain concerned about HPV and
+have unanswered questions about HPV. Older patients had lower awareness of the
+role of HPV in their cancer.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.06.009 
+PMCID: PMC5759043
+PMID: 27531878  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+1228. Int J Cancer. 2012 Sep 1;131(5):1124-30. doi: 10.1002/ijc.26490. Epub 2011 Nov
+28.
+
+Survival in patients with human papillomavirus positive tonsillar cancer in
+relation to treatment.
+
+Attner P(1), Näsman A, Du J, Hammarstedt L, Ramqvist T, Lindholm J, Munck-Wikland
+E, Dalianis T, Marklund L.
+
+Author information: 
+(1)Department of Oto-Rhino-Laryngology, Head and Neck Surgery, Karolinska
+University Hospital, Stockholm, Sweden. per.attner@karolinska.se
+
+Erratum in
+    Int J Cancer. 2012 Nov 1;131(9):E1183.
+
+The incidence of tonsillar cancer and the proportion of human papillomavirus
+(HPV) positive tonsillar cancer cases have increased in the last decades. In
+parallel, treatment for tonsillar cancer has been intensified e.g., by
+accelerated radiotherapy, and chemotherapy, resulting in more side effects.
+Patients with HPV-positive tonsillar cancer have better prognosis than those with
+HPV-negative tumors, and the former group could hypothetically benefit from
+reduced, less-toxic treatment without compromising survival. Here, we therefore
+evaluated possible differences in overall and disease-specific survival after
+different oncological treatments in 153 patients with HPV DNA- and P16-positive
+tonsillar cancer who were diagnosed and treated with intent to cure between 2000 
+and 2007, in Stockholm, Sweden. Of these patients, 86 were treated with
+conventional radiotherapy, 40 were treated with accelerated radiotherapy and 27
+were treated with chemoradiotherapy. There were no significant differences in
+overall or disease-free survival between the groups. However, there was a trend, 
+implying a beneficial effect of the intensified treatment, with chemoradiotherapy
+being better than radiotherapy despite that more patients had stage IV disease in
+the former group; and accelerated radiotherapy being better than conventional
+radiotherapy. This needs to be followed further in larger more homogenous groups 
+of patients. In conclusion, patients with HPV-positive tonsillar cancer treated
+with conventional- or accelerated radiotherapy or chemoradiotherapy disclosed
+similar survival rates. The trend for better survival and less metastasis after
+intensified treatment underlines the need for large prospective studies comparing
+less intense to more intense treatment (chemoradiotherapy).
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.26490 
+PMID: 22038860  [Indexed for MEDLINE]

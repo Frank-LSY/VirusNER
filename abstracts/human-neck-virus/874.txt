@@ -1,0 +1,27 @@
+
+
+874. Recent Results Cancer Res. 2017;206:197-205.
+
+The Role of Surgery in the Management of Recurrent Oropharyngeal Cancer.
+
+Gross ND(1), Hanna EY(2).
+
+Author information: 
+(1)Department Head and Neck Surgery, University of Texas MD Anderson Cancer
+Center, 1400 Pressler Street, Unit 1445, Houston, TX, 77030, USA.
+NGross@MDAnderson.org.
+(2)Department Head and Neck Surgery, University of Texas MD Anderson Cancer
+Center, 1400 Pressler Street, Unit 1445, Houston, TX, 77030, USA.
+
+The incidence of oropharyngeal squamous cell carcinoma (OPSCC) continues to rise 
+worldwide at a dramatic pace, buoyed by the predominance of human papilloma virus
+(HPV) driven disease (Panwar et al. 2014). While the outcomes of patients with
+HPV-positive OPSCC are dramatically improved compared to HPV-negative OPSCC,
+treatment failures do occur. The result is an inevitable rise in the incidence of
+recurrent OPSCC. Since the majority of incident OPSCC cases are treated with some
+form of radiation therapy (primary or adjuvant), surgery remains the backbone of 
+treatment for recurrent OPSCC. This section will focus on options for surgical
+management of recurrent OPSCC.
+
+DOI: 10.1007/978-3-319-43580-0_15 
+PMID: 27699540  [Indexed for MEDLINE]

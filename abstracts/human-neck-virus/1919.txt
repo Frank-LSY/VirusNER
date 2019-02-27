@@ -1,0 +1,50 @@
+
+
+1919. Int J Radiat Oncol Biol Phys. 2017 Nov 15;99(4):921-928. doi:
+10.1016/j.ijrobp.2017.06.002. Epub 2017 Jun 15.
+
+Computed Tomography Radiomics Predicts HPV Status and Local Tumor Control After
+Definitive Radiochemotherapy in Head and Neck Squamous Cell Carcinoma.
+
+Bogowicz M(1), Riesterer O(2), Ikenberg K(3), Stieb S(2), Moch H(3), Studer G(2),
+Guckenberger M(2), Tanadini-Lang S(2).
+
+Author information: 
+(1)Department of Radiation Oncology, University Hospital Zurich and University of
+Zurich, Zurich, Switzerland. Electronic address: marta.nesteruk@usz.ch.
+(2)Department of Radiation Oncology, University Hospital Zurich and University of
+Zurich, Zurich, Switzerland.
+(3)Department of Pathology and Molecular Pathology, University Hospital Zurich
+and University of Zurich, Zurich, Switzerland.
+
+PURPOSE: This study aimed to predict local tumor control (LC) after
+radiochemotherapy of head and neck squamous cell carcinoma (HNSCC) and human
+papillomavirus (HPV) status using computed tomography (CT) radiomics.
+METHODS AND MATERIALS: HNSCC patients treated with definitive radiochemotherapy
+were included in the retrospective study approved by the local ethical commission
+(93 and 56 patients in the training and validation cohorts, respectively). Three 
+hundred seventeen CT radiomic features, including those based on shape,
+intensity, texture, and wavelet transform, were calculated in the primary tumor
+region. Cox and logistic regression models were built to predict LC and HPV
+status, respectively. The best-performing features in the univariable analysis
+were included in the multivariable analysis after the exclusion of redundant
+features. The quality of the models was assessed using the concordance index (CI)
+for modeling of LC and receiver operating characteristics area under the curve
+(AUC) for HPV status prediction. The radiomics LC model was compared to a model
+incorporating clinical parameters (tumor stage, volume, and HPV status) and a
+mixed model.
+RESULTS: A radiomic signature comprising 3 features was significantly associated 
+with LC (CItraining = 0.75 and CIvalidation = 0.78), showing that tumors with a
+more heterogeneous CT density distribution are at risk for decreased LC. The
+addition of clinical parameters to the radiomics model slightly improved the
+model in the training cohort but not in the validation cohort. Another radiomic
+signature showed good performance in HPV status prediction (AUCtraining = 0.85
+and AUCvalidation = 0.78) and indicated that HPV-positive tumors have a more
+homogenous CT density distribution.
+CONCLUSIONS: Heterogeneity of HNSCC tumor density, quantified by CT radiomics, is
+associated with LC after radiochemotherapy and HPV status.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2017.06.002 
+PMID: 28807534  [Indexed for MEDLINE]

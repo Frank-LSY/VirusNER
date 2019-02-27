@@ -1,0 +1,54 @@
+
+
+1615. Otolaryngol Head Neck Surg. 2015 Nov;153(5):758-69. doi:
+10.1177/0194599815592157. Epub 2015 Jun 29.
+
+HPV-Positive Oropharyngeal Carcinoma: A Systematic Review of Treatment and
+Prognosis.
+
+Wang MB(1), Liu IY(2), Gornbein JA(3), Nguyen CT(4).
+
+Author information: 
+(1)Department of Head and Neck Surgery, David Geffen School of Medicine at the
+University of California, Los Angeles, Los Angeles, California, USA
+mbwang@ucla.edu.
+(2)Department of Head and Neck Surgery, David Geffen School of Medicine at the
+University of California, Los Angeles, Los Angeles, California, USA.
+(3)Statistical/Biomathematical Consulting Clinic, Department of Biomathematics,
+David Geffen School of Medicine at the University of California, Los Angeles, Los
+Angeles, California, USA.
+(4)Department of Head and Neck Surgery, David Geffen School of Medicine at the
+University of California, Los Angeles, Los Angeles, California, USA Anacapa
+Surgical Associates, Ventura, California, USA.
+
+OBJECTIVE: Human papillomavirus-positive (HPV+) head and neck squamous cell
+carcinoma is increasing in incidence and appears to exhibit improved response to 
+treatment and better survival than that of HPV- head and neck squamous cell
+carcinoma. The purpose of this systematic review was to examine the current
+literature regarding treatment and prognosis of HPV+ oropharyngeal squamous cell 
+carcinoma (OPSCC) and identify whether type of treatment (primarily surgery vs
+primarily radiation) significantly affects survival rates.
+DATA SOURCES: PubMed and Cochrane Library databases.
+REVIEW METHODS: A computerized search of the PubMed and Cochrane Library
+databases was performed to identify English-language articles published between
+January 1, 2000, and October 21, 2014. Studies were included only if they were
+prospective or retrospective observational series of OPSCC patients that reported
+HPV status, treatment regimen, and survival outcomes. Outcomes were determined
+for HPV+ and HPV- OPSCC patients, with subanalyses according to the type of
+treatment received.
+RESULTS: Fifty-six articles were eligible for this review. In the HPV+ analysis, 
+the unadjusted hazard rate ratio (HR) for surgery vs radiation treatment was 1.33
+(P = .114). Nine confounders were considered, and HRs were adjusted for each
+covariate. While HRs were almost all >1 for all covariates, none of the HRs was
+statistically significant at P < .05. The HR for HPV- OPSCC was higher for
+radiation than surgery.
+CONCLUSIONS: HPV+ OPSCC has an improved prognosis and lower rates of adverse
+events when compared with HPV- OPSCC. HPV- OPSCC had significantly worse outcomes
+when treated with primary radiation as compared with primary surgery. There was
+no statistically significant difference in HRs for HPV+ OPSCC with primary
+radiation vs primary surgery treatment.
+
+© American Academy of Otolaryngology—Head and Neck Surgery Foundation 2015.
+
+DOI: 10.1177/0194599815592157 
+PMID: 26124261  [Indexed for MEDLINE]

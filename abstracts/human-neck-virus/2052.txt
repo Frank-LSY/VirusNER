@@ -1,0 +1,39 @@
+
+
+2052. PLoS One. 2012;7(4):e35522. doi: 10.1371/journal.pone.0035522. Epub 2012 Apr 16.
+
+Association of combined p73 and p53 genetic variants with tumor HPV16-positive
+oropharyngeal cancer.
+
+Wang Z(1), Sturgis EM, Guo W, Song X, Zhang F, Xu L, Wei Q, Li G.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas, United States of America.
+
+p53 and p73 interact with human papillomavirus (HPV) E6 and E7 oncoproteins. The 
+interplay between p53 and p73 and HPV16 may lead to deregulation of cell cycle
+and apoptosis, through which inflammation/immune responses control the HPV
+clearance and escape of immune surveillance, and subsequently contribute to tumor
+HPV16 status. In this case-case comparison study, HPV16 status in tumor specimens
+was analyzed and p53 codon 72 and p73 G4C14-to-A4T14 polymorphisms were genotyped
+using genomic DNA from blood of 309 oropharyngeal cancer patients. Odds ratios
+(ORs) and 95% confidence intervals (95% CIs) were calculated in univariate and
+multivariable logistic regression models to examine the association. The results 
+from this study showed both p53 variant genotypes (Arg/Pro+Pro/Pro) and p73
+variant genotypes (GC/AT+AT/AT) were significantly associated with HPV16-positive
+tumor in oropharyngeal cancer patients (OR, 1.9, 95% CI, 1.1-3.3 and OR, 2.1, 95%
+CI, 1.2-3.8, respectively), while the combined variant genotypes (p53 Pro
+carriers and p73 AT carriers) exhibited a significantly greater association with 
+HPV16-positive tumor (OR, 3.2, 95% CI, 1.4-7.4), compared with combined wild-type
+genotypes (p53 Arg/Arg and p73 GC/GC), and the association was in a statistically
+significant dose-effect relationship (p = 0.001). Moreover, such association was 
+more pronounced among several subgroups. These findings suggest that variant
+genotypes of p53 and p73 genes may be individually, or more likely jointly,
+associated with tumor HPV16-positive oropharyngeal cancer patients, particularly 
+in never smokers. Identification of such susceptible biomarkers would greatly
+influence on individualized treatment for an improved prognosis.
+
+DOI: 10.1371/journal.pone.0035522 
+PMCID: PMC3327667
+PMID: 22523600  [Indexed for MEDLINE]

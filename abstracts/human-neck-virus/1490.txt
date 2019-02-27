@@ -1,0 +1,49 @@
+
+
+1490. Gene Ther. 2016 Jul;23(7):615-26. doi: 10.1038/gt.2016.38. Epub 2016 May 19.
+
+Optimized human CYP4B1 in combination with the alkylator prodrug 4-ipomeanol
+serves as a novel suicide gene system for adoptive T-cell therapies.
+
+Roellecke K(1), Virts EL(2), Einholz R(3), Edson KZ(4), Altvater B(5), Rossig
+C(5), von Laer D(6), Scheckenbach K(1), Wagenmann M(1), Reinhardt D(7), Kramm
+CM(8), Rettie AE(4), Wiek C(1), Hanenberg H(1)(7).
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head/Neck Surgery, Heinrich Heine
+University, Düsseldorf, Germany.
+(2)Department of Pediatrics, Indiana University School of Medicine, Indianapolis,
+IN, USA.
+(3)Institute for Organic Chemistry, University of Tübingen, Tübingen, Germany.
+(4)Department of Medicinal Chemistry, School of Pharmacy, University of
+Washington, Seattle, WA, USA.
+(5)Department of Pediatric Hematology and Oncology, University Children's
+Hospital Muenster, Muenster, Germany.
+(6)Institute for Virology, Innsbruck Medical University, Innsbruck, Austria.
+(7)Department of Pediatrics III, University Children's Hospital Essen, University
+Duisburg-Essen, Essen, Germany.
+(8)Division of Pediatric Hematology and Oncology, Department of Child and
+Adolescent Health, University Medical Center Göttingen, Göttingen, Germany.
+
+Engineering autologous or allogeneic T cells to express a suicide gene can
+control potential toxicity in adoptive T-cell therapies. We recently reported the
+development of a novel human suicide gene system that is based on an orphan human
+cytochrome P450 enzyme, CYP4B1, and the naturally occurring alkylator prodrug
+4-ipomeanol. The goal of this study was to systematically develop a clinically
+applicable self-inactivating lentiviral vector for efficient co-expression of
+CYP4B1 as an ER-located protein with two distinct types of cell surface proteins,
+either MACS selection genes for donor lymphocyte infusions after allogeneic stem 
+cell transplantation or chimeric antigen receptors for retargeting primary T
+cells. The U3 region of the myeloproliferative sarcoma virus in combination with 
+the T2A site was found to drive high-level expression of our CYP4B1 mutant with
+truncated CD34 or CD271 as MACS suitable selection markers. This lentiviral
+vector backbone was also well suited for co-expression of CYP4B1 with a
+codon-optimized CD19 chimeric antigen receptor (CAR) construct. Finally,
+4-ipomeanol efficiently induced apoptosis in primary T cells that co-express
+mutant CYP4B1 and the divergently located MACS selection and CAR genes. In
+conclusion, we here developed a clinically suited lentiviral vector that supports
+high-level co-expression of cell surface proteins with a potent novel human
+suicide gene.
+
+DOI: 10.1038/gt.2016.38 
+PMID: 27092941  [Indexed for MEDLINE]

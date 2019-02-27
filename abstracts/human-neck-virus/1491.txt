@@ -1,0 +1,45 @@
+
+
+1491. Am J Otolaryngol. 2011 Jan-Feb;32(1):8-12. doi: 10.1016/j.amjoto.2009.08.012.
+Epub 2009 Dec 22.
+
+Study of protective effect on rat cochlear spiral ganglion after blast exposure
+by adenovirus-mediated human β-nerve growth factor gene.
+
+Wu J(1), Liu B, Fan J, Zhu Q, Wu J.
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, Shanghai Changzheng
+Hospital, Second Military Medical University, Shanghai, China. jianwu2010@126.com
+
+OBJECTIVE: To study whether adenovirus-mediated human β-nerve growth factor
+(Ad-hNGFβ) gene has any protective effect on rat cochlear spiral ganglion after
+blast exposure.
+METHODS: Deafness was induced by blast exposure (172.0 dB) in 20 healthy rats.
+Seven days after blast exposure, Ad-hNGFβ was infused into the perilymphatic
+space of 10 animals as the hNGFβ/blast group, and artificial perilymph fluid
+(APF) was infused into the perilymphatic space of 10 animals as the APF/blast
+control group. An additional control group consisted of 10 healthy rats which
+received Ad-hNGFβ target gene with no blast exposure (hNGFβ/control group).
+Auditory functions were monitored by thresholds of auditory brain stem responses 
+(ABR). At weeks 1, 4, and 8 postoperatively, the animals were killed, and the
+cochleae were removed for immunohistochemical, hematoxylin and eosin staining
+study.
+RESULTS: The ABR threshold shifts in the hNGFβ/blast group were significantly
+smaller than that of APF/blast control group. There were no significant
+differences of the ABR values between before and after operation in the
+hNGFβ/control group. Expression of Ad-hNGFβ protein was detected in each turn of 
+the cochlea in the first week, with almost equal intensity in all turns. In the
+fourth week, the reactive intensity decreased. In the eighth week, no reaction
+was detectable. The results of hematoxylin and eosin stain showed that the number
+of spiral ganglions in the hNGFβ/blast group was significantly greater than that 
+of the APF/blast control group in the 4th week (P < .01).
+CONCLUSION: Adenovirus-mediated human β-nerve growth factor can be expressed at a
+high level and for a relatively long period in the blast impaired cochlea,
+suggesting that Ad-hNGFβ has a protective effect on rat cochlear spiral ganglion 
+cells after blast exposure.
+
+Crown Copyright © 2011. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2009.08.012 
+PMID: 20022668  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+911. J Oral Pathol Med. 2015 Jan;44(1):28-36. doi: 10.1111/jop.12221. Epub 2014 Jul
+18.
+
+Association between human papilloma virus/Epstein-Barr virus coinfection and oral
+carcinogenesis.
+
+Jiang R(1), Ekshyyan O, Moore-Medlin T, Rong X, Nathan S, Gu X, Abreo F,
+Rosenthal EL, Shi M, Guidry JT, Scott RS, Hutt-Fletcher LM, Nathan CA.
+
+Author information: 
+(1)Department of Microbiology and Immunology, LSUHSC, Shreveport, LA, USA;
+Department of Clinical Teaching and Training, Tianjin University of Traditional
+Chinese Medicine, Tianjin, China.
+
+BACKGROUND: The recent epidemic of head and neck squamous cell carcinomas
+associated with human papilloma virus (HPV) has not addressed its association
+with lymphoid tissue in the oropharynx or the potential role of Epstein-Barr
+virus (EBV)/HPV coinfection.
+METHODS: The prevalence of HPV and EBV infection/coinfection and CD21 mRNA
+expression were determined in normal and cancerous tissues from the oropharynx
+using in situ hybridization (ISH), p16, and quantitative reverse transcriptase
+PCR (qRT-PCR). The effects of coinfection on tumorigenicity were evaluated using 
+proliferation and invasion assays.
+RESULTS: Normal oropharynx, tonsil, non-cancer base of tongue (BOT), and BOT from
+sleep apnea patients demonstrated EBV positivity ranging from 7% to 36% depending
+on the site and methods of detection used (qRT-PCR or ISH). Among non-malignant
+BOT samples, HPV positivity was noted only in 20%. The percent of tonsil and BOT 
+cancers positive for HPV (up to 63% and 80%, respectively) or coinfected with
+HPV/EBV (up to 25% and 70%, respectively) were both significantly associated with
+cancer status. Notably, HPV/EBV coinfection was observed only in malignant tissue
+originating in lymphoid-rich oropharynx sites (tonsil, BOT). CD21 mRNA (the major
+EBV attachment receptor) was detected in tonsil and BOT epithelium, but not in
+soft-palate epithelium. Coinfected cell lines showed a significant increase in
+invasiveness (P < 0.01).
+CONCLUSIONS: There is a high prevalence of HPV/EBV infection and coinfection in
+BOT and tonsil cancers, possibly reflecting their origins in lymphoid-rich
+tissue. In vitro, cells modeling coinfection have an increased invasive
+potential.
+
+© 2014 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12221 
+PMCID: PMC4286485
+PMID: 25040496  [Indexed for MEDLINE]

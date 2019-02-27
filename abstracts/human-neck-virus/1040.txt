@@ -1,0 +1,44 @@
+
+
+1040. Cancer Causes Control. 2017 Jun;28(6):635-645. doi: 10.1007/s10552-017-0889-8.
+Epub 2017 Apr 8.
+
+Evolving disparities in the epidemiology of oral cavity and oropharyngeal
+cancers.
+
+Javadi P(1), Sharma A(1), Zahnd WE(2), Jenkins WD(3).
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Southern Illinois University
+School of Medicine, Springfield, USA.
+(2)Population Health Science Program, Southern Illinois University School of
+Medicine, 201 E. Madison St., Springfield, IL, 62794-9664, USA.
+(3)Population Health Science Program, Southern Illinois University School of
+Medicine, 201 E. Madison St., Springfield, IL, 62794-9664, USA.
+wjenkins@siumed.edu.
+
+Incidence rates of head and neck cancers (HNC) associated with human
+papillomavirus (HPVa) infection are increasing while non-HPV-associated
+(non-HPVa) HNC cancer rates are decreasing. As nearly all sexually active
+individuals will acquire an HPV infection, it is important to understand
+epidemiologic trends of HNCs associated with this sexually transmitted disease.
+We analyzed SEER 9 (1973-2012) and 18 data (2000-2012) for HPVa HNCs (oropharynx 
+area; OP) and non-HPVa (oral cavity area; OC). Incidence rates were examined by
+gender, race, rurality, geographic location, and time. Joinpoint regression
+analyses assessed temporal variations. From 1973 to 2012, OC incidence decreased 
+while OP increased, with changes largely driven by males (whose OP rate increased
+106.2% vs female decrease of 10.3%). Males consistently had higher rates of both 
+cancer groups across each registry except Alaska, OP rates among blacks changed
+from significantly above whites to below, and trend analysis indicated
+significant differences in rates over time by gender, race, and geography.
+Analysis of SEER 18 found that rates discordantly varied by group and gender
+across the 18 registries, as did the male/female rate ratio with overall means of
+4.7 for OP versus 1.7 for OC (only Alaska and Georgia having overlapping ranges).
+Our findings indicate that much of the HPVa rate increases were driven by rate
+increases among males and that there were changing differences in risk between
+genders, race, and geographic location. The epidemiology of HNCs is complex, with
+locally relevant factors requiring further research for elucidation of
+demographic disparities in incidence.
+
+DOI: 10.1007/s10552-017-0889-8 
+PMID: 28391376  [Indexed for MEDLINE]

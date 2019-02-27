@@ -1,0 +1,51 @@
+
+
+1540. Zhonghua Er Ke Za Zhi. 2015 Jun;53(6):459-63.
+
+[The etiological and clinical characteristics of hospitalized children with hand,
+foot and mouth disease in Beijing in 2013].
+
+[Article in Chinese]
+
+Gu H(1), Liu Z, Zhang L, Chen Y, Yang S, Zhang W, Li X(2).
+
+Author information: 
+(1)Department of Infectious Diseases, Beijing Ditan Hospital, Capital Medical
+University, Beijing 100015, China.
+(2)Email: ditanlxw@163.com.
+
+OBJECTIVE: To investigate the etiology of hand, foot and mouth disease (HFMD) in 
+Beijing during 2013, and study the clinical characteristics of HFMD caused by the
+main serotypes of enterovirus in the study.
+METHOD: Clinical data and 128 stool samples were collected from 128 hospitalized 
+children with HFMD in Beijing Ditan Hospital during 2013. One step RT-PCR method 
+was used for enterovirus genotyping to investigate the etiology of HFMD. Clinical
+characteristics of HFMD caused by the main serotypes of enterovirus were
+analyzed. And VP1 segments of the main virus were amplified to construct
+phylogenetic tree for the phylogenetic analysis.
+RESULT: A total of 128 hospitalized children with HFMD were included. HFMD was
+more likely developed in children under 2 years of age (81.6%, 102/125); 11
+different enteroviruses were genotyped, with a total enterovirus positive rate of
+76.6% (98/128); the positive rate of coxsackievirus A6 (CA6), 43.0% ( 55/128),
+was the highest, followed by enterovirus 71 (EV71), accounting for 14.8%
+(19/128). HFMD caused by CA6 was atypical, the rashes of which involved the
+perioral, trunk, limbs, face and neck (47%, 26/55), besides the common parts. Of 
+the 55 cases caused by CA6, 6 children had clinical manifestations of nervous
+system involvement, one of whom even displayed type 2 respiratory failure. Mental
+status change more likely to occur in EV71-infected children than in CA6-infected
+ones (42% (8/19) vs. 11% (6/55) (χ(2)=7.041, P=0.008)); 13 children displayed
+onychomadesis, including 12 CA6 cases (23%, 12/53) and 1 CA10 cases (17%, 1/6),
+in the convalescence of hand, foot and mouth disease, and the correlation between
+onychomadesis and CA6 infection was significant (χ(2)=9.297, P=0.002).
+Phylogenetic analysis of 33 CA6 VP1 showed that the CA6 isolates of this study
+were highly similar to that of Taiwan and the nucleotide similarity was
+95.91%-98.89%.
+CONCLUSION: CA6 was the major pathogen of hospitalized children with hand, foot
+and mouth disease in Beijing during 2013, followed by EV71. The rashes caused by 
+CA6 involved a wide range of skin sites and patients with CA6 infection displayed
+manifestations of neurological involvement or pulmonary edema similar to EV71
+infection. Mental status change more likely occurred in EV71-infected children
+when neurological system was involved..
+
+
+PMID: 26310558  [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+
+
+2516. Mol Med Rep. 2015 Oct;12(4):5619-24. doi: 10.3892/mmr.2015.4189. Epub 2015 Aug 6.
+
+Lentivirus‑delivered nemo‑like kinase small interfering RNA inhibits laryngeal
+cancer cell proliferation in vitro.
+
+Tai J(1), Rao Y(2), Fang J(3), Huang Z(3), Yu Z(3), Chen X(3), Zhou W(3), Xiao
+X(1), Long T(1), Han Y(1), Liu Q(1), Li A(4), Ni X(5).
+
+Author information: 
+(1)Beijing Key Laboratory for Pediatric Diseases of Otolaryngology, Head and Neck
+Surgery, Beijing Pediatric Research Institute, Beijing Children's Hospital,
+Capital Medical University, Beijing 100045, P.R. China.
+(2)Department of Otolaryngology Head and Neck Surgery, Beijing Anzhen Hospital,
+Capital Medical University, Beijing 100029, P.R. China.
+(3)Key Laboratory of Otolaryngology‑Head and Neck Surgery, Ministry of Education,
+Beijing Tongren Hospital, Capital Medical University, Beijing 100005, P.R. China.
+(4)Department of Center Laboratory, Cancer Institute and Hospital, Chinese
+Academy of Medical Sciences, Beijing 100021, P.R. China.
+(5)Department of Otolaryngology Head and Neck Surgery, Beijing Children's
+Hospital, Capital Medical University, Beijing 100045, P.R. China.
+
+Laryngeal squamous cell carcinoma is the most common form of head and neck
+squamous cell carcinoma. Multiple approaches have been applied to treat this type
+of cancer; however, no significant improvement in survival rate has been
+achieved. In the present study, the role of nemo‑like kinase (NLK) in human
+laryngeal carcinoma Hep‑2 cells was investigated. NLK has been identiﬁed as an
+important regulator of cell growth, patterning and cell death in a variety of
+organisms. Lentivirus‑mediated‑shRNA was employed to silence endogenous NLK
+expression. Downregulation of the expression of NLK following lentivirus
+infection was confirmed using reverse transcription quantitative polymerase chain
+reaction and western blot analysis. The effects of NLK downregulation on Hep‑2
+cell proliferation and cell cycle progression were analyzed using an MTT assay
+and flow cytometry, respectively. Downregulation of NLK also inhibited
+tumorigenesis and regulated the expression of cell cycle protein expression
+levels. Therefore, it was hypothesized that NLK is necessary for cell survival
+and tumorigenesis in laryngeal cancer cells. Furthermore, the absence of NLK may 
+lead to cancer cell death. Collectively, the results of the present study
+demonstrated that the lentivirus‑mediated targeted disruption of NLK may be a
+promising therapeutic method for the treatment of laryngeal cancer.
+
+DOI: 10.3892/mmr.2015.4189 
+PMCID: PMC4581764
+PMID: 26252054  [Indexed for MEDLINE]

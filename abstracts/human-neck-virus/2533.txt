@@ -1,0 +1,33 @@
+
+
+2533. Mol Ther. 2013 May;21(5):947-53. doi: 10.1038/mt.2013.49. Epub 2013 Mar 19.
+
+Adenoviral gene transfer corrects the ion transport defect in the sinus epithelia
+of a porcine CF model.
+
+Potash AE(1), Wallen TJ, Karp PH, Ernst S, Moninger TO, Gansemer ND, Stoltz DA,
+Zabner J, Chang EH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck surgery, Roy J. and Lucille A.
+Carver College of Medicine, University of Iowa, Iowa City, Iowa, USA.
+
+Cystic fibrosis (CF) pigs spontaneously develop sinus and lung disease resembling
+human CF. The CF pig presents a unique opportunity to use gene transfer to test
+hypotheses to further understand the pathogenesis of CF sinus disease. In this
+study, we investigated the ion transport defect in the CF sinus and found that CF
+porcine sinus epithelia lack cyclic AMP (cAMP)-stimulated anion transport. We
+asked whether we could restore CF transmembrane conductance regulator gene (CFTR)
+current in the porcine CF sinus epithelia by gene transfer. We quantified CFTR
+transduction using an adenovirus expressing CFTR and green fluorescent protein
+(GFP). We found that as little as 7% of transduced cells restored 6% of CFTR
+current with 17-28% of transduced cells increasing CFTR current to 50% of non-CF 
+levels. We also found that we could overcorrect cAMP-mediated current in non-CF
+epithelia. Our findings indicate that CF porcine sinus epithelia lack anion
+transport, and a relatively small number of cells expressing CFTR are required to
+rescue the ion transport phenotype. These studies support the use of the CF pig
+as a preclinical model for future gene therapy trials in CF sinusitis.
+
+DOI: 10.1038/mt.2013.49 
+PMCID: PMC3666638
+PMID: 23511247  [Indexed for MEDLINE]

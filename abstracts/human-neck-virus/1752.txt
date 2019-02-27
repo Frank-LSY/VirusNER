@@ -1,0 +1,91 @@
+
+
+1752. Int J Cancer. 2017 Aug 1;141(3):594-603. doi: 10.1002/ijc.30770. Epub 2017 May
+19.
+
+The PD-1/PD-L1 axis and human papilloma virus in patients with head and neck
+cancer after adjuvant chemoradiotherapy: A multicentre study of the German Cancer
+Consortium Radiation Oncology Group (DKTK-ROG).
+
+Balermpas P(1)(2), Rödel F(1)(2), Krause M(3)(4)(5)(6)(7), Linge A(3)(4)(5)(7),
+Lohaus F(3)(4)(5)(7), Baumann M(3)(4)(5)(6)(7), Tinhofer I(8)(9), Budach V(8)(9),
+Sak A(10)(11), Stuschke M(10)(11), Gkika E(12)(13), Grosu AL(12)(13), Abdollahi
+A(14)(15), Debus J(14)(15), Stangl S(16), Ganswindt U(16)(17), Belka C(16)(17),
+Pigorsch S(16)(18), Multhoff G(16)(18), Combs SE(16)(18), Welz S(19)(20), Zips
+D(19)(20), Lim SY(21), Rödel C(1)(2), Fokas E(1)(2); DKTK-ROG.
+
+Author information: 
+(1)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Frankfurt, Germany.
+(2)Department of Radiotherapy and Oncology, Goethe-University Frankfurt,
+Frankfurt, Germany.
+(3)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Dresden, Germany.
+(4)Department of Radiation Oncology, Faculty of Medicine and University Hospital 
+Carl Gustav Carus, Technische Universität Dresden, Dresden, Germany.
+(5)OncoRay-National Center for Radiation Research in Oncology, Faculty of
+Medicine and University Hospital Carl Gustav Carus, Technische Universität
+Dresden, Dresden, Germany.
+(6)Helmholtz-Zentrum Dresden-Rossendorf, Institute of Radiooncology, Dresden,
+Germany.
+(7)National Institute for Tumor Diseases (NCT), Partner Site Dresden, Dresden,
+Germany.
+(8)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Berlin, Germany.
+(9)Department of Radiooncology and Radiotherapy, Charité-University Hospital
+Berlin, Berlin, Germany.
+(10)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Essen, Germany.
+(11)Department of Radiotherapy, Medical Faculty, University of Duisburg-Essen,
+Essen, Germany.
+(12)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Freiburg, Germany.
+(13)Department of Radiation Oncology, Medical Center, Faculty of Medicine,
+University of Freiburg, Freiburg, Germany.
+(14)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Heidelberg, Germany.
+(15)Department of Radiation Oncology, Heidelberg Ion Therapy Center (HIT),
+Heidelberg Institute of Radiation Oncology (HIRO), National Center for Radiation 
+Research in Oncology (NCRO), University of Heidelberg Medical School and German
+Cancer Research Center (DKFZ), Heidelberg, Germany.
+(16)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Munich, Germany.
+(17)Department of Radiotherapy and Radiation Oncology,
+Ludwig-Maximilians-University, Munich, Germany.
+(18)Department of Radiation Oncology, Technical University Munich, , Munich,
+Germany.
+(19)German Cancer Research Center (DKFZ), Heidelberg, Germany and German Cancer
+Consortium (DKTK) partner sites, Tübingen, Germany.
+(20)Department of Radiation Oncology, Faculty of Medicine and University Hospital
+Tübingen, Eberhard Karls University Tübingen, Tübingen, Germany.
+(21)Department of Biomedical Sciences, Faculty of Medicine and Health Sciences,
+Macquarie University Sydney, Sydney, NSW, Australia.
+
+We examined the prognostic role of PD-1+ and CD8+ tumor infiltrating lymphocytes 
+(TILs), and PD-L1+ cells in patients with squamous cell carcinoma of the head and
+neck (SCCHN) treated with surgery and postoperative chemoradiotherapy (CRT). FFPE
+samples from 161 patients were immunohistochemically stained for PD-1, CD8 and
+PD-L1. The immune marker expression was correlated with clinicopathologic
+characteristics, and overall survival (OS), local progression-free survival
+(LPFS) and distant metastases free-survival (DMFS), also in the context of HPV16 
+DNA/p16 status. The median follow-up was 48 months (range: 4-100). The 2-year-OS 
+was 84.1% for the entire cohort. High PD-1 and PD-L1 expression were more common 
+in patients with positive HPV16 DNA (p < 0.001 and p = 0.008, respectively) and
+high infiltration by CD8+ TILs (p < 0.001 for both markers). High PD-L1
+expression correlated with superior OS (p = 0.025), LPFS (p = 0.047) and DMFS
+(p = 0.048) in multivariable analysis, whereas no significance could be
+demonstrated for PD-1. Patients with CD8high /PD-L1high expression had favorable 
+outcome (p < 0.001 for all endpoints) compared to other groups. We validated the 
+superior OS data on CD8high /PD-L1high using the Cancer Genome Atlas TCGA dataset
+(n = 518; p = 0.032). High PD-L1 expression was a favorable prognostic marker in 
+HPV16-negative but not HPV16-positive patients. In conclusion, HPV-positive
+tumors showed higher expression of immune markers. PD-L1 expression constitutes
+an independent prognostic marker in SCCHN patients post-adjuvant CRT. In
+conjunction with CD8 status, these data provide an important insight on the
+immune contexture of SCCHN and are directly relevant for future treatment
+stratification with PD-1/PD-L1 immune checkpoint inhibitors to complement CRT.
+
+© 2017 UICC.
+
+DOI: 10.1002/ijc.30770 
+PMID: 28480996  [Indexed for MEDLINE]

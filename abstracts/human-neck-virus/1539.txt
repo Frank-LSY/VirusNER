@@ -1,0 +1,36 @@
+
+
+1539. Neurology. 2012 Mar 6;78(10):736-42. doi: 10.1212/WNL.0b013e31824b94e9. Epub 2012
+Feb 22.
+
+Central nervous system involvement in dengue: a study in fatal cases from a
+dengue endemic area.
+
+Araújo FM(1), Araújo MS, Nogueira RM, Brilhante RS, Oliveira DN, Rocha MF,
+Cordeiro RA, Araújo RM, Sidrim JJ.
+
+Author information: 
+(1)Central Public Health Laboratory, Virology Section, State Health Secretariat
+of Ceará, Ceará, Brazil. fernanda.montenegro@lacen.ce.gov.br
+
+OBJECTIVE: This study aimed to determine the frequency of CNS infection by dengue
+virus (DENV) in individuals with fatal outcomes.
+METHODS: Samples of 150 individuals suspect of an infection disease and with
+fatal outcomes were investigated for evidence of the presence of DENV. The
+sampling was made up of 150 CSF, 120 tissue samples, and 109 blood specimens. The
+tests used were viral isolation, reverse transcriptase PCR, immunohistochemistry,
+nonstructural 1 antigen, and immunoglobulin M detection.
+RESULTS: Out of 150 studied patients, 84 were dengue positive. Evidence of the
+presence of DENV was found in 41 CSF, showing the following neurologic diagnosis:
+46.3% encephalitis, 34.1% meningoencephalitis, and 19.5% meningitis, giving a
+frequency of 48.8% of the 84 dengue-positive cases. The major clinical
+manifestations observed on these individuals were fever, headache, mental
+irritability, breathless, vomiting, muscle pain, tiredness, abdominal pain,
+somnolence, restlessness, dizziness, cough, seizure, coma, and neck stiffness.
+CONCLUSION: Clinical manifestations and laboratory-positive results in CSF that
+may indicate the presence of DENV led to consider the invasion of CNS by DENV in 
+these fatal cases studied, and showed that neurologic pathology was an important 
+fatal complication in dengue cases.
+
+DOI: 10.1212/WNL.0b013e31824b94e9 
+PMID: 22357720  [Indexed for MEDLINE]

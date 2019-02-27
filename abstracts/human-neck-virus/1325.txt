@@ -1,0 +1,51 @@
+
+
+1325. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2013 Sep;48(9):761-4.
+
+[Influence on cell proliferation by small interfering RNA of Cyclin Y expression 
+in laryngeal cancer cells].
+
+[Article in Chinese]
+
+Tai J(1), Li AD, Rao YS, Huang YB, Huang ZG, Yu ZK, Chen XH, Zhou WG, Xiao X,
+Wang S, Han Y, Liu QY, Fang JG(2), Ni X(3).
+
+Author information: 
+(1)Beijing Key Laboratory for Pediatric Otolaryngology, Head and Neck Science,
+Beijing Pediatric Research Institute,Beijing Children's Hospital, Capital Medical
+University, Beijing 100045, China.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, Beijing Tongren
+Hospital, Capital Medical University, Beijing 100029, China.
+Email:fangjugao@vip.sohu.com.
+(3)Beijing Key Laboratory for Pediatric Otolaryngology, Head and Neck Science,
+Beijing Pediatric Research Institute,Beijing Children's Hospital, Capital Medical
+University, Beijing 100045, China. Email:nixin@bch.com.cn.
+
+OBJECTIVE: The effects of lentivirus-mediated suppression of Cyclin Y (CCNY)
+expression on the proliferation of laryngeal cancer cells were investigated in
+vitro.
+METHODS: The lentivirus vectors containing a small hairpin RNA (shRNA) to target 
+CCNY were constructed.Hep-2 cells were divided into the following two
+experimental groups:the negative control group (control lentivirus infected
+cells) and CCNY knockdown group (CCNY shRNA-expressing lentivirus infected
+cells). After Hep-2 cells were infected, Real-time PCR was used to measure CCNY
+expression. The influence of CCNY on the proliferation of laryngeal cancer cells 
+were assessed using MTT and colony formation experiments.Each experiment was
+performed in triplicate and repeated three times.
+RESULTS: Lentiviruses expressing shRNA against CCNY were constructed and Hep-2
+cells were infected with above mentioned lentivirus at MOI (Multiplicity of
+infection) of 120.Real-time PCR analysis showed that the mRNA expression of CCNY 
+in Hep-2 cells in the knockdown group was significantly decreased (P < 0.05); the
+mRNA level of CCNY was 75.3% lower in the si-CCNY group than in the si-CTRL
+group. After 5 days of lentiviral infection, the cell viability was significantly
+lower in cells infected with the CCNY-shRNA lentivirus compared to cells infected
+with the control lentivirus following a 6-day incubation. The colony number was
+decreased by 60% in Hep-2 cells infected with the CCNY-shRNA-lentivirus infected 
+cells following a 10-day incubation.
+CONCLUSIONS: The results suggested that lentivirus-mediated downregulation of
+CCNY expression decreased the proliferation and growth potency of laryngeal
+cancer cells.Lentiviruses delivering shRNA against CCNY may be a promising tool
+for laryngeal cancer therapy.
+
+
+PMID: 24330880  [Indexed for MEDLINE]

@@ -1,0 +1,27 @@
+
+
+936. Recent Results Cancer Res. 2017;206:243-248.
+
+Cancer Immunology and HPV.
+
+Wollenberg B(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, University of Schleswig-Holstein Campus
+Lübeck, Ratzeburger Allee 160, 23538, Lübeck, Germany.
+Barbara.Wollenberg@uksh.de.
+
+HNSCC is a heterogeneous group of tumors located in the oral cavity, oropharynx, 
+hypopharynx and larynx. Originally, tobacco and alcohol exposures were the main
+risk factors for HNSCC. In the last two decades, HPV infections have been
+identified as a risk factor for HNSCC, especially for oropharyngeal tumors.
+Whereas the HPV-induced oropharyngeal carcinomas predominantly express the HPV16 
+related E6 and E7 oncoproteins, the HPV-negative HNSCC are associated with an
+overexpression of p53. However, if the therapy successes for HPV-negative and
+HPV-positive HNSCCs are compared, there are significantly higher total survival
+rates for HPV-positive oropharyngeal tumors compared to HPV-negative tumors. It
+is important to understand this phenomenon in order to improve and adapt therapy 
+concepts.
+
+DOI: 10.1007/978-3-319-43580-0_19 
+PMID: 27699544  [Indexed for MEDLINE]

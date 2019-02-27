@@ -1,0 +1,74 @@
+
+
+1715. Sci Transl Med. 2015 Jun 24;7(293):293ra104. doi: 10.1126/scitranslmed.aaa8507.
+
+Detection of somatic mutations and HPV in the saliva and plasma of patients with 
+head and neck squamous cell carcinomas.
+
+Wang Y(1), Springer S(1), Mulvey CL(2), Silliman N(1), Schaefer J(1), Sausen
+M(3), James N(1), Rettig EM(2), Guo T(2), Pickering CR(4), Bishop JA(5), Chung
+CH(6), Califano JA(7), Eisele DW(2), Fakhry C(7), Gourin CG(2), Ha PK(7), Kang
+H(6), Kiess A(8), Koch WM(2), Myers JN(4), Quon H(8), Richmon JD(2), Sidransky
+D(2), Tufano RP(2), Westra WH(5), Bettegowda C(9), Diaz LA Jr(1), Papadopoulos
+N(1), Kinzler KW(1), Vogelstein B(10), Agrawal N(11).
+
+Author information: 
+(1)Ludwig Center for Cancer Genetics and Therapeutics, Howard Hughes Medical
+Institute, and the Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins
+University School of Medicine, Baltimore, MD 21287, USA.
+(2)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, MD 21287, USA.
+(3)Ludwig Center for Cancer Genetics and Therapeutics, Howard Hughes Medical
+Institute, and the Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins
+University School of Medicine, Baltimore, MD 21287, USA. Personal Genome
+Diagnostics, Baltimore, MD 21224, USA.
+(4)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77230, USA.
+(5)Department of Pathology, Johns Hopkins University School of Medicine,
+Baltimore, MD 21287, USA.
+(6)Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns
+Hopkins University School of Medicine, Baltimore, MD 21287, USA.
+(7)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, MD 21287, USA. Milton J. Dance Head and Neck
+Center, Greater Baltimore Medical Center, Baltimore, MD 21204, USA.
+(8)Department of Radiation Oncology, Sidney Kimmel Comprehensive Cancer Center,
+Johns Hopkins University School of Medicine, Baltimore, MD 21287, USA.
+(9)Ludwig Center for Cancer Genetics and Therapeutics, Howard Hughes Medical
+Institute, and the Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins
+University School of Medicine, Baltimore, MD 21287, USA. Department of
+Neurosurgery, Johns Hopkins University School of Medicine, Baltimore, MD 21287,
+USA.
+(10)Ludwig Center for Cancer Genetics and Therapeutics, Howard Hughes Medical
+Institute, and the Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins
+University School of Medicine, Baltimore, MD 21287, USA. nagrawal@jhmi.edu
+vogelbe@jhmi.edu.
+(11)Ludwig Center for Cancer Genetics and Therapeutics, Howard Hughes Medical
+Institute, and the Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins
+University School of Medicine, Baltimore, MD 21287, USA. Department of
+Otolaryngology-Head and Neck Surgery, Johns Hopkins University School of
+Medicine, Baltimore, MD 21287, USA. nagrawal@jhmi.edu vogelbe@jhmi.edu.
+
+To explore the potential of tumor-specific DNA as a biomarker for head and neck
+squamous cell carcinomas (HNSCC), we queried DNA from saliva or plasma of 93
+HNSCC patients. We searched for somatic mutations or human papillomavirus genes, 
+collectively referred to as tumor DNA. When both plasma and saliva were tested,
+tumor DNA was detected in 96% of 47 patients. The fractions of patients with
+detectable tumor DNA in early- and late-stage disease were 100% (n = 10) and 95% 
+(n = 37), respectively. When segregated by site, tumor DNA was detected in 100%
+(n = 15), 91% (n = 22), 100% (n = 7), and 100% (n = 3) of patients with tumors of
+the oral cavity, oropharynx, larynx, and hypopharynx, respectively. In saliva,
+tumor DNA was found in 100% of patients with oral cavity cancers and in 47 to 70%
+of patients with cancers of the other sites. In plasma, tumor DNA was found in
+80% of patients with oral cavity cancers, and in 86 to 100% of patients with
+cancers of the other sites. Thus, saliva is preferentially enriched for tumor DNA
+from the oral cavity, whereas plasma is preferentially enriched for tumor DNA
+from the other sites. Tumor DNA in saliva was found postsurgically in three
+patients before clinical diagnosis of recurrence, but in none of the five
+patients without recurrence. Tumor DNA in the saliva and plasma appears to be a
+potentially valuable biomarker for detection of HNSCC.
+
+Copyright © 2015, American Association for the Advancement of Science.
+
+DOI: 10.1126/scitranslmed.aaa8507 
+PMCID: PMC4587492
+PMID: 26109104  [Indexed for MEDLINE]

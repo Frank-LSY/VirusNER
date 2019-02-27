@@ -1,0 +1,47 @@
+
+
+2858. Int J Cancer. 2018 Aug 1;143(3):610-620. doi: 10.1002/ijc.31336. Epub 2018 Mar 5.
+
+Spatiotemporal homogeneity and distinctness of the T-cell receptor β-chain
+repertoires in Epstein-Barr virus-associated primary and metastatic
+nasopharyngeal carcinomas.
+
+Chung YL(1), Wu ML(2).
+
+Author information: 
+(1)Department of Radiation Oncology, Koo Foundation Sun-Yat-Sen Cancer Center,
+Taipei, Taiwan.
+(2)Department of Pathology and Laboratory Medicine, Koo Foundation Sun-Yat-Sen
+Cancer Center, Taipei, Taiwan.
+
+Nasopharyngeal carcinoma (NPC) is an Epstein-Barr virus (EBV)-associated
+lymphoepithelioma. The aim of this study was to characterize the homogeneity and 
+distinctness of the T-cell repertoires within and between primary and metastatic 
+NPCs. We used ultra-deep sequencing of the hypervariably rearranged
+antigen-binding CDR3 regions of T-cell receptor beta (TCRbeta ) to
+comprehensively profile the T-cell repertoires in NPC patients receiving
+definitive chemoradiotherapy with long-term follow-up. We observed not only
+various spatially heterogeneous patient-specific TCRbeta clone compositions that 
+changed with time but also several commonly enriched TCRbeta subclones that were 
+constantly shared between primary NPCs in the head and neck regions, locally
+recurrent tumors after treatment and later-developed distant metastatic tumors in
+the liver, lung and bone. Comparison of the overlap frequency of the T-cell
+clonality between TCRbeta repertoires enabled us to calculate the pairwise
+genetic distance between primary NPCs of different patients and different sites
+of metastatic or recurrent NPCs. The constructed NPC phylogeny clearly
+differentiated the low-risk patients without relapse from the high-risk patients 
+with distant metastasis after chemoradiotherapy. In contrast to the rather low
+frequency of nonsilent somatic mutations in NPC cells, the degrees of similarity 
+and divergence of NPC-infiltrating lymphocyte TCRbeta repertoires among different
+patients showed prognostication. Moreover, the persistent presence of commonly
+NPC-shared in-frame TCRbeta CDR3 gene sequences spatiotemporally identified in
+the NPC-infiltrating lymphocytes within varied EBV-positive NPCs and their
+metastases suggest the existence of frequently shared epitopes of neoantigens
+virally or nonvirally displayed on cancer cells, thereby providing opportunities 
+for the development of precisely tumor-targeted immunotherapy for distant
+metastasis.
+
+© 2018 UICC.
+
+DOI: 10.1002/ijc.31336 
+PMID: 29468660  [Indexed for MEDLINE]

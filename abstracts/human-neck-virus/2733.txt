@@ -1,0 +1,47 @@
+
+
+2733. Klin Onkol. 2014;27(4):239-46.
+
+[Anticipated efficacy of HPV vaccination in prophylaxis against nongenital
+cancers].
+
+[Article in Czech]
+
+Sehnal B, Vojáčková N, Driák D, Kmoníčková E, Vaňousová D, Maxová K, Neumannová
+H, Sláma J.
+
+BACKGROUND: There is a considerable number of studies on the efficacy HPV (human 
+papillomavirus) vaccination against different cancers but relevant information is
+scattered in diverse journals. This paper is a review summarizing current
+knowledge of the potential of HPV vaccination against all HPV related cancers.
+AIM: HPV infection is probably the most frequent sexually transmitted disease. At
+least 13 HPV genotypes are classified as carcinogenic or probably carcinogenic in
+respect to cervical cancer. Almost 100% of cervical cancers are linked to HPV
+infection. HPV 16 and HPV 18 are the most frequently involved genotypes and
+account together for approximately 70% of cervical cancer in the world.
+Persistent high risk HPV infection is responsible for a significant proportion of
+vulvar, vaginal, anal and penile carcinomas. The virus has also been implicated
+in oncogenesis of head and neck cancers, including oropharyngeal cancers. HPV
+infection can play an important role in cancerogenesis of lung, esophagus,
+breast, and colon and rectum. On the contrary, published results indicate that
+HPV infection is not associated with prostate oncogenesis. Strong predominance of
+HPV 16 has been reported for all HPV associated cancer sites. Generally, it is
+estimated that approximately 5.2% of all cancers are associated with oncogenic
+HPV infection. Currently, there are two vaccines on the market; quadrivalent
+Silgard® (Gardasil®) and bivalent CervarixTM. Large trials for both vaccines have
+shown efficacy against HPV related infection and disease. Efficacy has been very 
+high in HPV naive subjects to vaccine related types. While HPV vaccination is
+currently approved for the prevention of cervical cancer, it also has the
+potential in the prevention of all HPV associated malignancies. The Czech
+republic belongs to countries that cover HPV vaccination of girls at the age of
+13- 14 years by general health insurance. Overall impact of this vaccination
+remains to be evaluated. The new issues of the role of HPV in oncogenesis, as
+well as the potential effect of HPV vaccination against HPV related nongenital
+cancers are discussed.
+CONCLUSION: Approximately 5.2% of all human cancers are associated with oncogenic
+human papillomavirus infection. HPV vaccination against the most risky HPV
+oncotypes may cause a significant reduction of these cancers mainly in the HPV
+naive population.
+
+
+PMID: 25115712  [Indexed for MEDLINE]

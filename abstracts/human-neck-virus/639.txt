@@ -1,0 +1,53 @@
+
+
+639. Am J Otolaryngol. 2017 Mar - Apr;38(2):188-192. doi:
+10.1016/j.amjoto.2017.01.005. Epub 2017 Jan 18.
+
+Treatment outcomes in veterans with HPV-positive head and neck cancer.
+
+Feinstein AJ(1), Shay SG(1), Chang E(2), Lewis MS(2), Wang MB(3).
+
+Author information: 
+(1)Department of Head and Neck Surgery, David Geffen School of Medicine at UCLA, 
+Los Angeles, CA, United States; Department of Surgery, Veterans Affairs Greater
+Los Angeles Healthcare System, Los Angeles, CA, United States.
+(2)Department of Pathology, Veterans Affairs Greater Los Angeles Healthcare
+System, Los Angeles, CA, United States.
+(3)Department of Head and Neck Surgery, David Geffen School of Medicine at UCLA, 
+Los Angeles, CA, United States; Department of Surgery, Veterans Affairs Greater
+Los Angeles Healthcare System, Los Angeles, CA, United States. Electronic
+address: mbwang@ucla.edu.
+
+OBJECTIVES: Head and neck squamous cell carcinoma (HNSCC) caused by the human
+papilloma virus (HPV) has an improved prognosis relative to HPV-negative tumors. 
+Patients with HPV-positive disease may benefit from different treatment
+modalities in order to optimize survival and quality of life. We sought to
+investigate HPV-positive HNSCC within the military veteran population, and
+analyze the role of treatment modality in outcomes of patients with HPV-positive 
+and HPV-negative tumors.
+METHODS: Patients diagnosed with HNSCC between January 1, 2010 and December 31,
+2014 at one regional veterans health center were retrospectively examined.
+Pathologic specimens underwent testing for HPV subtype and p16 expression.
+Demographic and clinical factors, including treatment modality, were analyzed for
+their impact on the primary outcome of overall survival.
+RESULTS: There were 209 patients with primary tumor sites including larynx
+(25.4%), oral tongue (19.6%), oral cavity (13.4%), oropharynx (17.2%), tonsil
+(17.2%), unknown primary (2.9%), nasopharynx (1.9%), and multiple sites (2.4%).
+Patients had HPV-positive (n=82, 39.2%), HPV-negative (n=89, 42.6%) or unknown
+HPV status (n=38, 18.2%). Primary treatment modalities were chemoradiation
+(n=124, 59.3%), surgery (n=39, 18.7%), radiation therapy (n=37, 17.7%), or no
+treatment (n=9, 4.3%). Survival analysis with Cox proportional hazards model
+demonstrated significant associations with T classification (T4 3.61, P=0.005), N
+classification (N3 3.52, P=0.0159), M classification (M1 2.8, P=0.0209), and HPV 
+status (HPV-positive 0.43, P=0.0185), but no relation with primary treatment
+modality (primary surgery vs. primary chemoradiation 1.01, P=0.9718).
+CONCLUSION: HPV-positive HNSCC in the veteran population has a significantly
+improved prognosis relative to similarly staged patients with HPV-negative
+disease. This study demonstrates that the primary treatment modality -
+chemoradiation, radiation therapy, or surgery - does not impact overall survival 
+among veterans with HPV-positive HNSCC.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.amjoto.2017.01.005 
+PMID: 28342482  [Indexed for MEDLINE]

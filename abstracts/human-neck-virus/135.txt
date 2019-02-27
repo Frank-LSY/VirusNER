@@ -1,0 +1,39 @@
+
+
+135. Cancer Gene Ther. 2015 Apr;22(3):163-8. doi: 10.1038/cgt.2015.3. Epub 2015 Feb 6.
+
+Ultrasound as a method to enhance antitumor ability of oncolytic herpes simplex
+virus for head and neck cancer.
+
+Okunaga S(1), Takasu A(1), Meshii N(2), Imai T(1), Hamada M(1), Iwai S(1), Yura
+Y(1).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery II, Osaka University Graduate
+School of Dentistry, Suita, Osaka, Japan.
+(2)Department of Dental and Oral Surgery, Izumisano Municipal Hospital,
+Izumisano, Osaka, Japan.
+
+Low-intensity ultrasound is a useful method to enhance the delivery of drugs to
+target cells via a range of mechanisms including the transient formation of
+micropores in the cell membrane, a process known as sonoporation. The effect of
+ultrasound on oncolytic herpes simplex virus type-1 (HSV-1) infection in oral
+squamous cell carcinoma (SCC) was examined. Human SCC cell line SAS and oncolytic
+HSV-1 RH2, which was deficient in the neurovirulent γ134.5 gene and exhibited
+cell fusion actions, were used. Cells grown in multi-well plates were infected
+with HSV-1 and exposed to ultrasound in the presence or absence of microbubbles
+after an adsorption period. The number of plaques was significantly greater than 
+that of the untreated control. SAS cells were inoculated subcutaneously into nude
+mice and tumors were produced. Tumors were injected with HSV-1 RH2 with or
+without microbubbles and then exposed to ultrasound through the covering skin.
+The amount of the virus in tumor tissues 3 days after the injection was higher in
+tumors treated with HSV-1 RH2 and ultrasound than in tumors treated with RH2
+only. The expression of the HSV-1 antigen was also increased by ultrasound and
+microbubbles. Tumor growth was suppressed with HSV-1 RH2 in combination with
+ultrasound, especially with microbubbles. These results indicated that ultrasound
+increased the efficiency of the HSV-1 infection in SAS cells and nude mouse
+tumors. This method can potentially be useful to enhance the antitumor effects of
+oncolytic HSV-1 on head and neck cancer treatment.
+
+DOI: 10.1038/cgt.2015.3 
+PMID: 25656776  [Indexed for MEDLINE]

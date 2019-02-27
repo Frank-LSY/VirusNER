@@ -1,0 +1,45 @@
+
+
+1418. Head Neck. 2015 Jul;37(7):1002-13. doi: 10.1002/hed.23697. Epub 2014 Jul 12.
+
+Staging and treatment of oropharyngeal cancer in the human papillomavirus era.
+
+Ward MJ(1), Mellows T(1), Harris S(2), Webb A(3), Patel NN(4), Cox HJ(5), Piper
+K(6), Ottensmeier CH(1)(7), Thomas GJ(1)(7), King EV(1)(5)(7).
+
+Author information: 
+(1)Cancer Sciences Unit, University of Southampton, United Kingdom.
+(2)Department of Medical Statistics, University of Southampton, United Kingdom.
+(3)Department of Oral and Maxillofacial Surgery, University Hospital Southampton 
+NHS Foundation Trust, United Kingdom.
+(4)Department of Otolaryngology - Head and Neck Surgery, University Hospital
+Southampton NHS Foundation Trust, United Kingdom.
+(5)Department of Otolaryngology - Head and Neck Surgery, Poole NHS Foundation
+Trust, United Kingdom.
+(6)Department of Cellular Pathology, Bart's and The London School of Medicine and
+Dentistry, United Kingdom.
+(7)NIHR Experimental Cancer Medicine Centre Southampton, United Kingdom.
+
+BACKGROUND: Oropharyngeal squamous cell carcinoma (SCC) is staged using the TNM
+system. Human papillomavirus (HPV)-positive tumors have improved prognosis,
+despite presenting at advanced stage. Optimal treatment and stratification of
+HPV-positive patients are not clearly defined.
+METHODS: We retrospectively analyzed 266 patients with oropharyngeal SCC for
+mortality and feeding tube dependency related to TNM stage, HPV status, and
+treatment.
+RESULTS: TNM staging was prognostic in HPV-negative patients (stage III/IV hazard
+ratio [HR], 2.00; p = .05; N(+) HR, 2.19; p = .02). Only T classification was
+prognostic in HPV-positive tumors (T3/T4 HR 3.31; p = .006). HPV-positive tumors 
+showed improved survival regardless of treatment. Patients receiving chemotherapy
+had a significantly increased risk of feeding tube dependency (odds ratio [OR],
+1.72; p = .03).
+CONCLUSION: These data suggest that the current TNM system has little prognostic 
+value in HPV-positive oropharyngeal SCC. Patients with HPV-positive tumors show
+improved survival independent of treatment. The addition of chemotherapy
+increases the risk of feeding tube dependency and could potentially be avoided in
+T1/T2 HPV-positive tumors without compromising survival.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23697 
+PMID: 24753272  [Indexed for MEDLINE]

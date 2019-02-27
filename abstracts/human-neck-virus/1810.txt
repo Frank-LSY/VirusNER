@@ -1,0 +1,46 @@
+
+Conflict of interest statement: Authors’ disclosures of potential conflicts of
+interest are found in the article online at www.jco.org. Author contributions are
+found at the end of this article.
+
+
+1810. Cancer Causes Control. 2012 Aug;23(8):1317-22. doi: 10.1007/s10552-012-0009-8.
+Epub 2012 Jun 19.
+
+Allergies and risk of head and neck cancer.
+
+Michaud DS(1), Langevin SM, Eliot M, Nelson HH, McClean MD, Christensen BC,
+Marsit CJ, Kelsey KT.
+
+Author information: 
+(1)Department of Epidemiology, Division of Biology and Medicine, Brown
+University, Providence, RI, USA. dominique_michaud@brown.edu
+
+BACKGROUND: Individuals with allergies have a heightened Th2 (T helper 2)
+immunity, which may provide advantages in controlling tumor growth. Inverse
+associations have been reported among individuals with allergies and risk of
+brain and pancreatic cancers.
+METHODS: We examined the relationship between allergies and risk of head and neck
+squamous cell carcinoma (HNSCC) in a population-based case-control study with
+1,014 cases and 1,193 frequency-matched controls. Logistic regression models were
+used to estimate odds ratios (OR) and 95 % confidence intervals (95 % CI)
+controlling for age, sex, race, smoking history, alcohol consumption, and
+education. In addition, in a subset of the population, models were adjusted for
+HPV16 status.
+RESULTS: Individuals with allergies had a 19 % lower risk of HNSCC (OR = 0.81,
+95 % CI = 0.67-0.98). Associations with allergies were stronger for laryngeal
+(OR = 0.66, 95 % CI = 0.45-0.97) and oropharyngeal (OR = 0.73, 95 %
+CI = 0.57-0.92) cancers, while no association was observed for oral cavity
+cancers (OR = 0.98, 95 % CI = 0.76-1.26). History of asthma was not associated
+with overall HNSCC, but the association was statistically significant for
+oropharyngeal cancer (OR = 0.67, 95 % CI = 0.44-0.99). HPV16 status did not
+confound or modify the associations with allergies.
+CONCLUSIONS: Elevated Th2 immunity in individuals with history of allergies and
+asthma may reduce the risk of HNSCC. Additional research into related mechanisms 
+may provide new insights into how to treat HNSCC.
+IMPACT: These findings may provide new insight into biological pathways that
+could lead to a better understanding of the etiology of this disease.
+
+DOI: 10.1007/s10552-012-0009-8 
+PMCID: PMC3598569
+PMID: 22710748  [Indexed for MEDLINE]

@@ -1,0 +1,52 @@
+
+
+2969. Oncol Rep. 2016 Jan;35(1):99-106. doi: 10.3892/or.2015.4340. Epub 2015 Oct 20.
+
+Effects of HPV-16 infection on hypopharyngeal squamous cell carcinoma and FaDu
+cells.
+
+Lu W(1), Feng L(2), Li P(3), Wang Y(4), Du Y(4), Chen X(4), Wu S(3), Zhao G(4),
+Lou W(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, The First Affiliated
+Hospital, Zhengzhou University, Zhengzhou, Henan 450052, P.R. China.
+(2)Department of Pathogenic Organism Biology, Henan University of TCM, Zhengzhou,
+Henan 450008, P.R. China.
+(3)Department of Respiratory Medicine, The First Affiliated Hospital of Zhengzhou
+University, Zhengzhou, Henan 450052, P.R. China.
+(4)College of Basic Medical Sciences, Zhengzhou University, Zhengzhou, Henan
+450001, P.R. China.
+
+Hypopharyngeal squamous cell carcinoma is a common type of malignant tumor among 
+head and neck squamous cell carcinomas (HNSCCs). Heavy smoking and/or drinking is
+associated with the development of HNSCC. However, HNSCC also occurs in
+individuals that do not drink or smoke, possibly due to infection with the human 
+papilloma virus (HPV). HPV-16 has been shown to be closely associated with the
+occurrence of several types of cancers. However, its role in hypopharyngeal
+squamous cell carcinoma remains unclear. In the present study, we investigated
+the effects of HPV-16 on hypopharyngeal squamous cell carcinoma and FaDu cells.
+Lentiviral vectors were used to establish FaDu cells that expressed the E6 and E7
+proteins of HPV-16. We used quantitative reverse transcription-polymerase chain
+reaction (qRT-PCR) assays and western blotting to detect and determine the levels
+of expression for E6-E7 mRNAs and proteins. Cell Counting Kit-8 (CCK-8) assays,
+enzyme-linked immunosorbent assays (ELISA), Transwell assays, and flow cytometry 
+were used to assess the effects of HPV-16 E6-E7 on the proliferation, invasion,
+metastasis and apoptosis of FaDu cells. Expression of microRNAs was analyzed by
+qRT-PCR. We found that the expression levels of HPV-16 E6-E7 were increased in
+FaDu cells transfected with the lentiviral vector compared with that observed in 
+the control cells. In addition, the rates of apoptosis were decreased in the
+transfected cells, while proliferation was increased. The average numbers of
+cells penetrating the Matrigel were significantly higher than those for the
+controls. We detected miR-363 and miR-15a, and their expression levels were
+significantly increased in the HPV-16-positive patients and in FaDu cells
+expressing HPV-16 E6-E7. We found that HPV-16 E6-E7 appeared to inhibit
+apoptosis, and to increase cell proliferation, invasion and metastasis.
+Furthermore, miR-363 and miR-15a were overexpressed in the hypopharyngeal
+squamous cell carcinoma samples infected with HPV-16, and in FaDu cells stably
+expressing HPV-16 E6-E7. These findings may provide a new clue of the mechanisms 
+involved in the pathogenesis of HPV-16-positive hypopharyngeal squamous cell
+carcinoma.
+
+DOI: 10.3892/or.2015.4340 
+PMID: 26497405  [Indexed for MEDLINE]

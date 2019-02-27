@@ -1,0 +1,42 @@
+
+
+100. Medicine (Baltimore). 2018 Dec;97(51):e13777. doi: 10.1097/MD.0000000000013777.
+
+Human cytomegalovirus and Epstein-Barr virus infections increase the risk of
+death in patients with head and neck cancers receiving radiotherapy or
+radiochemotherapy.
+
+Kiprian D(1), Czarkowska-Paczek B(2), Wyczalkowska-Tomasik A(3), Paczek L(3)(4).
+
+Author information: 
+(1)Department of Head and Neck Cancer, Maria Sklodowska-Curie Memorial Cancer
+Center and Institute of Oncology.
+(2)Department of Clinical Nursing, Medical University of Warsaw.
+(3)Department of Immunology, Transplantology, and Internal Diseases, Medical
+University of Warsaw.
+(4)Department of Bioinformatics, Institute of Biochemistry and Biophysics, Polish
+Academy of Sciences, Warsaw, Poland.
+
+Viral infections, including cytomegalovirus (CMV) and Epstein-Barr virus (EBV),
+play an important role in carcinogenesis and can influence patients' prognosis
+and condition during cancer treatment.The goal of this study was to investigate
+CMV and EBV infections in patients receiving radiotherapy or radiochemotherapy
+due to head and neck cancers to determine the influence of these infections on
+the risk of death. The observation period was 2 years.Of 41 patients enrolled, 11
+received radiotherapy (simultaneous-integrated boost intensity-modulated
+radiation therapy [SIB-IMRT], 2.25 Gy/fraction, 30 fractions, [n = 7] or IMRT,
+2 Gy per fraction, 35 fractions, [n = 4]) and 30 received radiochemotherapy
+(cisplatin 100 mg/m and SIB-IMRT [n = 13] or IMRT [n = 17]). Plasma CMV and EBV
+DNA levels were assessed using real-time PCR before or during treatment or 4
+weeks posttreatment.The risk of death in the group positive for plasma CMV or EBV
+deoxyribonucleic acid (DNA) was significantly higher compared to the group
+without detectable plasma CMV (odd ratio [OR]: 7.5, 95% confidence interval [CI]:
+1.11-50.67) or EBV DNA (OR: 10.91, 95% CI: 1.135-104.8). Results were confirmed
+using the Bayesian method. Plasma positivity for CMV or EBV DNA was associated
+with a higher risk of death (both P = .04).Viral infections negatively affect the
+survival of patients with head and neck cancers. Diagnosing and treating these
+viral infections in patients with positive results should be considered.
+
+DOI: 10.1097/MD.0000000000013777 
+PMCID: PMC6319793
+PMID: 30572533  [Indexed for MEDLINE]

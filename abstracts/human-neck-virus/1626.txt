@@ -1,0 +1,43 @@
+
+
+1626. Laryngoscope. 2018 Apr;128(4):926-928. doi: 10.1002/lary.27018. Epub 2017 Nov 24.
+
+Investigation of the presence of HPV on KTP laser fibers following KTP laser
+treatment of papilloma.
+
+Dodhia S(1), Baxter PC(2), Ye F(3), Pitman MJ(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, The Voice and Swallowing
+Institute, Columbia University Medical Center, New York Presbyterian Hospital,
+New York, New York.
+(2)Department of Otolaryngology-Head and Neck Surgery, Kaiser Permanente, Los
+Angeles, California, U.S.A.
+(3)Department of Pathology, Mount Sinai Health System, New York, New York.
+
+OBJECTIVES: Recurrent respiratory papillomatosis is often treated with in-office 
+laser procedures using a potassium titanyl phosphate (KTP) laser transmitted
+through a laser fiber. Although effective, this procedure has notable downsides, 
+including the possibility of transmitting human papillomavirus (HPV) in the smoke
+plume and the high cost of these single-use fibers. The objective of this study
+is to determine if HPV can be detected on a laser fiber after use, with or
+without sterilization.
+METHODS: Twelve patients with laryngeal papillomas were treated with KTP laser
+energy transmitted via a KTP fiber. Ten fibers were sterilized in CIDEX (ASP,
+Irvine, California), a glutaraldehyde disinfectant, for 12 minutes, whereas two
+fibers were left unsterilized. Human papillomavirus DNA amplification was done on
+all 12 fiber samples with real-time polymerase chain reaction (PCR) using general
+primer mediated 5+ and 6+. Human papillomavirus genotyping detection was done
+using type specific probes and/or Sanger sequencing.
+RESULTS: Over 27 strains of HPV were not detected on KTP fibers after use, with
+or without sterilization.
+CONCLUSION: Human papillomavirus was undetectable by PCR on KTP laser fibers that
+were sterilized or unsterilized after use. Further studies are needed utilizing a
+transmission model to determine if HPV can be incubated from this fiber after
+sterilization.
+LEVEL OF EVIDENCE: NA. Laryngoscope, 128:926-928, 2018.
+
+© 2017 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.27018 
+PMID: 29171656  [Indexed for MEDLINE]

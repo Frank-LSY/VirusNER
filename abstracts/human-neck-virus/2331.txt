@@ -1,0 +1,37 @@
+
+
+2331. Curr Opin Oncol. 2010 May;22(3):212-20. doi: 10.1097/CCO.0b013e328338001f.
+
+Molecular targeted therapies in all histologies of head and neck cancers: an
+update.
+
+Razak AR(1), Siu LL, Le Tourneau C.
+
+Author information: 
+(1)Drug Development Program, Princess Margaret Hospital, Toronto, Ontario,
+Canada.
+
+PURPOSE OF REVIEW: This article reviewed the recent developments in molecular
+targeted therapy in head and neck cancers. A brief summary of other pathways of
+interest is also enclosed.
+RECENT FINDINGS: The use of cetuximab in squamous cell head and neck cancer is
+associated with clinical benefit and, in some cases, survival. However, the use
+of targeted agents beyond cetuximab in this disease remains investigational.
+Combination therapy of molecular targeted agents with chemoradiation in the
+locally advanced setting of head and neck squamous cell carcinomas and
+nasopharyngeal cancer shows early promising results, but at the expense of
+increased toxicity. In malignant salivary gland tumors, the evaluation of
+targeted therapy has been disappointing. New therapeutic targets warrant further 
+evaluation in these cancers.
+SUMMARY: Despite the encouraging results achieved with antiepidermal growth
+factor receptor therapy, particularly with cetuximab, targeted therapy trials
+conducted in head and neck cancers to date have largely lacked efficacy or are
+associated with significant toxicity. Further research into modulation of other
+aberrant pathways is needed. The recent identification of improved prognosis
+among head and neck squamous cell carcinoma patients whose tumors harbor the
+human papilloma virus may allow better treatment selection for these patients,
+while the identification of a hallmark gene fusion transcript in adenocystic
+carcinoma may herald new treatment promise.
+
+DOI: 10.1097/CCO.0b013e328338001f 
+PMID: 20173639  [Indexed for MEDLINE]

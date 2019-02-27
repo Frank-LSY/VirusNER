@@ -1,0 +1,35 @@
+
+
+1580. Head Neck. 2015 Nov;37(11):1603-11. doi: 10.1002/hed.23800. Epub 2014 Aug 26.
+
+Management of human papillomavirus-related unknown primaries of the head and neck
+with a transoral surgical approach.
+
+Graboyes EM(1), Sinha P(1), Thorstad WL(2), Rich JT(1), Haughey BH(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Washington University in
+St. Louis, St. Louis, Missouri.
+(2)Department of Radiation Oncology, Washington University in St. Louis, St.
+Louis, Missouri.
+
+BACKGROUND: Amidst a rising incidence of p16-positive (p16+) oropharyngeal
+cancer, a significant number of cases present as regionally metastatic disease
+with an "unknown" primary. Preliminary data support transoral surgery as an
+effective method of primary detection/treatment.
+METHODS: An observational cohort study of 65 p16+ unknown primary patients
+treated with transoral surgery and neck dissection (2001-2012) was performed.
+Adjuvant therapy and recurrence data were collected. Kaplan-Meier estimates were 
+computed for disease-specific survival (DSS) and overall survival (OS).
+RESULTS: The primary detection rate was 89% (58 of 65). Five-year DSS and OS were
+98% and 97% for the detected group and 100% for the undetected, respectively.
+Seventeen patients were treated with surgery alone. Of the 47 patients receiving 
+adjuvant therapy, radiation to the pharynx was spared in 36.
+CONCLUSION: The transoral approach was highly effective for the diagnosis and
+treatment of the p16+ unknown primary and laid the foundation for deescalated
+radiation by elimination of the pharyngeal field.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23800 
+PMID: 24931847  [Indexed for MEDLINE]

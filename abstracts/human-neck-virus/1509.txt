@@ -1,0 +1,41 @@
+
+
+1509. Head Neck. 2017 Feb;39(2):206-214. doi: 10.1002/hed.24562. Epub 2016 Aug 10.
+
+DNA-PkCS expression in oropharyngeal squamous cell carcinoma: Correlations with
+human papillomavirus status and recurrence after transoral robotic surgery.
+
+Weaver AN(1), Cooper TS(1), Wei S(2), Carroll WR(3), Rosenthal EL(4), Yang ES(1).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Alabama at Birmingham,
+Birmingham, Alabama.
+(2)Department of Pathology, University of Alabama at Birmingham, Birmingham,
+Alabama.
+(3)Department of Otolaryngology - Head and Neck Surgery, University of Alabama at
+Birmingham, Birmingham, Alabama.
+(4)Department of Otolaryngology - Head and Neck Surgery, Stanford University,
+Palo Alto, California.
+
+BACKGROUND: Human papillomavirus (HPV)-positive oropharyngeal squamous cell
+carcinoma (SCC) has improved clinical outcomes compared to HPV-negative disease. 
+However, the biology underlying differences in prognosis remains unclear.
+METHODS: We characterized the expression of DNA-protein kinase catalytic subunit 
+(DNA-PkCS ), a key DNA repair protein also associated with tumor progression, in 
+29 cases of oropharyngeal SCCs and correlated our findings with HPV status and
+disease recurrence. In addition, we assessed therapeutic response, migration, and
+invasion in head and neck cancer cell lines upon DNA-PkCS knockdown.
+RESULTS: DNA-PkCS expression was significantly decreased in HPV-positive compared
+to HPV-negative oropharyngeal SCC samples. Within the HPV-positive subgroup,
+DNA-PkCS expression was inversely related to HPV E6 and E7 expression and trended
+toward significance as a predictor of recurrence. DNA-PkCS knockdown in cell
+lines resulted in increased sensitivity to cisplatin and radiotherapy and reduced
+cell migration and invasion.
+CONCLUSION: These results suggest DNA-PkCS should be further studied as a
+potential marker of tumor progression in HPV-positive oropharyngeal SCCs. © 2016 
+Wiley Periodicals, Inc. Head Neck 39: 206-214, 2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24562 
+PMID: 27507640  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+2443. Otolaryngol Pol. 2013 May-Jun;67(3):113-34. doi: 10.1016/j.otpol.2013.01.003.
+Epub 2013 Jan 11.
+
+Recommendations for the diagnosis of human papilloma virus (HPV) high and low
+risk in the prevention and treatment of diseases of the oral cavity, pharynx and 
+larynx. Guide of experts PTORL and KIDL.
+
+Wierzbicka M(1), Józefiak A, Szydłowski J, Marszałek A, Stankiewicz C,
+Hassman-Poznańska E, Osuch-Wójcikiewicz E, Składzień J, Klatka J, Pietruszewska
+W, Puacz E, Szyfter K, Szyfter W.
+
+Author information: 
+(1)Klinika Otolaryngologii i Onkologii Laryngologicznej UM w Poznaniu, ul.
+Przybyszewskiego 49, 60-355 Poznań, Poland. gowierzb@yahoo.co.uk
+
+The role of human papilloma viruses (HPV) in malignant and nonmalignant ENT
+diseases and the corresponding epidemiological burden has been widely described. 
+International head and neck oncology community discussed growing evidence that
+oral HPV infection contributes to the risk of oro-pharyngeal carcinoma (OPC) and 
+recommended HPV testing as a part of the work up for patients with OPC. Polish
+Society of ENT Head Neck Surgery and National Chamber of Laboratory
+Diagnosticians have worked together to define the minimum requirements for
+assigning a diagnosis of HPV-related conditions and testing strategy that include
+HPV specific tests in our country. This paper briefly frames the literature
+information concerning low risk (LR) and high risk (HR) HPV, reviews the
+epidemiology, general guidance on the most appropriate biomarkers for clinical
+assessment of HPV. The definition of HPV-related cancer was presented. The
+article is aiming to highlight some of major issues for the clinician dealing
+with patients with HPV-related morbidities and to introduce the diagnostic
+algorithm in Poland.
+
+Copyright © 2013 Polish Otorhinolaryngology - Head and Neck Surgery Society.
+Published by Elsevier Urban & Partner Sp. z.o.o. All rights reserved.
+
+DOI: 10.1016/j.otpol.2013.01.003 
+PMID: 23719268  [Indexed for MEDLINE]

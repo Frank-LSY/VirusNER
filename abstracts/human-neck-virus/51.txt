@@ -1,0 +1,33 @@
+
+
+51. Adv Exp Med Biol. 2017;1018:57-74. doi: 10.1007/978-981-10-5765-6_5.
+
+Current Progress in EBV-Associated B-Cell Lymphomas.
+
+Pei Y(1), Lewis AE(1), Robertson ES(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, and Microbiology,
+Tumor Virology Program, Abramson Comprehensive Cancer Center, Perelman School of 
+Medicine at the University of Pennsylvania, 3610 Hamilton Walk, 201E Johnson
+Pavilion, Philadelphia, PA, 19104, USA.
+(2)Department of Otorhinolaryngology-Head and Neck Surgery, and Microbiology,
+Tumor Virology Program, Abramson Comprehensive Cancer Center, Perelman School of 
+Medicine at the University of Pennsylvania, 3610 Hamilton Walk, 201E Johnson
+Pavilion, Philadelphia, PA, 19104, USA. erle@upenn.edu.
+
+Epstein-Barr virus (EBV) was the first human tumor virus discovered more than
+50 years ago. EBV-associated lymphomagenesis is still a significant
+viral-associated disease as it involves a diverse range of pathologies,
+especially B-cell lymphomas. Recent development of high-throughput
+next-generation sequencing technologies and in vivo mouse models have
+significantly promoted our understanding of the fundamental molecular mechanisms 
+which drive these cancers and allowed for the development of therapeutic
+intervention strategies. This review will highlight the current advances in
+EBV-associated B-cell lymphomas, focusing on transcriptional regulation,
+chromosome aberrations, in vivo studies of EBV-mediated lymphomagenesis, as well 
+as the treatment strategies to target viral-associated lymphomas.
+
+DOI: 10.1007/978-981-10-5765-6_5 
+PMCID: PMC6053051
+PMID: 29052132  [Indexed for MEDLINE]

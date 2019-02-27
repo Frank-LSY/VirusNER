@@ -1,0 +1,54 @@
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+1897. Tumori. 2018 Jun;104(3):213-220. doi: 10.1177/0300891618765558. Epub 2018 Apr 18.
+
+Prognostic role of PIK3CA and TP53 in human papillomavirus-negative oropharyngeal
+cancers.
+
+Resteghini C(1), Perrone F(2), Miceli R(3), Bergamini C(1), Alfieri S(1), Orlandi
+E(4), Guzzo M(5), Granata R(1), Galbiati D(1), Cavalieri S(1), Locati L(1),
+Licitra L(1)(6), Bossi P(1).
+
+Author information: 
+(1)1 Head and Neck Medical Oncology Department, Fondazione IRCCS Istituto
+Nazionale dei Tumori, Milan, Italy.
+(2)2 Laboratory of Experimental Molecular Pathology, Department of Pathology,
+Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, Italy.
+(3)3 Clinical Epidemiology and Trials Organization Unit, Fondazione IRCCS
+Istituto Nazionale dei Tumori, Milan, Italy.
+(4)4 Radiotherapy 2 Unit, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan, 
+Italy.
+(5)5 Otorhinolaryngology Unit, Fondazione IRCCS Istituto Nazionale dei Tumori,
+Milan, Italy.
+(6)6 State University of Milan, Milan, Italy.
+
+BACKGROUND: Human papilloma virus (HPV)-negative oropharyngeal squamous cell
+carcinomas (OPCs) have a poorer prognosis and best management is an unmet need.
+We studied the prognostic role of epidermal growth factor receptor (EGFR) and
+PIK3CA amplifications and TP53 functional status.
+METHODS: Between 1992 and 2000, 90 consecutive patients with OPCs were treated
+with surgery, followed by radiotherapy in case of high-risk pathologic features. 
+Of those, 73 cases were HPV-negative and therefore were selected for molecular
+analysis ( PIK3CA and EGFR fluorescent in situ hybridization [FISH] analysis and 
+TP53 mutation analysis).
+RESULTS: FISH analyses of EGFR and PIK3CA were successfully conducted on 69 and
+63 of 73 tumor samples, respectively. EGFR alterations were detected in 43% of
+patients but just 7% showed amplification. Seven cases (11%) carried PIK3CA
+amplification and 18 (29%) gene gain or high polysomy. TP53 was detected as
+nonfunctional in 24 of 67 (36%) successfully analyzed cases. Both univariable and
+multivariable analysis showed statistically significantly worse disease-free
+survival (DFS) for patients with PIK3CA disomy compared to those with gene gain
+or high polysomy. No differences in overall survival or DFS for EGFR and TP53
+alteration were evident. The combined evaluation of PIK3CA and TP53 showed that
+PIK3CA gene copy number gain separated a population with better outcome, defining
+an overall worse prognosis population (disomy) now clearly further divided
+according to TP53 functional status.
+CONCLUSION: PIK3CA gene copy number increase is associated with a favorable
+clinical outcome in HPV-negative OPCs treated with surgery ± postoperative
+radiotherapy. In patients without PIK3CA alteration, TP53 nonfunctional mutations
+are associated with poor prognosis.
+
+DOI: 10.1177/0300891618765558 
+PMID: 29714670  [Indexed for MEDLINE]

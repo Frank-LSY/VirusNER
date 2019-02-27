@@ -1,0 +1,59 @@
+
+
+1959. Cancer. 2017 Jan 1;123(2):273-282. doi: 10.1002/cncr.30255. Epub 2016 Sep 20.
+
+National patterns of care and predictors of neoadjuvant and concurrent
+chemotherapy use with definitive radiotherapy in the treatment of patients with
+oropharyngeal squamous cell carcinoma.
+
+Sher DJ(1), Rusthoven CG(2), Khan SA(3), Fidler MJ(4), Zhu H(5), Koshy M(6).
+
+Author information: 
+(1)Division of Outcomes and Health Services Research, Department of Radiation
+Oncology, University of Texas Southwestern Medical Center, Dallas, Texas.
+(2)Department of Radiation Oncology, University of Colorado School of Medicine,
+Aurora, Colorado.
+(3)Department of Medical Oncology, University of Texas Southwestern Medical
+Center, Dallas, Texas.
+(4)Department of Medical Oncology, Rush University Medical Center, Chicago,
+Illinois.
+(5)Department of Clinical Sciences, Simmons Comprehensive Cancer Center,
+University of Texas Southwestern Medical Center, Dallas, Texas.
+(6)Department of Radiation Oncology, University of Chicago, Chicago, Illinois.
+
+BACKGROUND: To the authors' knowledge, the patterns of care for the
+radiotherapy-based treatment of patients with stage III to IVB oropharyngeal
+squamous cell carcinoma (OPSCC) are poorly defined. The objective of the current 
+study was to characterize the use and predictors of chemotherapy with
+radiotherapy for this population using the National Cancer Database.
+METHODS: Patients in the National Cancer Database with AJCC (American Joint
+Committee on Cancer) stage III to IV OPSCC who were treated with radiotherapy
+between 2003 and 2012 were eligible for analysis. Treatment was defined as
+radiotherapy alone, concurrent chemoradiotherapy, or induction chemotherapy (IC).
+Multivariable regression with multilevel modeling was used to determine
+predictors of any chemotherapy use and, among patients receiving chemotherapy,
+the predictors of IC.
+RESULTS: The majority (90%) of the 30,875 eligible patients received
+chemotherapy, the majority of whom (71% of the total) were treated with
+definitive chemoradiotherapy; a sizeable percentage of patients received IC (19% 
+of total). On multivariable regression, younger age, favorable comorbidity
+status, and more advanced tumor and lymph node disease were found to be
+independent predictors of any chemotherapy and IC use. Nonwhite patients (odds
+ratio [OR], 0.71; P<.0001), women (OR, 0.74; P<.0001), and individuals without
+private insurance were found to be significantly less likely to receive
+chemotherapy. Patients treated at higher-volume institutions were significantly
+less likely to receive IC (OR, 0.69; P = .0006). Human papillomavirus status did 
+not appear to independently influence treatment choice.
+CONCLUSIONS: The vast majority of patients with stage III to IVB OPSCC who were
+treated with definitive radiotherapy received chemotherapy, which is consistent
+with high-level data and national recommendations. However, disparities with
+regard to race, sex, and insurance status emerged thereby requiring additional
+investigation. The frequent use of IC despite limited supportive evidence
+warrants research on physician and patient decision making and presents an
+opportunity to improve evidence-based treatment delivery. Cancer
+2017;123:273-282. © 2016 American Cancer Society.
+
+© 2016 American Cancer Society.
+
+DOI: 10.1002/cncr.30255 
+PMID: 27649421  [Indexed for MEDLINE]

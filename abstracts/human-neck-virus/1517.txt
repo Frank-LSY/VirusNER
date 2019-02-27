@@ -1,0 +1,39 @@
+
+
+1517. Tumour Biol. 2014 May;35(5):4687-95. doi: 10.1007/s13277-014-1614-9. Epub 2014
+Jan 31.
+
+Genetic imbalances detected by multiplex ligation-dependent probe amplification
+in a cohort of patients with oral squamous cell carcinoma-the first step towards 
+clinical personalized medicine.
+
+Ribeiro IP(1), Marques F, Caramelo F, Ferrão J, Prazeres H, Julião MJ, Rifi W,
+Savola S, de Melo JB, Baptista IP, Carreira IM.
+
+Author information: 
+(1)Cytogenetics and Genomics Laboratory, Faculty of Medicine, University of
+Coimbra, 3000-354, Coimbra, Portugal.
+
+Oral tumors are a growing health problem worldwide; thus, it is mandatory to
+establish genetic markers in order to improve diagnosis and early detection of
+tumors, control relapses and, ultimately, delineate individualized therapies.
+This study was the first to evaluate and discuss the clinical applicability of a 
+multiplex ligation-dependent probe amplification (MLPA) probe panel directed to
+head and neck cancer. Thirty primary oral squamous cell tumors were analyzed
+using the P428 MLPA probe panel. We detected genetic imbalances in 26 patients
+and observed a consistent pattern of distribution of genetic alterations in terms
+of losses and gains for some chromosomes, particularly for chromosomes 3, 8, and 
+11. Regarding the latter, some specific genes were highlighted due to frequent
+losses of genetic material--RARB, FHIT, CSMD1, GATA4, and MTUS1--and others due
+to gains--MCCC1, MYC, WISP1, PTK2, CCND1, FGF4, FADD, and CTTN. We also verified 
+that the gains of MYC and WISP1 genes seem to suggest higher propensity of tumors
+localized in the floor of the mouth. This study proved the value of this MLPA
+probe panel for a first-tier analysis of oral tumors. The probemix was developed 
+to include target regions that have been already shown to be of
+diagnostic/prognostic relevance for oral tumors. Furthermore, this study
+emphasized several of those specific genetic targets, suggesting its importance
+to oral tumor development, to predict patients' outcomes, and also to guide the
+development of novel molecular therapies.
+
+DOI: 10.1007/s13277-014-1614-9 
+PMID: 24477574  [Indexed for MEDLINE]

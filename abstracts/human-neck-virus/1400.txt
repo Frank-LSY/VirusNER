@@ -1,0 +1,40 @@
+
+
+1400. Lancet Oncol. 2010 Aug;11(8):781-9. doi: 10.1016/S1470-2045(10)70017-6. Epub 2010
+May 5.
+
+HPV-associated head and neck cancer: a virus-related cancer epidemic.
+
+Marur S(1), D'Souza G, Westra WH, Forastiere AA.
+
+Author information: 
+(1)Department of Oncology, Sidney Kimmel Comprehensive Cancer Center at Johns
+Hopkins, Baltimore, MD 21231, USA. smarur1@jhmi.edu
+
+A rise in incidence of oropharyngeal squamous cell cancer--specifically of the
+lingual and palatine tonsils--in white men younger than age 50 years who have no 
+history of alcohol or tobacco use has been recorded over the past decade. This
+malignant disease is associated with human papillomavirus (HPV) 16 infection. The
+biology of HPV-positive oropharyngeal cancer is distinct with P53 degradation,
+retinoblastoma RB pathway inactivation, and P16 upregulation. By contrast,
+tobacco-related oropharyngeal cancer is characterised by TP53 mutation and
+downregulation of CDKN2A (encoding P16). The best method to detect virus in
+tumour is controversial, and both in-situ hybridisation and PCR are commonly
+used; P16 immunohistochemistry could serve as a potential surrogate marker.
+HPV-positive oropharyngeal cancer seems to be more responsive to chemotherapy and
+radiation than HPV-negative disease. HPV 16 is a prognostic marker for enhanced
+overall and disease-free survival, but its use as a predictive marker has not yet
+been proven. Many questions about the natural history of oral HPV infection
+remain under investigation. For example, why does the increase in HPV-related
+oropharyngeal cancer dominate in men? What is the potential of HPV vaccines for
+primary prevention? Could an accurate method to detect HPV in tumour be
+developed? Which treatment strategies reduce toxic effects without compromising
+survival? Our aim with this review is to highlight current understanding of the
+epidemiology, biology, detection, and management of HPV-related oropharyngeal
+head and neck squamous cell carcinoma, and to describe unresolved issues.
+
+2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(10)70017-6 
+PMCID: PMC5242182
+PMID: 20451455  [Indexed for MEDLINE]

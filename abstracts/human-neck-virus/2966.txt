@@ -1,0 +1,91 @@
+
+
+2966. Cell Rep. 2017 Apr 4;19(1):203-217. doi: 10.1016/j.celrep.2017.03.037.
+
+Quantitative Multiplex Immunohistochemistry Reveals Myeloid-Inflamed Tumor-Immune
+Complexity Associated with Poor Prognosis.
+
+Tsujikawa T(1), Kumar S(2), Borkar RN(3), Azimi V(3), Thibault G(4), Chang YH(5),
+Balter A(6), Kawashima R(2), Choe G(2), Sauer D(7), El Rassi E(8), Clayburgh
+DR(9), Kulesz-Martin MF(10), Lutz ER(11), Zheng L(12), Jaffee EM(13), Leyshock
+P(6), Margolin AA(14), Mori M(15), Gray JW(16), Flint PW(9), Coussens LM(17).
+
+Author information: 
+(1)Department of Cell, Developmental & Cancer Biology, Oregon Health and Science 
+University, Portland, OR 97239, USA; Department of Otolaryngology-Head and Neck
+Surgery, Oregon Health and Science University, Portland, OR 97239, USA.
+(2)Department of Cell, Developmental & Cancer Biology, Oregon Health and Science 
+University, Portland, OR 97239, USA.
+(3)Intel Health and Life Sciences, Intel Corporation, Hillsboro, OR 97124, USA.
+(4)Department of Biomedical Engineering, Oregon Health and Science University,
+Portland, OR 97239, USA.
+(5)Department of Biomedical Engineering, Oregon Health and Science University,
+Portland, OR 97239, USA; Department of Computational Biology, Oregon Health and
+Science University, Portland, OR 97239, USA.
+(6)Department of Computational Biology, Oregon Health and Science University,
+Portland, OR 97239, USA.
+(7)Department of Pathology, Oregon Health and Science University, Portland, OR
+97239, USA.
+(8)Department of Otolaryngology-Head and Neck Surgery, Oregon Health and Science 
+University, Portland, OR 97239, USA.
+(9)Department of Otolaryngology-Head and Neck Surgery, Oregon Health and Science 
+University, Portland, OR 97239, USA; Knight Cancer Institute, Oregon Health and
+Science University, Portland, OR 97239, USA.
+(10)Department of Cell, Developmental & Cancer Biology, Oregon Health and Science
+University, Portland, OR 97239, USA; Department of Dermatology, Oregon Health and
+Science University, Portland, OR 97239, USA; Knight Cancer Institute, Oregon
+Health and Science University, Portland, OR 97239, USA.
+(11)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, MD 21205, USA; The Sidney Kimmel Cancer Center, Johns Hopkins
+University School of Medicine, Baltimore, MD 21205, USA; The Skip Viragh Center
+for Pancreatic Cancer Research and Clinical Care, Johns Hopkins University School
+of Medicine, Baltimore, MD 21205, USA.
+(12)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, MD 21205, USA; Department of Surgery, Johns Hopkins University School 
+of Medicine, Baltimore, MD 21205, USA; The Sidney Kimmel Cancer Center, Johns
+Hopkins University School of Medicine, Baltimore, MD 21205, USA; The Skip Viragh 
+Center for Pancreatic Cancer Research and Clinical Care, Johns Hopkins University
+School of Medicine, Baltimore, MD 21205, USA.
+(13)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, MD 21205, USA; Department of Pathology, Johns Hopkins University
+School of Medicine, Baltimore, MD 21205, USA; The Sidney Kimmel Cancer Center,
+Johns Hopkins University School of Medicine, Baltimore, MD 21205, USA; The Skip
+Viragh Center for Pancreatic Cancer Research and Clinical Care, Johns Hopkins
+University School of Medicine, Baltimore, MD 21205, USA.
+(14)Department of Computational Biology, Oregon Health and Science University,
+Portland, OR 97239, USA; OHSU Center for Spatial Systems Biomedicine, Oregon
+Health and Science University, Portland, OR 97239, USA; Knight Cancer Institute, 
+Oregon Health and Science University, Portland, OR 97239, USA.
+(15)School of Public Health, Oregon Health and Science University, Portland, OR
+97239, USA; Knight Cancer Institute, Oregon Health and Science University,
+Portland, OR 97239, USA.
+(16)Department of Biomedical Engineering, Oregon Health and Science University,
+Portland, OR 97239, USA; OHSU Center for Spatial Systems Biomedicine, Oregon
+Health and Science University, Portland, OR 97239, USA; Knight Cancer Institute, 
+Oregon Health and Science University, Portland, OR 97239, USA.
+(17)Department of Cell, Developmental & Cancer Biology, Oregon Health and Science
+University, Portland, OR 97239, USA; Knight Cancer Institute, Oregon Health and
+Science University, Portland, OR 97239, USA. Electronic address:
+coussenl@ohsu.edu.
+
+Here, we describe a multiplexed immunohistochemical platform with computational
+image processing workflows, including image cytometry, enabling simultaneous
+evaluation of 12 biomarkers in one formalin-fixed paraffin-embedded tissue
+section. To validate this platform, we used tissue microarrays containing 38
+archival head and neck squamous cell carcinomas and revealed differential immune 
+profiles based on lymphoid and myeloid cell densities, correlating with human
+papilloma virus status and prognosis. Based on these results, we investigated 24 
+pancreatic ductal adenocarcinomas from patients who received neoadjuvant GVAX
+vaccination and revealed that response to therapy correlated with degree of
+mono-myelocytic cell density and percentages of CD8+ T cells expressing T cell
+exhaustion markers. These data highlight the utility of in situ immune monitoring
+for patient stratification and provide digital image processing pipelines to the 
+community for examining immune complexity in precious tissue sections, where
+phenotype and tissue architecture are preserved to improve biomarker discovery
+and assessment.
+
+Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2017.03.037 
+PMCID: PMC5564306
+PMID: 28380359  [Indexed for MEDLINE]

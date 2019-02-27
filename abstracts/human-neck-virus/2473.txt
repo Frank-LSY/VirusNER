@@ -1,0 +1,51 @@
+
+
+2473. Gynecol Oncol. 2016 Jul;142(1):128-132. doi: 10.1016/j.ygyno.2016.04.023. Epub
+2016 Apr 23.
+
+Risk of head-and-neck cancer following a diagnosis of severe cervical
+intraepithelial neoplasia: a nationwide population-based cohort study in Denmark.
+
+Svahn MF(1), Munk C(1), Jensen SM(2), von Buchwald C(3), Frederiksen K(2), Kjaer 
+SK(4).
+
+Author information: 
+(1)Unit of Virus, Lifestyle and Genes, Danish Cancer Society Research Centre,
+Copenhagen, Denmark.
+(2)Unit of Statistics, Bioinformatics and Registry, Danish Cancer Society
+Research Center, Copenhagen, Denmark.
+(3)Department of ORL, H&N surgery and audiology, Rigshospitalet, Copenhagen
+University Hospital, Denmark.
+(4)Unit of Virus, Lifestyle and Genes, Danish Cancer Society Research Centre,
+Copenhagen, Denmark; Department of Gynecology, Rigshospitalet, Copenhagen
+University Hospital, Denmark. Electronic address: susanne@cancer.dk.
+
+OBJECTIVE: Women with a history of cervical intraepithelial neoplasia grade 3
+including adenocarcinoma in situ (CIN3/AIS) may be more prone to develop cancers 
+of the ano-genital region and head-and-neck cancers. The current literature is,
+however, limited.
+METHODS: We established a nationwide cohort of approximately 2,500,000 Danish
+women born in 1918-1990. By linking the cohort to population-based health
+registries, we obtained information on CIN3/AIS, cancer, migration, death,
+education, and smoking. Cox proportional hazards models were used to estimate
+hazard ratios (HRs) and confidence intervals (CIs) for the association between
+CIN3/AIS and risk of head-and-neck squamous cell carcinoma (HNSCC). HRs were
+presented for any HNSCC and for four subgroups categorized by their anticipated
+degree of association with human papillomavirus (HPV).
+RESULTS: A history of CIN3/AIS was significantly associated with an increased
+overall relative risk of HNSCC after adjustment for year of birth, attained age, 
+and length of education. The risk was especially high for sites anticipated to be
+strongly associated with HPV (e.g. base of tongue, tonsils) (HR, 2.49; 95% CI,
+1.84-3.36). Lower risks were found for sites anticipated to be not or weakly
+associated with HPV (e.g. nasal cavity, middle ear, sinuses) (HR, 1.29; 95% CI,
+0.61-2.76).
+CONCLUSION: Women with a history of CIN3/AIS have a significantly higher risk of 
+HNSCC than women without such a history. The increased relative risk persisted
+for at least 20years after the CIN3/AIS diagnosis. Women with CIN3/AIS may be
+more susceptible to the consequences of HPV and/or may have higher risk behavior,
+such as smoking.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ygyno.2016.04.023 
+PMID: 27106016  [Indexed for MEDLINE]

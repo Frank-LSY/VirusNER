@@ -1,0 +1,46 @@
+
+
+3024. Oral Oncol. 2016 Jan;52:24-9. doi: 10.1016/j.oraloncology.2015.10.019. Epub 2015 
+Nov 4.
+
+Lymphoepithelial carcinoma of the major salivary glands: Predictors of survival
+in a non-endemic region.
+
+Zhan KY(1), Nicolli EA(1), Khaja SF(1), Day TA(2).
+
+Author information: 
+(1)Department of Otolaryngology - Head & Neck Surgery, Medical University of
+South Carolina, Charleston, SC 29425, United States.
+(2)Department of Otolaryngology - Head & Neck Surgery, Medical University of
+South Carolina, Charleston, SC 29425, United States. Electronic address:
+headneck@musc.edu.
+
+INTRODUCTION: Lymphoepithelial carcinoma (LEC) of the salivary glands is
+extremely rare worldwide, with studies limited to small case reports and case
+series from endemic areas (Southern China, Arctic Inuits) and strong association 
+to Epstein Barr Virus (EBV). Studies on non-endemic regions are even more limited
+given the reality of only sporadic cases in these areas. Using the National
+Cancer Database (NCDB), we present the largest study on salivary LEC from a
+non-endemic region, the United States.
+METHODS: A retrospective review of the NCDB from 1998-2012 for LEC of the major
+salivary glands was performed. Demographic and clinical variables were extracted 
+for analysis. Multivariate COX regression was used to assess predictors of
+survival.
+RESULTS: Two hundred and thirty-eight cases were identified (0.66% of all
+salivary cancers). Median age at diagnosis was 62 with peak incidence in ages
+50-70. Most patients were Caucasian (81.2%), without gender preference. Regional 
+metastasis was common (45.1%) and did not significantly impact survival. Distant 
+metastasis was rare (2%). Overall survival (OS) at 5- and 10 years was 77% and
+56%. Surgery and radiotherapy significantly showed better survival outcomes than 
+surgery alone (p<0.001). Age >62, advanced stage, and dual modality therapy were 
+significant predictors of survival in multivariate analysis.
+CONCLUSION: Lymphoepithelial carcinoma in the US mostly affects an older,
+Caucasian demographic. Regional metastasis is common and survival is fair at 5-
+and 10 years. Surgery and radiation are recommended for early and advanced
+disease stages. Age, stage, and therapy are significant predictors of survival
+outcomes.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.10.019 
+PMID: 26547125  [Indexed for MEDLINE]

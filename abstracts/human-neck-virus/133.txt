@@ -1,0 +1,30 @@
+
+
+133. Epigenetics. 2013 Sep;8(9):953-61. doi: 10.4161/epi.25614. Epub 2013 Jul 18.
+
+Integrated virus-host methylome analysis in head and neck squamous cell
+carcinoma.
+
+Wilson GA(1), Lechner M, Köferle A, Caren H, Butcher LM, Feber A, Fenton T, Jay
+A, Boshoff C, Beck S.
+
+Author information: 
+(1)Medical Genomics; UCL Cancer Institute; University College London; London, UK.
+
+One in six cancers worldwide is caused by infection and human papillomavirus
+(HPV) is one of the main culprits. To better understand the dynamics of HPV
+integration and its effect on both the viral and host methylomes, we conducted
+whole-genome DNA methylation analysis using MeDIP-seq of HPV+ and HPV- head and
+neck squamous cell carcinoma (HNSCC). We determined the viral subtype to be
+HPV-16 in all cases and show that HPV-16 integrates into the host genome at
+multiple random sites and that this process predominantly involves the
+transcriptional repressor gene (E2) in the viral genome. Comparative analysis
+identified 453 (FDR ≤ 0.01) differentially methylated regions (DMRs) in the HPV+ 
+host methylome. Bioinformatics characterization of these DMRs confirmed the
+previously reported cadherin genes to be affected but also revealed new targets
+for HPV-mediated methylation changes at regions not covered by array-based
+platforms, including the recently identified super-enhancers.
+
+DOI: 10.4161/epi.25614 
+PMCID: PMC3883772
+PMID: 23867721  [Indexed for MEDLINE]

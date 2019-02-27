@@ -1,0 +1,53 @@
+
+
+2466. Oral Oncol. 2017 Apr;67:109-118. doi: 10.1016/j.oraloncology.2017.02.007. Epub
+2017 Feb 27.
+
+Role of cancer stem-cell marker doublecortin-like kinase 1 in head and neck
+squamous cell carcinoma.
+
+Kadletz L(1), Thurnher D(2), Wiebringhaus R(3), Erovic BM(1), Kotowski U(1),
+Schneider S(1), Schmid R(4), Kenner L(5), Heiduschka G(6).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Medical University
+of Vienna, Vienna, Austria.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Medical University
+of Graz, Graz, Austria.
+(3)Department of Pathology, Medical University of Vienna, Vienna, Austria.
+(4)Department of Radiotherapy and - Oncology, Medical University of Vienna,
+Austria.
+(5)Department of Pathology, Medical University of Vienna, Vienna, Austria; Ludwig
+Boltzmann Institute for Cancer Research, Vienna, Austria; Institute of Laboratory
+Animal Pathology, University of Veterinary Medicine Vienna, Vienna, Austria.
+(6)Department of Otorhinolaryngology, Head and Neck Surgery, Medical University
+of Vienna, Vienna, Austria. Electronic address:
+gregor.heiduschka@meduniwien.ac.at.
+
+BACKGROUND: So far, no data is available on the role of the tumor stem cell
+marker doublecortin-like kinase 1 (DCLK1) in head and neck squamous cell
+carcinoma (HNSCC). The purpose of this study was to evaluate DCLK1 expression in 
+HNSCC patients that underwent surgery and postoperative radiotherapy, and to
+assess its potential as a therapeutic target in vitro.
+METHODS: We immunohistochemically stained for DCLK1 in 127 sections of HNSCC
+samples obtained during surgery of HNSCC patients and correlated the expression
+to patients' overall- and disease-free survival, as well as human papilloma virus
+(HPV) status. Additionally, we compared our survival data with data obtained from
+The Cancer Genome Atlas (TCGA). The effects of the DCLK1 inhibitor LRRK-2-in-1 on
+HNSCC cell lines alone and in combination with irradiation.
+RESULTS: Expression of DCLK1 in 127 patients was associated with poor survival.
+In particular, DCLK1 expression had a significant impact on survival of
+oropharyngeal carcinoma patients. Specifically, DCLK1+/HPV- patients had the
+worst prognosis after simultaneous assessment of DCLK1 and HPV status in
+comparison to the other three possible DCLK1/HPV constellations. Higher levels of
+DCLK1 mRNA were also associated with poor clinical outcome. Inhibition of DCLK1
+in our HNSCC cell lines led to growth arrest and induction of apoptosis. The
+combination of DCLK1 inhibition with irradiation had a synergistic effect.
+CONCLUSION: Firstly, DCLK1 is a prognostic biomarker for shortened survival.
+Secondly, through inhibition of DCLK1, it may serve as a therapeutic target as
+well.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.02.007 
+PMID: 28351564  [Indexed for MEDLINE]

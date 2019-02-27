@@ -1,0 +1,30 @@
+
+Conflict of interest statement: Authors have no competing financial interests.
+
+
+213. HNO. 2010 Aug;58(8):778-90. doi: 10.1007/s00106-010-2118-6.
+
+[Prophylactic and therapeutic vaccines against human papilloma virus].
+
+[Article in German]
+
+Albers AE(1), Hoffmann TK, Klussmann JP, Kaufmann AM.
+
+Author information: 
+(1)Hals-Nasen-Ohren-Klinik, Charité - Universitätsmedizin Berlin, Campus Benjamin
+Franklin, Hindenburgdamm 30, 12203, Berlin, Deutschland.
+andreas.albers@charite.de
+
+Infection with human papilloma virus (HPV) has been identified as the cause of
+recurrent papillomatosis and of a subgroup of squamous cell carcinomas of the
+head and neck. A change in prevalence of these lesions, especially for
+oropharyngeal carcinoma, can be expected as a consequence of the introduction of 
+prophylactic HPV vaccines for young women, targeting the most frequent high- and 
+low-risk HPV subtypes. Vaccination for the major low-risk HPV types has proven to
+be highly effective against genital warts and activity against papillomatosis can
+be expected. The possibilities of prophylactic HPV vaccination as well as new
+developments and the rationale for therapeutic vaccines are discussed on the
+basis of the current literature.
+
+DOI: 10.1007/s00106-010-2118-6 
+PMID: 20544168  [Indexed for MEDLINE]

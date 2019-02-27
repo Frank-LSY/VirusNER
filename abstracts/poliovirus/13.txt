@@ -1,0 +1,30 @@
+
+
+13. Bing Du Xue Bao. 2016 Jul;32(4):459-64.
+
+[Complete Genome Characterization of Vaccine-derived Polioviruses Isolated in
+Yunnan,China].
+
+[Article in Chinese]
+
+Tang J, Zhang J, Li K, Tian B, Zhao Z, Ding Z.
+
+To explore the genomic characterization of 4vaccine-derived
+poliovirus(VDPV)strains isolated from 2acute flaccid paralysis(AFP)cases in
+Yunnan Province in 2010 and 2012,respectively,the complete genome sequences of
+the 4strains were determined. Sequence analysis revealed that the complete genome
+length of the type Ⅱ and type Ⅰ VDPV was 7439nt and 7441 nt, respectively.
+Nucleotide and amino acid sequence similarities of type II VDPV were 95.4% and
+97.7%,respectively,and type I VDPV were93.9% and 97.9%,respectively as compared
+with those of Sabin strains. Nucleotide substitutions were found at two important
+attenuation sites (nt 481 and nt in type Ⅱ VDPV, and three important attenuation 
+sites(nt480,nt2795 and nt6203)in type I VDPV. Type 2 and type 1VDPV strains had
+1.0% and2.3% divergence with Sabin strains, respectively. Similarity plot
+analysis showed multiple recombination events in the genome of the 4strains,which
+showed that the recombination was common and complex. Analysis of the
+characteristics of VDPVs on molecular level could provide valuable information on
+evolutionary dynamics and lay foundation for developing scientific and feasible
+strategy to control VDPV.
+
+
+PMID: 29981280  [Indexed for MEDLINE]

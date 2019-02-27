@@ -1,0 +1,51 @@
+
+
+1396. J Otolaryngol Head Neck Surg. 2018 Jan 30;47(1):8. doi:
+10.1186/s40463-018-0255-1.
+
+The prevalence of human papillomavirus in pediatric tonsils: a systematic review 
+of the literature.
+
+Wojtera M(1), Paradis J(1)(2), Husein M(1)(2), Nichols AC(1)(2), Barrett
+JW(1)(2), Salvadori MI(1)(3), Strychowsky JE(4)(5).
+
+Author information: 
+(1)Schulich School of Medicine and Dentistry, Western University, 1151 Richmond
+St, London, N6A 5C1, ON, Canada.
+(2)Department of Otolaryngology-Head and Neck Surgery, Victoria Hospital B3-400, 
+800 Commissioners Rd E, London, N6A 5W9, ON, Canada.
+(3)Department of Paediatrics, Children's Hospital at London Health Sciences
+Centre, 800 Commissioners Rd E, London, ON, N6A 5W9, Canada.
+(4)Schulich School of Medicine and Dentistry, Western University, 1151 Richmond
+St, London, N6A 5C1, ON, Canada. julie.strychowsky@lhsc.on.ca.
+(5)Department of Otolaryngology-Head and Neck Surgery, Victoria Hospital B3-400, 
+800 Commissioners Rd E, London, N6A 5W9, ON, Canada.
+julie.strychowsky@lhsc.on.ca.
+
+BACKGROUND: HPV-related head and neck cancer rates have been increasing in recent
+years, with the tonsils being the most commonly affected site. However, the
+current rate of HPV infection in the pediatric population remains poorly defined.
+The objective of this study was to systematically review and evaluate the
+prevalence and distribution of HPV in the tonsils of pediatric patients
+undergoing routine tonsillectomy.
+METHODS AND RESULTS: The literature was searched using PubMed, EMBASE, Scopus,
+CINAHL, Cochrane Library, and ProQuest Dissertations & Theses Global databases
+(inception to December 2017) by two independent review authors. Inclusion
+criteria included articles which evaluated the prevalence of HPV in a pediatric
+cohort without known warts or recurrent respiratory papillomatosis, those which
+used tonsil biopsy specimens for analysis, and those with six or more subjects
+and clear outcomes reported. Eleven studies met the inclusion criteria. Using the
+Oxford Clinical Evidence-based Medicine (OCEBM) guidelines, two reviewers
+appraised the level of evidence of each study, extracted data, and resolved
+discrepancies by consensus. The systematic review identified 11 articles
+(n = 2520). Seven studies detected HPV in the subject population, with prevalence
+values ranging from 0 to 21%. The level of evidence for all included studies was 
+OCEBM Level 3.
+CONCLUSIONS: HPV may be present in pediatric tonsillectomy specimens; however,
+the largest included study demonstrated a prevalence of 0%. Future testing should
+be performed using methods with high sensitivities and specificities, such as
+reverse transcript real-time PCR or digital droplet PCR.
+
+DOI: 10.1186/s40463-018-0255-1 
+PMCID: PMC5789580
+PMID: 29378664  [Indexed for MEDLINE]

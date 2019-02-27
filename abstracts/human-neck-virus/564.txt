@@ -1,0 +1,39 @@
+
+
+564. Mol Cancer Res. 2012 Dec;10(12):1514-25. doi: 10.1158/1541-7786.MCR-12-0157. Epub
+2012 Oct 4.
+
+Reovirus: a targeted therapeutic--progress and potential.
+
+Maitra R(1), Ghalib MH, Goel S.
+
+Author information: 
+(1)Montefiore Medical Center, Albert Einstein College of Medicine, Bronx, NY
+10461, USA. sgoel@montefiore.org
+
+Medical therapy of patients with malignancy requires a paradigm shift through
+development of new drugs with a good safety record and novel mechanisms of
+activity. While there is no dearth of such molecules, one particular agent,
+"reovirus" is promising by its ability to target cancer cells with aberrant
+signaling pathways. This double-stranded RNA virus has been therapeutically
+formulated and has rapidly progressed from preclinical validation of anticancer
+activity to a phase III registration study in platinum refractory metastatic
+squamous cell carcinoma of the head and neck. During this process, reovirus has
+shown safety both as a single agent when administered intratumorally and
+intravenously, as well as in combination therapy, with multiple chemotherapeutics
+such as gemcitabine, carboplatin/paclitaxel, and docetaxel; and similarly with
+radiation. The scientific rationale for its development as an anticancer agent
+stems from the fact that it preferentially replicates in and induces lyses of
+cells with an activated Kras pathway. As documented in many previous studies, the
+initial observation of greater tropism in Kras-compromised situation might
+certainly not be the sole and possibly not even the predominant reason for
+enhanced virulence. All the same, scientists have emphasized on Kras
+optimistically due to its high prevalence in various types of cancers. Incidence 
+of Kras mutation has been found to be highest in pancreatic cancer (85%-90%)
+followed by colorectal (35-45%) and lung (25-30%). Reovirus, in fact has the
+potential not only as a therapy but also as a tool to unravel the aberrant
+cellular pathway leading to carcinogenicity.
+
+DOI: 10.1158/1541-7786.MCR-12-0157 
+PMCID: PMC3849112
+PMID: 23038811  [Indexed for MEDLINE]

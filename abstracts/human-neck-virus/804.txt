@@ -1,0 +1,51 @@
+
+
+804. Eur Arch Otorhinolaryngol. 2017 Jan;274(1):477-487. doi:
+10.1007/s00405-016-4203-2. Epub 2016 Aug 4.
+
+Primary surgery results in no survival benefit compared to primary radiation for 
+oropharyngeal cancer patients stratified by high-risk human papilloma virus
+status.
+
+Lybak S(1)(2), Ljøkjel B(1), Haave H(1), Karlsdottir À(3), Vintermyr OK(2)(4),
+Aarstad HJ(5)(6).
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, Haukeland University
+Hospital, 5021, Bergen, Norway.
+(2)Department of Clinical Medicine, Faculty of Medicine and Dentistry, University
+of Bergen, Bergen, Norway.
+(3)Department of Oncology and Medical Physics, Haukeland University Hospital,
+Bergen, Norway.
+(4)Department of Pathology, Haukeland University Hospital, Bergen, Norway.
+(5)Department of Otolaryngology/Head and Neck Surgery, Haukeland University
+Hospital, 5021, Bergen, Norway. hans.aarstad@uib.no.
+(6)Department of Clinical Medicine, Faculty of Medicine and Dentistry, University
+of Bergen, Bergen, Norway. hans.aarstad@uib.no.
+
+We changed the primary oropharynx squamous cell carcinoma (OPSCC) treatment
+recommendation from primary radiation therapy (RT) to tumor surgery and neck
+dissection, followed by RT around the year 2000 with apparently improved
+survival. However, high-risk human papilloma virus (hr-HPV)-16-caused OPSCCs have
+increased during this period. Furthermore, hr-HPV+ OPSCC carry a better prognosis
+than hr-HPV-negative patients. We have, therefore, evaluated the 5-year survival 
+in the period from 1992 to 1999 versus 2000 to 2008 stratified by hr-HPV tumor
+infection status. Ninety-six OPSCC patients were treated from 1992 to 1999
+compared with 136 patients from 2000 to 2008. The 5-year disease-specific
+survival (DDS) and overall survival (OS) were recorded, while the health-related 
+quality of life (HRQoL) scores were obtained from some of the cured patients.
+Thirty-eight (40 %) in the first period and 86 OPSCCs (63 %) in the second period
+were hr-HPV+. In the first period, 16 versus 62 patients in the last period were 
+treated by neck dissection, primary tumor surgery, and RT. DSS among all the
+hr-HPV-negative patients in the first period was 51 versus 55 % in the second
+period, and the corresponding OS was 33 versus 31 %, respectively. The DSS among 
+all the hr-HPV+ patients was 78 % in the first period versus 77 % in the second
+period, while the OS was 71 versus 69 %, respectively. The HRQoL scores among
+successfully treated patients were worse following surgery, plus RT than RT only.
+The hr-HPV-adjusted 5-year survival in OPSCC patients was similar between the two
+time periods. A decreased HRQoL was associated with surgical therapy, which
+indicates that hr-HPV+ OPSCC patients may be treated by primary RT followed by
+major surgery only if RT treatment fails.
+
+DOI: 10.1007/s00405-016-4203-2 
+PMID: 27491318  [Indexed for MEDLINE]

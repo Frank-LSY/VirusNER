@@ -1,0 +1,36 @@
+
+
+1578. Annu Rev Med. 2016;67:91-101. doi: 10.1146/annurev-med-051914-021907. Epub 2015
+Aug 26.
+
+HPV-Associated Head and Neck Cancer: Unique Features of Epidemiology and Clinical
+Management.
+
+Maxwell JH(1), Grandis JR(2), Ferris RL(1)(3).
+
+Author information: 
+(1)Department of Otolaryngology, MedStar Georgetown University Hospital,
+Washington DC 20007; email: jessica.maxwell@gunet.georgetown.edu.
+(2)Department of Otolaryngology-Head and Neck Surgery, University of California, 
+San Francisco, California 94143; email: jennifer.grandis@ucsf.edu.
+(3)Cancer Immunology Program, University of Pittsburgh Cancer Institute,
+Pittsburgh, Pennsylvania 15232; email: ferrisrl@upmc.edu.
+
+Human papillomavirus (HPV) is a recently identified causative agent for a subset 
+of head and neck cancers, primarily in the oropharynx, and is largely responsible
+for the rising worldwide incidence of oropharyngeal cancer (OPC). Patients with
+HPV-positive OPC have distinct risk factor profiles and generally have a better
+prognosis than patients with traditional, HPV-negative, head and neck cancer.
+Concurrent chemotherapy and radiation is a widely accepted primary treatment
+modality for many patients with HPV-positive OPC. However, recent advances in
+surgical modalities, including transoral laser and robotic surgery, have led to
+the reemergence of primary surgical treatment for HPV-positive patients. Clinical
+trials are under way to determine optimal treatment strategies for the growing
+subset of patients with HPV-positive OPC. Similarly, identifying those patients
+with HPV-positive cancer who are at risk for recurrence and poor survival is
+critical in order to tailor individual treatment regimens and avoid potential
+undertreatment.
+
+DOI: 10.1146/annurev-med-051914-021907 
+PMCID: PMC5242186
+PMID: 26332002  [Indexed for MEDLINE]

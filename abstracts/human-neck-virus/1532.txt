@@ -1,0 +1,38 @@
+
+
+1532. J Laryngol Otol. 2015 Dec;129(12):1148-55. doi: 10.1017/S0022215115002686. Epub
+2015 Oct 8.
+
+Tumour-node-metastasis staging of human papillomavirus negative upper
+aerodigestive tract cancers: a critical appraisal.
+
+Aydil U(1), Duvvuri U(2), Kizil Y(1), Köybaşioğlu A(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head & Neck Surgery,Gazi University School 
+of Medicine,Ankara,Turkey.
+(2)Department of Otorhinolaryngology, Head & Neck Surgery,University of
+Pittsburgh Medical Center,Pennsylvania,USA.
+(3)Department of Otorhinolaryngology, Head & Neck Surgery,Memorial Ankara
+Hospital,Turkey.
+
+OBJECTIVE: The tumour-node-metastasis staging system has a dynamic structure that
+is continuously being updated as scientific data develops. This review discusses 
+some suggested revisions on tumour-node-metastasis staging of human
+papillomavirus negative upper aerodigestive tract cancers.
+METHODS: The seventh edition of The American Joint Committee on Cancer Staging
+Manual was reviewed and important issues that could be considered for revision
+were identified and discussed.
+RESULTS: According to our assessment of the oncological outcomes of previous
+studies, the following factors should be considered for revision: anterior
+commissure involvement and subglottic extension in laryngeal cancers; underlying 
+bone involvement in hard palate and upper alveolar ridge cancers; tumour
+thickness in oral cancers; and extracapsular spread and carotid artery
+involvement in neck metastases.
+CONCLUSION: Sufficient data on the prognostic importance of these issues have
+been reported. Suggested revisions in line with current knowledge on the clinical
+behaviour of upper aerodigestive tract cancers would improve the relevancy of
+staging.
+
+DOI: 10.1017/S0022215115002686 
+PMID: 26446522  [Indexed for MEDLINE]

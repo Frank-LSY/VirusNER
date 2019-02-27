@@ -1,0 +1,63 @@
+
+
+2209. Oral Oncol. 2016 Dec;63:16-22. doi: 10.1016/j.oraloncology.2016.10.022. Epub 2016
+Nov 4.
+
+CT-based volumetric tumor growth velocity: A novel imaging prognostic indicator
+in oropharyngeal cancer patients receiving radiotherapy.
+
+Perni S(1), Mohamed AS(2), Scott J(3), Enderling H(4), Garden AS(5), Gunn GB(5), 
+Rosenthal DI(5), Fuller CD(6).
+
+Author information: 
+(1)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, 1515 Holcombe Blvd, Houston, TX, USA; Columbia University College of
+Physicians & Surgeons, 630 West 168th Street, New York, NY, USA. Electronic
+address: sp3128@columbia.edu.
+(2)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, 1515 Holcombe Blvd, Houston, TX, USA; Department of Clinical Oncology and
+Nuclear Medicine, Faculty of Medicine, University of Alexandria, Chamblion
+Street, El Azareeta, Alexandria, Egypt. Electronic address:
+ASMohamed@mdanderson.org.
+(3)Department of Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center &
+Research Institute, 12902 Magnolia Drive, Tampa, FL, USA; Department of Radiation
+Oncology, H. Lee Moffitt Cancer Center & Research Institute, 12902 Magnolia
+Drive, Tampa, FL, USA. Electronic address: scottj10@ccf.org.
+(4)Department of Integrated Mathematical Oncology, H. Lee Moffitt Cancer Center &
+Research Institute, 12902 Magnolia Drive, Tampa, FL, USA; Department of Radiation
+Oncology, H. Lee Moffitt Cancer Center & Research Institute, 12902 Magnolia
+Drive, Tampa, FL, USA. Electronic address: Heiko.Enderling@moffitt.org.
+(5)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, 1515 Holcombe Blvd, Houston, TX, USA.
+(6)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, 1515 Holcombe Blvd, Houston, TX, USA. Electronic address:
+cdfuller@mdanderson.org.
+
+OBJECTIVES: Volumetric tumor growth velocity (TGV) reflects in vitro tumor
+aggressiveness, but its prognostic value has not been investigated in vivo. We
+examined the prognostic impact of TGV on oncologic outcomes in patients with
+oropharyngeal squamous cell cancer (OSCC).
+MATERIALS AND METHODS: 101 OSCC patients with two pretreatment CTs with time gap 
+of 2 or more weeks treated at a single institution between 2004 and 2008 were
+identified. Primary tumor and nodal targets were segmented in scans. Linear
+growth rates were calculated. Recursive partitioning analysis (RPA) identified
+cut point associated with outcomes.
+RESULTS: Median follow-up was 59months (range 7-118). Median primary TGV was
+0.65% increase per day (range 0-9.37%). RPA identified TGV cut point associated
+with local control (LC) of 1% per day. Patients with higher TGV had decreased
+5-year LC (73% vs. 98%, p=0.0004), distant control (DC, 62% vs. 91%, p=0.0007),
+and overall survival (OS, 38% versus 93%, p<0.0001). In multivariate analysis
+including demographics, tumor stage, subsite, and treatment factors, TGV⩾1% per
+day independently predicted worsened LC (p = 0.02), DC (p = 0.003), and OS (p <
+0.0001). However, this TGV cutoff was not significantly predictive of LC, DC, or 
+OS for a subset of presumed HPV-positive patients.
+CONCLUSION: OSCC TGV⩾1% per day is a substantive negative prognostic indicator
+for disease control and overall survival, particularly in HPV non-associated
+tumors. This novel CT-based volumetric assessment of TGV suggests a simple
+methodology for risk stratification of patients.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.10.022 
+PMCID: PMC5157841
+PMID: 27938995  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2045. Curr Treat Options Oncol. 2012 Mar;13(1):35-46. doi: 10.1007/s11864-011-0176-y.
+
+Current treatment options for metastatic head and neck cancer.
+
+Price KA(1), Cohen EE.
+
+Author information: 
+(1)Division of Medical Oncology, Mayo Clinic, Rochester, MN 55905, USA.
+price.katharine@mayo.edu
+
+Head and neck squamous cell carcinoma is now the 8th most common cancer affecting
+men in the United States largely due to a rising epidemic of oropharynx cancer
+(tonsil and tongue base) associated with the human papillomavirus (HPV). The
+median overall survival for recurrent or metastatic head and neck cancer (R/M
+HNSCC) remains less than 1 year despite modern chemotherapy and targeted agents. 
+Palliative chemotherapy and the epidermal growth factor receptor inhibitor,
+cetuximab, constitute the backbone of treatment for patients with R/M HNSCC.
+Platinum doublets studied in phase III trials include cisplatin/5-FU,
+cisplatin/paclitaxel, and cisplatin/pemetrexed. Platinum chemotherapy in
+combination with 5-fluorouracil and cetuximab has resulted in the longest median 
+overall survival. Combination platinum regimens increase response rates and
+toxicity but not survival and should be reserved for patients who are symptomatic
+from their disease for whom the benefit of a partial response may be worth the
+cost of increased treatment-related side effects. For many patients who are
+asymptomatic with a low disease burden, single agent regimens are appropriate to 
+balance treatment with side effects. Drugs commonly used as single agents in the 
+treatment of R/M HNSCC include docetaxel, paclitaxel, cetuximab, capecitabine,
+pemetrexed, and methotrexate. Best supportive care alone is often appropriate for
+poor performance status patients. Palliative radiation therapy is beneficial for 
+treating symptomatic metastatic sites. Aggressive symptom management is
+imperative for all patients and often should include referral to experts in
+palliative care and pain management. New therapies currently under investigation 
+include mTOR inhibitors, anti-angiogenic agents, and IGF1R inhibitors. Given the 
+poor prognosis for most patients with R/M HNSCC, enrollment in clinical trials
+investigating novel approaches to therapy should be encouraged.
+
+DOI: 10.1007/s11864-011-0176-y 
+PMID: 22252884  [Indexed for MEDLINE]

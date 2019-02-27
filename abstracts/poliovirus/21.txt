@@ -1,0 +1,42 @@
+
+
+21. Virology. 2015 May;479-480:444-9. doi: 10.1016/j.virol.2015.03.044. Epub 2015 Apr
+15.
+
+Escape of non-enveloped virus from intact cells.
+
+Bird SW(1), Kirkegaard K(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, United States.
+(2)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, United States; Department of Genetics, Stanford
+University School of Medicine, Stanford, CA 94305, United States. Electronic
+address: karlak@stanford.edu.
+
+How do viruses spread from cell to cell? Enveloped viruses acquire their
+surrounding membranes by budding. If a newly enveloped virus has budded through
+the plasma membrane, it finds itself outside the cell immediately. If it has
+budded through the bounding membrane of an internal compartment such as the ER,
+the virus finds itself in the lumen, from which it can exit the cell via the
+conventional secretion pathway. Thus, although some enveloped viruses destroy the
+cells they infect, there is no topological need to do so. On the other hand,
+naked viruses such as poliovirus lack an external membrane. They are
+protein-nucleic acid complexes within the cytoplasm or nucleus of the infected
+cell, like a ribosome, a spliceosome or an aggregate of Huntingtin protein. The
+simplest way for such a particle to pass through the single lipid bilayer that
+separates it from the outside of the cell would be to violate the integrity of
+that bilayer. Thus, it is not surprising that the primary mode of exit for
+non-enveloped viruses is cell lysis. However, more complex exit strategies are
+possible, such as the creation of new compartments whose complex topologies allow
+the exit of cytoplasm and its contents without violating the integrity of the
+cell. Here we will discuss the non-lytic spread of poliovirus and recent
+observations of such compartments during viral infection with several different
+picornaviruses.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.03.044 
+PMCID: PMC4440412
+PMID: 25890822  [Indexed for MEDLINE]

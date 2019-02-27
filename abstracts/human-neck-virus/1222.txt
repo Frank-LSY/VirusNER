@@ -1,0 +1,44 @@
+
+
+1222. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2012 Dec;47(12):974-7.
+
+[Detection of human papillomavirus in the upper respiratory tract in children
+without recurrent respiratory papillomatosis].
+
+[Article in Chinese]
+
+Sun YF(1), Wu YD, Wu L, Jiang JJ, Gao R, Xu B, Chen XW, Zhao ZY.
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, The Children
+Hospital, Zhejiang University School of Medicine, Key Laboratory of Reproductive 
+Genetics (Zhejiang Unversity), Ministry of Education, Zhejiang Key Laboratory for
+Diagnosis and Therapy of Neonatal Diseases, Hangzhou 310003, China.
+
+OBJECTIVE: The purpose of this prospective study was to investigate the presence 
+of human papillomavirus (HPV) in tonsillectomy and adenoidectomy specimens from
+pediatric patients without juvenile-onset recurrent respiratory papillomatosis
+(JORRP), so as to understand the effect of HPV infection in the upper respiratory
+tract in children.
+METHODS: Two hundred and forty-one pediatric patients without known JORRP or
+other HPV-related diseases undergoing tonsillectomy and/or adenoidectomy for
+hypertrophy or chronic tonsillitis were enrolled in this prospective study. One
+hundred and seventy-seven fresh samples of tonsillar tissues and 195 samples of
+adenoid tissues were collected and then examined for the presence of HPV DNA with
+the polymerase chain reaction (PCR) technique and typing. Laryngeal papilloma
+specimens from 17 patients obtained during routine debulking procedures were also
+analyzed and served as positive controls.
+RESULTS: All 17 papilloma specimens were positive for HPV DNA and the type was 6 
+or 11. This result confirmed that the methods used were valid for detecting HPV
+infection. HPV DNA was detected in 2 of the 177 tonsillar specimens and zero of
+the 195 adenoid specimens. The two positive samples were confirmed with typing.
+One was positive for HPV6 and the other for HPV11. Review of the medical records 
+of these two cases confirmed that there were no history of HPV-related diseases. 
+Histologic analysis of their specimens showed lymphoid hyperplasia, no specific
+changes suggesting HPV infection and no signs of malignancy. The HPV infection
+rate in upper respiratory tract was 0.8% (2/241).
+CONCLUSION: There is HPV infection in upper respiratory tract in Chinese children
+without JORRP, but maybe is not sufficient for the formation of JORRP.
+
+
+PMID: 23328034  [Indexed for MEDLINE]

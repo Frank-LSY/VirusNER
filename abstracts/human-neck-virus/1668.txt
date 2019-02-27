@@ -1,0 +1,60 @@
+
+
+1668. Rev Med Interne. 2015 Aug;36(8):540-7. doi: 10.1016/j.revmed.2015.01.003. Epub
+2015 Feb 7.
+
+[HPV (Human Papilloma Virus) implication in other cancers than gynaecological].
+
+[Article in French]
+
+Badoual C(1), Tartour E(2), Roussel H(3), Bats AS(4), Pavie J(5), Pernot S(6),
+Weiss L(5), Mohamed AS(7), Thariat J(8), Hoffmann C(9), Péré H(10).
+
+Author information: 
+(1)Service d'anatomie pathologique, faculté Paris-Descartes, hôpital européen
+Georges-Pompidou, AP-HP, 20-40, rue Leblanc, 75015 Paris, France; Inserm U 970,
+équipe 10, PARCC, 75015 Paris, France. Electronic address:
+cecile.badoual@egp.aphp.fr.
+(2)Inserm U 970, équipe 10, PARCC, 75015 Paris, France; Laboratoire d'immunologie
+clinique, faculté Paris-Descartes, hôpital européen Georges-Pompidou, AP-HP,
+20-40, rue Leblanc, 75015 Paris, France.
+(3)Service d'anatomie pathologique, faculté Paris-Descartes, hôpital européen
+Georges-Pompidou, AP-HP, 20-40, rue Leblanc, 75015 Paris, France; Inserm U 970,
+équipe 10, PARCC, 75015 Paris, France.
+(4)Service de gynécologie, faculté Paris-Descartes, hôpital européen
+Georges-Pompidou, AP-HP, 20-40, rue Leblanc, 75015 Paris, France.
+(5)Service d'immunologie clinique, faculté Paris-Descartes, hôpital européen
+Georges-Pompidou, AP-HP, 20-40, rue Leblanc, 75015 Paris, France.
+(6)Service de hépato-gastro-entérologie et oncologie digestive, faculté
+Paris-Descartes, hôpital européen Georges-Pompidou, AP-HP, 20-40, rue Leblanc,
+75015 Paris, France.
+(7)Laboratoire de virologie, faculté Paris-Descartes, hôpital européen
+Georges-Pompidou, AP-HP, 20-40, rue Leblanc, 75015 Paris, France.
+(8)Service de radiothérapie, centre Antoine Lacassagne, 227, avenue de la
+Lanterne, 06200 Nice, France.
+(9)Service d'ORL, hôpital européen Georges-Pompidou, 20-40, rue Leblanc, 75015
+Paris, France.
+(10)Laboratoire de virologie, faculté Paris-Descartes, hôpital européen
+Georges-Pompidou, AP-HP, 20-40, rue Leblanc, 75015 Paris, France; Inserm U 970,
+équipe 10, PARCC, 75015 Paris, France.
+
+Worldwide, approximately 5 to 10% of the population is infected by a Human
+Papilloma Virus (HPV). Some of these viruses, with a high oncogenic risk (HPV
+HR), are responsible for about 5% of cancer. It is now accepted that almost all
+carcinomas of the cervix and the vulva are due to an HPV HR (HPV16 and 18)
+infection. However, these viruses are known to be involved in the carcinogenesis 
+of many other cancers (head and neck [SCCHN], penis, anus). For head and neck
+cancer, HPV infection is considered as a good prognostic factor. The role of HPV 
+HR in anal cancer is also extensively studied in high-risk patient's population. 
+The role of HPV infection in the carcinogenesis of esophageal, bladder, lung,
+breast or skin cancers is still debated. Given the multiple possible locations of
+HPV HR infection, the question of optimizing the management of patients with a
+HPV+ cancer arises in the implementation of a comprehensive clinical and
+biological monitoring. It is the same in therapeutics with the existence of a
+preventive vaccination, for example.
+
+Copyright © 2015 Société nationale française de médecine interne (SNFMI).
+Published by Elsevier SAS. All rights reserved.
+
+DOI: 10.1016/j.revmed.2015.01.003 
+PMID: 25661671  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+25. AIDS Rev. 2014 Jan-Mar;16(1):23-34.
+
+Origin and diversity of human retroviruses.
+
+Peeters M(1), D'Arc M, Delaporte E.
+
+Author information: 
+(1)UMI 233, Institut de Recherche pour le Développement (IRD) and University of
+Montpellier 1, Montpellier, France.
+
+Simian immunodeficiency viruses, simian T‑cell lymphotropic viruses, and simian
+foamy viruses from nonhuman primates have crossed the species barrier to humans
+at several time points, leading to the HIV and human T lymphotropic virus
+epidemic and to sporadic cases of human infections with simian foamy viruses,
+respectively. Efficient infection and spread in humans differs between simian
+foamy virus, simian lymphotropic virus, and simian immunodeficiency virus, but
+seems also to differ among the different viruses from the same simian lineage, as
+illustrated by the different spread of HIV‑1 M, N O, P or for the different HIV‑2
+groups. Among the four HIV‑1 groups, only HIV‑1 group M has spread worldwide, and
+the actual diversity within HIV‑1 M (subtypes, circulating recombinants) is the
+result of subsequent evolution and spread in the human population. HIV‑2 only
+spread to some extent in West Africa, and similarly as for HIV‑1, the nine HIV‑2 
+groups have also a different epidemic history. Four types of human T lymphotropic
+virus, type 1 to 4, have been described in humans and for three of them simian
+counterparts (simian T lymphotropic virus‑1, ‑2, ‑3) have been identified in
+multiple nonhuman primate species. The majority of human infections are with
+human T lymphotropic virus‑1, which is present throughout the world as clusters
+of high endemicity. Humans are susceptible to a wide variety of simian foamy
+viruses and seem to acquire these viruses more readily than simian
+immunodeficiency viruses or simian T lymphotropic viruses, but neither signs of
+disease in humans nor human‑to‑human transmission of simian foamy virus have been
+documented yet. The current HIV‑1 M epidemic illustrates the impact of a single
+cross‑species transmission. The recent discovery of HIV‑1 P, HIV‑2 I, new human T
+lymphotropic virus‑1 and ‑3 variants, as well as simian foamy virus infections in
+humans in Central Africa, show that our knowledge of genetic diversity and
+cross‑species transmissions of simian retroviruses is still incomplete.
+
+
+PMCID: PMC4289907
+PMID: 24584106  [Indexed for MEDLINE]

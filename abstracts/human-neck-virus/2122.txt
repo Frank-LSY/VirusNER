@@ -1,0 +1,47 @@
+
+
+2122. J Oral Pathol Med. 2017 Nov;46(10):972-978. doi: 10.1111/jop.12605. Epub 2017 Jul
+14.
+
+Peritumoral cuffing by T-cell tumor-infiltrating lymphocytes distinguishes
+HPV-related oropharyngeal squamous cell carcinoma from oral cavity squamous cell 
+carcinoma.
+
+Poropatich K(1), Hernandez D(2), Fontanarosa J(2), Brown K(3), Woloschak G(3),
+Paintal A(1), Raparia K(1)(4), Samant S(2)(4).
+
+Author information: 
+(1)Department of Pathology, Northwestern University Feinberg School of Medicine
+Chicago, Chicago, IL, USA.
+(2)Department of Otolaryngology, Feinberg Medical School, Northwestern
+University, Chicago, IL, USA.
+(3)Department of Radiation Oncology, Feinberg Medical School, Northwestern
+University, Chicago, IL, USA.
+(4)Robert H Lurie Comprehensive Cancer Center, Department of Medicine-Division of
+Hematology/Oncology, Northwestern University Feinberg School of Medicine,
+Chicago, IL, USA.
+
+BACKGROUND: It is unclear why human papillomavirus (HPV)-related head and neck
+squamous cell carcinoma (HNSCC) has improved clinical behavior compared to
+HPV-negative HNSCC. We sought to better characterize the immune microenvironment 
+of tongue cancers by examining the CD3 and CD8 TIL pattern in HPV-positive and
+HPV-negative tumors.
+METHODS: Histologic sections from 40 oral tongue and oropharyngeal cases were
+analyzed (n=21 HPV DNA-positive, n=19 HPV DNA-negative). CD3 and CD8 T-cell
+immunostaining were performed on whole-slide sections to quantify
+tumor-infiltrating lymphocyte (TIL) density and assess its morphology.
+RESULTS: A subset of cases (HPV-positive) displayed a unique TIL pattern
+consisting of circumferential peritumoral population T cells, which was absent in
+the HPV-negative cases. The presence of peritumoral cuffing was strongly
+predictive of improved recurrence-free survival compared to cases that lacked
+this morphologic pattern of immune infiltrate. Four HPV-positive cases lacked the
+pattern, including two cases with disease recurrence.
+CONCLUSIONS: For the first time, we show an architectural pattern of immune
+infiltrate in HNSCC is seen exclusively in HPV-positive patients with improved
+recurrence-free survival and suggests an organized host immunological response
+contributes to disease control.
+
+© 2017 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12605 
+PMID: 28632936  [Indexed for MEDLINE]

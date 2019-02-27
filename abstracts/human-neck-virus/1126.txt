@@ -1,0 +1,64 @@
+
+
+1126. JAMA Otolaryngol Head Neck Surg. 2014 Sep;140(9):846-54. doi:
+10.1001/jamaoto.2014.1338.
+
+Saliva and plasma quantitative polymerase chain reaction-based detection and
+surveillance of human papillomavirus-related head and neck cancer.
+
+Ahn SM(1), Chan JY(1), Zhang Z(2), Wang H(2), Khan Z(1), Bishop JA(3), Westra
+W(3), Koch WM(1), Califano JA(4).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Medical
+Institutions, Baltimore, Maryland.
+(2)Division of Biostatics and Bioinformatics, Johns Hopkins School of Medicine,
+Baltimore, Maryland.
+(3)Department of Pathology, Johns Hopkins Medical Institutions, Baltimore,
+Maryland.
+(4)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Medical
+Institutions, Baltimore, Maryland4Milton J. Dance Head and Neck Center, Greater
+Baltimore Medical Center, Baltimore, Maryland.
+
+IMPORTANCE: Human papillomavirus type 16 (HPV-16) is a major causative factor in 
+oropharyngeal squamous cell carcinoma (OPSCC). The detection of primary OPSCC is 
+often delayed owing to the challenging anatomy of the oropharynx.
+OBJECTIVE: To investigate the feasibility of HPV-16 DNA detection in pretreatment
+and posttreatment plasma and saliva and its potential role as a marker of
+prognosis.
+DESIGN, SETTING, AND PARTICIPANTS: This is a retrospective analysis of a
+prospectively collected cohort. Among a cohort of patients with oropharyngeal and
+unknown primary squamous cell carcinoma with known HPV-16 tumor status from the
+Johns Hopkins Medical Institutions and Greater Baltimore Medical Center (from
+1999 through 2010), 93 patients were identified with a complete set of
+pretreatment and posttreatment plasma or saliva samples, of which 81 patients had
+HPV-16-positive tumors and 12 patients had HPV-16-negative tumors. Real-time
+quantitative polymerase chain reaction was used to detect HPV-16 E6 and E7 DNA in
+saliva and plasma samples.
+MAIN OUTCOMES AND MEASURES: Main outcomes included sensitivity, specificity,
+negative predictive value of combined saliva and plasma pretreatment HPV-16 DNA
+status for detecting tumor HPV-16 status, as well as the association of
+posttreatment HPV DNA status with clinical outcomes, including recurrence-free
+survival and overall survival.
+RESULTS: The median follow-up time was 49 months (range, 0.9-181.0 months). The
+sensitivity, specificity, negative predictive value, and positive predictive
+value of combined saliva and plasma pretreatment HPV-16 DNA status for detecting 
+tumor HPV-16 status were 76%, 100%, 42%, and 100%, respectively. The
+sensitivities of pretreatment saliva or plasma alone were 52.8% and 67.3%,
+respectively. In a multivariable analysis, positive posttreatment saliva HPV
+status was associated with higher risk of recurrence (hazard ratio [HR], 10.7;
+95% CI, 2.36-48.50) (P = .002). Overall survival was reduced among those with
+posttreatment HPV-positive status in saliva (HR, 25.9; 95% CI, 3.23-208.00) (P = 
+.002) and those with HPV-positive status in either saliva or plasma but not among
+patients with HPV-positive status in plasma alone. The combined saliva and plasma
+posttreatment HPV-16 DNA status was 90.7% specific and 69.5% sensitive in
+predicting recurrence within 3 years.
+CONCLUSIONS AND RELEVANCE: Using a combination of pretreatment plasma and saliva 
+can increase the sensitivity of pretreatment HPV-16 status as a tool for
+screening patients with HPV-16-positive OPSCC. In addition, analysis of HPV-16
+DNA in saliva and plasma after primary treatment may allow for early detection of
+recurrence in patients with HPV-16-positive OPSCC.
+
+DOI: 10.1001/jamaoto.2014.1338 
+PMCID: PMC4313904
+PMID: 25078109  [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+
+
+1326. Tumour Biol. 2016 Jun;37(6):7193-201. doi: 10.1007/s13277-015-4569-6. Epub 2015
+Dec 14.
+
+Effect of HPV on tumor expression levels of the most commonly used markers in
+HNSCC.
+
+Polanska H(1), Heger Z(2)(3), Gumulec J(1), Raudenska M(1), Svobodova M(1),
+Balvan J(1), Fojtu M(4), Binkova H(5), Horakova Z(5), Kostrica R(5), Adam
+V(2)(3), Kizek R(2)(3), Masarik M(6)(7).
+
+Author information: 
+(1)Department of Pathological Physiology, Faculty of Medicine, Masaryk
+University, Kamenice 5, CZ-625 00, Brno, Czech Republic.
+(2)Department of Chemistry and Biochemistry, Mendel University in Brno,
+Zemedelska 1, CZ-613 00, Brno, Czech Republic.
+(3)Central European Institute of Technology, Brno University of Technology,
+Technicka 3058/10, CZ-616 00, Brno, Czech Republic.
+(4)Department of Physiology, Faculty of Medicine, Masaryk University, Kamenice 5,
+CZ-625 00, Brno, Czech Republic.
+(5)Department of Otorhinolaryngology and Head and Neck Surgery, St. Anne's
+Faculty Hospital, Pekarska 53, CZ-656 91, Brno, Czech Republic.
+(6)Department of Pathological Physiology, Faculty of Medicine, Masaryk
+University, Kamenice 5, CZ-625 00, Brno, Czech Republic. masarik@med.muni.cz.
+(7)Central European Institute of Technology, Brno University of Technology,
+Technicka 3058/10, CZ-616 00, Brno, Czech Republic. masarik@med.muni.cz.
+
+Approximately 90 % of head and neck cancers are squamous cell carcinomas (HNSCC),
+and the overall 5-year survival rate is not higher than 50 %. There is much
+evidence that human papillomavirus (HPV) infection may influence the expression
+of commonly studied HNSCC markers. Our study was focused on the possible
+HPV-specificity of molecular markers that could be key players in important steps
+of cancerogenesis (MKI67, EGF, EGFR, BCL-2, BAX, FOS, JUN, TP53, MT1A, MT2A,
+VEGFA, FLT1, MMP2, MMP9, and POU5F). qRT-PCR analysis of these selected genes was
+performed on 74 biopsy samples of tumors from patients with histologically
+verified HNSCC (22 HPV-, 52 HPV+). Kaplan-Meier analysis was done to determine
+the relevance of these selected markers for HNSCC prognosis. In conclusion, our
+study confirms the impact of HPV infection on commonly studied HNSCC markers
+MT2A, MMP9, FLT1, VEGFA, and POU5F that were more highly expressed in
+HPV-negative HNSCC patients and also shows the relevance of studied markers in
+HPV-positive and HPV-negative HNSCC patients.
+
+DOI: 10.1007/s13277-015-4569-6 
+PMID: 26666815  [Indexed for MEDLINE]

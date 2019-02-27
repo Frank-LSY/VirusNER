@@ -1,0 +1,37 @@
+
+
+1996. Indian J Cancer. 2017 Jul-Sep;54(3):498-501. doi: 10.4103/ijc.IJC_272_17.
+
+Prevalence of human papillomavirus in oral squamous cell carcinoma: A rural
+teaching hospital-based cross-sectional study.
+
+Rajesh D(1), Mohiyuddin SMA(2), Kutty AVM(1), Balakrishna S(1).
+
+Author information: 
+(1)Department of Cell Biology and Molecular Genetics, Sri Devaraj Urs Academy of 
+Higher Education and Research, Kolar, Karnataka, India.
+(2)Department of Otorhinolaryngology and Head and Neck Surgery, Sri Devaraj Urs
+Academy of Higher Education and Research, Kolar, Karnataka, India.
+
+BACKGROUND: Human papillomavirus (HPV) is a well-established oncogenic agent in
+the pathogenesis of cervical carcinoma. Its role in the oncogenesis of tumors
+such as oral squamous cell carcinoma (OSCC) is not clear. Globally, approximately
+3% of OSCCs are positive for HPV. Studies conducted in India indicate its
+prevalence from as low as 0% to as high as 74%. However, a recent Indian study on
+leukoplakia failed to find any evidence of HPV involvement. This motivated us to 
+reexamine the HPV status in OSCC.
+AIM: To evaluate the prevalence of HPV in OSCC.
+SETTINGS AND DESIGN: This was a rural teaching hospital-based cross-sectional
+study.
+SUBJECTS AND METHODS: Sixty histopathologically confirmed samples of OSCC were
+used for the study. Genomic DNA was isolated from frozen, surgically-resected
+specimens. HPV positivity was tested by polymerase chain reaction-based method
+using GP5+/6+ primers in the L1 consensus region of the viral genome.
+RESULTS: None of the samples were HPV positive.
+CONCLUSIONS: Results of this study indicate that the association between HPV and 
+OSCC may be overestimated. Hence, multicentric studies covering diverse
+geographical and socioeconomic groups are needed to delineate the profile of HPV 
+infectivity and OSCC in the Indian subcontinent.
+
+DOI: 10.4103/ijc.IJC_272_17 
+PMID: 29798946  [Indexed for MEDLINE]

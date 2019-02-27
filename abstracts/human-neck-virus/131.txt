@@ -1,0 +1,35 @@
+
+
+131. Am J Otolaryngol. 2012 Jan-Feb;33(1):130-6. doi: 10.1016/j.amjoto.2011.02.001.
+Epub 2011 May 5.
+
+Human papillomavirus, smoking, and head and neck cancer.
+
+Sinha P(1), Logan HL, Mendenhall WM.
+
+Author information: 
+(1)Department of Community Dentistry and Behavioral Science, University of
+Florida, Gainesville, FL 32610-3628, USA.
+
+AIMS: Smoking and human papillomavirus (HPV) are both distinct risk factors for
+head and neck cancer, but the nature of interaction between these 2 risk factors 
+in the development of head and neck cancer remains unclear. The purpose of this
+review is to determine the potential effect of smoking in causation of
+HPV-related head and neck carcinoma.
+METHOD: A literature search was carried out using the keywords human
+papillomavirus, head and neck cancer, smoking, tobacco, and cervical cancer. The 
+English-language articles, references, and other relevant studies evaluating the 
+association of smoking, HPV, and risk of head and neck cancer were collected and 
+analyzed.
+CONCLUSION: Overall, our review points to smoking tobacco posing an additional
+risk for development of head and neck cancer in the presence of HPV infection.
+This is consistent with available laboratory data that show evidence of
+biological plausibility for interaction between smoking and progression of HPV
+infection to carcinogenesis. It is therefore important that cessation of smoking 
+is promoted in smokers with HPV infection.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2011.02.001 
+PMCID: PMC3154993
+PMID: 21546122  [Indexed for MEDLINE]

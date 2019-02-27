@@ -1,0 +1,34 @@
+
+
+1246. Surg Oncol Clin N Am. 2017 Jul;26(3):357-370. doi: 10.1016/j.soc.2017.01.006.
+Epub 2017 May 11.
+
+Controversies in Postoperative Irradiation of Oropharyngeal Cancer After
+Transoral Surgery.
+
+Yom SS(1), Mallen-St Clair J(2), Ha PK(2).
+
+Author information: 
+(1)Department of Radiation Oncology, University of California-San Francisco, 1600
+Divisadero Street, H1031, San Francisco, CA 94143-1708, USA; Division of Head and
+Neck Surgical Oncology, Department of Otolaryngology-Head and Neck Surgery,
+University of California-San Francisco, 550 16th Street, Box 3213, San Francisco,
+CA 94158, USA. Electronic address: yoms@radonc.ucsf.edu.
+(2)Division of Head and Neck Surgical Oncology, Department of Otolaryngology-Head
+and Neck Surgery, University of California-San Francisco, 550 16th Street, Box
+3213, San Francisco, CA 94158, USA.
+
+Transoral surgery (TOS) is a novel technology whose adoption is expanding in the 
+United States and other countries. TOS offers the possibility of a minimally
+invasive surgical approach to head and neck cancers. Its most frequent
+application has been in oropharyngeal cancers (OPC), of which most are associated
+with human papillomavirus (HPV). For HPV-associated OPC, where high response and 
+survival rates are expected, deintensification of standard therapy is a major
+area of clinical research. In HPV-OPC, traditional pathologic risk factors
+indicating a need for adjuvant radiation or chemoradiation may not apply as
+strongly.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.soc.2017.01.006 
+PMID: 28576176  [Indexed for MEDLINE]

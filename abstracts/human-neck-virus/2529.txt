@@ -1,0 +1,42 @@
+
+
+2529. Sci Rep. 2015 Nov 19;5:16811. doi: 10.1038/srep16811.
+
+Selective participation of c-Jun with Fra-2/c-Fos promotes aggressive tumor
+phenotypes and poor prognosis in tongue cancer.
+
+Gupta S(1), Kumar P(1)(2), Kaur H(1), Sharma N(3), Saluja D(1), Bharti AC(4), Das
+BC(1)(2).
+
+Author information: 
+(1)Department of Molecular Oncology, Dr. B.R. Ambedkar Centre for Biomedical
+Research (ACBR), University of Delhi, New Delhi-110007, India.
+(2)Amity Institute of Molecular Medicine &Stem Cell Research (AIMMSCR), Amity
+University Campus, Uttar Pradesh, Sector-125, Noida-201313, India.
+(3)Department of Otorhinolaryngology, Post Graduate Institute of Medical
+Education and Research, Dr. Ram Manohar Lohia (RML) Hospital, New Delhi-110010,
+India.
+(4)Division of Molecular Oncology, Institute of Cytology &Preventive Oncology
+(ICMR), Uttar Pradesh, Sector-39, Noida-201301, India.
+
+Tongue squamous cell carcinoma (TSCC) is most aggressive head and neck cancer
+often associated with HR-HPV infection. The role of AP-1 which is an essential
+regulator of HPV oncogene expression and tumorigenesis is not reported in tongue 
+cancer. One hundred tongue tissue biopsies comprising precancer, cancer and
+adjacent controls including two tongue cancer cell lines were employed to study
+the role of HPV infection and AP-1 family proteins. An exclusive prevalence (28%)
+of HR-HPV type 16 was observed mainly in well differentiated tongue carcinomas
+(78.5%). A higher expression and DNA binding activity of AP-1 was observed in
+tongue tumors and cancer cell lines with c-Fos and Fra-2 as the major binding
+partners forming the functional AP-1 complex but c-Jun participated only in HPV
+negative and poorly differentiated carcinoma. Knocking down of Fra-2 responsible 
+for aggressive tongue tumorigenesis led to significant reduction in c-Fos, c-Jun,
+MMP-9 and HPVE6/E7 expression but Fra-1 and p53 were upregulated. The binding and
+expression of c-Fos/Fra-2 increased as a function of severity of tongue lesions, 
+yet selective participation of c-Jun appears to promote poor differentiation and 
+aggressive tumorigenesis only in HPV negative cases while HPV infection leads to 
+well differentiation and better prognosis preferably in nonsmokers.
+
+DOI: 10.1038/srep16811 
+PMCID: PMC4652185
+PMID: 26581505  [Indexed for MEDLINE]

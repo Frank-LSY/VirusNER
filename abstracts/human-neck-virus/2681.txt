@@ -1,0 +1,35 @@
+
+
+2681. Tumour Biol. 2012 Aug;33(4):1201-8. doi: 10.1007/s13277-012-0366-7. Epub 2012 Mar
+14.
+
+Poly(I:C) treatment influences the expression of calreticulin and profilin-1 in a
+human HNSCC cell line: a proteomic study.
+
+Matijević T(1), Pavelić J.
+
+Author information: 
+(1)Division of Molecular Medicine, Rudjer Boskovic Institute, Bijenicka 54, 10000
+Zagreb, Croatia.
+
+Polyinosinic:polycytidylic acid (poly (I:C)) has been formerly known to be an
+interferon inducer but the mechanism of its action was not revealed until the
+discovery of Toll-like receptors (TLRs). TLRs are members of transmembrane
+proteins that recognize conserved molecular motifs of viral and bacterial origin 
+and initiate innate immune response. Recent studies have shown that they are also
+expressed on tumor cells, but their role in these cells is still not clear. TLR3 
+recognizes double-stranded RNA (poly (I:C)) and is primarily involved in the
+defense against viruses. TLR3 ligand binding initiates the activation of
+transcription factors NF-κB, IRF family members, and AP-1, which can induce wide 
+cascading effect on the cell and consequently activate many cellular processes.
+Since little is known about TLR3 target genes, we have used the proteomic
+approach to widen the current knowledge. In this study, we have discovered 15
+differentially expressed proteins, mostly connected with protein metabolic
+processes. Furthermore, we have confirmed by Western blot that calreticulin and
+profilin-1, proteins which have been shown previously to be involved in processes
+connected with tumor progression, are differentially expressed after poly(I:C)
+treatment. By using TLR3 small interfering RNA, we showed that calreticulin
+expression might be TLR3 dependent, unlike profilin-1.
+
+DOI: 10.1007/s13277-012-0366-7 
+PMID: 22415225  [Indexed for MEDLINE]

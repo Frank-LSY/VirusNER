@@ -1,0 +1,48 @@
+
+
+2932. Tumour Biol. 2017 Apr;39(4):1010428317695930. doi: 10.1177/1010428317695930.
+
+Expression and associations of TRAF1, BMI-1, ALDH1, and Lin28B in oral squamous
+cell carcinoma.
+
+Wu TF(1)(2), Li YC(1), Ma SR(1), Bing-Liu(2), Zhang WF(2), Sun ZJ(1)(2).
+
+Author information: 
+(1)1 The State Key Laboratory Breeding Base of Basic Science of Stomatology & Key
+Laboratory of Oral Biomedicine Ministry of Education, Wuhan University, Wuhan,
+People's Republic of China.
+(2)2 Department of Oral Maxillofacial-Head Neck Oncology, School and Hospital of 
+Stomatology, Wuhan University, Wuhan, People's Republic of China.
+
+Tumor necrosis factor receptor-associated factor 1, an adaptor protein of tumor
+necrosis factor 2, is involved in classical nuclear factor (NF)-κB activation and
+lymphocyte recruitment. However, less is known about the expression and
+association of tumor necrosis factor receptor-associated factor 1 with cancer
+stem cell markers in oral squamous cell carcinoma. This study aimed to
+investigate the expression of tumor necrosis factor receptor-associated factor 1 
+and stem cell characteristic markers (lin28 homolog B, B cell-specific Moloney
+murine leukemia virus integration site 1, and aldehyde dehydrogenase 1) in oral
+squamous cell carcinoma and analyze their relations. Paraffin-embedded tissues of
+78 oral squamous cell carcinomas, 39 normal oral mucosa, and 12 oral dysplasia
+tissues were employed in tissue microarrays, and the expression of tumor necrosis
+factor receptor-associated factor 1, B cell-specific Moloney murine leukemia
+virus integration site 1, aldehyde dehydrogenase 1, and lin28 homolog B was
+measured by immunohistostaining and digital pathological analysis. The expression
+of tumor necrosis factor receptor-associated factor 1 was higher in the oral
+squamous cell carcinoma group as compared with the expression in the oral mucosa 
+(p < 0.01) and oral dysplasia (p < 0.001) groups. In addition, the expression of 
+tumor necrosis factor receptor-associated factor 1 was associated with those of B
+cell-specific Moloney murine leukemia virus integration site 1, aldehyde
+dehydrogenase 1, and lin28 homolog B (p = 0.032, r2 = 0.109; p < 0.0001,
+r2 = 0.64; and p < 0.001, r2 = 0.16) in oral squamous cell carcinoma. The patient
+survival rate was lower in the highly expressed tumor necrosis factor
+receptor-associated factor 1 group, although the difference was not significant. 
+The clustering analysis showed that tumor necrosis factor receptor-associated
+factor 1 was most related to aldehyde dehydrogenase 1. These findings suggest
+that tumor necrosis factor receptor-associated factor 1 has potential
+direct/indirect regulations with the cancer stem cell markers in oral squamous
+cell carcinoma, which may help in further analysis of the cancer stem cell
+characteristics.
+
+DOI: 10.1177/1010428317695930 
+PMID: 28381191  [Indexed for MEDLINE]

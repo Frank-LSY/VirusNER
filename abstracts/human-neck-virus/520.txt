@@ -1,0 +1,44 @@
+
+
+520. Head Neck. 2016 Apr;38 Suppl 1:E1054-60. doi: 10.1002/hed.24157. Epub 2015 Sep 2.
+
+Impact of feeding tube choice on severe late dysphagia after definitive
+chemoradiotherapy for human papillomavirus-negative head and neck cancer.
+
+Ward MC(1), Bhateja P(2), Nwizu T(3), Kmiecik J(4), Reddy CA(1), Scharpf J(5),
+Lamarre ED(5), Burkey BB(5), Greskovich JF(1), Adelstein DJ(3), Koyfman SA(1).
+
+Author information: 
+(1)Department of Radiation Oncology, Taussig Cancer Institute, Cleveland Clinic, 
+Cleveland, Ohio.
+(2)Department of Hospital Medicine, Medicine Institute, Cleveland Clinic,
+Cleveland, Ohio.
+(3)Department of Hematology and Medical Oncology, Taussig Cancer Institute,
+Cleveland Clinic, Cleveland, Ohio.
+(4)Speech Pathology, Head and Neck Institute, Cleveland Clinic, Cleveland, Ohio.
+(5)Department of Otolaryngology, Head and Neck Institute, Cleveland Clinic,
+Cleveland, Ohio.
+
+BACKGROUND: Severe late dysphagia is common after chemoradiotherapy for cancers
+of the larynx and oropharynx. Options for reduction of severe late dysphagia are 
+limited for human papillomavirus (HPV)-negative patients. In this study, the role
+of feeding tube choice in severe late dysphagia is investigated.
+METHODS: Patients disease-free after chemoradiotherapy for HPV-negative cancers
+of the laryngopharynx who received a feeding tube on-treatment were identified.
+The incidence of severe late dysphagia after reactive nasogastric (R-NG),
+proactive or reactive percutaneous gastrostomy (P-PEG or R-PEG) was assessed
+using log-rank and Cox analyses.
+RESULTS: Seventy-eight patients received a feeding tube on-treatment and remained
+disease-free. Median follow-up was 64 months. The 5-year incidence of severe late
+dysphagia was 30.8% in the R-NG cohort (n = 36), 56.4% in the R-PEG (n = 17; p = 
+.193), and 60.9% in the P-PEG (n = 25; p = .016) cohorts. On multivariate
+analysis, percutaneous gastrostomy (PEG) feeding was independently associated
+with an increased rate of severe late dysphagia.
+CONCLUSION: R-NG use during chemoradiotherapy is associated with less severe late
+dysphagia and is preferred over PEG. © 2015 Wiley Periodicals, Inc. Head Neck 38:
+E1054-E1060, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24157 
+PMID: 26045168  [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+
+
+3058. BMC Cancer. 2013 Jul 1;13:318. doi: 10.1186/1471-2407-13-318.
+
+Intensity-modulated radiotherapy with simultaneous modulated accelerated boost
+technique and chemotherapy in patients with nasopharyngeal carcinoma.
+
+Fareed MM(1), AlAmro AS, Bayoumi Y, Tunio MA, Ismail AS, Akasha R, Mubasher M, Al
+Asiri M.
+
+Author information: 
+(1)Department of Radiation Oncology, King Fahad Medical City, Riyadh, Saudi
+Arabia. fareedmohsin@ymail.com
+
+BACKGROUND: To present our experience of intensity-modulated radiotherapy (IMRT) 
+with simultaneous modulated accelerated radiotherapy (SMART) boost technique in
+patients with nasopharyngeal carcinoma (NPC).
+METHODS: Sixty eight patients of NPC were treated between April 2006 and December
+2011 including 45 males and 23 females with mean age of 46 (range 15-78). Stage
+distribution was; stage I 3, stage II 7, stage III 26 and stage IV 32. Among 45
+(66.2%) evaluated patients for presence of Epstein-Barr virus (EBV), 40 (88.8%)
+were positive for EBV. Median radiation doses delivered to gross tumor volume
+(GTV) and positive neck nodes were 66-70 Gy, 63 Gy to clinical target volume
+(CTV) and 50.4 Gy to clinically negative neck. In addition 56 (82.4%) patients
+with bulky tumors (T4/N2+) received neoadjuvant chemotherapy 2-3 cycles
+(Cisplatin/Docetaxel or Cisplatin/Epirubicin or Cisplatin/5 Flourouracil).
+Concurrent chemotherapy with radiation was weekly Cisplatin 40 mg/m2 (40
+patients) or Cisplatin 100 mg/m2 (28 patients).
+RESULTS: With a median follow up of 20 months (range 3-43), one patient developed
+local recurrence, two experienced regional recurrences and distant failure was
+seen in 3 patients. Estimated 3 year disease free survival (DFS) was 94%. Three
+year DFS for patients with EBV was 100% as compared to 60% without EBV (p =
+0.0009). Three year DFS for patients with undifferentiated histology was 98% as
+compared to 82% with other histologies (p = 0.02). Acute grade 3 toxicity was
+seen as 21 (30.9%) having G-III mucositis and 6 (8.8%) with G-III skin reactions.
+Late toxicity was minimal and loss of taste was seen in 3 patients (7.5%) at time
+of analysis.
+CONCLUSIONS: IMRT with SMART in combination with chemotherapy is feasible and
+effective in terms of both the clinical response and safety profile. EBV,
+histopathology and nodal involvement were found important prognostic factors for 
+locoregional recurrence.
+
+DOI: 10.1186/1471-2407-13-318 
+PMCID: PMC3700828
+PMID: 23815822  [Indexed for MEDLINE]

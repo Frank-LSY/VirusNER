@@ -1,0 +1,42 @@
+
+
+1794. Int J Cancer. 2014 Jun 15;134(12):2755-63. doi: 10.1002/ijc.28411. Epub 2013 Aug 
+29.
+
+The interplay between HPV and host immunity in head and neck squamous cell
+carcinoma.
+
+Andersen AS(1), Koldjaer Sølling AS, Ovesen T, Rusan M.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Aarhus University Hospital, Aarhus,
+Denmark.
+
+Persistent infection with human papillomavirus (HPV) type 16 is a major risk
+factor for the development of head and neck squamous cell carcinoma (HNSCC), in
+particular oropharyngeal squamous cell carcinoma (OPSCC). The oropharyngeal
+epithelium differs from the mucosal epithelium at other commonly HPV16-infected
+sites (i.e., cervix and anogenital region) in that it is juxtaposed with the
+underlying lymphatic tissue, serving a key immunologic function in the
+surveillance of inhaled and ingested pathogens. Therefore, the natural history of
+infection and immune response to HPV at this site may differ from that at other
+anatomic locations. This review summarizes the literature concerning the adaptive
+immune response against HPV in the context of HNSCC, with a focus on the T-cell
+response. Recent studies have shown that a broad repertoire of tumor-infiltrating
+HPV-specific T-cells are found in nearly all patients with HPV-positive tumors. A
+systemic response is found in only a proportion of these. Furthermore, the local 
+response is more frequent in OPSCC patients than in cervical cancer patients and 
+HPV-negative OPSCC patients. Despite this, tumor persistence may be facilitated
+by abnormalities in antigen processing, a skewed T-helper cell response, and an
+increased local prevalence of T-regulatory cells. Nonetheless, the immunologic
+profile of HPV-positive vs. HPV-negative HNSCC is associated with a significantly
+better outcome, and the HPV-specific immune response is suggested to play a role 
+in the significantly better response to therapy of HPV-positive patients.
+Immunoprofiling may prove a valuable prognostic tool, and immunotherapy trials
+targeting HPV are underway, providing hope for decreasing treatment-related
+toxicity.
+
+© 2013 UICC.
+
+DOI: 10.1002/ijc.28411 
+PMID: 23913554  [Indexed for MEDLINE]

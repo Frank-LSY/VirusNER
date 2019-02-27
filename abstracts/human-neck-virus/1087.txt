@@ -1,0 +1,47 @@
+
+
+1087. Clin Transplant. 2017 Jun;31(6). doi: 10.1111/ctr.12971. Epub 2017 Apr 17.
+
+Airway inflammation and symptoms in children following liver and heart
+transplantation.
+
+Redmann AJ(1), Bucuvalas JC(2), Wood RE(3), Chin C(4), Hart CK(1)(5).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Cincinnati, 
+Cincinnati, OH, USA.
+(2)Division of Gasteroenterology, Hepatology, and Nutrition, Department of
+Pediatrics, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, USA.
+(3)Division of Pediatric Pulmonary Medicine, Department of Pediatrics, Cincinnati
+Children's Hospital Medical Center, Cincinnati, OH, USA.
+(4)The Heart Institute, Cincinnati Children's Hospital Medical Center,
+Cincinnati, OH, USA.
+(5)Division of Pediatric Otolaryngology-Head and Neck Surgery, Cincinnati
+Children's Hospital Medical Center, Cincinnati, OH, USA.
+
+OBJECTIVES: To describe the upper airway endoscopic findings of children with
+upper airway symptoms after liver transplantation (LT) or heart transplantation
+(HT).
+METHODS: Review of children undergoing airway endoscopy after LT or HT from 2011 
+to 2015 at a tertiary care pediatric hospital. Airway findings, biopsy results,
+immunosuppression, and Epstein-Barr virus (EBV) levels were recorded.
+RESULTS: Twenty-three of 158 LT (111) and HT (47) recipients underwent endoscopy.
+Median time from LT to endoscopy was 9 months (range 4-25) and 31 months (range
+1-108) for HT. Thirteen of 23 patients presented with upper airway symptoms, and 
+10/23 presented with respiratory failure or for surveillance. Thirteen patients
+with upper airway symptoms had abnormal findings (7 LT; 6 HT), most commonly
+arytenoid edema (13 patients). There were five EBV-positive biopsies (four with
+post-transplant lymphoproliferative disorder), and six EBV-negative biopsies with
+lymphocytic inflammation. One biopsy demonstrated fungal infection.
+Immunosuppression was decreased in seven patients, and three received steroids.
+There were no episodes of allograft rejection. No patients had airway symptoms at
+last follow-up.
+CONCLUSIONS: In pediatric solid organ transplant recipients, symptoms of airway
+obstruction are not uncommon and should be evaluated with endoscopy. Endoscopy
+without symptoms is low-yield. Treatment with decreased immunosuppression
+improved airway symptoms.
+
+© 2017 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/ctr.12971 
+PMID: 28316109  [Indexed for MEDLINE]

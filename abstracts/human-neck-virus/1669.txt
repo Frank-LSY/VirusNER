@@ -1,0 +1,69 @@
+
+
+1669. Eur J Surg Oncol. 2018 Dec;44(12):1908-1913. doi: 10.1016/j.ejso.2018.05.022.
+Epub 2018 May 25.
+
+Impact of HPV-associated p16-expression and other clinical factors on therapeutic
+decision-making in patients with oropharyngeal cancer: A GETTEC multicentric
+study.
+
+Culié D(1), Garrel R(2), Viotti J(3), Schiappa R(3), Chamorey E(3), Fakhry N(4), 
+Lallemant B(5), Vergez S(6), Dupret-Bories A(6), Dassonville O(1), Poissonnet
+G(1), Santini J(1), Peyrade F(7), Benezery K(8), Sudaka A(9), Jourdan-Soulier
+F(10), Chapel F(10), Guelfucci B(11), Bozec A(12).
+
+Author information: 
+(1)Institut Universitaire de la Face et du Cou, Centre Antoine Lacassagne,
+Université Côte d'Azur, Nice, France.
+(2)Department of Otorhinolaryngology and Head and Neck Surgery, University
+Hospital of Montpellier, France.
+(3)Department of Statistics, Centre Antoine Lacassagne, Université Côte d'Azur,
+Nice, France.
+(4)Department of Otorhinolaryngology and Head and Neck Surgery, University
+Hospital of Marseille, France.
+(5)Department of Otorhinolaryngology and Head and Neck Surgery, University
+Hospital of Nîmes, France.
+(6)Institut Universitaire du Cancer de Toulouse, Oncopole, Toulouse, France.
+(7)Department of Medical Oncology, Centre Antoine Lacassagne, Université Côte
+d'Azur, Nice, France.
+(8)Department of Radiotherapy, Centre Antoine Lacassagne, Université Côte d'Azur,
+Nice, France.
+(9)Department of Pathology, Centre Antoine Lacassagne, Université Côte d'Azur,
+Nice, France.
+(10)Department of Pathology, Sainte Musse Hospital, Toulon, France.
+(11)Department of Otorhinolaryngology and Head and Neck Surgery, Sainte Musse
+Hospital, Toulon, France.
+(12)Institut Universitaire de la Face et du Cou, Centre Antoine Lacassagne,
+Université Côte d'Azur, Nice, France. Electronic address:
+alexandre.bozec@nice.unicancer.fr.
+
+OBJECTIVES: To analyze the impact of tumor p16 status and other clinical factors 
+on the therapeutic decision-making process in patients with oropharyngeal
+squamous cell carcinoma (OPSCC).
+METHODS: We conducted a multicenter retrospective study (GETTEC collaborative
+study group) enrolling all OPSCC patients with a determined p16-status considered
+eligible for surgery between 2009 and 2014. The impact of p16-status and other
+clinical factors on the therapeutic decision was evaluated in multivariate
+analysis.
+RESULTS: A total of 476 patients were enrolled in the study, including 244 cases 
+(51%) of p16-positive OPSCC. Overall, 223 (47%) patients underwent primary
+surgery, and 184 (83%) of them received postoperative
+radiotherapy ± chemotherapy. More patients with p16-positive OPSCC tended to
+undergo non-surgical treatment than did patients with p16-negative OPSCC
+(p = 0.10). Multivariate analysis showed that 5 factors significantly influenced 
+therapeutic management of the patients: T-stage ≥ 3 (towards a non-surgical
+strategy; p < 0.001), N-stage ≥ 2a (non-surgical strategy; p = 0.02), tumor
+involvement of the glosso-tonsillar sulcus (surgical strategy; p = 0.002), tumor 
+extension to the oral cavity (surgical strategy; p < 0.009) and the center of
+care (p < 0.001). The rate of patients directed towards a surgical strategy
+varied between 9% and 74% depending on the center.
+CONCLUSION: There was a non-significant trend to recommend patients with
+p16-positive OPSCC for non-surgical treatment. Center of care, tumor stage and
+tumor anatomical subsite and extensions were the main determinants of the
+treatment choice.
+
+Copyright © 2018 Elsevier Ltd, BASO ~ The Association for Cancer Surgery, and the
+European Society of Surgical Oncology. All rights reserved.
+
+DOI: 10.1016/j.ejso.2018.05.022 
+PMID: 29871820  [Indexed for MEDLINE]

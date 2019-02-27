@@ -1,0 +1,52 @@
+
+
+2335. PLoS One. 2015 Jun 16;10(6):e0129724. doi: 10.1371/journal.pone.0129724.
+eCollection 2015.
+
+In Vitro-Stimulated IL-6 Monocyte Secretion and In Vivo Peripheral Blood T
+Lymphocyte Activation Uniquely Predicted 15-Year Survival in Patients with Head
+and Neck Squamous Cell Carcinoma.
+
+Aarstad HH(1), Vintermyr OK(2), Ulvestad E(3), Kross K(4), Heimdal JH(1), Aarstad
+HJ(1).
+
+Author information: 
+(1)Department of Clinical Medicine, Faculty of Medicine and Dentistry, University
+of Bergen, Bergen, Norway; Department of Otolaryngology/Head and Neck Surgery,
+Haukeland University Hospital, Bergen, Norway.
+(2)Department of Clinical Medicine, Faculty of Medicine and Dentistry, University
+of Bergen, Bergen, Norway; Department of Pathology, Haukeland University
+Hospital, Bergen, Norway.
+(3)Department of Microbiology, Haukeland University Hospital, Bergen, Norway;
+Department of Clinical Science, Faculty of Medicine and Dentistry, University of 
+Bergen, Bergen, Norway.
+(4)Department of Otolaryngology/Head and Neck Surgery, Maastricht University
+Medical Centre, Maastricht, The Netherlands.
+
+The study was performed in order to determine whether peripheral blood monocyte
+in vitro function, and lymphocyte in vivo activation at diagnosis, was associated
+with HPV tumor infection status and 15-year survival in head and neck squamous
+cell carcinoma (HNSCC) patients. Sixty-five patients from a consecutive cohort of
+newly diagnosed HNSCCs, together with 18 control patients, were included in the
+study. Monocyte responsiveness was assessed by measuring monocyte in vitro
+interleukin (IL)-6 secretions after 24 hours of LPS stimulation in cultures with 
+a serum-free medium. T lymphocyte activation was determined as the fraction of
+CD71-positive cells on CD3-positive cells by flow cytometry, whereas HPV
+infection was determined by PCR on formalin-fixed paraffin-embedded (FFPE) tumor 
+tissue. Disease-specific survivals and overall survivals were determined 15 years
+following inclusion. HPV-positive HNSCC patients had a lower monocyte
+LPS-stimulated IL-6 response. A high LPS-stimulated monocyte IL-6 response
+predicted a decreased survival rate (P=0.019). A high percentage of CD71-positive
+T lymphocytes also predicted an impaired prognosis (P=0.021). The predictive
+power of IL-6 monocyte LPS-stimulated responses was retained when adjusted for
+age, gender and TNM stage of the patients. The monocyte and T lymphocyte survival
+predictions were independent of each other. The survival was particularly low
+with a combined high activated monocyte and T lymphocyte status. In a
+multivariate analysis, IL-6 secretion and the percentage of CD71-positive T
+lymphocytes both uniquely predicted survival independent of HPV infection status.
+It is postulated that the natural and adaptive immune systems are separately and 
+additionally linked to the clinical aggressiveness of HNSCCs.
+
+DOI: 10.1371/journal.pone.0129724 
+PMCID: PMC4469429
+PMID: 26079381  [Indexed for MEDLINE]

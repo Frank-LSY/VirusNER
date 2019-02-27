@@ -1,0 +1,64 @@
+
+
+930. J Med Virol. 2016 May;88(5):877-87. doi: 10.1002/jmv.24405. Epub 2015 Nov 3.
+
+The role of human papillomavirus in head and neck squamous cell carcinoma: A case
+control study on a southern Chinese population.
+
+Chor JS(1), Vlantis AC(2), Chow TL(3), Fung SC(4), Ng FY(5), Lau CH(6), Chan
+AB(7), Ho LC(8), Kwong WH(9), Fung MN(10), Lam EW(2)(11), Mak KL(12), Lam HC(1), 
+Kok AS(3), Ho WC(13), Yeung AC(13), Chan PK(13).
+
+Author information: 
+(1)School of Public Health and Primary Care, The Chinese University of Hong Kong,
+Hong Kong Special Administrative Region, China.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, The Chinese
+University of Hong Kong, Hong Kong Special Administrative Region, China.
+(3)Department of Surgery, United Christian Hospital, Hong Kong Special
+Administrative Region, China.
+(4)Department of Dentistry, United Christian Hospital, Hong Kong Special
+Administrative Region, China.
+(5)Department of Surgery, Kwong Wah Hospital, Hong Kong Special Administrative
+Region, China.
+(6)Department of Surgery, Queen Elizabeth Hospital, Hong Kong Special
+Administrative Region, China.
+(7)Department of Anatomical and Cellular Pathology, The Chinese University of
+Hong Kong, Hong Kong Special Administrative Region, China.
+(8)Department of Pathology, Queen Elizabeth Hospital, Hong Kong Special
+Administrative Region, China.
+(9)Department of Surgery, North District Hospital, Hong Kong Special
+Administrative Region, China.
+(10)Department of Pathology, United Christian Hospital, Hong Kong Special
+Administrative Region, China.
+(11)Department of Otorhinolaryngology, Head and Neck Surgery, Yan Chai Hospital, 
+Hong Kong Special Administrative Region, China.
+(12)Department of Surgery, Princess Margaret Hospital, Hong Kong Special
+Administrative Region, China.
+(13)Department of Microbiology, The Chinese University of Hong Kong, Hong Kong
+Special Administrative Region, China.
+
+HPV plays a role in the development of a portion of head and neck squamous cell
+carcinoma (HNSCC), but only limited information on its role in southern Chinese
+population is available. A multicenter case-control study was conducted. HPV
+type, viral integration, E6/7 mRNA expression status, and TP53 mutation were
+determined. A total of 228 HNSCC were recruited including 137 (60.1%) oral SCC,
+34 (14.9%) oropharyngeal SCC, 31 (13.6%) laryngeal SCC, 21 (9.2%) hypopharyngeal 
+SCC, and 5 (2.2%) lip and paranasal sinus SCC. High-risk HPV infection was found 
+in 7.5% (17/228) of HNSCC, but only a small proportion of samples had evidence of
+viral integration (5.3%, 12/228) or E6/7 mRNA expression (4.4%, 10/228). HPV
+infection with oncogenic phenotype (integration and E6/7 mRNA expression) was
+significantly more common in oropharyngeal SCC than controls (9/34, 26.5% vs.
+0/42, 0.0%, P < 0.001). Smoking showed a significant association with HNSCC,
+oropharyngeal SCC, and laryngeal SCC. TP53 mutation was associated with HNSCC
+(P < 0.001). Older age, TP53 mutation, and HPV16 infection with oncogenic
+phenotypes were independently associated factors for HNSCC with odds ratios of
+1.03 (1.02-1.05), 3.38 (1.71-6.66), and 9.19 (1.13-74.68), respectively.
+High-risk HPV infection of head and neck mucosa is not uncommon in the Hong Kong 
+population. This study found that 26-30% of oropharyngeal carcinoma was
+associated with HPV infection, mostly HPV16, and that smoking which predisposes
+to TP53 mutations was another important risk factor.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24405 
+PMID: 26467027  [Indexed for MEDLINE]

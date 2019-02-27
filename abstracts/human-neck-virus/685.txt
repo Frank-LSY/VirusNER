@@ -1,0 +1,42 @@
+
+
+685. Diagn Cytopathol. 2016 Oct;44(10):792-8. doi: 10.1002/dc.23548. Epub 2016 Jul 28.
+
+Fine-needle aspiration of cervical lymph nodes yields adequate materials for
+accurate HPV testing in metastatic head and neck squamous cell carcinomas.
+
+Hou Y(1), Chaudhary S(1), Shen R(1), Li Z(2).
+
+Author information: 
+(1)Department of Pathology, Wexner Medical Center at the Ohio State University,
+Columbus, Ohio.
+(2)Department of Pathology, Wexner Medical Center at the Ohio State University,
+Columbus, Ohio. Zaibo.Li@osumc.edu.
+
+BACKGROUND: High-risk Human papillomavirus (HR-HPV)-associated head and neck
+squamous cell carcinoma (HNSCC) is a distinct epidemiologic and pathologic
+disease. The data of HR-HPV testing on fine-needle aspiration (FNA) materials of 
+cervical lymph nodes in patients with metastatic HNSCC are limited.
+METHODS: We retrospectively reviewed metastatic HNSCC cases with cervical lymph
+node FNAs which were tested for p16 immunohistochemistry (IHC) and HR-HPV DNA in 
+situ hybridization (ISH).
+RESULTS: Of the 87 cases studied, the overall adequacy rate of cell block
+material was 86% for HR-HPV ISH, 93% for p16 IHC, 84% for both and 95% for either
+one. Pathologist-performed FNAs showed significantly higher percentage of
+satisfactory specimens for p16 and HR-HPV tests than clinician-performed FNAs. Of
+the 73 cases adequate for both p16 IHC and HR-HPV ISH, the concordant rate
+between p16 and HR-HPV results was 78%. P16 positivity had sensitivity of 90% and
+specificity of 75% to predict primary oropharyngeal HNSCC, while HR-HPV test
+showed a similar high sensitivity (91%) but a better specificity (94%).
+CONCLUSION: FNAs of cervical lymph nodes yield adequate materials for reliable
+HR-HPV testing in metastatic HNSCCs and should be incorporated into routine
+pathologic evaluation for these patients. The high concordance between p16 IHC
+and HR-HPV ISH suggests p16 IHC may serve as a surrogate for HR-HPV ISH in
+metastatic HNSCC cases with oropharyngeal origin and is helpful to pinpoint
+primary tumor site. Diagn. Cytopathol. 2016;44:792-798. © 2016 Wiley Periodicals,
+Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dc.23548 
+PMID: 27465660  [Indexed for MEDLINE]

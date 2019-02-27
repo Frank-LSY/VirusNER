@@ -1,0 +1,44 @@
+
+
+2155. Exp Cell Res. 2018 Jan 15;362(2):436-443. doi: 10.1016/j.yexcr.2017.12.007. Epub 
+2017 Dec 9.
+
+Potential role of MG53 in the regulation of transforming-growth-factor-β1-induced
+atrial fibrosis and vulnerability to atrial fibrillation.
+
+Guo J(1), Jia F(1), Jiang Y(2), Li Q(2), Yang Y(3), Xiao M(1), Xiao H(4).
+
+Author information: 
+(1)Department of Cardiology, The First Affiliated Hospital of Chongqing Medical
+University, Chongqing 400016, China.
+(2)Department of Cardiothoracic Surgery, The First Affiliated Hospital of
+Chongqing Medical University, Chongqing 400016, China.
+(3)Department of Otolaryngology Head and Neck Surgery, The First Affiliated
+Hospital of Chongqing Medical University, Chongqing 400016, China.
+(4)Department of Cardiology, The First Affiliated Hospital of Chongqing Medical
+University, Chongqing 400016, China. Electronic address: xiaohua197408@163.com.
+
+Atrial fibrosis plays a critical role in atrial fibrillation (AF) by the
+transforming growth factor (TGF)-β1/Smad pathway. The disordered differentiation,
+proliferation, migration and collagen deposition of atrial fibroblasts play
+significant roles in atrial fibrosis. Mitsugumin (MG)53 is predominantly
+expressed in myocardium of rodents and has multiple biological functions.
+However, the role of MG53 in cardiac fibrosis remains unclear. This study
+provided clinical and experimental evidence for the involvement of MG53 in atrial
+fibrosis in humans and atrial fibrosis phenotype in cultured rat atrial
+fibroblasts. In atrial tissue from patients we demonstrated that MG53 was
+expressed in human atrium. Expression of MG53 increased with the extent of atrial
+fibrosis, which could induce AF. In cultured atrial fibroblasts, depletion of
+MG53 by siRNA caused down-regulation of the TGF-β1/Smad pathway, while
+overexpression of MG53 by adenovirus up-regulated the pathway. MG53 regulated the
+proliferation and migration of atrial fibroblasts. Besides, exogenous TGF-β1
+suppressed expression of MG53. In conclusion, we demonstrated that MG53 was
+expressed in human atrium, and may be a potential upstream of the TGF-β1/Smad
+pathway in human atrium and rat atrial fibroblasts. This suggests that MG53 is a 
+potential regulator of atrial fibrosis induced by the TGF-β1/Smad pathway in
+patients with AF.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexcr.2017.12.007 
+PMID: 29233682  [Indexed for MEDLINE]

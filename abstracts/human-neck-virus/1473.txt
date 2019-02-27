@@ -1,0 +1,33 @@
+
+
+1473. Head Neck. 2014 Jan;36(1):107-12. doi: 10.1002/hed.23394. Epub 2013 Sep 12.
+
+Presence of human papillomaviruses and p16 expression in hypopharyngeal cancer.
+
+Wendt M(1), Romanitan M, Näsman A, Dalianis T, Hammarstedt L, Marklund L,
+Ramqvist T, Munck-Wikland E.
+
+Author information: 
+(1)Department of Clinical Science, Intervention and Technology, Department of
+Oto-Rhino-Laryngology, Head and Neck Surgery, Karolinska Institutet, Karolinska
+University Hospital, Stockholm, Sweden.
+
+BACKGROUND: Patients with hypopharyngeal cancer have a 5-year survival of only
+15% to 30%. Human papillomavirus (HPV) is a risk factor and a favorable
+prognostic factor for oropharyngeal carcinoma and p16 has been suggested as a
+surrogate marker for HPV-induced cancer. However, few studies have been performed
+on HPV and p16 in hypopharyngeal cancer.
+METHODS: One hundred nine pretreatment hypopharyngeal cancer biopsies were
+analyzed for presence of HPV and p16 overexpression, and the results were
+correlated to patient survival.
+RESULTS: Of 109 tumors, 7 were HPV-positive (4 HPV16) and 18 overexpressed p16.
+There was some correlation between survival and HPV status, but not with regard
+to p16 expression. Notably, all patients with HPV16-positive tumors, also
+overexpressing p16, lived tumor free for more than 3 years.
+CONCLUSION: Our results indicate that HPV-induced hypopharyngeal cancer is rare
+and that p16 is not a suitable biomarker for presence of HPV in this tumor type.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23394 
+PMID: 23737140  [Indexed for MEDLINE]

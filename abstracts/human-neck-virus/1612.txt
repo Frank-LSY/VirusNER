@@ -1,0 +1,42 @@
+
+
+1612. Auris Nasus Larynx. 2018 Oct;45(5):1093-1097. doi: 10.1016/j.anl.2017.12.004.
+Epub 2018 Feb 1.
+
+Surgical treatment of enterovirus D68 brainstem encephalitis-induced dysphagia.
+
+Togashi T(1), Baba H(2), Kitazawa M(2), Takahashi N(2), Samejima Y(3), Yumoto
+E(4), Horii A(2).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Niigata University
+Graduate School of Medical and Dental Sciences, Niigata, Japan. Electronic
+address: ta-kun@msi.biglobe.ne.jp.
+(2)Department of Otolaryngology Head and Neck Surgery, Niigata University
+Graduate School of Medical and Dental Sciences, Niigata, Japan.
+(3)Department of Otolaryngology Head and Neck Surgery, Kumamoto University School
+of Medicine, Kumamoto, Japan.
+(4)Department of Otolaryngology, Asahino General Hospital, Kumamoto, Japan.
+
+Cluster of acute flaccid paralysis and cranial nerve dysfunction was associated
+with a 2014 outbreak of enterovirus D68 (EV-D68) respiratory illness in US. We
+describe a 33 year-old male patient of refractory dysphagia due to EV-D68-induced
+brainstem encephalitis successfully treated by surgery. Following acute upper
+respiratory tract infection, he developed dysphagia and bilateral facial
+paralysis. A coughing reflex was readily produced when the laryngopharyngeal
+fiberscope touched the epiglottis, however, water infusion induced only very weak
+and slow swallowing reflex, suggesting that only motor component was impaired but
+sensory function was preserved during swallowing. Despite eight
+months-conservative rehabilitations, Food Intake Level Scale (FILS) remained
+level 4. Therefore, corrective surgeries including cricopharyngeal myotomy,
+laryngeal suspension, and pharyngeal flap were performed. Thirty-six days after
+surgery, FILS rapidly and dramatically improved to level 8. This is the first
+report describing a successful surgical intervention for EV-D68-induced
+refractory dysphagia. Surgical treatment was suitable for EV-D68-induced
+dysphagia, perhaps because sensory function was preserved and only motor
+disturbance was present during the pharyngeal stage of swallowing.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.anl.2017.12.004 
+PMID: 29366609  [Indexed for MEDLINE]

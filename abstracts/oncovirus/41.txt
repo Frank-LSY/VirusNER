@@ -1,0 +1,40 @@
+
+
+41. Methods Enzymol. 2012;507:29-57. doi: 10.1016/B978-0-12-386509-0.00003-X.
+
+Retrovirus and lentivirus vector design and methods of cell conditioning.
+
+Cooray S(1), Howe SJ, Thrasher AJ.
+
+Author information: 
+(1)Centre for Immunodeficiency, Molecular Immunology Unit, Institute of Child
+Health, University College London, London, United Kingdom.
+
+Retroviruses are useful tools for the efficient delivery of genes to mammalian
+cells, owing to their ability to stably integrate into the host cell genome. Over
+the past few decades, retroviral vectors have been used in gene therapy clinical 
+trials for the treatment of a number of inherited diseases and cancers. The
+earliest retrovirus vectors were based on simple oncogenic gammaretroviruses such
+as Moloney murine leukemia virus (MMLV) which, when pseudotyped with envelope
+proteins from other viruses such as the gibbon ape leukemia virus envelope
+protein (GALV) or vesicular stomatitis virus G protein (VSV-G), can efficiently
+introduce genes to a wide range of host cells. However, gammaretroviral vectors
+have the disadvantage that they are unable to efficiently transduce nondividing
+or slowly dividing cells. As a result, specific protocols have been developed to 
+activate cells through the use of growth factors and cytokines. In the case of
+hematopoietic stem cells, activation has to be carefully controlled so that
+pluripotency is maintained. For many applications, gammaretroviral vectors are
+being superseded by lentiviral vectors based on human immunodeficiency virus
+type-1 (HIV-1) which has additional accessory proteins that enable integration in
+the absence of cell division. In addition, retroviral and lentiviral vector
+design has evolved to address a number of safety concerns. These include separate
+expression of the viral genes in trans to prevent recombination events leading to
+the generation of replication-competent viruses. Further, the development of
+self-inactivating (SIN) vectors reduces the potential for transactivation of
+neighboring genes and allows the incorporation of regulatory elements that may
+target gene expression more physiologically to particular cell types.
+
+Copyright Â© 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/B978-0-12-386509-0.00003-X 
+PMID: 22365768  [Indexed for MEDLINE]

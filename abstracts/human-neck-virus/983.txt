@@ -1,0 +1,41 @@
+
+
+983. Oncologist. 2010;15(9):994-1001. doi: 10.1634/theoncologist.2009-0289. Epub 2010 
+Aug 26.
+
+Changes in survival in head and neck cancers in the late 20th and early 21st
+century: a period analysis.
+
+Pulte D(1), Brenner H.
+
+Author information: 
+(1)Division of Clinical Epidemiology and Aging Research, German Cancer Research
+Center, Heidelberg, Germany. pultedi@umdnj.edu
+
+Comment in
+    Oncologist. 2010;15(9):921-3.
+
+BACKGROUND: Therapy for head and neck cancers has evolved over the past decade,
+but few detailed analyses of recent developments in survival on the population
+level have been published.
+METHODS: We use period analysis and modeled period analysis to disclose recent
+trends in survival in patients with head and neck cancer. Data are derived from
+the Surveillance, Epidemiology, and End Results limited-use database.
+RESULTS: A major, statistically significant improvement in survival was observed,
+with the overall 5-year relative survival rate going from 54.7% in 1992-1996 to
+65.9% in 2002-2006. Subgroup analysis showed improvement in cancers of the oral
+cavity, tongue, tonsils, and nasopharynx, with the greatest improvements observed
+in tonsillar carcinoma (+22.2 percentage points) and carcinoma of the tongue
+(+14.4 percentage points). Further analysis of survival for oral cavity,
+tonsillar, and tongue carcinoma revealed improvements in survival at each stage
+and across all age groups except for patients aged ≥ 75 years, with the greatest 
+improvement occurring in locally advanced disease and in patients aged 55-64
+years for carcinoma of the tongue and tonsils and those aged 15-44 years for oral
+cavity cancers.
+CONCLUSIONS: Survival has substantially improved for head and neck cancer
+patients over the past decade. The greatest improvement was seen in tonsillar and
+tongue cancers.
+
+DOI: 10.1634/theoncologist.2009-0289 
+PMCID: PMC3228039
+PMID: 20798198  [Indexed for MEDLINE]

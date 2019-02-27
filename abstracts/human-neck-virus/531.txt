@@ -1,0 +1,40 @@
+
+
+531. Laryngoscope. 2010 Oct;120(10):1990-7. doi: 10.1002/lary.21089.
+
+Human papillomavirus and WHO type I nasopharyngeal carcinoma.
+
+Lo EJ(1), Bell D, Woo JS, Li G, Hanna EY, El-Naggar AK, Sturgis EM.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas 77030-4009, USA.
+
+OBJECTIVES: Nasopharyngeal carcinoma (NPC) is a rare cancer in the United States.
+An association between NPC and Epstein-Barr virus (EBV) is well-established for
+World Health Organization (WHO) types II and III (WHO-II/III) NPC but less
+well-established for WHO type I (WHO-I) NPC. Given the rise in oropharyngeal
+tumors positive for high-risk human papillomavirus (HPV) and the unique biology
+of WHO-I NPC, we examined the relationship between HPV and WHO-I NPC.
+STUDY DESIGN: Retrospective case-comparison study.
+METHODS: A search of a large multidisciplinary cancer center tumor registry
+identified 183 patients seen from January 1999 to December 2008 with incident NPC
+and no prior cancer. Available paraffin-embedded tumor specimens (N = 30) were
+analyzed for oncogenic HPV status by in situ hybridization (ISH) and polymerase
+chain reaction (PCR) for HPV-16 and HPV-18; EBV status by ISH; and p16 expression
+by immunohistochemistry. Demographic parameters, including race and smoking, were
+obtained from the medical records.
+RESULTS: Among the 18 WHO-I NPC patients, 66% (N = 12) were smokers and 17% (N = 
+3) Asian; among the 165 WHO-II/III NPC patients, 44% (N = 73) were smokers and
+24% (N = 39) Asian. Eight WHO-I NPC patients had available paraffin blocks; five 
+of six were HPV-16-positive by PCR and four of eight were HPV-positive by ISH;
+only two of eight (25%) were EBV-positive. Twenty-two WHO-II/III NPC patients had
+available paraffin blocks; only 1 was HPV-positive by ISH, and 13 of 22 (60%)
+were EBV-positive.
+CONCLUSIONS: These results suggest that WHO-I NPC is associated with oncogenic
+HPV, although larger studies are needed to verify these findings. Laryngoscope,
+2010.
+
+DOI: 10.1002/lary.21089 
+PMCID: PMC4212520
+PMID: 20824783  [Indexed for MEDLINE]

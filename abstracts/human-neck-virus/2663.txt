@@ -1,0 +1,44 @@
+
+
+2663. Cell Transplant. 2014 Apr;23(6):747-60. doi: 10.3727/096368913X669761. Epub 2013 
+Jun 27.
+
+Wnt1 from cochlear schwann cells enhances neuronal differentiation of
+transplanted neural stem cells in a rat spiral ganglion neuron degeneration
+model.
+
+He Y(1), Zhang PZ, Sun D, Mi WJ, Zhang XY, Cui Y, Jiang XW, Mao XB, Qiu JH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Xijing Hospital, Fourth
+Military Medical University, Xi'an, China.
+
+Although neural stem cell (NSC) transplantation is widely expected to become a
+therapy for nervous system degenerative diseases and injuries, the low neuronal
+differentiation rate of NSCs transplanted into the inner ear is a major obstacle 
+for the successful treatment of spiral ganglion neuron (SGN) degeneration. In
+this study, we validated whether the local microenvironment influences the
+neuronal differentiation of transplanted NSCs in the inner ear. Using a rat SGN
+degeneration model, we demonstrated that transplanted NSCs were more likely to
+differentiate into microtubule-associated protein 2 (MAP2)-positive neurons in
+SGN-degenerated cochleae than in control cochleae. Using real-time quantitative
+PCR and an immunofluorescence assay, we also proved that the expression of Wnt1
+(a ligand of Wnt signaling) increases significantly in Schwann cells in the
+SGN-degenerated cochlea. We further verified that NSC cultures express receptors 
+and signaling components for Wnts. Based on these expression patterns, we
+hypothesized that Schwann cell-derived Wnt1 and Wnt signaling might be involved
+in the regulation of the neuronal differentiation of transplanted NSCs. We
+verified our hypothesis in vitro using a coculture system. We transduced a
+lentiviral vector expressing Wnt1 into cochlear Schwann cell cultures and
+cocultured them with NSC cultures. The coculture with Wnt1-expressing Schwann
+cells resulted in a significant increase in the percentage of NSCs that
+differentiated into MAP2-positive neurons, whereas this differentiation-enhancing
+effect was prevented by Dkk1 (an inhibitor of the Wnt signaling pathway). These
+results suggested that Wnt1 derived from cochlear Schwann cells enhanced the
+neuronal differentiation of transplanted NSCs through Wnt signaling pathway
+activation. Alterations of the microenvironment deserve detailed investigation
+because they may help us to conceive effective strategies to overcome the barrier
+of the low differentiation rate of transplanted NSCs.
+
+DOI: 10.3727/096368913X669761 
+PMID: 23809337  [Indexed for MEDLINE]

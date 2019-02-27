@@ -1,0 +1,34 @@
+
+
+142. Eur J Cancer. 2009 Nov;45(17):2935-9. doi: 10.1016/j.ejca.2009.08.018. Epub 2009 
+Sep 18.
+
+Human papilloma virus in head and neck cancer: the need for a standardised assay 
+to assess the full clinical importance.
+
+Braakhuis BJ(1), Brakenhoff RH, Meijer CJ, Snijders PJ, Leemans CR.
+
+Author information: 
+(1)Section Tumor Biology, Department of Otolaryngology/Head-Neck Surgery, Cancer 
+Center Amsterdam, VU University Medical Center, Amsterdam, The Netherlands.
+bjm.braakhuis@vumc.nl
+
+Recent studies have revealed an important and intriguing role for human
+papillomavirus (HPV) in head and neck squamous cell carcinoma (HNSCC). There are 
+indications that the prevalence of HPV-positive HNSCC has recently increased, and
+genetic analyses point to a completely distinct class of HNSCCs. Most studies
+suggest that patients with this type of tumour have a better prognosis and some
+argue that an adjusted therapeutic approach is needed. One crucial point in the
+research of HNSCC-HPV involvement has often been neglected, which is the lack of 
+a standardised assay to detect HPV. This has resulted in a considerable variation
+in the frequency of HPV-positive tumours between studies reported thus far.
+Especially for PCR-based tests, the risk exists that the assay is too sensitive
+and detects virus without implying a causal involvement in HNSCC. A reliable
+algorithm to detect a clinically relevant HPV infection in formalin-fixed
+paraffin embedded tissue has recently become available. Here, we address
+important biological and analytical aspects of HPV involved in the development of
+HNSCC and it is emphasised that a standardised HPV assay is a prerequisite for
+assessing the clinical importance of a HPV infection in HNSCC.
+
+DOI: 10.1016/j.ejca.2009.08.018 
+PMID: 19766476  [Indexed for MEDLINE]

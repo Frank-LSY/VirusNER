@@ -1,0 +1,46 @@
+
+
+6. Tumour Biol. 2017 Oct;39(10):1010428317714195. doi: 10.1177/1010428317714195.
+
+Genome-wide analysis of Epstein-Barr virus identifies variants and genes
+associated with gastric carcinoma and population structure.
+
+Yao Y(1), Xu M(1), Liang L(2), Zhang H(1), Xu R(3), Feng Q(1), Feng L(1), Luo
+B(4), Zeng YX(1).
+
+Author information: 
+(1)1 Department of Experimental Research, State Key Laboratory of Oncology in
+South China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen
+University Cancer Center, Guangzhou, China.
+(2)2 Department of Epidemiology and Department of Biostatistics, Harvard T. H.
+Chan School of Public Health, Boston, MA, USA.
+(3)3 Department of Medical Oncology, State Key Laboratory of Oncology in South
+China, Collaborative Innovation Center for Cancer Medicine, Sun Yat-sen
+University Cancer Center, Guangzhou, China.
+(4)4 Department of Medical Microbiology, Qingdao University Medical College,
+Qingdao, China.
+
+Epstein-Barr virus is a ubiquitous virus and is associated with several human
+malignances, including the significant subset of gastric carcinoma, Epstein-Barr 
+virus-associated gastric carcinoma. Some Epstein-Barr virus-associated diseases
+are uniquely prevalent in populations with different geographic origins. However,
+the features of the disease and geographically associated Epstein-Barr virus
+genetic variation as well as the roles that the variation plays in carcinogenesis
+and evolution remain unclear. Therefore, in this study, we sequenced 95
+geographically distinct Epstein-Barr virus isolates from Epstein-Barr
+virus-associated gastric carcinoma biopsies and saliva of healthy donors to
+detect variants and genes associated with gastric carcinoma and population
+structure from a genome-wide spectrum. We demonstrated that Epstein-Barr virus
+revealed the population structure between North China and South China. In
+addition, we observed population stratification between Epstein-Barr virus
+strains from gastric carcinoma and healthy controls, indicating that certain
+Epstein-Barr virus subtypes are associated with different gastric carcinoma
+risks. We identified that the BRLF1, BBRF3, and BBLF2/BBLF3 genes had significant
+associations with gastric carcinoma. LMP1 and BNLF2a genes were strongly
+geographically associated genes in Epstein-Barr virus. Our study provides
+insights into the genetic basis of oncogenic Epstein-Barr virus for gastric
+carcinoma, and the genetic variants associated with gastric carcinoma can serve
+as biomarkers for oncogenic Epstein-Barr virus.
+
+DOI: 10.1177/1010428317714195 
+PMID: 29034771  [Indexed for MEDLINE]

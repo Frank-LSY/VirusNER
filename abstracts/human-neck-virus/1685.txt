@@ -1,0 +1,39 @@
+
+
+1685. Public Health Genomics. 2009;12(5-6):291-307. doi: 10.1159/000214920. Epub 2009
+Aug 11.
+
+Epidemiology of mucosal human papillomavirus infection and associated diseases.
+
+Trottier H(1), Burchell AN.
+
+Author information: 
+(1)Departmentsof Oncology, McGill University, Montreal, Que., Canada.
+helen.trottier@umontreal.ca
+
+This article describes the epidemiology of mucosal human papillomavirs (HPV) in
+adults and children, its mode of transmission and its associated diseases. Over
+40 genotypes of HPV infect the epithelial lining of the anogenital tract and
+other mucosal areas of the body. HPV is the most common sexually transmitted
+infection globally, with high prevalences found in both females and males. The
+predominant route of transmission is via sexual contact, although mother-to-child
+transmission is also possible. HPV infection may exist asymptomatically or may
+induce the formation of benign or malignant tumours in the genital, oral or
+conjunctival mucosa. Although most infections clear spontaneously, those that
+persist result in substantial morbidity and invoke high costs associated with the
+treatment of clinically relevant lesions. Some 13-18 mucosal HPV types are
+considered to have high oncogenic potential. HPV is recognized unequivocally as
+the main causal factor for cervical cancer, and is further responsible for a
+substantial proportion of many other anogenital neoplasms and head and neck
+cancers. Infections with HPV types that have low oncogenic risk, such as HPV-6
+and 11, are associated with benign lesions of the anogenital areas known as
+condylomata acuminata (genital warts), oral papillomas, conjunctival papillomas, 
+as well as low-grade squamous intra-epithelial lesions of the cervix. Perinatally
+acquired HPV can also cause recurrent respiratory papillomatosis in infants and
+young children. The implementation of HPV vaccination therefore has the potential
+to prevent a substantial proportion of HPV-related disease in the future.
+
+Copyright 2009 S. Karger AG, Basel.
+
+DOI: 10.1159/000214920 
+PMID: 19684442  [Indexed for MEDLINE]

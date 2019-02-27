@@ -1,0 +1,58 @@
+
+
+1398. Laryngoscope. 2018 Aug;128(8):E287-E295. doi: 10.1002/lary.27130. Epub 2018 Mar
+14.
+
+Prognostic factors for human papillomavirus-positive and negative oropharyngeal
+carcinomas.
+
+Yin LX(1), D'Souza G(2), Westra WH(3), Wang SJ(4), van Zante A(5), Zhang Y(2),
+Rettig EM(6), Ryan WR(7), Ha PK(7), Wentz A(2), Koch W(6), Eisele DW(6), Fakhry
+C(6).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Mayo Clinic, Rochester, Minnesota.
+(2)Department of Epidemiology, Johns Hopkins University, Baltimore, Maryland.
+(3)Department of Pathology, Johns Hopkins University, Baltimore, Maryland.
+(4)Department of Otolaryngology-Head and Neck Surgery, University of Arizona,
+Tucson, Arizona.
+(5)Department of Pathology, University of California-San Francisco, San
+Francisco, California, U.S.A.
+(6)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University, 
+Baltimore, Maryland.
+(7)Department of Otolaryngology-Head and Neck Surgery, University of
+California-San Francisco, San Francisco, California, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: Human papillomavirus (HPV)-positive and HPV-negative
+oropharyngeal squamous cell carcinoma (OPSCC) are distinct disease entities.
+Prognostic factors specific to each entity have not been adequately explored.
+Goals for this study were: 1) to determine whether HPV-positive and HPV-negative 
+OPSCCs have distinct prognostic factors, and 2) to explore the prognostic
+significance of sex and race in OPSCC after HPV stratification STUDY DESIGN:
+Retrospective case series.
+METHODS: A retrospective review of 239 incident OPSCC patients from 1995 to 2012,
+treated at Johns Hopkins and University of California-San Francisco was
+conducted. Women and nonwhite races were oversampled. All analyses were
+stratified by tumor HPV in situ hybridization status. The effects of sex and race
+on survival were considered in Kaplan-Meier and unadjusted and adjusted Cox
+regression models.
+RESULTS: One hundred thirty-four (56.1%) OPSCC patients were HPV positive. On
+univariate analysis, women had better overall survival than men among
+HPV-positive (hazard ratio [HR]: 0.47, 95% confidence interval [CI]: 0.20-1.07;
+P = .06) but not HPV-negative (HR: 0.73, 95% CI: 0.43-1.24; P = .24) OPSCCs. On
+multivariate analysis, women with HPV-positive OPSCCs remained at lower risk of
+death (adjusted hazard ratio [aHR]: 0.34, 95% CI: 0.12-0.96; P = .04). Survival
+did not vary significantly by race among HPV-positive patients. Among
+HPV-negative patients, Hispanic patients had significantly better survival in
+unadjusted (HR: 0.27, 95% CI: 0.08-0.91; P = .04) but not adjusted (aHR: 0.93,
+95% CI: 0.11-7.36; P = .94) analysis.
+CONCLUSIONS: Women with HPV-positive OPSCC may have improved overall survival
+compared to men. Sex does not play a prognostic role in HPV-negative OPSCC. There
+are no differences in prognosis by race among HPV-positive or HPV-negative
+patients.
+LEVEL OF EVIDENCE: 4 Laryngoscope, E287-E295, 2018.
+
+© 2018 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.27130 
+PMID: 29536542  [Indexed for MEDLINE]

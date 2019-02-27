@@ -1,0 +1,40 @@
+
+
+376. Oral Oncol. 2013 Jun;49(6):525-33. doi: 10.1016/j.oraloncology.2013.02.003. Epub 
+2013 Mar 13.
+
+Oral cavity tumors in younger patients show a poor prognosis and do not contain
+viral RNA.
+
+Brägelmann J(1), Dagogo-Jack I, El Dinali M, Stricker T, Brown CD, Zuo Z, Khattri
+A, Keck M, McNerney ME, Longnecker R, Bieging K, Kocherginsky M, Alexander K,
+Salgia R, Lingen MW, Vokes EE, White KP, Cohen EE, Seiwert TY.
+
+Author information: 
+(1)Department of Medicine, Section of Hematology/Oncology, The University of
+Chicago, Chicago, IL 60637, USA.
+
+BACKGROUND: Oral cavity and in particular oral tongue cancers occur with a rising
+incidence in younger patients often lacking the typical risk factors of tobacco
+use, alcohol use, and human papilloma virus (HPV) infection. Their prognosis when
+treated with chemoradiation has not been well studied and responsible risk
+factors remain elusive. A viral etiology (other than HPV) has been hypothesized.
+METHODS: First we analyzed outcomes from 748 head and neck cancer patients with
+locoregionally advanced stage tumors treated with curative-intent chemoradiation 
+by anatomic site. Second, we analyzed seven oral tongue (OT) tumors from young,
+non-smokers/non-drinkers for the presence of viral mRNA using short-read
+massively-parallel sequencing (RNA-Seq) in combination with a newly-developed
+digital subtraction method followed by viral screening and discovery algorithms. 
+For positive controls we used an HPV16-positive HNC cell line, a cervical cancer,
+and an EBV-LMP2A transgene lymphoma.
+RESULTS: Younger patients with oral cavity tumors had worse outcomes compared to 
+non-oral cavity patients. Surprisingly none of the seven oral tongue cancers
+showed significant presence of viral transcripts. In positive controls the
+expected viral material was identified.
+CONCLUSION: Oral cavity tumors in younger patients have a poor prognosis and do
+not appear to be caused by a transcriptionally active oncovirus.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.02.003 
+PMID: 23490885  [Indexed for MEDLINE]

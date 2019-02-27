@@ -1,0 +1,35 @@
+
+
+2580. Folia Histochem Cytobiol. 2011;49(1):34-40.
+
+Effect of human papillomavirus on cell cycle-related proteins p16INK4A,
+p21waf1/cip1, p53 and cyclin D1 in sinonasal inverted papilloma and laryngeal
+carcinoma. An in situ hybridization study.
+
+Stasikowska-Kanicka O(1), Wągrowska-Danilewicz M, Danilewicz M.
+
+Author information: 
+(1)Department of Nephropathology, Medical University of Lodz, Poland.
+olgast@op.pl
+
+Human papillomavirus (HPV) infection is implicated as an important risk factor in
+the development of head and neck cancers. Many studies focusing on the
+relationships between HPV infection and cell cycle proteins immunoexpression in
+laryngeal lesions have provided contradictory results. The aim of this study was 
+to evaluate the relationships between HPV DNA presence and p16INK4a,
+p21waf1/cip1, p53 and cyclin D1 immunoexpression in heterogenous HPV-positive and
+HPV-negative groups of laryngeal cancers and inverted papillomas. The HPV DNA
+expression was detected using an in situ hybridization method and
+immunoexpression of p16INK4a, p21waf1/cip1, p53 and cyclin D1 using
+immunohistochemistry. The immunoexpression of p21waf1/ /cip1 and p53 proteins was
+lower in the HPV-positive group compared to the HPV-negative group, although only
+the difference of p53 staining was statistically significant. The
+immunoexpression of p16INK4a and cyclin D1 was significantly increased in the
+HPV-positive group compared to the HPV-negative group. The increased
+immunoexpression of p16INK4a and cyclin D1, and the lower immunoexpression of
+p21waf1/cip1 and p53 in the HPV-positive group compared to the HPV-negative
+group, supports the hypothesis that HPV may play an important role in cell cycle 
+dysregulation.
+
+
+PMID: 21526487  [Indexed for MEDLINE]

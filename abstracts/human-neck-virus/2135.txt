@@ -1,0 +1,56 @@
+
+
+2135. J Med Case Rep. 2017 Feb 11;11(1):38. doi: 10.1186/s13256-017-1200-z.
+
+Primary mediastinal large B cell lymphoma in a woman who is human
+immunodeficiency virus positive presenting with superior vena cava syndrome: a
+case report.
+
+Pallangyo P(1), Nicholaus P(2), Lyimo F(3), Urio E(2), Kisenge P(2), Janabi M(2).
+
+Author information: 
+(1)Department of Cardiovascular Medicine, Jakaya Kikwete Cardiac Institute, P.O. 
+Box 65141, Dar es Salaam, Tanzania. pedro.pallangyo@gmail.com.
+(2)Department of Cardiovascular Medicine, Jakaya Kikwete Cardiac Institute, P.O. 
+Box 65141, Dar es Salaam, Tanzania.
+(3)Department of Radiology, Muhimbili National Hospital, P.O. Box 65000, Dar es
+Salaam, Tanzania.
+
+BACKGROUND: The risk of non-Hodgkin lymphoma is increased 200-fold in individuals
+seropositive for human immunodeficiency virus compared to those free from human
+immunodeficiency virus. Human immunodeficiency virus-associated non-Hodgkin
+lymphoma is known for its atypical presentation, aggressive ability, widespread
+involvement, poor response to chemotherapy, and high relapse potential which
+makes both the diagnosis and management a difficult undertaking especially in
+resource-poor settings.
+CASE PRESENTATION: We report a case of primary mediastinal large B cell lymphoma 
+in a 46-year-old woman of African descent who is human immunodeficiency virus
+positive who presented with symptoms of superior vena cava syndrome. Her past
+medical history was remarkable for a 23-year history of systemic hypertension and
+a 10-year history of human immunodeficiency virus infection. A physical
+examination revealed an underweight woman with right-sided facial, neck, upper
+limb, and trunk swelling together with distended veins on her chest and abdomen
+draining downwards. A respiratory examination revealed a reduced chest expansion,
+stony dull percussion note, and absent breath sounds on her entire right side
+with a left-sided tracheal deviation. She had a CD4 count of 146 cells/μL. A
+chest X-ray revealed a homogenous opacification on her right side with a
+left-sided tracheal deviation while a computed tomography scan of her chest
+revealed a solid mass on her right side. An echocardiogram showed a huge
+well-circumscribed mass (4.6×3.3 cm) with spontaneous echocardiographic contrast 
+compressing her heart inferiorly. She had severe pulmonary hypertension (right
+ventricular systolic pressure 58 mmHg) but preserved left ventricular systolic
+function, no thrombus was seen, and her pericardium was normal. A computed
+tomography angiography of her aorta ruled out an aortic aneurysm. Finally, she
+underwent mediastinoscopy and a direct biopsy of the mass was taken for
+histopathology. Hematoxylin and eosin staining demonstrated a dense lymphoid
+infiltrate of large malignant cells with pleomorphic nuclei in clusters,
+compartmentalized by fine bands of fibrosis, and frequent mitoses were present. A
+diagnosis of mediastinal large B cell lymphoma was reached.
+CONCLUSIONS: The presence of a mediastinal widening coupled with a history of
+unintentional yet significant weight loss in an individual who is human
+immunodeficiency virus seropositive should raise an index of suspicion for
+lymphomas and warrant aggressive investigations and timely management.
+
+DOI: 10.1186/s13256-017-1200-z 
+PMCID: PMC5303250
+PMID: 28187791  [Indexed for MEDLINE]

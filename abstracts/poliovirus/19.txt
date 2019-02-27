@@ -1,0 +1,37 @@
+
+
+19. PLoS One. 2015 Aug 28;10(8):e0135765. doi: 10.1371/journal.pone.0135765.
+eCollection 2015.
+
+Has Wild Poliovirus Been Eliminated from Nigeria?
+
+Famulare M(1).
+
+Author information: 
+(1)Institute for Disease Modeling, Bellevue, WA, United States of America.
+
+Wild poliovirus type 3 (WPV3) has not been seen anywhere since the last case of
+WPV3-associated paralysis in Nigeria in November 2012. At the time of writing,
+the most recent case of wild poliovirus type 1 (WPV1) in Nigeria occurred in July
+2014, and WPV1 has not been seen in Africa since a case in Somalia in August
+2014. No cases associated with circulating vaccine-derived type 2 poliovirus
+(cVDPV2) have been detected in Nigeria since November 2014. Has WPV1 been
+eliminated from Africa? Has WPV3 been eradicated globally? Has Nigeria
+interrupted cVDPV2 transmission? These questions are difficult because polio
+surveillance is based on paralysis and paralysis only occurs in a small fraction 
+of infections. This report provides estimates for the probabilities of poliovirus
+elimination in Nigeria given available data as of March 31, 2015. It is based on 
+a model of disease transmission that is built from historical polio incidence
+rates and is designed to represent the uncertainties in transmission dynamics and
+poliovirus detection that are fundamental to interpreting long time periods
+without cases. The model estimates that, as of March 31, 2015, the probability of
+WPV1 elimination in Nigeria is 84%, and that if WPV1 has not been eliminated, a
+new case will be detected with 99% probability by the end of 2015. The
+probability of WPV3 elimination (and thus global eradication) is > 99%. However, 
+it is unlikely that the ongoing transmission of cVDPV2 has been interrupted; the 
+probability of cVDPV2 elimination rises to 83% if no new cases are detected by
+April 2016.
+
+DOI: 10.1371/journal.pone.0135765 
+PMCID: PMC4552877
+PMID: 26317401  [Indexed for MEDLINE]

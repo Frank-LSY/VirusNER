@@ -1,0 +1,35 @@
+
+
+2960. Anticancer Res. 2010 May;30(5):1641-3.
+
+Insulin-like growth factor-1 receptor (IGF-1R) in primary and metastatic
+undifferentiated carcinoma of the head and neck: a possible target of
+immunotherapy.
+
+Friedrich RE(1), Hagel C, Bartel-Friedrich S.
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, Eppendorf University Hospital,
+University of Hamburg, Hamburg, Germany. rfriedrich@uke.uni-hamburg.de
+
+BACKGROUND: Insulin-like growth-factor 1 receptor (IGF-1R) plays a key role in
+the development of cancer and is important for the regulation of tissue growth,
+predominantly via the growth hormone (GH). Targeting IGF-1R is a current topic of
+cancer research. The aim of this study was to identify IGF-1R in undifferentiated
+carcinomas of the head and neck.
+PATIENTS AND METHODS: Twenty-one formalin-fixed and paraffin-embedded specimens
+from 20 patients with undifferentiated carcinomas were investigated. IGF-1R was
+detected immunohistochemically. In some cases, the infection status for Einstein 
+Barr virus (EBV, DNA) or HPV (RNA) was known.
+RESULTS: IGF-1R was detected in all tumours, regardless of differentiation or
+proof of EBV or HPV integration into the genome.
+DISCUSSION: This study revealed a broad expression of IGF-1R in undifferentiated 
+carcinomas of the oropharyngeal and nasopharyngeal region, both in primaries and 
+regional lymph nodes. These results suggest that IGF-1R expression in these
+tumours is capable of transmitting mitogenic signals to the neoplastic cells. The
+presence of IGF-1R in undifferentiated carcinomas suggests that these tumours can
+respond to IGF. Targeting this receptor may be a promising tool for the treatment
+of advanced stage NPC.
+
+
+PMID: 20592355  [Indexed for MEDLINE]

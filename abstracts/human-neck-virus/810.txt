@@ -1,0 +1,40 @@
+
+
+810. Anticancer Res. 2016 Feb;36(2):487-93.
+
+Human Papillomavirus as a Diagnostic and Prognostic Tool in Cancer of Unknown
+Primary in the Head and Neck Region.
+
+Sivars L(1), Tani E(2), Näsman A(2), Ramqvist T(1), Munck-Wikland E(3), Dalianis 
+T(4).
+
+Author information: 
+(1)Department of Oncology-Pathology, Karolinska Institute, Stockholm, Sweden.
+(2)Department of Oncology-Pathology, Karolinska Institute, Stockholm, Sweden
+Department of Pathology and Cytology, Karolinska University Hospital, Stockholm, 
+Sweden.
+(3)Department of Oto-rhino-laryngology, Head and Neck Surgery Karolinska
+University Hospital and Department of Clinical Science, Intervention and
+Technology, Karolinska Institutet, Stockholm, Sweden.
+(4)Department of Oncology-Pathology, Karolinska Institute, Stockholm, Sweden
+Tina.Dalianis@ki.se.
+
+Human papillomavirus (HPV) is recognized as a risk factor for oropharyngeal
+squamous cell carcinomas (SCC), especially tonsillar and base of tongue cancer.
+Furthermore, HPV-positive tonsillar and base of tongue SCC have a significantly
+better prognosis than their HPV-negative counterparts and head and neck cancer
+(HNSCC) in general. HPV has recently also been implicated in cancer of unknown
+primary (CUP) in the head and neck region, where a primary tumour is not found
+despite extensive workup. Using fine-needle aspiration cytology to determine CUP 
+HPV status in cervical lymph nodes could be of advantage, since it is minimally
+invasive and it is assumed that an HPV-positive lymph node metastasis likely has 
+an HPV-positive otopharyngeal SCC origin. We review the current knowledge of HPV 
+in HNSCC, with an emphasis on CUP of the head and neck region, its relation to
+oropharyngeal, tonsillar and base of tongue SCC and implications of HPV status
+for diagnosis, prognosis and treatment.
+
+Copyright© 2016 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 26851001  [Indexed for MEDLINE]

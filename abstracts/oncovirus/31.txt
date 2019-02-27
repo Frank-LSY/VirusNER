@@ -1,0 +1,29 @@
+
+
+31. Adv Exp Med Biol. 2013;790:128-49. doi: 10.1007/978-1-4614-7651-1_7.
+
+Cellular entry of retroviruses.
+
+Lindemann D(1), Steffen I, Pöhlmann S.
+
+Author information: 
+(1)Institute for Virology, Technische Universität Dresden, Dresden, Germany.
+
+The retrovirus family contains several important human and animal pathogens,
+including the human immunodeficiency virus (HIV), the causative agent of acquired
+immunodeficiency syndrome (AIDS). Studies with retroviruses were instrumental to 
+our present understanding of the cellular entry of enveloped viruses in general. 
+For instance, studies with alpharetroviruses defined receptor engagement, as
+opposed to low pH, as a trigger for the envelope protein-driven membrane fusion. 
+The insights into the retroviral entry process allowed the generation of a new
+class of antivirals, entry inhibitors, and these therapeutics are at present used
+for treatment of HIV/AIDS. In this chapter, we will summarize key concepts
+established for entry of avian sarcoma and leukosis virus (ASLV), a widely used
+model system for retroviral entry. We will then review how foamy virus and HIV,
+primate- and human retroviruses, enter target cells, and how the interaction of
+the viral and cellular factors involved in the cellular entry of these viruses
+impacts viral tropism, pathogenesis and approaches to therapy and vaccine
+development.
+
+DOI: 10.1007/978-1-4614-7651-1_7 
+PMID: 23884589  [Indexed for MEDLINE]

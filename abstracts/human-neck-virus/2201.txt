@@ -1,0 +1,35 @@
+
+
+2201. Head Neck. 2013 Jun;35(6):794-9. doi: 10.1002/hed.23033. Epub 2012 Jun 19.
+
+Low risk of second primary malignancies among never smokers with human
+papillomavirus-associated index oropharyngeal cancers.
+
+Peck BW(1), Dahlstrom KR, Gan SJ, Caywood W, Li G, Wei Q, Zafereo ME, Sturgis EM.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas, USA.
+
+BACKGROUND: Among patients with index oropharyngeal cancer, second primary
+malignancies (SPMs) may be less common in cases of human papillomavirus
+(HPV)-associated tumors than HPV-negative tumors. Further modification of these
+SPM risks by smoking has not been reported.
+METHODS: SPM outcomes of 356 patients with incident oropharyngeal cancer were
+analyzed using Cox proportional hazards and Kaplan-Meier models. SPM risk and
+SPM-free survival were compared in HPV-seronegative patients, HPV-seropositive
+never smokers, and HPV-seropositive ever smokers.
+RESULTS: HPV-seropositive patients had a lower 5-year SPM rate than
+HPV-seronegative patients (5.6% vs 14.6%; p = .051). Compared to HPV-seronegative
+patients, HPV-seropositive never smokers had a 73% reduced SPM risk, and
+HPV-seropositive ever smokers had a 27% reduced SPM risk (trend p = .028).
+Although HPV-seronegative patients had SPMs in traditional locations, 70% of SPMs
+among HPV-seropositive patients were outside typical tobacco-related sites.
+CONCLUSION: HPV serologic status and smoking may stratify patients with index
+oropharyngeal cancers in terms of risk and location of SPMs.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23033 
+PMCID: PMC3459137
+PMID: 22711172  [Indexed for MEDLINE]

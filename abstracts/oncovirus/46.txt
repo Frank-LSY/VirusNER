@@ -1,0 +1,31 @@
+
+
+46. J Virol. 1998 Dec;72(12):9873-80.
+
+Self-inactivating lentivirus vector for safe and efficient in vivo gene delivery.
+
+Zufferey R(1), Dull T, Mandel RJ, Bukovsky A, Quiroz D, Naldini L, Trono D.
+
+Author information: 
+(1)Department of Genetics and Microbiology, University of Geneva Medical School, 
+Geneva, Switzerland.
+
+In vivo transduction of nondividing cells by human immunodeficiency virus type 1 
+(HIV-1)-based vectors results in transgene expression that is stable over several
+months. However, the use of HIV-1 vectors raises concerns about their safety.
+Here we describe a self-inactivating HIV-1 vector with a 400-nucleotide deletion 
+in the 3' long terminal repeat (LTR). The deletion, which includes the TATA box, 
+abolished the LTR promoter activity but did not affect vector titers or transgene
+expression in vitro. The self-inactivating vector transduced neurons in vivo as
+efficiently as a vector with full-length LTRs. The inactivation design achieved
+in this work improves significantly the biosafety of HIV-derived vectors, as it
+reduces the likelihood that replication-competent retroviruses will originate in 
+the vector producer and target cells, and hampers recombination with wild-type
+HIV in an infected host. Moreover, it improves the potential performance of the
+vector by removing LTR sequences previously associated with transcriptional
+interference and suppression in vivo and by allowing the construction of
+more-stringent tissue-specific or regulatable vectors.
+
+
+PMCID: PMC110499
+PMID: 9811723  [Indexed for MEDLINE]

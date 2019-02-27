@@ -1,0 +1,59 @@
+
+
+2262. Clin Cancer Res. 2015 Jun 15;21(12):2861-9. doi: 10.1158/1078-0432.CCR-14-3323.
+
+HPV Serum Antibodies as Predictors of Survival and Disease Progression in
+Patients with HPV-Positive Squamous Cell Carcinoma of the Oropharynx.
+
+Dahlstrom KR(1), Anderson KS(2), Cheng JN(2), Chowell D(3), Li G(4), Posner M(5),
+Sturgis EM(6).
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas.
+(2)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, Arizona.
+(3)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, Arizona. Simon A. Levin Mathematical, Computational, and
+Modeling Sciences Center, Arizona State University, Tempe, Arizona.
+(4)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas. Department of Epidemiology, The University of
+Texas MD Anderson Cancer Center, Houston, Texas.
+(5)Tisch Cancer Institute, Icahn School of Medicine at Mt. Sinai, New York City, 
+New York.
+(6)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas. Department of Epidemiology, The University of
+Texas MD Anderson Cancer Center, Houston, Texas. esturgis@mdanderson.org.
+
+PURPOSE: Oropharyngeal carcinoma positive for human papillomavirus type 16
+(HPV16) has a significantly better prognosis than oropharyngeal carcinoma
+unrelated to HPV. Within HPV16-positive oropharyngeal carcinoma, biomarkers of
+prognosis are urgently needed to individualize care. We hypothesized that serum
+antibodies specific to HPV16, the major HPV type causing oropharyngeal carcinoma,
+have biologic relevance and are potential biomarkers for improved prognosis among
+patients with HPV16-positive oropharyngeal carcinoma.
+EXPERIMENTAL DESIGN: IgG antibodies to the HPV16 antigens E1, E4-E7, L1, L2, and 
+the N-terminal and C-terminal fragments of E2 (NE2, CE2) were quantified using a 
+custom programmable enzyme-linked immunosorbent assay. Sera were obtained at
+diagnosis from 209 oropharyngeal carcinoma patients (96 HPV16-positive). The
+ratios of median fluorescent intensity (MFI) for each antigen to MFI for control 
+GST protein were determined. Kaplan-Meier survival curves and Cox proportional
+hazards regression were used to determine survival differences between groups.
+ROC curves were used to determine the best combination of E antibodies to predict
+disease recurrence.
+RESULTS: E1, NE2, and E6 antibody positivity were all strongly associated with
+improved overall and progression-free survival in the entire cohort and in
+patients with known HPV16-positive tumors (P < 0.05). For both overall and
+progression-free survival among HPV-positive patients, hazard ratios were 0.2 for
+NE2, 0.3 for E1, and 0.3 for E6 antibody positivity.
+CONCLUSIONS: We identified three HPV16-specific antibodies that are associated
+with improved overall and progression-free survival in patients with HPV-related 
+oropharyngeal carcinoma. These results suggest that differential serologic
+responses in patients may reflect differential biologic processes within the host
+and tumor and may have prognostic value.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-14-3323 
+PMCID: PMC4470305
+PMID: 26078432  [Indexed for MEDLINE]

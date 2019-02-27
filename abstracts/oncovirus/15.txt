@@ -1,0 +1,35 @@
+
+
+15. Curr Opin Virol. 2015 Feb;10:47-55. doi: 10.1016/j.coviro.2014.12.003. Epub 2015 
+Feb 17.
+
+Origin, evolution and innate immune control of simian foamy viruses in humans.
+
+Rua R(1), Gessain A(2).
+
+Author information: 
+(1)Institut Pasteur, Unité d'Epidémiologie et Physiopathologie des Virus
+Oncogènes, 28 Rue du Dr. Roux, 75015 Paris, France; Département de Virologie,
+Institut Pasteur, 25-28 rue du Dr Roux, 75724 Paris, Cedex 15, France; CNRS,
+UMR369, 28 Rue du Dr. Roux, F-75015 Paris, France; Université Paris Diderot,
+Cellule Pasteur, Paris, France. Electronic address: rejane.rua@nih.gov.
+(2)Institut Pasteur, Unité d'Epidémiologie et Physiopathologie des Virus
+Oncogènes, 28 Rue du Dr. Roux, 75015 Paris, France; Département de Virologie,
+Institut Pasteur, 25-28 rue du Dr Roux, 75724 Paris, Cedex 15, France; CNRS,
+UMR369, 28 Rue du Dr. Roux, F-75015 Paris, France.
+
+Most viral pathogens that have emerged in humans have originated from various
+animal species. Emergence is a multistep process involving an initial spill-over 
+of the infectious agent into single individuals and its subsequent dissemination 
+into the human population. Similar to simian immunodeficiency viruses and simian 
+T lymphotropic viruses, simian foamy viruses (SFV) are retroviruses that are
+widespread among non-human primates and can be transmitted to humans, giving rise
+to a persistent infection, which seems to be controlled in the case of SFV. In
+this review, we present current data on the discovery, cross-species
+transmission, and molecular evolution of SFV in human populations initially
+infected and thus at risk for zoonotic emergence.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2014.12.003 
+PMID: 25698621  [Indexed for MEDLINE]

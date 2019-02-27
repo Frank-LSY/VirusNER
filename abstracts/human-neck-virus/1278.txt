@@ -1,0 +1,40 @@
+
+
+1278. ORL J Otorhinolaryngol Relat Spec. 2014;76(3):137-46. doi: 10.1159/000363190.
+Epub 2014 Jul 2.
+
+Clinical features of human papilloma virus-related head and neck squamous cell
+carcinoma of an unknown primary site.
+
+Kobayashi K(1), Saito Y, Omura G, Ando M, Sakamoto T, Yamasoba T, Asakage T.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, The University of Tokyo
+Hospital, Tokyo, Japan.
+
+PURPOSE: Head and neck squamous cell carcinoma of an unknown primary site
+(HNSCCUP) is a heterogeneous group of tumors that includes the human
+papillomavirus (HPV)-associated oropharyngeal squamous cell carcinoma. To
+investigate the relationship between HNSCCUP and HPV, we reviewed p16
+overexpression and HPV DNA in lymph node metastases and examined their
+correlation with the primary site and clinical features.
+MATERIALS AND METHODS: Thirty-three patients with HNSCCUP were retrospectively
+studied. Dissected neck metastases were analyzed for p16 overexpression by
+immunohistochemistry, and the presence of HPV DNA was investigated by in situ
+hybridization.
+RESULTS: Of the 33 patients, 8 (24%) exhibited p16 overexpression. p16-positive
+lymph node metastases contained significantly more HPV DNA and were most
+frequently associated with occult primary lesions in the oropharynx and a
+favorable prognosis. Patients with a lower alcohol consumption, only level II/III
+metastasis, and cystic lymph node metastasis tended to have p16 overexpression.
+CONCLUSIONS: This is the first report on the relationship of HNSCCUP with p16 and
+HPV DNA status in Asian patients. In total, 24% of the HNSCCUP patients were p16 
+positive. p16 overexpression in neck metastasis was predictive of both an occult 
+primary lesion in the oropharynx and an association with HPV infection. Alcohol
+consumption, location, and features of neck metastasis were correlated with p16
+expression.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000363190 
+PMID: 24993345  [Indexed for MEDLINE]

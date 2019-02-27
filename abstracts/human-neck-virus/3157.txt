@@ -1,0 +1,53 @@
+
+
+3157. Cancer. 2011 Oct 15;117(20):4659-70. doi: 10.1002/cncr.26100. Epub 2011 Mar 29.
+
+Expression patterns of Bmi-1 and p16 significantly correlate with overall,
+disease-specific, and recurrence-free survival in oropharyngeal squamous cell
+carcinoma.
+
+Huber GF(1), Albinger-Hegyi A, Soltermann A, Roessle M, Graf N, Haerle SK,
+Holzmann D, Moch H, Hegyi I.
+
+Author information: 
+(1)Otorhinolaryngology, Head and Neck Surgery, University Hospital of Zurich,
+Switzerland. gerry.huber@usz.ch
+
+BACKGROUND: The objective of this study was to link expression patterns of
+B-cell-specific Moloney murine leukemia virus integration site 1 (Bmi-1) and p16 
+to patient outcome (recurrence and survival) in a cohort of 252 patients with
+oral and oropharyngeal squamous cell cancer (OSCC).
+METHODS: Expression levels of Bmi-1 and p16 in samples from 252 patients with
+OSCC were evaluated immunohistochemically using the tissue microarray method.
+Staining intensity was determined by calculating an intensity reactivity score
+(IRS). Staining intensity and the localization of expression within tumor cells
+(nuclear or cytoplasmic) were correlated with overall, disease-specific, and
+recurrence-free survival.
+RESULTS: The majority of cancers were localized in the oropharynx (61.1%). In
+univariate analysis, patients who had OSCC and strong Bmi-1 expression (IRS >10) 
+had worse outcomes compared with patients who had low and moderate Bmi-1
+expression (P = .008; hazard ratio [HR], 1.82; 95% confidence interval [CI],
+1.167-2.838); this correlation was also observed for atypical cytoplasmic Bmi-1
+expression (P = .001; HR, 2.164; 95% CI, 1.389-3.371) and for negative p16
+expression (P < .001; HR, 0.292; 95% CI, 0.178-0.477). The combination of both
+markers, as anticipated, had an even stronger correlation with overall survival
+(P < .001; HR, 8.485; 95% CI, 4.237-16.994). Multivariate analysis demonstrated
+significant results for patients with oropharyngeal cancers, but not for patients
+with oral cavity tumors: Tumor classification (P = .011; HR, 1.838; 95%CI,
+1.146-2.947) and the combined marker expression patterns (P < .001; HR, 6.254;
+95% CI, 2.869-13.635) were correlated with overall survival, disease-specific
+survival (tumor classification: P = .002; HR, 2.807; 95% CI, 1.477-5.334;
+combined markers: P = .002; HR, 5.386; 95% CI, 1.850-15.679), and the combined
+markers also were correlated with recurrence-free survival (P = .001; HR, 8.943; 
+95% CI, 2.562-31.220).
+CONCLUSIONS: Cytoplasmic Bmi-1 expression, an absence of p16 expression, and
+especially the combination of those 2 predictive markers were correlated
+negatively with disease-specific and recurrence-free survival in patients with
+oropharyngeal cancer. Therefore, the current results indicate that these may be
+applicable as predictive markers in combination with other factors to select
+patients for more aggressive treatment and follow-up.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncr.26100 
+PMID: 21448927  [Indexed for MEDLINE]

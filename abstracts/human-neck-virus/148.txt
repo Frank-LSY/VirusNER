@@ -1,0 +1,57 @@
+
+
+148. Laryngoscope. 2017 Sep;127(9):2033-2037. doi: 10.1002/lary.26455. Epub 2016 Dec
+23.
+
+Outcomes of surgically treated human papillomavirus-related oropharyngeal
+squamous cell carcinoma with N3 disease.
+
+Zenga J(1), Haughey BH(2)(3), Jackson RS(1), Adkins DR(4), Aranake-Chrisinger
+J(5), Bhatt N(1), Gay HA(6), Kallogjeri D(1), Martin EJ(7), Moore EJ(7), Paniello
+RC(1), Rich JT(1), Thorstad WL(6), Nussenbaum B(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Washington University, St.
+Louis, Missouri, U.S.A.
+(2)Department of Surgery, University of Auckland Faculty of Medicine, Auckland,
+New Zealand.
+(3)Head and Neck Surgery Center of Florida, Celebration Hospital, Celebration,
+Florida, U.S.A.
+(4)Department of Medical Oncology, Washington University, St. Louis, Missouri,
+U.S.A.
+(5)Department of Surgical Pathology, Washington University, St. Louis, Missouri, 
+U.S.A.
+(6)Department of Radiation Oncology, Washington University, St. Louis, Missouri, 
+U.S.A.
+(7)Department of Otolaryngology-Head and Neck Surgery, Mayo Clinic, Rochester,
+Minnesota, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: To evaluate outcomes for patients with pathological N3
+(pN3) neck disease from human papillomavirus (HPV)-related oropharyngeal squamous
+cell carcinoma (OPSCC) and determine variables predictive of survival.
+STUDY DESIGN: Retrospective case series with chart review.
+METHODS: This study was conducted between 1998 and 2013 and included patients
+with HPV-related OPSCC treated with surgery with or without adjuvant therapy and 
+who had pN3 nodal disease. The primary outcome was disease-specific survival
+(DSS). Secondary outcomes included overall survival (OS), disease-free survival
+(DFS), adverse events, and gastrostomy tube rates.
+RESULTS: Thirty-nine patients were included, of whom 36 (90%) underwent adjuvant 
+therapy. Median follow-up was 39 months (range, 2-147 months). Mean age was 56
+years, and 87% were male. Seventeen patients (44%) underwent selective neck
+dissection, whereas six (15%) underwent radical (n = 2) or extended radical
+(n = 4) neck dissection. Ninety-two percent had extracapsular extension.
+Five-year Kaplan-Meier estimated DSS, OS, and DFS were 89% (95% confidence
+interval [CI]: 79%-99%), 87% (95% CI: 75%-99%), and 84% (95% CI: 72%-96%),
+respectively. The disease recurrence rate was 10% (5% regional, 5% distant
+metastasis). Patients with less than 5 pathologically positive lymph nodes
+(P = .041) had improved DFS.
+CONCLUSIONS: Patients with HPV-related OPSCC and pN3 nodal disease treated with
+surgery and adjuvant therapy have very favorable long-term survival and regional 
+control. Patients with five or more pathologically positive lymph nodes may be at
+higher risk for recurrence.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 127:2033-2037, 2017.
+
+© 2016 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26455 
+PMID: 28008626  [Indexed for MEDLINE]

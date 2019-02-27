@@ -1,0 +1,33 @@
+
+
+2721. Rinsho Shinkeigaku. 2014;54(10):809-13.
+
+[Recurrence of chronic active Epstein-Barr virus infection presenting with
+myelopathy after umbilical cord blood transplantation].
+
+[Article in Japanese]
+
+Watanabe S(1), Okada M, Tokugawa T, Sawada A, Ogawa H, Yoshikawa H.
+
+Author information: 
+(1)Department of Internal Medicine, Division of Neurology, Hyogo College of
+Medicine.
+
+A 38-year-old man was admitted to our hospital with neck pain, dysesthesia of
+both hands, and weakness of the left upper limb. He had been diagnosed with a
+chronic active Epstein-Barr virus infection (CAEBV) at the age of 34 and had
+undergone umbilical cord blood transplantation at the age of 37. MRI of the
+spinal cord revealed an intramedullary hyperintense lesion on T₂-weighted images 
+with gadolinium enhancement. Because his laboratory tests revealed proliferation 
+of CD19(+) lymphocytes in the peripheral blood, and EBV DNA was detected in both 
+peripheral blood and CSF, he was diagnosed as having post-transplant EBV
+associated lymphoproliferative disease. However, chemotherapy did not alleviate
+his symptoms. At a later time, quantitative chimerism analysis of his CSF showed 
+a higher proportion of lymphocytes that had originated from the recipient.
+Finally, he was diagnosed as having a recurrence of CAEBV in the central nervous 
+system, and his symptoms were restored by intrathecal chemotherapy (methotrexate,
+cytosine arabinoside, and prednisolone). Quantitative chimerism analysis of CSF
+was useful for diagnosing the recurrence of CAEBV in the central nervous system.
+
+
+PMID: 25342015  [Indexed for MEDLINE]

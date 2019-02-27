@@ -1,0 +1,52 @@
+
+
+717. Head Neck. 2016 Apr;38 Suppl 1:E1666-73. doi: 10.1002/hed.24297. Epub 2015 Dec
+15.
+
+Cell-free Epstein-Barr virus-DNA in patients with nasopharyngeal carcinoma:
+Plasma versus urine.
+
+Sengar M(1), Chorghe S(2), Jadhav K(1), Singh S(2), Laskar SG(3), Pai P(4),
+Aggarwal JP(3), D'Cruz A(4), Chaturvedi P(4), Deshpande M(4), Chaukar D(4),
+Budrukkar A(3), Gupta T(5), Murthy V(3), Kane S(6), Thakur M(3), Rangarajan V(7),
+Kannan S(8), Shet T(5), Kode J(2).
+
+Author information: 
+(1)Department of Medical Oncology, Tata Memorial Hospital, Tata Memorial Centre
+(TMC), Parel, Mumbai, India.
+(2)Chiplunkar Lab, Advanced Centre for Treatment, Research & Education in Cancer 
+(ACTREC), TMC, Kharghar, Navi Mumbai, India.
+(3)Department of Radiation Oncology, Tata Memorial Hospital, TMC, Parel, Mumbai, 
+India.
+(4)Department of Head & Neck Surgical Oncology, Tata Memorial Hospital, TMC,
+Parel, Mumbai, India.
+(5)Department of Radiation Oncology, ACTREC, TMC, Kharghar, Navi Mumbai, India.
+(6)Department of Pathology, Tata Memorial Hospital, TMC, Parel, Mumbai, India.
+(7)Department of Bioimaging, Tata Memorial Hospital, TMC, Parel, Mumbai, 400012, 
+India.
+(8)Epidemiology and Clinical Trial Unit, ACTREC, TMC, Kharghar, Navi Mumbai,
+India.
+
+BACKGROUND: The purpose of this study was to explore urinary Epstein-Barr virus
+(EBV)-DNA as a potential biomarker in patients with nasopharyngeal carcinoma
+(NPC).
+METHODS: EBV-DNA copies were estimated in plasma/urine of patients with NPC
+(n = 76) by real-time polymerase chain reaction (PCR) at baseline, during
+therapy, and at follow-up. Their correlation with EBV-RNA expression in tissues
+(n = 53) was used to assess sensitivity and specificity of plasma/urine EBV-DNA. 
+Correlation of urine and plasma EBV-DNA with each other and with radiological
+response was evaluated.
+RESULTS: This study demonstrated that urine EBV-DNA has high sensitivity (96%) at
+diagnosis and it correlates well with plasma EBV-DNA at baseline and after
+neoadjuvant chemotherapy. The EBV-DNA copies reduced significantly with therapy
+(plasma: p < .001; urine: p = .011). Patients with low EBV-DNA copies
+demonstrated improved survival (plasma: p = .023; urine: p = .083).
+CONCLUSION: Plasma EBV-DNA is a good prognostic marker, whereas further study on 
+a larger cohort may help in developing urine EBV-DNA as a surrogate prognostic
+marker for patients with NPC. © 2015 Wiley Periodicals, Inc. Head Neck 38:
+E1666-E1673, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24297 
+PMID: 26667883  [Indexed for MEDLINE]

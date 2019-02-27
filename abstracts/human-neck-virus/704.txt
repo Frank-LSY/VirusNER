@@ -1,0 +1,34 @@
+
+
+704. Future Microbiol. 2015;10(8):1283-91. doi: 10.2217/FMB.15.55. Epub 2015 Jul 31.
+
+Human papillomavirus infection and p16 overexpression in oropharyngeal squamous
+cell carcinoma: a case series from 2010 to 2014.
+
+Donà MG(1), Spriano G(2), Pichi B(2), Rollo F(3), Laquintana V(3), Covello R(3), 
+Pellini R(2), Giuliani M(1), Pescarmona E(3), Benevolo M(3).
+
+Author information: 
+(1)Sexually Transmitted Infection (STI) Unit, San Gallicano Dermatologic
+Institute, IRCCS, Via Elio Chianesi 53, 00144 Rome, Italy.
+(2)Otolaryngology Head Neck Surgery Department, Regina Elena National Cancer
+Institute, IRCCS, Via Elio Chianesi 53, 00144 Rome, Italy.
+(3)Pathology Department, Regina Elena National Cancer Institute, IRCCS, Via Elio 
+Chianesi 53, 00144, Rome, Italy.
+
+AIM: Human papillomavirus (HPV) associated oropharyngeal squamous cell carcinomas
+(OPSCC) show better prognosis and response to therapy. We evaluated HPV-DNA
+prevalence, p16 overexpression and HPV-attributable fraction in recent
+consecutive OPSCCs.
+MATERIALS & METHODS: 140 OPSCCs were analyzed for HPV-DNA using the INNO-LiPA
+assay and p16 overexpression using CINtec® Histology kit.
+RESULTS: HPV-DNA prevalence was 40.7%, and was significantly higher in basaloid
+and nonkeratinizing SCCs, but similar in tonsillar and base of tongue SCCs.
+Moreover, 98.0% of the HPV-positive OPSCCs overexpressed p16, compared with 12.3%
+of the HPV-negative cases (p < 0.0001). Based on HPV-DNA and p16 double
+positivity, 39.8% of the cases were HPV related.
+CONCLUSION: The high estimate of the HPV-attributable fraction suggests that a
+substantial proportion of OPSCC patients may be managed less intensively.
+
+DOI: 10.2217/FMB.15.55 
+PMID: 26228531  [Indexed for MEDLINE]

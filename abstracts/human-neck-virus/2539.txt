@@ -1,0 +1,33 @@
+
+
+2539. Eur Arch Otorhinolaryngol. 2014 Feb;271(2):211-23. doi:
+10.1007/s00405-013-2400-9. Epub 2013 Mar 7.
+
+Molecular diagnostic alterations in squamous cell carcinoma of the head and neck 
+and potential diagnostic applications.
+
+Hunt JL(1), Barnes L, Lewis JS Jr, Mahfouz ME, Slootweg PJ, Thompson LD, Cardesa 
+A, Devaney KO, Gnepp DR, Westra WH, Rodrigo JP, Woolgar JA, Rinaldo A,
+Triantafyllou A, Takes RP, Ferlito A.
+
+Author information: 
+(1)Department of Pathology and Laboratory Services, College of Medicine,
+University of Arkansas for Medical Sciences, Arkansas, USA.
+
+Head and neck squamous cell carcinoma (HNSCC) is a common malignancy that
+continues to be difficult to treat and cure. In many organ systems and tumor
+types, there have been significant advances in the understanding of the molecular
+basis for tumorigenesis, disease progression and genetic implications for
+therapeutics. Although tumorigenesis pathways and the molecular etiologies of
+HNSCC have been extensively studied, there are still very few diagnostic clinical
+applications used in practice today. This review discusses current clinically
+applicable molecular markers, including viral detection of Epstein-Barr virus and
+human papillomavirus, and molecular targets that are used in diagnosis and
+management of HNSCC. The common oncogenes EGFR, RAS, CCND1, BRAF, and PIK3CA and 
+tumor suppressor genes p53, CDKN2A and NOTCH are discussed for their associations
+with HNSCC. Discussion of markers with potential future applications is also
+included, with a focus on molecular alterations associated with targeted therapy 
+resistance.
+
+DOI: 10.1007/s00405-013-2400-9 
+PMID: 23467835  [Indexed for MEDLINE]

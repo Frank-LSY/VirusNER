@@ -1,0 +1,40 @@
+
+
+1792. Int J Cancer. 2013 Oct 15;133(8):1832-9. doi: 10.1002/ijc.28194. Epub 2013 May 2.
+
+Markers of HPV infection and survival in patients with head and neck tumors.
+
+Koslabova E(1), Hamsikova E, Salakova M, Klozar J, Foltynova E, Salkova E,
+Rotnaglova E, Ludvikova V, Tachezy R.
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, First Faculty of 
+Medicine, Charles University in Prague, Motol University Hospital, Prague, Czech 
+Republic.
+
+The purpose of this study was to determine whether changes in human
+papillomavirus (HPV) DNA prevalence in oral rinses and/or HPV-specific antibody
+levels in the sera of patients with oral/oropharyngeal cancer have prognostic
+significance. One hundred and forty-two patients with oral/oropharyngeal tumors
+were enrolled. The presence of HPV DNA was assayed in tumor tissue and oral
+rinses and HPV-specific antibodies were assessed in the sera. Oral rinses were
+collected before treatment and one year after the treatment. Sera were drawn
+before treatment, one month, and one year after the end of the treatment.
+Altogether, 59.2% of tumors were HPV positive. The presence of HPV DNA in the
+tumors correlated with HPV DNA positivity in oral rinses and with HPV-specific
+antibodies in the sera. Out of 66 patients with HPV-positive oral rinses at
+enrolment, 84.8% became negative at one-year follow-up, while most patients
+remained seropositive for HPV-specific antigens. However, the mean titers of
+HPV16 E6 and/or E7 antibodies at follow-up were significantly lower. Of 16
+patients with recurrences at follow-up (alive on second sampling), six were
+positive at enrolment for HPV16 E6 and/or E7 antibodies. In five of these, no
+decrease in antibody levels was observed. Titers of antibodies specific for HPV16
+capsid antigens did not change during the follow-up. Our data suggest that the
+detection of antibodies specific for the HPV 16 E6 and E7 oncoproteins may serve 
+not only as a marker of HPV etiology, but also as a marker of recurrence and a
+prognostic indicator in patients with HPV-positive tumors.
+
+Copyright © 2013 UICC.
+
+DOI: 10.1002/ijc.28194 
+PMID: 23564321  [Indexed for MEDLINE]

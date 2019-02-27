@@ -1,0 +1,54 @@
+
+
+632. Ann Oncol. 2016 Oct;27(10):1848-54. doi: 10.1093/annonc/mdw272. Epub 2016 Jul 25.
+
+Best practice guidelines in the psychosocial management of HPV-related head and
+neck cancer: recommendations from the European Head and Neck Cancer Society's
+Make Sense Campaign.
+
+Reich M(1), Licitra L(2), Vermorken JB(3), Bernier J(4), Parmar S(5), Golusinski 
+W(6), Castellsagué X(7), Leemans CR(8).
+
+Author information: 
+(1)Psycho-Oncology Team, Centre Oscar Lambret, Lille, France
+m-reich@o-lambret.fr.
+(2)Istituto Nazionale per lo Studio e la Cura dei Tumori, Milan, Italy.
+(3)Department of Medical Oncology, Antwerp University Hospital, Antwerp, Belgium.
+(4)Radio-Oncology Division at the Swiss Genolier Medical Network, Geneva,
+Switzerland.
+(5)Maxillofacial Department, Queen Elizabeth Hospital, Birmingham, UK.
+(6)The Greater Poland Cancer Centre, Poznań University of Medical Sciences,
+Poznań, Poland.
+(7)Cancer Epidemiology Research Program, Institut Català d'Oncologia (ICO),
+IDIBELL, CIBER Epidemiología y Salud Pública (CIBERESP), L'Hospitalet de
+Llobregat, Catalonia, Spain.
+(8)Department of Otolaryngology, Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands.
+
+Over the past three decades, oral human papillomavirus (HPV) has been associated 
+with an increase in the incidence of oropharyngeal squamous cell carcinoma
+(OPSCC) in several countries. Specialist oncologists in head and neck cancer are 
+observing a wider range of demographics, sexual behaviours, and survival outcomes
+with their patients. Additionally, there are fewer smokers, consumers of alcohol,
+or people of lower socioeconomic status than in previous decades. In order to
+support patients, the European Head and Neck Society's Make Sense Campaign aims
+to promote best practice in the management of head and neck cancer through the
+delivery of counselling, psychological assessment, support with the patient
+experience following HPV-related cancer diagnosis, sexual impact (in terms of
+communication, behaviour and prevention), facilitating access to educational
+resources about HPV in head and neck squamous cell carcinoma and OPSCC, and early
+referral if necessary. New concerns about psychosocial distress and unmet
+psychosocial needs following diagnosis, therefore, exist throughout the disease
+and treatment periods. Oncologists treating patients with HPV-related head and
+neck cancer must integrate new parameters focused on infection risk transmission 
+and sexual topics. The development and dissemination of best practice guidelines 
+through The European Head and Neck Cancer Society Make Sense Campaign will help
+healthcare professionals to be more confident and resourceful in supporting
+patients with HPV-related head and neck cancer.
+
+© The Author 2016. Published by Oxford University Press on behalf of the European
+Society for Medical Oncology. All rights reserved. For permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/annonc/mdw272 
+PMID: 27456297  [Indexed for MEDLINE]

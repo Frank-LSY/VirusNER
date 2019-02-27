@@ -1,0 +1,38 @@
+
+
+872. J Med Virol. 2013 Mar;85(3):512-8. doi: 10.1002/jmv.23476. Epub 2012 Dec 21.
+
+Detection of enterovirus in the thyroid tissue of patients with graves' disease.
+
+Hammerstad SS(1), Tauriainen S, Hyöty H, Paulsen T, Norheim I, Dahl-Jørgensen K.
+
+Author information: 
+(1)The Hormone Laboratory, Oslo University Hospital-Aker, Oslo, Norway.
+sara.hammerstad@medisin.uio.no
+
+The etiology and pathogenesis of Graves' disease (GD) are still unknown, although
+it is thought that both genetic and environmental factors are important. Some
+indirect evidence implies that a viral infection may be a possible etiologic
+factor in autoimmunity. The main objective of this study was to examine direct
+evidence of the presence of enteroviruses (EVs) in the thyroid tissue of patients
+with GD. Thyroid tissue from 22 patients with newly diagnosed GD was obtained by 
+core needle biopsy, while tissue from 24 patients with chronic GD and 24 control 
+subjects without any autoimmune thyroid diseases was collected during neck
+surgery. Formalin-fixed, paraffin-embedded thyroid tissue samples were examined
+for the presence of enterovirus capsid protein using immunohistochemistry and for
+enterovirus RNA using in situ hybridization. Enterovirus capsid protein was
+detected in 17 (37%) patients and in 4 (17%) control subjects (P = 0.103).
+Enterovirus RNA was identified in thyroid tissue from nine (20%) patients, but in
+none of the control subjects (P = 0.016). Eight (90%) of the nine virus RNA
+positive patients were also positive for enterovirus protein. This is the first
+study to analyze thyroid tissue for EVs, including patients with untreated, newly
+diagnosed GD. The results suggest that EVs are more frequently present in thyroid
+tissue of patients than controls. Further studies are indicated to explore this
+association to find out if a low-grade chronic enteroviral infection might be
+involved in the pathogenesis of GD and if this could offer new therapeutic and
+preventive opportunities.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.23476 
+PMID: 23280563  [Indexed for MEDLINE]

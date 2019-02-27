@@ -1,0 +1,46 @@
+
+
+622. Anticancer Res. 2017 Feb;37(2):665-673.
+
+Validation of Human Papillomavirus as a Favourable Prognostic Marker and Analysis
+of CD8+ Tumour-infiltrating Lymphocytes and Other Biomarkers in Cancer of Unknown
+Primary in the Head and Neck Region.
+
+Sivars L(1), Landin D(2), Grün N(3), Vlastos A(3)(2), Marklund L(2), Nordemar
+S(2), Ramqvist T(2), Munck-Wikland E(2), Näsman A(3)(4), Dalianis T(5).
+
+Author information: 
+(1)Department of Oncology-Pathology, Karolinska Institute, Stockholm, Sweden
+Lars.Sivars@ki.se Tina.Dalianis@ki.se.
+(2)Department of Clinical Science, Intervention and Technology, Division of ENT
+Diseases, Karolinska Institute, Stockholm, Sweden.
+(3)Department of Oncology-Pathology, Karolinska Institute, Stockholm, Sweden.
+(4)Department of Clinical Pathology, Karolinska University Hospital, Stockholm,
+Sweden.
+(5)Department of Clinical Science, Intervention and Technology, Division of ENT
+Diseases, Karolinska Institute, Stockholm, Sweden Lars.Sivars@ki.se
+Tina.Dalianis@ki.se.
+
+BACKGROUND: Human papillomavirus (HPV) is a favourable prognostic factor in
+oropharyngeal cancer. Moreover, we and others reported that HPV-positive cancer
+of unknown primary in the head and neck region (HNCUP) has better outcome than
+HPV-negative HNCUP. However, not all studies concord. Here, our previous finding 
+was investigated in a new cohort and additional biomarkers were analyzed.
+MATERIALS AND METHODS: A total of 19 HNCUPs diagnosed 2008-2013 were analyzed for
+HPV DNA by polymerase chain reaction assay (PCR) and p16 by immunohistochemistry 
+(IHC). Thereafter, 69 HNCUPs diagnosed between 2000-2013 were analyzed for HPV16 
+mRNA by PCR (if HPV16DNA-positive) and cluster of differentiation 8 positive
+(CD8+) tumour-infiltrating lymphocytes (TILs) and human leukocyte antigen (HLA)
+class I-expression using IHC.
+RESULTS: HPV DNA, alone and in combination with p16 overexpression, was validated
+as a favourable prognostic factor in HNCUP. HPV16 mRNA was present in most HPV16 
+DNA-positive cases, confirming HPV-driven carcinogenesis in HNCUP. High CD8+ TIL 
+counts indicated favourable prognosis.
+CONCLUSION: HPV status is useful for the management of patients with HNCUP and
+the role of CD8+ TILs should be further explored.
+
+Copyright© 2017, International Institute of Anticancer Research (Dr. George J.
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.11362 
+PMID: 28179315  [Indexed for MEDLINE]

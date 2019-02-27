@@ -1,0 +1,36 @@
+
+
+2125. Mol Ther. 2010 Sep;18(9):1599-605. doi: 10.1038/mt.2010.120. Epub 2010 Jun 29.
+
+Therapeutic effect of sodium iodide symporter gene therapy combined with external
+beam radiotherapy and targeted drugs that inhibit DNA repair.
+
+Hingorani M(1), White CL, Zaidi S, Pandha HS, Melcher AA, Bhide SA, Nutting CM,
+Syrigos KN, Vile RG, Vassaux G, Harrington KJ.
+
+Author information: 
+(1)Targeted Therapy Team, The Institute of Cancer Research, London, UK.
+
+Adenoviral (AdV) transfer of sodium iodide symporter (NIS) gene has translational
+potential, but relatively low levels of transduction and subsequent radioisotope 
+uptake limit the efficacy of the approach. In previous studies, we showed that
+combining NIS gene delivery with external beam radiotherapy (EBRT) and DNA damage
+repair inhibitors increased viral gene expression and radioiodide uptake. Here,
+we report the therapeutic efficacy of this strategy. An adenovirus expressing NIS
+from a telomerase promoter (Ad-hTR-NIS) was cytotoxic combined with relatively
+high-dose (50 microCi) (131)I therapy and enhanced the efficacy of EBRT combined 
+with low-dose (10 and 25 microCi) (131)I therapy in colorectal and head and neck 
+cancer cells. Combining this approach with ataxia-telangiectasia mutated (ATM) or
+DNA-dependent protein kinase (DNA-PK) inhibition caused maintenance of
+double-stranded DNA breaks (DSBs) at 24 hours and increased cytotoxicity on
+clonogenic assay. When the triplet of NIS-mediated (131)I therapy, EBRT, and
+DNA-PKi was used in vivo, 90% of mice were tumor-free at 5 weeks. Acute radiation
+toxicity in the EBRT field was not exacerbated. In contrast, DNA-PKi did not
+enhance the therapeutic efficacy of EBRT plus adenovirus-mediated
+HSVtk/ganciclovir (GCV). Therefore, combining NIS gene therapy and EBRT
+represents an ideal strategy to exploit the therapeutic benefits of novel
+radiosensitizers.
+
+DOI: 10.1038/mt.2010.120 
+PMCID: PMC2956921
+PMID: 20588260  [Indexed for MEDLINE]

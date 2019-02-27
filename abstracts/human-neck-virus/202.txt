@@ -1,0 +1,28 @@
+
+
+202. Otolaryngol Clin North Am. 2012 Aug;45(4):807-22. doi: 10.1016/j.otc.2012.04.005.
+
+Biology of human papillomavirus infection and immune therapy for HPV-related head
+and neck cancers.
+
+Best SR(1), Niparko KJ, Pai SI.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins School of
+Medicine, 601 North Caroline Street, JHOC 6th floor, Baltimore, MD 21287, USA.
+
+This article outlines the biology of human papillomavirus (HPV) infection of
+human mucosa and the cellular pathways that are altered through viral infection. 
+The article provides a conceptual framework with which to understand the 2 major 
+immunologic strategies to address HPV-related diseases: (1) prevention of primary
+HPV infection through the use of prophylactic vaccines and (2) treatment of
+established infection and diseases through therapeutic vaccines. Nonimmunologic
+therapy that targets cellular dysregulation induced by HPV infection is also
+discussed. The challenges in actualizing these conceptually attractive therapies 
+on both a societal and biological level are examined.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.otc.2012.04.005 
+PMCID: PMC3398423
+PMID: 22793854  [Indexed for MEDLINE]

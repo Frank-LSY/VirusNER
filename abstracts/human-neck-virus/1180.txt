@@ -1,0 +1,45 @@
+
+
+1180. Cancer Treat Rev. 2015 Dec;41(10):844-52. doi: 10.1016/j.ctrv.2015.10.001. Epub
+2015 Oct 13.
+
+Increased radiosensitivity of HPV-positive head and neck cancers: Molecular basis
+and therapeutic perspectives.
+
+Mirghani H(1), Amen F(2), Tao Y(3), Deutsch E(4), Levy A(4).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Gustave Roussy Cancer
+Campus, 114 rue Edouard Vaillant, Villejuif, France. Electronic address:
+haitham.mirghani@gustaveroussy.fr.
+(2)Department of Otolaryngology, Peterborough City Hospital and Addenbrooke's
+Hospital, Cambridge, UK.
+(3)Department of Radiation Oncology, Gustave Roussy Cancer Campus, 114 rue
+Edouard Vaillant, Villejuif, France.
+(4)Department of Radiation Oncology, Gustave Roussy Cancer Campus, 114 rue
+Edouard Vaillant, Villejuif, France; Université Paris Sud, Faculté de Médecine,
+Kremlin Bicêtre 94270, France; INSERM U1030 Molecular Radiotherapy, Cancer
+Research Institute, Villejuif, France.
+
+Human papillomavirus driven head and neck squamous cell carcinoma (HNSCC),
+particularly oropharyngeal squamous cell carcinoma (OPSCC), are characterized by 
+a significant survival advantage over their HPV-negative counterparts. Although
+the reasons behind this are still not fully elucidated, it is widely accepted
+that these tumors have a higher response to ionizing radiation that might explain
+their favorable outcomes. Potential underlying intrinsic mechanisms include
+impaired DNA repair abilities, differences in activated repopulation-signaling
+pathways and cell cycle control mechanisms. The role of the microenvironment is
+increasingly highlighted, particularly tumor oxygenation and the immune response.
+Recent studies have shown a distinct pattern of intratumoral immune cell
+infiltrates, according to HPV status, and have suggested that an increased
+cytotoxic T-cell based antitumor immune response is involved in improved
+prognosis of patients with HPV-positive OPSCC. These significant milestones, in
+the understanding of HPV-induced HNSCC, pave the way to new therapeutic
+opportunities. This article reviews the current evidence on the biological basis 
+of increased radiosensitivity in HPV-positive HNSCC and discusses potential
+therapeutic implications.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ctrv.2015.10.001 
+PMID: 26476574  [Indexed for MEDLINE]

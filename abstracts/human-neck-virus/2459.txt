@@ -1,0 +1,54 @@
+
+
+2459. Cancer. 2016 Aug 1;122(15):2399-407. doi: 10.1002/cncr.30052. Epub 2016 May 17.
+
+Disparities in cancer treatment among patients infected with the human
+immunodeficiency virus.
+
+Suneja G(1), Lin CC(2), Simard EP(3), Han X(2), Engels EA(4), Jemal A(2).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Utah School of Medicine, Salt 
+Lake City, Utah.
+(2)Surveillance and Health Services Research, Intramural Research Department,
+American Cancer Society, Atlanta, Georgia.
+(3)Epidemiology Department, Emory University, Rollins School of Public Health,
+Atlanta, Georgia.
+(4)Division of Cancer Epidemiology and Genetics, National Cancer Institute,
+Bethesda, Maryland.
+
+BACKGROUND: Patients with cancer who are infected with the human immunodeficiency
+virus (HIV) are less likely to receive cancer treatment compared with
+HIV-uninfected individuals. However, to the authors' knowledge, the impact of
+insurance status and comorbidities is unknown.
+METHODS: Data from the National Cancer Data Base were used to study nonelderly
+adults diagnosed with several common cancers from 2003 to 2011. Cancer treatment 
+was defined as chemotherapy, surgery, radiotherapy, or any combination during the
+first course of treatment. Multivariate logistic regression was used to examine
+associations between HIV status and lack of cancer treatment, and identify
+predictors for lack of treatment among HIV-infected patients.
+RESULTS: A total of 10,265 HIV-infected and 2,219,232 HIV-uninfected cases were
+included. In multivariate analysis, HIV-infected patients with cancer were found 
+to be more likely to lack cancer treatment for cancers of the head and neck
+(adjusted odds ratio [aOR], 1.48; 95% confidence interval [95% CI], 1.09-2.01),
+upper gastrointestinal tract (aOR, 2.62; 95% CI, 2.04-3.37), colorectum (aOR,
+1.70; 95% CI, 1.17-2.48), lung (aOR, 2.46; 95% CI, 2.19-2.76), breast (aOR, 2.14;
+95% CI, 1.16-3.98), cervix (aOR, 2.81; 95% CI, 1.77-4.45), prostate (aOR, 2.16;
+95% CI, 1.69-2.76), Hodgkin lymphoma (aOR, 1.92; 95% CI, 1.66-2.22), and diffuse 
+large B-cell lymphoma (aOR, 1.82; 95% CI, 1.65-2.00). Predictors of a lack of
+cancer treatment among HIV-infected individuals varied by tumor type (solid tumor
+vs lymphoma), but black race and a lack of private insurance were found to be
+predictors for both groups.
+CONCLUSIONS: In the United States, HIV-infected patients with cancer appear to be
+less likely to receive cancer treatment regardless of insurance and
+comorbidities. To the authors' knowledge, the current study is the largest study 
+of cancer treatment in HIV-infected patients with cancer in the United States and
+provides evidence of cancer treatment disparities even after controlling for
+differences with regard to insurance status and comorbidities. Further work
+should focus on addressing differential cancer treatment. Cancer
+2016;122:2399-2407. © 2016 American Cancer Society.
+
+© 2016 American Cancer Society.
+
+DOI: 10.1002/cncr.30052 
+PMID: 27187086  [Indexed for MEDLINE]

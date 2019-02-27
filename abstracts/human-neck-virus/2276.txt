@@ -1,0 +1,76 @@
+
+
+2276. Mol Ther. 2015 Aug;23(8):1401-1409. doi: 10.1038/mt.2015.91. Epub 2015 May 28.
+
+Long-term Outcome of Extranodal NK/T Cell Lymphoma Patients Treated With
+Postremission Therapy Using EBV LMP1 and LMP2a-specific CTLs.
+
+Cho SG(1), Kim N(2), Sohn HJ(3), Lee SK(4), Oh ST(4), Lee HJ(5), Cho HI(6), Yim
+HW(7), Jung SE(8), Park G(9), Oh JH(10), Choi BO(11), Kim SW(12), Kim SW(12),
+Chung NG(13), Lee JW(14), Hong YS(15), Kim TG(16).
+
+Author information: 
+(1)Department of Hematology, Seoul St. Mary's Hospital, College of Medicine, The 
+Catholic University of Korea, Seoul, Korea; Institute for Translational Research 
+and Molecular Imaging, College of Medicine, The Catholic University of Korea,
+Seoul, Korea; Catholic Lymphoma Study Group (CULG), Catholic Institute of Cell
+Therapy, College of Medicine, The Catholic University of Korea, Seoul, Korea.
+(2)Institute for Translational Research and Molecular Imaging, College of
+Medicine, The Catholic University of Korea, Seoul, Korea.
+(3)Department of Microbiology, Seoul St. Mary's Hospital, College of Medicine,
+The Catholic University of Korea, Seoul, Korea; Catholic Hematopoietic Stem Cell 
+Bank, College of Medicine, The Catholic University of Korea, Seoul, Korea.
+(4)Department of Medical Lifescience, Seoul St. Mary's Hospital, College of
+Medicine, The Catholic University of Korea, Seoul, Korea.
+(5)Catholic Hematopoietic Stem Cell Bank, College of Medicine, The Catholic
+University of Korea, Seoul, Korea.
+(6)Department of Microbiology, Seoul St. Mary's Hospital, College of Medicine,
+The Catholic University of Korea, Seoul, Korea; Catholic Hematopoietic Stem Cell 
+Bank, College of Medicine, The Catholic University of Korea, Seoul, Korea; Cancer
+Research Institute, College of Medicine, The Catholic University of Korea, Seoul,
+Korea.
+(7)Department of Preventive Medicine, Seoul St. Mary's Hospital, College of
+Medicine, The Catholic University of Korea, Seoul, Korea.
+(8)Department of Radiology, Seoul St. Mary's Hospital, College of Medicine, The
+Catholic University of Korea, Seoul, Korea.
+(9)Department of Pathology, Seoul St. Mary's Hospital, College of Medicine, The
+Catholic University of Korea, Seoul, Korea.
+(10)Department of Nuclear Medicine, Seoul St. Mary's Hospital, College of
+Medicine, The Catholic University of Korea, Seoul, Korea.
+(11)Department of Radiation Oncology, Seoul St. Mary's Hospital, College of
+Medicine, The Catholic University of Korea, Seoul, Korea.
+(12)Department of Otolaryngology-Head and Neck Surgery, Seoul St. Mary's
+Hospital, College of Medicine, The Catholic University of Korea, Seoul, Korea.
+(13)Department of Pediatrics, Seoul St. Mary's Hospital, College of Medicine, The
+Catholic University of Korea, Seoul, Korea.
+(14)Department of Hematology, Seoul St. Mary's Hospital, College of Medicine, The
+Catholic University of Korea, Seoul, Korea.
+(15)Department of Medical Oncology, Seoul St. Mary's Hospital, College of
+Medicine, The Catholic University of Korea, Seoul, Korea.
+(16)Department of Microbiology, Seoul St. Mary's Hospital, College of Medicine,
+The Catholic University of Korea, Seoul, Korea; Catholic Hematopoietic Stem Cell 
+Bank, College of Medicine, The Catholic University of Korea, Seoul, Korea.
+Electronic address: kimtg@catholic.ac.kr.
+
+Extranodal NK/T-cell lymphoma (ENKTCL) is associated with latent Epstein-Barr
+virus (EBV) infection and frequent relapse even after complete response (CR) to
+intensive chemotherapy and radiotherapy. The expression of EBV proteins in the
+tumor provides targets for adoptive immunotherapy with antigen-specific cytotoxic
+T cells (CTL). To evaluate the efficacy and safety of EBV latent membrane protein
+(LMP)-1 and LMP-2a-specific CTLs (LMP1/2a CTLs) stimulated with LMP1/2a
+RNA-transferred dendritic cells, we treated 10 ENKTCL patients who showed
+complete response to induction therapy. Patients who completed and responded to
+chemotherapy, radiotherapy, and/or high-dose therapy followed by stem cell
+transplantation (HDT/SCT) were eligible to receive eight doses of 2 × 10(7)
+LMP1/2a CTLs/m(2). Following infusion, there were no immediate or delayed
+toxicities. The 4-year overall survival (OS) and progression-free survival (PFS) 
+were 100%, and 90% (95% CI: 71.4 to 100%) respectively with a median follow-up of
+55·5 months. Circulating IFN-γ secreting LMP1 and LMP2a-specific T cells within
+the peripheral blood corresponded with decline in plasma EBV DNA levels in
+patients. Adoptive transfer of LMP1/2a CTLs in ENKTCL patients is a safe and
+effective postremission therapeutic approach. Further randomized studies will be 
+needed to define the role of EBV-CTLs in preventing relapse of ENKTCL.
+
+DOI: 10.1038/mt.2015.91 
+PMCID: PMC4817864
+PMID: 26017177  [Indexed for MEDLINE]

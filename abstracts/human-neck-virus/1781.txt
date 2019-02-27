@@ -1,0 +1,34 @@
+
+
+1781. Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2010 Mar;24(5):209-11.
+
+[The study on the relationship between human papillomavirus infection and
+pathogenesis of nasal inverted papilloma and its malignant transformation].
+
+[Article in Chinese]
+
+Zhong Z(1), Yan A, Jiang F, Wei H, Jiang X.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, the First Affiliated 
+Hospital of China Medical University, Shenyang, 110001, China.
+
+OBJECTIVE: To investigate the relationship between human papillomavirus (HPV)
+infection and pathogenesis of nasal inverted papilloma (NIP) and its malignant
+transformation.
+METHOD: Fifty-seven cases of NIP were divided into 2 groups: benign group,
+squamous cell carcinoma (SCC) arising in NIP group (malignancy group). HPV-DNA
+types of 6, 11, 16, 18 were detected by polymerase chain reaction (PCR) in 57
+cases of NIP. Thirty cases of nasal polyps were control.
+RESULT: Total positive rate of HPV in NIP was 64.9% (37/57). The positive rate of
+benign group was 60% (27/45), all with single and low risk HPV11 type infection. 
+The positive rate of malignancy group were was 83.3% (10/12), and the majority
+were HPV16 and HPV18. Five cases had double infection (4 with HPV16 and HPV 18, 1
+with HPV11 and HPV18), four had single HPV16 infection, another one had single
+HPV11 infection. However, HPV-DNA was not detected in any cases of nasal polyps.
+CONCLUSION: Infection of HPV-DNA has an important effect in pathogenesis of NIP. 
+Meanwhile, there maybe a close relationship between high risk HPV16 type and
+HPV18 type and malignant transformation of NIP.
+
+
+PMID: 20464987  [Indexed for MEDLINE]

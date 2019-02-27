@@ -1,0 +1,28 @@
+
+
+42. Annu Rev Microbiol. 2011;65:583-609. doi: 10.1146/annurev-micro-090110-102957.
+
+Synthetic poliovirus and other designer viruses: what have we learned from them?
+
+Wimmer E(1), Paul AV.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, New York 11790, USA. ewimmer@ms.cc.sunysb.edu
+
+Owing to known genome sequences, modern strategies of DNA synthesis have made it 
+possible to recreate in principle all known viruses independent of natural
+templates. We describe the first synthesis of a virus (poliovirus) in 2002 that
+was accomplished outside living cells. We comment on the reaction of laypeople
+and scientists to the work, which shaped the response to de novo syntheses of
+other viruses. We discuss those viruses that have been synthesized since 2002,
+among them viruses whose precise genome sequence had to be established by
+painstakingly stitching together pieces of sequence information, and viruses
+involved in zoonosis. Synthesizing viral genomes provides a powerful tool for
+studying gene function and the pathogenic potential of these organisms. It also
+allows modification of viral genomes to an extent hitherto unthinkable. Recoding 
+of poliovirus and influenza virus to develop new vaccine candidates and
+refactoring the phage T7 DNA genome are discussed as examples.
+
+DOI: 10.1146/annurev-micro-090110-102957 
+PMID: 21756105  [Indexed for MEDLINE]

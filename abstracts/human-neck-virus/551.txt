@@ -1,0 +1,26 @@
+
+
+551. Bing Du Xue Bao. 2014 Mar;30(2):201-7.
+
+[Research progress in roles of high-risk human papillomavirus E2 protein].
+
+[Article in Chinese]
+
+Wu EQ, Tang YY.
+
+High-risk human papillomavirus (HPV) is the principal cause of various cancers
+including cervical cancer, anal cancer, vulvar cancer, and some head and neck
+cancers. In the viral life cycle, by interacting with both viral and host DNA and
+proteins, the HPV E2 protein plays a pivotal role in viral transcriptional
+regulation and DNA replication, and it is also associated with modification of
+various cellular processes, including host gene transcription, RNA processing,
+apoptosis, ubiquitination, and intracellular trafficking, to create a convenient 
+environment for a replicative cycle of the virus and contribute to the HPV
+pathogenesis. Elucidating the roles of E2 protein throughout the viral life cycle
+will improve our understanding of the viral life cycle and pathogenesis and help 
+us identify novel antiviral agents with therapeutic potential. This article
+reviews the research progress in the structure, roles, and activity of high-risk 
+HPV E2 protein, particularly that of HPV-16.
+
+
+PMID: 24923176  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+261. PLoS Pathog. 2013;9(10):e1003701. doi: 10.1371/journal.ppat.1003701. Epub 2013
+Oct 10.
+
+Dual function of CD81 in influenza virus uncoating and budding.
+
+He J(1), Sun E, Bujny MV, Kim D, Davidson MW, Zhuang X.
+
+Author information: 
+(1)Department of Molecular and Cellular Biology, Harvard University, Cambridge,
+Massachusetts, United States of America ; Department of Chemistry and Chemical
+Biology, Harvard University, Cambridge, Massachusetts, United States of America.
+
+As an obligatory pathogen, influenza virus co-opts host cell machinery to harbor 
+infection and to produce progeny viruses. In order to characterize the virus-host
+cell interactions, several genome-wide siRNA screens and proteomic analyses have 
+been performed recently to identify host factors involved in influenza virus
+infection. CD81 has emerged as one of the top candidates in two siRNA screens and
+one proteomic study. The exact role played by CD81 in influenza infection,
+however, has not been elucidated thus far. In this work, we examined the effect
+of CD81 depletion on the major steps of the influenza infection. We found that
+CD81 primarily affected virus infection at two stages: viral uncoating during
+entry and virus budding. CD81 marked a specific endosomal population and about
+half of the fused influenza virus particles underwent fusion within the
+CD81-positive endosomes. Depletion of CD81 resulted in a substantial defect in
+viral fusion and infection. During virus assembly, CD81 was recruited to virus
+budding site on the plasma membrane, and in particular, to specific sub-viral
+locations. For spherical and slightly elongated influenza virus, CD81 was
+localized at both the growing tip and the budding neck of the progeny viruses.
+CD81 knockdown led to a budding defect and resulted in elongated budding virions 
+with a higher propensity to remain attached to the plasma membrane. Progeny virus
+production was markedly reduced in CD81-knockdown cells even when the uncoating
+defect was compensated. In filamentous virus, CD81 was distributed at multiple
+sites along the viral filament. Taken together, these results demonstrate
+important roles of CD81 in both entry and budding stages of the influenza
+infection cycle.
+
+DOI: 10.1371/journal.ppat.1003701 
+PMCID: PMC3795033
+PMID: 24130495  [Indexed for MEDLINE]

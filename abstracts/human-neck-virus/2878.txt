@@ -1,0 +1,40 @@
+
+
+2878. Genes Chromosomes Cancer. 2014 May;53(5):392-401. doi: 10.1002/gcc.22150. Epub
+2014 Jan 31.
+
+A selected group of large common fragile site genes have decreased expression in 
+oropharyngeal squamous cell carcinomas.
+
+Gao G(1), Kasperbauer JL, Tombers NM, Wang V, Mayer K, Smith DI.
+
+Author information: 
+(1)Division of Experimental Pathology, Department of Laboratory Medicine and
+Pathology, Mayo Clinic, Rochester, MN.
+
+The common fragile sites (CFSs) are large regions of profound genomic instability
+found in all individuals. The frequent deletions and other alterations in these
+regions in multiple cancers has led to the discovery of a number of extremely
+large genes contained within these regions and several of the large CFS genes
+have already been demonstrated to function as tumor suppressors involved in the
+formation of many different cancers. To study the large CFS genes in
+oropharyngeal squamous cell carcinoma (OPSCC), we did RNA seq analysis from 11
+head and neck cancer patients. This revealed that there are six large CFS genes
+which consistently had decreased expression in the tumor samples compared to
+their matched normal tissues. These six genes are PARK2, DLG2, NBEA, CTNNA3, DMD,
+and FHIT. PARK2 and FHIT are located within the two most frequently expressed
+CFSs and both have been demonstrated to function as tumor suppressors, while the 
+other large genes are found to have frequent alterations in multiple cancers.
+Validation experiments using real time PCR indicated that over 60% of OPSCC
+tumors showed decreased expression for all six genes. Both HPV-positive and
+HPV-negative OPSCCs had similar proportions with loss of expression of these
+genes. Our results suggest that this selected group of large genes might serve as
+potential tumor suppressors involved in the development of OPSCCs. Further
+studies are needed to investigate whether the decreased expression observed is
+due to genomic instability within the CFS regions or the selection for
+alterations of specific large CFS genes.
+
+Copyright © 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/gcc.22150 
+PMID: 24481768  [Indexed for MEDLINE]

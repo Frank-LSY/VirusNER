@@ -1,0 +1,38 @@
+
+
+538. Oncol Rep. 2012 Nov;28(5):1750-6. doi: 10.3892/or.2012.1990. Epub 2012 Aug 24.
+
+The distribution of human papillomavirus in tissues from patients with head and
+neck squamous cell carcinoma.
+
+Wei W(1), Shi Q, Guo F, Zhang BY, Chen C, Zhang NS, Dong XP.
+
+Author information: 
+(1)Key Laboratory of Carcinogenesis and Translational Research, Ministry of
+Education, Head and Neck Surgery Department Peking University Cancer Hospital and
+Institute, Beijing 100142, PR China.
+
+Several types of HPVs have been shown to be associated with the development of
+malignant cancers in various head and neck tumors. More information on the HPV
+prevalence in patients with head and neck squamous cell carcinomas (SCCs) need to
+be obtained. In this study, formalin-fixed and paraffin-embedded tissues of 93
+pathologically diagnosed head and neck SCC patients were collected from Peking
+University Cancer Hospital. HPV DNA sequences in tumor tissues were screened by a
+commercial Luminex technique for HPVs and HPV-specific PCR assays. Presence of
+HPV16/18 oncoprotein in tumor tissues was assessed by immunohistochemistry (IHC) 
+with HPV16/18 E6-specific antibodies. Of the 93 patients, 16 (17.2%) cases were
+found to be HPV DNA-positive, including 7 HPV18-positive, 8 HPV16-positive and 1 
+HPV52-positive. IHC assays demonstrated that 31.2% (29/93) tested sections showed
+positive signals in the tumor cells. The total positive rate of HPV genome and
+its encoding products in the tested samples was 44.1% (41/93). Further analyses
+revealed that HPV infections in head and neck SCCs were significantly related
+with the tumor anatomic sites, showing decreasing tendency from outside (lip
+cancer) to inside (laryngeal cancer), but had no correlation with pathological,
+clinical grades and age of the patients. In all, HPV infections are commonly
+identified in the tumor tissues of patients with head and neck SCCs, in which
+HPV16 and 18 are the most prevalent HPV genotypes. Direct detection of high-risk 
+HPV oncoprotein by IHC may be a good tool for classifying a tumor as truly
+HPV-associated.
+
+DOI: 10.3892/or.2012.1990 
+PMID: 22923266  [Indexed for MEDLINE]

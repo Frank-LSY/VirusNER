@@ -1,0 +1,36 @@
+
+
+349. Sci Rep. 2016 Apr 11;6:23146. doi: 10.1038/srep23146.
+
+Inhibition of HSV-1 Replication by Gene Editing Strategy.
+
+Roehm PC(1)(2)(3), Shekarabi M(1), Wollebo HS(1), Bellizzi A(1), He L(1), Salkind
+J(1), Khalili K(1).
+
+Author information: 
+(1)Department of Neuroscience, Center for Neurovirology, Temple University School
+of Medicine, 3500 N. Broad Street, Philadelphia, 19140 PA, USA.
+(2)Department of Otolaryngology/Head and Neck Surgery, Temple University School
+of Medicine, 3500 N. Broad Street, Philadelphia, 19140 PA, USA.
+(3)Department of Neurosurgery, Temple University School of Medicine, 3500 N.
+Broad Street, Philadelphia, 19140 PA, USA.
+
+HSV-1 induced illness affects greater than 85% of adults worldwide with no
+permanent curative therapy. We used RNA-guided CRISPR/Cas9 gene editing to
+specifically target for deletion of DNA sequences of the HSV-1 genome that span
+the region directing expression of ICP0, a key viral protein that stimulates
+HSV-1 gene expression and replication. We found that CRISPR/Cas9 introduced InDel
+mutations into exon 2 of the ICP0 gene profoundly reduced HSV-1 infectivity in
+permissive human cell culture models and protected permissive cells against HSV-1
+infection. CRISPR/Cas9 mediated targeting ICP0 prevented HSV-1-induced
+disintegration of promonocytic leukemia (PML) nuclear bodies, an intracellular
+event critical to productive HSV-1 infection that is initiated by interaction of 
+the ICP0 N-terminus with PML. Combined treatment of cells with CRISPR targeting
+ICP0 plus the immediate early viral proteins, ICP4 or ICP27, completely abrogated
+HSV-1 infection. We conclude that RNA-guided CRISPR/Cas9 can be used to develop a
+novel, specific and efficacious therapeutic and prophylactic platform for
+targeted viral genomic ablation to treat HSV-1 diseases.
+
+DOI: 10.1038/srep23146 
+PMCID: PMC4827394
+PMID: 27064617  [Indexed for MEDLINE]

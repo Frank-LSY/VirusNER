@@ -1,0 +1,41 @@
+
+
+1095. Int J Cancer. 2017 Aug 15;141(4):664-670. doi: 10.1002/ijc.30716. Epub 2017 Jun
+8.
+
+Worldwide burden of cancer attributable to HPV by site, country and HPV type.
+
+de Martel C(1), Plummer M(1), Vignat J(1), Franceschi S(1).
+
+Author information: 
+(1)International Agency for Research on Cancer, Lyon, France.
+
+HPV is the cause of almost all cervical cancer and is responsible for a
+substantial fraction of other anogenital cancers and oropharyngeal cancers.
+Understanding the HPV-attributable cancer burden can boost programs of HPV
+vaccination and HPV-based cervical screening. Attributable fractions (AFs) and
+the relative contributions of different HPV types were derived from published
+studies reporting on the prevalence of transforming HPV infection in cancer
+tissue. Maps of age-standardized incidence rates of HPV-attributable cancers by
+country from GLOBOCAN 2012 data are shown separately for the cervix, other
+anogenital tract and head and neck cancers. The relative contribution of HPV16/18
+and HPV6/11/16/18/31/33/45/52/58 was also estimated. 4.5% of all cancers
+worldwide (630,000 new cancer cases per year) are attributable to HPV: 8.6% in
+women and 0.8% in men. AF in women ranges from <3% in Australia/New Zealand and
+the USA to >20% in India and sub-Saharan Africa. Cervix accounts for 83% of
+HPV-attributable cancer, two-thirds of which occur in less developed countries.
+Other HPV-attributable anogenital cancer includes 8,500 vulva; 12,000 vagina;
+35,000 anus (half occurring in men) and 13,000 penis. In the head and neck,
+HPV-attributable cancers represent 38,000 cases of which 21,000 are oropharyngeal
+cancers occurring in more developed countries. The relative contributions of
+HPV16/18 and HPV6/11/16/18/31/33/45/52/58 are 73% and 90%, respectively.
+Universal access to vaccination is the key to avoiding most cases of
+HPV-attributable cancer. The preponderant burden of HPV16/18 and the possibility 
+of cross-protection emphasize the importance of the introduction of more
+affordable vaccines in less developed countries.
+
+© 2017 International Agency for Research on Cancer (IARC/WHO); licensed by UICC.
+
+DOI: 10.1002/ijc.30716 
+PMCID: PMC5520228
+PMID: 28369882  [Indexed for MEDLINE]

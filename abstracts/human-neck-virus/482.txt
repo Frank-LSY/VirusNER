@@ -1,0 +1,44 @@
+
+
+482. Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2011 Mar;25(6):270-3.
+
+[Latent membrane protein-1 of EB virus and the phenotype of
+epithelial-mesenchymal transition and cervical lymph node metastasis in
+nasopharyngeal carcinoma].
+
+[Article in Chinese]
+
+Yue L(1), Jiang Z, Wu W, Zhang Y, Yin P, Zhang Y, Sheng C, Wei G, Li X, Ling K.
+
+Author information: 
+(1)Department of Otorhinolaryngology, the First Affiliated Hospital of Jiaxing
+College, Jiaxing, 314000, China. yuelihuazj@hotmail.com
+
+OBJECTIVE: To evaluate the relation of EB virus latent membrane protein-1 (LMP-1)
+and the phenotype of epithelial-mesenchymal transition (EMT) and cervical lymph
+node metastasis in nasopharyngeal carcinoma.
+METHOD: Based on histopathology and MRI imaging, nasopharyngeal biopsy tissues
+from 88 patients with nasopharyngeal carcinoma were divided into 3 groups:
+pathologic metastasis (18), MRI metastasis(40) and without metastasis (30). The
+expressions of LMP-1, STAT3, Twist, E-Cadherin and Vimentin were examined
+immunohistochemically in biopsy tissues.
+RESULT: LMP-1 expression was found in 35 of 88 biopsy tissues with a positive
+rate of 38.7%. The positive rates of LMP-1 in groups of pathologic metastasis,
+MRI metastasis and without metastasis were 38.9% (7/18), 47.5% (19/40) and 30.0% 
+(9/30), respectively, and significant difference were not found among three
+groups. The expression of LMP-1 was positively correlated to both expressions of 
+Twist and Vimentin (r = 0.276 and 0.282, are P < 0.01), but not to both
+expressions of STAT3 and E-Cadherin. The positive expressions or abnormal
+expression of STAT3, Twist, Vimentin and E-Cadherin were found in 57 of 88
+(64.8%), 48 of 88 (54.5%), 22 of 88 (20.0%)and 53 of 88 (60.2%), respectively.
+Significant differences in the expression of STAT3, Twist, Vimentin and
+E-Cadherin were all found among groups of pathologic metastasis, MRI metastasis
+and without metastasis, respectively (are P < 0.05). The expression of STAT3 was 
+positively correlated to both expressions of Twist and Vimentin (r = 0.712 and
+0.316, P < 0.01).
+CONCLUSION: EMT plays important role in cervical lymph node metastasis in
+nasopharyngeal carcinoma. LMP-1 may be only as one of upstream factors associated
+with the EMT, but not the decisive factor for cervical lymph node metastasis.
+
+
+PMID: 21650062  [Indexed for MEDLINE]

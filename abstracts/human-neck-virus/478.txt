@@ -1,0 +1,39 @@
+
+
+478. Gene Ther. 2010 Dec;17(12):1517-24. doi: 10.1038/gt.2010.99. Epub 2010 Aug 5.
+
+Comparison of oncolytic adenoviruses for selective eradication of oral cancer and
+pre-cancerous lesions.
+
+van Zeeburg HJ(1), Huizenga A, Brink A, van den Doel PB, Zhu ZB, McCormick F,
+Brakenhoff RH, van Beusechem VW.
+
+Author information: 
+(1)Department of Otolaryngology/Head-Neck Surgery, VU University Medical Center, 
+Amsterdam, The Netherlands.
+
+Comment in
+    Gene Ther. 2010 Dec;17(12):1421-2.
+
+Oncolytic adenoviruses are being investigated as potential anti-cancer agents.
+Selective lytic replication in cancer cells is essential for an effective and
+safe treatment. In this study, we compared 11 oncolytic adenoviruses in relevant 
+cell cultures to assess their use for treating oral cancer and pre-cancerous
+lesions. We determined the cytotoxicity of oncolytic adenovirus infection and
+calculated selectivity indices for cytotoxicity to cancer cells compared with
+normal oral keratinocytes and fibroblasts. Keratinocytes were very sensitive to
+wild-type adenovirus serotype 5 (Ad5); 1- to 3-log more than head and neck
+squamous cell carcinoma (HNSCC) cells. The potencies of oncolytic adenoviruses to
+kill HNSCC cells within 7 days after infection ranged from approximately 10 times
+less potent to approximately 10 times more potent than Ad5. The selectivity
+indices determined on fibroblasts and keratinocytes differed markedly. Two
+oncolytic adenoviruses were more selective than Ad5 for HNSCC cells compared with
+fibroblasts; and five viruses showed selective replication on HNSCC cells
+compared with keratinocytes. Overall, CRAd-S.RGD with E1A driven by the survivin 
+promoter and an infectivity-enhancing capsid modification showed the most
+favourable cytotoxicity pattern; being very potent in killing HNSCC cells, only
+slightly less effective than Ad5 in killing pre-neoplastic keratinocytes and the 
+least toxic to normal keratinocytes.
+
+DOI: 10.1038/gt.2010.99 
+PMID: 20686507  [Indexed for MEDLINE]

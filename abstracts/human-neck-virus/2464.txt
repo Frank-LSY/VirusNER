@@ -1,0 +1,45 @@
+
+
+2464. HNO. 2015 Nov;63(11):768-72. doi: 10.1007/s00106-015-0079-5.
+
+[HPV infection in oral, pharyngeal and laryngeal papillomas].
+
+[Article in German]
+
+Andratschke M(1)(2), Hagedorn H(1), Nerlich AG(3).
+
+Author information: 
+(1)Abteilung für Hals-, Nasen- und Ohrenheilkunde, Helios Amper-Klinikum Dachau, 
+Krankenhausstrasse 15, 85221, Dachau, Deutschland.
+(2)Klinik für Hals-, Nasen- und Ohrenheilkunde, Universitätsklinikum
+Schleswig-Holstein, Campus Lübeck, Ratzeburger Allee 160, 23538, Lübeck,
+Deutschland.
+(3)Institut für Pathologie, Klinikum München Bogenhausen, Englschalkingerstrasse 
+77, 81925, München, Deutschland. Andreas.Nerlich@klinikum-muenchen.de.
+
+BACKGROUND: HPV infections play a major role in the pathogenesis of squamous cell
+carcinomas of the head and neck. Regarding benign papillomas, the role of HPV is 
+still uncertain.
+MATERIALS AND METHODS: To clarify this issue, 100 exophytic papillomas of the
+oral cavity, pharynx and larynx were subjected to histopathological and molecular
+pathological examination. Excision biopsies were taken from 62 male and 38 female
+patients with an age range of 18 to 87 years. Biopsies were tested for p16
+expression by immunohistochemistry and analyzed for HPV subtypes 6/11 (low-risk),
+16/18 and 31/33/53 (high-risk) by chromogenic in situ hybridization.
+RESULTS: HPV infections were verified molecularly in 34 % of biopsies; in all
+cases with the low-risk HPV subtypes 6/11. Only one case showed infection with
+both 6/11 and 31/33/53 subtypes, but not subtype 16/18; whereas expression of p16
+was found in 67 %. The rate of positive molecular verification of HPV infection
+(in situ hybridization) was highest in the laryngeal lesions with 61.1 %,
+followed by the oral cavity with 52.9 %, and lowest in pharyngeal lesions
+(21.5 %). Recurrent papillomas were seen in 18 cases (18 %), of which 14 were
+molecularly positive for HPV (in situ hybridization). A correlation between
+inflammatory infiltration and HPV infection could be verified in 82 %.
+CONCLUSION: Our data demonstrate an important role of HPV infection for the
+development of benign papillomas of the head and neck region. Furthermore, there 
+is a positive correlation between HPV infection and recurrent papillomas.
+Therefore, a molecular morphological HPV analysis of papillomas could provide
+important prognostic data.
+
+DOI: 10.1007/s00106-015-0079-5 
+PMID: 26507714  [Indexed for MEDLINE]

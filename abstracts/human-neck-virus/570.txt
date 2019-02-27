@@ -1,0 +1,54 @@
+
+
+570. PLoS One. 2017 Oct 13;12(10):e0186186. doi: 10.1371/journal.pone.0186186.
+eCollection 2017.
+
+In vitro investigation of head and neck cancer stem cell proportions and their
+changes following X-ray irradiation as a function of HPV status.
+
+Reid P(1)(2), Wilson P(3)(4), Li Y(2), Marcu LG(1)(5), Staudacher AH(6)(7), Brown
+MP(6)(7)(8), Bezak E(1)(2)(9).
+
+Author information: 
+(1)School of Health Sciences, University of South Australia, Adelaide, Australia.
+(2)Sansom Institute for Health Research, University of South Australia, Adelaide,
+Australia.
+(3)School of Engineering, University of South Australia, Adelaide, Australia.
+(4)Department of Medical Physics, Royal Adelaide Hospital, Adelaide, Australia.
+(5)Faculty of Science, University of Oradea, Oradea, Romania.
+(6)Translational Oncology Laboratory, Centre for Cancer Biology, SA Pathology,
+and University of South Australia, Adelaide, Australia.
+(7)School of Medicine, University of Adelaide, Adelaide, Australia.
+(8)Cancer Clinical Trials Unit, Royal Adelaide Hospital, Adelaide, Australia.
+(9)School of Physical Sciences, University of Adelaide, Adelaide, Australia.
+
+INTRODUCTION: Some head and neck squamous cell carcinomas (HNSCC) have a distinct
+aetiology, which depends on the presence of oncogenic human papilloma virus
+(HPV). Also, HNSCC contains cancer stem cells (CSCs) that have greater
+radioresistance and capacity to change replication dynamics in response to
+irradiation compared to non-clonogenic cells. Since there is limited data on CSCs
+in HNSCC as a function of HPV status, better understanding of their radiobiology 
+may enable improved treatment outcome.
+METHODS: Baseline and post-irradiation changes in CSC proportions were
+investigated by flow cytometry in a HPV-negative (UM-SCC-1) and a HPV-positive
+(UM-SCC-47) HNSCC cell line, using fluorescent staining with CD44/ALDH markers.
+CSC proportions in both irradiated and unirradiated cultures were compared for
+the two cell lines at various times post-irradiation. To assess repopulation of
+CSCs, untreated cultures were depleted of CD44+/ALDH+ cells and re-cultured for 3
+weeks before flow cytometry analysis.
+RESULTS: CSC proportions in untreated cell lines were 0.57% (UM-SCC-1) and 2.87% 
+(UM-SCC-47). Untreated cell lines depleted of CD44+/ALDH+ repopulated this
+phenotype to a mean of 0.15% (UM-SCC-1) and 6.76% (UM-SCC-47). All UM-SCC-47
+generations showed elevated CSC proportions after irradiation, with the most
+significant increase at 2 days post-irradiation. The highest elevation in
+UM-SCC-1 CSCs was observed at 1 day post-irradiation in the 2nd generation and at
+3 days after irradiation in the 3rd generation. When measured after 10 days, only
+the 3rd generation of UM-SCC-1 showed elevated CSCs.
+CONCLUSIONS: CSC proportions in both cell lines were elevated after exposure and 
+varied with time post irradiation. UM-SCC-47 displayed significant plasticity in 
+repopulating the CSC phenotype in depleted cultures, which was not seen in
+UM-SCC-1.
+
+DOI: 10.1371/journal.pone.0186186 
+PMCID: PMC5640219
+PMID: 29028842  [Indexed for MEDLINE]

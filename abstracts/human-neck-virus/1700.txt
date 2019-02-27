@@ -1,0 +1,40 @@
+
+
+1700. Am J Surg Pathol. 2009 Dec;33(12):1771-7. doi: 10.1097/PAS.0b013e3181ba7b73.
+
+Merkel cell polyomavirus: a specific marker for Merkel cell carcinoma in
+histologically similar tumors.
+
+Duncavage EJ(1), Le BM, Wang D, Pfeifer JD.
+
+Author information: 
+(1)Department of Pathology and Immunology, Division of Anatomic and Molecular
+Pathology, Washington University School of Medicine, St Louis, MO, USA.
+eric.duncavage@hsc.utah.edu
+
+Comment in
+    Am J Dermatopathol. 2011 May;33(3):329-30.
+
+The recently described Merkel cell polyomavirus (MCPyV) is reportedly present in 
+50% to 80% of Merkel cell carcinomas (MCC). Although the virus has been shown to 
+be absent from other cutaneous neoplasms, its association with malignancies that 
+are histologically similar to MCC, specifically small cell carcinoma of the lung 
+and other high-grade neuroendocrine tumors, has yet to be thoroughly
+investigated. To address this issue, we identified a set of 74 cases of visceral 
+high-grade neuroendocrine tumors from a variety of anatomic sites, including 32
+cases from the lung, 16 cases from the gastrointestinal tract, 20 cases from the 
+female reproductive system, 3 cases from soft tissue, 2 cases from the head and
+neck region, and 1 case from the bladder. Using a set of primers optimized to
+detect MCPyV in formalin-fixed tissue, polymerase chain reaction (PCR)-based
+testing showed evidence of MCPyV DNA in only 1 of the 74 tumors; however,
+clinicopathologic review of the positive case (a neuroendocrine tumor of the
+small intestine) disclosed that the patient had a history of primary MCC of the
+buttock. PCR-based testing also showed no evidence of the related WU and KI
+polyomaviruses in the set of 74 cases. We conclude that, when evaluated by
+PCR-based testing, MCPyV is a specific marker for MCC that can be helpful in
+distinguishing cases of metastatic MCC from other high-grade neuroendocrine
+tumors. Our results also suggest that MCPyV does not have a role in the
+oncogenesis of visceral high-grade neuroendocrine tumors.
+
+DOI: 10.1097/PAS.0b013e3181ba7b73 
+PMID: 19809278  [Indexed for MEDLINE]

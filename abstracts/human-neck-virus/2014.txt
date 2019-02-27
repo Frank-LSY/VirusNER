@@ -1,0 +1,41 @@
+
+
+2014. Int J Cancer. 2014 Apr 15;134(8):1907-15. doi: 10.1002/ijc.28512. Epub 2013 Oct
+24.
+
+Genetic variants in TNF-α promoter are predictors of recurrence in patients with 
+squamous cell carcinoma of oropharynx after definitive radiotherapy.
+
+Zhang C(1), Sturgis EM, Zheng H, Song X, Wei P, Jin L, Chao L, Wei Q, Li G.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX; Department of Otorhinolaryngology-Head and Neck
+Surgery Changhai Hospital, Second Military Medical University, Shanghai, China.
+
+The promoter variants of TNF-α, a major regulator of immune and inflammation
+responses, have been implicated in cancer development and prognosis. Thus, we
+investigated associations between four TNF-α promoter variants and risk of
+recurrence of squamous cell carcinoma of the oropharynx (SCCOP). We evaluated
+associations of four TNF-α polymorphisms with risk of recurrence in a cohort of
+846 patients with SCCOP. Log-rank test and multivariable Cox models were used to 
+evaluate associations. Compared with patients with variant genotypes of the TNF-α
+-308 and TNF-α -863 polymorphisms, patients with common homozygous genotypes had 
+worse disease-free survival (log-rank p = 0.0002 and p < 0.0001, respectively)
+and increased risk of SCCOP recurrence (HR, 1.9, 95% CI, 1.3-2.8 and HR, 1.9, 95%
+CI, 1.3-2.7, respectively) after multivariable adjustment. Furthermore, among
+patients with HPV16-positive tumors, those with common homozygous genotypes of
+the TNF-α -308 and -863 polymorphisms had worse disease-free survival (log-rank p
+= 0.005 and p = 0.007, respectively) and higher recurrence risk than patients
+with variant genotypes of these polymorphisms (HR, 5.1, 95% CI, 1.4-18.4 and HR, 
+3.7, 95% CI, 1.5-9.1, respectively), while no such significant associations were 
+found for TNF-α -857 or -1031 polymorphisms. Our findings suggest that TNF-α -308
+and -863 polymorphisms may modulate the risk of SCCOP recurrence in patients with
+HPV16-positive tumors. However, larger studies are needed to validate these
+results.
+
+© 2013 UICC.
+
+DOI: 10.1002/ijc.28512 
+PMCID: PMC3947426
+PMID: 24122460  [Indexed for MEDLINE]

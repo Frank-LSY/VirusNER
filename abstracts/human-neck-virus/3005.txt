@@ -1,0 +1,47 @@
+
+
+3005. Arch Osteoporos. 2014;9:181. doi: 10.1007/s11657-014-0181-4. Epub 2014 May 14.
+
+Comparison of peripheral forearm DXA and clinical risk factor screening using
+FRAX® to assess the risk of HIV-associated low bone mass: a cross-sectional
+study.
+
+Short CE(1), Shaw SG, Fisher MJ, Gilleece YC, Walker-Bone K.
+
+Author information: 
+(1)Section of Infectious Diseases, Imperial College London, Wright-Fleming
+Institute, St Mary's Hospital Campus, Norfolk Place, London, W2 1PG, UK.
+
+There is growing awareness that HIV infection is associated with low bone mass
+and fracture. DXA is a relatively scarce resource. Therefore, we evaluated two
+tools: peripheral DXA (pDXA) at the forearm and Fracture Risk Assessment Tool
+(FRAX®) to see which performed best at identifying men who should undergo DXA. In
+this setting, neither pDXA nor FRAX® showed good sensitivity and specificity for 
+DXA.PURPOSE: Infection with human immunodeficiency virus (HIV) is associated with
+an increased risk of low bone mineral density (BMD) and fractures. European
+guidance advocates screening using the FRAX® tool at diagnosis, on initiation of 
+antiretroviral therapy and biannually thereafter in order to decide the need for 
+DXA scanning. This cross-sectional study evaluates the performance of FRAX® and
+compares its sensitivity and specificity with that of another screening tool,
+peripheral forearm DXA (pDXA).
+METHODS: HIV-infected men with varying exposure to antiretroviral therapies were 
+recruited. FRAX® scores were calculated for all participants and everybody
+underwent pDXA scanning. Femoral neck and lumbar spine BMD was acquired on a
+Hologic QDR machine by an assessor blinded to the results of the FRAX® and pDXA.
+RESULTS: One hundred and sixty-eight men (median age 45 years) were recruited
+with a median duration since HIV diagnosis of 74 months. In total, 21 % of
+subjects had either osteoporosis (aged ≥50 years) or BMD lower than expected for 
+age (aged <50 years), according to axial DXA. Using a pDXA screening threshold of
+T ≤ -0.9, sensitivity was high (91 %) in defining those with the worst BMD on
+axial DXA but with poorer specificity (33 %). Alternately, using a threshold of
+T ≤ -2.7 reduced sensitivity (34 %) with an increase in specificity (91 %). FRAX®
+with HIV included as a secondary risk factor had poor sensitivity (31 %) and
+specificity (74 %) for detecting those with the poorest BMD on axial DXA.
+CONCLUSION: In this setting, neither pDXA scanning nor FRAX® was sensitive and
+specific for low bone mass on DXA and neither was performance much improved by
+using both screening tools. Prospective studies with fracture as an outcome are
+required in HIV.
+
+DOI: 10.1007/s11657-014-0181-4 
+PMCID: PMC4766729
+PMID: 24847675  [Indexed for MEDLINE]

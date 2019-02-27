@@ -1,0 +1,37 @@
+
+
+436. Brain Nerve. 2009 Jul;61(7):815-22.
+
+[Oncolytic virus therapy for malignant brain tumors].
+
+[Article in Japanese]
+
+Ino Y(1), Todo T.
+
+Author information: 
+(1)Department of Neurosurgery and Translational Research Center, The University
+of Tokyo Hospital, 7-3-1 Hongo, Bunkyoku, Tokyo 113 8655, Japan.
+
+Oncolytic viruses are genetically engineered, recombinant viruses or naturally
+occurring, attenuated viruses that infect, replicate selectively within, and
+destroy tumor cells. These viruses are nontoxic to normal tissues, and progeny
+viruses released from destroyed tumor cells can spread and infect surrounding
+tumor cells. In addition, most oncolytic viruses can elicit specific antitumor
+immunity in the course of tumor cell destruction. Currently, the main route of
+virus administration is direct intratumoral injection that enables maximum virus 
+delivery to tumor cells and minimum systemic adverse events. Several types of
+oncolytic viruses have been tested in clinical trials for recurrent malignant
+glioma, among which genetically engineered herpes simplex viruses type 1 seems to
+be the most promising because of its high tumor selectivity (indicating safety)
+and potency (indicating efficacy). Oncolytic virus therapy has been developed for
+various types of cancers other than glioma, including malignant melanoma and
+prostate, breast, head & neck and colon cancers. Thus far, oncolytic viruses that
+are inoculated intratumorally, are shown to be safe; adverse events typically
+observed are usually transient and include local inflammation and flu-like
+symptoms. Oncolytic viruses can be used in combination with chemotherapy or other
+conventional therapies, which, in some cases, can lead to synergistic effects.
+This review summarizes the recent advances in clinical and preclinical research
+on oncolytic virus therapy for malignant brain tumors.
+
+
+PMID: 19618859  [Indexed for MEDLINE]

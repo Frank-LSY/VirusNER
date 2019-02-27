@@ -1,0 +1,43 @@
+
+
+193. Oral Oncol. 2010 Oct;46(10):705-11. doi: 10.1016/j.oraloncology.2010.07.006. Epub
+2010 Sep 16.
+
+Human papilloma virus in locally advanced stage III/IV squamous cell cancer of
+the oropharynx and impact on choice of therapy.
+
+Ihloff AS(1), Petersen C, Hoffmann M, Knecht R, Tribius S.
+
+Author information: 
+(1)Department of Otolaryngology and Head and Neck Surgery, University Medical
+Center Hamburg-Eppendorf, Hamburg, Germany.
+
+Oropharyngeal cancers (OPCs) are now believed to arise from two distinct
+pathways: one influenced by alcohol and tobacco use and the other a result of
+genomic instability induced by the human papilloma virus (HPV). The incidence of 
+HPV-associated OPC is increasing, particularly among younger males. Case series
+and clinical trials suggest that patients with HPV-positive OPC have better
+clinical outcomes than those with HPV-negative tumors. We evaluated efficacy data
+in published articles and meeting abstracts from clinical studies comparing
+response rates and survival outcomes in patients with HPV-positive and -negative 
+locally advanced OPC. Eight clinical studies were identified: half were
+prospective analyses of outcome according to HPV status; the remaining four
+reports were retrospective analyses. The majority of these analyses showed that
+patients with HPV-positive tumors had significantly better responses to treatment
+than those with HPV-negative tumors. In the two studies in which the effect of
+treatment was also evaluated, patients with HPV-positive tumors did not benefit
+significantly from intensive therapy, unlike those with HPV-negative tumors.
+HPV-positive tumor status is an important prognostic factor associated with a
+favorable outcome in patients with locally advanced OPC. The HPV status of
+patients with locally advanced OPC should be established before treatment
+commences. Surgery is well accepted in the treatment of OPC, but the place of
+chemoradiotherapy has yet to be confirmed. Prospective, well-controlled clinical 
+studies are required to establish whether chemoradiotherapy provides an
+acceptable risk-benefit balance versus high-quality radiotherapy alone in
+patients with HPV-positive OPC, in whom the goal is to maximize progression-free 
+and overall survival, while preserving function and maintaining quality of life.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2010.07.006 
+PMID: 20843732  [Indexed for MEDLINE]

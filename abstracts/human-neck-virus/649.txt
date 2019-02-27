@@ -1,0 +1,38 @@
+
+
+649. Gene Ther. 2013 May;20(5):521-8. doi: 10.1038/gt.2012.68. Epub 2012 Aug 16.
+
+Synergistic cytotoxicity of oncolytic reovirus in combination with
+cisplatin-paclitaxel doublet chemotherapy.
+
+Roulstone V(1), Twigger K, Zaidi S, Pencavel T, Kyula JN, White C, McLaughlin M, 
+Seth R, Karapanagiotou EM, Mansfield D, Coffey M, Nuovo G, Vile RG, Pandha HS,
+Melcher AA, Harrington KJ.
+
+Author information: 
+(1)Targeted Therapy Laboratory, Section of Cell and Molecular Biology, Chester
+Beatty Laboratories, The Institute of Cancer Research, Division of Cell Biology, 
+London, UK.
+
+Oncolytic reovirus is currently under active investigation in a range of tumour
+types. Early phase studies have shown that this agent has modest monotherapy
+efficacy and its future development is likely to focus on combination regimens
+with cytotoxic chemotherapy. Indeed, phase I/II clinical trials have confirmed
+that reovirus can be safely combined with cytotoxic drugs, including a
+platin-taxane doublet regimen, which is currently being tested in a phase III
+clinical trial in patients with relapsed/metastatic head and neck cancer.
+Therefore, we have tested this triple (reovirus, cisplatin, paclitaxel)
+combination therapy in a panel of four head and neck cancer cell lines. Using the
+combination index (CI) method, the triple therapy demonstrated synergistic
+cytotoxicity in vitro in both malignant and non-malignant cell lines. In head and
+neck cancer cell lines, this was associated with enhanced caspase 3 and 7
+cleavage, but no increase in viral replication. In vitro analyses confirmed
+colocalisation of markers of reovirus infection and caspase 3. Triple therapy was
+significantly more effective than reovirus or cisplatin-paclitaxel in athymic
+nude mice. These data suggest that the combination of reovirus plus platin-taxane
+doublet chemotherapy has significant activity in head and neck cancer and
+underpin the current phase III study in this indication.
+
+DOI: 10.1038/gt.2012.68 
+PMCID: PMC4821071
+PMID: 22895509  [Indexed for MEDLINE]

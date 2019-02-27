@@ -1,0 +1,34 @@
+
+
+807. Mod Pathol. 2009 Mar;22(3):366-72. doi: 10.1038/modpathol.2008.180. Epub 2008 Oct
+31.
+
+Low prevalence of human papillomavirus in squamous-cell carcinoma limited to oral
+cavity proper.
+
+Scapoli L(1), Palmieri A, Rubini C, Martinelli M, Spinelli G, Ionna F, Carinci F.
+
+Author information: 
+(1)Department of Histology, Embryology and Applied Biology, Centre of Molecular
+Genetics, University of Bologna, Bologna, Italy. luca.scapoli2@unibo.it
+
+Several investigations have reported that the human papillomavirus may play a
+role in head and neck squamous-cell carcinoma development and may have a
+prognostic impact. However, inconsistent results regarding human papillomavirus
+prevalence have been obtained so far. Variables which may account for these
+discrepancies may be related to site of the samples' origin, detection methods
+and sample size. The aim of this study is to evaluate the presence of high-risk
+type human papillomavirus in a large, well defined sample of squamous-cell
+carcinoma limited to the oral cavity in its strictest definition-ie with no
+pharynx or larynx cancers included-by means of quantitative real-time polymerase 
+chain reaction, a method which ensures high sensitivity and offers the
+opportunity to exclude false-positive results. Data were obtained from 314
+squamous-cell carcinoma limited to oral cavity proper, indicated that the
+prevalence of high-risk human papillomavirus was as low as 2% (CI 0.6-3). Matched
+pairs case-control analysis indicated that the prevalence among controls did not 
+significantly differ with respect to cases and thus did not support a major role 
+for the human papillomavirus in the etiology of squamous-cell carcinoma of the
+oral cavity.
+
+DOI: 10.1038/modpathol.2008.180 
+PMID: 18978731  [Indexed for MEDLINE]

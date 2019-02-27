@@ -1,0 +1,40 @@
+
+
+449. Am J Physiol Lung Cell Mol Physiol. 2010 Jan;298(1):L79-88. doi:
+10.1152/ajplung.00223.2009. Epub 2009 Oct 16.
+
+Viral aggregating and opsonizing activity in collectin trimers.
+
+Hartshorn KL(1), White MR, Tecle T, Sorensen G, Holmskov U, Crouch EC.
+
+Author information: 
+(1)Boston University School of Medicine, EBRC 414, 650 Albany St., Boston, MA
+02118, USA. khartsho@bu.edu
+
+Collectins are collagenous lectins present in blood, respiratory lining fluid,
+and other mucosal secretions that play important roles in innate defense against 
+infection. The collectin, surfactant protein D (SP-D), limits infection by
+viruses and bacteria in the respiratory tract, eye, and female genital tract.
+Multimeric SP-D has strong antiviral activity and is a potent viral and bacterial
+agglutinin and opsonin; however, trimers composed of the neck and carbohydrate
+recognition domain (hSP-D-NCRD) of SP-D lack these activities. We now show that, 
+in contrast, a trimeric neck and CRD construct of bovine serum collectin CL-46
+induces aggregation of influenza A virus (IAV) and potently increases IAV uptake 
+by neutrophils. CL-46-NCRD showed calcium-dependent and sugar-sensitive binding
+to both neutrophils and IAV. Replacement of specific residues of the CRD of human
+SP-D with those found in bovine serum collectins conferred opsonizing activity.
+The most effective substitution involved replacement of arginine 343 with valine 
+(hSP-D-NCRD/R343V). hSP-D-NCRD/R343V greatly increased viral uptake by
+neutrophils and monocytes and also potentiated neutrophil respiratory burst
+responses. These effects were further increased by cross-linking of
+hSP-D-NCRD/R343V trimers with MAbs directed against areas of the hSP-D-NCRD not
+involved in viral binding. Unlike the wild-type human SP-D hSP-D-NCRD,
+hSP-D-NCRD/R343V also induced viral aggregation. These results indicate that
+collectins can act as opsonins for IAV even in the absence of the collagen domain
+or higher order multimerization. This may involve increased affinity of
+individual CRDs for glycoconjugates displayed on host cells or the viral
+envelope.
+
+DOI: 10.1152/ajplung.00223.2009 
+PMCID: PMC2806199
+PMID: 19837850  [Indexed for MEDLINE]

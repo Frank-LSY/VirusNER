@@ -1,0 +1,43 @@
+
+
+820. Clin Cancer Res. 2012 Sep 15;18(18):5061-70. doi: 10.1158/1078-0432.CCR-12-0574. 
+Epub 2012 Jul 3.
+
+Cytolytic virus activation therapy for Epstein-Barr virus-driven tumors.
+
+Wildeman MA(1), Novalic Z, Verkuijlen SA, Juwana H, Huitema AD, Tan IB,
+Middeldorp JM, de Boer JP, Greijer AE.
+
+Author information: 
+(1)Departments of Head and Neck Oncology and Surgery and Medical Oncology, The
+Netherlands.
+
+PURPOSE: Nasopharyngeal carcinoma (NPC) is causally linked to Epstein-Barr virus 
+(EBV) infection. Because all tumor cells carry EBV, the virus itself is a
+potential target for therapy. In these tumor cells, EBV hides in a latent state
+and expresses only a few non-immunogenic proteins for EBV maintenance and
+contributes to tumor growth. We developed a cytolytic virus activation (CLVA)
+therapy for NPC treatment, reactivating latent EBV, triggering immune
+recognition, and inducing susceptibility to antiviral therapy.
+EXPERIMENTAL DESIGN: CLVA therapy combines gemcitabine (GCb) and valproic acid
+(VPA) for virus activation and tumor clearance with (val)ganciclovir (GCV) as the
+antiviral drug to block virus replication and kill proliferating virus-infected
+cells. CLVA treatment was optimized and validated in NPC cell lines and
+subsequently tested in 3 Dutch patients with NPC that was refractory to
+conventional treatment.
+RESULTS: In NPC cell lines, both GCb and VPA can induce the lytic cycle of EBV.
+Their combination resulted in a strong synergistic effect. The addition of GCV
+resulted in higher cytotoxicity compared with chemotherapy alone, which was not
+observed in EBV-negative cells. CLVA therapy was analyzed in 3 patients with
+end-stage NPC. Patients developed increased levels of viral DNA in the
+circulation originating from apoptotic tumor cells, had disease stabilization,
+and experienced improved quality of life.
+CONCLUSIONS: Our results in the initial CLVA-treated patients indicate that the
+therapy had a biological effect and was well tolerated with only moderate
+transient toxicity. This new virus-specific therapy could open a generic approach
+for treatment of multiple EBV-associated malignancies.
+
+©2012 AACR.
+
+DOI: 10.1158/1078-0432.CCR-12-0574 
+PMID: 22761471  [Indexed for MEDLINE]

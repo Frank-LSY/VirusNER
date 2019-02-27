@@ -1,0 +1,35 @@
+
+
+37. J Med Virol. 2014 Jul;86(7):1243-8. doi: 10.1002/jmv.23803. Epub 2013 Oct 12.
+
+Genetic analysis of poliovirus strains isolated from sewage in Poland.
+
+Kuryk Ł(1), Wieczorek M, Diedrich S, Böttcher S, Witek A, Litwińska B.
+
+Author information: 
+(1)Department of Virology, National Institute of Public Health-National Institute
+of Hygiene, Warsaw, Poland.
+
+The study describes genetic characterization of poliovirus (PV) strains isolated 
+from sewage samples in Poland. The analyses were performed for the detection of
+any putative polio revertants and recombinants in three genomic regions by
+sequencing analysis. Thirty-six strains were analyzed. The analyzed strains were 
+identified by neutralization assay as 7 strains of serotype P1, 10 strains of
+serotype P2, and 19 strains of serotype P3. Sewage isolates were sequenced in
+5'UTR, VP1, and 3D genomic regions. All detected PVs were classified as vaccine
+strains on the basis of VP1 sequence. Mutational differences in the VP1 sequences
+of isolated viruses ranged from 0.0% to 0.4%, indicating a limited replication
+period. The genetic analysis of the 3D region showed that some strains have
+recombinant genomes. Nine strains were found as dipartite recombinants (seven
+strains--S3/S2, one strain--S2/S1, one strain--S3/S1), while one strain was found
+as tripartite recombinant (S3/S2/S1). No recombinants with non-PV enteroviruses
+were identified. None of wild-type PVs or vaccine-derived polioviruses (VDPVs)
+were detected. This study showed the absence of wild or VDPV circulation in the
+country and demonstrated the usefulness of environmental surveillance in addition
+to acute flaccid paralysis (AFP) surveillance in support of polio eradication
+initiatives.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.23803 
+PMID: 24123142  [Indexed for MEDLINE]

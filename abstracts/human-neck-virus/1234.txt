@@ -1,0 +1,41 @@
+
+
+1234. Laryngoscope. 2009 Apr;119(4):665-74. doi: 10.1002/lary.20127.
+
+Cytotoxicity and antiangiogenesis by fibroblast growth factor 2-targeted Ad-TK
+cancer gene therapy.
+
+Saito K(1), Khan K, Sosnowski B, Li D, O'Malley BW Jr.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, University of
+Pennsylvania School of Medicine, Philadelphia, Pennsylvania 19104, USA.
+
+OBJECTIVES: Human head and neck squamous cell carcinoma (HNSCC) in addition to
+lung, skin, ovarian, and other cancers overexpress fibroblast growth factor (FGF)
+receptors on both individual tumor cells and endothelial cells within the tumor
+microenvironment. The purpose of this study was to investigate whether
+FGF2-targeted gene therapy could redirect adenoviral vectors encoding the herpes 
+simplex virus thymidine kinase gene (Ad-TK) to FGF receptors on tumor and
+endothelial cells with the intent of improving both the efficiency of transgene
+expression and the antitumor response.
+STUDY DESIGN AND METHODS: An Ad-TK vector consisting of a conjugate of FGF2
+linked to a Fab' fragment against the adenoviral knob region was directly
+delivered to human HNSCC xenograft tumors in nude mice, which were subsequently
+dosed with ganciclovir. Tumor specimens were assessed for herpes simplex virus
+thymidine kinase (HSV-tk) transgene mRNA expression, FGF1/2 receptor expression, 
+terminal deoxynucleotidyl transferase biotin-deoxy uridine triphosphate nick end 
+labeling assay for apoptosis, CD31 immunohistochemistry to estimate tumor
+microvessel density, and tumor volume change.
+RESULTS: FGF2-retargeted Ad-TK gene therapy demonstrated significant increases in
+both HSV-tk mRNA expression and cellular apoptosis levels, and a significant
+decrease in tumor volume size compared with all other groups. Furthermore,
+microvessel density was significantly lower in the FGF2-retargeted Ad-TK group,
+indicating a strong antiangiogenesis effect.
+CONCLUSIONS: These data suggest that FGF2-retargeted Ad-TK produces a combination
+of expected direct antitumor cytotoxicity and a newly reported antiangiogenesis
+effect that could prove promising as a novel therapeutic approach in the
+treatment of FGF receptor-expressing cancers.
+
+DOI: 10.1002/lary.20127 
+PMID: 19213040  [Indexed for MEDLINE]

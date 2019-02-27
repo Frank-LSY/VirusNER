@@ -1,0 +1,53 @@
+
+
+2895. Cancer Immunol Immunother. 2016 Apr;65(4):393-403. doi:
+10.1007/s00262-016-1805-x. Epub 2016 Feb 22.
+
+A beneficial tumor microenvironment in oropharyngeal squamous cell carcinoma is
+characterized by a high T cell and low IL-17(+) cell frequency.
+
+Punt S(1), Dronkers EA(2), Welters MJ(3), Goedemans R(3), Koljenović S(4),
+Bloemena E(5)(6), Snijders PJ(5), Gorter A(1), van der Burg SH(3), Baatenburg de 
+Jong RJ(2), Jordanova ES(7)(8).
+
+Author information: 
+(1)Department of Pathology, Leiden University Medical Center (LUMC), P.O. Box
+9600, 2300 RC, Leiden, The Netherlands.
+(2)Department of Otorhinolaryngology and Head and Neck Surgery, Erasmus
+University Medical Center, Rotterdam, The Netherlands.
+(3)Department of Clinical Oncology, LUMC, Leiden, The Netherlands.
+(4)Department of Pathology, Erasmus University Medical Center, Rotterdam, The
+Netherlands.
+(5)Department of Pathology, VU Medical Center (VUMC), Amsterdam, The Netherlands.
+(6)Department of Oral and Maxillofacial Surgery/Oral Pathology, Academic Centre
+for Dentistry, Amsterdam, The Netherlands.
+(7)Department of Pathology, Leiden University Medical Center (LUMC), P.O. Box
+9600, 2300 RC, Leiden, The Netherlands. E.S.Jordanova@lumc.nl.
+(8)Center for Gynecological Oncology Amsterdam, VUMC, Amsterdam, The Netherlands.
+E.S.Jordanova@lumc.nl.
+
+Patients with HPV-positive oropharyngeal squamous cell carcinomas (OPSCCs) have a
+better prognosis than patients with non-HPV-induced OPSCC. The role of the immune
+response in this phenomenon is yet unclear. We studied the number of T cells,
+regulatory T cells (Tregs), T helper 17 (Th17) cells and IL-17(+) non-T cells
+(mainly granulocytes) in matched HPV-positive and HPV-negative OPSCC cases (n =
+162). Furthermore, the production of IFN-γ and IL-17 by tumor-infiltrating T
+cells was analyzed. The number of tumor-infiltrating T cells and Tregs was higher
+in HPV-positive than HPV-negative OPSCC (p < 0.0001). In contrast, HPV-negative
+OPSCC contained significantly higher numbers of IL-17(+) non-T cells (p <
+0.0001). Although a high number of intra-tumoral T cells showed a trend toward
+improved survival of all OPSCC patients, their prognostic effect in patients with
+a low number of intra-tumoral IL-17(+) non-T cells was significant with regard to
+disease-specific (p = 0.033) and disease-free survival (p = 0.012). This suggests
+that a high frequency of IL-17(+) non-T cells was related to a poor immune
+response, which was further supported by the observation that a high number of T 
+cells was correlated with improved disease-free survival in the HPV-positive
+OPSCC (p = 0.008). In addition, we detected a minor Th17 cell population.
+However, T cells obtained from HPV-positive OPSCC produced significantly more
+IL-17 than those from HPV-negative tumors (p = 0.006). The improved prognosis of 
+HPV-positive OPSCC is thus correlated with higher numbers of tumor-infiltrating T
+cells, more active Th17 cells and lower numbers of IL-17(+) non-T cells.
+
+DOI: 10.1007/s00262-016-1805-x 
+PMCID: PMC4826411
+PMID: 26899388  [Indexed for MEDLINE]

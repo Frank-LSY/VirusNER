@@ -1,0 +1,52 @@
+
+
+1298. Indian J Cancer. 2016 Jul-Sep;53(3):387-393. doi: 10.4103/0019-509X.200668.
+
+Human papillomavirus/p16 positive head and neck cancer in India: Prevalence,
+clinical impact, and influence of tobacco use.
+
+Murthy V(1), Swain M(2), Teni T(3), Pawar S(3), Kalkar P(3), Patil A(4), Chande
+A(3), Ghonge S(1), Laskar SG(2), Gupta T(1), Budrukkar A(2), Agrawal J(2).
+
+Author information: 
+(1)Department of Radiation Oncology, Advanced Centre for Treatment, Research and 
+Education in Cancer, Navi Mumbai, Maharashtra, India.
+(2)Department of Radiation Oncology, Tata Memorial Hospital, Mumbai, Maharashtra,
+India.
+(3)Department of Teni Lab, Advanced Centre for Treatment, Research and Education 
+in Cancer, Navi Mumbai, Maharashtra, India.
+(4)Department of Pathology, Advanced Centre for Treatment, Research and Education
+in Cancer, Navi Mumbai, Maharashtra, India.
+
+BACKGROUND: Limited data are available on the prevalence and prognostic
+significance of human papillomavirus (HPV) in squamous cell carcinoma of head and
+neck (SCCHN) in the Indian population.
+AIM: The present study aimed to determine the prevalence of HPV and p16 in an
+Indian cohort of SCCHN and assess their correlation and influence of tobacco use 
+on patient outcomes.
+MATERIALS AND METHODS: The p16 and HPV status of 170 patients of SCCHN treated
+with curative chemoradiotherapy was determined using immunohistochemistry and
+polymerase chain reaction, respectively, and further correlated with their
+demographic characteristics. In addition, genotyping of HPV-positive samples was 
+performed. Survival outcomes were analyzed and compared for both p16 positive
+(p16 +ve) and p16 negative (p16 -ve) population. The influence of tobacco use on 
+outcomes was assessed.
+RESULTS: p16 expression was observed in 20% (34/170) cases whereas HPV positivity
+was detected in 39.4% (67/170) of SCCHN patients with HPV16 being the most common
+(91%) subtype. About 73.5% patients were p16 +ve among the tobacco users in this 
+cohort (83.5%). Interestingly, p16 positivity was significantly associated with
+nonusers of tobacco (P = 0.02) and younger females (P = 0.06). The p16 +ve and
+p16 -ve groups did not exhibit a significant difference in the 5-year
+cause-specific survival (CSS) (79% vs. 72.2%), disease-free survival (DFS) (78.3%
+vs. 68.3%, P = 0.5), and locoregional control (LRC) (82.2% vs. 71.5%, P = 0.4).
+However, the outcome analyses in tobacco nonusers revealed a definite large
+improvement in CSS (P = 0.08) and a trend toward improvement in DFS (P = 0.15)
+and LRC (P = 0.11) in the p16 +ve versus the p16 -ve groups.
+CONCLUSION: The low prevalence of p16 positivity (20%) and dual HPV and p16
+positivity (38.8%) in the studied Indian cohort indicates the low utility of p16 
+as a surrogate for HPV in the background of high tobacco burden. The outcomes are
+largely improved in a small subset of SCCHN cases comprising p16 +ve tobacco
+nonusers.
+
+DOI: 10.4103/0019-509X.200668 
+PMID: 28244466  [Indexed for MEDLINE]

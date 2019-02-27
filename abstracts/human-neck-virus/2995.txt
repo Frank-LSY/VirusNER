@@ -1,0 +1,29 @@
+
+
+2995. Intern Med. 2009;48(6):465-9. Epub 2009 Mar 16.
+
+Transient severe pancytopenia due to elevated tumor necrosis factor-alpha in
+overwhelming infection.
+
+Tominaga T(1), Sugiyama A, Suzukawa M, Shinohara K.
+
+Author information: 
+(1)Division of Hematology, Department of Medicine, Yamaguchi Prefectural Medical 
+Center, Hofu.
+
+A 66-year-old woman complained of fever, sore throat, and neck pain due to
+pharyngitis and painful lymph node swelling. CBC revealed severe pancytopenia and
+markedly hypocellular marrow. The administration of antibiotics and
+granulocyte-colony stimulating factor (G-CSF) successfully ameliorated the
+inflammatory lesions, and hematopoiesis recovered. Causes for pancytopnenia was
+unlikely to be virus infection or drugs, and aplastic anemia was also unlikely
+since only the plasma levels of tumor necrosis factor-alpha (TNF-alpha) was
+markedly elevated, erythropoietin (EPO) was slightly elevated, interferon-gamma
+(IFN-gamma) was normal, and flow cytometric analysis for paroxysmal nocturnal
+hemoglobinuria (PNH)-type cells was negative. These results suggested that the
+cause of impaired hematopoiesis in the present patient might have been due to
+elevated TNF-alpha in overwhelming infection, although the pathogen was not
+identified.
+
+
+PMID: 19293548  [Indexed for MEDLINE]

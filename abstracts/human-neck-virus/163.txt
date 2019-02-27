@@ -1,0 +1,54 @@
+
+
+163. Ann Oncol. 2014 Jul;25(7):1410-6. doi: 10.1093/annonc/mdu167. Epub 2014 May 5.
+
+Prognostic significance of human papillomavirus in recurrent or metastatic head
+and neck cancer: an analysis of Eastern Cooperative Oncology Group trials.
+
+Argiris A(1), Li S(2), Ghebremichael M(3), Egloff AM(4), Wang L(5), Forastiere
+AA(6), Burtness B(7), Mehra R(7).
+
+Author information: 
+(1)Division of Hematology/Oncology Cancer Therapy and Research Center, Department
+of Medicine, University of Texas Health Science Center at San Antonio, San
+Antonio athanassios.argiris@gmail.com.
+(2)Department of Biostatistics and Computational Biology, Dana-Farber Cancer
+Institute, Boston.
+(3)Ragon Institute of Harvard, MIT and MGH and Harvard Medical School, Boston.
+(4)Department of Otolaryngology.
+(5)Department of Pathology, University of Pittsburgh, Pittsburgh.
+(6)Department of Medical Oncology, Johns Hopkins University, Baltimore.
+(7)Department of Medical Oncology, Fox Chase Cancer Center, Philadelphia, USA.
+
+BACKGROUND: The purpose of this article was to study the association of human
+papillomavirus (HPV) with clinical outcomes in patients with recurrent or
+metastatic squamous cell carcinoma of the head and neck (SCCHN).
+PATIENTS AND METHODS: Archival baseline tumor specimens were obtained from
+patients treated on two clinical trials in recurrent or metastatic SCCHN: E1395, 
+a phase III trial of cisplatin and paclitaxel versus cisplatin and
+5-fluorouracil, and E3301, a phase II trial of irinotecan and docetaxel. HPV DNA 
+was detected by in situ hybridization (ISH) with a wide-spectrum probe. p16
+status was evaluated by immunohistochemistry. Clinical outcomes of interest were 
+objective response, progression-free survival (PFS) and overall survival (OS).
+RESULTS: We analyzed 64 patients for HPV ISH and 65 for p16. Eleven tumors (17%) 
+were HPV+, 12 (18%) were p16+, whereas 52 (80%) were both HPV- and p16-. The
+objective response rate was 55% for HPV-positive versus 19% for HPV-negative (P =
+0.022), and 50% for p16-positive versus 19% for p16-negative (P = 0.057). The
+median survival was 12.9 versus 6.7 months for HPV-positive versus HPV-negative
+patients (P = 0.014), and 11.9 versus 6.7 months for p16-positive versus
+p16-negative patients (P = 0.027). After adjusting for other covariates, hazard
+ratio for OS was 2.69 (P = 0.048) and 2.17 (P = 0.10), favoring HPV-positive and 
+p16-positive patients, respectively. The other unfavorable risk factor for OS was
+loss of ≥5% weight in previous 6 months (P = 0.0021 and 0.023 for HPV and p16
+models, respectively).
+CONCLUSION: HPV is a favorable prognostic factor in recurrent or metastatic SCCHN
+that should be considered in the design of clinical trials in this setting.
+CLINICAL TRIAL IDENTIFIER: NCT01487733 Clinicaltrials.gov.
+
+© The Author 2014. Published by Oxford University Press on behalf of the European
+Society for Medical Oncology. All rights reserved. For permissions, please email:
+journals.permissions@oup.com.
+
+DOI: 10.1093/annonc/mdu167 
+PMCID: PMC4071756
+PMID: 24799460  [Indexed for MEDLINE]

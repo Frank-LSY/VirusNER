@@ -1,0 +1,39 @@
+
+
+1577. Expert Rev Vaccines. 2017 Apr;16(4):361-375. doi: 10.1080/14760584.2017.1256778. 
+Epub 2016 Nov 24.
+
+The whole story: a systematic review of economic evaluations of HPV vaccination
+including non-cervical HPV-associated diseases.
+
+Suijkerbuijk AW(1), Donken R(2)(3), Lugnér AK(2), de Wit GA(1)(4), Meijer CJ(3), 
+de Melker HE(2), Bogaards JA(2).
+
+Author information: 
+(1)a Center for Nutrition, Prevention and Health Services , National Institute
+for Public Health and the Environment (RIVM) , Bilthoven , The Netherlands.
+(2)b Center for Epidemiology and Surveillance , National Institute for Public
+Health and the Environment (RIVM) , Bilthoven , The Netherlands.
+(3)c Department of Pathology , VU University Medical Centre (VUmc) , Amsterdam , 
+The Netherlands.
+(4)d Julius Center for Health Sciences and Primary Care , University Medical
+Center Utrecht , Utrecht , The Netherlands.
+
+INTRODUCTION: Many economic evaluations of HPV vaccination have been published,
+but most have focused on the prevention of cervical disease as a primary health
+outcome. The cost-effectiveness of vaccination is likely to be underestimated if 
+not all HPV-associated diseases are taken into account. In this review, we assess
+the influence of non-cervical HPV-associated diseases on the incremental
+cost-effectiveness ratio (ICER) of preadolescent HPV vaccination. Areas covered: 
+We systematically searched the literature and identified 18 studies that included
+non-cervical diseases in the estimates of cost-effectiveness of HPV-vaccination. 
+When taking other HPV-related diseases into account compared to not including
+such other diseases, the mean ICERs were 2.85 times more favorable for girls only
+vaccination and 3.89 times for gender neutral vaccination. Expert commentary:
+Including non-cervical diseases in economic evaluations of HPV vaccination
+programs makes it more likely that the ICER falls beneath accepted
+cost-effectiveness thresholds and therefore increases the scope for gender
+neutral vaccination.
+
+DOI: 10.1080/14760584.2017.1256778 
+PMID: 27807989  [Indexed for MEDLINE]

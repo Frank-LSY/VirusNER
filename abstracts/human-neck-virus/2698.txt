@@ -1,0 +1,30 @@
+
+
+2698. Clin Cancer Res. 2009 Apr 1;15(7):2219-21. doi: 10.1158/1078-0432.CCR-08-3099.
+Epub 2009 Mar 17.
+
+Can routine posttransplant HPV vaccination prevent commonly occurring epithelial 
+cancers after allogeneic stem cell transplantation?
+
+Savani BN(1), Goodman S, Barrett AJ.
+
+Author information: 
+(1)Vanderbilt University and VAMC Transplant Program, Nashville, Tennessee, USA.
+
+The association between squamous cell carcinoma (SCC) of the oral cavity, female 
+genital tract, and skin with human papilloma virus (HPV) subtypes is well
+established in the general population and in solid organ transplant recipients,
+but no consistent link has been reported between HPV infection and SCC after
+allogeneic stem cell transplantation (allo-SCT). Studies are needed to determine 
+if SCC, the most common secondary malignancy after allo-SCT, which is linked to
+chronic graft versus host disease and immunosuppressive therapy, is HPV related. 
+Consideration should be given to assessing pretransplant HPV antibodies to
+identify patients at risk for HPV reactivation. If a strong relationship between 
+HPV and second malignancies after SCT exists, studies to evaluate the
+immunogenicity and efficacy of quadrivalent HPV vaccine (subtypes 6, 11, 16, and 
+18) should be considered in both male and female long-term survivors after
+allo-SCT.
+
+DOI: 10.1158/1078-0432.CCR-08-3099 
+PMCID: PMC3819600
+PMID: 19293253  [Indexed for MEDLINE]

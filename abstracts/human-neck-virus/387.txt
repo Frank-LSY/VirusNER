@@ -1,0 +1,52 @@
+
+
+387. PLoS One. 2014 Dec 23;9(12):e115914. doi: 10.1371/journal.pone.0115914.
+eCollection 2014.
+
+Human papillomavirus infection in 674 Chinese patients with laryngeal squamous
+cell carcinoma.
+
+Xu Y(1), Liu S(2), Yi H(2), Wang J(3), Dong P(4), Li X(5), Yin S(2).
+
+Author information: 
+(1)Department of Otolaryngology, Shanghai Jiao Tong University Affiliated Sixth
+People's Hospital, Shanghai, China; Department of Head and Neck Surgery, Renji
+Hospital of Shanghai Jiao Tong University School of Medicine, Shanghai, China;
+Otolaryngological Institute of Shanghai Jiaotong University, Shanghai, China.
+(2)Department of Otolaryngology, Shanghai Jiao Tong University Affiliated Sixth
+People's Hospital, Shanghai, China; Otolaryngological Institute of Shanghai
+Jiaotong University, Shanghai, China.
+(3)Department of Head and Neck Surgery, Renji Hospital of Shanghai Jiao Tong
+University School of Medicine, Shanghai, China; Otolaryngological Institute of
+Shanghai Jiaotong University, Shanghai, China.
+(4)Department of Otolaryngology Head and Neck Surgery, Shanghai Jiao Tong
+University Affiliated First People's Hospital, Shanghai, China; Otolaryngological
+Institute of Shanghai Jiaotong University, Shanghai, China.
+(5)Department of Otolaryngology Head and Neck Surgery, Children's Hospital
+Affiliated to Shanghai Jiaotong University, Shanghai, China.
+
+OBJECTIVES: Previous reports suggest a strong association between human
+papillomavirus (HPV) and the etiology of laryngeal squamous cell carcinoma
+(LSCC). However, clinical data regarding the HPV infection rate among LSCC
+patients remain largely inconsistent.
+METHODS: In total, 674 LSCC patients from three major hospitals in Shanghai were 
+enrolled in this study. We determined the patients' HPV infection status using
+immunohistochemistry and the GenoArray HPV genotyping assay and calculated their 
+long-term survival rate using the Kaplan-Meier method.
+RESULTS: The total P16-positive rate according to immunostaining results was
+7.57% (51/674). None of the P16-negative patients were HPV-positive according to 
+the HPV genotyping test. The rate of HPV infection among patients with LSCC was
+4.9% (33/674). HPV infection was more common among nonsmokers (P<0.05),
+nondrinkers (P<0.05), and patients with supraglottic LSCC (P<0.05). Of the 33
+HPV-positive patients, 28 (84.8%) were infected with HPV-16, 2 with HPV-18, 1
+with HPV-31, 1 with HPV-33 and 1 with HPV-45. The 3-year overall survival rate
+and progression-free survival rate were higher in HPV-positive than HPV-negative 
+patients, but the difference was not statistically significant (76.3% vs. 70.7%, 
+P = 0.30 and 65.1% vs. 58.3%, P = 0.37, respectively).
+CONCLUSION: HPV was not a main causal factor in LSCC carcinogenesis in this
+Chinese population. HPV infection did not alter patients' overall survival or
+progression-free survival rates in this study.
+
+DOI: 10.1371/journal.pone.0115914 
+PMCID: PMC4275260
+PMID: 25536405  [Indexed for MEDLINE]

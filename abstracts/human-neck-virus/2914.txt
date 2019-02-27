@@ -1,0 +1,37 @@
+
+
+2914. J Infect Dev Ctries. 2014 Jan 15;8(1):17-23. doi: 10.3855/jidc.4206.
+
+Ear, nose and throat (ENT) involvement in zoonotic diseases: a systematic review.
+
+Galletti B(1), Mannella VK, Santoro R, Rodriguez-Morales AJ, Freni F, Galletti C,
+Galletti F, Cascio A.
+
+Author information: 
+(1)University Hospital G. Martino, Messina, Italy. bgalletti@unime.it.
+
+INTRODUCTION: Zoonoses are infections transmitted from animal to man, either
+directly (through direct contact or contact with animal products) or indirectly
+(through an intermediate vector, such as an arthropod). The causative agents
+include bacteria, parasites, viruses, and fungi. The purpose of this review is to
+make an accurate examination of all zoonotic diseases that can be responsible of 
+ear, nose, and throat (ENT) involvement.
+METHODOLOGY: A PubMed search was performed combining the terms
+(otorhinolaryngology OR rhinology OR laryngology OR otology OR mastoiditis OR
+otitis OR sinusitis OR laryngitis OR rhinitis OR pharyngitis OR epiglottitis OR
+dysphonia OR ear OR larynx OR nose OR pharynx) with each one of the etiological
+agents of zoonoses for the period between January 1997 and August 2012 without
+language restrictions.
+RESULTS: A total of 164 articles were selected and examined. Larynx was the most 
+commonly involved ENT organ, followed by oral cavity, pharynx, and neck. Bacteria
+were the most representative microorganisms involved. Nose and major salivary
+glands were affected most frequently by protozoa; paranasal sinus, oral cavity,
+ear, neck, nerves and upper airway by bacteria; and larynx by fungi.
+CONCLUSIONS: ENT symptoms and signs may be present in many zoonotic diseases,
+some of which are also present in industrialized countries. Most zoonotic
+diseases are not commonly encountered by ENT specialists. Appreciation of the
+possible occurrence of these diseases is important for a correct microbiological 
+approach, which often requires special culture media and diagnostic techniques.
+
+DOI: 10.3855/jidc.4206 
+PMID: 24423708  [Indexed for MEDLINE]

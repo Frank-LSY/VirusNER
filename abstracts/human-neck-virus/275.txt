@@ -1,0 +1,54 @@
+
+
+275. Biochim Biophys Acta Gen Subj. 2017 May;1861(5 Pt B):1229-1236. doi:
+10.1016/j.bbagen.2016.11.007. Epub 2016 Nov 9.
+
+The effect of single nucleotide polymorphisms in G-rich regions of high-risk
+human papillomaviruses on structural diversity of DNA.
+
+Marušič M(1), Hošnjak L(2), Krafčikova P(3), Poljak M(2), Viglasky V(3), Plavec
+J(4).
+
+Author information: 
+(1)Slovenian NMR Institute, National Institute of Chemistry, Hajdrihova 19,
+SI-1000 Ljubljana, Slovenia.
+(2)Institute of Microbiology and Immunology, Faculty of Medicine, University of
+Ljubljana, Ljubljana, Zaloška 4, SI-1000 Ljubljana, Slovenia.
+(3)Department of Biochemistry, Institute of Chemistry, Faculty of Sciences, P. J.
+Safarik University, 04001 Kosice, Slovakia.
+(4)Slovenian NMR Institute, National Institute of Chemistry, Hajdrihova 19,
+SI-1000 Ljubljana, Slovenia; EN-FIST Center of Excellence, SI-1000 Ljubljana,
+Slovenia; Faculty of Chemistry and Chemical Technology, University of Ljubljana, 
+SI-1000 Ljubljana, Slovenia. Electronic address: janez.plavec@ki.si.
+
+BACKGROUND: Infection with high-risk human papillomaviruses (HPVs) can lead to
+development of cancer of the head and neck and anogenital regions. G-rich
+sequences found in genomes of high-risk HPVs can fold into non-canonical
+secondary structures that could serve as 3D motifs distinct from double-stranded 
+DNA and present recognition sites for ligands and opportunity for gene expression
+modulation.
+METHODS: Combination of UV, CD and NMR spectroscopy and PAGE electrophoresis were
+used as they offer complementary insights into structural changes of G-rich
+oligonucleotides.
+RESULTS: G-rich region of HPV16 is shown to preferentially form hairpin
+structures, while regions of HPV18, HPV52 and HPV58 fold into four-stranded DNA
+structures called G-quadruplexes. Single nucleotide polymorphisms found in G-rich
+sequences have been found to promote formation of hairpin structures of HPV16 and
+have affected number of species formed in G-rich region of HPV52, whereas they
+have exhibited minimal effect on the formation of HPV18 and HPV58 G-quadruplex
+structures. These structural changes were reflected in differences in apparent
+thermal stabilities.
+CONCLUSIONS: Potential of G-rich sequences as drug targets was evaluated based on
+the results of the current study. HPV16 and HPV18 are considered less appropriate
+targets due to several single nucleotide polymorphisms and low stability,
+respectively. On the other hand, HPV52 and HPV58 could be used for small-molecule
+mediated stabilization.
+GENERAL SIGNIFICANCE: G-rich sequences occurring in high-risk HPVs can fold into 
+hairpin and G-quadruplex structures that could be potentially utilized as drug
+targets. This article is part of a Special Issue entitled "G-quadruplex" Guest
+Editor: Dr. Concetta Giancola and Dr. Daniela Montesarchio.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbagen.2016.11.007 
+PMID: 27836759  [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+
+
+1650. Head Neck. 2016 May;38(5):647-52. doi: 10.1002/hed.24359. Epub 2015 Dec 30.
+
+Merkel cell carcinoma: Do you know your guidelines?
+
+Miles BA(1), Goldenberg D(2); Education Committee of the American Head and Neck
+Society (AHNS).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Icahn School of
+Medicine, New York, New York.
+(2)Department of Surgery, Division of Otolaryngology - Head and Neck Surgery, The
+Pennsylvania State University, College of Medicine, Hershey, Pennsylvania.
+
+BACKGROUND: Merkel cell carcinoma (MCC) is a cutaneous neuroendocrine malignancy 
+that exhibits clinically aggressive features and is associated with a poor
+prognosis. The incidence of MCC seems to be increasing for reasons unknown, and
+is estimated to be 0.32/100,000 in the United States.
+METHODS: This article will review the current literature and National
+Comprehensive Cancer Network practice guidelines in the treatment of MCC.
+RESULTS: Resection of MCC with negative margins remains the mainstay of therapy. 
+Positive nodal disease should be treated with neck dissection and adjuvant
+radiotherapy. High-risk patients should undergo adjuvant radiotherapy, which
+improves oncologic outcomes. The role of chemotherapy is less clear and is
+currently reserved for advanced-stage MCC and palliative therapy.
+CONCLUSION: The pathogenesis of MCC has recently been impacted with the discovery
+of the Merkel cell polyomavirus (MCPyV). Research to establish targeted and
+immunologic therapeutic options are ongoing.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24359 
+PMID: 26716756  [Indexed for MEDLINE]

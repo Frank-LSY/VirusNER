@@ -1,0 +1,36 @@
+
+
+284. Clin Oncol (R Coll Radiol). 2010 Sep;22(7):538-46. doi:
+10.1016/j.clon.2010.05.024. Epub 2010 Jun 26.
+
+The changing aetiology of head and neck cancer: the role of human papillomavirus.
+
+Evans M(1), Powell NG.
+
+Author information: 
+(1)Velindre Cancer Centre, Cardiff, UK. Mererid.Evans@velindre-tr.wales.nhs.uk
+
+Human papillomavirus (HPV) is associated with the development of a subset of head
+and neck cancers arising in the oropharynx, which includes the tonsils, base of
+tongue and soft palate. HPV-associated oropharyngeal cancer (OPC) seems to be
+rapidly increasing in incidence in many countries, including the USA, Sweden and 
+Greece, and is known to affect younger patients who are less likely to have been 
+exposed to the carcinogenic effects of tobacco and alcohol than their
+HPV-negative counterparts. There is accumulating evidence from prospective
+studies that HPV-positive OPC responds better to treatment, including
+chemotherapy and radiotherapy, than HPV-negative OPC, and that patients with
+HPV-positive disease have excellent long-term survival rates. To date, patients
+with HPV-positive and HPV-negative OPC are managed according to common treatment 
+protocols; this may no longer be appropriate in an age when the delivery of
+targeted treatment, tailored to individual tumour and patient characteristics, is
+becoming a reality. This review summarises our current understanding of
+HPV-positive OPC, drawing parallels from the role of HPV in the development of
+cervical cancer. We also consider how knowledge of tumour HPV status may affect
+the future management and prevention of OPC and discuss the need for future
+collaborative trials in this important group of patients.
+
+Copyright (c) 2010 The Royal College of Radiologists. Published by Elsevier Ltd. 
+All rights reserved.
+
+DOI: 10.1016/j.clon.2010.05.024 
+PMID: 20584591  [Indexed for MEDLINE]

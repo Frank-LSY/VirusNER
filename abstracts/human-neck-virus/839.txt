@@ -1,0 +1,39 @@
+
+
+839. Leuk Lymphoma. 2013 Jun;54(6):1201-7. doi: 10.3109/10428194.2012.740668. Epub
+2012 Nov 26.
+
+Immunomorphologic profile and Epstein-Barr virus status of a cohort of 35 cases
+of extranodal natural killer/T-cell lymphoma, nasal type of upper aerodigestive
+tract from a tertiary care center in South India.
+
+Bugalia A(1), Manipadam MT, Nair S.
+
+Author information: 
+(1)Department of Pathology, Christian Medical College, Vellore, Tamil Nadu,
+India. dramitbugalia@gmail.com
+
+Extranodal natural killer (NK)/T-cell lymphoma, nasal type (EN-NK/T-NT) is a
+lymphoma of NK-cell or cytotoxic T-cell origin, which occurs most commonly in the
+upper aerodigestive tract. We have studied the immunomorphologic profile and
+Epstein-Barr virus (EBV) status of a cohort of 35 cases of EN-NK/T-NT of the
+upper aerodigestive tract (UADT) diagnosed in our institution during the period
+May 2002 to April 2012. At our institution these lymphomas constitute 0.7% of
+total non-Hodgkin lymphomas (NHLs) and 5.1% of total peripheral T-cell lymphomas 
+(PTCLs). The median age at diagnosis was 40 years with a male-to-female ratio of 
+4:1, and the most common site of involvement was the nasal cavity.
+Morphologically, the neoplastic cells were predominantly medium sized in most
+cases. Necrosis and angiocentricity were common histologic features. Thirty cases
+(85.7%) showed NK-cell immunophenotype, CD3+ (29/30, 96.7%), CD56+ (30/30, 100%) 
+and TIA1/Granzyme B+ (30/30, 100%). Five cases (14.3%) showed cytotoxic T-cell
+immunophenotype, CD3+ (5/5, 100%), CD56- (5/5, 100%) and TIA1/Granzyme B+ (5/5,
+100%). EBV-encoded RNA-in situ hybridization (EBER-ISH) was positive in all 35
+cases, whereas EBV latent membrane protein-1 (EBVLMP1) was positive in only 19/35
+(54.3%) of cases. In conclusion, this is the first large study from India to
+report the immunomorphologic profile and EBV association of EN-NK/T-NT, which is 
+known to have geographic variation. The frequency of these lymphomas in our study
+is comparable to that of Western and European countries and much less than that
+of Far Eastern countries.
+
+DOI: 10.3109/10428194.2012.740668 
+PMID: 23098105  [Indexed for MEDLINE]

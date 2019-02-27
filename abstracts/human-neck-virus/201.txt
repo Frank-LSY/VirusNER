@@ -1,0 +1,36 @@
+
+
+201. Curr Pharm Des. 2014;20(8):1274-92.
+
+Disordered interactome of human papillomavirus.
+
+Xue B, Ganti K, Rabionet A, Banks L, Uversky VN(1).
+
+Author information: 
+(1)Department of Molecular Medicine, University of South Florida, 12901 Bruce B. 
+Downs Blvd. MDC07, Tampa, Florida 33612, USA. vuversky@health.usf.edu.
+
+Intrinsically disordered proteins (IDPs) and proteins with long intrinsically
+disordered protein regions (IDPRs) lack ordered structure but are involved in a
+multitude of biological processes, where they often serve as major regulators and
+controllers of various functions of their binding partners. Furthermore,
+IDPs/IDPRs are often related to the pathogenesis of various diseases, including
+cancer. Intrinsic disorder confers multiple functional advantages to its
+carriers. As a result, due to their functional versatility and structural
+plasticity, IDPs and IDPRs are common in various proteomes, including proteomes
+of different pathological organisms. Viruses are "well-educated" users of various
+aspects of intrinsic disorder for their advantage. These small but highly
+efficient invaders broadly use intrinsic disorder to overrun the host organism's 
+defense system, as well as to seize and overrun host systems and pathways forcing
+them to work for the virus needs, to ensure accommodation of viruses to their
+variable and often hostile habitats, and to promote and support the economic
+usage of the viral genetic material. Human papillomaviruses (HPVs), with their
+tiny proteomes (the entire HPV genome includes just eight open reading frames),
+intricate life cycle, and ability to either cause benign papillomas/warts or
+promote the development of carcinomas of the genital tract, head and neck and
+epidermis, attracted considerable attention of researchers. This review analyzes 
+the plentitude and demeanor of intrinsic disorder in proteins from HPVs and their
+cellular targets.
+
+
+PMID: 23713779  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+965. Head Neck. 2016 Apr;38 Suppl 1:E1618-24. doi: 10.1002/hed.24289. Epub 2015 Nov
+28.
+
+Human papillomavirus and induction chemotherapy versus concurrent
+chemoradiotherapy in locally advanced oropharyngeal cancer: The Dana Farber
+Experience.
+
+Lorch JH(1), Hanna GJ(1), Posner MR(2), O'Neill A(3), Thotakura VL(1), Limaye
+SA(1), Rabinowits G(1), Sher DJ(4), Tishler RB(5), Haddad RI(1).
+
+Author information: 
+(1)Department of Medical Oncology, Dana Farber Cancer Institute, Boston,
+Massachusetts.
+(2)Department of Medical Oncology, Mount Sinai School of Medicine, New York, New 
+York.
+(3)Department of Biostatistics and Computational Biology, Dana Farber Cancer
+Institute, Boston, Massachusetts.
+(4)Department of Radiation Oncology, Rush Medical Center, Chicago, Illinois.
+(5)Department of Radiation Oncology, Dana Farber Cancer Institute, Boston,
+Massachusetts.
+
+BACKGROUND: Human papillomavirus (HPV) infection indicates favorable prognosis in
+oropharyngeal squamous cell carcinoma (SCC). The purpose of this study was for us
+to assess the impact of HPV in patients treated with sequential therapy versus
+concomitant chemoradiotherapy (CRT).
+METHODS: Patients with stage III and IVA and B oropharyngeal SCC were reviewed
+spanning 10 years.
+RESULTS: Among 500 cases, 291 (58%) received CRT versus 209 (42%) sequential
+therapy. HPV status was known in 279 of patients (56%) and positive in 77%
+(determined by polymerase chain reaction [PCR; 91%], p16 immunohistochemical
+[IHC], or both). Median follow-up was 2.8 years. Overall survival (OS) did not
+differ for sequential therapy versus CRT overall (hazard ratio [HR] = 0.90;
+p = .66; 3-year OS = 86% and 87%) or within HPV-positive patients (HR = 0.89;
+p = .81; 3-year OS = 91% and 91%) or within HPV-negative patients (HR = 0.55; p =
+.32; 3-year OS = 85% and 75%).
+CONCLUSION: Survival for all patients was high and notable for HPV-negative
+patients treated with sequential therapy. Further studies in this patient
+population are warranted. © 2015 Wiley Periodicals, Inc. Head Neck 38:
+E1618-E1624, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24289 
+PMID: 26614576  [Indexed for MEDLINE]

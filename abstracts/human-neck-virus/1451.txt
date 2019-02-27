@@ -1,0 +1,41 @@
+
+
+1451. J Med Virol. 2015 Apr;87(4):642-7. doi: 10.1002/jmv.24128. Epub 2015 Jan 21.
+
+Human herpesvirus 8 seroconversion in a population-based cohort of men in Tobago.
+
+McDonald AC(1), Jenkins FJ, Bunker CH, Wilson JW, Patrick AL, Weissfeld JL.
+
+Author information: 
+(1)Department of Population Health, Hofstra North Shore Long Island Jewish School
+of Medicine, Great Neck, New York; Feinstein Institute for Medical Research,
+North Shore Long Island Jewish Health System, Manhasset, New York.
+
+Human herpesvirus 8 (HHV-8) is the causal agent of Kaposi's sarcoma (KS). In
+Tobago, KS is not common; however, HHV-8 seropositivity has been reported to be
+39.9% in men with prostate cancer compared to <22.9% in healthier women and men. 
+To understand HHV-8 transmission, we examined HHV-8 seroconversion and
+seroreversion, and risk factors for these changes in Tobago men. Serum specimens 
+from a sub-cohort of Tobago Prostate Survey men, aged 40-81 years (n = 381/442), 
+were collected at baseline and a subsequent visit between 3 and 9 years and
+tested for HHV-8 seropositivity using an immunofluorescence assay for antibodies 
+against HHV-8 lytic antigens. Poisson distribution was used to calculate HHV-8
+seroconversion and seroreversion rates and their 95% confidence intervals.
+Differences in baseline characteristics between HHV-seroconverters versus
+persistent HHV-8 seronegative men and HHV-8 seroreverters versus HHV-8
+seropositive men were examined. HHV-8 seropositivity was 12.3% (N = 381) at
+baseline, with HHV-8 seropositivity significantly higher in increasing age
+groups, 40-49 (4.0%) to 70-81 (37.5%) years (P-value trend <0.0001). HHV-8
+seroconversion and seroreversion rates were 0.23 per 100 person-years (95% C.I., 
+0.06-0.58) and 2.42 per 100 person-years (95% C.I., 0.89-5.26), respectively.
+There were significantly more HHV-8 seroconverters who reported "ever smoked
+cigarettes of >6 months" at baseline compared to HHV-8 persistent seronegative
+men (P-value = 0.03). Baseline characteristics of HHV-8 seroreverters did not
+differ from persistent seropositive men. Low HHV-8 seroconversion and
+seroreversion rates were found. Data suggest that HHV-8 transmission occurred at 
+earlier ages, <40 years, in Tobago men.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24128 
+PMID: 25612304  [Indexed for MEDLINE]

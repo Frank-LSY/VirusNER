@@ -1,0 +1,40 @@
+
+
+3085. Glia. 2014 Oct;62(10):1699-712. doi: 10.1002/glia.22709. Epub 2014 Jun 26.
+
+p75NTR is highly expressed in vestibular schwannomas and promotes cell survival
+by activating nuclear transcription factor κB.
+
+Ahmad I(1), Yue WY, Fernando A, Clark JJ, Woodson EA, Hansen MR.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Iowa, Iowa
+City, Iowa.
+
+Vestibular schwannomas (VSs) arise from Schwann cells (SCs) and result from the
+loss of function of merlin, the protein product of the NF2 tumor suppressor gene.
+In contrast to non-neoplastic SCs, VS cells survive long-term in the absence of
+axons. We find that p75(NTR) is overexpressed in VSs compared with normal nerves,
+both at the transcript and protein level, similar to the response of
+non-neoplastic SCs following axotomy. Despite elevated p75(NTR) expression, VS
+cells are resistant to apoptosis due to treatment with proNGF, a high affinity
+ligand for p75(NTR) . Furthermore, treatment with proNGF protects VS cells from
+apoptosis due to c-Jun N-terminal kinase (JNK) inhibition indicating that
+p75(NTR) promotes VS cell survival. Treatment of VS cells with proNGF activated
+NF-κB while inhibition of JNK with SP600125 or siRNA-mediated knockdown reduced
+NF-κB activity. Significantly, proNGF also activated NF-κB in cultures treated
+with JNK inhibitors. Thus, JNK activity appears to be required for basal levels
+of NF-κB activity but not for proNGF-induced NF-κB activity. To confirm that the 
+increase in NF-κB activity contributes to the prosurvival effect of proNGF, we
+infected VS cultures with Ad.IκB.SerS32/36A virus, which inhibits NF-κB
+activation. Compared with control virus, Ad.IκB.SerS32/36A significantly
+increased apoptosis including in VS cells treated with proNGF. Thus, in contrast 
+to non-neoplastic SCs, p75(NTR) signaling provides a prosurvival response in VS
+cells by activating NF-κB independent of JNK. Such differences may contribute to 
+the ability of VS cells to survive long-term in the absence of axons.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/glia.22709 
+PMCID: PMC4150679
+PMID: 24976126  [Indexed for MEDLINE]

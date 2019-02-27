@@ -1,0 +1,41 @@
+
+Conflict of interest statement: Conflict of Interest: Fabien Zoulim has received 
+research grants and consultancy honoraria from Hoffmann-La-Roche, Gilead
+Sciences, Novira Therapeutics, Janssen, Assembly Biosciences, Arbutus, Contravir,
+Sanofi, and Transgene. Levrero Massimo is on the advisory boards of BMS, Assembly
+Biosciences, Gilead, Arbutus, Janssen, Galapagos, and Medimmune.
+
+
+18. Hepatology. 2017 Dec;66(6):2066-2077. doi: 10.1002/hep.29479. Epub 2017 Nov 6.
+
+Epigenetic regulation of hepatitis B virus covalently closed circular DNA:
+Implications for epigenetic therapy against chronic hepatitis B.
+
+Hong X(1), Kim ES(2), Guo H(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Georgetown University Medical
+Center, Washington, DC.
+(2)Department of Microbiology and Immunology, Indiana University School of
+Medicine, Indianapolis, IN.
+
+Hepatitis B virus (HBV) infection represents a significant public health burden
+worldwide. Although current therapeutics manage to control the disease
+progression, lifelong treatment and surveillance are required because drug
+resistance develops during treatment and reactivations frequently occur following
+medication cessation. Thus, the occurrence of hepatocellular carcinoma is
+decreased, but not eliminated. One major reason for failure of HBV treatment is
+the inability to eradicate or inactivate the viral covalently closed circular DNA
+(cccDNA), which is a stable episomal form of the viral genome decorated with host
+histones and nonhistone proteins. Accumulating evidence suggests that epigenetic 
+modifications of cccDNA contribute to viral replication and the outcome of
+chronic HBV infection. Here, we summarize current progress on HBV epigenetics
+research and the therapeutic implications for chronic HBV infection by learning
+from the epigenetic therapies for cancer and other viral diseases, which may open
+a new venue to cure chronic hepatitis B. (Hepatology 2017;66:2066-2077).
+
+© 2017 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.29479 
+PMCID: PMC5696023
+PMID: 28833361  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+389. Int J Health Geogr. 2009 Nov 30;8:68. doi: 10.1186/1476-072X-8-68.
+
+Usefulness of commercially available GPS data-loggers for tracking human movement
+and exposure to dengue virus.
+
+Vazquez-Prokopec GM(1), Stoddard ST, Paz-Soldan V, Morrison AC, Elder JP, Kochel 
+TJ, Scott TW, Kitron U.
+
+Author information: 
+(1)Department of Environmental Studies, Emory University, Atlanta, GA, USA.
+gmvazqu@emory.edu
+
+BACKGROUND: Our understanding of the effects of human movement on dengue virus
+spread remains limited in part due to the lack of precise tools to monitor the
+time-dependent location of individuals. We determined the utility of a new,
+commercially available, GPS data-logger for long-term tracking of human movements
+in Iquitos, Peru. We conducted a series of evaluations focused on GPS device
+attributes key to reliable use and accuracy. GPS observations from two
+participants were later compared with semi-structured interview data to assess
+the usefulness of GPS technology to track individual mobility patterns.
+RESULTS: Positional point and line accuracy were 4.4 and 10.3 m, respectively.
+GPS wearing mode increased spatial point error by 6.9 m. Units were worn on a
+neck-strap by a carpenter and a moto-taxi driver for 14-16 days. The application 
+of a clustering algorithm (I-cluster) to the raw GPS positional data allowed the 
+identification of locations visited by each participant together with the
+frequency and duration of each visit. The carpenter moved less and spent more
+time in more fixed locations than the moto-taxi driver, who visited more
+locations for a shorter period of time. GPS and participants' interviews
+concordantly identified 6 common locations, whereas GPS alone identified 4
+locations and participants alone identified 10 locations. Most (80%) of the
+locations identified by participants alone were places reported as visited for
+less than 30 minutes.
+CONCLUSION: The present study demonstrates the feasibility of a novel,
+commercially available GPS data-logger for long-term tracking of humans and shows
+the potential of these units to quantify mobility patterns in relationship with
+dengue virus transmission risk in a tropical urban environment. Cost, battery
+life, size, programmability and ease of wear are unprecedented from previously
+tested units, proving the usefulness of GPS-dataloggers for linking movement of
+individuals and transmission risk of dengue virus and other infectious agents,
+particularly in resource-poor settings.
+
+DOI: 10.1186/1476-072X-8-68 
+PMCID: PMC2792221
+PMID: 19948034  [Indexed for MEDLINE]

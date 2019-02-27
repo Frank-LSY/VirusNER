@@ -1,0 +1,43 @@
+
+
+25. J Clin Virol. 2015 Jan;62:80-3. doi: 10.1016/j.jcv.2014.11.027. Epub 2014 Nov 29.
+
+Circulating vaccine-derived polioviruses in the Extreme North region of Cameroon.
+
+Endegue-Zanga MC(1), Sadeuh-Mba SA(1), Iber J(2), Burns C(2), Nimpa-Mengouo M(3),
+Demanou M(1), Vernet G(1), Etoa FX(4), Njouom R(5).
+
+Author information: 
+(1)Centre Pasteur of Cameroon, P.O. Box 1274, Yaoundé, Cameroon.
+(2)Division of Viral and Rickettsial Diseases, Centers for Disease Control and
+Prevention, Atlanta, GA, USA.
+(3)WHO Cameroon Country Office, P.O. Box 155, Yaoundé, Cameroon.
+(4)The University of Yaoundé I, P.O. Box 337, Yaoundé, Cameroon.
+(5)Centre Pasteur of Cameroon, P.O. Box 1274, Yaoundé, Cameroon. Electronic
+address: njouom@pasteur-yaounde.org.
+
+BACKGROUND: The World Health Organization (WHO) poliovirus eradication program
+includes careful surveillance of acute-flaccid paralysis (AFP) and mass and
+routine immunization with oral polio vaccine (OPV). In populations with low
+vaccine coverage, the live-attenuated Sabin strains, OPV types 1, 2 and 3, can
+evolve into virulent vaccine-derived polioviruses (VDPVs) and circulate in the
+community. Until recently, circulating VDPVs (cVDPVs) had not been reported in
+Cameroon despite the fact that VDPV2 outbreaks have occurred in nearby countries.
+OBJECTIVES: This study aimed to characterize virus isolates from four AFP
+patients infected with cVDPV2 in the Extreme North region of Cameroon in 2013.
+STUDY DESIGN: The complete VP1 region of the four VDPV strains was sequenced and 
+the relationships with cVDPVs from neighboring countries were investigated.
+RESULTS: All four patients were infected by cVDPV2 strains showing 1.2-2.0%
+nucleotide difference compared to the reference Sabin 2 VP1 sequence.
+Phylogenetic analysis indicated that the VDPV strains were genetically linked to 
+cVDPV2 lineages of the recent Chad cVDPV2 outbreak.
+CONCLUSIONS: The circulation of pathogenic VDPVs suggests that there are
+localized immunization gaps in some districts like Makary, Mada and Kolofata in
+Cameroon. To avoid poliomyelitis outbreaks in Cameroon, especially in the
+districts close to neighboring countries with ongoing cVDPV outbreaks, high polio
+vaccine coverage is essential.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2014.11.027 
+PMID: 25542478  [Indexed for MEDLINE]

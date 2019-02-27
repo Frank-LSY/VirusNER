@@ -1,0 +1,34 @@
+
+
+1837. Tumour Biol. 2010 Dec;31(6):659-66. doi: 10.1007/s13277-010-0083-z. Epub 2010 Jul
+28.
+
+A combination treatment with SAHA and ad-p63/p73 shows an enhanced anticancer
+effect in HNSCC.
+
+Shim SH(1), Lee CT, Lee JJ, Kim SY, Hah JH, Heo DS, Sung MW.
+
+Author information: 
+(1)Department of Molecular Tumor Biology, College of Medicine, Seoul National
+University, Seoul, South Korea.
+
+Suberoylanilide hydroxamic acid (SAHA) is one of the most widely used histone
+deacetylase inhibitors. However, the potential advantage of SAHA has not been
+sufficiently validated as an adjunct to gene therapy of head and neck squamous
+cell carcinoma (HNSCC). SAHA has been shown to boost the efficiency of gene
+transfer by upregulating the expression of coxsackie adenoviral receptor on
+treated cells. The p53 family genes, p63 and p73, have been shown to have
+characteristics similar to p53, and although they are not confirmed as tumor
+suppressors, DNA-damaging signals induce their overexpression. We previously
+reported that the adenovirus-mediated transfer of p63 or p73 showed an effective 
+cancer-killing effect similar to that of p53. In this study, we combined SAHA
+with adenoviral delivery of p63 or p73 to enhance the efficiency of gene therapy.
+This combination resulted in a significantly enhanced cancer-killing effect in
+HNSCC cell lines but had no effect on normal human fibroblasts. SAHA treatment
+added to ad-p63/p73 gene delivery caused an increase in p21 expression and
+cleaved poly-ADP ribose polymerase. Our results indicate that adjuvant SAHA
+treatment could be developed as a therapeutic strategy to enhance the efficiency 
+of adenoviral gene transfer in the treatment of cancer.
+
+DOI: 10.1007/s13277-010-0083-z 
+PMID: 20665144  [Indexed for MEDLINE]

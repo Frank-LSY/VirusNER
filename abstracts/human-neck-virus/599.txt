@@ -1,0 +1,35 @@
+
+
+599. Adv Anat Pathol. 2010 Nov;17(6):394-403. doi: 10.1097/PAP.0b013e3181f895c1.
+
+Human papillomavirus detection in head and neck squamous cell carcinomas.
+
+Snow AN(1), Laudadio J.
+
+Author information: 
+(1)Department of Pathology, Wake Forest University Baptist Medical Center,
+Winston-Salem, NC 27157, USA.
+
+Squamous cell carcinomas of the head and neck (HNSCC) are a frequent diagnosis in
+anatomic pathology practice. Tobacco use and heavy alcohol consumption are known 
+risk factors for HNSCC but in other cases human papillomavirus (HPV) is linked to
+carcinogenesis. HPV proteins E6 and E7 promote oncogenesis by blocking the action
+of p53 and pRB, respectively. An absence of p53 mutations in addition to
+expression of p16 are part of the distinct molecular profile identified in the
+subset of HNSCCs because of HPV. Various methods are available for HPV detection 
+but polymerase chain reaction and in situ hybridization techniques are commonly
+used. Both methods are amenable for testing formalin-fixed paraffin-embedded
+tissue that is a sample type readily available to the pathologist. HPV is
+detectable in approximately a quarter of all HNSCCs, and is particularly
+prevalent in the oropharynx in which the positivity rates approach 40%. A vast
+majority of HPV-related HNSCCs are owing to HPV type 16 with types 18, 31, and 33
+accounting for almost all of the remaining cases. HPV-related HNSCCs are
+associated with better prognosis for both recurrence and survival. This group of 
+tumors has also been shown to respond well to radiation treatment. As the
+clinical relevance of HPV in HNSCCs continues to emerge, anatomic pathologists
+are likely to receive increasing requests for testing. Herein, the authors review
+the biological and clinical aspects of HPV-associated HNSCC and review techniques
+for HPV detection.
+
+DOI: 10.1097/PAP.0b013e3181f895c1 
+PMID: 20966645  [Indexed for MEDLINE]

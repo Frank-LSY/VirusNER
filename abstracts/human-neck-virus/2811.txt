@@ -1,0 +1,41 @@
+
+
+2811. Otolaryngol Head Neck Surg. 2013 Oct;149(4):603-7. doi: 10.1177/0194599813496969.
+Epub 2013 Jul 12.
+
+Prevalence of diabetes mellitus and its impact on disease severity in adult
+recurrent respiratory papillomatosis.
+
+Lee CJ(1), Allen CT, Merati AL.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, Shin-Kong Wu-Ho-Su
+Memorial Hospital, Taipei, Taiwan.
+
+OBJECTIVES: Following human papilloma virus (HPV) infection, recurrent
+respiratory papillomatosis (RRP) develops secondary to dysfunction of innate and 
+adaptive immune responses. Diabetes mellitus (DM) is a common medical disorder;
+these patients are considered to be relatively immunocompromised. It is
+hypothesized that comorbid DM occurs more frequently than expected in a cohort of
+adult RRP patients and that RRP patients with DM have more severe disease than
+those without DM.
+STUDY DESIGN: Retrospective cohort study.
+SETTING: Tertiary care laryngology practice, 5-year period.
+SUBJECTS AND METHODS: Adult-onset RRP patients from 2007 to 2012 at the
+University of Washington were reviewed. The gender, age of onset of RRP, number
+of interventions, pathology, presence or absence of DM, and calculated anatomic
+Derkay severity score were recorded.
+RESULTS: Eighty-four adult RRP patients were characterized; 64 male (76%) and 20 
+female (24%). Six of 84 patients (7.1%) had DM; this prevalence was not higher
+than an age-matched general population. The number of interventions required for 
+disease control did not significantly differ (P = .13) between adult RRP patients
+with DM (avg 2.6/yr, median 2.3/year) and those without DM (avg 1.9/yr, median
+1.3/yr). There was no significant difference in anatomic Derkay score at the time
+of intervention (P = .26) or presence of dysplasia in biopsy specimens (P = .49) 
+between RRP patients with and without DM.
+CONCLUSIONS: In this large series of adult RRP patients, DM does not appear to
+have a higher prevalence than that seen in age-matched controls, nor do RRP
+patients with DM appear to have more severe disease.
+
+DOI: 10.1177/0194599813496969 
+PMID: 23851281  [Indexed for MEDLINE]

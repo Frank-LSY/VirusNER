@@ -1,0 +1,49 @@
+
+
+2920. Emerg Microbes Infect. 2018 Jun 6;7(1):102. doi: 10.1038/s41426-018-0106-1.
+
+Risk factors for extrapulmonary dissemination of tuberculosis and associated
+mortality during treatment for extrapulmonary tuberculosis.
+
+Qian X(1)(2)(3), Nguyen DT(4), Lyu J(1)(3), Albers AE(5), Bi X(2), Graviss EA(6).
+
+Author information: 
+(1)Key Laboratory of Laboratory Medicine, Ministry of Education, Zhejiang
+Provincial Key Laboratory of Medical Genetics, Wenzhou Medical University,
+Wenzhou, P. R. China.
+(2)Center for Precision Biomedicine, Institute of Molecular Medicine, McGovern
+Medical School, The University of Texas Health Science Center at Houston,
+Houston, TX, USA.
+(3)People's Hospital of Hangzhou Medical College, Hangzhou, P. R. China.
+(4)Houston Methodist Research Institute, Houston, TX, USA.
+(5)Department of Otorhinolaryngology, Head and Neck Surgery, Berlin Institute of 
+Health, Charité - Universitätsmedizin Berlin, Corporate Member of Freie
+Universität Berlin, Humboldt-Universität zu Berlin, Campus Benjamin Franklin,
+Berlin, Germany.
+(6)Houston Methodist Research Institute, Houston, TX, USA.
+eagraviss@houstonmethodist.org.
+
+Many environmental, host, and microbial characteristics have been recognized as
+risk factors for dissemination of extrapulmonary tuberculosis (EPTB). However,
+there are few population-based studies investigating the association between the 
+primary sites of tuberculosis (TB) infection and mortality during TB treatment.
+De-identified population-based surveillance data of confirmed TB patients
+reported from 2009 to 2015 in Texas, USA, were analyzed. Regression analyses were
+used to determine the risk factors for EPTB, as well as its subsite distribution 
+and mortality. We analyzed 7007 patients with exclusively pulmonary TB, 1259
+patients with exclusively EPTB, and 894 EPTB patients with reported concomitant
+pulmonary involvement. Age ≥45 years, female gender, human immunodeficiency virus
+(HIV)-positive status, and end-stage renal disease (ESRD) were associated with
+EPTB. ESRD was associated with the most clinical presentations of EPTB other than
+meningeal and genitourinary TB. Patients age ≥45 years had a disproportionately
+high rate of bone TB, while foreign-born patients had increased pleural TB and
+HIV+ patients had increased meningeal TB. Age ≥45 years, HIV+ status, excessive
+alcohol use within the past 12 months, ESRD, and abnormal chest radiographs were 
+independent risk factors for EPTB mortality during TB treatment. The
+epidemiologic risk factors identified by multivariate analyses provide new
+information that may be useful to health professionals in managing patients with 
+EPTB.
+
+DOI: 10.1038/s41426-018-0106-1 
+PMCID: PMC5988830
+PMID: 29872046  [Indexed for MEDLINE]

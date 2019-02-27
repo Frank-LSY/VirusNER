@@ -1,0 +1,42 @@
+
+
+864. Am J Physiol Lung Cell Mol Physiol. 2010 Sep;299(3):L384-92. doi:
+10.1152/ajplung.00096.2010. Epub 2010 Jul 2.
+
+Monoclonal antibody-assisted structure-function analysis of the carbohydrate
+recognition domain of surfactant protein D.
+
+Hartshorn KL(1), White MR, Rynkiewicz M, Sorensen G, Holmskov U, Head J, Crouch
+EC.
+
+Author information: 
+(1)Department of Medicine, Boston University School of Medicine, Boston,
+Massachusetts 02118, USA. khartsho@bu.edu
+
+Surfactant protein D (SP-D) plays important roles in host defense against a
+variety of pathogens including influenza A virus (IAV). Ligand binding by SP-D is
+mediated by the trimeric neck and carbohydrate recognition domain (NCRD). We used
+monoclonal antibodies (mAbs) against human SP-D and a panel of mutant collectin
+NCRD constructs to identify functionally and structurally important epitopes. The
+ability of SP-D to bind to IAV and mannan involved partially overlapping binding 
+sites that are distinct from those involved in binding to the glycoprotein-340
+(gp-340) scavenger receptor protein. A species-specific motif (D324,D325,R343),
+which has been implicated in the specific binding of several ligands, contributes
+to recognition by mAbs that block antiviral or mannan binding activity. D325, in 
+particular, is involved in the epitopes of these blocking mAbs. Conversely, the
+interspecies substitution of arginine for Lys343 in the rat NCRD (rK343R)
+conferred binding to two of the mAbs. The single site substitution of alanine for
+R349 or E347 resulted in highly selective alterations in mAb binding and caused
+decreased antiviral activity. Mutations at Glu333 (E333A), Trp340 (W340F), and
+Phe335 (F335A), which abrogated antiviral activity, were associated with
+decreased binding to multiple blocking mAbs, consistent with critical structural 
+roles. More conservative substitutions at 335, which showed a significant
+increase in neutralization activity, caused selective loss of binding to one mAb.
+The analysis reveals, for the first time, an extended binding site for IAV;
+calcium-dependent antiviral activity involves residues flanking the primary
+carbohydrate binding site as well as more remote residues displayed on the
+carbohydrate recognition domain surface.
+
+DOI: 10.1152/ajplung.00096.2010 
+PMCID: PMC2951070
+PMID: 20601494  [Indexed for MEDLINE]

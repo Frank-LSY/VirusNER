@@ -1,0 +1,28 @@
+
+
+2788. Immunotherapy. 2016;8(1):45-55. doi: 10.2217/imt.15.103. Epub 2015 Dec 7.
+
+Novel targets for natural killer/T-cell lymphoma immunotherapy.
+
+Kumai T(1), Kobayashi H(2), Harabuchi Y(1)(2).
+
+Author information: 
+(1)Department of Otolaryngology, Head & Neck Surgery, Asahikawa Medical
+University, Midorigaoka-East 2-1-1-1, Asahikawa 078-8510, Japan.
+(2)Department of Pathology, Asahikawa Medical University, Midorigaoka-East
+2-1-1-1, Asahikawa 078-8510, Japan.
+
+Extranodal natural killer/T-cell lymphoma, nasal type (NKTL) is a rare but highly
+aggressive Epstein-Barr virus-related malignancy, which mainly occurs in
+nasopharyngeal and nasal/paranasal areas. In addition to its high prevalence in
+Asian, Central American and South American populations, its incidence rate has
+been gradually increasing in Western countries. The current mainstay of treatment
+is a combination of multiple chemotherapies and irradiation. Although
+chemoradiotherapy can cure NKTL, it often causes severe and fatal adverse events.
+Because a growing body of evidence suggests that immunotherapy is effective
+against hematological malignancies, this treatment could provide an alternative
+to chemoradiotherapy for treatment of NKTL. In this review, we focus on how
+recent findings could be used to develop efficient immunotherapies against NKTL.
+
+DOI: 10.2217/imt.15.103 
+PMID: 26642249  [Indexed for MEDLINE]

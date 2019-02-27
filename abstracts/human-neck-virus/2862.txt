@@ -1,0 +1,44 @@
+
+
+2862. Oral Oncol. 2012 Aug;48(8):703-8. doi: 10.1016/j.oraloncology.2012.02.003. Epub
+2012 Feb 25.
+
+Induction of lymphangiogenesis through vascular endothelial growth
+factor-C/vascular endothelial growth factor receptor 3 axis and its correlation
+with lymph node metastasis in nasopharyngeal carcinoma.
+
+Wakisaka N(1), Hirota K, Kondo S, Sawada-Kitamura S, Endo K, Murono S, Yoshizaki 
+T.
+
+Author information: 
+(1)Division of Otolaryngology, and Head & Neck Surgery, Graduate School of
+Medicine, Kanazawa University, Takara-machi 13-1, Kanazawa, Ishikawa, Japan.
+wakisaka@med.kanazawa-u.ac.jp
+
+The contribution of the lymphatic system to tumor metastasis is being
+increasingly appreciated through studies of human cancers. As the biological
+behavior of nasopharyngeal carcinoma (NPC) depends on its nodal status, patients 
+with advanced nodal status show a higher tendency toward a poor outcome. Here, we
+examined the role of lymphangiogenesis on lymphatic spread of NPC. We also
+evaluated the involvement of vascular endothelial growth factor (VEGF)-C/VEGF
+receptor 3 (VEGFR3) signaling pathway on lymphangiogenesis in NPC. Furthermore,
+we tested whether Epstein-Barr virus (EBV)-latent membrane protein (LMP) 1
+induces VEGF-C. Forty-one patients with NPC were evaluated for expressions of
+VEGF-C and its receptor, VEGFR3, and LMP1 proteins and lymphatic vessel counts
+(LVC) highlighted by anti-podoplanin employing immunohistochemistry. The VEGF-C
+induction by LMP1 was then tested with Western blotting and enzyme-linked
+immunosorbent assay in vitro. The LVC and VEGF-C expression were significantly
+higher in cases with advanced regional lymph node metastasis (N2,3) than those
+with no or limited lymph node involvement (N0,1) (p=0.0380 and p=0.0109,
+respectively). In VEGF-C/VEGFR3-positive cases, the LVC were significantly
+increased compared with VEGF-C/VEGFR3-negative cases (p=0.0007). However, LMP1
+expression did not show significant associations with LVC and VEGF-C-expression
+scores (p=0.1210 and p=0.1324, respectively). Induction of VEGF-C protein by LMP1
+was not detected in vitro. These results suggest the involvement of the
+VEGF-C/VEGFR3 axis in the induction of lymphangiogenesis which results in
+lymphatic spread of NPC. However, EBV-LMP1 was not associated with the mechanism.
+
+Copyright © 2012. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.oraloncology.2012.02.003 
+PMID: 22366442  [Indexed for MEDLINE]

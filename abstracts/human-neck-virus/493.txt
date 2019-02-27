@@ -1,0 +1,33 @@
+
+
+493. Acta Microbiol Immunol Hung. 2011 Dec;58(4):319-37. doi:
+10.1556/AMicr.58.2011.4.8.
+
+Comparison of diversity of torque teno virus 1 in different mucosal tissues and
+disorders.
+
+Fehér E(1), Kardos G, Gáll T, Kis A, Gergely L, Szarka K.
+
+Author information: 
+(1)Department of Medical Microbiology, University of Debrecen, Medical and Health
+Science Center, Debrecen, Hungary.
+
+Diversity of TTV1 was assessed in the head and neck region in patients with
+potentially malignant (oral lichen planus, oral leukoplakia) and malignant
+lesions (oral and laryngeal squamous cell cancers) and was compared to that found
+in the uterine cervix (cervical atypia and cervical cancer) by directly
+sequencing the NG061-063 segment of ORF1. These sequences were classified by the 
+formerly used genogroup-genotype system as well as by the newly accepted species 
+classification by aligning with the corresponding region of the type sequences of
+the 29 TTV species. All sequences obtained during the study clustered together
+with the TTV1 type sequence; to express diversity within TTV1, genotypes and
+subtypes of the former classification were used.The commonest subtypes were 2c
+followed by 2b, 1a and 1b. Subtypes 2b and 2c were evenly distributed among
+cervical samples; subtype 1a was more frequent in patients with cervical atypia
+or cancer. Subtypes 2c was more frequent than 2b in head and neck lesions. In
+conclusion, genotype and even subtype distribution may be important in
+association with diseases, therefore using this classification for
+characterization of intraspecies diversity of TTV1 is proposed.
+
+DOI: 10.1556/AMicr.58.2011.4.8 
+PMID: 22207290  [Indexed for MEDLINE]

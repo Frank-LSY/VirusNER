@@ -1,0 +1,40 @@
+
+
+1780. Head Neck Pathol. 2009 Sep;3(3):186-94. doi: 10.1007/s12105-009-0126-1. Epub 2009
+Jul 11.
+
+HPV-related nonkeratinizing squamous cell carcinoma of the oropharynx: utility of
+microscopic features in predicting patient outcome.
+
+Chernock RD(1), El-Mofty SK, Thorstad WL, Parvin CA, Lewis JS Jr.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, 660 South Euclid, Campus Box 8118, St. Louis, MO 63110, USA.
+
+Human papilloma virus (HPV) is an etiologic agent in a subset of oropharyngeal
+squamous cell carcinomas (SCCs). The aim of this study was to sub-classify SCC of
+the oropharynx based upon histologic features into nonkeratinizing (NK) SCC,
+keratinizing (K) SCC, and hybrid SCC, and determine the frequency of HPV and
+patient survival in each group. Patients with oropharyngeal SCC with a minimum of
+2 years of clinical follow-up were identified from radiation oncology databases
+from 1997 to 2004. All patients received either up front surgery with
+postoperative radiation or definitive radiation based therapy. In situ
+hybridization (ISH) for high-risk HPV subtypes and immunohistochemistry for p16, 
+a protein frequently up-regulated in HPV-associated carcinomas, were performed.
+Overall and disease-specific survival were assessed. Of 118 cases, 46.6% were NK 
+SCC, 24.6% K SCC and 28.8% hybrid SCC. NK SCC occurred in slightly younger
+patients that were more often male. It more frequently presented with lymph node 
+metastases and was surgically resected compared to K SCC. NK SCC was
+significantly more likely to be HPV and p16 positive than KSCC (P < 0.001) and to
+have better overall and disease-specific survival (P = 0.0002; P = 0.0142,
+respectively). Hybrid SCC was also more likely than K SCC to be HPV and p16
+positive (P = 0.003; P = 0.002, respectively) and to have better overall survival
+(P = 0.0105). Sub-classification of oropharyngeal SCC by histologic type provides
+useful clinical information. NK SCC histology strongly predicts HPV-association
+and better patient survival compared to K SCC. Hybrid SCC appears to have an
+intermediate frequency of HPV-association and patient survival.
+
+DOI: 10.1007/s12105-009-0126-1 
+PMCID: PMC2811624
+PMID: 20596971  [Indexed for MEDLINE]

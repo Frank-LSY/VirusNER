@@ -1,0 +1,29 @@
+
+
+276. Prev Med. 2011 Oct;53 Suppl 1:S5-S11. doi: 10.1016/j.ypmed.2011.08.001.
+
+The role of HPV in head and neck cancer and review of the HPV vaccine.
+
+D'Souza G(1), Dempsey A.
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+615 N Wolfe Street, Baltimore, MD 21205, USA. gdsouza@jhsph.edu
+
+Recent data demonstrate that human papillomavirus also plays a role in cancers
+other than ano-genital cancers, specifically head and neck cancers, and
+non-cancerous conditions such as recurrent respiratory papillomatosis. As more
+and more information about the role of infection in non-cervical diseases is
+amassed, additional questions about whether prophylactic human papillomavirus
+vaccines will effectively prevent these conditions are raised. This article
+reviews the epidemiology of oral human papillomavirus infection and the role of
+human papillomavirus in head and neck cancers. In addition, it will review the
+known clinical indications for human papillomavirus vaccination, and highlight
+other potential clinical targets for the vaccine that have not yet been
+demonstrated in clinical trials but for which there is biologic plausibility.
+
+Copyright © 2011. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ypmed.2011.08.001 
+PMCID: PMC3287051
+PMID: 21962471  [Indexed for MEDLINE]

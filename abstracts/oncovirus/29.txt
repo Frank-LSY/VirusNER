@@ -1,0 +1,28 @@
+
+
+29. Viruses. 2013 Sep 25;5(10):2349-74. doi: 10.3390/v5102349.
+
+Evolution of foamy viruses: the most ancient of all retroviruses.
+
+Rethwilm A(1), Bodem J.
+
+Author information: 
+(1)Universität Würzburg, Institut für Virologie und Immunbiologie, Versbacher
+Str.7, Würzburg 97078, Germany. virologie@vim.uni-wuerzburg.de.
+
+Recent evidence indicates that foamy viruses (FVs) are the oldest retroviruses
+(RVs) that we know and coevolved with their hosts for several hundred million
+years. This coevolution may have contributed to the non-pathogenicity of FVs, an 
+important factor in development of foamy viral vectors in gene therapy. However, 
+various questions on the molecular evolution of FVs remain still unanswered. The 
+analysis of the spectrum of animal species infected by exogenous FVs or harboring
+endogenous FV elements in their genome is pivotal. Furthermore, animal studies
+might reveal important issues, such as the identification of the FV in vivo
+target cells, which than require a detailed characterization, to resolve the
+molecular basis of the accuracy with which FVs copy their genome. The issues of
+the extent of FV viremia and of the nature of the virion genome (RNA vs. DNA)
+also need to be experimentally addressed.
+
+DOI: 10.3390/v5102349 
+PMCID: PMC3814592
+PMID: 24072062  [Indexed for MEDLINE]

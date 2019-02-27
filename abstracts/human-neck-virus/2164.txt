@@ -1,0 +1,52 @@
+
+
+2164. Transfus Apher Sci. 2010 Apr;42(2):131-9. doi: 10.1016/j.transci.2010.01.008.
+
+Human immunodeficiency and Hodgkin lymphoma.
+
+Sissolak G(1), Sissolak D, Jacobs P.
+
+Author information: 
+(1)Division of Clinical Haematology, Department of Internal Medicine, Faculty of 
+Health Sciences, Stellenbosch University, Tygerberg Academic Hospital, South
+Africa.
+
+Presentation of Hodgkin lymphoma (HL) is distinctive in the infected individual
+being more advanced, accompanied by B symptoms and the presence of extranodal
+disease particularly lymphadenopathy of the head and neck. Bone marrow
+involvement may be found in over 50% of cases. Virtually all co express
+gamma-herpesvirus. Phenotypically there is prominence of the mixed-cellularity
+and lymphocyte depleted histopathologic subtypes that define an aggressive
+clinical course in comparison to other variants. Prior to the induction of cART, 
+median survival was only 1-2 years. Notably the first chemotherapy trial using
+ABVD (doxorubicin, bleomycin, vinblastine, and dacarbazine) in 21 patients,
+without treating the viral infection, resulted in a 43% complete remission rate
+accompanied by severe haematological toxicities but did not extend median
+survival with this being 1.5 years matching the negative cases. Significant
+change accompanied concomitant anti-retroviral therapy that could be given safely
+even with dose intensive regimens exemplified by BEACOPP (bleomycin, etoposide,
+doxorubicin, cyclophosphamide, vincristine, procarbazine, and prednisone) in 12
+patients or the Stanford V regimen (doxorubicin, vinblastine, mechlorethamine,
+etoposide, vincristine, bleomycin, prednisone) coupled with involved-field
+radiation for bulky disease studied in 59 patients. BEACOPP extended overall
+survival (OS) to 83% at 2 years. A similar trend was seen when using the Stanford
+V regimen with an OS rate of 51% at 3 years, disease-free survival (DFS) of 68%
+and freedom from progression (FFP) in 60%. Additional benefits accrued from
+supportive care with stimulatory peptides such as G-CSF and when combined with
+bacterial prophylaxis results approached that found in the uninfected reference
+group. Current consensus holds this particular lymphoma as still among the
+non-AIDS defining cancers being lung, stomach, liver or anal despite these having
+recently gained more attention as several of these neoplasms may be occurring
+more commonly in the era of cART. While the relative risk of developing a
+non-AIDS-defining neoplasm in HIV-infected persons on the average is 2-3 times,
+the risk for developing HL in HIV-infected cases impressively ranges between 5
+and 25 times when compared to the general population. Based on the precedent in
+which Kaposi sarcoma and the non-Hodgkin lymphomas distinctively alter the course
+of this retroviral infection in a way indistinguishable from concurrent Hodgkin
+lymphoma we propose that this entity be similarly regarded and the hypothesis
+tested in large randomised prospective study.
+
+(c) 2010. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.transci.2010.01.008 
+PMID: 20138008  [Indexed for MEDLINE]

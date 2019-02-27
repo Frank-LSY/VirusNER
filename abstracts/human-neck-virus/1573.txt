@@ -1,0 +1,38 @@
+
+
+1573. Oncotarget. 2016 May 31;7(22):31878-91. doi: 10.18632/oncotarget.8103.
+
+Prostate tumor overexpressed-1, in conjunction with human papillomavirus status, 
+predicts outcome in early-stage human laryngeal squamous cell carcinoma.
+
+Yang L(1)(2)(3), Wang H(1)(2)(3), Wang Y(1)(2)(3), He Z(1)(2)(3), Chen H(4),
+Liang S(5), He S(1)(2)(3), Wu S(1)(2)(3), Song L(1)(2)(3), Chen Y(1)(2)(3).
+
+Author information: 
+(1)Sun Yat-Sen University Cancer Center, Guangzhou, China.
+(2)State Key Laboratory of Oncology in Southern China, Guangzhou, China.
+(3)Collaborative Innovation Center for Cancer Medicine, Guangzhou, China.
+(4)The Six Affiliated Hospital of Sun Yat-sen University, Guangzhou, China.
+(5)The First Hospital of Foshan, Foshan, China.
+
+In human cancer, molecular markers combined with clinical characteristics are
+used increasingly to predict prognosis. Prostate tumor overexpressed-1 (PTOV1),
+first identified in prostate cancer, is a key factor in tumor progression and
+correlates with unfavorable clinical outcomes. HPV infection status was tested by
+HPV E6-targeted multiplex real-time PCR and p16 immunohistochemistry (IHC).
+Real-time PCR and western blotting analyses were used to examine the mRNA and
+protein expression levels of PTOV1 in eight paired LSCC samples. IHC was
+performed to assess PTOV1 protein expression in 196 paraffin-embedded, archived
+LSCC samples. PTOV1 protein and mRNA expression was increased in LSCC tissues
+compared with adjacent non-cancerous tissue samples. High expression of PTOV1was 
+significantly associated with advanced TNM stage by the χ2 test. Multivariate
+analysis revealed that PTOV1 and HPV status were independent prognostic
+indicators of overall survival (OS) and progression-free survival (PFS) (P =
+0.001, P = 0.009 for OS, P = 0.005, P = 0.012 for PFS, respectively). Our study
+provides the first evidence that the combination of PTOV1 expression level and
+HPV status provides more prognostic information compared with HPV status alone
+with the significance still exists in the HPV negative subgroup.
+
+DOI: 10.18632/oncotarget.8103 
+PMCID: PMC5077983
+PMID: 26992242  [Indexed for MEDLINE]

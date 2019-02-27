@@ -1,0 +1,36 @@
+
+
+511. Adv Otorhinolaryngol. 2011;72:157-9. doi: 10.1159/000324780. Epub 2011 Aug 18.
+
+A novel immune evasion mechanism of LMP-1, an EBV-primary oncogene, in
+nasopharyngeal carcinoma.
+
+Yoshizaki T(1).
+
+Author information: 
+(1)Division of Otolaryngology, Head and Neck Surgery, Graduate School of Medical 
+Science, Kanazawa University, Takaramachi, Kanazawa, Japan.
+tomoy@med.kanazawa-u.ac.jp
+
+Nasopharyngeal carcinoma is an Epstein-Barr virus (EBV)-associated tumor. Viruses
+that are associated with malignant transformation have evolved unique mechanisms 
+to interfere with this interaction to evade antiviral T cell responses. EBV
+exploits many immune evasive strategies to successfully establish a latent
+infection in B cells. CD8+ T cell responses to LMP-1 are generally very low and
+rarely detected in healthy virus carriers. Activation of the NF-kB pathway by
+EBV-LMP-1 leads to an upregulation of the MHC class I antigen-processing pathway.
+Paradoxically, LMP-1itself induces a subdominant CD8+ T cell response and appears
+to have evolved to avoid immune recognition. An expression of LMP-1 in human
+cells enhanced the trans-presentation of CD8+ T cell epitopes; however,
+cis-presentation of LMP-1-derived epitopes was severely impaired. Deletion of the
+first transmembrane domain of LMP-1, which prevented self-aggregation,
+significantly enhanced the cis-presentation of T cell epitopes from this protein,
+whereas it lost its ability to upregulate trans-presentation. These results
+delineate a novel mechanism of immune evasion, which renders a virally encoded
+oncogene inaccessible to the conventional MHC class I pathway limiting its
+cis-presentation.
+
+Copyright © 2011 S. Karger AG, Basel.
+
+DOI: 10.1159/000324780 
+PMID: 21865718  [Indexed for MEDLINE]

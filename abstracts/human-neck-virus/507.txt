@@ -1,0 +1,31 @@
+
+
+507. Oral Oncol. 2009 Apr-May;45(4-5):440-6. doi: 10.1016/j.oraloncology.2008.05.013. 
+Epub 2008 Jul 31.
+
+Applying the molecular biology and epigenetics of head and neck cancer in
+everyday clinical practice.
+
+Glazer CA(1), Chang SS, Ha PK, Califano JA.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Medical
+Institutions, Baltimore, MD 21231, USA. cglazer2@jhmi.edu
+
+During the past decade, there has been a significant increase in knowledge
+regarding the molecular biology and epigenetics of head and neck squamous cell
+carcinoma (HNSCC). This has been aided by the steady development of new
+technology and novel techniques aimed at elucidating additional aberrant
+molecular alterations characteristic of HNSCC, including the advent of high
+throughput assays and the development of more sophisticated bioinformatics tools.
+In addition, advancements in the field of cancer epigenetics and microRNA have
+increased the complexity of understanding HNSCC tumorigenesis. These advances
+have lead to an increasing number of translational studies in the diagnosis,
+prognosis, and treatment of head and neck cancer. The end result is that
+molecular biomarkers, gene detection panels and targeted therapeutics are
+becoming a reality for the care of patients with HNSCC. In this article, we will 
+focus on the many implications of this research as it pertains to clinical
+practice and the treatment of HNSCC patients.
+
+DOI: 10.1016/j.oraloncology.2008.05.013 
+PMID: 18674958  [Indexed for MEDLINE]

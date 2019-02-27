@@ -1,0 +1,46 @@
+
+
+3. Med Microbiol Immunol. 2017 Jun;206(3):267-276. doi: 10.1007/s00430-017-0502-5.
+Epub 2017 Mar 25.
+
+Human papilloma virus (HPV) infection leads to the development of head and neck
+lesions but offers better prognosis in malignant Indian patients.
+
+Sarkar S(1), Alam N(2), Chakraborty J(2), Biswas J(2), Mandal SS(3), Roychoudhury
+S(4), Panda CK(5).
+
+Author information: 
+(1)Department of Oncogene Regulation, Chittaranjan National Cancer Institute, 37,
+S.P. Mukherjee Road, Kolkata, 700026, India.
+(2)Department of Surgical Oncology, Chittaranjan National Cancer Institute,
+Kolkata, India.
+(3)Department of Epidemiology and Biostatistics, Chittaranjan National Cancer
+Institute, Kolkata, India.
+(4)Basic Research, Saroj Gupta Cancer Centre and Research Institute, Kolkata,
+India.
+(5)Department of Oncogene Regulation, Chittaranjan National Cancer Institute, 37,
+S.P. Mukherjee Road, Kolkata, 700026, India. ckpanda.cnci@gmail.com.
+
+Head and neck cancers constitute a multifactorial global disease burden and are
+associated with human papilloma virus (HPV) as a possible risk factor. The aim of
+the study is to understand the relationship between HPV and the development of
+head and neck lesions in Indian patients. To this end, frequency of HPV was
+assessed in relation to different demographic and etiological features and
+correlated with patient survival. The prevalence of HPV significantly increased
+from mild dysplastic lesions (43.6%) to head and neck squamous cell carcinoma
+(HNSCC) stage IV (68.5%) with HPV 16 being pre-dominant in both dysplasia (43.8%)
+and HNSCC (61.5%). Similar trend was observed in increasing grades of the tumour.
+In invasive lesions, patients aged below the median age of onset showed
+significantly higher occurrence of HPV than those above it. Patients harbouring
+HPV showed a significantly better survival irrespective of age of onset.
+Likewise, better survival was observed in tobacco habit negative/HPV-positive
+patients, and as reflected in both univariate and multivariate analysis. Majority
+of the HPV 16-positive samples showed moderate/high nuclear expression of HPV E6 
+and E7 proteins in tumours and respective basal layer of adjacent normal tissues.
+Thus, our data indicate that frequent HPV infection, along with tobacco habit, is
+a pre-requisite factor for the development of HNSCC of Indian patients but offers
+a better survival even during tobacco usage, implicating its diagnostic and
+prognostic importance.
+
+DOI: 10.1007/s00430-017-0502-5 
+PMID: 28343330  [Indexed for MEDLINE]

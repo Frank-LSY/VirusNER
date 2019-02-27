@@ -1,0 +1,30 @@
+
+
+46. Curr Opin Virol. 2013 Jun;3(3):227-32. doi: 10.1016/j.coviro.2013.04.005. Epub
+2013 May 15.
+
+The pathogenesis of Epstein-Barr virus persistent infection.
+
+Thorley-Lawson DA(1), Hawkins JB, Tracy SI, Shapiro M.
+
+Author information: 
+(1)Department of Pathology, Tufts University School of Medicine, Jaharis
+Building, Boston, MA 02111, USA. david.thorley-lawson@tufts.edu
+
+Epstein-Barr virus (EBV) maintains a lifelong infection. According to the
+germinal center model (GCM), latently infected B cells transit the germinal
+center (GC) to become resting memory cells. Here, the virus resides quiescently, 
+occasionally reactivating to infect new B cells, completing the cycle of
+infection. The GCM remains the only model that explains EBV biology and the
+pathogenesis of lymphoma. Recent work suggests modifications to the model notably
+that the virus contributes only modestly to the GC process and predictions from
+mathematical models that quiescence within memory B cells shapes the overall
+structure of viral infection but is not essential for persistence. Rather, it is 
+the cycle of infection which allows viral persistence at the very low levels
+observed.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2013.04.005 
+PMCID: PMC3789532
+PMID: 23683686  [Indexed for MEDLINE]

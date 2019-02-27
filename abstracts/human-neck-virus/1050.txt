@@ -1,0 +1,45 @@
+
+
+1050. Laryngoscope. 2018 Feb;128(2):386-392. doi: 10.1002/lary.26739. Epub 2017 Jul 8.
+
+Assessment of human papillomavirus awareness in association with head and neck
+cancer at a screening event.
+
+Berger MH(1), Cohen ER(1), Shamrock AG(1), Chan B(1), Camp M(1), Lo K(2), Sargi
+ZB(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Miami Miller
+School of Medicine, Miami, Florida, U.S.A.
+(2)University of Miami, and the Division of Biostatistics, University of Miami
+Miller School of Medicine, Miami, Florida, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: To assess the baseline awareness of human papillomavirus
+(HPV) infection as a cause of head and neck cancer (HNC) to design improved
+targeted screening and education efforts.
+STUDY DESIGN: Retrospective review of collected survey at a cancer screening
+event.
+METHODS: This was a screening event at three hospitals and one community center
+in Miami, Florida. Participants were recruited throughout the Greater Miami area.
+Descriptive statistics were used to summarize the demographic characteristics of 
+those who were aware of HPV and those who were not. Adjusted odds ratios, odds
+ratios, and χ2 tests were used in statistical analysis.
+RESULTS: A total of 196 women and 112 men were screened across four sites, with
+187 participants at hospital-based events and 124 participants at the
+community-based event. Forty percent of respondents had heard of HPV, and 28.0%
+identified HPV as a risk factor for HNC. Non-Hispanic and Hispanic respondents
+were 3.309 and 2.445 times, respectively, more likely than Haitian respondents to
+have heard of HPV. Women were 2.488 times more likely than men to be aware of
+HPV. College graduates were 2.268 times more likely than those with less than a
+college degree to be aware of HPV. Younger respondents were more likely to be
+aware of HPV. Of those who identified HPV as a risk factor for HNC, 95.4% also
+correctly identified smoking and 75.9% also correctly identified alcohol as risk 
+factors.
+CONCLUSIONS: Disparities in HPV and HNC awareness were noted between gender, age,
+education level, and ethnicity.
+LEVEL OF EVIDENCE: NA. Laryngoscope, 128:386-392, 2018.
+
+© 2017 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26739 
+PMID: 28688192  [Indexed for MEDLINE]

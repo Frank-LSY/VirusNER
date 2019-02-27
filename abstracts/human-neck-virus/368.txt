@@ -1,0 +1,38 @@
+
+
+368. J Virol. 2013 Jun;87(11):6062-72. doi: 10.1128/JVI.00330-13. Epub 2013 Mar 27.
+
+The evolving field of human papillomavirus receptor research: a review of binding
+and entry.
+
+Raff AB(1), Woodham AW, Raff LM, Skeate JG, Yan L, Da Silva DM, Schelhaas M, Kast
+WM.
+
+Author information: 
+(1)Norris Comprehensive Cancer Center, University of Southern California, Los
+Angeles, Los Angeles, California, USA.
+
+Human papillomaviruses (HPVs) infect epithelia and can lead to the development of
+lesions, some of which have malignant potential. HPV type 16 (HPV16) is the most 
+oncogenic genotype and causes various types of cancer, including cervical, anal, 
+and head and neck cancers. However, despite significant research, our
+understanding of the mechanism by which HPV16 binds to and enters host cells
+remains fragmented. Over several decades, many HPV receptors and entry pathways
+have been described. This review puts those studies into context and offers a
+model of HPV16 binding and entry as a framework for future research. Our model
+suggests that HPV16 binds to heparin sulfate proteoglycans (HSPGs) on either the 
+epithelial cell surface or basement membrane through interactions with the L1
+major capsid protein. Growth factor receptors may also become activated through
+HSPG/growth factor/HPV16 complexes that initiate signaling cascades during early 
+virion-host cell interactions. After binding to HSPGs, the virion undergoes
+conformational changes, leading to isomerization by cyclophilin B and proprotein 
+convertase-mediated L2 minor capsid protein cleavage that increases L2 N terminus
+exposure. Along with binding to HSPGs, HPV16 binds to α6 integrins, which
+initiate further intracellular signaling events. Following these primary binding 
+events, HPV16 binds to a newly identified L2-specific receptor, the annexin A2
+heterotetramer. Subsequently, clathrin-, caveolin-, lipid raft-, flotillin-,
+cholesterol-, and dynamin-independent endocytosis of HPV16 occurs.
+
+DOI: 10.1128/JVI.00330-13 
+PMCID: PMC3648114
+PMID: 23536685  [Indexed for MEDLINE]

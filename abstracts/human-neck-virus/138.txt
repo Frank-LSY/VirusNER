@@ -1,0 +1,48 @@
+
+
+138. PLoS One. 2017 Nov 16;12(11):e0188214. doi: 10.1371/journal.pone.0188214.
+eCollection 2017.
+
+Cellular hnRNP A2/B1 interacts with the NP of influenza A virus and impacts viral
+replication.
+
+Chang CK(1), Chen CJ(2)(3), Wu CC(1)(4)(5), Chen SW(2), Shih SR(1)(4)(6)(7), Kuo 
+RL(1)(4)(6)(8).
+
+Author information: 
+(1)Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung
+University, Taoyuan, Taiwan.
+(2)Department of Medical Laboratory Science and Biotechnology, China Medical
+University, Taichung, Taiwan.
+(3)Research Center for Emerging Viruses, China Medical University Hospital,
+Taichung, Taiwan.
+(4)Department of Medical Biotechnology and Laboratory Science, College of
+Medicine, Chang Gung University, Taoyuan, Taiwan.
+(5)Department of Otolaryngology-Head & Neck Surgery, Chang Gung Memorial
+Hospital, Linkou, Taoyuan, Taiwan.
+(6)Research Center for Emerging Viral Infections, College of Medicine, Chang Gung
+University, Taoyuan, Taiwan.
+(7)Clinical Virology Laboratory, Chang Gung Memorial Hospital, Linkou, Taoyuan,
+Taiwan.
+(8)Department of Pediatrics, Chang Gung Memorial Hospital, Linkou, Taoyuan,
+Taiwan.
+
+The viral ribonucleoprotein (vRNP) of influenza A virus is formed by virion RNA
+(vRNA), viral polymerase complex, and nucleoprotein (NP). The NP plays an
+important role in facilitating the replication and stabilization of viral RNA. To
+explore host factors that may be involved in the regulation of viral replication 
+through interactions with NP, we conducted an immunoprecipitation experiment
+followed by mass spectrometry to identify NP-associated cellular proteins. Here, 
+we demonstrate that NP can interact and colocalize with heterogeneous nuclear
+ribonucleoprotein (hnRNP) A2/B1 in mammalian cells and that the interaction may
+occur via direct binding to the glycine-rich domain (GRD) of hnRNP A2/B1. In
+addition, two residues in the tail loop of NP, F412 and R422, are required for
+the interaction of hnRNP A2/B1. Because the knockdown of hnRNP A2/B1 expression
+reduces viral RNP activity, hnRNP A2/B1 may act as a positive regulator in viral 
+RNA synthesis of influenza A virus. More importantly, the findings in this
+research demonstrate that host proteins can regulate the replication of influenza
+A virus by interacting with NP.
+
+DOI: 10.1371/journal.pone.0188214 
+PMCID: PMC5690641
+PMID: 29145464  [Indexed for MEDLINE]

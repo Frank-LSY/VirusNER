@@ -1,0 +1,34 @@
+
+
+1362. Proteomics. 2013 May;13(10-11):1608-23. doi: 10.1002/pmic.201200533.
+
+Tumor-derived exosomes and microvesicles in head and neck cancer: implications
+for tumor biology and biomarker discovery.
+
+Principe S(1), Hui AB, Bruce J, Sinha A, Liu FF, Kislinger T.
+
+Author information: 
+(1)Ontario Cancer Institute, University Health Network, Toronto, Ontario, Canada.
+
+Exosomes and microvesicles (MVs) are nanometer-sized, membranous vesicles
+secreted from many cell types into their surrounding extracellular space and into
+body fluids. These two classes of extracellular vesicles are regarded as a novel 
+mechanism through which cancer cells, including virally infected cancer cells,
+regulate their micro-environment via the horizontal transfer of bioactive
+molecules: proteins, lipids, and nucleic acids (DNA, mRNA, micro-RNAs; oncogenic 
+cargo hence often referred to as oncosomes). In head and neck cancer (HNC),
+exosomes and MVs have been described in Epstein Barr Virus (EBV)-associated
+nasopharyngeal cancer (NPC), as well as being positively correlated with oral
+squamous cell carcinoma (OSCC) progression. It has therefore been suggested that 
+HNC-derived vesicles could represent a useful source for biomarker discovery,
+enriched in tumor antigens and cargo; hence fundamentally important for cancer
+progression. This current review offers an overall perspective on the roles of
+exosomes and MVs in HNC biology, focusing on EBV-associated NPC and OSCC. We also
+highlight the importance of saliva as a proximal and easily accessible bio-fluid 
+for HNC detection, and propose that salivary vesicles might serve as an
+alternative model in the discovery of novel HNC biomarkers.
+
+© 2013 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/pmic.201200533 
+PMID: 23505015  [Indexed for MEDLINE]

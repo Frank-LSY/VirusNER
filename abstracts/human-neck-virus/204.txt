@@ -1,0 +1,42 @@
+
+
+204. Cir Cir. 2010 May-Jun;78(3):221-8.
+
+Human papilloma virus in patients with epidermoid head and neck carcinoma: a
+prognostic factor?
+
+[Article in English, Spanish]
+
+Flores-de la Torre C(1), Hernández-Hernández DM, Gallegos-Hernández JF.
+
+Author information: 
+(1)Departamento de Oncología Médica, Hospital de Oncología, Centro Médico
+Nacional Siglo XXI, Instituto Mexicano del Seguro Social, México, D. F., Mexico.
+
+BACKGROUND: The three most important prognostic factors in patients with head and
+neck squamous cell carcinoma (HNSCC) are tumor size, nodular histological
+condition and tumor origin. Recently, human papilloma virus (HPV), particularly
+HPV-16, has been acknowledged as a prognostic factor. HPV+ patients have better
+survival than HPV-. This has created a controversy because other factors may
+influence the prognosis. The objective of this study was to investigate whether
+HPV has prognostic value in patients with HNSCC.
+METHODS: We carried out a retrospective evaluation of patients with HNSCC and the
+following variables were analyzed: survival, tumor location, stage, general
+condition according to Eastern Cooperative Oncology Group (ECOG) status,
+treatment and HPV association identified by PCR. We used a descriptive analysis
+of simple frequencies and central tendency and dispersion measures according to
+the type of variables. We used descriptive analysis for overall survival with
+Kaplan- Meier and Cox regression with 95% confidence interval.
+RESULTS: There were 179 patients included: 119 (66.5%) were male. Average age of 
+patients was 64 years; 34% of the tumors were located in the oral cavity and 33% 
+were located in the larynx. Factors associated with survival were ECOG (RR =
+11.3; 2.6-48), clinical stage (RR = 7.8; 1.7-34), age >70 years (RR = 3.5,
+1.4-8.5) and nonsurgical treatment (RR = 2.3; 1.4-3.8). Average overall survival 
+for patients with HPV16 was 22 months vs. 28 months in those with other types of 
+viruses. HPV infection was not associated with the prognosis in this series.
+CONCLUSIONS: ECOG at the time of the diagnosis and clinical stage were the most
+significant prognostic factors in this series. HPV did not show any prognostic
+value.
+
+
+PMID: 20642905  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+1633. Ann Otol Rhinol Laryngol. 2015 May;124(5):400-6. doi: 10.1177/0003489414560434.
+Epub 2014 Nov 25.
+
+HPV Status Determines the Efficacy of Adjuvant Chemotherapy With S-1, an Oral
+Fluorouracil Prodrug, in Oropharyngeal Cancer.
+
+Wakisaka N(1), Yoshida S(1), Kondo S(1), Kita M(1), Endo K(1), Tsuji A(1), Murono
+S(1), Muramatsu M(2), Yoshizaki T(3).
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, Kanazawa, Japan.
+(2)Division of Molecular Genetics, Graduate School of Medical Science, Kanazawa
+University, Kanazawa, Japan.
+(3)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, Kanazawa, Japan tomoy@med.kanazawa-u.ac.jp.
+
+OBJECTIVES: A subgroup of oropharyngeal squamous cell carcinoma (OPC) is infected
+with high-risk human papillomavirus (HPV). The object of this study is to
+evaluate the efficacy of adjuvant chemotherapy with S-1, an oral 5-fluorouracil
+prodrug, on survival of patients with OPC according to HPV status.
+METHODS: Among OPC patients of stage III or IV who received definitive treatment 
+from 1998 to 2008, 38 who were confirmed tumor-free after primary treatment were 
+analyzed. Before 2003, none of the patients received S-1 adjuvant chemotherapy
+(S-1(-)-group); however, all patients who were eligible were administered S-1
+(S-1(+)-group) after 2003. The expression of thymidylate synthase (TYMS) involved
+in 5-FU metabolism was also examined in protein and mRNA levels.
+RESULTS: Although there was a trend to disease-free and overall survival benefit 
+in HPV-negative patients with S-1, it did not achieve statistical significance
+(P=.082 and P=.065, respectively). For the HPV-positive patients, the survivals
+were similar with or without S-1 administration. TYMS-expression in HPV-positive 
+OPC tissues was significantly higher than in HPV-negative ones in both protein
+and mRNA levels (P=.0489 and P=.0446, respectively).
+CONCLUSION: The current study provides a rationale to plan a randomized trial to 
+compare the efficacy of S-1 according to the HPV status in OPCs.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/0003489414560434 
+PMID: 25423960  [Indexed for MEDLINE]

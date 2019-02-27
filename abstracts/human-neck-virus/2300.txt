@@ -1,0 +1,37 @@
+
+
+2300. Oral Oncol. 2014 Nov;50(11):1035-40. doi: 10.1016/j.oraloncology.2014.08.013.
+Epub 2014 Sep 13.
+
+Use of next generation sequencing in head and neck squamous cell carcinomas: a
+review.
+
+Tabatabaeifar S(1), Kruse TA(2), Thomassen M(2), Larsen MJ(2), Sørensen JA(3).
+
+Author information: 
+(1)Department of Plastic Surgery, Odense University Hospital, Odense, Denmark;
+Department of Clinical Genetics, Odense University Hospital, Odense, Denmark;
+University of Southern Denmark, Institute of Clinical Research, Odense, Denmark.
+(2)Department of Clinical Genetics, Odense University Hospital, Odense, Denmark; 
+University of Southern Denmark, Institute of Clinical Research, Odense, Denmark.
+(3)Department of Plastic Surgery, Odense University Hospital, Odense, Denmark;
+University of Southern Denmark, Institute of Clinical Research, Odense, Denmark. 
+Electronic address: jens.ahm@dadlnet.dk.
+
+Head and neck squamous cell carcinoma (HNSCC) can primarily be attributed to
+alcohol consumption, tobacco use and infection with human papilloma virus. The
+heterogeneous nature of HNSCC has exposed a lack of tools for clinicians to
+provide more accurate prognosis. There is a need for biomarkers that can
+characterise the diversity of the cancer, and perhaps in the future, some of
+these biomarkers can point to targets for use in targeted and personalised
+medicine. The introduction of next generation sequencing (NGS) has allowed
+researches to sequence thousands of genes at a time through fast and relatively
+inexpensive whole exome and genome sequencing. The challenge with these enormous 
+amounts of data is to extract relevant clinical information. In this review, we
+systematically evaluate all the published literature on the use of NGS of genomic
+DNA in HNSCC.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.08.013 
+PMID: 25223596  [Indexed for MEDLINE]

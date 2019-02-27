@@ -1,0 +1,45 @@
+
+
+799. PLoS Pathog. 2012;8(12):e1003056. doi: 10.1371/journal.ppat.1003056. Epub 2012
+Dec 6.
+
+Three-dimensional architecture and biogenesis of membrane structures associated
+with hepatitis C virus replication.
+
+Romero-Brey I(1), Merz A, Chiramel A, Lee JY, Chlanda P, Haselman U,
+Santarella-Mellwig R, Habermann A, Hoppe S, Kallis S, Walther P, Antony C,
+Krijnse-Locker J, Bartenschlager R.
+
+Author information: 
+(1)Department of Infectious Diseases, Molecular Virology, University of
+Heidelberg, Heidelberg, Germany.
+
+All positive strand RNA viruses are known to replicate their genomes in close
+association with intracellular membranes. In case of the hepatitis C virus (HCV),
+a member of the family Flaviviridae, infected cells contain accumulations of
+vesicles forming a membranous web (MW) that is thought to be the site of viral
+RNA replication. However, little is known about the biogenesis and
+three-dimensional structure of the MW. In this study we used a combination of
+immunofluorescence- and electron microscopy (EM)-based methods to analyze the
+membranous structures induced by HCV in infected cells. We found that the MW is
+derived primarily from the endoplasmic reticulum (ER) and contains markers of
+rough ER as well as markers of early and late endosomes, COP vesicles,
+mitochondria and lipid droplets (LDs). The main constituents of the MW are single
+and double membrane vesicles (DMVs). The latter predominate and the kinetic of
+their appearance correlates with kinetics of viral RNA replication. DMVs are
+induced primarily by NS5A whereas NS4B induces single membrane vesicles arguing
+that MW formation requires the concerted action of several HCV replicase
+proteins. Three-dimensional reconstructions identify DMVs as protrusions from the
+ER membrane into the cytosol, frequently connected to the ER membrane via a
+neck-like structure. In addition, late in infection multi-membrane vesicles
+become evident, presumably as a result of a stress-induced reaction. Thus, the
+morphology of the membranous rearrangements induced in HCV-infected cells
+resemble those of the unrelated picorna-, corona- and arteriviruses, but are
+clearly distinct from those of the closely related flaviviruses. These results
+reveal unexpected similarities between HCV and distantly related positive-strand 
+RNA viruses presumably reflecting similarities in cellular pathways exploited by 
+these viruses to establish their membranous replication factories.
+
+DOI: 10.1371/journal.ppat.1003056 
+PMCID: PMC3516559
+PMID: 23236278  [Indexed for MEDLINE]

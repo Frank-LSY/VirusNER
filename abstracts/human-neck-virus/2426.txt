@@ -1,0 +1,38 @@
+
+
+2426. Int J Cancer. 2015 Jun 15;136(12):2940-8. doi: 10.1002/ijc.29344. Epub 2014 Nov
+26.
+
+A comprehensively characterized large panel of head and neck cancer
+patient-derived xenografts identifies the mTOR inhibitor everolimus as potential 
+new treatment option.
+
+Klinghammer K(1), Raguse JD, Plath T, Albers AE, Joehrens K, Zakarneh A,
+Brzezicha B, Wulf-Goldenberg A, Keilholz U, Hoffmann J, Fichtner I.
+
+Author information: 
+(1)Department of Hematology and Oncology, Charité University Medicine, Berlin,
+Germany; Department of Experimental Pharmacology, Max Delbrueck Center, Berlin,
+Germany.
+
+Patient-derived xenograft (PDX) models have shown to reflect original patient
+tumors better than any other preclinical model. We embarked in a study
+establishing a large panel of head and neck squamous cell carcinomas PDX for
+biomarker analysis and evaluation of established and novel compounds. Out of 115 
+transplanted specimens 52 models were established of which 29 were characterized 
+for response to docetaxel, cetuximab, methotrexate, carboplatin, 5-fluorouracil
+and everolimus. Further, tumors were subjected to sequencing analysis and gene
+expression profiling of selected mTOR pathway members. Most frequent response was
+observed for docetaxel and cetuximab. Responses to carboplatin, 5-fluorouracil
+and methotrexate were moderate. Everolimus revealed activity in the majority of
+PDX. Mutational profiling and gene expression analysis did not reveal a
+predictive biomarker for everolimus even though by trend RPS6KB1 mRNA expression 
+was associated with response. In conclusion we demonstrate a comprehensively
+characterized panel of head and neck cancer PDX models, which represent a
+valuable and renewable tissue resource for evaluation of novel compounds and
+associated biomarkers.
+
+© 2014 UICC.
+
+DOI: 10.1002/ijc.29344 
+PMID: 25404014  [Indexed for MEDLINE]

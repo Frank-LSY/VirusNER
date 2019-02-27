@@ -1,0 +1,30 @@
+
+
+281. Biochemistry. 2013 Oct 15;52(41):7207-16. doi: 10.1021/bi400897g. Epub 2013 Sep
+30.
+
+Human papillomavirus G-quadruplexes.
+
+Tlučková K(1), Marušič M, Tóthová P, Bauer L, Šket P, Plavec J, Viglasky V.
+
+Author information: 
+(1)Department of Biochemistry, Institute of Chemistry, Faculty of Sciences, P. J.
+Safarik University , 04001 Kosice, Slovakia.
+
+Infection with human papillomaviruses (HPVs) is one of the most common sexually
+transmitted infections and can lead to development of head and neck, skin, and
+anogenital cancer, including cervical cancer, which represents one of the world's
+most significant health problems. In this study, we analyze G-rich regions in all
+known HPV genomes in order to evaluate their potential to fold into G-quadruplex 
+structure. Interestingly, G-rich loci fulfilling the criteria for G-quadruplex
+formation were found in only 8 types of HPV. Nevertheless, viral G-quadruplexes
+in 7 sequences derived directly from HPVs are confirmed here for the first time. 
+G-rich regions with the capacity to form G-quadruplexes are located in the LCR,
+L2, E1, and E4 regions of the HPV genome; therefore we assume that regulation
+processes in viruses could be affected by G-quadruplex formation. Our results
+represent a starting point for the design of specific ligands with viral
+G-quadruplex motifs and suggest novel methods for the control of viral
+replication and transcription.
+
+DOI: 10.1021/bi400897g 
+PMID: 24044463  [Indexed for MEDLINE]

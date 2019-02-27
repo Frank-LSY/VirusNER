@@ -1,0 +1,54 @@
+
+
+1127. Cancer Epidemiol. 2016 Oct;44:91-95. doi: 10.1016/j.canep.2016.07.004. Epub 2016 
+Aug 9.
+
+Racial disparities in incidence of human papillomavirus-associated oropharyngeal 
+cancer in an urban population.
+
+Ramer I(1), Varier I(2), Zhang D(3), Demicco EG(4), Posner MR(5), Misiukiewicz
+K(5), Genden EM(5), Miles BA(5), Teng MS(5), Sikora AG(6).
+
+Author information: 
+(1)Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+York, NY, USA.
+(2)Department of Otolaryngology-Head and Neck Surgery, Icahn School of Medicine
+at Mount Sinai, New York, NY, USA; Department of Otolaryngology-Head and Neck
+Surgery, Baylor college of Medicine, Houston, TX, USA.
+(3)Department of Molecular Pathology, Icahn School of Medicine at Mount Sinai,
+New York, NY, USA.
+(4)Department of Pathology, Icahn School of Medicine at Mount Sinai, New York,
+NY, USA.
+(5)Department of Otolaryngology-Head and Neck Surgery, Icahn School of Medicine
+at Mount Sinai, New York, NY, USA.
+(6)Department of Otolaryngology-Head and Neck Surgery, Icahn School of Medicine
+at Mount Sinai, New York, NY, USA; Department of Otolaryngology-Head and Neck
+Surgery, Baylor college of Medicine, Houston, TX, USA. Electronic address:
+andrew.sikora@bcm.edu.
+
+BACKGROUND: Recent studies suggest that rates of human papillomavirus related
+oropharyngeal cancer (HPVOPC) in the US are higher in Caucasians than minorities.
+We hypothesized that this disparity would be less marked in a racially and
+ethnically diverse population from New York City.
+METHODS: This is a retrospective chart review of 210 patients with biopsied or
+surgically treated OPC at the Icahn School of Medicine at Mount Sinai (ISMMS)
+between 1999 and 2013. Polymerase chain reaction (PCR) was used to detect the
+presence of HPV-DNA in paraffin-embedded tumor blocks. Incidence of HPV-positive 
+cancers was compared between Caucasians and minorities (defined as African
+Americans, Asians, and Hispanics) using Fisher's exact test.
+RESULTS: We found a higher incidence of HPV-positive OPC in Caucasians than
+racial minorities within the ISMMS population (p=0.002). HPV incidence detected
+by PCR was 139/165 [84.2%] for Caucasians and 28/45 [62.2%] for minorities.
+Specifically, there was a higher rate in Caucasians compared to African Americans
+(p=0.017), but no significant difference between Caucasians and Hispanics
+(p=0.087).
+CONCLUSION: We documented a disparity in incidence of HPVOPC amongst racial
+groups, consistent with previously reported trends from study populations in less
+urbanized areas. Thus we conclude that the factors underlying racial/ethnic
+disparities in HPVOPC incidence are likely to be similar across communities with 
+different levels of urbanization and population diversity.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.canep.2016.07.004 
+PMID: 27518158  [Indexed for MEDLINE]

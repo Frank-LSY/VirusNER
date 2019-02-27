@@ -1,0 +1,44 @@
+
+
+1525. Curr Opin Virol. 2015 Oct;14:1-6. doi: 10.1016/j.coviro.2015.05.004. Epub 2015
+Jun 6.
+
+Genetic polymorphisms and HPV infection in oral squamous cell carcinomas.
+
+Sun Y(1), Zhang Y(2), Liu L(3), Song X(4), Li G(5).
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, Yuhuangding
+Hospital of Qingdao University, Yantai, China.
+(2)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren Hospital, 
+Capital Medical University, Key Laboratory of Otolaryngology Head and Neck
+Surgery, Ministry of Education, Beijing Institute of Otolaryngology, Beijing
+100730, China.
+(3)Department of Ophthalmology, Yuhuangding Hospital of Qingdao University,
+Yantai 264000, China.
+(4)Department of Otorhinolaryngology and Head and Neck Surgery, Yuhuangding
+Hospital of Qingdao University, Yantai, China. Electronic address:
+Songxicheng@126.com.
+(5)Department of Head and Neck Surgery, The University of Texas M. D. Anderson
+Cancer Center, Houston, TX 77030, USA; Department of Epidemiology, The University
+of Texas M. D. Anderson Cancer Center, Houston, TX 77030, USA. Electronic
+address: gli@mdanderson.org.
+
+Despite declining smoking rates in the United States, the incidence of oral
+squamous cell carcinomas (OSCC, including oral cavity and oropharynx) is rising
+in young adults. The reasons have been attributed to changes in sexual behaviors 
+and the increasingly prevalent infection of oncogenic subtypes of human
+papillomavirus (HPV), principally type16 and occasionally type18. However, only
+small proportion of individuals who have contracted HPV infection will develop
+OSCC, suggesting that there is an inter-individual variation in susceptibility to
+HPV infection and related OSCC. Identification of susceptible biomarkers for HPV 
+status would be useful to identify those individuals who are susceptible to HPV
+infection, to refine the prognostication of HPV associated OSCC, and ultimately
+to improve prevention efforts for OSCC and potentially other HPV-associated
+diseases. Our public health OSCC prevention paradigm will need to expand beyond
+tobacco and alcohol control.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2015.05.004 
+PMID: 26057719  [Indexed for MEDLINE]

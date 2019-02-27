@@ -1,0 +1,34 @@
+
+
+1773. Head Neck. 2012 Nov;34(11):1640-7. doi: 10.1002/hed.21981. Epub 2012 Jan 20.
+
+Volumetric change of human papillomavirus-related neck lymph nodes before,
+during, and shortly after intensity-modulated radiation therapy.
+
+Sanguineti G(1), Ricchetti F, Wu B, Agrawal N, Gourin C, Agbahiwe H, Marur S,
+Clemente S, McNutt T, Forastiere A.
+
+Author information: 
+(1)Department of Radiation Oncology and Molecular Radiation Sciences, Johns
+Hopkins University, Baltimore, MD, USA. gsangui1@jhmi.edu
+
+BACKGROUND: To assess volumetric changes of human papillomavirus (HPV)-related
+lymph nodes (LN) before, during, and after a course of intensity-modulated
+radiation therapy (IMRT) ± chemotherapy.
+METHODS: Each "pathologic" LN (≥1 cm) was contoured on the available
+diagnostic/planning CTs before, during each week, and after treatment.
+RESULTS: Seventy-nine LNs in 50 patients were identified. Beyond the first week
+of treatment, 3 patterns of LN change were recorded: consistently shrinking LN (n
+= 33; 41.8%), inconsistently shrinking LN with temporary enlargement limited to
+the first week (n = 14; 17.7%), or also during the subsequent weeks (n = 32;
+40.5%). Nodal density at planning is highly predictive of group assignment, with 
+a larger mean density for consistently over inconsistently shrinking LNs (p =
+.009). Also, this grouping predicts the response at the end of treatment.
+CONCLUSION: HPV-related LN behavior during IMRT is extremely variable but
+somewhat predictable on the basis of nodal density at planning.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21981 
+PMCID: PMC3715074
+PMID: 22267196  [Indexed for MEDLINE]

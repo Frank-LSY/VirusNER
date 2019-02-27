@@ -1,0 +1,46 @@
+
+
+3089. J Pediatr Gastroenterol Nutr. 2015 Jul;61(1):47-51. doi:
+10.1097/MPG.0000000000000730.
+
+Survey of Immunization Practices in Patients With Inflammatory Bowel Disease
+Among Pediatric Gastroenterologists.
+
+Lester R(1), Lu Y, Tung J.
+
+Author information: 
+(1)*Mayo Medical School, Mayo Clinic, Rochester, MN. †Division of Pediatric
+Gastroenterology, Cohen Children's Medical Center of New York, Hofstra North
+Shore-Long Island Jewish School of Medicine, Great Neck, NY ‡Division of
+Pediatric Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN.
+
+OBJECTIVES: We aimed to determine vaccination practices of pediatric
+gastroenterologists, as well as barriers to following immunization guidelines in 
+patients with inflammatory bowel disease.
+METHODS: Institutions listed in the North American Society for Pediatric
+Gastroenterology, Hepatology, and Nutrition clinical research registry and/or
+ImproveCareNow were contacted. A total of 657 physicians from 129 institutions
+were asked to complete a 16-question electronic survey.
+RESULTS: A total of 178 physicians (27.1%) responded, of whom 55% were male and
+83.1% practiced in an academic setting. A total of 11 physicians (6.2%) do not
+routinely assess vaccination status, whereas 63.5% assess at the time of
+diagnosis, 29.8% at "well" visits, and 44.4% before initiating immunosuppression.
+At diagnosis, 51.1% verbally inquire about immunization status, 30.9% obtain
+records, and 9.0% obtain serology.The influenza (78%), hepatitis B (84%), and
+varicella (82%) vaccines were most frequently assessed. Fewer than 55.5% of
+physicians reviewed other vaccines. Physicians using a reminder mechanism were
+more likely to review immunizations at established visits (41.1% vs 20.8%), and
+before transfer to an adult gastroenterologist (14.4% vs 2.6%). Lack of
+coordination of care with primary care practitioners (41%), poor access to
+immunization records (36%), and inability to offer vaccinations in their
+immediate area (55%) are barriers to vaccination. Only 28% believed that primary 
+care practitioners were solely responsible for immunizations.
+CONCLUSIONS: There is practice variation among pediatric gastroenterologists in
+assessment of immunizations in patients with inflammatory bowel disease,
+including the specific vaccines assessed, and timing and method of assessment.
+Inability to coordinate care, access immunization records, and offer vaccines
+through their medical practice are barriers to adhering to immunization
+guidelines.
+
+DOI: 10.1097/MPG.0000000000000730 
+PMID: 25611033  [Indexed for MEDLINE]

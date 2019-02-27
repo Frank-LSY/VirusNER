@@ -1,0 +1,39 @@
+
+
+1999. Head Neck. 2017 Nov;39(11):2293-2300. doi: 10.1002/hed.24897. Epub 2017 Aug 17.
+
+Prognostic significance of E-cadherin and β-catenin expression in HPV-negative
+oropharyngeal squamous cell carcinomas.
+
+García-Pedrero JM(1), García-Cabo P(1), Ángeles Villaronga M(1), Hermida-Prado
+F(1), Granda-Díaz R(1), Allonca E(1), Rodrigo JP(1).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Hospital Universitario
+Central de Asturias, Instituto Universitario de Oncología del Principado de
+Asturias, University of Oviedo, Centro de Investigación Biomédica en Red de
+Cancer, Oviedo, Asturias, Spain.
+
+BACKGROUND: The purpose of this work was to investigate the prognostic
+significance of E-cadherin and β-catenin expression in surgically treated human
+papillomavirus (HPV)-negative patients with oropharyngeal squamous cell carcinoma
+(SCC).
+METHODS: Consecutive patients with oropharyngeal SCC who underwent surgical
+treatment between 1990 and 2009 were retrospectively collected.
+Immunohistochemical analysis of E-cadherin and β-catenin expression was performed
+on tissue microarrays.
+RESULTS: E-cadherin and β-catenin expression was evaluable in 232 cases. Low
+membranous E-cadherin, low membranous β-catenin expression, and nuclear β-catenin
+expression were associated with a poorer disease-specific and overall survival,
+although the differences were only significant for β-catenin membranous
+expression (P = .024 and P = .016, respectively). In multivariate analysis, nodal
+metastasis and low membranous β-catenin expression were significant independent
+predictors of reduced disease-specific and overall survival.
+CONCLUSION: Low membranous β-catenin expression is a significant independent
+predictor of both reduced disease-specific and overall survival in patients with 
+HPV-negative oropharyngeal SCC.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24897 
+PMID: 28815780  [Indexed for MEDLINE]

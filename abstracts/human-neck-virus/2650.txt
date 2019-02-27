@@ -1,0 +1,27 @@
+
+
+2650. Ultrastruct Pathol. 2017 Jan-Feb;41(1):55-61. doi: 10.1080/01913123.2016.1258020.
+Epub 2016 Dec 6.
+
+Does pTis exist in HPV-driven tonsillar carcinomas? An ultrastructural review and
+examination of two cases.
+
+Black CC(1), Ogomo C(2).
+
+Author information: 
+(1)a Department of Pathology , Dartmouth Hitchcock Medical Center , Lebanon , NH 
+, USA.
+(2)b Electron Microscopy, Dartmouth College , Hanover , NH , USA.
+
+Many tonsillar tumors present clinically as cervical nodal metastases and the
+primary tumor is often difficult to find. HPV-driven tonsillar carcinoma begins
+in the reticulated crypt epithelium, possibly through viral integration. The
+basement membrane is not complete in the reticulated crypt epithelium, which may 
+enhance the immune function. We examined the reticulated crypt epithelium in a
+normal case and five neoplastic tonsils with cervical metastasis as the
+presenting symptom to further investigate whether tonsil carcinoma in-situ
+exists. Our results suggest that in-situ carcinoma may need to be excluded from
+the future staging for human papilloma virus associated tonsillar tumors.
+
+DOI: 10.1080/01913123.2016.1258020 
+PMID: 27922337  [Indexed for MEDLINE]

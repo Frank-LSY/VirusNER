@@ -1,0 +1,81 @@
+
+
+976. Zhongguo Xiu Fu Chong Jian Wai Ke Za Zhi. 2017 Sep 1;31(9):1111-1118. doi:
+10.7507/1002-1892.201704094.
+
+[Construction of injectable tissue engineered adipose tissue with fibrin glue
+scaffold and human adipose-derived stem cells transfected by lentivirus vector
+expressing hepatocyte growth factor].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zhu Y(1), Yi Y(2), Yang S(1), Zhang J(1), Wu S(1), Wang Z(1).
+
+Author information: 
+(1)Department of Plastic Surgery, Second Affiliated Hospital of Nanchang
+University, Nanchang Jiangxi, 330006, P.R.China.
+(2)Department of Plastic Surgery, Second Affiliated Hospital of Nanchang
+University, Nanchang Jiangxi, 330006, P.R.China.yyy0218@126.com.
+
+Objective: To discuss the possibility of constructing injectable tissue
+engineered adipose tissue, and to provide a new approach for repairing soft
+tissue defects.
+Methods: Human adipose-derived stem cells (hADSCs) were extracted from the lipid 
+part of human liposuction aspirate by enzymatic digestion and identified by
+morphological observation, flow cytometry, and adipogenic induction. The hADSCs
+underwent transfection by lentivirus vector expressing hepatocyte growth factor
+and green fluorescent protein (HGF-GFP-LVs) of different multiplicity of
+infection (MOI, 10, 30, 50, and 100), the transfection efficiency was calculated 
+to determine the optimum MOI. The hADSCs transfected by HGF-GFP-LVs of optimal
+MOI and being adipogenic inducted were combined with injectable fibrin glue
+scaffold, and were injected subcutaneously into the right side of the low back of
+10 T-cell deficiency BALB/c female nude mice (transfected group); non-HGF-GFP-LVs
+transfected hADSCs (being adipogenic inducted) combined with injectable fibrin
+glue scaffold were injected subcutaneously into the left side of the low back
+(untransfected group); and injectable fibrin glue scaffold were injected
+subcutaneously into the middle part of the neck (blank control group); 0.4 mL at 
+each point. Twelve weeks later the mice were killed and the implants were taken
+out. Gross observation, wet weight measurement, HE staining, GFP fluorescence
+labeling, and immunofluorescence staining were performed to assess the in vivo
+adipogenic ability of the seed cells and the neovascularization of the grafts.
+Results: The cultured cells were identified as hADSCs. Poor transfection
+efficiency was observed in MOI of 10 and 30, the transfection efficiency of MOI
+of 50 and 100 was more than 80%, so the optimum MOI was 50. Adipose tissue-like
+new-born tissues were found in the injection sites of the transfected and
+untransfected groups after 12 weeks of injection, and no new-born tissues was
+found in the blank control group. The wet-weight of new-born tissue in the
+transfected group [(32.30±4.06) mg] was significantly heavier than that of the
+untransfected group [(25.27±3.94) mg] ( t=3.929, P=0.001). The mature adipose
+cells in the transfected group [(126.93±5.36) cells/field] were significantly
+more than that in the untransfected group [(71.36±4.52) cells/field] ( t=30.700, 
+P=0.000). Under fluorescence microscopy, some of the single cell adipocytes
+showed a network of green fluorescence, indicating the presence of GFP labeled
+exogenous hADSCs in the tissue. The vascular density of new-born tissue of the
+transfected group [(16.37±2.76)/field] was significantly higher than that of the 
+untransfected group [(9.13±1.68)/field] ( t=8.678, P=0.000).
+Conclusion: The hADSCs extracted from the lipid part after liposuction can be
+used as seed cells. After HGF-GFP-LVs transfection and adipose induction, the
+hADSCs combined with injectable fibrin glue scaffold can construct mature adipose
+tissue in vivo, which may stimulate angiogenesis, and improve retention rate of
+new-born tissue.
+
+Publisher:
+探讨构建可注射型组织工程脂肪的可行性，为临床软组织缺损修复及美容填充提供简便易行的方法。.取脂肪抽吸术获取的脂肪组织，采用酶消化法分离培养获得人脂肪来源干细胞（h
+uman adipose-derived stem
+cells，hADSCs），进行细胞形态观察、流式细胞术及成脂诱导鉴定。用携带肝细胞生长因子（hepatocyte growth
+factor，HGF）和绿色荧光蛋白（green fluorescent protein，GFP）的慢病毒
+HGF-GFP-LVs，以不同感染复数（multiplicity of infection，MOI）（分别为 10、30、50、100）转染
+hADSCs，计算转染效率以确定最适 MOI。取 SPF 级 6 周龄单纯 T 细胞缺陷 BALB/c 雌性裸鼠 10 只，将经过最适 MOI
+HGF-GFP-LVs 转染并成脂诱导的 hADSCs 与纤维蛋白胶混合注入裸鼠背部右侧皮下（转染组），单纯成脂诱导的 hADSCs
+与纤维蛋白胶混合注入背部左侧皮下（未转染组），单纯纤维蛋白胶注入颈后正中皮下（空白对照组），每点注射 0.4 mL。移植后 12
+周处死裸鼠，取出移植物，行大体观察、湿重测量、HE 染色、GFP
+荧光标记检测及免疫荧光染色观察，评价种子细胞的体内成脂能力以及移植物血管新生情况。.经鉴定所培养细胞为 hADSCs。MOI 为10 和 30 时
+HGF-GFP-LVs 转染率较低，MOI 为50 和 100 时转染率较高（均>80%），确定最适 MOI 为 50。移植 12
+周，转染组和未转染组均获得外观类似脂肪组织的新生物，湿重分别为（32.30±4.06）mg 和（25.27±3.94）mg，差异有统计学意义（ t=3.929， 
+P=0.001）；空白对照组未见新生物。转染组新生脂肪细胞数为（126.93±5.36）个/视野，显著高于未转染组的（71.36±4.52）个/视野（
+t=30.700，
+P=0.000）。荧光显微镜下可见部分单房脂肪细胞发出网状绿色荧光。免疫荧光染色示转染组血管密度为（16.37±2.76）个/视野，显著高于未转染组的（9.13±
+1.68）个/视野（ t=8.678， P=0.000）。.以 hADSCs 为种子细胞，经慢病毒转染 HGF
+基因并成脂诱导后与纤维蛋白胶支架复合可在体内成功构建成熟脂肪，能促进移植后的血管新生，从而提高移植物的存活率。.
+DOI: 10.7507/1002-1892.201704094 
+PMID: 29798571  [Indexed for MEDLINE]

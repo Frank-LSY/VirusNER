@@ -1,0 +1,50 @@
+
+
+1348. Jpn J Clin Oncol. 2015 Sep;45(9):828-36. doi: 10.1093/jjco/hyv085. Epub 2015 Jun 
+7.
+
+Prognostic value of p16 expression irrespective of human papillomavirus status in
+patients with oropharyngeal carcinoma.
+
+Saito Y(1), Yoshida M(2), Omura G(2), Kobayashi K(2), Fujimoto C(2), Ando M(2),
+Sakamoto T(2), Asakage T(2), Yamasoba T(2).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, University of Tokyo,
+Tokyo, Japan saitou-tky@umin.ac.jp.
+(2)Department of Otolaryngology, Head and Neck Surgery, University of Tokyo,
+Tokyo, Japan.
+
+OBJECTIVE: In a previous study, we reported the value of p16 expression and
+alcohol consumption in oropharyngeal carcinoma in Japan. We now report the
+clinical significance of human papillomavirus status and p16 expression in
+oropharyngeal carcinoma in Japan.
+METHODS: Over a 9-year period, a retrospective case comparison study of the
+pathology database was conducted at the University of Tokyo to identify tumor
+samples of oropharyngeal carcinoma. We performed immunohistochemistry for the p16
+protein, in situ hybridization for human papillomavirus-deoxyribonucleic acid and
+polymerase chain reaction for the human papillomavirus-deoxyribonucleic acid
+oncogene E6 in oropharyngeal carcinoma in Japanese patients. We evaluated the
+human papillomavirus status in patients with oropharyngeal carcinoma to determine
+its prevalence and association with prognosis. We defined human papillomavirus(+)
+and human papillomavirus(-) oropharyngeal carcinoma cohorts as those with and
+without polymerase chain reaction for the human papillomavirus-deoxyribonucleic
+acid oncogene E6 or in situ hybridization-human papillomavirus.
+RESULTS: In oropharyngeal carcinoma, the prevalences of p16(+)human
+papillomavirus(+), p16(+)human papillomavirus(-), p16(-)human papillomavirus(+)
+and p16(-)human papillomavirus(-) were 32% (48/150), 7% (10/150), 2% (3/150) and 
+59% (89/150), respectively. Low tobacco and alcohol consumption, tonsil or base
+of tongue localization, but not age, were associated with p16(+)human
+papillomavirus(+). Low alcohol consumption was associated with p16(+)human
+papillomavirus(-). There was a significant difference in overall survival between
+p16(+)human papillomavirus(-) and p16(-)human papillomavirus(-) (P = 0.03). In
+multivariate Cox regression models, p16 was the independent prognostic factor,
+regardless of human papillomavirus status.
+CONCLUSION: p16 expression was a reliable prognostic biomarker regardless of
+human papillomavirus status.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/jjco/hyv085 
+PMID: 26056326  [Indexed for MEDLINE]

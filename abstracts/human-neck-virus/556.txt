@@ -1,0 +1,57 @@
+
+
+556. Cell. 2016 May 5;165(4):867-81. doi: 10.1016/j.cell.2016.04.006. Epub 2016 Apr
+28.
+
+Fanconi Anemia Proteins Function in Mitophagy and Immunity.
+
+Sumpter R Jr(1), Sirasanagandla S(1), Fernández ÁF(2), Wei Y(3), Dong X(1),
+Franco L(1), Zou Z(3), Marchal C(4), Lee MY(1), Clapp DW(4), Hanenberg H(5),
+Levine B(6).
+
+Author information: 
+(1)Department of Internal Medicine, Center for Autophagy Research, University of 
+Texas Southwestern Medical Center, Dallas, TX 75390, USA.
+(2)Department of Internal Medicine, Center for Autophagy Research, University of 
+Texas Southwestern Medical Center, Dallas, TX 75390, USA; Departamento de
+Bioquímica y Biología Molecular, Instituto Universitario de Oncología,
+Universidad de Oviedo, Oviedo 33006, Spain.
+(3)Department of Internal Medicine, Center for Autophagy Research, University of 
+Texas Southwestern Medical Center, Dallas, TX 75390, USA; Howard Hughes Medical
+Institute, University of Texas Southwestern Medical Center, Dallas, TX 75390,
+USA.
+(4)Department of Pediatrics, Indiana University School of Medicine, Indianapolis,
+IN 46202, USA.
+(5)Department of Pediatrics III, University of Duisburg-Essen, Essen 45122,
+Germany; Department of Otorhinolaryngology and Head/Neck Surgery, Heinrich Heine 
+University, Düsseldorf 40225, Germany.
+(6)Department of Internal Medicine, Center for Autophagy Research, University of 
+Texas Southwestern Medical Center, Dallas, TX 75390, USA; Howard Hughes Medical
+Institute, University of Texas Southwestern Medical Center, Dallas, TX 75390,
+USA. Electronic address: beth.levine@utsouthwestern.edu.
+
+Comment in
+    Nat Rev Immunol. 2016 Jun;16(6):336-7.
+    Nat Rev Mol Cell Biol. 2016 Jun;17(6):330-1.
+
+Fanconi anemia (FA) pathway genes are important tumor suppressors whose
+best-characterized function is repair of damaged nuclear DNA. Here, we describe
+an essential role for FA genes in two forms of selective autophagy. Genetic
+deletion of Fancc blocks the autophagic clearance of viruses (virophagy) and
+increases susceptibility to lethal viral encephalitis. Fanconi anemia
+complementation group C (FANCC) protein interacts with Parkin, is required
+in vitro and in vivo for clearance of damaged mitochondria, and decreases
+mitochondrial reactive oxygen species (ROS) production and inflammasome
+activation. The mitophagy function of FANCC is genetically distinct from its role
+in genomic DNA damage repair. Moreover, additional genes in the FA pathway,
+including FANCA, FANCF, FANCL, FANCD2, BRCA1, and BRCA2, are required for
+mitophagy. Thus, members of the FA pathway represent a previously undescribed
+class of selective autophagy genes that function in immunity and organellar
+homeostasis. These findings have implications for understanding the pathogenesis 
+of FA and cancers associated with mutations in FA genes.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2016.04.006 
+PMCID: PMC4881391
+PMID: 27133164  [Indexed for MEDLINE]

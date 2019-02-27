@@ -1,0 +1,51 @@
+
+
+3166. J Clin Lab Anal. 2018 Sep;32(7):e22444. doi: 10.1002/jcla.22444. Epub 2018 Apr
+17.
+
+A Novel GJB2 compound heterozygous mutation c.257C>G (p.T86R)/c.176del16 (p.G59A 
+fs*18) causes sensorineural hearing loss in a Chinese family.
+
+Shi X(1)(2), Zhang Y(3), Qiu S(1), Zhuang W(4), Yuan N(1), Sun T(1), Gao J(5),
+Qiao Y(4), Liu K(2).
+
+Author information: 
+(1)The Institute of Audiology and Balance science of Xuzhou Medical University,
+Xuzhou, China.
+(2)Department of Otolaryngology-Head and Neck Surgery, Beijing Friendship
+Hospital, Capital Medical University, Beijing, China.
+(3)Department of Otolaryngology-Head and neck surgery, The first Hospital of
+JiLin University, Changchun, China.
+(4)Clinical Hearing Center of Affliated Hospital of Xuzhou Medical University,
+Xuzhou, China.
+(5)Jiangsu Key Laboratory of New Drug Research and Clinical Pharmacy, Xuzhou
+Medical University, Xuzhou, China.
+
+OBJECTIVE: To investigate whether a novel compound heterozygous mutations
+c.257C>G (p.T86R)/c.176del16 (p.G59A fs*18) in GJB2 result in hearing loss.
+METHODS: Allele-specific PCR-based universal array (ASPUA) screening and sequence
+analysis were applied to identify these mutations. 3D model was built to perform 
+molecular dynamics (MD) simulation to verify the susceptibility of the mutations.
+Furthermore, WT- and Mut-GJB2 DNA fragments, containing the mutation of c.257C>G 
+and c.176del16 were respectively cloned and transfected into HEK293 and spiral
+ganglion neuron cell (SGNs) by lenti-virus delivery system to indicate the
+subcellular localization of the WT- and Mut-CX26 protein.
+RESULTS: A novel compound heterozygous mutation c.257C>G (p.T86R)/c.176del16
+(p.G59A fs*18) in GJB2 was identified in a Chinese family, in which 4 siblings
+with profound hearing loss, but the fifth child is normal. By ASPUA screening and
+sequencing, a compound heterozygote mutations in GJB2 c.257C>G
+(p.T86R)/c.176del16 (p.G59A fs*18) were identified in these four deaf children,
+each of the mutated GJB2 gene were inherited from their parents. There is no
+mutation of GJB2 gene identified in the normal child. Besides, the compound
+heterozygous mutation GJB2 c.257C>G (p.T86R)/c.176del16 (p.G59A fs*18) could lead
+to the alterations of the subcellular localization of each corresponding mutated 
+CX26 protein and could cause the hearing loss, which has been predicted by MD
+simulation and verified in both 293T and SGNs cell line.
+CONCLUSION: The c.257C>G (p.T86R)/c.176del16 (p.G59A fs*18) compound mutations in
+GJB2 detected in this study are novel, and which may be associated with hearing
+loss in this Chinese family.
+
+© 2018 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcla.22444 
+PMID: 29665173  [Indexed for MEDLINE]

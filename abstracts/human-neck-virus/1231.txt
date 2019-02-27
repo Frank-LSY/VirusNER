@@ -1,0 +1,43 @@
+
+Conflict of interest statement: The authors declare that they have no conflict of
+interest. Informed consent Informed consent was obtained from all individual
+participants included in the study.
+
+
+1231. Acta Otolaryngol. 2010 Jun;130(6):739-46. doi: 10.3109/00016480903382790.
+
+Short-term endotracheal climate changes and clinical effects of a heat and
+moisture exchanger with an integrated electrostatic virus and bacterial filter
+developed for laryngectomized individuals.
+
+Scheenstra RJ(1), Muller SH, Vincent A, Ackerstaff AH, Jacobi I, Hilgers FJ.
+
+Author information: 
+(1)Department of Head and Neck Oncology and Surgery, The Netherlands Cancer
+Institute-Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands.
+
+CONCLUSION: Both the regularly used heat and moisture exchanger (R-HME) and the
+HME with both an antimicrobial and hygroscopic element (F-HME) are effective
+moisture exchangers. The antimicrobial filter of the F-HME acts as a heat
+exchanger. The external features of the F-HME were experienced as inconvenient,
+but decreased sputum production was reported as well.
+OBJECTIVES: Recently an HME with an integrated antimicrobial filter has become
+available for use in laryngectomized patients. The purpose of this study was to
+assess its short-term endotracheal climate changes and feasibility in daily
+practice.
+METHODS: Endotracheal temperature and humidity were successfully measured in 13
+laryngectomized patients (2652 analysed full breaths), during 10 min
+rest-breathing with the R-HME, with an F-HME and without HME in a randomized
+sequence. Additionally, a 3 week prospective clinical feasibility trial was
+conducted in 17 laryngectomized patients.
+RESULTS: Both R-HME and F-HME increase endotracheal minimum humidity values (5.8 
+and 4.7 mgH(2)O/L, respectively; p < 0.0001). Compared with open stoma breathing,
+in contrast to the R-HME, the F-HME increases both end-inspiratory and
+end-expiratory temperature values (1.1 degrees C, and 0.6 degrees C,
+respectively). After the 3-week clinical feasibility trial, one patient dropped
+out; 11 patients (11/16 = 69%) disliked the larger design of the F-HME and all
+patients reported less optimal airtight occlusion. Five patients (5/16 = 31%)
+reported remarkably decreased sputum production.
+
+DOI: 10.3109/00016480903382790 
+PMID: 20001445  [Indexed for MEDLINE]

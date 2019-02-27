@@ -1,0 +1,40 @@
+
+
+2251. Laryngoscope. 2009 Oct;119(10):1951-7. doi: 10.1002/lary.20593.
+
+Human papillomavirus reduces the prognostic value of nodal involvement in
+tonsillar squamous cell carcinomas.
+
+Straetmans JM(1), Olthof N, Mooren JJ, de Jong J, Speel EJ, Kremer B.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, GROW Institute,
+Maastricht University Medical Centre, Maastricht, The Netherlands.
+jos.straetmans@mumc.nl
+
+OBJECTIVES/HYPOTHESIS: Assessment of the prognostic value of nodal status in
+relation to human papillomavirus (HPV) status and the various treatment
+modalities in tonsillar squamous cell carcinomas (TSCC).
+STUDY DESIGN: Retrospective 5-year survival analysis.
+METHODS: A 5-year follow-up of disease-free, disease-specific, and overall
+survival in a group of 81 patients with TSCC was conducted. The nodal status and 
+integration of HPV-DNA in the genome (detected with fluorescence in situ
+hybridization) as prognostic indicators were examined while correcting for other 
+clinical parameters (smoking habits, alcohol consumption, treatment modality,
+differentiation, TNM classification).
+RESULTS: Of TSCCs, 41% were positive for HPV type 16. In these TSCCs, the primary
+tumor was significantly smaller when compared to HVP-negative TSCCs (P = .04),
+whereas the percentage of cases with cervical metastases was identical. In the
+total population, it was not nodal involvement, but rather HPV manifestation,
+which was related to patient prognosis. Within the treatment modalities (surgery 
+combined with radiotherapy and radiotherapy alone), neither nodal status nor HPV 
+were prognostic indicators.
+CONCLUSIONS: Since a substantial percentage of TSCCs are HPV-positive and
+metastasizes to cervical lymph nodes in less advanced primary tumors, the N
+status is an unreliable prognostic indicator in TSCCs. HPV is only prognostically
+relevant in the total tumor population, but loses its value within patient groups
+receiving a single treatment modality. The value of HPV for prognosis of patients
+with TSCC requires further study.
+
+DOI: 10.1002/lary.20593 
+PMID: 19650127  [Indexed for MEDLINE]

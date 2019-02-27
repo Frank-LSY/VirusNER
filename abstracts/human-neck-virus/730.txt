@@ -1,0 +1,47 @@
+
+
+730. J Med Virol. 2018 Feb;90(2):344-350. doi: 10.1002/jmv.24953. Epub 2017 Oct 20.
+
+Low viral load of Merkel cell polyomavirus in Iranian patients with head and neck
+squamous cell carcinoma: Is it clinically important?
+
+Mohebbi E(1), Noormohamadi Z(1), Sadeghi-Rad H(2), Sadeghi F(3), Yahyapour Y(4), 
+Vaziri F(5)(6), Rahimi A(6), Rahimi Jamnani F(5)(6), Mehrabi S(7), Siadat
+SD(5)(6), Noori-Daloii MR(2), Fateh A(5)(6).
+
+Author information: 
+(1)Department of Biology, Science, and Research Branch, Islamic Azad University, 
+Tehran, Iran.
+(2)Department of Medical Genetics, School of Medicine, Tehran University of
+Medical Sciences, Tehran, Iran.
+(3)Infectious Diseases and Tropical Medicine Research Center, Babol University of
+Medical Sciences, Babol, Iran.
+(4)Cellular and Molecular Biology Research Center, Health Research Institute,
+Babol University of Medical Sciences, Babol, Iran.
+(5)Department of Mycobacteriology and Pulmonary Research, Pasteur Institute of
+Iran, Tehran, Iran.
+(6)Microbiology Research Center (MRC), Pasteur Institute of Iran, Tehran, Iran.
+(7)Department of Medical Genetics, Tehran University of Medical Sciences, Imam
+Khomeini Hospital, Tehran, Iran.
+
+Recent studies show that the human Merkel cell polyomavirus (MCPyV) may be
+involved in causing cancer. The objective of this study was to assess the impact 
+of MCPyV on the development of head and neck squamous cell carcinoma (HNSCC). In 
+total, 50 paraffin-embedded HNSCC biopsy samples and 50 adjacent non-cancerous
+samples were evaluated for the presence of MCPyV DNA and RNA. Among patients, the
+five most frequent histopathologic sites were the tongue (22.0%), lip (16.0%),
+submandibular (14.0%), cheek (14.0%), and throat (14.0%). MCPyV DNA was positive 
+in eight (16.0%) samples. The median MCPyV LT-Ag copy number in the eight
+positive samples and in one non-cancerous sample was 4.8 × 10-3 and 2.6 × 10-5
+ copies/cell, respectively. Quantification of MCPyV LT-Ag revealed increased
+expression in stage III (5.6 × 10-3  copies/cell) than in the other stages. The
+MCPyV DNA load in different stages of HNSCC was also statistically significant
+(P = 0.027). The viral load was low, suggesting that only a fraction of cancerous
+cells is infected. This result provides evidence confirming the presence of MCPyV
+in a subset of Iranian patients with HNSCCs, but further studies needed to
+confirm our findings.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24953 
+PMID: 28960348  [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+
+
+31. J Med Microbiol. 2014 Dec;63(Pt 12):1724-31. doi: 10.1099/jmm.0.081992-0. Epub
+2014 Sep 26.
+
+Bioinformatics analysis and genetic diversity of the poliovirus.
+
+Liu Y(1), Ma T(1), Liu J(2), Zhao X(1), Cheng Z(1), Guo H(1), Wang S(1), Xu R(1).
+
+Author information: 
+(1)College of Veterinary Medicine, Research Center for Animal Disease Control
+Engineering Shandong Province, Shandong Agricultural University, Tai'an 271018,
+PR China.
+(2)College of Veterinary Medicine, Research Center for Animal Disease Control
+Engineering Shandong Province, Shandong Agricultural University, Tai'an 271018,
+PR China Liujz@sdau.edu.cn vetliujz@163.com.
+
+Poliomyelitis, a disease which can manifest as muscle paralysis, is caused by the
+poliovirus, which is a human enterovirus and member of the family Picornaviridae 
+that usually transmits by the faecal-oral route. The viruses of the OPV (oral
+poliovirus attenuated-live vaccine) strains can mutate in the human intestine
+during replication and some of these mutations can lead to the recovery of
+serious neurovirulence. Informatics research of the poliovirus genome can be used
+to explain further the characteristics of this virus. In this study, sequences
+from 100 poliovirus isolates were acquired from GenBank. To determine the
+evolutionary relationship between the strains, we compared and analysed the
+sequences of the complete poliovirus genome and the VP1 region. The reconstructed
+phylogenetic trees for the complete sequences and the VP1 sequences were both
+divided into two branches, indicating that the genetic relationships of the whole
+poliovirus genome and the VP1 sequences are very similar. This branching
+indicates that the virulence and pathogenicity of poliomyelitis may be associated
+with the VP1 region. Sequence alignment of the VP1 region revealed numerous
+mutation sites in which mutation rates of >30 % were detected. In a group of
+strains recorded in the USA, mutation sites and mutation types were the same and 
+this may be associated with their distribution in the evolutionary tree and their
+genetic relationship. In conclusion, the genetic evolutionary relationships of
+poliovirus isolate sequences are determined to a great extent by the VP1 protein,
+and poliovirus strains located on the same branch of the phylogenetic tree
+contain the same mutation spots and mutation types. Hence, the genetic
+characteristics of the VP1 region in the poliovirus genome should be analysed to 
+identify the transmission route of poliovirus and provide the basis of viral
+immunity development.
+
+© 2014 The Authors.
+
+DOI: 10.1099/jmm.0.081992-0 
+PMID: 25261065  [Indexed for MEDLINE]

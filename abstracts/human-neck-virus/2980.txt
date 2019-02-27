@@ -1,0 +1,40 @@
+
+
+2980. PLoS One. 2012;7(7):e41853. doi: 10.1371/journal.pone.0041853. Epub 2012 Jul 27.
+
+Association between single nucleotide polymorphisms in ERCC4 and risk of squamous
+cell carcinoma of the head and neck.
+
+Yu H(1), Liu Z, Huang YJ, Yin M, Wang LE, Wei Q.
+
+Author information: 
+(1)Department of Epidemiology and Biostatistics, Guiling Medical University
+School of Public Health, Guilin, China. yuhongping@hotmail.com
+
+BACKGROUND: Excision repair cross-complementation group 4 gene (ERCC4/XPF) plays 
+an important role in nucleotide excision repair and participates in removal of
+DNA interstrand cross-links and DNA double-strand breaks. Single nucleotide
+polymorphisms (SNPs) in ERCC4 may impact repair capacity and affect cancer
+susceptibility.
+METHODOLOGY/PRINCIPAL FINDINGS: In this case-control study, we evaluated
+associations of four selected potentially functional SNPs in ERCC4 with risk of
+squamous cell carcinoma of the head and neck (SCCHN) in 1,040 non-Hispanic white 
+patients with SCCHN and 1,046 cancer-free matched controls. We found that the
+variant GG genotype of rs2276466 was significantly associated with a decreased
+risk of SCCHN (OR = 0.69, 95% CI 0.50-0.96), and that the variant TT genotype of 
+rs3136038 showed a borderline significant decreased risk with SCCHN (OR = 0.76,
+95% CI: 0.58-1.01) in the recessive model. Such protective effects were more
+evident in oropharyngeal cancer (OR = 0.61, 95% CI: 0.40-0.92 for rs2276466;
+OR = 0.69, 95% CI: 0.48-0.98 for rs3136038). No significant associations were
+found for the other two SNPs (rs1800067 and rs1799798). In addition, individuals 
+with the rs2276466 GG or with the rs3136038 TT genotypes had higher levels of
+ERCC4 mRNA expression than those with the corresponding wild-type genotypes in 90
+Epstein-Barr virus-transformed lymphoblastoid cell lines derived from Caucasians.
+CONCLUSIONS: These results suggest that these two SNPs (rs2276466 and rs3136038) 
+in ERCC4 may be functional and contribute to SCCHN susceptibility. However, our
+findings need to be replicated in further large epidemiological and functional
+studies.
+
+DOI: 10.1371/journal.pone.0041853 
+PMCID: PMC3407112
+PMID: 22848636  [Indexed for MEDLINE]

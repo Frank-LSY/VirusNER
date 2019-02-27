@@ -1,0 +1,33 @@
+
+
+960. Appl Immunohistochem Mol Morphol. 2011 Dec;19(6):574-8. doi:
+10.1097/PAI.0b013e318215248a.
+
+Detection of high-risk HPV in head and neck squamous cell carcinomas: comparison 
+of chromogenic in situ hybridization and a reverse line blot method.
+
+Stevens TM(1), Caughron SK, Dunn ST, Knezetic J, Gatalica Z.
+
+Author information: 
+(1)Department of Pathology, Creighton University Medical Center, Omaha, NE 68131,
+USA. Todd-Stevens@creighton.edu
+
+Human papillomaviruses (HPVs) have been etiologically linked to a subset of head 
+and neck squamous cell carcinomas (HNSCCs), generally arising in young patients
+without a history of tobacco smoking or alcohol use. These tumors typically lack 
+mutations in TP53 and may show enhanced sensitivity to chemoradiation therapy
+with a correspondingly better overall prognosis. The determination of the HPV
+status in HNSCC therefore has therapeutic implications. We compared the Ventana
+ISH iView Blue Plus Detection Kit in situ hybridization (ISH) system and the
+Roche Linear Array HPV Genotyping Test for the detection of HPV in 98
+formalin-fixed, paraffin-embedded HNSCC samples. A moderate concordance rate
+(70.4%) was observed between ISH and the Linear Array assays. ISH detected HPV in
+39.8% of cases, whereas Linear Array detected HPV in 57.1% of cases. Sensitivity 
+and specificity of ISH for detecting HPV in HNSCC specimens were determined to be
+58.9% and 85.7%, respectively, using the Linear Array as the method of comparison
+(McNemar test, P=0.003). ISH offers the advantage of visual cell-type
+localization of viral infection but overall it is less sensitive than the
+polymerase chain reaction-based detection of HPV in HNSCC.
+
+DOI: 10.1097/PAI.0b013e318215248a 
+PMID: 21552119  [Indexed for MEDLINE]

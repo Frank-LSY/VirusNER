@@ -1,0 +1,42 @@
+
+
+476. Int J Cancer. 2011 Jul 1;129(1):101-10. doi: 10.1002/ijc.25889. Epub 2011 Apr 13.
+
+HPV involvement in tonsillar cancer: prognostic significance and clinically
+relevant markers.
+
+Rotnáglová E(1), Tachezy R, Saláková M, Procházka B, Košl'abová E, Veselá E,
+Ludvíková V, Hamšíková E, Klozar J.
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, 1st Faculty of
+Medicine, Charles University in Prague, Motol University Hospital, Prague, Czech 
+Republic.
+
+The association of high-risk human papillomaviruses (HR HPVs) with tonsillar
+cancer (TC) has been documented. Because patients with HPV-associated tumors show
+better survival rates, modification of their treatment regimen is being
+considered. It is therefore crucial to find markers for the identification of
+patients whose tumors are linked to viral infection. A cohort of 109 patients
+with primary TC was screened for HPV DNA presence in the tumor tissues and
+HPV-specific antibodies in sera. Data regarding risk factors and clinical
+parameters were collected. Forty-five specimens were analyzed for the expression 
+of viral E6 and E2-region mRNA, and the p16 and p53 protein expression status was
+assessed by immunohistochemistry. The overall prevalence of HPV DNA in TC tissues
+was 65.1%. Ninety-three percent of HR HPV DNA-positive samples expressed E6*I
+mRNA. E2-region mRNA expression was detected in 36% of positive samples, which
+implies that the virus is integrated in 64% of HPV DNA/RNA-positive tumors. p16
+overexpression and the presence of antibodies specific to HPV16 E6/E7
+oncoproteins correlated well with HPV DNA and RNA presence. The disease-specific 
+survival rate of patients with HPV DNA-positive tumors was significantly higher
+than that of HPV DNA-negative patients. In addition to providing further evidence
+of the involvement of HPV infection in the etiopathogenesis of a proportion of TC
+cases, our study demonstrates that p16 immunostaining and anti-E6/E7 antibodies
+as surrogate markers of HPV involvement represent specific, sensitive and
+clinically accessible assays for the identification of TC patients who have a
+considerably better prognosis.
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.25889 
+PMID: 21190188  [Indexed for MEDLINE]

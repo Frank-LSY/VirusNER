@@ -1,0 +1,42 @@
+
+
+390. Laryngoscope. 2014 May;124(5):1236-41. doi: 10.1002/lary.24376. Epub 2013 Dec 17.
+
+Epstein-Barr DNA serology and positron-emission tomography imaging of the head
+and neck in pediatric transplant recipients.
+
+Sidell D(1), Venick RS, Shapiro NL.
+
+Author information: 
+(1)Department of Head and Neck Surgery, David Geffen School of Medicine at
+University of California Los Angeles, Los Angeles, California, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: Epstein-Barr virus (EBV) infection is a potential
+precursor of post-transplantation lymphoproliferative disorder (PTLD) in the
+pediatric transplant patient. Positron-emission tomography (PET) imaging is
+increasingly utilized in this population to monitor for neoplasia and PTLD. We
+assess the association between EBV serum titers and Waldeyer's ring and cervical 
+lymph node PET positivity in the pediatric transplant recipient.
+STUDY DESIGN: Retrospective analysis of EBV serology and PET imaging results in
+pediatric orthotopic liver transplantation (OLT) recipients.
+METHODS: Imaging results and laboratory data were reviewed for all pediatric OLT 
+recipients from January 2005 to July 2011 at a single institution. Charts were
+evaluated for PET positivity at Waldeyer's ring or cervical lymphatics, and for
+EBV serology results. Demographic data extracted include patient sex and age at
+transplantation.
+RESULTS: A total of 122 pediatric OLT recipients were reviewed. Twelve patients
+(10%) underwent PET imaging. Overall, four patients (33%) had evidence of PET
+positivity at Waldeyer's ring or cervical lymphatics. Five patients (42%) had
+positive EBV serology. There was a significant association between PET imaging
+results and EBV DNA serology results (P = .01).
+CONCLUSIONS: PTLD surveillance in the pediatric transplant recipient is an
+important component of long-term care in this population. Although PET imaging is
+a new modality in monitoring pediatric transplant recipients for early signs of
+PTLD, an association between EBV serology and PET imaging results appears to
+exist. With increased implementation, PET imaging will likely prove valuable in
+its ability to monitor the transplant recipient at risk for PTLD.
+
+© 2013 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.24376 
+PMID: 24105893  [Indexed for MEDLINE]

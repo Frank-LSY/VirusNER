@@ -1,0 +1,61 @@
+
+
+1536. Tissue Cell. 2016 Oct;48(5):524-32. doi: 10.1016/j.tice.2016.06.011. Epub 2016
+Jun 27.
+
+Induction of neuronal-like phenotype in human mesenchymal stem cells by
+overexpression of Neurogenin1 and treatment with neurotrophins.
+
+Schäck L(1), Budde S(2), Lenarz T(3), Krettek C(4), Gross G(5), Windhagen H(2),
+Hoffmann A(6), Warnecke A(7).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Hannover Medical
+School, Carl Neuberg-Str. 1, 30625 Hannover, Germany; Department of Trauma
+Surgery, Hannover Medical School, Carl Neuberg-Str. 1, 30625 Hannover, Germany.
+(2)Department of Orthopaedic Surgery, Hannover Medical School, Annastift, Anna
+von Borries-Str. 1-7, 30625 Hannover, Germany.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, Hannover Medical
+School, Carl Neuberg-Str. 1, 30625 Hannover, Germany; Cluster of Excellence
+"Hearing4all" of the German Research Foundation, Germany.
+(4)Department of Trauma Surgery, Hannover Medical School, Carl Neuberg-Str. 1,
+30625 Hannover, Germany.
+(5)Helmholtz Centre for Infection Research, Department of Gene Regulation and
+Differentiation, Inhoffenstr. 7, 38124 Braunschweig, Germany.
+(6)Department of Trauma Surgery, Hannover Medical School, Carl Neuberg-Str. 1,
+30625 Hannover, Germany; Department of Orthopaedic Surgery, Hannover Medical
+School, Annastift, Anna von Borries-Str. 1-7, 30625 Hannover, Germany.
+(7)Department of Otorhinolaryngology, Head and Neck Surgery, Hannover Medical
+School, Carl Neuberg-Str. 1, 30625 Hannover, Germany; Cluster of Excellence
+"Hearing4all" of the German Research Foundation, Germany. Electronic address:
+warnecke.athanasia@mh-hannover.de.
+
+AIM OF THE STUDY: The induced expression of the transcription factors neurogenin1
+(Neurog1) or neuronal differentiation 1 (NeuroD1) has previously been shown to
+initiate neuronal differentiation in embryonic stem cells (ESC). Human bone
+marrow-derived mesenchymal stem cells (hBMSCs) are ethically non-controversial
+stem cells. However, they are not pluripotent. In cochlear implantation,
+regeneration or replacement of lost spiral ganglion neurons may be a measure for 
+the improvement of implant function. Thus, the aim of the study was to
+investigate whether the expression of Neurog1 or NeuroD1 is sufficient for
+induction of neuronal differentiation in hBMSCs.
+MATERIALS AND METHODS: Human BMSCs were transduced with lentivirus expressing
+NeuroD1 or Neuorg1. Transduced cells were then treated with small molecules that 
+enhanced neuronal differentiation. Markers of neuronal differentiation were
+evaluated.
+RESULTS: Using quantitative reverse transcription PCR, the up-regulation of
+transcription factors expressed by developing primary auditory neurons, such as
+BRN3a (POU4F1) and GATA3, was quantified after induction of Neurog-1 expression. 
+In addition, the expression of the receptor NTRK2 was induced by treatment with
+its specific ligand BDNF. The induction of expression of the vesicular glutamate 
+transporter 1 was identified on gene and protein level. NeuroD1 seemed not
+sufficient to induce and maintain neuronal differentiation.
+CONCLUSIONS: Induction of neuronal differentiation by overexpression of Neurog1
+initiated important steps for the development of glutamatergic neurons such as
+the spiral ganglion neurons. However, it seems not sufficient to maintain the
+glutamatergic spiral ganglion neuron-like phenotype.
+
+Copyright © 2016. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.tice.2016.06.011 
+PMID: 27423984  [Indexed for MEDLINE]

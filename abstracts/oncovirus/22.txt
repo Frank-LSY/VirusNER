@@ -1,0 +1,45 @@
+
+
+22. Nucleic Acids Res. 2014;42(16):10209-25. doi: 10.1093/nar/gku769. Epub 2014 Aug
+21.
+
+Molecular mechanisms of retroviral integration site selection.
+
+Kvaratskhelia M(1), Sharma A(2), Larue RC(2), Serrao E(3), Engelman A(4).
+
+Author information: 
+(1)Center for Retrovirus Research and College of Pharmacy, The Ohio State
+University, Columbus, OH 43210, USA alan_engelman@dfci.harvard.edu.
+(2)Center for Retrovirus Research and College of Pharmacy, The Ohio State
+University, Columbus, OH 43210, USA.
+(3)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute and
+Department of Medicine, Harvard Medical School, Boston, MA 02215, USA.
+(4)Department of Cancer Immunology and AIDS, Dana-Farber Cancer Institute and
+Department of Medicine, Harvard Medical School, Boston, MA 02215, USA
+alan_engelman@dfci.harvard.edu.
+
+Retroviral replication proceeds through an obligate integrated DNA provirus,
+making retroviral vectors attractive vehicles for human gene-therapy. Though most
+of the host cell genome is available for integration, the process of integration 
+site selection is not random. Retroviruses differ in their choice of
+chromatin-associated features and also prefer particular nucleotide sequences at 
+the point of insertion. Lentiviruses including HIV-1 preferentially integrate
+within the bodies of active genes, whereas the prototypical gammaretrovirus
+Moloney murine leukemia virus (MoMLV) favors strong enhancers and active gene
+promoter regions. Integration is catalyzed by the viral integrase protein, and
+recent research has demonstrated that HIV-1 and MoMLV targeting preferences are
+in large part guided by integrase-interacting host factors (LEDGF/p75 for HIV-1
+and BET proteins for MoMLV) that tether viral intasomes to chromatin. In each
+case, the selectivity of epigenetic marks on histones recognized by the protein
+tether helps to determine the integration distribution. In contrast, nucleotide
+preferences at integration sites seem to be governed by the ability for the
+integrase protein to locally bend the DNA duplex for pairwise insertion of the
+viral DNA ends. We discuss approaches to alter integration site selection that
+could potentially improve the safety of retroviral vectors in the clinic.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gku769 
+PMCID: PMC4176367
+PMID: 25147212  [Indexed for MEDLINE]

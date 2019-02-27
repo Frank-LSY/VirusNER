@@ -1,0 +1,83 @@
+
+
+2302. Int J Cancer. 2016 Jan 1;138(1):171-81. doi: 10.1002/ijc.29683. Epub 2015 Jul 30.
+
+CD8+ tumour-infiltrating lymphocytes in relation to HPV status and clinical
+outcome in patients with head and neck cancer after postoperative
+chemoradiotherapy: A multicentre study of the German cancer consortium radiation 
+oncology group (DKTK-ROG).
+
+Balermpas P(1)(2), Rödel F(1)(2), Rödel C(1)(2), Krause M(3)(4)(5)(6), Linge
+A(3)(4)(5), Lohaus F(3)(4)(5), Baumann M(3)(4)(5)(6), Tinhofer I(7)(8), Budach
+V(7)(8), Gkika E(9)(10), Stuschke M(9)(10), Avlar M(11)(12), Grosu AL(11)(12),
+Abdollahi A(13)(14), Debus J(13)(14), Bayer C(15), Stangl S(15), Belka C(15)(16),
+Pigorsch S(15)(17), Multhoff G(15)(17), Combs SE(15)(17), Mönnich D(18)(19), Zips
+D(18)(19), Fokas E(1)(2).
+
+Author information: 
+(1)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Frankfurt, Germany.
+(2)Department of Radiotherapy and Oncology, Goethe-University Frankfurt, Germany.
+(3)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Dresden, Germany.
+(4)Department of Radiation Oncology, Faculty of Medicine and University Hospital 
+Carl Gustav Carus, Technische Universität Dresden, Germany.
+(5)OncoRay - National Center for Radiation Research in Oncology, Faculty of
+Medicine and University Hospital Carl Gustav Carus, Technische Universität
+Dresden, Germany.
+(6)Helmholtz-Zentrum Dresden - Rossendorf, Institute of Radiooncology, Germany.
+(7)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Berlin, Germany.
+(8)Department of Radiooncology and Radiotherapy, Charité-University Hospital
+Berlin, Germany.
+(9)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Essen, Germany.
+(10)Department of Radiotherapy, Medical Faculty, University of Duisburg-Essen,
+Essen, Germany.
+(11)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Freiburg, Germany.
+(12)Department of Radiation Oncology, University of Freiburg, Germany.
+(13)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Heidelberg, Germany.
+(14)Department of Radiation Oncology, Heidelberg Ion Therapy Center (HIT),
+Heidelberg Institute of Radiation Oncology (HIRO), National Center for Radiation 
+Research in Oncology (NCRO), University of Heidelberg Medical School and German
+Cancer Research Center (DKFZ), Germany.
+(15)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Munich, Germany.
+(16)Department of Radiotherapy and Radiation Oncology,
+Ludwig-Maximilians-University, Munich, Germany.
+(17)Department of Radiation Oncology, Technical University Munich, Germany.
+(18)German Cancer Research Center (DKFZ), Heidelberg Germany and German Cancer
+Consortium (DKTK), Tübingen, Germany.
+(19)Department of Radiation Oncology, Faculty of Medicine and University Hospital
+Tübingen, Eberhard Karls University Tübingen, Germany.
+
+We examined the prognostic value of tumour-infiltrating lymphocytes (TILs) in
+patients with squamous cell carcinoma of the head and neck (SCCHN) after surgery 
+and postoperative cisplatin-based chemoradiotherapy. FFPE-tissue originating from
+the surgery of 161 patients treated in 8 DKTK partner sites was
+immunohistochemically stained for CD3 and CD8. Their expression was correlated
+with clinicopathological characteristics as well as overall survival (OS), local 
+progression-free survival (LPFS) and distant metastases free-survival (DMFS),
+also in the context of the HPV16-DNA/p16 status. After a median follow-up of 48
+months (range: 4100 months), OS at 4 years was 46.5% for the entire cohort. In
+multivariate analysis, high CD8 expression was confirmed as an independent
+prognostic parameter for OS (p = 0.002), LPFS (p = 0.004) and DMFS (p = 0.006),
+while CD3 expression lacked significance. In multivariate analysis HPV16 DNA
+positivity was associated with improved OS (p = 0.025) and LPFS (p = 0.013) and
+p16-positive patients showed improved DMFS (p = 0.008). Interestingly, high CD8
+expression was a prognostic parameter for the clinical outcome in both HPV16
+DNA-positive and HPV16 DNA-negative patients. Similar findings were observed in
+the multivariate analysis for the combined HPV16 DNA/p16 status. Altogether, CD8+
+TILs constitute an independent prognostic marker in SCCHN patients treated with
+adjuvant chemoradiotherapy. These data indicate that CD8-positive TILs have
+antitumour activity and could be used for treatment stratification. Further
+validation of the prognostic value of CD8+ TILs as a biomarker and its role in
+the immune response in SCCHN patients after adjuvant chemoradiotherapy is
+warranted and will be performed in the prospective DKTK-ROG study.
+
+© 2015 UICC.
+
+DOI: 10.1002/ijc.29683 
+PMID: 26178914  [Indexed for MEDLINE]

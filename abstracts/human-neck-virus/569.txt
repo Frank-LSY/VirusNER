@@ -1,0 +1,48 @@
+
+
+569. Am J Physiol Lung Cell Mol Physiol. 2014 Jun 1;306(11):L1036-44. doi:
+10.1152/ajplung.00035.2014. Epub 2014 Apr 4.
+
+Mutations flanking the carbohydrate binding site of surfactant protein D confer
+antiviral activity for pandemic influenza A viruses.
+
+Nikolaidis NM(1), White MR(2), Allen K(3), Tripathi S(2), Qi L(4), McDonald B(3),
+Taubenberger J(4), Seaton BA(5), McCormack FX(1), Crouch EC(3), Hartshorn KL(6).
+
+Author information: 
+(1)Division of Pulmonary and Critical Care Medicine, University of Cincinnati,
+Cincinnati, Ohio;
+(2)Department of Medicine, Boston University School of Medicine, Boston,
+Massachusetts;
+(3)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, Missouri; and.
+(4)National Institute of Allergy and Infectious Diseases, Bethesda, Maryland.
+(5)Department of Physiology and Biophysics, Boston University School of Medicine,
+Boston, Massachusetts;
+(6)Department of Medicine, Boston University School of Medicine, Boston,
+Massachusetts; khartsho@bu.edu.
+
+We recently reported that a trimeric neck and carbohydrate recognition domain
+(NCRD) fragment of human surfactant protein D (SP-D), a host defense lectin, with
+combinatorial substitutions at the 325 and 343 positions (D325A+R343V) exhibits
+markedly increased antiviral activity for seasonal strains of influenza A virus
+(IAV). The NCRD binds to glycan-rich viral envelope proteins including
+hemagglutinin (HA). We now show that replacement of D325 with serine to create
+D325S+R343V provided equal or increased neutralizing activity compared with
+D325A+R343V. The activity of the double mutants was significantly greater than
+that of either single mutant (D325A/S or R343V). D325A+R343V and D325S+R343V also
+strongly inhibited HA activity, and markedly aggregated, the 1968 pandemic H3N2
+strain, Aichi68. D325S+R343V significantly reduced viral loads and mortality of
+mice infected with Aichi68, whereas wild-type SP-D NCRD did not. The pandemic
+H1N1 strains of 1918 and 2009 have only one N-linked glycan side on the head
+region of the HA and are fully resistant to inhibition by native SP-D.
+Importantly, we now show that D325A+R343V and D325S+R343V inhibited Cal09 H1N1
+and related strains, and reduced uptake of Cal09 by epithelial cells. Inhibition 
+of Cal09 was mediated by the lectin activity of the NCRDs. All known human
+pandemic strains have at least one glycan attachment on the top or side of the HA
+head, and our results indicate that they may be susceptible to inhibition by
+modified host defense lectins.
+
+DOI: 10.1152/ajplung.00035.2014 
+PMCID: PMC4042192
+PMID: 24705721  [Indexed for MEDLINE]

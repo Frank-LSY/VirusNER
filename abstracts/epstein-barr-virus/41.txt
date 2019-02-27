@@ -1,0 +1,26 @@
+
+
+41. Chin J Cancer. 2014 Dec;33(12):591-7. doi: 10.5732/cjc.014.10193. Epub 2014 Nov
+21.
+
+Epstein-Barr virus and the origin of Hodgkin lymphoma.
+
+Vockerodt M(1), Cader FZ, Shannon-Lowe C, Murray P.
+
+Author information: 
+(1)School of Cancer Sciences, University of Birmingham, Birmingham, B15 2TT, the 
+United Kingdom. p.g.murray@bham.ac.uk.
+
+Although Epstein-Barr virus (EBV) is present in the malignant
+Hodgkin/Reed-Sternberg (HRS) cells of a proportion of cases of classical Hodgkin 
+lymphoma (cHL), how the virus contributes to the pathogenesis of this disease
+remains poorly defined. It is clear from the studies of other EBV-associated
+cancers that the virus is usually not sufficient for tumor development and that
+other oncogenic co-factors are required. This article reviews what is known about
+the contribution of EBV to the pathogenesis of cHL and focuses on emerging
+evidence implicating chronic inflammation as a potential oncogenic co-factor in
+this malignancy.
+
+DOI: 10.5732/cjc.014.10193 
+PMCID: PMC4308654
+PMID: 25418190  [Indexed for MEDLINE]

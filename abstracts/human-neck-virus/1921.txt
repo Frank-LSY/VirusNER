@@ -1,0 +1,43 @@
+
+
+1921. Oncotarget. 2015 Sep 29;6(29):26995-7007. doi: 10.18632/oncotarget.4863.
+
+DNA double strand break repair defect and sensitivity to poly ADP-ribose
+polymerase (PARP) inhibition in human papillomavirus 16-positive head and neck
+squamous cell carcinoma.
+
+Weaver AN(1), Cooper TS(1), Rodriguez M(1), Trummell HQ(1), Bonner JA(1),
+Rosenthal EL(2), Yang ES(1)(3)(4).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Alabama at Birmingham,
+Birmingham, AL 35249, USA.
+(2)Department of Surgery, University of Alabama at Birmingham, Birmingham, AL
+35249, USA.
+(3)Department of Cell, Developmental, and Integrative Biology, University of
+Alabama at Birmingham, Birmingham, AL 35249, USA.
+(4)Department of Pharmacology and Toxicology, University of Alabama at
+Birmingham, Birmingham, AL 35249, USA.
+
+Patients with human papillomavirus-positive (HPV+) head and neck squamous cell
+carcinomas (HNSCCs) have increased response to radio- and chemotherapy and
+improved overall survival, possibly due to an impaired DNA damage response. Here,
+we investigated the correlation between HPV status and repair of DNA damage in
+HNSCC cell lines. We also assessed in vitro and in vivo sensitivity to the PARP
+inhibitor veliparib (ABT-888) in HNSCC cell lines and an HPV+ patient xenograft. 
+Repair of DNA double strand breaks (DSBs) was significantly delayed in HPV+
+compared to HPV- HNSCCs, resulting in persistence of γH2AX foci. Although DNA
+repair activators 53BP1 and BRCA1 were functional in all HNSCCs, HPV+ cells
+showed downstream defects in both non-homologous end joining and homologous
+recombination repair. Specifically, HPV+ cells were deficient in protein
+recruitment and protein expression of DNA-Pk and BRCA2, key factors for
+non-homologous end joining and homologous recombination respectively.
+Importantly, the apparent DNA repair defect in HPV+ HNSCCs was associated with
+increased sensitivity to the PARP inhibitor veliparib, resulting in decreased
+cell survival in vitro and a 10-14 day tumor growth delay in vivo. These results 
+support the testing of PARP inhibition in combination with DNA damaging agents as
+a novel therapeutic strategy for HPV+ HNSCC.
+
+DOI: 10.18632/oncotarget.4863 
+PMCID: PMC4694969
+PMID: 26336991  [Indexed for MEDLINE]

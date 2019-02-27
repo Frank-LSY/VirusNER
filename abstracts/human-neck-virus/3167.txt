@@ -1,0 +1,50 @@
+
+
+3167. Cell Death Dis. 2014 Nov 6;5:e1507. doi: 10.1038/cddis.2014.451.
+
+Tumor-induced senescent T cells promote the secretion of pro-inflammatory
+cytokines and angiogenic factors by human monocytes/macrophages through a
+mechanism that involves Tim-3 and CD40L.
+
+Ramello MC(1), Tosello Boari J(1), Canale FP(1), Mena HA(2), Negrotto S(2),
+Gastman B(3), Gruppi A(1), Acosta Rodríguez EV(1), Montes CL(1).
+
+Author information: 
+(1)Centro de Investigaciones en Bioquímica Clínica e Inmunología
+(CIBICI-CONICET), Departamento de Bioquímica Clínica, Facultad de Ciencias
+Químicas, Universidad Nacional de Córdoba, Haya de la Torre y Medina Allende,
+Ciudad Universitaria, Córdoba, Argentina.
+(2)Laboratorio de Trombosis Experimental, Instituto de Medicina Experimental
+(IMEX), Academia Nacional de Medicina-CONICET, Buenos Aires, Argentina.
+(3)Cleveland Clinic, Department of Immunology and Plastic Surgery, Head and Neck 
+and Taussig Institutes, Cleveland, OH, USA.
+
+Solid tumors are infiltrated by immune cells where macrophages and senescent T
+cells are highly represented. Within the tumor microenvironment, a cross-talk
+between the infiltrating cells may occur conditioning the characteristic of the
+in situ immune response. Our previous work showed that tumors induce senescence
+of T cells, which are powerful suppressors of lympho-proliferation. In this
+study, we report that Tumor-Induced Senescent (TIS)-T cells may also modulate
+monocyte activation. To gain insight into this interaction, CD4+ or CD8+TIS-T or 
+control-T cells were co-incubated with autologous monocytes under inflammatory
+conditions. After co-culture with CD4+ or CD8+TIS-T cells, CD14+
+monocytes/macrophages (Mo/Ma) exhibit a higher expression of CD16+ cells and a
+reduced expression of CD206. These Mo/Ma produce nitric oxide and reactive oxygen
+species; however, TIS-T cells do not modify phagocyte capacity of Mo/Ma. TIS-T
+modulated-Mo/Ma show a higher production of pro-inflammatory cytokines (TNF,
+IL-1β and IL-6) and angiogenic factors (MMP-9, VEGF-A and IL-8) and a lower IL-10
+and IP-10 secretion than monocytes co-cultured with controls. The mediator(s)
+present in the supernatant of TIS-T cell/monocyte-macrophage co-cultures
+promote(s) tubulogenesis and tumor-cell survival. Monocyte-modulation induced by 
+TIS-T cells requires cell-to-cell contact. Although CD4+ shows different behavior
+from CD8+TIS-T cells, blocking mAbs against T-cell immunoglobulin and mucin
+protein 3 and CD40 ligand reduce pro-inflammatory cytokines and angiogenic
+factors production, indicating that these molecules are involved in
+monocyte/macrophage modulation by TIS-T cells. Our results revealed a novel role 
+for TIS-T cells in human monocyte/macrophage modulation, which may have
+deleterious consequences for tumor progression. This modulation should be
+considered to best tailor the immunotherapy against cancer.
+
+DOI: 10.1038/cddis.2014.451 
+PMCID: PMC4260722
+PMID: 25375372  [Indexed for MEDLINE]

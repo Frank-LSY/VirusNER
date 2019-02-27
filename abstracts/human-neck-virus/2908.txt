@@ -1,0 +1,34 @@
+
+
+2908. Calcif Tissue Int. 2012 Dec;91(6):423-9. doi: 10.1007/s00223-012-9653-y. Epub
+2012 Oct 5.
+
+Association between chronic hepatitis C virus infection and bone mineral density.
+
+Lin JC(1), Hsieh TY, Wu CC, Chen PJ, Chueh TH, Chang WK, Chu HC.
+
+Author information: 
+(1)Graduate Institute of Medical Sciences, National Defense Medical Center,
+Taipei, Taiwan, ROC.
+
+Whether chronic hepatitis C virus (HCV) infection is a risk factor for the
+development of bone disease has long been controversial. For this reason, chronic
+HCV-infected participants (n = 69) were recruited into a prospective cohort study
+and underwent dual-energy X-ray absorptiometry for determination of bone mineral 
+density (BMD). Fibrosis staging was evaluated according to the noninvasive index 
+FIB-4. T scores at the femoral neck and lumbar spine were used as the primary
+outcome variables to assess the association between degree of liver disease and
+BMD. The study cohort was 41 % male with a mean age of 53.6 years. The mean BMD, 
+Z score, and T score values of lumbar spine in chronic hepatitis C (CHC) patients
+were significantly lower than those in healthy controls (p < 0.001). The rate of 
+osteoporosis for CHC patients aged 45-54 years was significantly higher than that
+of the control group (p = 0.011). Bone alkaline phosphatase and C-terminal
+cross-linking telopeptide of type I collagen levels were also significantly
+higher in CHC patients with reduced BMD. Patients with more advanced liver
+fibrosis had significantly lower BMD. In conclusion, reduced BMD is common in
+this population of chronic HCV-infected patients and associated with liver
+disease severity. This extrahepatic manifestation is probably secondary to
+increased bone turnover in osteodystrophy pathogenesis.
+
+DOI: 10.1007/s00223-012-9653-y 
+PMID: 23052227  [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+
+
+39. Proteomics. 2012 Jul;12(13):2127-38. doi: 10.1002/pmic.201100526.
+
+Cancer and viruses: a double-edged sword.
+
+Butt AQ(1), Miggin SM.
+
+Author information: 
+(1)Immune Signalling Group, Institute of Immunology, Department of Biology,
+National University of Ireland Maynooth, Co. Kildare, Ireland.
+
+Oncovirus, synonymously called a 'tumour virus', is a virus that can cause
+cancer. An oncolytic virus preferentially infects the host's cancer cells and
+lyses them, causing tumour destruction, and is thus referred to as a 'cancer
+killing virus'. With an estimated 11% of cancer-associated deaths caused by
+oncoviruses and the possibility that many cancers may be treated by using
+oncolytic viruses, the role of viruses in cancer may be viewed as a double-edged 
+sword. A total of seven human cancer viruses have been identified as oncoviruses,
+having been associated with various cancers. Conversely, a large number of
+oncolytic viruses have shown great potential towards the treatment of certain
+types of cancer. Proteomics has now been applied towards understanding the
+complex interplay that exists between oncoviruses and the immune responses that
+serve to prevent oncoviral diseases. This review attempts to summarise the
+neoplastic potential of human tumour associated viruses and associated vaccine
+successes. The potential use of oncolytic viruses for the therapeutic
+intervention of cancer will also be discussed. Finally, this review will discuss 
+the enormous potential of proteomics technology in the field of oncovirology.
+
+© 2012 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/pmic.201100526 
+PMID: 22623378  [Indexed for MEDLINE]

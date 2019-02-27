@@ -1,0 +1,45 @@
+
+
+1899. Mol Cancer Ther. 2012 Sep;11(9):1988-98. doi: 10.1158/1535-7163.MCT-12-0167. Epub
+2012 Jun 21.
+
+YM155 reverses cisplatin resistance in head and neck cancer by decreasing
+cytoplasmic survivin levels.
+
+Kumar B(1), Yadav A, Lang JC, Cipolla MJ, Schmitt AC, Arradaza N, Teknos TN,
+Kumar P.
+
+Author information: 
+(1)Department of Otolaryngology–Head and Neck Surgery, Comprehensive Cancer
+Center, The Ohio State University, Columbus, Ohio 43210, USA.
+Pawan.Kumar@osumc.edu
+
+Cisplatin is one of the commonly used chemotherapeutic drugs for the treatment of
+head and neck squamous cell carcinoma (HNSCC). However, acquisition of cisplatin 
+resistance is common in patients with HNSCC, and it often leads to local and
+distant failure. In this study, we showed that survivin expression is
+significantly upregulated in HNSCC primary tumors and cell lines. In addition,
+survivin levels were significantly higher in human papilloma virus-negative
+patients that normally respond poorly to cisplatin treatment. Survivin expression
+was further increased in cisplatin-resistant cells (CAL27-CisR) as compared with 
+its parent cells (CAL27). Therefore, we hypothesized that targeting of survivin
+in HNSCC could reverse the resistant phenotype in tumor cells, thereby enhancing 
+the therapeutic efficacy of cisplatin. We used both in vitro and in vivo models
+to test the efficacy of YM155, a small molecule survivin inhibitor, either as a
+single agent or in combination with cisplatin. YM155 significantly decreased
+survivin levels and cell proliferation in a dose-dependent manner. In addition,
+YM155 pretreatment significantly reversed cisplatin resistance in cancer cells.
+Interestingly, YM155 treatment altered the dynamic localization of survivin in
+cells by inducing a rapid reduction in cytoplasmic survivin, which plays a
+critical role in its antiapoptotic function. In a severe combined immunodeficient
+mouse xenograft model, YM155 significantly enhanced the antitumor and
+antiangiogenic effects of cisplatin, with no added systemic toxicity. Taken
+together, our results suggest a potentially novel strategy to use YM155 to
+overcome the resistance in tumor cells, thereby enhancing the effectiveness of
+the chemotherapy in HNSCC.
+
+©2012 AACR.
+
+DOI: 10.1158/1535-7163.MCT-12-0167 
+PMCID: PMC3889136
+PMID: 22723337  [Indexed for MEDLINE]

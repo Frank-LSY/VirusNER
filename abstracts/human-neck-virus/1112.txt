@@ -1,0 +1,55 @@
+
+
+1112. Oral Oncol. 2016 May;56:47-53. doi: 10.1016/j.oraloncology.2016.03.003. Epub 2016
+Mar 21.
+
+Squamous cell carcinoma of the oral cavity often overexpresses p16 but is rarely 
+driven by human papillomavirus.
+
+Zafereo ME(1), Xu L(1), Dahlstrom KR(1), Viamonte CA(1), El-Naggar AK(2), Wei
+Q(3), Li G(4), Sturgis EM(5).
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, United States.
+(2)Department of Pathology, The University of Texas MD Anderson Cancer Center,
+Houston, TX 77030, United States.
+(3)Department of Medicine, Duke University School of Medicine, Duke Cancer
+Institute, Duke University Medical Center, Durham, NC 27710, United States.
+(4)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, United States; Department of Epidemiology, The 
+University of Texas MD Anderson Cancer Center, Houston, TX 77030, United States.
+(5)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, United States; Department of Epidemiology, The 
+University of Texas MD Anderson Cancer Center, Houston, TX 77030, United States. 
+Electronic address: esturgis@mdanderson.org.
+
+OBJECTIVE: Human papillomavirus (HPV) is a causal and prognostic factor for
+oropharyngeal cancer, but its role in squamous cell carcinoma of the oral cavity 
+(SCCOC) is unclear. We sought to clarify HPV's role in SCCOC.
+MATERIALS AND METHODS: Patients with newly diagnosed SCCOC (N=460) were
+prospectively recruited, treated, and followed at one institution. p16/HPV status
+was determined by p16 immunohistochemistry (IHC) (N=210), PCR-based HPV 16/18
+E6/7 DNA testing (N=403), and/or HPV in situ hybridization (ISH) (N=178).
+Kaplan-Meier curves and log-rank tests were used to compare survival by p16/HPV
+status.
+RESULTS: p16 expression was detected in 30% of tumors (62/210) and HPV 16/18 E6/7
+DNA in 28% (114/403), although correlation between these two assays was poor
+(r=-0.01). Patients with p16-positive tumors were more likely to be younger and
+have primary tumors of the oral tongue. Only 4% of tumors (7/171) were positive
+for HPV by ISH. Comparisons of patients with p16-positive and p16-negative
+tumors, patients with HPV-positive and HPV-negative tumors by PCR, and patients
+with HPV-positive and HPV-negative tumors by ISH showed no significant
+differences in disease-specific or disease-free survival by p16/HPV status. When 
+we applied a more stringent definition of HPV positivity based on a combination
+of assay results, only 10 of 166 tumors were HPV positive, and there were no
+significant differences in demographic, exposure, clinical, or survival
+characteristics between these patients and the 156 HPV-negative patients.
+CONCLUSIONS: Very few patients with SCCOC have HPV-driven tumors. SCCOC that
+overexpresses p16 may be a unique subset deserving of further study.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.03.003 
+PMCID: PMC4836441
+PMID: 27086486  [Indexed for MEDLINE]

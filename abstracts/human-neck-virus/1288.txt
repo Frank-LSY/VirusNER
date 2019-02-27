@@ -1,0 +1,53 @@
+
+
+1288. Strahlenther Onkol. 2017 Feb;193(2):156-161. doi: 10.1007/s00066-016-1047-z. Epub
+2016 Sep 19.
+
+Vertically transmitted HPV-dependent squamous cell carcinoma of the external
+auditory canal : Case report of a child.
+
+Snietura M(1), Chelmecka-Wiktorczyk L(2), Pakulo S(3), Kopec A(3), Piglowski
+W(3), Drabik G(4), Kosowski B(5), Wyrobek L(6), Stanek-Widera A(3), Balwierz
+W(2)(7).
+
+Author information: 
+(1)Tumor Pathology Department, Maria Sklodowska-Curie Memorial Cancer Center and 
+Institute of Oncology, Ul. Wybrzeze Armii Krajowej 15, 44-101, Gliwice, Poland.
+mirek@snietura.net.
+(2)Department of Oncology and Hematology, University Children's Hospital of
+Cracow, Cracow, Poland.
+(3)Tumor Pathology Department, Maria Sklodowska-Curie Memorial Cancer Center and 
+Institute of Oncology, Ul. Wybrzeze Armii Krajowej 15, 44-101, Gliwice, Poland.
+(4)Pathology Department, University Children's Hospital of Cracow, Cracow,
+Poland.
+(5)NZOZ Prosmed, Cracow, Poland.
+(6)Department of Radiology, University Children's Hospital of Cracow, Cracow,
+Poland.
+(7)Clinic of Oncology and Hematology, Polish-American Pediatric Institute,
+Jagiellonian University in Cracow, Cracow, Poland.
+
+BACKGROUND: There is much evidence that high-risk human papillomavirus (HPV)
+plays a causative role in a subset of head and neck squamous cell cancer (HNSCC) 
+in adults. HPV-positive tumors behave differently even in their response to
+treatment and are therefore a distinct subset. Both HPV-positive and HPV-negative
+tumors of the head and neck region are usually in the domain of adults and cases 
+in children are rare; thus when a 2‑year-old child was diagnosed with this cancer
+in the external auditory canal, an in-depth assessment of the tumor was
+considered necessary.
+CASE REPORT: A 2‑year-old girl was born to a HPV-positive mother who was
+diagnosed with cervical cancer during pregnancy. The child was delivered by
+caesarean section and the mother died of her cancer 7 months after delivery.
+After the diagnosis of locally invasive HPV-positive squamous cell cancer of the 
+external auditory canal, the child was treated surgically, and with chemotherapy 
+and radiotherapy. Full remission was obtained lasting up to 325 weeks since
+treatment was started, resulting in over 6 years of disease-free survival.
+CONCLUSION: This is the first case of advanced, HPV-related HNSCC in a 2‑year-old
+child, in whom the tumor was located in the external auditory canal and who made 
+a dramatic recovery after treatment with nonradical surgery, chemotherapy and
+radiotherapy. The child has currently been disease free for 6 years. This case
+supports the observation that HPV-related HNSCC tumors appear to respond
+favorably to treatment despite the patient's young age and the clinically
+advanced stage of the tumor.
+
+DOI: 10.1007/s00066-016-1047-z 
+PMID: 27646207  [Indexed for MEDLINE]

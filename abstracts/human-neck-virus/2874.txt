@@ -1,0 +1,53 @@
+
+
+2874. Pediatr Blood Cancer. 2017 Feb;64(2):259-266. doi: 10.1002/pbc.26240. Epub 2016
+Sep 29.
+
+Clinical outcome and morbidity in pediatric patients with nasopharyngeal cancer
+treated with chemoradiotherapy.
+
+Sahai P(1), Mohanti BK(1), Sharma A(2), Thakar A(3), Bhasker S(1), Kakkar A(4),
+Sharma MC(4), Upadhyay AD(5).
+
+Author information: 
+(1)Department of Radiation Oncology, Dr. B. R. Ambedkar Institute Rotary Cancer
+Hospital, All India Institute of Medical Sciences, New Delhi, India.
+(2)Department of Medical Oncology, Dr. B. R. Ambedkar Institute Rotary Cancer
+Hospital, All India Institute of Medical Sciences, New Delhi, India.
+(3)Department of Otorhinolaryngology and Head & Neck Surgery, All India Institute
+of Medical Sciences, New Delhi, India.
+(4)Department of Pathology, All India Institute of Medical Sciences, New Delhi,
+India.
+(5)Department of Biostatistics, All India Institute of Medical Sciences, New
+Delhi, India.
+
+OBJECTIVES: The aim of the study was to evaluate the outcome and
+treatment-related morbidity in pediatric patients with nasopharyngeal carcinoma
+(NPC) treated with chemoradiotherapy.
+METHODS: We did a retrospective review of 41 pediatric patients diagnosed with
+NPC between 2000 and 2013. The majority of the patients were treated with
+neoadjuvant chemotherapy followed by concurrent chemoradiation with the dose of
+70 Gy in 35 fractions. Eight patients were treated with intensity-modulated
+radiation therapy, while the remaining with three-dimensional conformal radiation
+therapy or two-dimensional simulation technique.
+RESULTS: The median age of the patients was 14 years (range 6-20 years). Most of 
+the patients had locoregionally advanced disease (stage III/IVA/IVB). The
+histology of all the cases was undifferentiated carcinoma. Immunohistochemistry
+for the Epstein-Barr virus-Latent membrane protein 1 was positive in nine of the 
+13 tested cases. The median follow-up for all and the surviving patients was 26.6
+months (range 2-140.8) and 51.2 months, respectively. The 3-year overall survival
+(OS) and event-free survival (EFS) rates were estimated at 83.7% (95% confidence 
+interval [CI]: 64.8-93%) and 55.8% (95%CI: 38.7-69.8%), respectively. Distant
+metastases were the predominant pattern of failure. Treatment response showed an 
+independent association with OS. T classification (T1/T2 vs. T3/T4) was
+significantly associated with EFS. Xerostomia, hypothyroidism, dental caries,
+neck fibrosis, trismus, and dysphagia were the common late effects in survivors. 
+Radiation myelitis was observed in one patient.
+CONCLUSIONS: Treatment with neoadjuvant chemotherapy followed by concurrent
+chemoradiation provides good survival outcomes in pediatric NPC. The quality of
+life of the survivors is a pertinent area that necessitates consideration.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/pbc.26240 
+PMID: 27681956  [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+
+
+453. Bull Cancer. 2009 Oct;96(10):941-50. doi: 10.1684/bdc.2009.0923.
+
+[Involvement of human papillomavirus in upper aero-digestive tracts cancers].
+
+[Article in French]
+
+Neufcoeur PE(1), Arafa M, Delvenne P, Saussez S.
+
+Author information: 
+(1)Service d'Anatomie et de Biologie Cellulaire, Université de Mons-Hainaut, 20
+Place du Parc, B-7000 Mons, Belgique, Service d'Anatomopathologie, Université de 
+Liège, Place du 20-Août 9, 4000 Liège, Belgique.
+
+Human papillomavirus (HPV) is one of the most common causes of sexually
+transmitted infection in the world. France and Belgium present one of the highest
+incidence of head and neck squamous cell carcinomas (HNSCC) worldwide. Besides,
+considering only the male population, HNSCCs represent the fourth most frequent
+cancer after prostate, lung and colon cancers. Although the causal link between
+high-risk HPVs and cervical carcinoma is well established, the implication of
+this viral infection in HNSCC remains debatable. Here, we discuss current
+knowledge concerning the HPV implication in HNSCCs. Based on our literature
+review, 20 to 25% of HNSCCs could be associated with oncogenic HPVs, in
+particular HPV type 16. The oropharynx--more precisely the tonsil--is the head
+and neck location presenting the highest incidence of HPV infection. Moreover, a 
+clear increase of tonsillar carcinoma incidence has been described. As observed
+in cervical carcinomas, HPV positive HNSCCs are sexually transmitted and
+characterized by alterations of p53 and pRb signalling pathways. Several studies 
+have shown that HPV positive subgroup presented better prognosis particularly if 
+these patients overexpressed p16INK4. New studies regarding HPV status in HNSCCs 
+are warranted to provide a rationale for large scale HPV vaccination in young
+male populations.
+
+DOI: 10.1684/bdc.2009.0923 
+PMID: 19744917  [Indexed for MEDLINE]

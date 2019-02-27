@@ -1,0 +1,48 @@
+
+
+299. Cancer Cytopathol. 2012 Feb 25;120(1):18-25. doi: 10.1002/cncy.20175. Epub 2011
+Jul 12.
+
+Application of the hybrid capture 2 assay to squamous cell carcinomas of the head
+and neck: a convenient liquid-phase approach for the reliable determination of
+human papillomavirus status.
+
+Bishop JA(1), Maleki Z, Valsamakis A, Ogawa T, Chang X, Pai SI, Westra WH.
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+Maryland 21231-2410, USA.
+
+Comment in
+    Cancer Cytopathol. 2012 Feb 25;120(1):3-6.
+
+BACKGROUND: A growing proportion of head and neck squamous cell carcinoma (HNSCC)
+is caused by the human papillomavirus (HPV). In light of the unique natural
+history and prognosis of HPV-related HNSCCs, routine HPV testing is being
+incorporated into diagnostic protocols. Accordingly, there is an escalating
+demand for an optimal detection strategy that is sensitive and specific,
+transferrable to the diagnostic laboratory, standardized across laboratories,
+cost-effective, and amenable to broad application across specimen types including
+cytologic preparations.
+METHODS: Cytologic preparations (fine-needle aspirates [FNAs] and brushes) were
+obtained from surgically resected HNSCCs and evaluated for the presence of
+high-risk HPV using the Hybrid Capture 2 assay. HPV analysis was also performed
+on the corresponding tissue sections using HPV in situ hybridization and p16
+immunohistochemistry. In cases in which the immunohistochemical and in situ
+hybridization results were discordant, HPV status was determined by real-time
+polymerase chain reaction detection of E7 expression. HPV status in the tissues
+and corresponding cytologic samples was compared.
+RESULTS: Based on benchmark HPV testing of the tissue sections, 14 HNSCCs were
+classified as HPV positive and 10 as HPV negative. All corresponding cytologic
+preparations were correctly classified using the Hybrid Capture 2 assay.
+CONCLUSIONS: The Hybrid Capture 2 strategy, already widely used for the detection
+of high-risk HPV in cervical brushes, is readily transferrable to HNSCCs.
+Consistent accuracy in cytologic preparation suggests its potential application
+in FNAs from patients who present with lymph node metastases, and may eliminate
+the need to obtain tissue solely for the purpose of HPV testing.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncy.20175 
+PMCID: PMC3197962
+PMID: 21751428  [Indexed for MEDLINE]

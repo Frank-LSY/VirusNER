@@ -1,0 +1,57 @@
+
+
+546. PLoS One. 2017 Jan 19;12(1):e0170091. doi: 10.1371/journal.pone.0170091.
+eCollection 2017.
+
+Prevalence and Determinants of Oral Human Papillomavirus Infection in 500 Young
+Adults from Italy.
+
+Lupato V(1)(2), Holzinger D(3), Höfler D(3), Menegaldo A(1), Giorgi Rossi
+P(4)(5), Del Mistro A(6), Da Mosto MC(1), Pawlita M(3), Boscolo-Rizzo P(1).
+
+Author information: 
+(1)Department of Neurosciences, Regional Center for Head and Neck Cancer,
+University of Padua, Treviso, Italy.
+(2)Unit of Otolaryngology, Azienda Ospedaliera "S. Maria degli Angeli",
+Pordenone, Italy.
+(3)Division of Molecular Diagnostics of Oncogenic Infections, Infection,
+Inflammation and Cancer Program, German Cancer Research Center (DKFZ),
+Heidelberg, Germany.
+(4)Interinstitutional Epidemiology Unit, Local Health Authority, Reggio Emilia,
+Italy.
+(5)Arcispedale S. Maria Nuova, IRCCS, Reggio Emilia, Italy.
+(6)Immunology and Molecular Oncology Unit, Istituto Oncologico Veneto-IRCCS,
+Padova, Italy.
+
+Although the prevalence of human papillomavirus (HPV)-related oropharyngeal
+squamous cell carcinoma (OPSCC) is increasing in developed countries and becoming
+a relevant health issue, the natural history of oral HPV infection is still
+unclear. Estimating the infection's prevalence in specific populations and
+identifying risk factors can widen our understanding of its natural history and
+help to delineate appropriate prevention strategies. This study sought to (i)
+determine oral HPV prevalence and genotype distribution in a large series of
+young Italian adults, (ii) validate an oral rinse sampling/storage protocol, and 
+(iii) pinpoint factors associated with oral HPV infection. Five hundred students,
+nurses, and technicians (19-35 years-old) studying and working at/for the
+University of Padua were recruited. Each participant was provided with an oral
+rinse sampling kit and instructions for use. They were also asked to complete an 
+anonymous questionnaire concerning their demographic characteristics and
+behaviors. The questionnaires and oral rinse containers were labeled with the
+same identification code number. The oral rinse samples were tested using a
+bead-based multiplex BSGP5+/6+-MPG genotyping assay which amplifies the L1 region
+of 51 mucosal HPV types. The prevalence of oral HPV infection was 4.0% (95%
+confidence interval (CI), 2.5%-6.1%); those of 14 high-risk HPV types and of
+HPV-type 16 (HPV16) infection were 2.2% (95% CI, 1.1%-3.9%) and 1.6% (95% CI,
+0.6%-3.1%), respectively. HPV16 was the most frequent genotype (40.0% of oral HPV
+infections). No association was found between oral infection and the co-variables
+studied (gender, tobacco, alcohol and illegal drug use, number of sex and oral
+sex partners, HPV vaccination status, history of HPV and sexually transmitted
+infections, abnormal pap smears, recurrent tonsillitis and tonsillectomy). The
+oral rinse sampling protocol outlined here proved to be simple, efficient and
+well tolerated, and the prevalence rate can be considered reliable and thus
+useful to guide future research. Determinants of oral HPV infection are still
+unclear and further studies are certainly warranted.
+
+DOI: 10.1371/journal.pone.0170091 
+PMCID: PMC5245874
+PMID: 28103272  [Indexed for MEDLINE]

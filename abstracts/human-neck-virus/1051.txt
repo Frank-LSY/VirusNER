@@ -1,0 +1,43 @@
+
+
+1051. BMC Infect Dis. 2011 Dec 14;11:346. doi: 10.1186/1471-2334-11-346.
+
+An outbreak of coxsackievirus A6 hand, foot, and mouth disease associated with
+onychomadesis in Taiwan, 2010.
+
+Wei SH(1), Huang YP, Liu MC, Tsou TP, Lin HC, Lin TL, Tsai CY, Chao YN, Chang LY,
+Hsu CM.
+
+Author information: 
+(1)Taiwan Centers for Disease Control, Taipei, Taiwan.
+
+BACKGROUND: In 2010, an outbreak of coxsackievirus A6 (CA6) hand, foot and mouth 
+disease (HFMD) occurred in Taiwan and some patients presented with onychomadesis 
+and desquamation following HFMD. Therefore, we performed an epidemiological and
+molecular investigation to elucidate the characteristics of this outbreak.
+METHODS: Patients who had HFMD with positive enterovirus isolation results were
+enrolled. We performed a telephone interview with enrolled patients or their
+caregivers to collect information concerning symptoms, treatments, the presence
+of desquamation, and the presence of nail abnormalities. The serotypes of the
+enterovirus isolates were determined using indirect immunofluorescence assays.
+The VP1 gene was sequenced and the phylogenetic tree for the current CA6 strains 
+in 2010, 52 previous CA6 strains isolated in Taiwan from 1998 through 2009, along
+with 8 reference sequences from other countries was constructed using the
+neighbor-joining command in MEGA software.
+RESULTS: Of the 130 patients with laboratory-confirmed CA6 infection, some
+patients with CA6 infection also had eruptions around the perioral area (28,
+22%), the trunk and/or the neck (39, 30%) and generalized skin eruptions (6, 5%) 
+in addition to the typical presentation of skin eruptions on the hands, feet, and
+mouths. Sixty-six (51%) CA6 patients experienced desquamation of palms and soles 
+after the infection episode and 48 (37%) CA6 patients developed onychomadesis,
+which only occurred in 7 (5%) of 145 cases with non-CA6 enterovirus infection (p 
+< 0.001). The sequences of viral protein 1 of CA6 in 2010 differ from those found
+in Taiwan before 2010, but are similar to those found in patients in Finland in
+2008.
+CONCLUSIONS: HFMD patients with CA6 infection experienced symptoms targeting a
+broader spectrum of skin sites and more profound tissue destruction, i.e.,
+desquamation and nail abnormalities.
+
+DOI: 10.1186/1471-2334-11-346 
+PMCID: PMC3297538
+PMID: 22168544  [Indexed for MEDLINE]

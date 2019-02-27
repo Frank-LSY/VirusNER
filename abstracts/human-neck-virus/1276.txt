@@ -1,0 +1,70 @@
+
+
+1276. Oral Oncol. 2016 Nov;62:101-108. doi: 10.1016/j.oraloncology.2016.10.009. Epub
+2016 Oct 21.
+
+Diagnosis of HPV driven oropharyngeal cancers: Comparing p16 based algorithms
+with the RNAscope HPV-test.
+
+Mirghani H(1), Casiraghi O(2), Guerlain J(3), Amen F(4), He MX(5), Ma XJ(5), Luo 
+Y(5), Mourareau C(6), Drusch F(7), Lakdhar AB(2), Melkane A(3), St Guily L(8),
+Badoual C(9), Scoazec JY(10), Borget I(11), Aupérin A(11), Dalstein V(6), Vielh
+P(12).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Gustave Roussy Cancer
+Campus, 114 rue Edouard Vaillant, Villejuif, France. Electronic address:
+haitham.mirghani@gustaveroussy.fr.
+(2)Department of Biopathology, Gustave Roussy Cancer Campus, 114 rue Edouard
+Vaillant, Villejuif, France.
+(3)Department of Otolaryngology - Head and Neck Surgery, Gustave Roussy Cancer
+Campus, 114 rue Edouard Vaillant, Villejuif, France.
+(4)Department of Otolaryngology, Peterborough City Hospital and Addenbrooke's
+Hospital, Cambridge, UK.
+(5)Advanced Cell Diagnostics, 3960 Point Eden Way, Hayward, CA 94545, USA.
+(6)INSERM UMR-S 903, SFR CAP-Santé FED 4231, Université de Reims
+Champagne-Ardenne, F-51100 Reims, France.
+(7)Biobank, Gustave Roussy Cancer Campus, 114 rue Edouard Vaillant, Villejuif,
+France.
+(8)Department of Otolaryngology-Head and Neck Surgery, Hôpital Tenon, Assistance 
+Publique-Hôpitaux de Paris, France.
+(9)Department of Pathology, Hôpital Européen Georges Pompidou, Assistance
+Publique-Hôpitaux de Paris, France.
+(10)Department of Biopathology, Gustave Roussy Cancer Campus, 114 rue Edouard
+Vaillant, Villejuif, France; Biobank, Gustave Roussy Cancer Campus, 114 rue
+Edouard Vaillant, Villejuif, France; Laboratory of Translational Research,
+Gustave Roussy Cancer Campus, 114 rue Edouard Vaillant, Villejuif, France.
+(11)Department of Biostatistics and Epidemiology, Gustave Roussy Cancer Campus
+and University Paris-Sud, Villejuif, France.
+(12)Department of Biopathology, Gustave Roussy Cancer Campus, 114 rue Edouard
+Vaillant, Villejuif, France; Laboratory of Translational Research, Gustave Roussy
+Cancer Campus, 114 rue Edouard Vaillant, Villejuif, France.
+
+BACKGROUND: Accurate identification of HPV-driven oropharyngeal cancer (OPC) is a
+major issue and none of the current diagnostic approaches is ideal. An in situ
+hybridization (ISH) assay that detects high-risk HPV E6/E7 mRNA, called the
+RNAscope HPV-test, has been recently developed. Studies have suggested that this 
+assay may become a standard to define HPV-status.
+METHODS: To further assess this test, we compared its performance against the
+strategies that are used in routine clinical practice: p16 immunohistochemistry
+(IHC) as a single test and algorithms combining p16-IHC with HPV-DNA
+identification by PCR (algorithm-1) or ISH (algorithm-2).
+RESULTS: 105 OPC specimens were analyzed. The prevalence of HPV-positive samples 
+varied considerably: 67% for p16-IHC, 54% for algorithm-1, 61% for algorithm-2
+and 59% for the RNAscope HPV-test. Discrepancies between the RNAscope HPV-test
+and p16-IHC, algorithm-1 and 2 were noted in respectively 13.3%, 13.1%, and 8.6%.
+The 4 diagnostic strategies were able to identify 2 groups with different
+prognosis according to HPV-status, as expected. However, the greater survival
+differential was observed with the RNAscope HPV-test [HR: 0.19, 95% confidence
+interval (CI), 0.07-0.51, p=0.001] closely followed by algorithm-1 (HR: 0.23, 95%
+CI, 0.08-0.66, p=0.006) and algorithm-2 (HR: 0.26, 95% CI, 0.1-0.65, p=0.004). In
+contrast, a weaker association was found when p16-IHC was used as a single test
+(HR: 0.33, 95% CI, 0.13-0.81, p=0.02).
+CONCLUSIONS: Our findings suggest that the RNAscope HPV-test and p16-based
+algorithms perform better that p16 alone to identify OPC that are truly driven by
+HPV-infection. The RNAscope HPV-test has the advantage of being a single test.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.10.009 
+PMID: 27865361  [Indexed for MEDLINE]

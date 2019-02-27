@@ -1,0 +1,56 @@
+
+
+1658. Eur J Cancer. 2016 Sep;65:21-32. doi: 10.1016/j.ejca.2016.06.006. Epub 2016 Jul
+22.
+
+Human papillomavirus oncoprotein E6 upregulates c-Met through p53 downregulation.
+
+Qian G(1), Wang D(1), Magliocca KR(2), Hu Z(3), Nannapaneni S(1), Kim S(4), Chen 
+Z(5), Sun SY(1), Shin DM(1), Saba NF(6), Chen ZG(7).
+
+Author information: 
+(1)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University, Atlanta, GA 30322, USA.
+(2)Department of Pathology, Emory University, Atlanta, GA 30322, USA.
+(3)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University, Atlanta, GA 30322, USA; Department of Pathology, Xiangya School of
+Medicine, Central South University, Changsha, Hunan 410078, China.
+(4)Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA.
+(5)Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GA 
+30322, USA.
+(6)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University, Atlanta, GA 30322, USA. Electronic address: nfsaba@emory.edu.
+(7)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University, Atlanta, GA 30322, USA. Electronic address: gzchen@emory.edu.
+
+PURPOSE: Human papillomavirus (HPV)-associated oropharyngeal squamous cell
+carcinoma (OPSCC) carries a distinct clinical behaviour. c-Met oncogene is an
+important driver for tumour progression and its relationship with HPV in OPSCC
+was explored in the present study.
+EXPERIMENTAL DESIGN: Knockdown of HPV oncogene E6 or p53 alone and in combination
+was performed to examine their effects on c-Met expression by Western blot and
+quantitative real-time polymerase chain reaction. The effects of c-Met inhibition
+on cell proliferation, migration, and colony formation were examined in
+HPV-positive head and neck squamous cell carcinoma (HNSCC) cells. Retrospectively
+collected OPSCC patient specimens (N = 78) were stained for c-Met by
+immunohistochemistry and the staining levels were correlated with HPV status and 
+patient outcomes.
+RESULTS: E6 knockdown decreased c-Met protein and mRNA expression in HPV-positive
+HNSCC cells, which was partially abolished by the elimination of p53. Reducing
+c-Met decreased cell proliferation, migration, and colony formation in
+HPV-positive HNSCC cells. In OPSCC patient samples, high c-Met expression was
+associated with HPV-positive status (OR = 4.11, 95%CI: 1.16-14.55, P = 0.028) and
+tumour stage (OR = 0.27, 95%CI: 0.08-0.93, P = 0.039) by multivariable analysis. 
+In T3/T4 stage patients, high c-Met expression was associated with HPV positivity
+and low p53 levels, supporting an axis of E6-p53-c-Met regulation. Furthermore,
+high c-Met expression was marginally associated with poor disease-free survival
+in HPV-positive patients.
+CONCLUSIONS: Our results suggest that c-Met may serve as a novel target for
+treating HPV-associated OPSCC. The data also demonstrate that HPV E6 upregulates 
+c-Met expression partially through p53 downregulation.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2016.06.006 
+PMCID: PMC5002257
+PMID: 27451021  [Indexed for MEDLINE]

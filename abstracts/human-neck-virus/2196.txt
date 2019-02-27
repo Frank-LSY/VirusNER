@@ -1,0 +1,56 @@
+
+
+2196. Clin Oncol (R Coll Radiol). 2014 Oct;26(10):643-7. doi:
+10.1016/j.clon.2014.06.007. Epub 2014 Jul 4.
+
+T-category remains an important prognostic factor for oropharyngeal carcinoma in 
+the era of human papillomavirus.
+
+Mackenzie P(1), Pryor D(2), Burmeister E(3), Foote M(1), Panizza B(4), Burmeister
+B(1), Porceddu S(1).
+
+Author information: 
+(1)Department of Radiation Oncology, Princess Alexandra Hospital, Brisbane,
+Queensland, Australia; School of Medicine, University of Queensland, St Lucia,
+Brisbane, Queensland, Australia.
+(2)Department of Radiation Oncology, Princess Alexandra Hospital, Brisbane,
+Queensland, Australia; School of Medicine, University of Queensland, St Lucia,
+Brisbane, Queensland, Australia. Electronic address:
+david_pryor@health.qld.gov.au.
+(3)Nursing Practice Development Unit, Princess Alexandra Hospital, Brisbane,
+Queensland, Australia; Centre for Health Practice Innovation, Griffith
+University, Nathan, Queensland, Australia.
+(4)School of Medicine, University of Queensland, St Lucia, Brisbane, Queensland, 
+Australia; Head and Neck Surgical Service, Princess Alexandra Hospital, Brisbane,
+Queensland, Australia.
+
+AIMS: To determine prognostic factors for locoregional relapse (LRR), distant
+relapse and all-cause death in a contemporary cohort of locoregionally advanced
+oropharyngeal squamous cell carcinoma (OSCC) treated with definitive
+chemoradiotherapy or radiotherapy alone.
+MATERIALS AND METHODS: OSCC patients treated with definitive radiotherapy between
+2005 and 2010 were identified from a prospective head and neck database. Patient 
+age, gender, smoking history, human papillomavirus (HPV) status, T- and
+N-category, lowest involved nodal level and gross tumour volume of the primary
+(GTV-p) and nodal (GTV-n) disease were analysed in relation to LRR, distant
+relapse and death by way of univariate and multivariate analysis.
+RESULTS: In total, 130 patients were identified, 88 HPV positive, with a median
+follow-up of 42 months. On multivariate analysis HPV status was a significant
+predictor of LRR (hazard ratio 0.15; 95% confidence interval 0.05-0.51) and death
+(hazard ratio 0.29; 95% confidence interval 0.14-0.59) but not distant relapse
+(hazard ratio 0.53, 95% confidence interval 0.22-1.27). Increasing T-category was
+associated with a higher risk of LRR (hazard ratio 1.80 for T3/4 versus T1/2; 95%
+confidence interval 1.08-2.99), death (hazard ratio 1.37, 95% confidence interval
+1.06-1.77) and distant relapse (hazard ratio 1.35; 95% confidence interval
+1.00-1.83). Increasing GTV-p was associated with increased risk of distant
+relapse and death. N3 disease and low neck nodes were significant for LRR,
+distant relapse and death on univariate analysis only.
+CONCLUSION: Tumour HPV status was the strongest predictor of LRR and death.
+T-category is more predictive of distant relapse and may provide additional
+prognostic value for LRR and death when accounting for HPV status.
+
+Copyright © 2014 The Royal College of Radiologists. Published by Elsevier Ltd.
+All rights reserved.
+
+DOI: 10.1016/j.clon.2014.06.007 
+PMID: 25001635  [Indexed for MEDLINE]

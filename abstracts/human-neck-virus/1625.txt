@@ -1,0 +1,38 @@
+
+
+1625. Gene Ther. 2011 Sep;18(9):884-90. doi: 10.1038/gt.2011.33. Epub 2011 Apr 7.
+
+Selective atonal gene delivery improves balance function in a mouse model of
+vestibular disease.
+
+Schlecker C(1), Praetorius M, Brough DE, Presler RG Jr, Hsu C, Plinkert PK,
+Staecker H.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, University of Kansas
+School of Medicine, Kansas city, KS, USA.
+
+Loss of balance is often due to loss of vestibular hair cells. In mammals,
+regeneration of functional hair cells in the mature sensory epithelium is
+limited; therefore, loss of sensory cells can lead to debilitating balance
+problems. Delivery of the transcription factor atonal (atoh1) after
+aminoglycoside ototoxicity has previously been shown to induce the
+transdifferentiation of supporting cells into new hair cells and restore
+function. A problem with mouse aminoglycoside models is that the partial loss of 
+hair cells seen in human disease is difficult to establish consistently. To more 
+closely mirror human clinical balance dysfunction, we have used systemic
+application of 3,3'-iminodipropionitrile (IDPN), a vestibulotoxic nitrile
+compound known to cause vestibular hair cell loss, to induce a consistent partial
+loss of vestibular hair cells. To determine if balance function could be
+restored, we delivered atoh1 using a new adenovirus vector, based on Ad28. The
+Ad28 adenovector is based on a human serotype with a low seroprevalence that
+appears to target gene delivery to vestibular supporting cells. To further
+provide cell type selectivity of gene delivery, we expressed atoh1 using the
+supporting cell-specific glial fibrillary acid protein promoter. Delivery of this
+vector to IDPN-damaged vestibular organs resulted in a significant recovery of
+vestibular hair cells and restoration of balance, as measured by time on rotarod 
+compared with untreated controls.
+
+DOI: 10.1038/gt.2011.33 
+PMCID: PMC3136627
+PMID: 21472006  [Indexed for MEDLINE]

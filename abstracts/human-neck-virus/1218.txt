@@ -1,0 +1,37 @@
+
+
+1218. Cancer Biol Ther. 2016;17(2):181-7. doi: 10.1080/15384047.2015.1108489. Epub 2015
+Nov 17.
+
+E6 viral protein ratio correlates with outcomes in human papillomavirus related
+oropharyngeal cancer.
+
+Hong A(1)(2), Zhang X(3), Jones D(3), Zhang M(1)(2), Lee CS(4), Lyons JG(1),
+Veillard AS(5), Rose B(3).
+
+Author information: 
+(1)a Central Clinical School, Sydney Medical School, The University of Sydney ,
+NSW , Australia.
+(2)b Department of Radiation Oncology , Lifehouse , NSW , Australia.
+(3)c Department of Infectious Diseases and Immunology , Sydney Medical School,
+The University of Sydney , NSW , Australia.
+(4)d Department of Anatomical Pathology , Royal Prince Alfred Hospital ,
+Camperdown , NSW , Australia.
+(5)e NHMRC Clinical Trials Center, The University of Sydney , NSW , Australia.
+
+BACKGROUND: The study aimed to identify prognostic markers to improve the
+management of patients with HPV positive OSCC Methods: We determined the ratio of
+HPV E6*I and E6*II splice variants by quantitative RT-PCR in 177 HPV positive
+OSCC and correlated the findings with other clinicopathological data Results:
+There was no significant difference in locoregional recurrence (HR 1.72 p = 0.24)
+and death (HR 1.65, p = 0.13) among patients whose tumors had an E6*I/*II ratio
+≥1 compared with an E6*I/*II ratio of <1. Univariate analysis showed that
+patients with E6*I/*II ≥1 OSCC were more likely to have an event. In the
+multivariable analysis, there was a trend for more events in patients with
+E6*I/*II ratio ≥1 (HR 1.70, 95% CI 0.95-3.03, p = 0.07) CONCLUSION: Our data
+suggest that the use of HPV 16 spliced transcripts may help to predict for poorer
+outcomes in patients with HPV positive OSCC.
+
+DOI: 10.1080/15384047.2015.1108489 
+PMCID: PMC4847997
+PMID: 26575468  [Indexed for MEDLINE]

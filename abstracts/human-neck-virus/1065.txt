@@ -1,0 +1,44 @@
+
+
+1065. J Gene Med. 2010 Jan;12(1):3-10. doi: 10.1002/jgm.1416.
+
+Transient detection of E1-containing adenovirus in saliva after the delivery of a
+first-generation adenoviral vector to human parotid gland.
+
+Zheng C(1), Nikolov NP, Alevizos I, Cotrim AP, Liu S, McCullagh L, Chiorini JA,
+Illei GG, Baum BJ.
+
+Author information: 
+(1)Molecular Physiology and Therapeutics Branch, National Institute of Dental and
+Craniofacial Research, National Institutes of Health, Bethesda, MD 20892-1190,
+USA.
+
+BACKGROUND: Radiation-induced salivary hypofunction is a common side-effect of
+treatment for head and neck cancers. Patients suffer significant morbidity and
+there is no suitable conventional therapy. We are conducting a Phase I clinical
+trial, using a first-generation serotype 5 adenoviral (Ad5) vector encoding human
+aquaporin-1 (AdhAQP1) to treat such patients. One week after the administration
+of AdhAQP1 to an enrolled, generally healthy patient, E1-containing adenovirus
+was detected in parotid saliva.
+METHODS: The real-time quantitative polymerase chain reaction (PCR) was used to
+measure the Ad5 E1 gene and AdhAQP1 in saliva and serum. PCR and sequencing were 
+used to characterize viral/vector DNA extracted from saliva. The presence of
+infectious adenovirus was assessed by the inoculation of A549 cells with aliquots
+of saliva. Serum Ad5 neutralizing antibodies were measured by the inhibition of
+293-cell transduction with an Ad5 vector encoding luciferase. Multiple clinical
+evaluations were performed.
+RESULTS: On day 7 after AdhAQP1 delivery, low levels of the Ad5 E1 gene were
+detected in parotid saliva (82 copies/microl). In addition, significant levels of
+AdhAQP1 were also detected (1.5 x 10(3) copies/microl). The patient was
+asymptomatic and subsequent analysis of parotid saliva samples prior to day 7 and
+after day 7 until day 42 was negative for both virus and vector. No virus or
+vector was detected in serum at any time. Detailed PCR analyses of DNA extracted 
+from the day 7 parotid saliva sample suggested the absence of a recombination
+event, and no infectious virus was found.
+CONCLUSIONS: The patient most likely had a latent Ad5 infection in the targeted
+parotid gland that was activated after gene transfer and was without clinical
+consequence.
+
+DOI: 10.1002/jgm.1416 
+PMCID: PMC5241068
+PMID: 19941317  [Indexed for MEDLINE]

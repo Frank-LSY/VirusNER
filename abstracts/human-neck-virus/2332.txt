@@ -1,0 +1,44 @@
+
+
+2332. AJNR Am J Neuroradiol. 2017 Dec;38(12):2231-2237. doi: 10.3174/ajnr.A5409. Epub
+2017 Oct 12.
+
+Setting the Stage for 2018: How the Changes in the American Joint Committee on
+Cancer/Union for International Cancer Control Cancer Staging Manual Eighth
+Edition Impact Radiologists.
+
+Glastonbury CM(1), Mukherji SK(2), O'Sullivan B(3), Lydiatt WM(4)(5)(6).
+
+Author information: 
+(1)From the Department of Radiology and Biomedical Imaging (C.M.G.), University
+of California, San Francisco, California christine.glastonbury@ucsf.edu.
+(2)Department of Radiology (S.K.M.), Michigan State University, East Lansing,
+Michigan.
+(3)Department of Radiation Oncology (B.O.), Princess Margaret Cancer Center,
+University of Toronto, Toronto, Ontario, Canada.
+(4)Department of Surgery, Head and Neck Oncology (W.M.L.), Estabrook Cancer
+Center, Nebraska Methodist Hospital, Omaha, Nebraska.
+(5)Creighton University (W.M.L.), Omaha, Nebraska.
+(6)Naval Medical Center (W.M.L.), Portsmouth, Virginia.
+
+The updated eighth edition of the Cancer Staging Manual of the American Joint
+Committee on Cancer will be implemented in January 2018. There are multiple
+changes to the head and neck section of the manual, which will be relevant to
+radiologists participating in multidisciplinary head and neck tumor boards and
+reading pretreatment head and neck cancer scans. Human
+papillomavirus-related/p16(+) oropharyngeal squamous cell carcinoma will now be
+staged separately; this change reflects the markedly better prognosis of these
+tumors compared with non-human papillomavirus/p16(-) oropharyngeal squamous cell 
+carcinoma. Nodal staging has dramatically changed so that there are different
+tables for human papillomavirus/p16(+) oropharyngeal squamous cell carcinoma,
+Epstein-Barr virus-related nasopharyngeal carcinoma, and all other head and neck 
+squamous cell carcinomas. Extranodal extension of tumor is a new clinical feature
+for this third staging group. In the oral cavity, the pathologically determined
+depth of tumor invasion is a new staging criterion, while extrinsic tongue muscle
+invasion is no longer part of staging. This review serves to educate radiologists
+on the eighth edition changes and their rationale.
+
+© 2017 by American Journal of Neuroradiology.
+
+DOI: 10.3174/ajnr.A5409 
+PMID: 29025723  [Indexed for MEDLINE]

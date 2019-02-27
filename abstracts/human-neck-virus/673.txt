@@ -1,0 +1,40 @@
+
+
+673. Lung Cancer. 2013 Mar;79(3):215-20. doi: 10.1016/j.lungcan.2012.11.018. Epub 2012
+Dec 14.
+
+Human papilloma virus genome is rare in North American non-small cell lung
+carcinoma patients.
+
+Yanagawa N(1), Wang A, Kohler D, Santos Gda C, Sykes J, Xu J, Pintilie M, Tsao
+MS.
+
+Author information: 
+(1)Department of Pathology, University Health Network, Princess Margaret Hospital
+site and Ontario Cancer Institute, Toronto, Ontario, Canada.
+
+The reported prevalence for presence of human papillomavirus (HPV) genome in lung
+cancer varies across the world, and limited data are available for North America.
+P16 immunostaining is used as a surrogate marker for the presence of HPV in
+cervical and head and neck cancers. In non-small cell lung carcinoma (NSCLC), the
+association between P16 protein overexpression and HPV remains unclear. We
+investigated the presence of HPV genome by in situ hybridization (ISH) and
+polymerase chain reaction (PCR) and P16 or Rb protein expression by
+immunohistochemistry (IHC) in 336 surgically resected primary NSCLC: 204
+adenocarcinoma (AdC) and 132 squamous cell carcinoma (SqCC). HPV genome was
+detected in 5 (1.5%) of 336 tumors studied by both ISH and PCR; all of them were 
+typed as HPV16 and found in SqCC (3.8%). Despite being solitary tumors and
+clinically considered as primary lung cancers, all 5 patients had past history of
+HPV associated squamous cell carcinomas of other organ sites, thus highly
+suggestive of being metastases. P16 immunostaining was found in 137 (40.8%)
+tumors, with 109 (32.4%) showing high level expression. All HPV positive (+)
+cases showed P16 high expression. P16 and Rb protein expressions were inversely
+correlated (P<0.001), suggesting that the high P16 expression is largely driven
+by non-HPV loss of Rb protein expression. We conclude that HPV is not or rarely
+associated with NSCLC in Canadian and most likely North American patients, and
+P16 immunostaining is not a surrogate marker for its presence.
+
+Copyright © 2012 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.lungcan.2012.11.018 
+PMID: 23254264  [Indexed for MEDLINE]

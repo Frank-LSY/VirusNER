@@ -1,0 +1,44 @@
+
+
+3136. Nat Immunol. 2017 Aug;18(8):940-950. doi: 10.1038/ni.3775. Epub 2017 Jun 19.
+
+Tissue-resident memory features are linked to the magnitude of cytotoxic T cell
+responses in human lung cancer.
+
+Ganesan AP(1)(2), Clarke J(1)(3), Wood O(3), Garrido-Martin EM(4), Chee SJ(3)(5),
+Mellows T(4), Samaniego-Castruita D(1), Singh D(1), Seumois G(1), Alzetani A(5), 
+Woo E(5), Friedmann PS(4), King EV(3), Thomas GJ(3), Sanchez-Elsner T(4),
+Vijayanand P(1)(4), Ottensmeier CH(3)(5).
+
+Author information: 
+(1)La Jolla Institute for Allergy &Immunology, La Jolla, California, USA.
+(2)Division of Pediatric Hematology Oncology, Rady Children's Hospital,
+University of California San Diego, San Diego, California, USA.
+(3)Cancer Sciences Unit, Faculty of Medicine, University of Southampton,
+Southampton, UK.
+(4)Clinical and Experimental Sciences, Sir Henry Wellcome Laboratories, Faculty
+of Medicine University of Southampton, Southampton, UK.
+(5)Southampton University Hospitals NHS foundation Trust, Southampton, UK.
+
+Comment in
+    J Thorac Dis. 2017 Nov;9(11):4162-4164.
+
+Therapies that boost the anti-tumor responses of cytotoxic T lymphocytes (CTLs)
+have shown promise; however, clinical responses to the immunotherapeutic agents
+currently available vary considerably, and the molecular basis of this is
+unclear. We performed transcriptomic profiling of tumor-infiltrating CTLs from
+treatment-naive patients with lung cancer to define the molecular features
+associated with the robustness of anti-tumor immune responses. We observed
+considerable heterogeneity in the expression of molecules associated with
+activation of the T cell antigen receptor (TCR) and of immunological-checkpoint
+molecules such as 4-1BB, PD-1 and TIM-3. Tumors with a high density of CTLs
+showed enrichment for transcripts linked to tissue-resident memory cells (TRM
+cells), such as CD103, and CTLs from CD103hi tumors displayed features of
+enhanced cytotoxicity. A greater density of TRM cells in tumors was predictive of
+a better survival outcome in lung cancer, and this effect was independent of that
+conferred by CTL density. Here we define the 'molecular fingerprint' of
+tumor-infiltrating CTLs and identify potentially new targets for immunotherapy.
+
+DOI: 10.1038/ni.3775 
+PMCID: PMC6036910
+PMID: 28628092  [Indexed for MEDLINE]

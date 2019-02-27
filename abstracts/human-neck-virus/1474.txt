@@ -1,0 +1,30 @@
+
+
+1474. Head Neck Oncol. 2010 Jun 29;2:15. doi: 10.1186/1758-3284-2-15.
+
+Meta-analysis of the impact of human papillomavirus (HPV) on cancer risk and
+overall survival in head and neck squamous cell carcinomas (HNSCC).
+
+Dayyani F(1), Etzel CJ, Liu M, Ho CH, Lippman SM, Tsao AS.
+
+Author information: 
+(1)Department of Thoracic/Head & Neck Medical Oncology, University of Texas MD
+Anderson Cancer Center, Houston, TX 77030, USA. fdayyani@mdanderson.org
+
+BACKGROUND: HPV is important in a subset of HNSCC. Our meta-analysis determined
+the clinical characteristics of HPV-related HNSCC.
+METHOD: Pubmed search terms "HPV" and "HNSCC" were used to identify 34 studies
+since 1980. We obtained pooled adjusted odds ratio (OR) or hazard ratio (HR)
+using random or fixed-effects model and compared OS depicted in forest plot.
+RESULTS: A total of 5681 patients were included. The prevalence of HPV+ tumors
+was 22%, with 86.7% of HPV16+ genotype. The OR for HNSCC in HPV16+ patients was
+4.44 (95% CI = 2.87-6.02). HPV status was associated with p16 expression (adj OR 
+= 3.00; 0.90-9.70), and HPV+ tumors were less likely to harbor p53 mutations (adj
+OR = 0.21; 0.04-0.38). The HR for death in HPV+ patients was 0.42 (0.27-0.57).
+HPV+ HNSCC also had a better response to therapy.
+CONCLUSION: HPV+ HNSCC are established as a separate biologic entity. Prospective
+trials are needed to establish the optimal therapy for HPV+ HNSCC.
+
+DOI: 10.1186/1758-3284-2-15 
+PMCID: PMC2908081
+PMID: 20587061  [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+
+
+1655. Head Neck. 2014 Mar;36(3):323-7. doi: 10.1002/hed.23296. Epub 2013 Jun 1.
+
+Preoperative 18F-FDG PET/CT and high-risk HPV in patients with oropharyngeal
+squamous cell carcinoma.
+
+Joo YH(1), Yoo IeR, Cho KJ, Park JO, Nam IC, Kim MS.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, College of Medicine, The
+Catholic University of Korea, Seoul, Republic of Korea.
+
+BACKGROUND: To evaluate the association of (18)F-fluorodeoxyglucose-positron
+emission tomography ((18)F-FDG PET/CT) and high-risk human papillomavirus (HPV)
+status and to establish the histologic correlates in oropharyngeal cancer
+(OPSCC).
+METHOD: The medical records of 78 patients who underwent (18)F-FDG PET/CT for
+OPSCC before surgery were reviewed.
+RESULTS: The positive rate of high-risk HPV in situ hybridization was 36% (28 of 
+78). The maximum standardized uptake values (SUVmax ) of negativity for the
+high-risk HPV subtypes (10.29 ± 4.30) and positivity (6.69 ± 4.17) were found to 
+be significantly different (p = .001). The SUVmax cutoff value for
+differentiating negativity for the high-risk HPV subtypes from positivity was
+7.10, with the sensitivity of 78% and the specificity of 68%. A median SUVmax
+(using 7.10 as a cutoff) (p = .041) and high-risk HPV status (p = .040) were
+found to be associated with 5-year disease-specific survival (DSS).
+CONCLUSIONS: Median (18)F-FDG PET/CT SUVmax cutoff values 7.10 or greater are
+associated with a high-risk HPV negativity in OPSCC patients.
+
+Copyright © 2013 Wiley Periodicals, Inc., A Wiley Company.
+
+DOI: 10.1002/hed.23296 
+PMID: 23729374  [Indexed for MEDLINE]

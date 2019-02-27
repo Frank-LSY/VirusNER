@@ -1,0 +1,42 @@
+
+
+10. J Gen Virol. 2017 Sep;98(9):2343-2350. doi: 10.1099/jgv.0.000891. Epub 2017 Aug
+10.
+
+Molecular diversity of IgG responses to Epstein-Barr virus proteins in
+asymptomatic Epstein-Barr virus carriers.
+
+Goswami R(1), Shair KHY(2), Gershburg E(3).
+
+Author information: 
+(1)1​Department of Medical Microbiology, Immunology, and Cell Biology, Southern
+Illinois University School of Medicine, Springfield, IL 62794-9626, USA
+2​Department of Internal Medicine, Southern Illinois University School of
+Medicine, Springfield, IL 62702, USA †​Present address: Duke Human Vaccine
+Institute, Duke University Medical Center, Durham, NC 27710, USA.
+(2)3​Cancer Virology Program, University of Pittsburgh Cancer Institute Hillman
+Cancer Center, Pittsburgh, PA 15232, USA 4​Department of Microbiology and
+Molecular Genetics, University of Pittsburgh, Pittsburgh, PA 15213, USA.
+(3)2​Department of Internal Medicine, Southern Illinois University School of
+Medicine, Springfield, IL 62702, USA 1​Department of Medical Microbiology,
+Immunology, and Cell Biology, Southern Illinois University School of Medicine,
+Springfield, IL 62794-9626, USA 5​Simmons Cancer Institute, Southern Illinois
+University School of Medicine, Springfield, IL 62702, USA.
+
+The Epstein-Barr virus (EBV) is a ubiquitous pathogen that infects over 90 % of
+adults. EBV is the primary etiological agent of infectious mononucleosis and is
+closely associated with nasopharyngeal carcinoma, gastric carcinoma, Hodgkin
+lymphoma and Burkitt lymphoma. Clinical serological assays for EBV diagnosis only
+survey a small portion of the viral proteome, which does not represent the total 
+antigenic breadth presented to the immune system during viral infection. In this 
+study, we have generated an expression library containing the majority of EBV
+ORFs, and have systematically evaluated IgG responses to those EBV proteins in
+sera from EBV carriers. In addition to confirming previously recognized dominant 
+EBV antigens, this study has identified additional immunodominant antigens, and
+has revealed a more expansive antigenic profile of the humoral responses to EBV
+in asymptomatic carriers. This EBV expression library will be deposited in a
+public repository with the goal of disseminating this new research tool for the
+application of identifying potential new biomarkers for EBV-associated diseases.
+
+DOI: 10.1099/jgv.0.000891 
+PMID: 28795661  [Indexed for MEDLINE]

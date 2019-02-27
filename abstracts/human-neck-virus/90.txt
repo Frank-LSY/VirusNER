@@ -1,0 +1,50 @@
+
+
+90. Oral Surg Oral Med Oral Pathol Oral Radiol. 2016 Nov;122(5):609-618.e7. doi:
+10.1016/j.oooo.2016.06.006. Epub 2016 Jun 22.
+
+Low prevalence of transcriptionally active human papilloma virus in Indian
+patients with HNSCC and leukoplakia.
+
+Bhosale PG(1), Pandey M(1), Desai RS(2), Patil A(3), Kane S(3), Prabhash K(4),
+Mahimkar MB(5).
+
+Author information: 
+(1)Cancer Research Institute, Advanced Centre for Treatment, Research and
+Education in Cancer, Tata Memorial Centre, Navi Mumbai, India.
+(2)Department of Oral Pathology and Microbiology, Nair Hospital Dental College,
+Mumbai, India.
+(3)Department of Pathology, Tata Memorial Hospital, Tata Memorial Centre, Parel, 
+Mumbai, India.
+(4)Department of Medical Oncology, Tata Memorial Hospital, Tata Memorial Centre, 
+Parel, Mumbai, India.
+(5)Cancer Research Institute, Advanced Centre for Treatment, Research and
+Education in Cancer, Tata Memorial Centre, Navi Mumbai, India. Electronic
+address: mmahimkar@actrec.gov.in.
+
+OBJECTIVES: In the present study, we comprehensively analyzed the prevalence of
+transcriptionally active human papilloma virus (HPV) in tissue samples of Indian 
+patients with leukoplakia, predominantly hyperplastic lesions and head and neck
+squamous cell carcinoma (HNSCC). In addition, saliva samples from patients with
+HNSCC were screened for HPV detection.
+STUDY DESIGN: P16 overexpression was analyzed by immunohistochemistry. Tissue
+samples of leukoplakia (n = 121) and HNSCC (n = 427) and saliva from patients
+with HNSCC (n = 215) were tested for HPV using nested polymerase chain reaction. 
+Positive samples were sequenced for subtyping. The presence of HPV E6/E7 mRNA was
+confirmed by RNA in situ hybridization.
+RESULTS: P16 expression and HPV DNA were not detected in any of the leukoplakia
+specimens. Of the 427 HNSCC tumors, 9 showed p16 overexpression and 7/427 cases
+were positive for HPV16 DNA, in saliva or tissue. E6/E7 mRNA positivity was
+observed in 8 HNSCC samples, primarily from patients with no habit of tobacco
+consumption. The prevalence of high-risk HPV was restricted to oropharynx and
+larynx, with very little concordance between p16 overexpression and HPV
+positivity. All patients with HPV-positive saliva samples had transcriptionally
+active HPV present in their tumors.
+CONCLUSION: The presence of HPV DNA does not necessarily reflect
+transcriptionally active virus in tumors; hence, it is important to consider this
+fact while categorizing HPV-associated tumors.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.oooo.2016.06.006 
+PMID: 27765330  [Indexed for MEDLINE]

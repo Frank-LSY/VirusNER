@@ -1,0 +1,42 @@
+
+
+1407. Int J Cancer. 2015 Jul 15;137(2):395-408. doi: 10.1002/ijc.29330. Epub 2014 Nov
+24.
+
+Incidence trends of human papillomavirus-related head and neck cancer in Taiwan, 
+1995-2009.
+
+Hwang TZ(1), Hsiao JR(2), Tsai CR(3), Chang JS(3).
+
+Author information: 
+(1)Department of Otolaryngology, E-DA Hospital and I-Shou University, Kaohsiung, 
+Taiwan.
+(2)Department of Otolaryngology, National Cheng Kung University Hospital, College
+of Medicine, National Cheng Kung University, Tainan, Taiwan.
+(3)National Institute of Cancer Research, National Health Research Institutes,
+Tainan, Taiwan.
+
+Recent studies suggested that human papillomavirus (HPV) is an emerging risk
+factor of head and neck cancer (HNC), particularly for oropharyngeal cancer.
+Studies from the West showed a rising trend of HPV-related HNC despite a decrease
+of the overall HNC incidence. In contrast, the overall HNC incidence in Taiwan
+has continued to rise. It is not clear whether the incidence trends of
+HPV-related HNC in Taiwan have a similar pattern to those from countries with an 
+overall decreasing incidence of HNC. This study examined the incidence trends of 
+HPV-related and HPV-unrelated HNC in Taiwan using data from the Taiwan Cancer
+Registry. Our results showed that the incidence trends of HPV-related and
+HPV-unrelated HNC in Taiwan both rose during 1995-2009. The incidence of
+HPV-related HNC (1.3 per 100,000 in 1995 to 3.3 in 2009, annual percentage change
+(APC) = 6.9, p < 0.0001) rose more rapidly than the incidence of HPV-unrelated
+HNC (10.4 per 100,000 in 1995 to 21.7 in 2009, APC = 5.0, p < 0.0001). The rising
+trend of HPV-related HNC was particularly prominent for HNC occurring in tonsil
+(APC = 8.2, p < 0.0001), in men (APC = 7.5, p < 0.0001), and in those aged
+between 40 and 50 years (APC = 8.5, p < 0.0001). Although the overall incidence
+of HNC in Taiwan has continued to increase, the most rapid rise is in the
+HPV-related HNC. This suggests that similar to the Western world, HPV-related HNC
+is becoming an important public health issue in Taiwan.
+
+© 2014 UICC.
+
+DOI: 10.1002/ijc.29330 
+PMID: 25395239  [Indexed for MEDLINE]

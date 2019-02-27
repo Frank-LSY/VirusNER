@@ -1,0 +1,36 @@
+
+
+219. Curr Opin Oncol. 2009 May;21(3):201-5.
+
+Human papillomavirus-related head and neck tumors: clinical and research
+implication.
+
+Psyrri A(1), Gouveris P, Vermorken JB.
+
+Author information: 
+(1)Second Department of Internal Medicine, Attikon University Hospital, Athens,
+Greece. psyrri237@yahoo.com
+
+PURPOSE OF REVIEW: High-risk human papillomaviruses (HPVs) are implicated in the 
+development of a subset of head and neck squamous cell cancers (HNSCCs),
+especially those arising from the lingual or palatine tonsils. HPV-associated
+HNSCCs represent a different disease entity from those associated with the
+traditional risk factors of tobacco and alcohol use. The demonstration that HPV
+is causally associated with a subset of HNSCC has tremendous clinical and
+research implications.
+RECENT FINDINGS: In recent years, there has been an increase in the annual
+incidence of HPV-related HNSCC in the United States and Europe. It has now become
+clear that a subset of HNSCC is a sexually transmitted disease with distinct
+pathogenesis and clinical/pathological features. HPV-associated HNSCCs have a
+better prognosis compared with stage-matched non-HPV-related HNSCC in the
+majority of studies. Research efforts are now focusing on deintensification of
+treatment to reduce treatment-associated morbidity. HPV-targeted therapies are
+under investigation.
+SUMMARY: The increasing incidence of HPV-related HNSCC has led to the development
+of novel research strategies in HNSCC. This review summarizes the epidemiology,
+clinical presentation, molecular pathogenesis, diagnosis, and therapy of
+HPV-associated HNSCC; it also summarizes how a better understanding of the
+molecular pathogenesis of HPV-associated HNSCC is expected to change treatment.
+
+
+PMID: 19370803  [Indexed for MEDLINE]

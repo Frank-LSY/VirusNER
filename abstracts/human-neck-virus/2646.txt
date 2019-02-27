@@ -1,0 +1,48 @@
+
+
+2646. Adv Drug Deliv Rev. 2017 Jan 15;109:63-73. doi: 10.1016/j.addr.2016.02.002. Epub 
+2016 Feb 12.
+
+Cancer stem cells: Radioresistance, prediction of radiotherapy outcome and
+specific targets for combined treatments.
+
+Krause M(1), Dubrovska A(2), Linge A(3), Baumann M(4).
+
+Author information: 
+(1)German Cancer Consortium (DKTK) Dresden, Germany; Dept. of Radiation Oncology,
+Technische Universität Dresden, Germany; OncoRay, Faculty of Medicine and
+University Hospital Carl Gustav Carus, Technische Universität Dresden, Germany;
+Helmholtz-Zentrum Dresden-Rossendorf, Germany; German Cancer Research Center
+(DKFZ) Heidelberg, Germany. Electronic address:
+mechthild.krause@uniklinikum-dresden.de.
+(2)German Cancer Consortium (DKTK) Dresden, Germany; OncoRay, Faculty of Medicine
+and University Hospital Carl Gustav Carus, Technische Universität Dresden,
+Germany; German Cancer Research Center (DKFZ) Heidelberg, Germany.
+(3)German Cancer Consortium (DKTK) Dresden, Germany; Dept. of Radiation Oncology,
+Technische Universität Dresden, Germany; OncoRay, Faculty of Medicine and
+University Hospital Carl Gustav Carus, Technische Universität Dresden, Germany;
+German Cancer Research Center (DKFZ) Heidelberg, Germany.
+(4)German Cancer Consortium (DKTK) Dresden, Germany; Dept. of Radiation Oncology,
+Technische Universität Dresden, Germany; OncoRay, Faculty of Medicine and
+University Hospital Carl Gustav Carus, Technische Universität Dresden, Germany;
+Helmholtz-Zentrum Dresden-Rossendorf, Germany; German Cancer Research Center
+(DKFZ) Heidelberg, Germany.
+
+Inactivation of cancer stem cells (CSCs) is of utmost importance for tumor cure
+after radiotherapy. An increasing body of evidence complies with a higher
+radioresistance of CSCs compared to the mass of tumor cells, supporting the use
+of CSC related biomarkers for prediction of radiotherapy outcome. Treatment
+individualization strategies for patient groups with vastly different risk of
+recurrence will most likely require application of more than one biomarker.
+Specifically, inclusion of established biomarkers like tumor size for primary
+radio(chemo)therapy or human papilloma virus (HPV) infection status in head and
+neck squamous cell carcinoma seems to be of very high relevance. The high
+heterogeneity of CSC subclones along with changes of the functional behavior of
+individual tumors under treatment underlines the importance of the selection of
+the optimal timepoint(s) of biomarker evaluation, but also provides a potential
+therapeutic target for combined treatment approaches with irradiation.
+
+Copyright © 2016 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.addr.2016.02.002 
+PMID: 26877102  [Indexed for MEDLINE]

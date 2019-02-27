@@ -1,0 +1,46 @@
+
+
+2598. Eur J Nucl Med Mol Imaging. 2016 Apr;43(4):617-25. doi:
+10.1007/s00259-015-3247-7. Epub 2015 Nov 18.
+
+Quantitative and qualitative analysis of [(18)F]FDG and [(18)F]FAZA positron
+emission tomography of head and neck cancers and associations with HPV status and
+treatment outcome.
+
+Graves EE(1), Hicks RJ(2), Binns D(2), Bressel M(3), Le QT(4), Peters L(2), Young
+RJ(3), Rischin D(5).
+
+Author information: 
+(1)Department of Radiation Oncology, Stanford University, 269 Campus Dr., CCSR
+South Rm. 1255A, Stanford, CA, 94305-5152, USA. egraves@stanford.edu.
+(2)Division of Radiation Oncology and Cancer Imaging, Peter MacCallum Cancer
+Centre, Melbourne, Australia.
+(3)Division of Research, Peter MacCallum Cancer Centre, Melbourne, Australia.
+(4)Department of Radiation Oncology, Stanford University, 269 Campus Dr., CCSR
+South Rm. 1255A, Stanford, CA, 94305-5152, USA.
+(5)Division of Cancer Medicine, Peter MacCallum Cancer Centre, Melbourne,
+Australia.
+
+PURPOSE: While methods for imaging tumor hypoxia with positron emission
+tomography (PET) have been developed, optimal methods for interpreting and
+utilizing these datasets in the clinic remain unclear. In this study, we analyzed
+hypoxia PET images of head and neck cancer patients and compared imaging metrics 
+with human papilloma virus (HPV) status and clinical outcome.
+METHODS: Forty-one patients treated as part of a phase III trial of the hypoxic
+cytotoxin tirapazamine (TROG 02.02) were imaged with PET using fluorodeoxyglucose
+(FDG) and fluoroazomycin arabinoside (FAZA). FDG and FAZA PET images were
+interpreted qualitatively and quantitatively, and compared with tumor T stage,
+HPV status, and treatment outcome using multivariate statistics.
+RESULTS: PET signals in the tumor and lymph nodes exhibited significant intra-
+and inter-patient variability. The FAZA hypoxic volume demonstrated a significant
+correlation with tumor T stage. PET-hypoxic tumors treated with cisplatin
+exhibited significantly worse treatment outcomes relative to PET-oxic tumors or
+PET-hypoxic tumors treated with tirapazamine.
+CONCLUSION: Quantitative analysis of FAZA PET yielded metrics that correlated
+with clinical T stage and were capable of stratifying patient outcome. These
+results encourage further development of this technology, with particular
+emphasis on establishment of robust quantitative methods.
+
+DOI: 10.1007/s00259-015-3247-7 
+PMCID: PMC4767583
+PMID: 26577940  [Indexed for MEDLINE]

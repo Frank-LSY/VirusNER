@@ -1,0 +1,67 @@
+
+
+2664. J Clin Virol. 2014 Jul;60(3):276-81. doi: 10.1016/j.jcv.2014.03.021. Epub 2014
+Apr 13.
+
+Specific probiotics and virological findings in symptomatic conscripts attending 
+military service in Finland.
+
+Lehtoranta L(1), Kalima K(2), He L(3), Lappalainen M(4), Roivainen M(5), Närkiö
+M(6), Mäkelä M(7), Siitonen S(2), Korpela R(8), Pitkäranta A(9).
+
+Author information: 
+(1)Centre for Military Medicine, Research and Development Department, Finnish
+Defense Forces, FI-00301 Helsinki, Finland; Institute of Biomedicine,
+Pharmacology, University of Helsinki, FI-00014 Helsinki, Finland. Electronic
+address: liisa.lehtoranta@helsinki.fi.
+(2)Centre for Military Medicine, Research and Development Department, Finnish
+Defense Forces, FI-00301 Helsinki, Finland.
+(3)Department of Public Health, Hjelt Institute, University of Helsinki, FI-00014
+Helsinki, Finland.
+(4)Department of Virology and Immunology, Helsinki University Central Hospital,
+Laboratory Services (HUSLAB), PO Box 400, FI-00029 Helsinki, Finland; Institute
+of Clinical Medicine, University of Helsinki, FI-00014 Helsinki, Finland.
+(5)Intestinal Viruses Unit, National Institute for Health and Welfare, FI-00271
+Helsinki, Finland.
+(6)Mehiläinen Ltd, FI-00260 Helsinki, Finland.
+(7)Institute of Clinical Medicine, University of Helsinki, FI-00014 Helsinki,
+Finland; Skin and Allergy Hospital, Helsinki University Central Hospital,
+FI-00029 Helsinki, Finland.
+(8)Institute of Biomedicine, Pharmacology, University of Helsinki, FI-00014
+Helsinki, Finland.
+(9)Institute of Clinical Medicine, University of Helsinki, FI-00014 Helsinki,
+Finland; Department of Otorhinolaryngology-Head and Neck Surgery, Helsinki
+University Central Hospital, FI-00029 Helsinki, Finland. Electronic address:
+anne.pitkaranta@helsinki.fi.
+
+BACKGROUND: Viral upper respiratory tract infections occur frequently among
+conscripts. Probiotics have reduced viral infections in children attending day
+care. Limited data are available on the effects of probiotics on the
+nasopharyngeal presence of respiratory viruses.
+OBJECTIVES: To assess, whether probiotics could decrease nasopharyngeal
+occurrence of respiratory viruses in Finnish conscripts.
+STUDY DESIGN: In a randomized, double-blind, placebo-controlled 90- and 150-day
+intervention study, 239 nasopharyngeal swab samples were collected from 192
+symptomatic conscripts receiving daily chewable probiotic tablet containing
+Lactobacillus rhamnosus GG and Bifidobacterium animalis ssp. lactis BB-12 (46.9%)
+or control tablet (53.1%) on visits to a garrison's health care center due to
+symptoms of infection. The presence of respiratory viruses was tested by
+PCR-methods, and viral findings were compared between the intervention groups.
+RESULTS: 184 (76.9%) nasopharyngeal samples were positive for at least one
+respiratory virus. Picornaviruses were the most common viruses and were detected 
+in 155 (84.2%) of samples. Of these, 143 (92.3%) were rhinovirus-positive and 20 
+(12.9%) were enterovirus-positive. The control group had 83 (64%) and the
+probiotic group 72 (66%) picornavirus infections (p=0.79). Monthly distribution
+of picornaviruses showed that there were less picornavirus findings after 3
+months in the probiotic group than in the control group (p=0.0069). However,
+probiotics did not reduce picornavirus occurrence in other months.
+CONCLUSIONS: Overall, probiotics did not reduce viral occurrence in symptomatic
+conscripts. However, probiotics decreased the presence of picornaviruses after 3 
+months, which may imply that probiotics play a role against viruses causing
+common cold. Further investigations are necessary to clarify the mechanisms
+involved in order to target specific probiotics on specific respiratory viruses.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2014.03.021 
+PMID: 24793963  [Indexed for MEDLINE]

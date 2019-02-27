@@ -1,0 +1,43 @@
+
+
+1167. Arch Otolaryngol Head Neck Surg. 2012 Dec;138(12):1155-9. doi:
+10.1001/jamaoto.2013.850.
+
+Predicting HPV status in head and neck cancer: the predictive value of
+sociodemographic and disease characteristics.
+
+Byrd JK, Wilhoit CS, Fordham MT, Reeves TD, McRackan TR, Nguyen SA, Sutkowski N, 
+Gillespie MB.
+
+Erratum in
+    Arch Otolaryngol Head Neck Surg. 2013 Apr;139(4):339. McCrackan, Theodore R
+[corrected to McRackan, Theodore R].
+
+OBJECTIVE: To determine whether the human papillomavirus (HPV) status of head and
+neck squamous cell carcinomas (HNSCCs) can be reliably predicted based on
+sociodemographic and disease characteristics alone. DESIGN A retrospective
+medical chart review of clinical and pathologic features.
+SETTING: Tertiary academic medical center.
+PATIENTS: We studied patients treated for HNSCC who were tested for markers of
+HPV or had tissue available for testing between 2006 and 2010.
+MAIN OUTCOME MEASURES: Four otolaryngology-head and neck surgery trainees were
+given the database of patient clinical and pathologic features and asked to
+predict the HPV status for each patient. The trainees' responses were scored for 
+accuracy, positive and negative predictive value, and interrater agreement.
+Multiple linear regression analyses were performed to determine predictors of HPV
+positivity.
+RESULTS: A total of 174 patients meeting inclusion criteria were identified, 95
+of whom were determined to have HPV-positive tumor tissue. Residents were able to
+accurately predict HPV status in 110 to 125 patients (63%-72%), with positive
+predictive values of 76% to 84% and negative predictive values of 61% to 69%. The
+only variables significantly related to HPV status were male sex (P = .01) and
+oropharyngeal subsite (P = .02). Only 4 patients had a "typical" HPV-positive
+profile.
+CONCLUSIONS: Knowledge of cancer stage, primary site, basaloid features, tumor
+differentiation, and presence of cystic neck disease and patient age, race, and
+smoking status did not allow accurate predictions of HPV status in many patients.
+Clinical testing of tumor tissue remains essential for a diagnosis of
+HPV-positive disease.
+
+DOI: 10.1001/jamaoto.2013.850 
+PMID: 23247234  [Indexed for MEDLINE]

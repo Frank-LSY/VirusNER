@@ -1,0 +1,38 @@
+
+
+42. Cold Spring Harb Perspect Med. 2016 Jan 4;6(1):a021360. doi:
+10.1101/cshperspect.a021360.
+
+Origins and Evolution of Hepatitis B Virus and Hepatitis D Virus.
+
+Littlejohn M(1), Locarnini S(1), Yuen L(1).
+
+Author information: 
+(1)Molecular Research and Development, Victorian Infectious Diseases Reference
+Laboratory, Doherty Institute, Melbourne 3000, Australia.
+
+Members of the family Hepadnaviridae fall into two subgroups: mammalian and
+avian. The detection of endogenous avian hepadnavirus DNA integrated into the
+genomes of zebra finches has revealed a deep evolutionary origin of
+hepadnaviruses that was not previously recognized, dating back at least 40
+million and possibly >80 million years ago. The nonprimate mammalian members of
+the Hepadnaviridae include the woodchuck hepatitis virus (WHV), the ground
+squirrel hepatitis virus, and arctic squirrel hepatitis virus, as well as a
+number of members of the recently described bat hepatitis virus. The
+identification of hepatitis B viruses (HBVs) in higher primates, such as
+chimpanzee, gorilla, orangutan, and gibbons that cluster with the human HBV, as
+well as a number of recombinant forms between humans and primates, further
+implies a more complex origin of this virus. We discuss the current theories of
+the origin and evolution of HBV and propose a model that includes cross-species
+transmissions and subsequent recombination events on a genetic backbone of
+genotype C HBV infection. The hepatitis delta virus (HDV) is a defective RNA
+virus requiring the presence of the HBV for the completion of its life cycle. The
+origins of this virus remain unknown, although some recent studies have suggested
+an ancient African radiation. The age of the association between HDV and HBV is
+also unknown.
+
+Copyright © 2016 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a021360 
+PMCID: PMC4691804
+PMID: 26729756  [Indexed for MEDLINE]

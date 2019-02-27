@@ -1,0 +1,43 @@
+
+
+1016. Br J Cancer. 2013 Mar 19;108(5):1157-62. doi: 10.1038/bjc.2013.55. Epub 2013 Feb 
+12.
+
+HPV infection in squamous cell carcinomas arising from different mucosal sites of
+the head and neck region. Is p16 immunohistochemistry a reliable surrogate
+marker?
+
+Bussu F(1), Sali M, Gallus R, Vellone VG, Zannoni GF, Autorino R, Dinapoli N,
+Santangelo R, Martucci R, Graziani C, Miccichè F, Almadori G, Galli J, Delogu G, 
+Sanguinetti M, Rindi G, Valentini V, Paludetti G.
+
+Author information: 
+(1)Institute of Otolaryngology, Università Cattolica del Sacro Cuore, Policlinico
+Agostino, Gemelli, Rome. francescobussu@yahoo.it
+
+BACKGROUND: Human papillomavirus 16 infection has been proven to be associated
+with oropharyngeal squamous cell carcinomas (SCCs) and is probably the main
+reason of the reported increase in the incidence. The role of high-risk (HR) HPV 
+for carcinogenesis of other sites in the head and neck awaits confirmation. With 
+the aim to evaluate the prevalence of HPV infection and the reliability of
+different diagnostic tools in SCCs of different sites, 109 consecutive untreated 
+head and neck SCCs were enrolled, and fresh tumour samples collected.
+METHODS: Human papillomavirus DNA was detected by Digene Hybrid Capture 2 (HC2). 
+Human papillomavirus E6 and E7 mRNA were detected by NucliSENS EasyQ HPVv1. P16
+expression was evaluated by immunohistochemistry.
+RESULTS: In all, 12.84% of cases were infected by HR genotypes and 1.84% by
+low-risk genotypes. Human papillomavirus 16 accounted for 87% of HR infections.
+The overall agreement between DNA and RNA detection is 99.1%. Although p16
+expression clearly correlates with HPV infection (P=0.0051), the inter-rater
+agreement is poor (k=0.27). The oropharynx showed the highest HR HPV infection
+rate (47.6%) and was also the only site in which p16 immunohistochemistry
+revealed to be a fair, but not excellent, diagnostic assay (κ=0.61).
+CONCLUSION: The prognostic role of HR HPV infection in oropharyngeal oncology,
+with its potential clinical applications, underscores the need for a consensus on
+the most appropriate detection methods. The present results suggest that viral
+mRNA detection could be the standard for fresh samples, whereas DNA detection
+could be routinely used in formalin-fixed, paraffin-embedded samples.
+
+DOI: 10.1038/bjc.2013.55 
+PMCID: PMC3619072
+PMID: 23403821  [Indexed for MEDLINE]

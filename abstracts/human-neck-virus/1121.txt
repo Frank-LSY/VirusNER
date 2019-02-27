@@ -1,0 +1,49 @@
+
+
+1121. BMC Cancer. 2013 Jan 8;13:10. doi: 10.1186/1471-2407-13-10.
+
+Estimating the clinical benefits of vaccinating boys and girls against
+HPV-related diseases in Europe.
+
+Marty R(1), Roze S, Bresse X, Largeron N, Smith-Palmer J.
+
+Author information: 
+(1)HEVA, 186 Avenue Thiers, Lyon, 69006, France. rmarty@hevaweb.com
+
+BACKGROUND: HPV is related to a number of cancer types, causing a considerable
+burden in both genders in Europe. Female vaccination programs can substantially
+reduce the incidence of HPV-related diseases in women and, to some extent, men
+through herd immunity. The objective was to estimate the incremental benefit of
+vaccinating boys and girls using the quadrivalent HPV vaccine in Europe versus
+girls-only vaccination. Incremental benefits in terms of reduction in the
+incidence of HPV 6, 11, 16 and 18-related diseases (including cervical, vaginal, 
+vulvar, anal, penile, and head and neck carcinomas and genital warts) were
+assessed.
+METHODS: The analysis was performed using a model constructed in
+Microsoft(®)Excel, based on a previously-published dynamic transmission model of 
+HPV vaccination and published European epidemiological data on incidence of
+HPV-related diseases. The incremental benefits of vaccinating 12-year old girls
+and boys versus girls-only vaccination was assessed (70% vaccine coverage were
+assumed for both). Sensitivity analyses around vaccine coverage and duration of
+protection were performed.
+RESULTS: Compared with screening alone, girls-only vaccination led to 84%
+reduction in HPV 16/18-related carcinomas in females and a 61% reduction in
+males. Vaccination of girls and boys led to a 90% reduction in HPV 16/18-related 
+carcinomas in females and 86% reduction in males versus screening alone. Relative
+to a girls-only program, vaccination of girls and boys led to a reduction in
+female and male HPV-related carcinomas of 40% and 65%, respectively and a
+reduction in the incidence of HPV 6/11-related genital warts of 58% for females
+and 71% for males versus girls-only vaccination.
+CONCLUSIONS: In Europe, the vaccination of 12-year old boys and girls against HPV
+6, 11, 16 and 18 would be associated with substantial additional clinical
+benefits in terms of reduced incidence of HPV-related genital warts and
+carcinomas versus girls-only vaccination. The incremental benefits of adding boys
+vaccination are highly dependent on coverage in girls. Therefore, further
+analyses should be performed taking into account the country-specific situation. 
+In addition to clinical benefits, substantial economic benefits are also
+anticipated and warrant further investigation as do the social and ethical
+implications of including boys in vaccination programs.
+
+DOI: 10.1186/1471-2407-13-10 
+PMCID: PMC3561184
+PMID: 23298365  [Indexed for MEDLINE]

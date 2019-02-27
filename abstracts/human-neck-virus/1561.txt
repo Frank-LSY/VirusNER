@@ -1,0 +1,54 @@
+
+
+1561. Eur J Cancer. 2014 Mar;50(4):765-73. doi: 10.1016/j.ejca.2013.11.010. Epub 2013
+Dec 4.
+
+Cancer stem cell enrichment marker CD98: a prognostic factor for survival in
+patients with human papillomavirus-positive oropharyngeal cancer.
+
+Rietbergen MM(1), Martens-de Kemp SR(1), Bloemena E(2), Witte BI(3), Brink A(1), 
+Baatenburg de Jong RJ(4), Leemans CR(1), Braakhuis BJ(1), Brakenhoff RH(5).
+
+Author information: 
+(1)Department of Otolaryngology/Head-Neck Surgery, VU University Medical Center, 
+Amsterdam, The Netherlands.
+(2)Department of Pathology, VU University Medical Center, Amsterdam, The
+Netherlands; Department of Maxillofacial Surgery/Oral Pathology, VU University
+Medical Center/Academic Centre for Dentistry, Amsterdam, The Netherlands.
+(3)Department of Epidemiology and Biostatistics, VU University Medical Center,
+Amsterdam, The Netherlands.
+(4)Department of Otolaryngology/Head and Neck Surgery, Erasmus Medical Center,
+Rotterdam, The Netherlands.
+(5)Department of Otolaryngology/Head-Neck Surgery, VU University Medical Center, 
+Amsterdam, The Netherlands. Electronic address: rh.brakenhoff@vumc.nl.
+
+PURPOSE: Several hypotheses have been proposed to explain the relatively good
+prognosis of patients with a human papillomavirus (HPV)-positive oropharyngeal
+squamous cell carcinoma (OPSCC) and one of these is a higher sensitivity to
+(chemo)radiation. Previous studies have suggested that treatment failure in OPSCC
+patients is caused by resistance of cancer stem cells (CSCs). The purpose of this
+study was to evaluate the association between the number of CSCs and prognosis in
+HPV-positive OPSCC patients.
+EXPERIMENTAL DESIGN: All OPSCC patients (n=711) treated between 2000 and 2006 in 
+two Dutch university hospitals were included. Presence of HPV in a tumour tissue 
+specimen was tested by p16-immunostaining followed by HPV DNA GP5+/6+polymerase
+chain reaction (PCR). The presence and intensity of tumour CSC markers CD44 and
+CD98 were determined by immunohistochemistry and semiquantitative scoring was
+performed. Overall survival (OS) and progression-free survival (PFS) rates were
+compared between patients with low and high CD44/CD98 expression in relation to
+HPV status.
+RESULTS: HPV-positive tumours showed a lower percentage of cells with CD44 and
+CD98 expression than HPV-negative tumours (p<0.001, χ(2)-test). Within the group 
+of patients with HPV-positive OPSCC, a high percentage of CD98-positive tumour
+cells was associated with a significantly worse 5-year OS and PFS (OS: 36.4% and 
+PFS: 27.3%) compared to patients with a low percentage of CD98-positive cells
+(OS: 71.9% and PFS: 70.5%, respectively) (p<0.001).
+CONCLUSIONS: HPV-positive OPSCCs harbour fewer cells expressing the CSC
+enrichment markers CD44 and CD98. Furthermore, OS and PFS were significantly
+worse for patients with HPV-positive OPSCC with a high percentage of
+CD98-positive cells.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2013.11.010 
+PMID: 24315751  [Indexed for MEDLINE]

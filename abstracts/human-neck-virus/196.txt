@@ -1,0 +1,48 @@
+
+
+196. J Low Genit Tract Dis. 2017 Jul;21(3):177-183. doi: 10.1097/LGT.0000000000000313.
+
+Oral Human Papillomavirus in Women With High-Grade Cervical Intraepithelial
+Neoplasia.
+
+Woelber L(1), Breuer J, Meyer T, Vettorazzi E, Prieske K, Bohlmann I, Busch CJ,
+Teudt I, Brummer O, Mueller V, Schmalfeldt B, Grimm D.
+
+Author information: 
+(1)1Department of Gynaecology and Gynaecologic Oncology, University Medical
+Center Hamburg-Eppendorf, Germany; 2Department of Medical Microbiology, Virology 
+and Hygiene, University Medical Center Hamburg-Eppendorf, Germany; 3Department of
+Medical Biometry and Epidemiology, University Medical Center Hamburg-Eppendorf,
+Hamburg, Germany; 4Department of Otorhinolaryngology, Head and Neck Surgery and
+Oncology, University Medical Centre Hamburg-Eppendorf, Germany; 5Department of
+Otolaryngology, Head and Neck Surgery, Asklepios Klinik Hamburg Altona, Germany; 
+6HNO-in-Altona, Private Otorhinolaryngology Praxis, Hamburg, Germany;
+7Tagesklinik Altonaer Strasse, Private Gynaecology Praxis, Hamburg, Germany; and 
+8Department of Gynaecology and Gynaecologic Oncology, Medical Center Asklepios
+Altona, Hamburg, Germany.
+
+OBJECTIVE: This study was designed to investigate the co-prevalence of cervical
+and oropharyngeal human papillomavirus (HPV) infection in patients with
+HPV-related high-grade disease of the uterine cervix (high-grade squamous
+intraepithelial lesion [HSIL]).
+MATERIALS AND METHODS: In a prospective cohort study, women with abnormal
+cervical cytology admitted to our colposcopy units received HPV testing of the
+uterine cervix and the oropharynx via smear. From a subset of patients, oral
+lavage was collected to compare detection rates of HPV DNA between lavage and
+swab. Patients with confirmed high-risk HPV (HR-HPV)-positive HSIL of the cervix 
+were further investigated. Sexual behavior and lifestyle factors were documented 
+with a standardized questionnaire.
+RESULTS: Two hundred thirty-five women were included in the study. Of the 235
+women, 135 (57.5%) were cervically HR-HPV positive with histologically confirmed 
+high-grade cervical intraepithelial lesion (median [range] age = 30 [21-45]
+years). Of these, only 6 (4.4%) also had a positive oral specimen. In 3 (50%) of 
+the 6 cases, the same HPV type was detected in oral and cervical samples (HPV 16,
+35, and 45). Oral HPV detection was not higher when combining swab and lavage
+compared with swab alone. A relation between sexual behavior and oral HPV
+detection could not be demonstrated.
+CONCLUSIONS: Oral HPV prevalence in women with cervical HPV infection and HSIL is
+low. Simultaneous testing of oropharyngeal and cervical HPV infection does not
+seem promising as future screening strategy.
+
+DOI: 10.1097/LGT.0000000000000313 
+PMID: 28481782  [Indexed for MEDLINE]

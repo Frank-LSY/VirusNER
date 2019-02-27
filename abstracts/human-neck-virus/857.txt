@@ -1,0 +1,55 @@
+
+
+857. PLoS Pathog. 2017 Mar 2;13(3):e1006262. doi: 10.1371/journal.ppat.1006262.
+eCollection 2017 Mar.
+
+Autophagy regulates UBC9 levels during viral-mediated tumorigenesis.
+
+Mattoscio D(1), Casadio C(2), Miccolo C(1), Maffini F(2), Raimondi A(3),
+Tacchetti C(3)(4), Gheit T(5), Tagliabue M(6), Galimberti VE(7), De Lorenzi F(8),
+Pawlita M(9), Chiesa F(6), Ansarin M(6), Tommasino M(5), Chiocca S(1).
+
+Author information: 
+(1)European Institute of Oncology, Department of Experimental Oncology, Milan,
+Italy.
+(2)European Institute of Oncology, Department of Pathology, Milan, Italy.
+(3)Experimental Imaging Center, IRCCS San Raffaele Scientific Institute, Milan,
+Italy.
+(4)Department of Experimental Medicine, University of Genova, Genova, Italy.
+(5)Infections and Cancer Biology Group, International Agency for Research on
+Cancer, Lyon, France.
+(6)European Institute of Oncology, Division of Otolaryngology and Head and Neck
+Surgery, Milan, Italy.
+(7)European Institute of Oncology Senology Division, Milan, Italy.
+(8)European Institute of Oncology, Plastic Surgery Department, Milan, Italy.
+(9)Division of Molecular Diagnostics of Oncogenic Infections, Research Program
+Infection, Inflammation and Cancer, German Cancer Research Center, Heidelberg,
+Germany.
+
+UBC9, the sole E2-conjugating enzyme required for SUMOylation, is a key regulator
+of essential cellular functions and, as such, is frequently altered in cancers.
+Along these lines, we recently reported that its expression gradually increases
+during early stages of human papillomavirus (HPV)-mediated cervical lesions
+transformation. However, a better understanding of how UBC9 is exploited by
+transforming viral oncoproteins is still needed. In the present study, we show
+that in human samples HPV drives UBC9 up-regulation also in very early steps of
+head and neck tumorigenesis, pointing to the important role for UBC9 in the
+HPV-mediated carcinogenic program. Moreover, using HPV-infected pre-cancerous
+tissues and primary human keratinocytes as the natural host of the virus, we
+investigate the pathological meaning and the cellular mechanisms responsible for 
+UBC9 de-regulation in an oncoviral context. Our results show that UBC9
+overexpression is promoted by transforming viral proteins to increase host cells'
+resistance to apoptosis. In addition, ultrastuctural, pharmacological and genetic
+approaches crucially unveil that UBC9 is physiologically targeted by autophagy in
+human cells. However, the presence of HPV E6/E7 oncoproteins negatively impacts
+the autophagic process through selective inhibition of autophagosome-lysosome
+fusion, finally leading to p53 dependent UBC9 accumulation during viral-induced
+cellular transformation. Therefore, our study elucidates how UBC9 is manipulated 
+by HPV oncoproteins, details the physiological mechanism by which UBC9 is
+degraded in cells, and identifies how HPV E6/E7 impact on autophagy. These
+findings point to UBC9 and autophagy as novel hallmarks of HPV oncogenesis, and
+open innovative avenues towards the treatment of HPV-related malignancies.
+
+DOI: 10.1371/journal.ppat.1006262 
+PMCID: PMC5349695
+PMID: 28253371  [Indexed for MEDLINE]

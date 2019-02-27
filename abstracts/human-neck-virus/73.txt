@@ -1,0 +1,52 @@
+
+
+73. Int J Cancer. 2017 Apr 1;140(7):1571-1580. doi: 10.1002/ijc.30589. Epub 2017 Jan 
+9.
+
+Identification of human papillomavirus (HPV) 16 DNA integration and the ensuing
+patterns of methylation in HPV-associated head and neck squamous cell carcinoma
+cell lines.
+
+Hatano T(1), Sano D(1)(2), Takahashi H(1)(3), Hyakusoku H(1), Isono Y(1), Shimada
+S(1), Sawakuma K(1), Takada K(1), Oikawa R(4), Watanabe Y(4), Yamamoto H(4), Itoh
+F(4), Myers JN(3), Oridate N(1)(2).
+
+Author information: 
+(1)Department of Biology and Function in Head and Neck, Yokohama City University 
+Graduate School of Medicine, Yokohama, Japan.
+(2)Department of Otorhinolaryngology - Head and Neck Surgery, Yokohama City
+University, School of Medicine, Yokohama, Japan.
+(3)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX.
+(4)Division of Gastroenterology and Hepatology, Department of Internal Medicine, 
+St. Marianna University School of Medicine, Kawasaki, Japan.
+
+Recent studies showed that human papillomavirus (HPV) integration contributes to 
+the genomic instability seen in HPV-associated head and neck squamous cell
+carcinoma (HPV-HNSCC). However, the epigenetic alterations induced after HPV
+integration remains unclear. To identify the molecular details of HPV16 DNA
+integration and the ensuing patterns of methylation in HNSCC, we performed
+next-generation sequencing using a target-enrichment method for the effective
+identification of HPV16 integration breakpoints as well as the characterization
+of genomic sequences adjacent to HPV16 integration breakpoints with three
+HPV16-related HNSCC cell lines. The DNA methylation levels of the integrated
+HPV16 genome and that of the adjacent human genome were also analyzed by
+bisulfite pyrosequencing. We found various integration loci, including novel
+integration sites. Integration loci were located predominantly in the intergenic 
+region, with a significant enrichment of the microhomologous sequences between
+the human and HPV16 genomes at the integration breakpoints. Furthermore, various 
+levels of methylation within both the human genome and the integrated HPV genome 
+at the integration breakpoints in each integrant were observed. Allele-specific
+methylation analysis suggested that the HPV16 integrants remained hypomethylated 
+when the flanking host genome was hypomethylated. After integration into highly
+methylated human genome regions, however, the HPV16 DNA became methylated. In
+conclusion, we found novel integration sites and methylation patterns in
+HPV-HNSCC using our unique method. These findings may provide insights into
+understanding of viral integration mechanism and virus-associated carcinogenesis 
+of HPV-HNSCC.
+
+© 2016 UICC.
+
+DOI: 10.1002/ijc.30589 
+PMCID: PMC5877459
+PMID: 28006857  [Indexed for MEDLINE]

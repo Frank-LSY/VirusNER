@@ -1,0 +1,46 @@
+
+Conflict of interest statement: There are no conflicts of interest to disclose.
+
+
+1690. Am J Surg Pathol. 2016 Sep;40(9):1261-9. doi: 10.1097/PAS.0000000000000666.
+
+Assessing p16 Status of Oropharyngeal Squamous Cell Carcinoma by Combined
+Assessment of the Number of Cells Stained and the Confluence of p16 Staining: A
+Validation by Clinical Outcomes.
+
+Barasch S(1), Mohindra P, Hennrick K, Hartig GK, Harari PM, Yang DT.
+
+Author information: 
+(1)Departments of *Pathology and Laboratory Medicine §Surgery ∥Human Oncology,
+University of Wisconsin School of Medicine and Public Health, Madison, WI
+†Department of Radiation Oncology, University of Maryland School of Medicine,
+Baltimore, MD ‡Department of Pathology, Weill Cornell - New York Presbyterian
+Hospital, New York, NY.
+
+Human papillomavirus-related oropharyngeal squamous cell carcinoma (OPSCC) has
+favorable prognosis relative to other head and neck squamous cell carcinomas.
+Criteria for predicting human papillomavirus status based upon p16 staining,
+including difficult cases with partial staining patterns, have been developed;
+however, clinical validation of these criteria and the clinical significance of
+partial p16 staining have not been reported. Eighty-one archival OPSCC cases were
+initially stained for p16 by immunohistochemistry with clone G175-405. The
+percentage of p16 cells and percentage of confluence of p16 cells were
+categorized as 25%, 26% to 75%, or >75%. Of all cases, 16 (20%) had partial p16
+expression, with 26% to 75% p16 cells. Applying previously developed criteria of 
+>75% p16 cells or >50% positive cells with >25% confluence, 48 (59%) patients
+were categorized p16 and demonstrated expected clinical characteristics and
+superior disease-free survival and overall survival (P<0.001) compared with p16
+patients. By themselves, the partial staining patients had intermediate outcomes;
+however, separating the partial staining cases by degree of confluence showed
+that those with >75% confluence had superior disease-free survival (P=0.042).
+When the 16 original partial staining cases were re-stained with the alternative 
+anti-p16 E6H4 clone, p16 status remained concordant for all cases, but only 3 of 
+the 16 were interpreted as demonstrating partial staining. This report shows that
+the prevalence of partial p16 staining varies with the antibody utilized and
+clinically validates the application of a graded evaluation of both the number as
+well as confluence of positive cells for risk stratification of patients with
+OPSCC.
+
+DOI: 10.1097/PAS.0000000000000666 
+PMCID: PMC4987254
+PMID: 27186851  [Indexed for MEDLINE]

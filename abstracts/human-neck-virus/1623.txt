@@ -1,0 +1,34 @@
+
+
+1623. Eur Arch Otorhinolaryngol. 2014 Jul;271(7):1939-45. doi:
+10.1007/s00405-013-2818-0. Epub 2013 Nov 17.
+
+MiR-155 up-regulation by LMP1 DNA contributes to increased nasopharyngeal
+carcinoma cell proliferation and migration.
+
+Zhu X(1), Wang Y, Sun Y, Zheng J, Zhu D.
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, China-Japan Union
+Hospital, Jilin University, No. 126 of Xiantai Street, Erdao District, 130031,
+Changchun, China.
+
+Regulation of oncogenic or tumor-suppressive microRNAs expression by Epstein-Barr
+virus (EBV) and the correlation of EBV with the nasopharyngeal carcinoma (NPC)
+have cast new light on the cause of NPC. The present study is to determine the
+association of miR-155 with EBV-positive NPC, and to evaluate the oncogenic role 
+of miR-155 in cell proliferation, migration and invasion of NPC cells. The
+miR-155 expression was determined by real-time RT-qPCR; The oncogenic promotion
+of miR-155 was evaluated by by cell colony formation assay, proliferation assay, 
+scratch assay and transwell migration assay. It showed that miR-155 expression
+was up-regulated in EBV-positive NPC tissue samples and was correlated with
+plasma LMP1 DNA copies. Expression of miR-155 was also up-regulated in NPC cell
+lines post-transfecting with LMP1-expressing plasmid. Up-regulated miR-155
+stimulated the capability of NPC cell proliferation, colony formation, cell
+migration and invasion. Therefore, miR-155 is up-regulated in NPC tissues, with a
+correlation with plasma LMP1 DNA copies, and is significantly induced in NPC
+cells by LMP1 in vitro. The oncogenic miR-155 promotes NPC cell proliferation,
+migration and invasion significantly in vitro.
+
+DOI: 10.1007/s00405-013-2818-0 
+PMID: 24241359  [Indexed for MEDLINE]

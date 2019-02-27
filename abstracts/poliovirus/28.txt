@@ -1,0 +1,42 @@
+
+
+28. J Infect Dis. 2014 Nov 1;210 Suppl 1:S324-32. doi: 10.1093/infdis/jiu160.
+
+Detection of multiple cocirculating wild poliovirus type 1 lineages through
+environmental surveillance: impact and progress during 2011-2013 in Pakistan.
+
+Alam MM(1), Shaukat S(1), Sharif S(1), Angez M(1), Khurshid A(1), Malik F(1),
+Rehman L(1), Zaidi SS(1).
+
+Author information: 
+(1)WHO Regional Reference Laboratory for Polio Eradication Initiative, Department
+of Virology, National Institute of Health, Chak Shahzad, Islamabad, Pakistan.
+
+BACKGROUND: The environmental surveillance has proven to be a useful tool to
+identify poliovirus circulation in different countries and was started in
+Pakistan during July 2009 to support the acute flaccid paralysis (AFP)
+surveillance system.
+METHODS: Sewage samples were collected from 27 environmental sampling (ENV) sites
+and processed for poliovirus isolation through 2-phase separation method.
+Poliovirus isolates were identified as Sabin-like or wild type through real-time 
+polymerase chain reaction (PCR). Wild-type strains were subjected to VP1 gene
+sequencing and phylogenetic analysis performed using MEGA 5.0.
+RESULTS: During 2011-2013, a total of 668 samples were collected from 4 provinces
+that resulted in 40% of samples positive for wild poliovirus type-1 (WPV-1). None
+of the samples were positive for WPV-3. The areas with high frequency of WPV-1
+detection were Karachi-Gadap (69%), Peshawar (82%), and Rawalpindi (65%), whereas
+the samples from Quetta and Sukkur remained negative for WPV during 2013.
+Phylogenetic analysis revealed 3 major clusters with multiple poliovirus lineages
+circulating across different country areas as well as in bordering areas of
+Afghanistan.
+CONCLUSIONS: Environmental surveillance in Pakistan has been proven to be a
+powerful tool to detect WPV circulation in the absence of poliomyelitis cases in 
+many communities. Our findings emphasize the need to continue and expand such
+surveillance activities to other high-risk areas in the country.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiu160 
+PMID: 25316851  [Indexed for MEDLINE]

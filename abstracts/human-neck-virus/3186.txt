@@ -1,0 +1,851 @@
+
+
+3186. Nat Commun. 2019 Jan 25;10(1):431. doi: 10.1038/s41467-018-08054-4.
+
+Shared heritability and functional enrichment across six solid cancers.
+
+Jiang X(1)(2), Finucane HK(3)(4), Schumacher FR(5)(6), Schmit SL(7)(8), Tyrer
+JP(9), Han Y(10), Michailidou K(11)(12), Lesseur C(13)(14), Kuchenbaecker
+KB(15)(16), Dennis J(11), Conti DV(17), Casey G(18)(19), Gaudet MM(20), Huyghe
+JR(21), Albanes D(22), Aldrich MC(23), Andrew AS(24), Andrulis IL(25)(26),
+Anton-Culver H(27), Antoniou AC(11), Antonenkova NN(28), Arnold SM(29), Aronson
+KJ(30), Arun BK(31), Bandera EV(32), Barkardottir RB(33)(34), Barnes DR(11),
+Batra J(35)(36), Beckmann MW(37), Benitez J(38)(39), Benlloch S(11)(40), Berchuck
+A(41), Berndt SI(22), Bickeböller H(42), Bien SA(21)(43), Blomqvist C(44)(45),
+Boccia S(46)(47), Bogdanova NV(28)(48)(49), Bojesen SE(50)(51)(52), Bolla MK(11),
+Brauch H(53)(54)(55), Brenner H(55)(56)(57), Brenton JD(58), Brook MN(40), Brunet
+J(59), Brunnström H(60)(61), Buchanan DD(62)(63)(64), Burwinkel B(65)(66), Butzow
+R(67), Cadoni G(46)(47), Caldés T(68), Caligo MA(69), Campbell I(70)(71),
+Campbell PT(20), Cancel-Tassin G(72)(73), Cannon-Albright L(74)(75), Campa
+D(76)(77), Caporaso N(22), Carvalho AL(78)(79), Chan AT(80)(81), Chang-Claude
+J(76)(82), Chanock SJ(22), Chen C(83), Christiani DC(3), Claes KBM(84), Claessens
+F(85), Clements J(35)(36), Collée JM(86), Correa MC(87), Couch FJ(88), Cox A(89),
+Cunningham JM(88), Cybulski C(90), Czene K(91), Daly MB(92), deFazio A(93)(94),
+Devilee P(95)(96), Diez O(97), Gago-Dominguez M(98)(99), Donovan JL(100), Dörk
+T(49), Duell EJ(101), Dunning AM(9), Dwek M(102), Eccles DM(103), Edlund CK(104),
+Edwards DRV(105), Ellberg C(106), Evans DG(107), Fasching PA(37)(108), Ferris
+RL(109), Liloglou T(110), Figueiredo JC(111)(112), Fletcher O(113), Fortner
+RT(76), Fostira F(114), Franceschi S(115), Friedman E(116)(117), Gallinger
+SJ(118)(119)(120), Ganz PA(121), Garber J(122), García-Sáenz JA(68), Gayther
+SA(123)(124)(125), Giles GG(126)(127)(128), Godwin AK(129), Goldberg
+MS(130)(131), Goldgar DE(132), Goode EL(133), Goodman MT(134)(135), Goodman
+G(136), Grankvist K(137), Greene MH(138), Gronberg H(91), Gronwald J(90), Guénel 
+P(139), Håkansson N(140), Hall P(91)(141), Hamann U(142), Hamdy FC(143), Hamilton
+RJ(144), Hampe J(145), Haugen A(146), Heitz F(147)(148), Herrero R(149),
+Hillemanns P(49), Hoffmeister M(56), Høgdall E(150)(151), Hong YC(152), Hopper
+JL(127), Houlston R(153), Hulick PJ(154)(155), Hunter DJ(156), Huntsman
+DG(157)(158)(159), Idos G(17), Imyanitov EN(160), Ingles SA(17), Isaacs C(161),
+Jakubowska A(90)(162), James P(71)(163), Jenkins MA(62)(127), Johansson M(14),
+Johansson M(164), John EM(165), Joshi AD(3)(166), Kaneva R(167), Karlan BY(168), 
+Kelemen LE(169), Kühl T(170), Khaw KT(171), Khusnutdinova E(172)(173), Kibel
+AS(174), Kiemeney LA(175), Kim J(176), Kjaer SK(150)(177), Knight JA(178)(179),
+Kogevinas M(39)(180)(181)(182), Kote-Jarai Z(40), Koutros S(183), Kristensen
+VN(184)(185)(186), Kupryjanczyk J(187), Lacko M(188), Lam S(189), Lambrechts
+D(190)(191), Landi MT(192), Lazarus P(193), Le ND(194), Lee E(123), Lejbkowicz
+F(195), Lenz HJ(104), Leslie G(11), Lessel D(196), Lester J(168), Levine
+DA(197)(198), Li L(199)(200), Li CI(201), Lindblom A(202), Lindor NM(203), Liu
+G(204), Loupakis F(205), Lubiński J(90), Maehle L(206), Maier C(207), Mannermaa
+A(208)(209)(210), Marchand LL(211), Margolin S(212), May T(213), McGuffog L(11), 
+Meindl A(214), Middha P(76)(215), Miller A(216), Milne RL(126)(127), MacInnis
+RJ(126)(127), Modugno F(217)(218), Montagna M(219), Moreno V(220), Moysich
+KB(221), Mucci L(3), Muir K(222)(223), Mulligan AM(224)(225), Nathanson KL(226), 
+Neal DE(58)(143)(227), Ness AR(228), Neuhausen SL(229), Nevanlinna H(230),
+Newcomb PA(21)(43), Newcomb LF(21)(231), Nielsen FC(232), Nikitina-Zake L(233),
+Nordestgaard BG(50)(51)(52), Nussbaum RL(234), Offit K(235)(236), Olah E(237),
+Olama AAA(11)(238), Olopade OI(239), Olshan AF(240)(241), Olsson H(106), Osorio
+A(38)(39), Pandha H(242), Park JY(243), Pashayan N(244)(245), Parsons MT(246),
+Pejovic T(247)(248), Penney KL(81), Peters WHM(249), Phelan CM(243), Phipps
+AI(21)(250), Plaseska-Karanfilska D(251), Pring M(252), Prokofyeva D(172), Radice
+P(253), Stefansson K(254), Ramus SJ(255)(256), Raskin L(257), Rennert G(258),
+Rennert HS(258), van Rensburg EJ(259), Riggan MJ(41), Risch HA(260), Risch
+A(261)(262)(263), Roobol MJ(264), Rosenstein BS(265)(266), Rossing MA(83)(267),
+De Ruyck K(268), Saloustros E(269), Sandler DP(270), Sawyer EJ(271), Schabath
+MB(243), Schleutker J(272)(273)(274), Schmidt MK(275)(276), Setiawan VW(277),
+Shen H(278), Siegel EM(7), Sieh W(279), Singer CF(280), Slattery ML(281),
+Sorensen KD(282)(283), Southey MC(284)(285), Spurdle AB(246), Stanford
+JL(21)(250), Stevens VL(20), Stintzing S(286), Stone J(127)(287), Sundfeldt
+K(288), Sutphen R(289), Swerdlow AJ(40)(290), Tajara EH(291)(292), Tangen
+CM(293), Tardon A(294), Taylor JA(270)(295), Teare MD(296), Teixeira
+MR(297)(298), Terry MB(299), Terry KL(300)(301), Thibodeau SN(88), Thomassen
+M(302), Bjørge L(303)(304), Tischkowitz M(305)(306), Toland AE(307), Torres
+D(142)(308), Townsend PA(309), Travis RC(310), Tung N(311), Tworoger SS(3)(243), 
+Ulrich CM(21)(312), Usmani N(313)(314), Vachon CM(133), Van Nieuwenhuysen E(315),
+Vega A(39)(316), Aguado-Barrera ME(316), Wang Q(11), Webb PM(317), Weinberg
+CR(318), Weinstein S(22), Weissler MC(319), Weitzel JN(320), West CML(321), White
+E(322)(323), Whittemore AS(324)(325), Wichmann HE(326)(327)(328), Wiklund F(91), 
+Winqvist R(329)(330), Wolk A(140)(331), Woll P(332), Woods M(333), Wu AH(123), Wu
+X(334), Yannoukakos D(114), Zheng W(257), Zienolddiny S(146), Ziogas A(27), Zorn 
+KK(335), Lane JM(4)(336), Saxena R(4)(336), Thomas D(123), Hung RJ(178)(179),
+Diergaarde B(337)(338), McKay J(339), Peters U(250), Hsu L(21), García-Closas
+M(22), Eeles RA(40)(340), Chenevix-Trench G(246), Brennan PJ(14), Haiman CA(17), 
+Simard J(341), Easton DF(9)(11), Gruber SB(123), Pharoah PDP(9)(11), Price
+AL(156)(3)(4), Pasaniuc B(342), Amos CI(343), Kraft P(344)(345), Lindström
+S(346)(347).
+
+Author information: 
+(1)Program in Genetic Epidemiology and Statistical Genetics, Harvard T.H. Chan
+School of Public Health, 677 Huntington Ave, Boston, MA, 02115, USA.
+xiajiang@hsph.harvard.edu.
+(2)Unit of Cardiovascular Epidemiology, Institute of Environmental Medicine,
+Karolinska Institutet, Nobels vagen 13, 17177, Stockholm, Sweden.
+xiajiang@hsph.harvard.edu.
+(3)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, MA, 02115, USA.
+(4)Program in Medical and Population Genetics, Broad Institute of MIT and
+Harvard, 75 Ames St, Cambridge, MA, 02142, USA.
+(5)Department of Population and Quantitative Health Sciences, Case Western
+Reserve University, 10900 Eucid Avenue, Cleveland, OH, 44106, USA.
+(6)Seidman Cancer Center, University Hospitals, Cleveland, OH, 44106, USA.
+(7)Department of Cancer Epidemiology, H. Lee Moffitt Cancer Center and Research
+Institute, 12902 Magnolia Dr. MRC-CANCONT, Tampa, FL, 33612, USA.
+(8)Department of Gastrointestinal Oncology, H. Lee Moffitt Cancer Center and
+Research Institute, 12902 Magnolia Dr. MRC-CANCONT, Tampa, FL, 33612, USA.
+(9)Centre for Cancer Genetic Epidemiology, Department of Oncology, University of 
+Cambridge, 2 Worts' Causeway, Cambridge, CB1 8RN, UK.
+(10)Department of Biomedical Data Science, The Geisel School of Medicine at
+Dartmouth, 1 Medical Center Drive, Lebanon, NH, 03756, USA.
+(11)Centre for Cancer Genetic Epidemiology, Department of Public Health and
+Primary Care, University of Cambridge, 2 Worts' Causeway, Cambridge, CB1 8RN, UK.
+(12)Department of Electron Microscopy/Molecular Pathology, The Cyprus Institute
+of Neurology and Genetics, 1683, Nicosia, Cyprus.
+(13)Genetic Epidemiology Group, International Agency for Research on Cancer, 150 
+Cours Albert Thomas, 69008, Lyon, France.
+(14)Section of Genetics, International Agency for Research on Cancer, 150 cours
+Albert Thomas, 69008, Lyon, France.
+(15)Division of Psychiatry, University College London, Maple House, 149 Tottenham
+Court Road, London, W1T 7NF, UK.
+(16)UCL Genetics Institute, University College London, Gower Street, London, WC1E
+6BT, UK.
+(17)Department of Preventive Medicine, Keck School of Medicine, University of
+Southern California Norris Comprehensive Cancer Center, Los Angeles, CA, 48109,
+USA.
+(18)Public Health Sciences, University of Virginia, P.O. Box 800717,
+Charlottesville, VI, 22908, USA.
+(19)Center for Public Health Genomics, University of Virginia, P.O. Box 800717,
+Charlottesville, VI, 22908, USA.
+(20)Epidemiology Research Program, American Cancer Society, 250 Williams Street
+NW, Atlanta, GA, 30303, USA.
+(21)Public Health Sciences Division, Fred Hutchinson Cancer Research Center, 1100
+Fairview Ave. N., Seattle, WA, 98109-1024, USA.
+(22)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9609
+Medical Center Dr, Rockville, MD, 20850, USA.
+(23)Department of Thoracic Surgery, Division of Epidemiology, Vanderbilt
+University Medical Center, 609 Oxford House, Nashville, TN, 37232, USA.
+(24)Department of Neurology, Dartmouth-Hitchcock Medical Center, 7927 Rubin
+Building, Room 860, One Medical Center Drive, Lebanon, NH, 3756, USA.
+(25)Fred ALitwin Center for Cancer Genetics, Lunenfeld-Tanenbaum Research
+Institute of Mount Sinai Hospital, 600 University Avenue, Toronto, ON, M5G1X5,
+Canada.
+(26)Department of Molecular Genetics, University of Toronto, 1 King's College
+Circle, Toronto, ON, M5S1A8, Canada.
+(27)Department of Epidemiology, Genetic Epidemiology Research Institute,
+University of California Irvine, 224 Irvine Hall, Irvine, CA, 92617, USA.
+(28)NNAlexandrov Research Institute of Oncology and Medical Radiology, Settlement
+of Lesnoy-2, 223040, Minsk, Belarus.
+(29)Markey Cancer Center, University of Kentucky, 800 Rose Street, cc445,
+Lexington, KY, 40508, USA.
+(30)Department of Public Health Sciences, and Cancer Research Institute, Queen's 
+University, 10 Stuart Street, Kingston, ON, K7L 3N6, Canada.
+(31)Department of Breast Medical Oncology, University of Texas MD Anderson Cancer
+Center, 1155 Pressler St, Houston, TX, 77030, USA.
+(32)Cancer Prevention and Control Program, Rutgers Cancer Institute of New
+Jersey, 195 Little Albany Street, Room 5568, New Brunswick, NJ, 08903, USA.
+(33)Department of Pathology, Landspitali University Hospital, Hringbraut,
+Reykjavik, 101, Iceland.
+(34)BMC (Biomedical Centre), Faculty of Medicine, University of Iceland,
+Vatnsmyrarvegi 16, Reykjavik, 101, Iceland.
+(35)Australian Prostate Cancer Research Centre-Qld, Translational Research
+Institute, 37 Kent St, Woolloongabba, QLD, 4102, Australia.
+(36)Institute of Health and Biomedical Innovation and School of Biomedical
+Science, Queensland University of Technology, 60 Musk Ave, Kelvin Grove, QLD,
+4059, Australia.
+(37)Department of Gynecology and Obstetrics, Comprehensive Cancer Center Erlangen
+Nuremberg, University Hospital Erlangen, Friedrich-Alexander-University
+Erlangen-Nuremberg, Universitaetsstrasse 21-23, 91054, Erlangen, Germany.
+(38)Human Cancer Genetics Programme, Spanish National Cancer Research Centre
+(CNIO), Calle de Melchor Fernández Almagro, 3, 28029, Madrid, Spain.
+(39)Biomedical Network on Rare Diseases (CIBERER), AvMonforte de Lemos,
+3-5Pabellón 11Planta 0, 28029, Madrid, Spain.
+(40)Division of Genetics and Epidemiology, The Institute of Cancer Research, 15
+Cotswold Road, London, SM2 5NG, UK.
+(41)Department of Obstetrics and Gynecology, Duke University Medical Center,
+25171 Morris Bldg, Durham, NC, 27710, USA.
+(42)Department of Genetic Epidemiology, University Medical Center Goettingen,
+Humboldtallee 32, 37073, Goettingen, Germany.
+(43)School of Public Health, University of Washington, 1959 NE Pacific Street,
+Health Science Buidling, F-350, Seattle, WA, 98195, USA.
+(44)Department of Oncology, Helsinki University Hospital, University of Helsinki,
+Haartmaninkatu 4, 00290, Helsinki, Finland.
+(45)Department of Oncology, Örebro University Hospital, 70185, Örebro, Sweden.
+(46)Fondazione Policlinico Universitario AGemelli IRCCS, 00168, Roma, Italy.
+(47)Università Cattolica del Sacro Cuore, 00168, Roma, Italy.
+(48)Department of Radiation Oncology, Hannover Medical School,
+Carl-Neuberg-Straße 1, 30625, Hannover, Germany.
+(49)Gynaecology Research Unit, Hannover Medical School, Carl-Neuberg-Straße 1,
+30625, Hannover, Germany.
+(50)Copenhagen General Population Study, Herlev and Gentofte Hospital, Copenhagen
+University Hospital, Herlev Ringvej 75, 2730, Herlev, Denmark.
+(51)Department of Clinical Biochemistry, Herlev and Gentofte Hospital, Copenhagen
+University Hospital, Herlev Ringvej 75, 2730, Herlev, Denmark.
+(52)Faculty of Health and Medical Sciences, University of Copenhagen, Blegdamsvej
+3B, 2200, Copenhagen, Denmark.
+(53)DrMargarete Fischer-Bosch-Institute of Clinical Pharmacology, Auerbachstr112,
+70376, Stuttgart, Germany.
+(54)University of Tübingen, Geschwister-Scholl-Platz, 72074, Tübingen, Germany.
+(55)German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Im
+Neuenheimer Feld 280, 69120, Heidelberg, Germany.
+(56)Division of Clinical Epidemiology and Aging Research, German Cancer Research 
+Center (DKFZ), Im Neuenheimer Feld 280, 69120, Heidelberg, Germany.
+(57)Division of Preventive Oncology, German Cancer Research Center (DKFZ) and
+National Center for Tumor Diseases (NCT), Im Neuenheimer Feld 280, 69120,
+Heidelberg, Germany.
+(58)Cancer Research UK Cambridge Institute, University of Cambridge, Li Ka Shing 
+Centre, Robinson Way, CB2 0RE, Cambridge, UK.
+(59)Genetic Counseling Unit, Hereditary Cancer Program, IDIBGI (Institut
+d'Investigació Biomèdica de Girona), Catalan Institute of Oncology, CIBERONC,
+AvFrança s/n, 17007, Girona, Spain.
+(60)Clinical Sciences, Lund University, Box 117, 221 00, Lund, Sweden.
+(61)Department of Genetics and Pathology, Division of Laboratory Medicine, 221
+85, Lund, Sweden.
+(62)University of Melbourne Centre for Cancer Research, Victorian Comprehensive
+Cancer Centre, Parkville, VIC, 3010, Australia.
+(63)Colorectal Oncogenomics Group, Department of Clinical Pathology, The
+University of Melbourne, Parkville, VIC, 3010, Australia.
+(64)Genomic Medicine and Family Cancer Clinic, Royal Melbourne Hospital,
+Parkville, VIC, 3010, Australia.
+(65)Department of Obstetrics and Gynecology, University of Heidelberg, Im
+Neuenheimer Feld 440, 69120, Heidelberg, Germany.
+(66)Molecular Epidemiology Group, C080, German Cancer Research Center (DKFZ), Im 
+Neuenheimer Feld 280, 69120, Heidelberg, Germany.
+(67)Department of Pathology, University of Helsinki and Helsinki University
+Hospital, Biomedicum Helsinki 4th floor, Haartmaninkatu 8, 00029, Helsinki,
+Finland.
+(68)Medical Oncology Department, Hospital Clínico San Carlos, Instituto de
+Investigación Sanitaria San Carlos (IdISSC), Centro Investigación Biomédica en
+Red de Cáncer (CIBERONC), Calle del Prof Martín Lagos, 28040, Madrid, Spain.
+(69)Section of Genetic Oncology, Department of Laboratory Medicine, University
+and University Hospital of Pisa, via Roma 67, 56126, Pisa, Italy.
+(70)Peter MacCallum Cancer Center, 305 Grattan Street, Melbourne, VIC, 3000,
+Australia.
+(71)Sir Peter MacCallum Department of Oncology, The University of Melbourne, 305 
+Grattan Street, Melbourne, VIC, 3000, Australia.
+(72)Sorbonne Université, GRC N°5 ONCOTYPE-URO, Tenon Hospital, 75020, Paris,
+France.
+(73)CeRePP, Tenon Hospital, 75020, Paris, France.
+(74)Division of Genetic Epidemiology, Department of Medicine, University of Utah 
+School of Medicine, Salt Lake City, UT, 84112, USA.
+(75)George EWahlen Department of Veterans Affairs Medical Center, Salt Lake City,
+UT, 84112, USA.
+(76)Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Im
+Neuenheimer Feld 280, 69120, Heidelberg, Germany.
+(77)Department of Biology, University of Pisa, 56126, Pisa, Italy.
+(78)Molecular Oncology Research Center, Barretos Cancer Hospital, Rua Antenor
+Duarte Villela, 1331, Barretos, SP, 784-400, Brazil.
+(79)Head and Neck Surgery Department, Barretos Cancer Hospital, Pio XII, 1331,
+Antenor Duarte Villela St, Barretos, SP, 14784-400, Brazil.
+(80)Division of Gastroenterology, Massachusetts General Hospital, 55 Fruit
+Street, Boston, MA, 02114, USA.
+(81)Channing Division of Network Medicine, Department of Medicine, Brigham and
+Women's Hospital, Harvard Medical School, 181 Longwood Avenue, Boston, MA, 02115,
+USA.
+(82)Cancer Epidemiology Group, University Cancer Center Hamburg (UCCH),
+University Medical Center Hamburg-Eppendorf, Martinistraße 52, 20246, Hamburg,
+Germany.
+(83)Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson 
+Cancer Research Center, 1100 Fairview Ave N, Seattle, WA, 98109, USA.
+(84)Centre for Medical Genetics, Ghent University, De Pintelaan 185, 9000, Gent, 
+Belgium.
+(85)Molecular Endocrinology Laboratory, Department of Cellular and Molecular
+Medicine, KU Leuven, Leuven, 3000, Belgium.
+(86)Department of Clinical Genetics, Erasmus University Medical Center, Wytemaweg
+80, 3015, Rotterdam, CN, The Netherlands.
+(87)University of Puerto Rico Medical Sciences Campus and Comprehensive Cancer
+Center, San Juan, PR, 00936, USA.
+(88)Department of Laboratory Medicine and Pathology, Mayo Clinic, 200 First StSW,
+Rochester, MN, 55905, USA.
+(89)Sheffield Institute for Nucleic Acids (SInFoNiA), Department of Oncology and 
+Metabolism, University of Sheffield, Western Bank, Sheffield, S10 2TN, UK.
+(90)International Hereditary Cancer Center, Department of Genetics and Pathology,
+Pomeranian Medical University, ulUnii Lubelskiej 1, 71-252, Szczecin, Poland.
+(91)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, 
+Karolinska Univ Hospital, 171 76, Stockholm, Sweden.
+(92)Department of Clinical Genetics, Fox Chase Cancer Center, 333 Cottman Ave,
+Philadelphia, PA, 19111, USA.
+(93)Centre for Cancer Research, The Westmead Institute for Medical Research, The 
+University of Sydney, 176 Hawkesbury Rd, Sydney, NSW, 2145, Australia.
+(94)Department of Gynaecological Oncology, Westmead Hospital, Hawkesbury Rd &
+Darcy Rd, Sydney, NSW, 2145, Australia.
+(95)Department of Pathology, Leiden University Medical Center, Albinusdreef 2,
+2333 ZA, Leiden, The Netherlands.
+(96)Department of Human Genetics, Leiden University Medical Center, Albinusdreef 
+2, 2333 ZA, Leiden, The Netherlands.
+(97)Oncogenetics Group, Clinical and Molecular Genetics Area, Vall d'Hebron
+Institute of Oncology (VHIO), University Hospital, Vall d'Hebron, Passeig de la
+Vall d'Hebron 119-129, 08035, Barcelona, Spain.
+(98)Genomic Medicine Group, Galician Foundation of Genomic Medicine, Instituto de
+Investigación Sanitaria de Santiago de Compostela (IDIS), Complejo Hospitalario
+Universitario de Santiago, SERGAS, Travesía da Choupana S/N, 15706, Santiago de
+Compostela, Spain.
+(99)Moores Cancer Center, University of California, San Diego, 3855 Health
+Sciences Drive, La Jolla, CA, 92037, USA.
+(100)School of Social and Community Medicine, University of Bristol, Bristol, BS8
+1TH, UK.
+(101)Unit of Nutrition and Cancer, Cancer Epidemiology Research Program, Catalan 
+Institute of Oncology (ICO-IDIBELL), AvGran Via 199-203, L'Hospitalet de
+Llobregat, 08908, Barcelona, Spain.
+(102)Department of Biomedical Sciences, Faculty of Science and Technology,
+University of Westminster, 309 Regent Street, London, W1B 2HW, UK.
+(103)Cancer Sciences Academic Unit, Faculty of Medicine, University of
+Southampton, Tremona Road, Southampton, SO16 6YD, UK.
+(104)Department of Medicine, Keck School of Medicine, University of Southern
+California, Los Angeles, CA, 90033, USA.
+(105)Vanderbilt Epidemiology Center, Vanderbilt Genetics Institute, Department of
+Obstetrics and Gynecology, Vanderbilt University Medical Center, 2525 West End
+Avenue, Suite 600, Nashville, TN, 37203, USA.
+(106)Department of Cancer Epidemiology, Clinical Sciences, Lund University,
+Barngatan 4, Skånes universitetssjukhus, 222 42, Lund, Sweden.
+(107)Manchester Centre for Genomic Medicine, Division of Evolution and Genomic
+Sciences, University of Manchester, St Mary's Hospital, Central Manchester
+University Hospitals NHS Foundation Trust, Oxford Road, Manchester, M13 9WL, UK.
+(108)David Geffen School of Medicine, Department of Medicine Division of
+Hematology and Oncology, University of California at Los Angeles, 10833 Le Conte 
+Ave, Los Angeles, CA, 90095, USA.
+(109)Department of Otolaryngology, UPMC Hillman Cancer Center, Cancer Pavilion,
+University of Pittsburgh, Suite 500, 5150 Centre Avenue, Pittsburgh, PA, 15232,
+USA.
+(110)Molecular and Clinical Cancer Medicine, Roy Castle Lung Cancer Research
+Programme, The University of Liverpool Institute of Translational Medicine, The
+Wiliam Duncan Building, 6 West Derby Street, Liverpool, L69 3BX, UK.
+(111)Samuel Oschin Comprehensive Cancer Institute, Cedars-Sinai Medical Center,
+8700 Beverly Boulevard, Los Angeles, CA, 90048, USA.
+(112)Keck School of Medicine, University of Southern California, 1450 Biggy
+Street, Los Angeles, CA, 90033, USA.
+(113)The Breast Cancer Now Toby Robins Research Centre, The Institute of Cancer
+Research, 123 Old Brompton Road, London, SW7 3RP, UK.
+(114)Molecular Diagnostics Laboratory, INRASTES, National Centre for Scientific
+Research 'Demokritos', Neapoleos 10, AgParaskevi, Athens, 15310, Greece.
+(115)Section of Infections, International Agency for Research on Cancer, 150
+cours Albert Thomas, 69008, Lyon, France.
+(116)The Susanne Levy Gertner Oncogenetics Unit, Chaim Sheba Medical Center, Emek
+HaEla St 1, 52621, Ramat Gan, Israel.
+(117)Sackler Faculty of Medicine, Tel Aviv University, Haim Levanon 30, 69978,
+Ramat Aviv, Israel.
+(118)Department of Surgery, Mount Sinai Hospital, 600 University Avenue, Toronto,
+ON, M5G 1X5, Canada.
+(119)Samuel Lunenfeld Research Institute, 600 University Avenue, Toronto, ON, M5G
+1X5, Canada.
+(120)University Health Network Toronto General Hospital, 200 Elizabeth St,
+Toronto, ON, M5G 2C4, Canada.
+(121)Schools of Medicine and Public Health, Division of Cancer Prevention &
+Control Research, Jonsson Comprehensive Cancer Centre, UCLA, 650 Charles Young
+Drive South, Los Angeles, CA, 90095-6900, USA.
+(122)Cancer Risk and Prevention Clinic, Dana-Farber Cancer Institute, 450
+Brookline Avenue, Boston, MA, 02215, USA.
+(123)Department of Preventive Medicine, Keck School of Medicine, University of
+Southern California, 1975 Zonal Ave, Los Angeles, CA, 90033, USA.
+(124)Center for Cancer Prevention and Translational Genomics, Samuel Oschin
+Comprehensive Cancer Institute, Cedars-Sinai Medical Center, Spielberg Building, 
+8725 Alden Dr, Los Angeles, CA, 90048, USA.
+(125)Department of Biomedical Sciences, Cedars-Sinai Medical Center, Spielberg
+Building, 8725 Alden Dr, Los Angeles, CA, 90048, USA.
+(126)Cancer Epidemiology & Intelligence Division, Cancer Council Victoria, 615 St
+Kilda Road, Melbourne, VIC, 3004, Australia.
+(127)Centre for Epidemiology and Biostatistics, Melbourne School of Population
+and Global Health, The University of Melbourne, Level 1, 723 Swanston Street,
+Melbourne, VIC, 3010, Australia.
+(128)Department of Epidemiology and Preventive Medicine, Monash University,
+Melbourne, VIC, Australia.
+(129)Department of Pathology and Laboratory Medicine, University of Kansas
+Medical Center, 3901 Rainbow Blvd, Kansas City, KS, 66160, USA.
+(130)Department of Medicine, McGill University, 1001 Decarie Boulevard, Montréal,
+QC, H4A3J1, Canada.
+(131)Division of Clinical Epidemiology, Royal Victoria Hospital, McGill
+University, 1001 Decarie Boulevard, Montréal, QC, H4A3J1, Canada.
+(132)Department of Dermatology, Huntsman Cancer Institute, University of Utah
+School of Medicine, 2000 Circle of Hope, Salt Lake City, UT, 84112, USA.
+(133)Department of Health Sciences Research, Mayo Clinic, 200 First StSW,
+Rochester, MN, 55905, USA.
+(134)Cancer Prevention and Control, Samuel Oschin Comprehensive Cancer Institute,
+Cedars-Sinai Medical Center, 8700 Beverly Blvd, Room 1S37, Los Angeles, CA,
+90048, USA.
+(135)Community and Population Health Research Institute, Department of Biomedical
+Sciences, Cedars-Sinai Medical Center, 8700 Beverly Blvd, Room 1S37, Los Angeles,
+CA, 90048, USA.
+(136)Public Health Sciences Division, Swedish Cancer Institute, 1221 Madison
+StSte 300, Seattle, WA, 98109, USA.
+(137)Unit of Clinical Chemistry, Department of Medical Biosciences, Umeå
+University, By 6M van 2, Sjukhusomradet, Umea universitet, 901 85, Umea, Sweden.
+(138)Clinical Genetics Branch, National Cancer Institute, DCEG, 9609 Medical
+Center Dr, Bethesda, MD, 20850-9772, USA.
+(139)Cancer & Environment Group, Center for Research in Epidemiology and
+Population Health (CESP), INSERM, University Paris-Sud, University Paris-Saclay, 
+94805, Villejuif, France.
+(140)Department of Environmental Medicine, Division of Nutritional Epidemiology, 
+Karolinska Institutet, Nobels väg 13, SE-171 77, SE-171, Stockholm, Sweden.
+(141)Department of Oncology, Södersjukhuset, Sjukhusbacken 10, 118 83, Stockholm,
+Sweden.
+(142)Molecular Genetics of Breast Cancer, German Cancer Research Center (DKFZ),
+Im Neuenheimer Feld 580, 69120, Heidelberg, Germany.
+(143)Nuffield Department of Surgical Sciences, Faculty of Medical Science, John
+Radcliffe Hospital, University of Oxford, Oxford, OX1 2JD, UK.
+(144)Department of Surgical Oncology, Princess Margaret Cancer Centre, 610
+University Avenue, Toronto, Ontario, M5G2M9, Canada.
+(145)Department of Internal Medicine 1, University Hospital Dresden, Technische
+Universität Dresden (TU Dresden), 01307, Dresden, Germany.
+(146)National Institute of Occupational Health (STAMI), Gydas vei 8, 0033, Oslo, 
+Norway.
+(147)Department of Gynecology and Gynecologic Oncology, DrHorst Schmidt Kliniken 
+Wiesbaden, Ludwig-Erhard-Straße 100, 65199, Wiesbaden, Germany.
+(148)Department of Gynecology and Gynecologic Oncology, Kliniken Essen-Mitte/
+EvangHuyssens-Stiftung/ Knappschaft GmbH, Henricistrasse 92, 45136, Essen,
+Germany.
+(149)Early Detection and Prevention Section, International Agency for Research on
+Cancer, 150 cours Albert Thomas, 69008, Lyon, France.
+(150)Department of Virus, Lifestyle and Genes, Danish Cancer Society Research
+Center, Strandboulevarden 49, DK-2100, Copenhagen, Denmark.
+(151)Molecular Unit, Department of Pathology, Herlev Hospital, University of
+Copenhagen, Herlev Ringvej 75, DK-2730, Herlev, Denmark.
+(152)Preventive Medicine, Seoul National University College of Medicine, 1
+Gwanak-ro, Gwanak-gu, Seoul, 151 742, Korea.
+(153)German Research Center for Environmental Health, Institute for Cancer
+Research, Ingolstadter Landstr1, London, SM2 5NG, UK.
+(154)Center for Medical Genetics, NorthShore University HealthSystem, 1000
+Central St, Evanston, IL, 60201, USA.
+(155)The University of Chicago Pritzker School of Medicine, 924 E 57th St,
+Chicago, IL, 60637, USA.
+(156)Program in Genetic Epidemiology and Statistical Genetics, Harvard T.H. Chan 
+School of Public Health, 677 Huntington Ave, Boston, MA, 02115, USA.
+(157)British Columbia's Ovarian Cancer Research (OVCARE) Program, Vancouver
+General Hospital, BC Cancer Agency and University of British Columbia, #3427-600 
+West 10th Avenue, Vancouver, BC, V5Z 4E6, Canada.
+(158)Department of Molecular Oncology, BC Cancer Agency Research Centre,
+#3427-600 West 10th Avenue, Vancouver, BC, V5Z 4E6, Canada.
+(159)Department of Pathology and Laboratory Medicine, University of British
+Columbia, #3427-600 West 10th Avenue, Vancouver, BC, V5Z 4E6, Canada.
+(160)NNPetrov Institute of Oncology, Leningradskaya ul, 68, StPetersburg, Russia,
+197758.
+(161)Lombardi Comprehensive Cancer Center, Georgetown University, 3800 Reservoir 
+Road, Washington, DC, 20007, USA.
+(162)Independent Laboratory of Molecular Biology and Genetic Diagnostics,
+Pomeranian Medical University, Rybacka 1, 70-204, Szczecin, Poland.
+(163)Parkville Familial Cancer Centre, Peter MacCallum Cancer Center, 305 Grattan
+Street, Melbourne, VIC, 3000, Australia.
+(164)Department of Radiation Sciences, Umeå University, By 6M van 2,
+Sjukhusomradet, Umea universitet, 901 85, Umea, Sweden.
+(165)Department of Medicine, Division of Oncology and Stanford Cancer Institute, 
+Stanford University School of Medicine, 780 Welch Rd, Stanford, CA, 94304, USA.
+(166)Clinical and Translational Epidemiology Unit, Massachusetts General
+Hospital, 02114, Boston, MA, USA.
+(167)Molecular Medicine Center, Department of Medical Chemistry and Biochemistry,
+Medical Faculty, Medical University of Sofia, Sofia, 1504, Bulgaria.
+(168)Women's Cancer Program at the Samuel Oschin Comprehensive Cancer Institute, 
+Cedars-Sinai Medical Center, 8700 Beverly Boulevard, Los Angeles, CA, 90048, USA.
+(169)Hollings Cancer Center and Department of Public Health Sciences, Medical
+University of South Carolina, 68 President Street Bioengineering Building,
+MSC955, Charleston, SC, 29425, USA.
+(170)Cancer Epidemiology, University Cancer Center Hamburg (UCCH), University
+Medical Center Hamburg-Eppendorf, Martinistraße 52, 20246, Hamburg, Germany.
+(171)Clinical Gerontology, Department of Public Health and Primary Care,
+University of Cambridge, 2 Worts' Causeway, Cambridge, CB1 8RN, UK.
+(172)Department of Genetics and Fundamental Medicine, Bashkir State University,
+ulZaki Validi 32, Ufa, Russia, 450076.
+(173)Institute of Biochemistry and Genetics, Ufa Scientific Center of Russian
+Academy of Sciences, 71 prosp Oktyabrya, Ufa, Russia, 450054.
+(174)Division of Urologic Surgery, Brigham and Womens Hospital, Boston,
+Massachusettes, 02115, USA.
+(175)Radboud Institute for Health Sciences, Radboud University Medical Center,
+Geert Grooteplein 21, 6525 EZ, Nijmegen, The Netherlands.
+(176)Department of Genitourinary Medical Oncology, University of Texas MD
+Anderson Cancer Center, 1155 Pressler St, Houston, TX, 77030, USA.
+(177)Department of Gynaecology, Rigshospitalet, University of Copenhagen,
+Blegdamsvej 9, DK-2100, Copenhagen, Denmark.
+(178)Prosserman Centre for Population Health Research, Lunenfeld-Tanenbaum
+Research Institute, Sinai Health System, 60 Murray Street, Toronto, Ontario, M5T 
+3L9, Canada.
+(179)Division of Epidemiology, Dalla Lana School of Public Health, University of 
+Toronto, 155 College Street, Toronto, ON, M5T3M7, Canada.
+(180)Centre for Research in Environmental Epidemiology (CREAL), ISGlobal, 08036, 
+Barcelona, Spain.
+(181)IMIM (Hospital del Mar Research Institute), Barcelona, 08003, Spain.
+(182)Universitat Pompeu Fabra (UPF), Barcelona, 08002, Spain.
+(183)Division of Cancer Epidemiology and Genetics, National Cancer Institute,
+Department of Health and Human Services, National Institutes of Health, 9609
+Medical Center Dr, Bethesda, MD, 20892, USA.
+(184)Department of Cancer Genetics, Institute for Cancer Research, Oslo
+University Hospital Radiumhospitalet, Ullernchausseen 70, 0379, Oslo, Norway.
+(185)Faculty of Medicine, Institute of Clinical Medicine, University of Oslo,
+Kirkeveien 166, 0450, Oslo, Norway.
+(186)Department of Clinical Molecular Biology, Oslo University Hospital,
+University of Oslo, Kirkeveien 166, 0450, Oslo, Norway.
+(187)Department of Pathology and Laboratory Diagnostics, the Maria
+Sklodowska-Curie Institute - Oncology Center, Roentgena 5, 02-781, Warsaw,
+Poland.
+(188)Head and Neck Surgery, Department of Otorhinolaryngology, Maastricht
+University Medical Center, PDebyelaan 25, POBox 5800, 6202 AZ, Maastricht, The
+Netherlands.
+(189)Department of Integrative Oncology, British Columbia Cancer Agency, Room
+10-111 675 West 10th Avenue, Vancouver, BC, V5Z1L3, Canada.
+(190)VIB Center for Cancer Biology, VIB, Herestraat 49, 3001, Leuven, Belgium.
+(191)Laboratory for Translational Genetics, Department of Human Genetics,
+University of Leuven, Oude Markt 13, 3000, Leuven, Belgium.
+(192)Integrative Tumor Epidemiology Branch, DCEG, National Cancer Institute, 9609
+Medical Center Drive, Room SG/7E106, Rockville, MD, 20850, USA.
+(193)College of Pharmacy, Washington State University, PBS 431 PO Box 1495,
+Spokane, WA, 99210-1495, USA.
+(194)Cancer Control Research, BC Cancer Agency, 675 West 10th Avenue, Vancouver, 
+BC, V5Z 1L3, Canada.
+(195)Clalit Health Services, Clalit National Israeli Cancer Control Center,
+Carmel Medical Center, 2 Horev Street, 3436212, Haifa, Israel.
+(196)Institute of Human Genetics, University Medical Center Hamburg-Eppendorf,
+Martinistraße 52, 20246, Hamburg, Germany.
+(197)Gynecology Service, Department of Surgery, Memorial Sloan Kettering Cancer
+Center, 1275 York Avenue, New York, NY, 10065, USA.
+(198)Gynecologic Oncology, Laura and Isaac Pearlmutter Cancer Center, NYU Langone
+Medical Center, 240 East 38th Street 19th Floor, New York, NY, 10016, USA.
+(199)Department of Family Medicine and Community Health, Mary Ann Swetland Center
+for Environmental Health, Case Western Reserve University, Cleveland, OH, 44106, 
+USA.
+(200)Servicio Galego de Saude (SERGAS), Instituto de Investigación Sanitaria de
+Santiago de Compostela (IDIS), 15706, Santiago De Compostela, Spain.
+(201)Translational Research Program, Fred Hutchinson Cancer Research Center,
+Seattle, WA, 98109, USA.
+(202)Department of Molecular Medicine and Surgery, Karolinska Institutet,
+Karolinska Univ Hospital, 171 76, Stockholm, Sweden.
+(203)Health Sciences Research, Mayo Clinic Arizona, 13400 EShea Blvd, Scottsdale,
+AZ, 85259, USA.
+(204)Epidemiology Division, Princess Margaret Cancer Centre, 610 University
+Avenue, Toronto, ON, M5G2M9, Canada.
+(205)Unit of Oncology 1, Department of Clinical and Experimental Oncology,
+Istituto Oncologico Veneto IRCCS, 35122, Padua, Italy.
+(206)Department of Medical Genetics, Oslo University Hospital, Kirkeveien 166,
+0450, Oslo, Norway.
+(207)Institute of Human Genetics, University Hospital Ulm, Prittwitzstrasse 43,
+89075, Ulm, Germany.
+(208)Translational Cancer Research Area, University of Eastern Finland,
+Yliopistonranta 1, 70210, Kuopio, Finland.
+(209)Institute of Clinical Medicine, Pathology and Forensic Medicine, University 
+of Eastern Finland, Kuopio, Yliopistonranta 1, 70210, Finland.
+(210)Imaging Center, Department of Clinical Pathology, Kuopio University
+Hospital, Puijonlaaksontie 2, 70210, Kuopio, Finland.
+(211)Epidemiology Program, University of Hawaii Cancer Center, 701 Ilalo St,
+Honolulu, HI, 96813, USA.
+(212)Department of Clinical Science and Education, Södersjukhuset, Karolinska
+Institutet, Stockholm, 17177, Sweden.
+(213)Division of Gynecologic Oncology, University Health Network, Princess
+Margaret Hospital, 610 University Avenue, OPG Wing, 6-811, Toronto, ON, M5G 2M9, 
+Canada.
+(214)Division of Gynaecology and Obstetrics, , Technische Universität München,
+Arcisstraße 21, 80333, Munich, Germany.
+(215)Faculty of Medicine, University of Heidelberg, In Neuenheimer Feld 672,
+69120, Heidelberg, Germany.
+(216)NRG Oncology, Statistics and Data Management Center, Roswell Park Cancer
+Institute, Elm & Carlton Streets, Buffalo, NY, 14263, USA.
+(217)Womens Cancer Research Center, Magee-Womens Research Institute and Hillman
+Cancer Center, Pittsburgh, PA, 15213, USA.
+(218)Division of Gynecologic Oncology, Department of Obstetrics, Gynecology and
+Reproductive Sciences, University of Pittsburgh School of Medicine, 300 Halket
+Street, Pittsburgh, PA, 15213, USA.
+(219)Immunology and Molecular Oncology Unit, Veneto Institute of Oncology IOV -
+IRCCS, Via Gattamelata 64, Padua, 35128, Italy.
+(220)Catalan Institute of Oncology, Bellvitge Biomedical Research Institute
+(IDIBELL), Consortium for Biomedical Research in Epidemiology and Public Health
+(CIBERESP) and University of Barcelona, Barcelona, 08908, Spain.
+(221)Division of Cancer Prevention and Control, Roswell Park Cancer Institute,
+Elm & Carlton Streets, Buffalo, NY, 14263, USA.
+(222)Division of Population Health, Health Services Research and Primary Care,
+University of Manchester, Oxford Road, Manchester, M13 9PL, UK.
+(223)Division of Health Sciences, Warwick Medical School, University of Warwick, 
+Coventry, CV4 7AL, UK.
+(224)Department of Laboratory Medicine and Pathobiology, University of Toronto, 1
+King's College Circle, Toronto, ON, M5S1A8, Canada.
+(225)Laboratory Medicine Program, University Health Network, 200 Elizabeth
+Street, Toronto, ON, M5G2C4, Canada.
+(226)Department of Medicine, Abramson Cancer Center, Perelman School of Medicine 
+at the University of Pennsylvania, 3400 Civic Center Boulevard, Philadelphia, PA,
+19104, USA.
+(227)Department of Oncology, Addenbrooke's Hospital, University of Cambridge,
+Cambridge, CB1 8RN, UK.
+(228)NIHR Bristol Biomedical Research Centre Nutrition Theme, University of
+Bristol, Upper Maudlin Street, Bristol, BS2 8AE, UK.
+(229)Department of Population Sciences, Beckman Research Institute of City of
+Hope, 1500 E Duarte, Duarte, CA, 91010, USA.
+(230)Department of Obstetrics and Gynecology, Helsinki University Hospital,
+University of Helsinki, Haartmaninkatu 8, 00290, Helsinki, Finland.
+(231)Department of Urology, University of Washington, Seattle, Washington, 98195,
+USA.
+(232)Center for Genomic Medicine, Rigshospitalet, Copenhagen University Hospital,
+Blegdamsvej 9, DK-2100, Copenhagen, Denmark.
+(233)Latvian Biomedical Research and Study Centre, Ratsupites str 1, Riga,
+LV-1067, Latvia.
+(234)Cancer Genetics and Prevention Program, University of California San
+Francisco, 1600 Divisadero St, San Francisco, CA, 94143-1714, USA.
+(235)Clinical Genetics Research Lab, Department of Cancer Biology and Genetics,
+Memorial Sloan-Kettering Cancer Center, 1275 York Avenue, New York, NY, 10065,
+USA.
+(236)Clinical Genetics Service, Department of Medicine, Memorial Sloan-Kettering 
+Cancer Center, 1275 York Avenue, New York, NY, 10065, USA.
+(237)Department of Molecular Genetics, National Institute of Oncology, Ráth
+György u7-9, 1122, Budapest, Hungary.
+(238)Department of Clinical Neurosciences, University of Cambridge, Cambridge,
+CB2 0QQ, UK.
+(239)Center for Clinical Cancer Genetics, The University of Chicago, 5841S
+Maryland Ave, Chicago, IL, 60637, USA.
+(240)Department of Epidemiology, Gillings School of Global Public Health,
+University of North Carolina, 135 Dauer Dr, Chapel Hill, NC, 27599-7435, USA.
+(241)UNC Lineberger Comprehensive Cancer Center, 450 West Dr, Chapell Hill, NC,
+27599, USA.
+(242)The University of Surrey, Guildford, Surrey, GU2 7XH, UK.
+(243)Department of Cancer Epidemiology, HLee Moffitt Cancer Center and Research
+Institute, 12902 Magnolia Drive, Tampa, FL, 33612, USA.
+(244)Department of Applied Health Research, University College London, 1-19
+Torrington Place, London, WC1E 6BT, UK.
+(245)Centre for Cancer Genetic Epidemiology, Department of Oncology, Strangeways 
+Laboratory, University of Cambridge, Cambridge, CB1 8RN, UK.
+(246)Department of Genetics and Computational Biology, QIMR Berghofer Medical
+Research Institute, 300 Herston Road, Brisbane, QLD, 4006, Australia.
+(247)Department of Obstetrics and Gynecology, Oregon Health & Science University,
+3181 SW Sam Jackson Park Road, L-466, Portland, OR, 97239, USA.
+(248)Knight Cancer Institute, Oregon Health & Science University, 3181 SW Sam
+Jackson Park Road, L-466, Portland, OR, 97239, USA.
+(249)Department of Gastroenterology, Radboud University Nijmegen Medical Center, 
+Geert Grooteplein Zuid 10, Internal BOBox 433, 6525 GA, Nijmegen, The
+Netherlands.
+(250)Department of Epidemiology, University of Washington School of Public
+Health, 1959 NE Pacific St, Seattle, WA, 98195, USA.
+(251)Research Centre for Genetic Engineering and Biotechnology 'Georgi DEfremov',
+Macedonian Academy of Sciences and Arts, Boulevard Krste Petkov Misirkov, 1000,
+Skopje, Republic of Macedonia.
+(252)Bristol Dental School, University of Bristol, Lower Maudlin Street, Bristol,
+BS1 2LY, UK.
+(253)Unit of Molecular Bases of Genetic Risk and Genetic Testing, Department of
+Research, Fondazione IRCCS (Istituto Di Ricovero e Cura a Carattere Scientifico) 
+Istituto Nazionale dei Tumori (INT), Via Giacomo Venezian 1, 20133, Milan, Italy.
+(254)Decode genetics, Sturlugata 8, IS-101 Reykjavik, Reykjavik, Iceland,
+Iceland.
+(255)School of Women's and Children's Health, Faculty of Medicine, University of 
+NSW Sydney, 18 High St, Sydney, NSW, 2052, Australia.
+(256)The Kinghorn Cancer Centre, Garvan Institute of Medical Research, 384
+Victoria Street, Sydney, NSW, 2010, Australia.
+(257)Division of Epidemiology, Department of Medicine, Vanderbilt Epidemiology
+Center, Vanderbilt-Ingram Cancer Center, Vanderbilt University School of
+Medicine, 1161 21st Ave S # D3300, Nashville, TN, 37232, USA.
+(258)Clalit National Cancer Control Center, Carmel Medical Center and Technion
+Faculty of Medicine, 7 Michal Street, 34362, Haifa, Israel.
+(259)Department of Genetics, University of Pretoria, Private Bag X323, Arcadia,
+0007, South Africa.
+(260)Department of Chronic Disease Epidemiology, Yale School of Public Health, 60
+College St, New Haven, CT, 06510, USA.
+(261)Cancer Center Cluster Salzburg at PLUS, Department of Molecular Biology,
+University of Salzburg, Billrothstr11, 5020, Salzburg, Austria.
+(262)Division of Epigenomics and Cancer Risk Factors, DKFZ - German Cancer
+Research Center, Im Neuenheimer Feld 280, 69120, Heidelberg, Germany.
+(263)Member of the German Center for Lung Research (DZL), Translational Lung
+Research Center Heidelberg (TLRC-H), 69120, Heidelberg, Germany.
+(264)Department of Urology, Erasmus University Medical Center, Wytemaweg 80, 3015
+CN, Rotterdam, The Netherlands.
+(265)Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai,
+1425 Madison Avenue, New York, NY, 10029, USA.
+(266)Department of Genetics and Genomic Sciences, Icahn School of Medicine at
+Mount Sinai, 1425 Madison Avenue, New York, NY, 10029, USA.
+(267)Department of Epidemiology, University of Washington, M4 C308, 1100 Fairview
+Ave N, Seattle, WA, 98109, USA.
+(268)Faculty of Medicine and Health Sciences, Basic Medical Sciences, Ghent
+University, De Pintelaan 185, 9000, Gent, Belgium.
+(269)Hereditary Cancer Clinic, University Hospital of Heraklion, Voutes, 711 10, 
+Heraklion, Greece.
+(270)Epidemiology Branch, National Institute of Environmental Health Sciences,
+NIH, 111TWAlexander Drive, Research Triangle Park, NC, 27709, USA.
+(271)Research Oncology, Guy's Hospital, King's College London, Guy's Hospital
+Great Maze Pond, London, SE1 9RT, UK.
+(272)Institute of Biomedicine, University of Turku, 20014, Turku, Finland.
+(273)Division of Laboratory, Department of Medical Genetics, Turku University
+Hospital, 20014, Turku, Finland.
+(274)Prostate Cancer Research Center, Faculty of Medicine and Life Sciences and
+BioMediTech Institute, University of Tampere, 33014, Tampere, Finland.
+(275)Division of Molecular Pathology, The Netherlands Cancer Institute - Antoni
+van Leeuwenhoek Hospital, Plesmanlaan 121, 1066 CX, Amsterdam, The Netherlands.
+(276)Division of Psychosocial Research and Epidemiology, The Netherlands Cancer
+Institute - Antoni van Leeuwenhoek hospital, Plesmanlaan 121, 1066 CX, Amsterdam,
+The Netherlands.
+(277)Department of Preventive Medicine, Keck School of Medicine, University of
+Southern California, 1450 Biggy Street, Los Angeles, CA, 90033, USA.
+(278)Department of Epidemiology and Biostatistics, Jiangsu Key Lab of Cancer
+Biomarkers, Prevention and Treatment, Collaborative Innovation Center for Cancer 
+Personalized Medicine, School of Public Health, Nanjing Medical University, 101
+Longmian Ave, Jiangning District, 211166, Nanjing, People's Republic of China.
+(279)Department of Genetics and Genomic Sciences, Department of Population Health
+Science and Policy, Icahn School of Medicine at Mount Sinai, 1425 Madison Avenue,
+2nd floor, New York, NY, 10029, USA.
+(280)Dept of OB/GYN and Comprehensive Cancer Center, Medical University of
+Vienna, Waehringer Guertel 18-20, 1090, Vienna, Austria.
+(281)Department of Internal Medicine, University of Utah Health Sciences Center, 
+295 Chipeta Way, Salt Lake City, UT, 84132, USA.
+(282)Department of Molecular Medicine, Aarhus University Hospital, DK-8200,
+Aarhus, Denmark.
+(283)Department of Clinical Medicine, Aarhus University, DK-8200, Aarhus,
+Denmark.
+(284)Precision Medicine, School of Clinical Sciences at Monash Health, Monash
+University, 246 Clayton Road, Clayton, VIC, 3168, Australia.
+(285)Department of Clinical Pathology, The University of Melbourne, Cnr Grattan
+Street and Royal Parade, Melbourne, VIC, 3010, Australia.
+(286)Department of Medicine III, University Hospital, LMU Munich,
+Marchioninistr15, 81377, Munich, Germany.
+(287)The Curtin UWA Centre for Genetic Origins of Health and Disease, Curtin
+University and University of Western Australia, 35 Stirling Hwy, Perth, WA, 6000,
+Australia.
+(288)Department of Obstetrics and Gynecology, Sahlgrenska Cancer Center, Inst
+Clinical Scienses, University of Gothenburg, Blå stråket 6, 41345, Gothenburg,
+Sweden.
+(289)Epidemiology Center, College of Medicine, University of South Florida, 3650 
+Spectrum Blvd, Suite 100, Tampa, FL, 33612, USA.
+(290)Division of Breast Cancer Research, The Institute of Cancer Research,
+London, SW7 3RP, UK.
+(291)Department of Molecular Biology, School of Medicine of São José do Rio
+Preto, Av Brig Faria Lima 5416 Vila São Pedro, São José do Rio Preto, SP,
+15090-000, Brazil.
+(292)Department of Genetics and Evolutive Biology, Institute of Biosciences,
+University of São Paulo, Rua do Matão, 321, São Paulo, SP, 05508-090, Brazil.
+(293)SWOG Statistical Center, Fred Hutchinson Cancer Research Center, Seattle,
+Washington, 98109, USA.
+(294)Faculty of Medicine, University of Oviedo and CIBERESP, Campus del Cristo
+s/n, 33006, Oviedo, Spain.
+(295)Epigenetic and Stem Cell Biology Laboratory, National Institute of
+Environmental Health Sciences, NIH, 111TWAlexander Drive, Research Triangle Park,
+NC, 27709, USA.
+(296)Medical Statistics Group, School of Health and Related Research (ScHARR),
+University of Sheffield, Regent Court, 30 Regent Street, Sheffield, S1 4DA, UK.
+(297)Department of Genetics, Portuguese Oncology Institute, Rua DrAntónio
+Bernardino de Almeida 62, 4220-072, Porto, Portugal.
+(298)Biomedical Sciences Institute (ICBAS), University of Porto, RJorge de
+Viterbo Ferreira 228, 4050-013, Porto, Portugal.
+(299)Department of Epidemiology, Mailman School of Public Health, Columbia
+University, 722 West 168th Street, New York, NY, 10032, USA.
+(300)Obstetrics and Gynecology Epidemiology Center, Brigham and Women's Hospital,
+221 Longwood Avenue RFB 368, Boston, MA, 02115, USA.
+(301)Harvard THChan School of Public Health, 221 Longwood Avenue RFB 368, Boston,
+MA, 02115, USA.
+(302)Department of Clinical Genetics, Odense University Hospital, Sonder
+Boulevard 29, 5000, Odence C, Denmark.
+(303)Department of Gynecology and Obstetrics, Haukeland University Hospital,
+5021, Bergen, Norway.
+(304)Centre for Cancer Biomarkers CCBIO, Department of Clinical Science,
+University of Bergen, 5021, Bergen, Norway.
+(305)Program in Cancer Genetics, Departments of Human Genetics and Oncology,
+McGill University, 1001 Decarie Boulevard, Montréal, QC, H4A3J1, Canada.
+(306)Department of Medical Genetics, Cambridge University, Hills Road, Cambridge,
+CB2 0QQ, UK.
+(307)Department of Cancer Biology and Genetics, The Ohio State University,
+460W12th Avenue, Columbus, OH, 43210, USA.
+(308)Institute of Human Genetics, Pontificia Universidad Javeriana, Carrera 7
+No40-90, Bogota, Colombia.
+(309)Division of Cancer Sciences, Manchester Cancer Research Centre, Faculty of
+Biology, Medicine and Health, Manchester Academic Health Science Centre, NIHR
+Manchester Biomedical Research Centre, Health Innovation Manchester, University
+of Manchester, Manchester, M20 4GJ, UK.
+(310)Cancer Epidemiology Unit, Nuffield Department of Population Health,
+University of Oxford, Oxford, OX3 7LF, UK.
+(311)Department of Medical Oncology, Beth Israel Deaconess Medical Center, 330
+Brookline Avenue, Boston, MA, 02215, USA.
+(312)Huntsman Cancer Institute and Department of Population Health Sciences,
+University of Utah, 2000 Circle of Hope, Rm 4125, Salt Lake City, UT, 84112, USA.
+(313)Department of Oncology, Cross Cancer Institute, University of Alberta, 116
+St & 85 Ave, Edmonton, AB T6G 2R3, Canada.
+(314)Division of Radiation Oncology, Cross Cancer Institute, University of
+Alberta, 116 St & 85 Ave, Edmonton, AB T6G 2R3, Canada.
+(315)Division of Gynecologic Oncology, Department of Obstetrics and Gynaecology
+and Leuven Cancer Institute, University Hospitals Leuven, Herestraat 49, 3000,
+Leuven, Belgium.
+(316)Fundación Pública Galega Medicina Xenómica & Instituto de Investigación
+Sanitaria de Santiago de Compostela, calle Choupana s/n, 15706, Santiago De
+Compostela, Spain.
+(317)Population Health Department, QIMR Berghofer Medical Research Institute, 300
+Herston Road, Brisbane, QLD, 4006, Australia.
+(318)Biostatistics and Computational Biology Branch, National Institute of
+Environmental Health Sciences, NIH, 111TWAlexander Drive, Research Triangle Park,
+NC, 27709, USA.
+(319)Department of Otolaryngology/Head and Neck Surgery, University of North
+Carolina at Chapel Hill, Chapel Hill, 27514, NC, USA.
+(320)City of Hope Clinical Cancer Genomics Community Research Network, 1500 East 
+Duarte Road, Duarte, CA, 91010, USA.
+(321)Division of Cancer Sciences, University of Manchester, Manchester Cancer
+Research Centre, Manchester Academic Health Science Centre,, The Christie
+Hospital NHS Foundation Trust, Manchester, M13 9PL, UK.
+(322)Fred Hutchinson Cancer Research Center, 1100 Fairview Ave N, Seattle, WA,
+98109, USA.
+(323)Department of Epidemiology, University of Washington, 1100 Fairview Ave N,
+Seattle, WA, 98109, USA.
+(324)Department of Health Research and Policy - Epidemiology, Stanford University
+School of Medicine, 259 Campus Drive, Stanford, CA, 94305, USA.
+(325)Department of Biomedical Data Science, Stanford University School of
+Medicine, 259 Campus Drive, Stanford, CA, 94305, USA.
+(326)Institute of Medical Informatics, Biometry and Epidemiology, Chair of
+Epidemiology, Ludwig Maximilians University, Neuherberg D-85764, Munich, 803539, 
+Bavaria, Germany.
+(327)Helmholtz Zentrum Munchen, German Research Center for Environmental Health
+(GmbH), Institute of Epidemiology, Ingolstadter Landstr1, 85764, Neuherberg,
+Germany.
+(328)Institute of Medical Statistics and Epidemiology, Technical University
+Munich, Munich, 80333, Germany.
+(329)Laboratory of Cancer Genetics and Tumor Biology, Cancer and Translational
+Medicine Research Unit, Biocenter Oulu, University of Oulu, Aapistie 5A, 90220,
+Oulu, Finland.
+(330)Laboratory of Cancer Genetics and Tumor Biology, Northern Finland Laboratory
+Centre Oulu, Aapistie 5A, 90220, Oulu, Finland.
+(331)Department of Surgical Sciences, Uppsala University, 751 85, Uppsala,
+Sweden.
+(332)Academic Unit of Clinical Oncology, University of Sheffield, Weston Park
+Hospital, Whitham Road, Sheffield, S10 2SJ, UK.
+(333)Discipline of Genetics, Memorial University of Newfoundland, StJohn's, NL,
+A1C 5S7, Canada.
+(334)Department of Epidemiology, Division of Cancer Prevention and Population
+Science, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd,
+Houston, TX, 77030, USA.
+(335)Magee-Womens Hospital, University of Pittsburgh School of Medicine, 300
+Halket St, Pittsburgh, PA, 15213, USA.
+(336)Center for Genomic Medicine and Department of Anasthesia, Massachusetts
+General Hospital, Boston, MA, 02114, USA.
+(337)Human Genetics, Graduate School of Public Health, University of Pittsburgh, 
+UPMC Cancer Pavilion, Suite 4C, Office # 467, 5150 Centre Avenue, Pittsburgh, PA,
+15232, USA.
+(338)UPMC Hillman Cancer Center, Pittsburgh, 15232, PA, USA.
+(339)Genetic Cancer Susceptibility Group, International Agency for Research on
+Cancer, 150 cours Albert Thomas, 69008, Lyon, France.
+(340)Oncogenetics Team, The Institute of Cancer Research and Royal Marsden NHS
+Foundation Trust, Downs Road, Sutton, SM2 5NG, UK.
+(341)Genomics Center, Centre Hospitalier Universitaire de Québec - Université
+Laval Research Center, 2705 Laurier Boulevard, Québec City, QC, G1V4G2, Canada.
+(342)UCLA Path and Lab Med, University of California, 10833 Le Conte Ave, Los
+Angeles, CA, 190095, USA.
+(343)Department of Medicine, Epidemiology Section, Institute for Clinical and
+Translational Research, Baylor Medical College, One Baylor Plaza, MS: BCM451,
+Suite 100D, Houston, TX, 77030-3411, USA.
+(344)Program in Genetic Epidemiology and Statistical Genetics, Harvard T.H. Chan 
+School of Public Health, 677 Huntington Ave, Boston, MA, 02115, USA.
+pkraft@hsph.harvard.edu.
+(345)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 677
+Huntington Ave, Boston, MA, 02115, USA. pkraft@hsph.harvard.edu.
+(346)Public Health Sciences Division, Fred Hutchinson Cancer Research Center,
+1100 Fairview Ave. N., Seattle, WA, 98109-1024, USA. saralind@uw.edu.
+(347)Department of Epidemiology, University of Washington School of Public
+Health, 1959 NE Pacific St, Seattle, WA, 98195, USA. saralind@uw.edu.
+
+Quantifying the genetic correlation between cancers can provide important
+insights into the mechanisms driving cancer etiology. Using genome-wide
+association study summary statistics across six cancer types based on a total of 
+296,215 cases and 301,319 controls of European ancestry, here we estimate the
+pair-wise genetic correlations between breast, colorectal, head/neck, lung, ovary
+and prostate cancer, and between cancers and 38 other diseases. We observed
+statistically significant genetic correlations between lung and head/neck cancer 
+(rg = 0.57, p = 4.6 × 10-8), breast and ovarian cancer (rg = 0.24, p = 7 × 10-5),
+breast and lung cancer (rg = 0.18, p =1.5 × 10-6) and breast and colorectal
+cancer (rg = 0.15, p = 1.1 × 10-4). We also found that multiple cancers are
+genetically correlated with non-cancer traits including smoking, psychiatric
+diseases and metabolic characteristics. Functional enrichment analysis revealed a
+significant excess contribution of conserved and regulatory regions to cancer
+heritability. Our comprehensive analysis of cross-cancer heritability suggests
+that solid tumors arising across tissues share in part a common germline genetic 
+basis.
+
+DOI: 10.1038/s41467-018-08054-4 
+PMCID: PMC6347624
+PMID: 30683880  [Indexed for MEDLINE]

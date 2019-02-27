@@ -1,0 +1,35 @@
+
+
+30. J Infect Dis. 2014 Nov 1;210 Suppl 1:S283-93. doi: 10.1093/infdis/jiu295.
+
+Vaccine-derived polioviruses.
+
+Burns CC(1), Diop OM(2), Sutter RW(2), Kew OM(1).
+
+Author information: 
+(1)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, Georgia.
+(2)World Health Organization, Geneva, Switzerland.
+
+The attenuated oral poliovirus vaccine (OPV) has many properties favoring its use
+in polio eradication: ease of administration, efficient induction of intestinal
+immunity, induction of durable humoral immunity, and low cost. Despite these
+advantages, OPV has the disadvantage of genetic instability, resulting in rare
+and sporadic cases of vaccine-associated paralytic poliomyelitis (VAPP) and the
+emergence of genetically divergent vaccine-derived polioviruses (VDPVs). Whereas 
+VAPP is an adverse event following exposure to OPV, VDPVs are polioviruses whose 
+genetic properties indicate prolonged replication or transmission. Three
+categories of VDPVs are recognized: (1) circulating VDPVs (cVDPVs) from outbreaks
+in settings of low OPV coverage, (2) immunodeficiency-associated VDPVs (iVDPVs)
+from individuals with primary immunodeficiencies, and (3) ambiguous VDPVs
+(aVDPVs), which cannot be definitively assigned to either of the first 2
+categories. Because most VDPVs are type 2, the World Health Organization's plans 
+call for coordinated worldwide replacement of trivalent OPV with bivalent OPV
+containing poliovirus types 1 and 3.
+
+Published by Oxford University Press on behalf of the Infectious Diseases Society
+of America 2014. This work is written by (a) US Government employee(s) and is in 
+the public domain in the US.
+
+DOI: 10.1093/infdis/jiu295 
+PMID: 25316847  [Indexed for MEDLINE]

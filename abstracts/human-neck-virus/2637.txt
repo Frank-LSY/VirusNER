@@ -1,0 +1,40 @@
+
+
+2637. Am J Pathol. 2014 May;184(5):1323-30. doi: 10.1016/j.ajpath.2014.01.028.
+
+Molecular heterogeneity of head and neck squamous cell carcinoma defined by
+next-generation sequencing.
+
+Zhang P(1), Mirani N(1), Baisre A(1), Fernandes H(2).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Rutgers Biomedical and Health
+Sciences-New Jersey Medical School, Newark, New Jersey.
+(2)Department of Pathology and Laboratory Medicine, Rutgers Biomedical and Health
+Sciences-New Jersey Medical School, Newark, New Jersey. Electronic address:
+hef9020@med.cornell.edu.
+
+Head and neck squamous cell carcinoma (HNSCC) can be divided into two different
+clinical entities based on their association with high-risk subtypes of human
+papilloma virus (HPV16 and HPV18). Dissimilarities in prognosis and molecular
+profiles have attracted much attention in recent years, in part because of
+increasing rates of HPV infection in HNSCC; however, the underlying mechanisms
+and detailed genetic profiles that set these tumors apart are still elusive. To
+elucidate oncogenic pathways in HNSCC with and without HPV infection, we used
+targeted next-generation sequencing to interrogate single-nucleotide
+polymorphisms (SNPs) in 50 cancer-related genes. We detected SNPs in 25 of these 
+genes from HNSCC tissue specimens with and without HPV infection. In 5 of the 25 
+genes, variant patterns were similar regardless of HPV infection status. A
+greater number of sequence variants in genes from the tyrosine kinase receptors
+and their associated pathways were preferentially present in HPV(+) specimens.
+SNPs in genes related to tumor-suppressor functions were more prevalent in HPV(-)
+HNSCC specimens. The observations may help to elucidate mechanisms involved in
+the molecular pathogenesis of two clinically diverse subclasses of HNSCC.
+Over-representation of SNPs in either HPV(+) or HPV(-) HNSCC is another indicator
+of potentially actionable sequence variants for targeted therapy.
+
+Copyright © 2014 American Society for Investigative Pathology. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajpath.2014.01.028 
+PMID: 24767105  [Indexed for MEDLINE]

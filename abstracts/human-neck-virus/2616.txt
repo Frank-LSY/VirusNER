@@ -1,0 +1,54 @@
+
+
+2616. Oral Oncol. 2015 Oct;51(10):929-34. doi: 10.1016/j.oraloncology.2015.07.008. Epub
+2015 Aug 10.
+
+Epstein-Barr virus infection is strictly associated with the metastatic spread of
+sinonasal squamous-cell carcinomas.
+
+Doescher J(1), Piontek G(2), Wirth M(2), Bettstetter M(3), Schlegel J(4), Haller 
+B(5), Brockhoff G(6), Reiter R(1), Pickhard A(7).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, University of Ulm,
+Prittwitzstr. 43, 89075 Ulm, Germany.
+(2)Department of Otolaryngology, Head and Neck Surgery, Technical University of
+Munich, Ismaninger Str. 22, 81675 Munich, Germany.
+(3)Molecular Pathology South Bavaria, Trogerstraße 18, 81675 Munich, Germany.
+(4)Division of Neuropathology, Institute of Pathology, Technical University of
+Munich, Ismaninger Str. 22, 81675 Munich, Germany.
+(5)Institute for Medical Statistics and Epidemiology, Technical University of
+Munich, Ismaninger Str. 22, 81675 Munich, Germany.
+(6)Department of Gynecology and Obstetrics, University of Regensburg, Landshuter 
+Str. 65, 93053 Regensburg, Germany.
+(7)Department of Otolaryngology, Head and Neck Surgery, Technical University of
+Munich, Ismaninger Str. 22, 81675 Munich, Germany. Electronic address:
+a.pickhard@lrz.tum.de.
+
+BACKGROUND: Sinonasal squamous-cell carcinomas (SNSCC) are relatively rare. Thus,
+data regarding the rate of lymph node metastases are inconsistent in contrast
+with well-known high metastasis rates in squamous-cell carcinomas of the head and
+neck (HNSCC) (oral cavity, pharynx and larynx). Hence, the indication for
+elective neck dissection is difficult in SNSCC. The aim of this study was to
+assess common genetic alterations and EBV and HPV status as a function of
+metastasis in SNSCC and HNSCC.
+METHODS: We retrospectively analyzed 44 SNSCC and 65 HNSCC for TP53, EGFR, KRAS, 
+PIK3CA and BRAF mutations using a high-resolution melting analysis followed by
+Sanger sequencing. EBV and HPV detection was performed using in situ
+hybridization for virus encoded RNA. Tumor-associated p16(INK4a) expression was
+visualized by immunohistochemistry and correlated with HPV infection. The
+mutation data, EBV and HPV status were statistically compared with the clinical
+data in SNSCC and HNSCC.
+RESULTS: TP53 mutations were exclusively associated with shorter survival in
+SNSCC (p=0.048). All the other markers had no effect on the metastasis rate and
+survival. In total, 20 of 44 SNSCC were EBV-positive. Only these EBV positive
+tumors developed lymph node or distant metastases (p=0.008). LMP1 was positive in
+14/44 patients. When combining both methods significance for a correlation
+between EBV/LMP1 positive patients and metastases was even higher (p=0.001).
+CONCLUSION: In SNSCC, the presence of EBV is strictly associated with metastasis.
+We recommend an elective neck dissection in patients with EBV-positive SNSCC.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.07.008 
+PMID: 26272275  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+214. Int J Cancer. 2012 Apr 15;130(8):1806-12. doi: 10.1002/ijc.26195. Epub 2011 Aug
+2.
+
+Human papillomavirus status in young patients with head and neck squamous cell
+carcinoma.
+
+van Monsjou HS(1), van Velthuysen ML, van den Brekel MW, Jordanova ES, Melief CJ,
+Balm AJ.
+
+Author information: 
+(1)Department of Head and Neck Oncology and Surgery, NKI/Antoni van Leeuwenhoek
+Hospital, Amsterdam, The Netherlands. h.v.monsjou@nki.nl
+
+The role of human papillomavirus (HPV) in head and neck squamous cell carcinoma
+(HNSCC) development has been recognized only in the last decade. Although younger
+patients develop HNSCC associated with HPV, the incidence in young patients has
+not been studied. Forty-five young HNSCC patients (<40 years) were tested for HPV
+and the expression of p16(ink4a) and p53 in tumor biopsies. The presence of HPV
+was correlated with the absence and presence of alcohol and tobacco exposure.
+Paraffin-embedded, archival biopsy materials from HNSCC of 45 patients younger
+than 40 years were analyzed. HPV subtypes were identified by PCR followed by
+genotyping. Expression of p16(ink4a) and p53 were determined by
+immunohistochemistry. Fourteen (31%) of the HNSCC specimens from 45 patients
+unequivocally exhibited HPV16 positivity. Sixty percentage of the oropharyngeal
+tumors and 5% of the oral cavity tumors were HPV16 positive. P16(ink4a)
+overexpression was detected in 93% of the HPV16-positive tumors. None of the
+HPV16 tumors showed p53 overexpression. There was no association of HPV
+positivity with (lack of) exposure to alcohol and smoking. HPV association was
+not exclusively detected in nonsmoking, nondrinking young HNSCC patients. The
+presence of p16(ink4a) accumulation and the absence of p53 overexpression are
+good surrogate markers for HPV-associated HNSCC.
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.26195 
+PMID: 21607949  [Indexed for MEDLINE]

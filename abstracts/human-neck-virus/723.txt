@@ -1,0 +1,67 @@
+
+
+723. J Virol. 2015 May;89(9):4980-91. doi: 10.1128/JVI.00335-15. Epub 2015 Feb 18.
+
+Evidence supporting a role for TopBP1 and Brd4 in the initiation but not
+continuation of human papillomavirus 16 E1/E2-mediated DNA replication.
+
+Gauson EJ(1), Donaldson MM(2), Dornan ES(2), Wang X(3), Bristol M(3), Bodily
+JM(4), Morgan IM(5).
+
+Author information: 
+(1)VCU Philips Institute for Oral Health Research, Virginia Commonwealth
+University School of Dentistry, Department of Oral and Craniofacial Molecular
+Biology, Richmond, Virginia, USA University of Glasgow Institute of Infection,
+Immunology and Inflammation, Glasgow, United Kingdom.
+(2)University of Glasgow Institute of Infection, Immunology and Inflammation,
+Glasgow, United Kingdom.
+(3)VCU Philips Institute for Oral Health Research, Virginia Commonwealth
+University School of Dentistry, Department of Oral and Craniofacial Molecular
+Biology, Richmond, Virginia, USA.
+(4)Louisiana State University Health Sciences Center-Shreveport, Department of
+Microbiology and Immunology, Shreveport, Louisiana, USA.
+(5)VCU Philips Institute for Oral Health Research, Virginia Commonwealth
+University School of Dentistry, Department of Oral and Craniofacial Molecular
+Biology, Richmond, Virginia, USA Massey Cancer Center, Virginia Commonwealth
+University, Richmond, Virginia, USA immorgan@vcu.edu.
+
+To replicate the double-stranded human papillomavirus 16 (HPV16) DNA genome,
+viral proteins E1 and E2 associate with the viral origin of replication, and E2
+can also regulate transcription from adjacent promoters. E2 interacts with host
+proteins in order to regulate both transcription and replication; TopBP1 and Brd4
+are cellular proteins that interact with HPV16 E2. Previous work with E2 mutants 
+demonstrated the Brd4 requirement for the transactivation properties of E2, while
+TopBP1 is required for DNA replication induced by E2 from the viral origin of
+replication in association with E1. More-recent studies have also implicated Brd4
+in the regulation of DNA replication by E2 and E1. Here, we demonstrate that both
+TopBP1 and Brd4 are present at the viral origin of replication and that
+interaction with E2 is required for optimal initiation of DNA replication. Both
+cellular proteins are present in E1-E2-containing nuclear foci, and the viral
+origin of replication is required for the efficient formation of these foci.
+Short hairpin RNA (shRNA) against either TopBP1 or Brd4 destroys the E1-E2
+nuclear bodies but has no effect on E1-E2-mediated levels of DNA replication. An 
+E2 mutation in the context of the complete HPV16 genome that compromises Brd4
+interaction fails to efficiently establish episomes in primary human
+keratinocytes. Overall, the results suggest that interactions between TopBP1 and 
+E2 and between Brd4 and E2 are required to correctly initiate DNA replication but
+are not required for continuing DNA replication, which may be mediated by
+alternative processes such as rolling circle amplification and/or homologous
+recombination.IMPORTANCE: Human papillomavirus 16 (HPV16) is causative in many
+human cancers, including cervical and head and neck cancers, and is responsible
+for the annual deaths of hundreds of thousands of people worldwide. The current
+vaccine will save lives in future generations, but antivirals targeting HPV16 are
+required for the alleviation of disease burden on the current, and future,
+generations. Targeting viral DNA replication that is mediated by two viral
+proteins, E1 and E2, in association with cellular proteins such as TopBP1 and
+Brd4 would have therapeutic benefits. This report suggests a role for these
+cellular proteins in the initiation of viral DNA replication by HPV16 E1-E2 but
+not for continuing replication. This is important if viral replication is to be
+effectively targeted; we need to understand the viral and cellular proteins
+required at each phase of viral DNA replication so that it can be effectively
+disrupted.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00335-15 
+PMCID: PMC4403487
+PMID: 25694599  [Indexed for MEDLINE]

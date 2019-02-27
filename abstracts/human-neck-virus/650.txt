@@ -1,0 +1,33 @@
+
+
+650. Allergy. 2016 Oct;71(10):1381-92. doi: 10.1111/all.12934. Epub 2016 Jul 20.
+
+Viruses and bacteria in Th2-biased allergic airway disease.
+
+Lan F(1)(2), Zhang N(1), Gevaert E(1), Zhang L(2), Bachert C(3)(4).
+
+Author information: 
+(1)Upper Airways Research Laboratory, ENT Department, Ghent University, Gent,
+Belgium.
+(2)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren Hospital, 
+Capital Medical University, Beijing, China.
+(3)Upper Airways Research Laboratory, ENT Department, Ghent University, Gent,
+Belgium. Claus.Bachert@UGent.be.
+(4)Division of ENT Diseases, Clintec, Karolinska Institute, Stockholm, Sweden.
+Claus.Bachert@UGent.be.
+
+Allergic airway diseases are typically characterized by a type 2-biased
+inflammation. Multiple distinct viruses and bacteria have been detected in the
+airways. Recently, it has been confirmed that the microbiome of allergic
+individuals differs from that of healthy subjects, showing a close relationship
+with the type 2 response in allergic airway disease. In this review, we summarize
+the recent findings on the prevalence of viruses and bacteria in type 2-biased
+airway diseases and on the mechanisms employed by viruses and bacteria in
+propagating type 2 responses. The understanding of the microbial composition and 
+postinfectious immune programming is critical for the reconstruction of the
+normal microflora and immune status in allergic airway diseases.
+
+© 2016 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/all.12934 
+PMID: 27188632  [Indexed for MEDLINE]

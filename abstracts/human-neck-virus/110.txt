@@ -1,0 +1,34 @@
+
+
+110. Am J Rhinol Allergy. 2015 Jan-Feb;29(1):19-22. doi: 10.2500/ajra.2015.29.4129.
+
+The seasonality of respiratory viruses in patients with chronic rhinosinusitis.
+
+Lima JT(1), Paula FE, Proença-Modena JL, Demarco RC, Buzatto GP, Saturno TH,
+Delcaro LS, Tamashiro E, Valera FC, Arruda E, Anselmo-Lima WT.
+
+Author information: 
+(1)Departments of Ophthalmology, Otorhinolaryngology and Head and Neck Surgery,
+University of São Paulo, School of Medicine of Ribeirão Preto, Brazil.
+
+BACKGROUND: Chronic rhinosinusitis (CRS) is a common illness, yet little is known
+about its pathogenesis, including the role played by respiratory viruses.
+METHODS: A transversal prospective study was conducted to analyze the seasonality
+of CRS using real-time polymerase chain reaction to detect respiratory virus
+genomes in secretions and tissue samples from patients with CRS with and without 
+nasal polyps.
+RESULTS: The frequency of viral detection was 41% (31/75). The respiratory virus 
+most frequently detected was human rhinovirus, found in 18 patients (24%),
+followed by human metapneumovirus, human enterovirus, human respiratory sincicial
+virus, human adenovirus, human bocavirus, human coronavirus, and human influenza 
+virus, detected in 12 (16%), five (6.6%), four (5.3%), four (5.3%), two (2.6%),
+two (2.6%), and one (1.3%) patient(s), respectively. Although none of the
+patients presented symptoms when the samples were collected, there was a peak in 
+detection of the most prevalent virus in the autumn and winter seasons of both
+years, similar to the pattern that occurs in acute conditions.
+CONCLUSIONS: The pattern of respiratory virus seasonality found in nasal mucosa, 
+polyps, and paranasal sinus samples in patients with CRS reinforces the
+possibility of asymptomatic respiratory viral infections.
+
+DOI: 10.2500/ajra.2015.29.4129 
+PMID: 25590310  [Indexed for MEDLINE]

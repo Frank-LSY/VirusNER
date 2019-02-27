@@ -1,0 +1,43 @@
+
+
+257. Otolaryngol Head Neck Surg. 2017 Apr;156(4):677-682. doi:
+10.1177/0194599817695545. Epub 2017 Mar 21.
+
+HPV in Larynx Squamous Cell Carcinoma: New Serotypes and Survival Study within
+10-Year Follow-up.
+
+Sánchez Barrueco A(1), González Galán F(1), Lora Pablos D(2), Villacampa Aubá
+JM(1), Ballestín Carcavilla C(3), Cenjor Español C(1), Almodóvar Álvarez C(4).
+
+Author information: 
+(1)1 ENT and Head and Neck Surgery Department, Hospital Universitario Fundación
+Jiménez Díaz, Madrid, Spain.
+(2)2 Clinical Research Unit (imas12-CIBERESP), Hospital Universitario 12 de
+Octubre, Madrid, Spain.
+(3)3 Pathology Department, Hospital Universitario 12 de Octubre, Madrid, Spain.
+(4)4 ENT and Head and Neck Surgery Department, Hospital Universitario 12 de
+Octubre, Madrid, Spain.
+
+Objective To determine the presence of human papillomavirus (HPV) in head and
+neck squamous cell carcinoma, specifically in the larynx without the bias of
+other sublocations, and to describe the different serotypes of HPV and their
+impact on overall and disease-free survival after 10-year follow-up. Study Design
+Retrospective case series with chart review of ear, nose, and throat oncologic
+database. Setting Academic tertiary care hospital. Subjects A total of 123
+samples of larynx squamous cell carcinoma were included, only from the glottis
+and treated only with surgery between 1977 and 2005. Methods DNA extraction was
+carried out by polymerase chain reaction, and subsequent visualization was
+performed in low-density arrays. Results were compared with histologic,
+clinicopathologic, and survival parameters, with a 10-year follow-up. Results HPV
+DNA was detected in 22.76% (n = 28) of the samples. Eleven genotypes were
+detected, 2 of which had never been described in the larynx (HPV43 and HPV62). No
+increasing trend of HPV was observed over time. HPV presence did not correlate
+with better survival during the follow-up. Smoking was proven as an independent
+factor in relation to the presence of HPV. Conclusion HPV may represent a notable
+factor in the development of a subset of laryngeal squamous cell carcinoma
+without significant influence on overall and disease-free survival. More studies,
+including oncogene transcription proteins, would be necessary to draw more
+relevant conclusions about the relevance of HPV infection in the larynx.
+
+DOI: 10.1177/0194599817695545 
+PMID: 28322111  [Indexed for MEDLINE]

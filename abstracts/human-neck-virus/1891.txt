@@ -1,0 +1,41 @@
+
+
+1891. PLoS One. 2013 May 10;8(5):e63440. doi: 10.1371/journal.pone.0063440. Print 2013.
+
+Overexpression of EGFR in head and neck squamous cell carcinoma is associated
+with inactivation of SH3GL2 and CDC25A genes.
+
+Maiti GP(1), Mondal P, Mukherjee N, Ghosh A, Ghosh S, Dey S, Chakrabarty J, Roy
+A, Biswas J, Roychoudhury S, Panda CK.
+
+Author information: 
+(1)Department of Oncogene Regulation, Chittaranjan National Cancer Institute,
+Kolkata, India.
+
+The aim of this study is to understand the mechanism of EGFR overexpression in
+head and neck squamous cell carcinoma (HNSCC). For this reason,
+expression/mutation of EGFR were analyzed in 30 dysplastic head and neck lesions 
+and 148 HNSCC samples of Indian patients along with 3 HNSCC cell lines. In
+addition, deletion/methylation/mutation/expression of SH3GL2 (associated with
+EGFR degradation) and CDC25A (associated with dephosphorylation of EGFR) were
+analyzed in the same set of samples. Our study revealed high frequency of EGFR
+overexpression (66-84%), low frequency of gene amplification (10-32.5%) and
+absence of functional mutation in the dysplastic lesions and HNSCC samples. No
+correlation was found between protein overexpression and mRNA expression/gene
+amplification status of EGFR. On the other hand, frequent alterations
+(deletion/methylation) of SH3GL2 (63-77%) and CDC25A (37-64%) were seen in the
+dysplastic and HNSCC samples. Two novel single nucleotide polymorphism (SNPs)
+were found in the promoter region of SH3GL2. Reduced expression of these genes
+showed concordance with their alterations. Overexpression of EGFR and p-EGFR were
+significantly associated with reduced expression and alterations of SH3GL2 and
+CDC25A respectively. In-vitro demethylation experiment by 5-aza-2'-deoxycytidine 
+(5-aza-dC) showed upregulation of SH3GL2 and CDC25A and downregulation of EGFR
+expression in Hep2 cell line. Poor patient outcome was predicted in the cases
+with alterations of SH3GL2 and CDC25A in presence of human papilloma virus (HPV) 
+infection. Also, low SH3GL2 and high EGFR expression was a predictor of poor
+patient survival. Thus, our data suggests that overexpression of EGFR due to its 
+reduced degradation and dephosphorylation is needed for development of HNSCC.
+
+DOI: 10.1371/journal.pone.0063440 
+PMCID: PMC3651136
+PMID: 23675485  [Indexed for MEDLINE]

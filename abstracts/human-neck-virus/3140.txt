@@ -1,0 +1,38 @@
+
+
+3140. Acta Otolaryngol. 2012 Sep;132(9):974-80. doi: 10.3109/00016489.2012.663933. Epub
+2012 Jul 25.
+
+Intranasal trigeminal chemosensitivity in patients with postviral and
+post-traumatic olfactory dysfunction.
+
+Ren Y(1), Yang L, Guo Y, Xutao M, Li K, Wei Y.
+
+Author information: 
+(1)Department of Otolaryngology Head & Neck Surgery, Beijing Chaoyang Hospital,
+Capital Medical University, Beijing, China.
+
+CONCLUSIONS: The olfactory and intranasal trigeminal systems are closely
+connected. With regard to intranasal trigeminal event-related potential (ERP),
+patients with olfactory dysfunction (OD) showed longer latency and lower
+amplitude, which indicated decreased trigeminal sensitivity. Different age,
+etiology, and olfactory status also affect trigeminal sensitivity differently.
+OBJECTIVE: OD is a common symptom in the rhinology clinic. ERP is considered an
+important method to evaluate chemosensitivity. The aim of this study was to
+investigate changes of intranasal trigeminal sense in patients with postviral OD 
+(PVOD) and post-traumatic OD (PTOD).
+METHODS: A total of 96 participants (30 healthy adults and 66 patients with OD)
+aged 20-65 years were investigated. The T&T olfactometer, the Sniffin' Sticks
+olfactory test, and trigeminal ERPs (tERPs) were used. We evaluated trigeminal
+sensitivity influenced by different factors (age, etiology, and olfactory status)
+in healthy subjects with normal olfactory function and in patients with PVOD and 
+PTOD.
+RESULTS: Patients with OD showed higher trigeminal thresholds than normal
+controls. Compared with controls, N1/P2 latencies of tERPs increased and
+amplitudes decreased in patients with OD. Older subjects showed longer latencies 
+and lower amplitudes than young subjects in both controls and the OD group.
+Patients with PTOD exhibited worse psychophysical olfactory function and
+decreased trigeminal sensitivity.
+
+DOI: 10.3109/00016489.2012.663933 
+PMID: 22830564  [Indexed for MEDLINE]

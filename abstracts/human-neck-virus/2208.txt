@@ -1,0 +1,39 @@
+
+
+2208. Acta Otolaryngol. 2013 Mar;133(3):297-304. doi: 10.3109/00016489.2012.741327.
+Epub 2012 Nov 6.
+
+p16 immunohistochemistry alone is a better prognosticator in tonsil cancer than
+human papillomavirus in situ hybridization with or without p16
+immunohistochemistry.
+
+Park K(1), Cho KJ, Lee M, Yoon DH, Kim J, Kim SY, Nam SY, Choi SH, Roh JL, Han
+MW, Lee SW, Song SY, Back JH, Kim SB.
+
+Author information: 
+(1)Departments of Oncology, Asan Medical Center, University of Ulsan College of
+Medicine, Seoul, Korea.
+
+CONCLUSIONS: p16 immunohistochemistry (IHC) status correlated with less exposure 
+to smoking and/or alcohol in Korean patients with locally advanced tonsillar
+squamous cell carcinoma (TSCC), and was an independent prognostic factor for
+survival.
+OBJECTIVE: TSCC is more likely to be human papillomavirus (HPV)-positive than
+other head and neck squamous cell carcinoma (HNSCC) subtypes. The objective of
+this study was to ascertain the HPV status of TSCC in Korean patients and to
+determine its relationship with clinical parameters and prognosis.
+METHODS: The locally advanced TSCCs of 79 patients who were treated between 2000 
+and 2008 were tested by p16 IHC and HPV in situ hybridization (ISH) with a tissue
+microarray.
+RESULTS: Sixty-three patients (80%) were positive for p16 IHC, while 54 (68%)
+were positive by HPV ISH. p16 IHC status correlated significantly with lower
+exposure to smoking and alcohol (p < 0.05) but did not correlate with T and N
+stage classification, histological differentiation, age, or gender. The
+p16-positive group had a significantly higher 5-year overall survival rate in
+comparison with the p16-negative group (78% vs 63%, hazard ratio (HR) = 0.347,
+95% CI = 0.14, 95% Cp = 0.025). p16 IHC was a favorable independent prognostic
+factor for overall survival, even after adjustment for age and T stage (HR =
+0.283, 95% CI = 0.103, 95% p = 0.015).
+
+DOI: 10.3109/00016489.2012.741327 
+PMID: 23130632  [Indexed for MEDLINE]

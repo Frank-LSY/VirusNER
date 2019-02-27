@@ -1,0 +1,50 @@
+
+
+2268. Papillomavirus Res. 2017 Dec;4:26-34. doi: 10.1016/j.pvr.2017.06.005. Epub 2017
+Jun 16.
+
+miRNA-expression in tonsillar squamous cell carcinomas in relation to HPV
+infection and expression of the antileukoproteinase SLPI.
+
+Quabius ES(1), Merz I(2), Görögh T(2), Hedderich J(3), Haag J(4), Röcken C(4),
+Ambrosch P(2), Hoffmann M(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery,
+Christian-Albrechts-University Kiel, Germany; Institute of Immunology,
+Christian-Albrechts-University Kiel, Germany. Electronic address:
+ElgarSusanne.Quabius@uksh.de.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery,
+Christian-Albrechts-University Kiel, Germany.
+(3)Institute for Medical Informatics and Statistics,
+Christian-Albrechts-University Kiel, Germany.
+(4)Institute for Pathology, Christian-Albrechts-University Kiel, Germany.
+
+The aim of this study was to determine if micro-(mi-)RNAs are involved in the
+previously reported inverse correlation between the antileukoproteinase SLPI,
+HPV, and smoking habit of head and neck squamous cells carcinoma (HNSCC)
+patients. HPV-status and SLPI-protein expression were determined in tonsillar SCC
+(TSCC; n=126). Differentially expressed miRNAs dependent on HPV-status and
+SLPI-expression were detected by microarray; possible binding-sites in SLPI- and 
+HPVE6-mRNAs were determined in silico. Survival rates were estimated testing
+prognostic values of HPV-status, SLPI- and miRNA-expression. miRNA-array
+identified 24 up-regulated and 10 down-regulated miRNAs in HPV-positive versus
+HPV-negative TSCC (p<0.01; HPV-positivity: 42.1%). HPV-positivity resulted in two
+up-regulated miRNAs in SLPI-positive TSCC. Of 16 further miRNAs, eight miRNAs
+were up- and eight were down-regulated in SLPI-negative TSCC. RT-q-PCR-validation
+of the four most differentially expressed miRNAs showed that miR-363 is expressed
+strongest in SLPI-negative/HPV-positive TSSC. In silico-analysis of all
+differentially expressed miRNAs identified miR-363, miR-210, miR-130a, and
+miR-181a with possible binding sites in the HPV16-E6-mRNA, but none were
+predicted in the SLPI-mRNA. HPV-positivity, low SLPI-levels and high
+miR-363-levels are significantly associated with better survival rates. The data 
+presented here show that miR-363 is associated with HPV-positive/SPLI-negative
+TSCC. The prognostic value of miR-363 suggests a role in the assumed inverse
+correlation of smoking and SPLI-expression in the mode of HPV-infections in
+tonsillar but possibly also other HNSCC.
+
+Copyright © 2017 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pvr.2017.06.005 
+PMCID: PMC5883217
+PMID: 29179866  [Indexed for MEDLINE]

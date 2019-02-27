@@ -1,0 +1,45 @@
+
+
+76. Asian Pac J Cancer Prev. 2018 May 26;19(5):1325-1330.
+
+Detection of Human Papilloma Virus and Risk Factors among Patients with Head and 
+Neck Squamous Cell Carcinoma Attending a Tertiary Referral Centre in South India
+
+Bandhary SK(1), Shetty V, Saldanha M, Gatti P, Devegowda D, R PS, Shetty AK.
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, K.S.Hegde Medical
+Academy, NITTE University-575018 Mangalore, Karnataka, India. Email:
+saldanhamarina@gmail.com
+
+Background: Head and Neck Squamous Cell Carcinomas (HNSCC) is the sixth most
+common cancer globally. In India, on an average 25-30% of all cancer cases affect
+the head and neck. The etiological factors associated with HNSCC are tobacco,
+alcohol and environmental carcinogens. However there are few cases, where there
+are no obvious risk factors involved. In western counties, there are many reports
+of human papilloma virus (HPV) association with HNSCC. Hence, we conducted a
+study to determine the role of HPV infection and risk factors among patients with
+HNSCC. Materials and Methods: A prospective, cross-sectional study was conducted 
+in a tertiary referral centre from January 2014 to March 2016. 88 patients were
+enrolled in the study. Socio- demographic, behavioural data, site and subsite
+involvement, histopathology, staging and treatment were documented. Polymerase
+chain reaction (PCR) was performed to detect the presence of HPV DNA using
+consensus primers MY 09/11 and GP5+/GP6+ and further the samples were subjected
+to PCR for detecting HPV type 16 and 18. Results: The study included 88
+participants with HNSCC. 57 had oral and oropharyngeal squamous cell carcinoma,
+11 with laryngeal malignancy and 20 involving hypopharynx. Among the participants
+buccal mucosa (n=22) was the most common subsite involved, majority (50%) had
+moderately differentiated squamous cell carcinoma and 53.4% presented in stage
+IV. 2 (2.6%) cases were positive for HPV consensus and both were positive for HPV
+16, one case each in larynx and hypopharynx. There was statistical significance
+in the association between betel nut chewing, cigarette smoking and alcohol
+intake as risk factors in the carcinogenesis of HNSCC. Conclusion: In our setting
+in South India, HPV does not play a major role in the carcinogenesis of HNSCC but
+betel nut chewing, tobacco exposure and alcohol consumption remain major risk
+factors for HNSCC.
+
+Creative Commons Attribution License
+
+DOI: 10.22034/APJCP.2018.19.5.1325 
+PMCID: PMC6031850
+PMID: 29802694  [Indexed for MEDLINE]

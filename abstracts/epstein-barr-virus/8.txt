@@ -1,0 +1,45 @@
+
+
+8. J Infect Dis. 2017 Sep 15;216(6):670-677. doi: 10.1093/infdis/jix363.
+
+Epstein-Barr Virus Type 2 Infects T Cells in Healthy Kenyan Children.
+
+Coleman CB(1), Daud II(2), Ogolla SO(1)(3), Ritchie JA(4), Smith NA(1), Sumba
+PO(3), Dent AE(5), Rochford R(1).
+
+Author information: 
+(1)Department of Immunology and Microbiology, University of Colorado-Denver
+School of Medicine, Aurora.
+(2)Academic Model Providing Access to Healthcare Research Laboratories, Eldoret, 
+Kenya.
+(3)Center for Global Health Research, Kenya Medical Research Institute, Kisumu.
+(4)Department of Microbiology and Immunology, SUNY Upstate Medical University,
+Syracuse, New York.
+(5)Center for Global Health and Diseases, Case Western Reserve University,
+Cleveland, Ohio.
+
+Background: The 2 strains of Epstein-Barr virus (EBV), EBV type 1 (EBV-1) and
+EBV-2, differ in latency genes, suggesting that they use distinct mechanisms to
+establish latency. We previously reported that EBV-2 infects T cells in vitro. In
+this study, we tested the possibility that EBV-2 infects T cells in vivo.
+Methods: Purified T-cell fractions isolated from children positive for EBV-1 or
+EBV-2 and their mothers were examined for the presence of EBV and for EBV type.
+Results: We detected EBV-2 in all T-cell samples obtained from EBV-2-infected
+children at 12 months of age, with some children retaining EBV-2-positive T cells
+through 24 months of age, suggesting that EBV-2 persists in T cells. We were
+unable to detect EBV-2 in T-cell samples from mothers but could detect EBV-2 in
+samples of their breast milk and saliva.
+Conclusions: These data suggest that EBV-2 uses T cells as an additional latency 
+reservoir but that, over time, the frequency of infected T cells may drop below
+detectable levels. Alternatively, EBV-2 may establish a prolonged transient
+infection in the T-cell compartment. Collectively, these novel findings
+demonstrate that EBV-2 infects T cells in vivo and suggest EBV-2 may use the
+T-cell compartment to establish latency.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix363 
+PMCID: PMC5853903
+PMID: 28934430  [Indexed for MEDLINE]

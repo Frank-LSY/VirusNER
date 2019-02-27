@@ -1,0 +1,42 @@
+
+
+2754. Am J Rhinol Allergy. 2013 Mar-Apr;27(2):91-7. doi: 10.2500/ajra.2013.27.3851.
+
+Some polymorphisms in Epstein-Barr virus-induced gene 3 modify the risk for
+chronic rhinosinusitis.
+
+Zhang Y(1), Wang C, Zhao Y, Zhang L.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, Beijing Tongren Hospital,
+Capital Medical University, Beijing, People's Republic of China.
+
+BACKGROUND: Forkhead box protein 3 (FOXP3), a transcription factor required for
+development and function of regulatory T cell, and Epstein-Barr virus-induced
+gene 3 (EBI3), a downstream target of FOXP3, may be important in the development 
+of chronic rhinosinusitis (CRS) with or without sinonasal polyposis (CRSwNP and
+CRSsNP, respectively). Our objective was therefore to examine the presence of any
+associations between specific single nucleotide polymorphisms (SNPs) in/around
+the FOXP3 and EBI3 genes and risk for CRS in Chinese subjects. A population-based
+case-control association analysis was performed.
+METHODS: DNA extracted from peripheral blood leukocytes from 667 subjects with
+CRS (360 CRSwNP and 306 CRSsNP) and 330 healthy controls was assessed for SNPs
+selected and complemented with tagging SNPs. A total of seven SNPs (4 in FOXP3
+and 3 in EBI3 genes) were genotyped and genetic association tests were performed.
+RESULTS: In the single-locus analyses of CRS risk, the allele frequencies of
+rs428253 (p = 0.0191) in EBI3 gene and rs2232365 (p = 0.0307) and rs3761548 (p = 
+0.0221) in FOXP3 gene were significantly different between the CRS cases and the 
+controls. Furthermore, genotype association analysis showed a significant
+protective effect only between EBI3_rs428253 (CG/CC; p = 0.029) and CRS after
+adjustment. Similarly, stratified analysis of CRS risk on category showed
+rs428253 of the EBI3 gene to play a protective role among both CRSwNP (CG/CC; p =
+0.002) and CRSsNP (GG/CC; p = 0.023) subjects. Haplotype analysis of the FOXP3
+gene region further indicated that CRS risk was higher in individuals carrying
+the haplotype GG in rs2294018-rs2232365 block, compared with wild-type AG
+haplotype, and AG in rs3761548-4824747 block, compared with wild-type CG
+haplotype.
+CONCLUSION: The findings of this study suggest that SNPs in FOXP3 and EBI3 genes 
+modify the risk for development of CRS.
+
+DOI: 10.2500/ajra.2013.27.3851 
+PMID: 23562195  [Indexed for MEDLINE]

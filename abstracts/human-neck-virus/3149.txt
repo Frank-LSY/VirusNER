@@ -1,0 +1,42 @@
+
+Conflict of interest statement: The authors of this article and the planning
+committee members and staff have no relevant financial relationships with
+commercial interests to disclose.
+
+
+3149. Biomaterials. 2009 Apr;30(10):1971-7. doi: 10.1016/j.biomaterials.2008.12.037.
+Epub 2009 Jan 18.
+
+The role of doxorubicin in non-viral gene transfer in the lung.
+
+Griesenbach U(1), Meng C, Farley R, Gardner A, Brake MA, Frankel GM, Gruenert DC,
+Cheng SH, Scheule RK, Alton EW.
+
+Author information: 
+(1)Department of Gene Therapy, Imperial College at the National Heart and Lung
+Institute, Manresa Road, London SW36LR, UK. u.griesenbach@imperial.ac.uk
+
+Proteasome inhibitors have been shown to increase adeno-associated virus
+(AAV)-mediated transduction in vitro and in vivo. To assess if proteasome
+inhibitors also increase lipid-mediated gene transfer with relevance to cystic
+fibrosis (CF), we first assessed the effects of doxorubicin and
+N-acetyl-l-leucinyl-l-leucinal-l-norleucinal in non-CF (A549) and CF (CFTE29o-)
+airway epithelial cell lines. CFTE29o- cells did not show a response to Dox or
+LLnL; however, gene transfer in A549 cells increased in a dose-related fashion (p
+< 0.05), up to approximately 20-fold respectively at the optimal dose (no
+treatment: 9.3 x 10(4) +/- 1.5 x 10(3), Dox: 1.6 x 10(6)+/-2.6 x 10(5), LLnL: 1.9
+x 10(6) +/- 3.2 x 10(5)RLU/mg protein). As Dox is used clinically in cancer
+chemotherapy we next assessed the effect of this drug on non-viral lung gene
+transfer in vivo. CF knockout mice were injected intraperitoneally (IP) with Dox 
+(25-100 mg/kg) immediately before nebulisation with plasmid DNA carrying a
+luciferase reporter gene under the control of a CMV promoter/enhancer (pCIKLux)
+complexed to the cationic lipid GL67A. Dox also significantly (p < 0.05)
+increased expression of a plasmid regulated by an elongation factor 1alpha
+promoter (hCEFI) approximately 8-fold. Although administration of Dox before lung
+gene transfer may not be a clinically viable option, understanding how Dox
+increases lung gene expression may help to shed light on intracellular
+bottle-necks to gene transfer, and may help to identify other adjuncts that may
+be more appropriate for use in man.
+
+DOI: 10.1016/j.biomaterials.2008.12.037 
+PMID: 19152975  [Indexed for MEDLINE]

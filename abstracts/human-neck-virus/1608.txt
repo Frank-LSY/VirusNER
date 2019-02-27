@@ -1,0 +1,42 @@
+
+
+1608. Invest New Drugs. 2012 Feb;30(1):48-58. doi: 10.1007/s10637-010-9513-4. Epub 2010
+Aug 7.
+
+K252a induces anoikis-sensitization with suppression of cellular migration in
+Epstein-Barr virus (EBV)--associated nasopharyngeal carcinoma cells.
+
+Ng YK(1), Wong EY, Lau CP, Chan JP, Wong SC, Chan AS, Kwan MP, Tsao SW, Tsang CM,
+Lai PB, Chan AT, Lui VW.
+
+Author information: 
+(1)Department of Surgery, The Chinese University of Hong Kong, Hong Kong, SAR,
+China.
+
+Recent studies revealed an unexpected role of the neurotrophin receptor pathway, 
+BDNF/TrkB signaling, in cancer metastasis and anoikis (i.e. detachment-induced
+cell death). Survival of cancer cells in detached state (known as
+anoikis-resistance) is known to be pre-requisite for metastasis. Nasopharyngeal
+carcinoma (NPC), an endemic head and neck cancer in Southeast Asia, is highly
+invasive, metastatic, and etiologically associated with Epstein-Barr virus (EBV, 
+an oncovirus) infection. Mechanistic studies on the invasive/metastatic nature of
+NPC can facilitate the development of anti-metastatic therapy in NPC. Thus far,
+the role of BDNF/TrkB signaling in virus-associated human cancer is unclear.
+Here, using multiple cell line models of NPC with EBV-association (HONE-1-EBV,
+HK1-LMP1 and C666-1), we investigated the potential involvement of BDNF/TrkB
+signaling in cellular migration and anoikis-resistant characteristics of NPC. We 
+found that all three EBV-associated NPC cell lines tested were intrinsically
+anoikis-resistant (i.e. survived in detached state) and expressed both BDNF and
+TrkB. BDNF stimulation induced cellular migration, but not proliferation of these
+cells. Further, we examined if pharmacologic targeting of anoikis-resistance of
+NPC cells can be achievable by a proof-of-concept Trk inhibitor, K252a, in these 
+EBV-associated NPC models. Our results demonstrated that K252a, was able to
+attenuate BDNF-induced migration and proliferation of NPC cells. More
+importantly, we demonstrated for the first time that K252a harbored potent
+anoikis-sensitization activity (i.e. sensitizing cancer cells to
+detachment-induced cell death) against EBV-associated human cancer cells, namely 
+NPC cells. This proof-of-concept study demonstrated that K252a, a Trk inhibitor, 
+can potentially be used as an anoikis-sensitizing agent in NPC.
+
+DOI: 10.1007/s10637-010-9513-4 
+PMID: 20694504  [Indexed for MEDLINE]

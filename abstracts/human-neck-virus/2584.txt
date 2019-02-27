@@ -1,0 +1,45 @@
+
+
+2584. Mol Med Rep. 2017 Feb;15(2):696-702. doi: 10.3892/mmr.2016.6085. Epub 2016 Dec
+29.
+
+Downregulation of mouse CCR3 by lentiviral shRNA inhibits proliferation and
+induces apoptosis of mouse eosinophils.
+
+Zhu XH(1), Liao B(2), Xu Y(1), Liu K(1), Huang Y(1), Huang QL(1), Liu YH(1).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, The Second Affiliated
+Hospital of Nanchang University, Nanchang, Jiangxi 330006, P.R. China.
+(2)Department of Head and Neck Surgery, The Tumor Hospital of Jiangxi Province,
+Nanchang, Jiangxi 330006, P.R. China.
+
+RNA interference has been considered as an effective gene silencing method in
+basic and preclinical investigations. The aims of the present study were to
+construct a lentiviral vector expressing a short hairpin RNA (shRNA) targeting
+the murine CC chemokine receptor 3 (mCCR3), and to investigate its effects on the
+proliferation and apoptosis of mouse eosinophils. A recombinant lentiviral vector
+expressing four fragments of mouse CCR3 shRNA (pLVX‑mCCR3‑1+2+3+4‑shRNA) was
+constructed using subcloning techniques. This novel lentivirus was then packaged 
+into 293T cells by co‑transduction with plasmids, including Baculo p35, pCMV R8.2
+and VSV. The interference effects of the vector were verified using polymerase
+chain reaction (PCR) and western blot analyses. The effects of the interference
+on the proliferation and apoptosis of mouse eosinophils were investigated using
+3‑(4,5‑dimethylthiazol‑2‑yl)‑5‑(3‑carboxymethoxyphenyl)‑2‑(4‑sulfophenyl)‑2H‑tetr
+azolium and terminal deoxynucleotidyl transferase dUTP nick end labeling methods,
+respectively. The results of the PCR and western blot analyses confirmed that the
+novel recombinant vector, pLVX‑mCCR3‑1+2+3+4‑shRNA, had high efficiency in
+inhibiting the mRNA and protein expression levels of mCCR3 in mouse eosinophils. 
+The downregulation of mCCR3 significantly inhibited proliferation of the
+eosinophils. Furthermore, the present study found that the downregulation of
+mCCR3 significantly promoted apoptosis of the eosinophils. Therefore, the
+downregulation of mCCR3 led to the inhibition of proliferation and induction of
+apoptosis in mouse eosinophils. The predominant characteristics of allergic
+rhinitis are eosinophil infiltration and release of inflammatory mediators, which
+appear in a variety of clinical manifestations. The results of the present study 
+indicate that mCCR3 silencing may serve as a putative approach for the treatment 
+of allergic rhinitis.
+
+DOI: 10.3892/mmr.2016.6085 
+PMCID: PMC5364839
+PMID: 28035394  [Indexed for MEDLINE]

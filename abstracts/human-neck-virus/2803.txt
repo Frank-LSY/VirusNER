@@ -1,0 +1,44 @@
+
+
+2803. PLoS One. 2017 Oct 24;12(10):e0186860. doi: 10.1371/journal.pone.0186860.
+eCollection 2017.
+
+Epstein-Barr virus infection and oral squamous cell carcinoma risk: A
+meta-analysis.
+
+She Y(1), Nong X(1), Zhang M(2), Wang M(3).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, College and Hospital of
+Stomatology, Guangxi Medical University, Nanning, Guangxi, China.
+(2)Department of Prosthodontics, College and Hospital of Stomatology, Peking
+University, Beijing, China.
+(3)Department of Otorhinolaryngology and Head and Neck Surgery, The First
+Affiliated Hospital of Guangxi Medical University, Nanning, Guangxi, China.
+
+BACKGROUND: The evidence for association between Epstein-Barr virus (EBV)
+infection and risk of oral squamous cell carcinoma (OSCC) is inconsistent in the 
+literature. Therefore, this meta-analysis was conducted to clarify this
+association.
+METHODS: A literature search was conducted in electronic databases for English-
+and Chinese-language publications until March 31, 2017 to include eligible
+case-control studies. The pooled odds ratio (OR) and 95% confidence interval (95%
+CI) were estimated to determine the association between EBV infection and OSCC
+risk using a fixed- or random-effects model based on heterogeneity. Publication
+bias was assessed using funnel plot analysis.
+RESULTS: A total of 13 case-control studies with 686 OSCC patients and 433
+controls were included based on predetermined inclusion and exclusion criteria.
+The pooled OR with 95% CI between EBV infection and OSCC risk was 5.03
+(1.80-14.01) with significant heterogeneity observed (I2 = 87%). The subgroup
+analysis indicates that the year of publication, study location, economic level, 
+sample size, tissue type, detection method and marker, control type, and language
+might explain potential sources of heterogeneity. Publication bias was not
+observed, and sensitivity analysis showed stable results.
+CONCLUSIONS: The results of the current meta-analysis suggest that EBV infection 
+is statistically associated with increased risk of OSCC. However, additional
+high-quality studies with larger sample sizes are needed to further confirm the
+relationship between EBV and OSCC.
+
+DOI: 10.1371/journal.pone.0186860 
+PMCID: PMC5655447
+PMID: 29065191  [Indexed for MEDLINE]

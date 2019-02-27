@@ -1,0 +1,42 @@
+
+
+2789. PLoS One. 2013;8(1):e54742. doi: 10.1371/journal.pone.0054742. Epub 2013 Jan 24.
+
+Comprehensive analysis of DNA methylation in head and neck squamous cell
+carcinoma indicates differences by survival and clinicopathologic
+characteristics.
+
+Colacino JA(1), Dolinoy DC, Duffy SA, Sartor MA, Chepeha DB, Bradford CR, McHugh 
+JB, Patel DA, Virani S, Walline HM, Bellile E, Terrell JE, Stoerker JA, Taylor
+JM, Carey TE, Wolf GT, Rozek LS.
+
+Author information: 
+(1)Department of Environmental Health Sciences, University of Michigan School of 
+Public Health, Ann Arbor, Michigan, USA.
+
+Head and neck squamous cell carcinoma (HNSCC) is the eighth most commonly
+diagnosed cancer in the United States. The risk of developing HNSCC increases
+with exposure to tobacco, alcohol and infection with human papilloma virus (HPV).
+HPV-associated HNSCCs have a distinct risk profile and improved prognosis
+compared to cancers associated with tobacco and alcohol exposure. Epigenetic
+changes are an important mechanism in carcinogenic progression, but how these
+changes differ between viral- and chemical-induced cancers remains unknown. CpG
+methylation at 1505 CpG sites across 807 genes in 68 well-annotated HNSCC tumor
+samples from the University of Michigan Head and Neck SPORE patient population
+were quantified using the Illumina Goldengate Methylation Cancer Panel.
+Unsupervised hierarchical clustering based on methylation identified 6 distinct
+tumor clusters, which significantly differed by age, HPV status, and three year
+survival. Weighted linear modeling was used to identify differentially methylated
+genes based on epidemiological characteristics. Consistent with previous in vitro
+findings by our group, methylation of sites in the CCNA1 promoter was found to be
+higher in HPV(+) tumors, which was validated in an additional sample set of 128
+tumors. After adjusting for cancer site, stage, age, gender, alcohol consumption,
+and smoking status, HPV status was found to be a significant predictor for DNA
+methylation at an additional 11 genes, including CASP8 and SYBL1. These findings 
+provide insight into the epigenetic regulation of viral vs. chemical
+carcinogenesis and could provide novel targets for development of individualized 
+therapeutic and prevention regimens based on environmental exposures.
+
+DOI: 10.1371/journal.pone.0054742 
+PMCID: PMC3554647
+PMID: 23358896  [Indexed for MEDLINE]

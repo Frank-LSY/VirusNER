@@ -1,0 +1,34 @@
+
+
+805. Hum Vaccin Immunother. 2014;10(7):1812-21. doi: 10.4161/hv.28742.
+
+Human papillomaviruses-related cancers. Presence and prevention strategies in the
+Middle east and north African regions.
+
+Al Moustafa AE(1), Al-Awadhi R, Missaoui N, Adam I, Durusoy R, Ghabreau L, Akil
+N, Ahmed HG, Yasmeen A, Alsbeih G.
+
+Author information: 
+(1)a ABS Research & Development; Montréal, QC Canada.
+
+Human papillomavirus (HPV) infections are estimated to be the most common
+sexually transmitted infections worldwide. Meanwhile, it is well established that
+infection by high-risk HPVs is considered the major cause of cervical cancer
+since more than 96% of these cancers are positive for high-risk HPVs, especially 
+types 16 and 18. Moreover, during the last 2 decades, numerous studies
+pointed-out the possible involvement of high-risk HPV in several human carcinomas
+including head and neck, colorectal and breast cancers. The association between
+high-risk HPVs and cervical cancer and potentially other human malignancies would
+necessitate the introduction of vaccines which were generated against the 2 most 
+frequent high-risk HPVs (types 16 and 18) worldwide, including the Middle East
+(ME) as well as North African countries. The presence of high-risk HPVs in the
+pathogenesis of human cancers in the ME, which is essential in order to evaluate 
+the importance of vaccination against HPVs, has not been fully investigated yet. 
+In this review, we present an overview of the existing epidemiological evidence
+regarding the presence of HPV in human cancers in the ME and the potential impact
+of vaccination against HPV infections and its outcome on human health in this
+region.
+
+DOI: 10.4161/hv.28742 
+PMCID: PMC4186051
+PMID: 25424787  [Indexed for MEDLINE]

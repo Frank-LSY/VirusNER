@@ -1,0 +1,51 @@
+
+
+1366. Oral Oncol. 2015 Feb;51(2):195-201. doi: 10.1016/j.oraloncology.2014.11.001. Epub
+2014 Nov 28.
+
+Characteristics and kinetics of cervical lymph node regression after radiation
+therapy for human papillomavirus-associated oropharyngeal carcinoma: quantitative
+image analysis of post-radiotherapy response.
+
+Tang C(1), Fuller CD(1), Garden AS(1), Awan MJ(1), Colen RR(2), Morrison WH(1),
+Frank SJ(1), Beadle BM(1), Phan J(1), Sturgis EM(3), Zafereo ME(3), Weber RS(3), 
+Rosenthal DI(3), Gunn GB(4).
+
+Author information: 
+(1)Departments of Radiation Oncology, The University of Texas MD Anderson Cancer 
+Center, Houston, TX, USA.
+(2)Departments of Diagnostic Radiology, The University of Texas MD Anderson
+Cancer Center, Houston, TX, USA.
+(3)Departments of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX, USA.
+(4)Departments of Radiation Oncology, The University of Texas MD Anderson Cancer 
+Center, Houston, TX, USA. Electronic address: gbgunn@mdanderson.org.
+
+BACKGROUND AND PURPOSE: We sought to characterize the pattern of lymph node
+regression and morphology following definitive radiation therapy (RT) for human
+papilloma virus (HPV)-associated oropharyngeal carcinoma in patients with disease
+control.
+MATERIALS AND METHODS: Radiographically positive cervical lymph nodes from
+patients treated with definitive RT for HPV-associated oropharyngeal carcinoma
+were segmented on initial pre- and subsequent post-RT contrast enhanced CT
+images. Pre-specified quantitative nodal parameters were calculated. Initial
+nodal parameter correlates of final nodal size, final nodal volume, and time to
+<1 cm short-axis diameter were determined.
+RESULTS: Sixty-six radiographically positive lymph node were analyzed in 36
+patients. Lymph nodes exhibited initial volume decreases with size stabilization 
+at ∼4 months. Fifteen nodes (23%) underwent complete radiographic response
+(median 6.4 months following RT; range 2.9-25.6 months). On multivariate
+time-to-event analysis, initial hypodense/fat component, nodal volume, and
+short-axis diameter exhibited inverse association, while higher HU standard
+deviation exhibited a positive association, with reaching <1 cm short-axis
+diameter (all p<0.05).
+CONCLUSIONS: Our results showed a substantial decrease in nodal volume within the
+first 1-2 months following RT. These findings support our current nodal imaging
+paradigm, propose a quantitative methodology, and describe a reference dataset
+for further validation and comparison studies.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.11.001 
+PMCID: PMC4502963
+PMID: 25444304  [Indexed for MEDLINE]

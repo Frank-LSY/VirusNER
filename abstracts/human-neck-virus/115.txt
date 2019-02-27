@@ -1,0 +1,53 @@
+
+
+115. Clin Oncol (R Coll Radiol). 2016 Jul;28(7):467-74. doi:
+10.1016/j.clon.2016.03.001. Epub 2016 Apr 1.
+
+Biological Features of Human Papillomavirus-related Head and Neck Cancers
+Contributing to Improved Response.
+
+Cleary C(1), Leeman JE(1), Higginson DS(1), Katabi N(2), Sherman E(3), Morris
+L(4), McBride S(1), Lee N(5), Riaz N(6).
+
+Author information: 
+(1)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+(2)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY,
+USA.
+(3)Department of Medical Oncology, Memorial Sloan Kettering Cancer Center, New
+York, NY, USA.
+(4)Department of Surgery, Memorial Sloan Kettering Cancer Center, New York, NY,
+USA.
+(5)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA. Electronic address: leen2@mskcc.org.
+(6)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA. Electronic address: riazn@mskcc.org.
+
+Head and neck squamous cell carcinomas (HNSCC) are the sixth most common
+malignancy globally, and an increasing proportion of oropharyngeal HNSCCs are
+associated with the human papillomavirus (HPV). Patients with HPV-associated
+tumours have markedly improved overall and disease-specific survival compared
+with their HPV-negative counterparts when treated with chemoradiation. Although
+the difference in outcomes between these two groups is clearly established, the
+mechanism underlying these differences remains an area of investigation. Data
+from preclinical, clinical and genomics studies have started to suggest that an
+increase in radio-sensitivity of HPV-positive HNSCC may be responsible for
+improved outcomes, the putative mechanisms of which we will review here. The
+Cancer Genome Atlas and others have recently documented a multitude of molecular 
+differences between HPV-positive and HPV-negative tumours. Preclinical
+investigations by multiple groups have explored possible mechanisms of increased 
+sensitivity to therapy, including examining differences in DNA repair, hypoxia
+and the immune response. In addition to differences in the response to therapy,
+some groups have started to investigate phenotypic differences between the two
+diseases, such as tumour invasiveness. Finally, we will conclude with a brief
+review of ongoing clinical trials that are attempting to de-escalate treatment to
+minimise long-term toxicity while maintaining cure rates. New insights from
+preclinical and genomic studies may eventually lead to personalised treatment
+paradigms for HPV-positive patients.
+
+Copyright © 2016 The Royal College of Radiologists. Published by Elsevier Ltd.
+All rights reserved.
+
+DOI: 10.1016/j.clon.2016.03.001 
+PMCID: PMC5512583
+PMID: 27052795  [Indexed for MEDLINE]

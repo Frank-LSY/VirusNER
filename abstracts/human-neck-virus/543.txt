@@ -1,0 +1,29 @@
+
+
+543. Eur Arch Otorhinolaryngol. 2012 Oct;269(10):2265-9. doi:
+10.1007/s00405-011-1894-2. Epub 2011 Dec 30.
+
+HPV infection and p16 expression in carcinomas of the minor salivary glands.
+
+Brunner M(1), Koperek O, Wrba F, Erovic BM, Heiduschka G, Schoppper C, Thurnher
+D.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Medical University
+of Vienna, Waehringer Guertel 18-20, 1090 Vienna, Austria.
+
+The correlation between p16 upregulation and high-risk HPV infection is well
+known in head and neck squamous cell cancer. However, no information is available
+on rare carcinomas of the minor salivary glands. We analyzed 38 samples of minor 
+salivary gland malignancies. p16 expression was determined by
+immunohistochemistry, HPV DNA by using in situ hybridization to detect low (type 
+6 and 11) and high (type 16 and 18) risk HPV types. In 71% of samples p16
+expression was found. Low-risk HPV DNA could not be detected in any of the
+samples, whereas high-risk HPV DNA was found in two samples of mucoepidermoid
+carcinoma, which also showed the highest immunoreactivity with p16. HPV infection
+does not seem to be a common event in minor salivary gland carcinoma.
+Upregulation of p16 is present in the majority of cases but only diffuse staining
+correlates with HPV 16 and 18 infections.
+
+DOI: 10.1007/s00405-011-1894-2 
+PMID: 22207527  [Indexed for MEDLINE]

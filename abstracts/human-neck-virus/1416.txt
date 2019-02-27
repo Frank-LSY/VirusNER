@@ -1,0 +1,32 @@
+
+
+1416. Ear Nose Throat J. 2016 Jun;95(6):E1-4.
+
+Coexistent chronic myelogenous leukemia with squamous cell carcinoma of the
+larynx associated with NOD2/CARD15 mutation in a young adult.
+
+Fraczek M(1), Stembalska A, Karpinski P, Krecicki T.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Wroclaw Medical
+University, Borowska Str. 213, 50-556 Wroclaw, Poland. raucedo@wp.pl.
+
+We report the case of a 37-year-old man with human papillomavirus-positive
+squamous cell carcinoma of the larynx coexisting with chronic myelogenous
+leukemia. The patient had no history of smoking or alcohol consumption. Within a 
+few months, his rapidly growing tumor was classified as T4aN2cM0. It could be
+assumed that the rapid increase in the tumor mass, which did not respond
+positively to treatment, might have been associated with the coexistence of the
+chronic myelogenous leukemia, which had been found incidentally. Genetic testing 
+revealed the presence of insertion mutation 3020insC within the NOD2 gene, which 
+might be an important genetic predisposing factor, not only for a single tumor
+such as laryngeal cancer, but also for multiple primary neoplasms. The presence
+of an NOD2 mutation could significantly worsen the course of the cancer.
+Therefore, given the relatively high frequency of 3020insC mutations in the
+general population, it might be reasonable to perform genetic testing on a wider 
+scale for patients with head or neck cancer, particularly in cases that follow an
+atypical course. It is also worth emphasizing the importance of thorough and
+periodically repeated laryngeal examinations in patients with chronic leukemia.
+
+
+PMID: 27304445  [Indexed for MEDLINE]

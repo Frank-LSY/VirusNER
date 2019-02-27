@@ -1,0 +1,39 @@
+
+
+72. Otolaryngol Head Neck Surg. 2013 Mar;148(3):436-42. doi:
+10.1177/0194599812471938. Epub 2013 Jan 8.
+
+Human papilloma virus prevalence in a multiethnic screening population.
+
+Chen KM(1), Stephen JK, Ghanem T, Stachler R, Gardner G, Jones L, Schweitzer VP, 
+Hall F, Divine G, Worsham MJ.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Research, Henry Ford Hospital,
+Detroit, Michigan 48202, USA.
+
+OBJECTIVE: The goal was to determine the prevalence of high-risk HPV16 using
+saliva in a screening population in Detroit, Michigan.
+MATERIALS AND METHODS: Real-time quantitative polymerase chain reaction was
+applied to detect HPV16 in saliva DNA from 349 screening subjects without head
+and neck cancer (HNC), 156 with HNC, and 19 controls. Cut points for human
+papilloma virus (HPV) positivity were >0 and >0.001 copy/cell. Proportions were
+compared between groups using exact χ(2) or Fisher exact tests (P < .05).
+RESULTS: At a cut point >0, each group had an overall HPV prevalence of more than
+5%, with a higher prevalence of 30.8% in the HNC patient group. At a cut point
+>0.001, the prevalence was lower: 0% in the control, 1.2% in the screening, and
+16.7% in the HNC group. In the latter, for both cut points, HPV prevalence was
+different across sites (<0.001) and significantly higher in the oropharynx than
+larynx or site as other after Hochberg's adjustment. At >0, women in the
+screening group had a higher prevalence of HPV than did men (P = .010), and at
+>0.001, the prevalence was higher for men in the HNC group than for women (P =
+.035). In the screening group, at >0, only African Americans had a higher
+prevalence than Caucasian Americans (P = .025).
+CONCLUSIONS: In the screening group, a 6.9% and 1.2% screening rate was noted at 
+cut points >0 and >0.001, respectively. The results provide data to inform public
+health considerations of the feasibility of saliva as a screening tool in at-risk
+populations with the long-term goal of prophylactic vaccination against oral HPV.
+
+DOI: 10.1177/0194599812471938 
+PMCID: PMC3707492
+PMID: 23300223  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+2556. Mol Cancer. 2014 Aug 7;13:184. doi: 10.1186/1476-4598-13-184.
+
+miR-31 is consistently inactivated in EBV-associated nasopharyngeal carcinoma and
+contributes to its tumorigenesis.
+
+Cheung CC, Chung GT, Lun SW, To KF, Choy KW, Lau KM, Siu SP, Guan XY, Ngan RK,
+Yip TT, Busson P, Tsao SW, Lo KW(1).
+
+Author information: 
+(1)Department of Anatomical and Cellular Pathology, State Key Laboratory in
+Oncology in South China, Prince of Wales Hospital, The Chinese University of Hong
+Kong, Hong Kong, People's Republic of China. kwlo@cuhk.edu.hk.
+
+BACKGROUND: As a distinctive type of head and neck cancers, nasopharyngeal
+carcinoma (NPC) is genesis from the clonal Epstein-Barr virus (EBV)-infected
+nasopharyngeal epithelial cells accumulated with multiple genetic lesions. Among 
+the recurrent genetic alterations defined, loss of 9p21.3 is the most frequent
+early event in the tumorigenesis of EBV-associated NPC. In addition to the
+reported CDKN2A/p16, herein, we elucidated the role of a miRNA, miR-31 within
+this 9p21.3 region as NPC-associated tumor suppressor.
+METHODS: The expression and promoter methylation of miR-31 were assessed in a
+panel of NPC tumor lines and primary tumors. Its in vitro and in vivo tumor
+suppression function was investigated through the ectopic expression of miR-31 in
+NPC cells. We also determined the miR-31 targeted genes and its involvement in
+the growth in NPC.
+RESULTS: Downregulation of miR-31 expression was detected in almost all NPC cell 
+line, patient-derived xenografts (PDXs) and primary tumors. Both homozygous
+deletion and promoter hypermethylation were shown to be major mechanisms for
+miR-31 silencing in this cancer. Strikingly, loss of miR-31 was also obviously
+observed in the dysplastic lesions of nasopharynx. Restoration of miR-31 in
+C666-1 cells inhibited the cell proliferation, colony-forming and migratory
+capacities. Dramatic reduction of in vitro anchorage-independent growth and in
+vivo tumorigenic potential were demonstrated in the stable clones expressing
+miR-31. Furthermore, we proved that miR-31 suppressed the NPC cell growth via
+targeting FIH1 and MCM2.
+CONCLUSIONS: The findings provide strong evidence to support miR-31 as a new
+NPC-associated tumor suppressor on 9p21.3 region. The inactivation of miR-31 may 
+contribute to the early development of NPC.
+
+DOI: 10.1186/1476-4598-13-184 
+PMCID: PMC4127521
+PMID: 25098679  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+2009. Gene Ther. 2011 Mar;18(3):275-82. doi: 10.1038/gt.2010.142. Epub 2010 Nov 4.
+
+Adenoviral delivery of Tousled kinase for the protection of salivary glands
+against ionizing radiation damage.
+
+Palaniyandi S(1), Odaka Y, Green W, Abreo F, Caldito G, De Benedetti A,
+Sunavala-Dossabhoy G.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Louisiana State University
+Health Sciences Center, Shreveport, LA 71130, USA.
+
+Oral complications of salivary hypofunction often afflict cancer patients
+undergoing radiotherapy for head and neck cancers. Dry mouth or xerostomia is an 
+undesirable consequence of radiotherapy that compromises normal oral functions in
+addition to causing odynophagia and increasing the patient's risk of oral
+infections and dental caries. Radiation-induced xerostomia is irreversible, and
+palliative measures to provide symptomatic relief remain the mainstay of
+treatment. Previously, we identified a splice variant of a cellular kinase,
+Tousled-like kinase 1B (TLK1B), which when overexpressed protects normal
+epithelial cells against ionizing radiation (IR)-induced cell death. To address
+the need to protect salivary glands in patients undergoing regional radiotherapy,
+we investigated whether preemptive expression of TLK1B in salivary glands
+protects against IR. In stably-derived salivary cell lines in vitro, TLK1B
+expression increased cell survival after IR. Cells expressing exogenous TLK1B
+were less radiosensitive (A5-TLK1B, α/β=0.67 Gy; ParC5-TLK1B, α/β=4.3 Gy)
+compared to control cells (A5-BK, α/β=1.7 Gy; ParC5-BK, α/β=32.7 Gy). Using a
+recombinant adenovirus serotype 5 viral vector for TLK1B gene transfer into rat
+submandibular salivary glands in vivo, we demonstrated that TLK1B protects the
+saliva-secreting acinar cells and better preserves salivary gland function
+against IR relative to control glands. After a single fraction of 16 Gy, the
+decline in salivary function at 8 weeks was less pronounced in TLK1B-treated
+animals (40%) as compared to saline-treated controls (67%). Histopathological
+analysis demonstrated increase in acinar atrophy, decrease in acinar cell number,
+and increase in inflammatory infiltrate and fibrosis in irradiated control
+tissues relative to TLK1B-treated glands. These results show the radioprotective 
+benefits of TLK1B and implicate its usefulness in the management of regional
+radiotherapy-induced xerostomia.
+
+DOI: 10.1038/gt.2010.142 
+PMID: 21048794  [Indexed for MEDLINE]

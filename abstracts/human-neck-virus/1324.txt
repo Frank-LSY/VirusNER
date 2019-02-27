@@ -1,0 +1,55 @@
+
+
+1324. J Otolaryngol Head Neck Surg. 2017 Aug 17;46(1):52. doi:
+10.1186/s40463-017-0230-2.
+
+Morphoproteomics, E6/E7 in-situ hybridization, and biomedical analytics define
+the etiopathogenesis of HPV-associated oropharyngeal carcinoma and provide
+targeted therapeutic options.
+
+Brown RE(1), Naqvi S(2), McGuire MF(3), Buryanek J(3), Karni RJ(2).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, at UT Health McGovern Medical
+School, Houston, TX, USA. robert.brown@uth.tmc.edu.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery at UT Health McGovern
+Medical School, Houston, TX, USA.
+(3)Department of Pathology and Laboratory Medicine, at UT Health McGovern Medical
+School, Houston, TX, USA.
+
+BACKGROUND: Human papillomavirus (HPV) has been identified as an etiopathogenetic
+factor in oropharyngeal squamous cell carcinoma. The HPV E6 and E7 oncogenes are 
+instrumental in promoting proliferation and blocking differentiation leading to
+tumorigenesis. Although surgical intervention can remove such tumors, the
+potential for an etiologic field effect with recurrent disease is real. A
+downstream effector of E7 oncoprotein, enhancer of zeste homolog 2 (EZH2), is
+known to promote proliferation and to pose a block in differentiation and in
+turn, could lead to HPV-induced malignant transformation. However, the EZH2
+pathway is amenable to low toxicity therapies designed to promote differentiation
+to a more benign state and prevent recurrent disease by inhibiting the
+incorporation of HPV into the genome. This is the first study using clinical
+specimens to demonstrate EZH2 protein expression in oropharyngeal carcinoma
+(OPC).
+METHODS: The study included eight patients with oropharyngeal carcinoma,
+confirmed p16INK4a- positive by immunohistochemistry (IHC). The tissue expression
+of E6/E7 messenger RNA (mRNA) was measured by RNAscope® in-situ hybridization
+technology. Expression of EZH2, Ki-67, and mitotic indices were assessed by
+morphoproteomic analysis. Biomedical analytics expanded the results with data
+from Ingenuity Pathway Analysis (IPA) and KEGG databases to construct a molecular
+network pathway for further insights.
+RESULTS: Expression of E6 and E7 oncogenes in p16INK4a- positive oropharyngeal
+carcinoma was confirmed. EZH2 and its correlates, including elevated
+proliferation index (Ki-67) and mitotic progression were also present. Biomedical
+analytics validated the relationship between HPV- E6 and E7 and the expression of
+the EZH2 pathway.
+CONCLUSION: There is morphoproteomic and mRNA evidence of the association of
+p16INK4a-HPV infection with the E6 and E7 oncogenes and the expression of EZH2,
+Ki-67 and mitotic progression in oropharyngeal carcinoma. The molecular network
+biology was confirmed by biomedical analytics as consistent with published
+literature. This is significant because the biology lends itself to targeted
+therapeutic options using metformin, curcumin, celecoxib and sulforaphane as
+therapeutic strategies to prevent progression or recurrence of disease.
+
+DOI: 10.1186/s40463-017-0230-2 
+PMCID: PMC5561614
+PMID: 28818106  [Indexed for MEDLINE]

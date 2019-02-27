@@ -1,0 +1,42 @@
+
+
+1516. Histopathology. 2011 Jun;58(7):1117-26. doi: 10.1111/j.1365-2559.2011.03805.x.
+Epub 2011 Mar 25.
+
+Nuclear translocation of β-catenin and decreased expression of epithelial
+cadherin in human papillomavirus-positive tonsillar cancer: an early event in
+human papillomavirus-related tumour progression?
+
+Stenner M(1), Yosef B, Huebbers CU, Preuss SF, Dienes HP, Speel EJ, Odenthal M,
+Klussmann JP.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, School of Medicine, 
+University Hospital of Cologne, Cologne, Germany. markus.stenner@uk-koeln.de
+
+AIMS: High-risk human papillomaviruses (HPVs) constitute an important risk factor
+for tonsillar cancer. This study describes changes in cell adhesion molecules
+during metastasis of HPV-related and HPV-unrelated tonsillar carcinomas.
+METHODS AND RESULTS: We examined 48 primary tonsillar carcinoma samples (25
+HPV-16 DNA-positive, 23 HPV-16 DNA-negative) and their respective lymph node
+metastases for their HPV status and for the expression of p16, epithelial
+cadherin (E-cadherin), β-catenin, and vimentin. A positive HPV-specific
+polymerase chain reaction finding correlated significantly with p16
+overexpression in both primary tumours and their metastases (P<0.0001 for both). 
+In HPV-unrelated carcinomas, the expression of E-cadherin was significantly lower
+in metastases than in primary tumours (P<0.001). In contrast, the expression of
+nuclear β-catenin was significantly higher in metastases than in primary tumours 
+(P=0.016). In HPV-related carcinomas, nuclear localization of β-catenin
+expression was already apparent in primary tumours (P=0.030). The expression of
+vimentin significantly correlated with the grading of the primary tumour
+(P=0.021).
+CONCLUSIONS: Our data indicate that the down-regulation of E-cadherin and the
+up-regulation of nuclear β-catenin expression might be crucial steps during
+tumour progression of tonsillar carcinomas, being already present in primary
+tumours in HPV-driven carcinomas, but becoming apparent in HPV-unrelated tumours 
+later in the process of metastasis.
+
+© 2011 Blackwell Publishing Limited.
+
+DOI: 10.1111/j.1365-2559.2011.03805.x 
+PMID: 21438909  [Indexed for MEDLINE]

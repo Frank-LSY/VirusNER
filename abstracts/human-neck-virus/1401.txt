@@ -1,0 +1,40 @@
+
+Conflict of interest statement: The authors declared not conflicts of interest.
+
+
+1401. Acta Otolaryngol. 2017 Oct;137(10):1121-1126. doi: 10.1080/00016489.2017.1339327.
+Epub 2017 Jul 2.
+
+Human papillomavirus and p16 protein expression as prognostic biomarkers in
+mobile tongue cancer.
+
+Minami K(1), Kogashiwa Y(1), Ebihara Y(1), Nakahira M(1), Sugasawa M(1), Fujino
+T(2), Yasuda M(2).
+
+Author information: 
+(1)a Department of Head and Neck Surgery , Saitama Medical University
+International Medical Center , Hidaka , Saitama , Japan.
+(2)b Department of Pathology , Saitama Medical University International Medical
+Center , Hidaka , Saitama , Japan.
+
+OBJECTIVES: The objectives were to determine the prevalence of human
+papillomavirus (HPV) in mobile tongue cancer (MTC) and evaluate associations and 
+survival.
+MATERIALS AND METHODS: Patients who underwent surgical resection as primary
+treatment for MTC (n = 127) were retrospectively evaluated. Formalin-fixed
+paraffin-embedded (FFPE) specimens were assessed for p16 and p53 by
+immunohistochemistry; for HPV DNA by nested multiplex polymerase chain reaction
+(PCR) using two pairs of consensus primers (MY09-MY11 and GP5+-GP6+); and for E6 
+and E7 oncogenes from 13 high-risk HPV types (16, 18, 31, 33, 35, 39, 45, 52, 56,
+58, 59, 66, and 68) by real-time reverse transcription PCR (RT-PCR).
+RESULTS: There were 18 (14.2%) p16-positive, 45 (35.4%) p53-positive, 9 (7.1%)
+HPV DNA-positive, and 7 (5.5%) E6 and/or E7 mRNA-positive tumors, but the
+correlation of all pairs was poor. There was no demographic or histopathologic
+association with HPV status. Cause-specific survival was significantly better
+with p16-positive than with p16-negative tumors (p = .037).
+CONCLUSIONS: The prevalence of HPV and p16 positivity was relatively low and p16 
+status was a poor surrogate marker for HPV status. The results showed the
+importance of p16 expression in prognosticating mobile tongue cancer.
+
+DOI: 10.1080/00016489.2017.1339327 
+PMID: 28669249  [Indexed for MEDLINE]

@@ -1,0 +1,32 @@
+
+
+2415. Cancer J. 2011 Sep-Oct;17(5):300-1. doi: 10.1097/PPO.0b013e318235e0fe.
+
+Synthetic vaccine for the treatment of lesions caused by high risk human
+papilloma virus.
+
+Melief CJ(1).
+
+Author information: 
+(1)Department of Immunohematology and Blood Transfusion, Leiden University
+Medical Center, the Netherlands. C.Melief@lumc.nl
+
+Until recently, therapeutic cancer vaccines only sporadically led to long-term
+clinical responses. We here report on a novel vaccine modality, characterized by 
+the administration of long (23-45 amino acids) synthetic peptides in incomplete
+Freund adjuvant (mineral oil-based, Montanide ISA-51), delivered subcutaneously. 
+Such vaccines were first demonstrated to be much more potent in preclinical
+T-cell response induction and tumor therapy experiments than short major
+histocompatibility complex class I-binding peptides that have been used
+extensively in the clinic. A long-peptide vaccine consisting of 13 overlapping
+peptides, together covering the entire length of the 2 oncogenic proteins E6 and 
+E7 of high-risk human papilloma virus type 16 (HPV16), caused complete regression
+of all lesions and eradication of virus in 9 of 20 women with high-grade vulvar
+intraepithelial neoplasia. The nature and strength of the vaccine-induced T-cell 
+response were significantly correlated with the clinical response. This vaccine
+promises to be of use, not only in patients with premalignant lesions caused by
+high-risk HPV16, but also in patients with malignant tumors caused by this virus,
+including HPV16-positive cervical cancer, anal cancer, and head and neck cancer.
+
+DOI: 10.1097/PPO.0b013e318235e0fe 
+PMID: 21952279  [Indexed for MEDLINE]

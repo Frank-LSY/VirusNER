@@ -1,0 +1,47 @@
+
+
+843. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2015 Feb;50(2):131-7.
+
+[Clinical features and expressions of p16, p53 protein of human
+papillomavirus-related tonsillar carcinoma].
+
+[Article in Chinese]
+
+Zhang Y(1), Zhang B(2), Zhou H, Liu W, Chen W, Xu Z.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Tianjin Medical University General
+Hospital, Tianjin 300052, China.
+(2)Department of Head and Neck Surgery, Cancer Hospital, Chinese Academy of
+Medical Sciences, Peking Union Medical College, Beijing 100021, China. Email:
+docbinzhang@hotmail.com.
+
+OBJECTIVE: To analyze the clinical characteristics, prognosis and molecular
+biological changes of tonsillar squamous cell carcinoma (TSCC).
+METHODS: Retrospective analysis of 61 TSCC cases treated from January 1999 to
+December 2012. Demographic data and clinical charts, including histologic grade
+of tumor, treatment and outcome of the patients, were reviewed.Human
+papillomavirus (HPV)-DNA were detected using SPF10-DNA enzyme immunoassay and
+LiPA genotyping method. Expressions of p16 and p53 proteins were examinated by
+immunohistochemistry. Survival rate was calculated with SPSS 19.0 software using 
+the Kaplan-Meier method.
+RESULTS: There were 55 males and 6 females, with a median age of 57 years. Of the
+61 TSCC, 21 were with well differentiation, 19 with moderate differentiation and 
+21 with poor differentiation, including 7 patients at stage II, 10 at stage III
+and 44 at stage IV. HPV-positive rate of TSCC was 29.5% (18/61) and high-risk
+HPV-16 subtype accounted for 72.2% (13/18). The percentage of famel patients in
+HPV-positive TSCC was higher than HPV-negative TSCC (22.2% vs 4.7%).HPV-positive 
+TSCC was more common in non-smoking patients (50.0% vs 79.1%, χ(2) = 5, 155, P = 
+0.023) and non-drinking patients (27.8% vs 51.2%, χ(2) = 4.346, P = 0.037).
+HPV-positive TSCC mostly presented with high expression of p16 protein (88.9% vs 
+16.3%, χ(2) = 28.481, P = 0.000), and low expression of p53 protein (72.7% vs
+46.5%, χ(2) = 5.028, P = 0.025). The prognosis of patients with HPV-associated
+TSCC was significantly better than non-HPV-associated TSCC, and The 3-year and
+5-year overall survival rates of patients with HPV-positive TSCC were higher than
+those of patients with HPV-negative TSCC (87.7% vs 49.5% and 78.9% vs 33.0%,
+respectively).
+CONCLUSION: HPV-associated TSCC had unique clinicopathological and molecular
+biological features, showing better prognosis compared to HPV-negative TSCC.
+
+
+PMID: 25916534  [Indexed for MEDLINE]

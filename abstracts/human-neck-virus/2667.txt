@@ -1,0 +1,44 @@
+
+
+2667. Cancer Med. 2014 Oct;3(5):1185-96. doi: 10.1002/cam4.313. Epub 2014 Jul 26.
+
+HPV-positive oropharyngeal squamous cell carcinoma is associated with TIMP3 and
+CADM1 promoter hypermethylation.
+
+van Kempen PM(1), van Bockel L, Braunius WW, Moelans CB, van Olst M, de Jong R,
+Stegeman I, van Diest PJ, Grolman W, Willems SM.
+
+Author information: 
+(1)Department of Otorhinolaryngology - Head and Neck Surgery, University Medical 
+Center Utrecht, Utrecht, The Netherlands; Brain Center Rudolf Magnus, University 
+Medical Center Utrecht, Utrecht, The Netherlands.
+
+Oropharyngeal squamous cell carcinoma (OPSCC) is associated with human
+papillomavirus (HPV) in a proportion of tumors. HPV-positive OPSCC is considered 
+a distinct molecular entity with a prognostic advantage compared to HPV-negative 
+cases. Silencing of cancer-related genes by DNA promoter hypermethylation may
+play an important role in the development of OPSCC. Hence, we examined promoter
+methylation status in 24 common tumor suppressor genes in a group of 200 OPSCCs
+to determine differentially methylated genes in HPV-positive versus HPV-negative 
+primary OPSCC. Methylation status was correlated with HPV status, clinical
+features, and patient survival using multivariate methods. Additionally,
+methylation status of 16 cervical squamous cell carcinomas (SCC) was compared
+with HPV-positive OPSCC. Using methylation-specific probe amplification,
+HPV-positive OPSCC showed a significantly higher cumulative methylation index
+(CMI) compared to HPV-negative OPSCC (P=0.008). For the genes CDH13, DAPK1, and
+RARB, both HPV-positive and HPV-negative OPSCC showed promoter hypermethylation
+in at least 20% of the tumors. HPV status was found to be an independent
+predictor of promoter hypermethylation of CADM1 (P < 0.001), CHFR (P = 0.027),
+and TIMP3 (P < 0.001). CADM1 and CHFR showed similar methylation patterns in
+OPSCC and cervical SCC, but TIMP3 showed no methylation in cervical SCC in
+contrast to OPSCC. Methylation status of neither individual gene nor CMI was
+associated with survival. These results suggest that HPV-positive tumors are to a
+greater extent driven by promotor hypermethylation in these tumor suppressor
+genes. Especially CADM1 and TIMP3 are significantly more frequently
+hypermethylated in HPV-positive OPSCC and CHFR in HPV-negative tumors.
+
+© 2014 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.313 
+PMCID: PMC4302669
+PMID: 25065733  [Indexed for MEDLINE]

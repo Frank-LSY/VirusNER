@@ -1,0 +1,42 @@
+
+
+2294. Int J Cancer. 2013 Jul;133(1):120-9. doi: 10.1002/ijc.28015. Epub 2013 Feb 12.
+
+Radiation-induced loss of cell surface CD47 enhances immune-mediated clearance of
+human papillomavirus-positive cancer.
+
+Vermeer DW(1), Spanos WC, Vermeer PD, Bruns AM, Lee KM, Lee JH.
+
+Author information: 
+(1)Cancer Biology Research Center, Sanford Research/University of South Dakota,
+Sioux Falls, SD 57104, USA.
+
+The increasing incidence of human papillomavirus (HPV) related oropharyngeal
+squamous cell carcinoma (OSSC) demands development of novel therapies. Despite
+presenting at a more advanced stage, HPV(+) oropharyngeal squamous cell carcinoma
+(OSCC) have a better prognosis than their HPV(-) counterparts. We have previously
+demonstrated that clearance of HPV(+) OSCC during treatment with radiation and
+chemotherapy requires an immune response which is likely responsible for the
+improved clinical outcomes. To further elucidate the mechanism of immune-mediated
+clearance, we asked whether radiation therapy induces tumor cell changes that
+allow the body to recognize and aid in tumor clearance. Here, we describe a
+radiation-induced change in tumor surface protein expression that is critical for
+immune-mediated clearance. Radiation therapy decreases surface expression of
+CD47, a self-marker. CD47 is frequently overexpressed in head and neck squamous
+cell carcinoma and radiation induces a decrease of CD47 in a dose-dependent
+manner. We show that both in vitro and in vivo tumor cell CD47 protein levels are
+restored over time after sublethal radiation exposure and that protein levels on 
+adjacent, normal tissues remain unaffected. Furthermore, reduction of tumor cell 
+CD47 increases phagocytosis of these cells by dendritic cells and leads to
+increased interferon gamma and granzyme production from mixed lymphocytes.
+Finally, decreasing tumor cell CD47 in combination with standard radiation and
+chemotherapy results in improved immune-mediated tumor clearance in vivo. These
+findings help define an important mechanism of radiation-related immune clearance
+and suggest that decreasing CD47 specifically on tumor cells may be a good
+therapeutic target for HPV related disease.
+
+Copyright © 2013 UICC.
+
+DOI: 10.1002/ijc.28015 
+PMCID: PMC3972896
+PMID: 23292955  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+2592. Biomed Res Int. 2018 Sep 17;2018:9594568. doi: 10.1155/2018/9594568. eCollection 
+2018.
+
+Association of p16 as Prognostic Factors for Oropharyngeal Cancer: Evaluation of 
+p16 in 1470 Patients for a 16 Year Study in Northeast China.
+
+Meng HX(1), Miao SS(2), Chen K(1), Li HN(3)(4), Yao G(1), Geng J(5), Wang H(1),
+Shi QT(1), He J(1), Mao X(2), Tong FJ(6), Wei LL(6), Sun J(2), Tan D(1), You
+Q(7), Li X(1), Geng JS(1).
+
+Author information: 
+(1)Department of Pathology, Harbin Medical University Cancer Hospital, Harbin,
+China.
+(2)Department of Otolaryngology, Head and Neck Surgery, Harbin Medical University
+Cancer Hospital, Harbin, China.
+(3)Department of Pathology, The First Affiliated Hospital of Heilongjiang
+University of Chinese Medicine, Harbin, China.
+(4)Department of pathology, Harbin Medical University, Harbin, China.
+(5)Department of Radiology, Harbin Medical University Cancer Hospital, Harbin,
+China.
+(6)Department of Microbiology, Harbin Medical University, Harbin, China.
+(7)Department of Gastroenterology, Harbin Medical University Cancer Hospital,
+Harbin, China.
+
+Human papillomavirus (HPV) is an etiological risk factor for oropharyngeal
+squamous cell carcinomas (OPSCC). Our study investigates the prevalence,
+prognostic, and clinicopathologic features of HPV-related oropharyngeal cancer in
+Northeast China and elucidates the involvement of p16 in the tumorigenesis and
+progression of OPSCC. Specimens from 1470 OPSCC patients collected from 2000 to
+2016 were analyzed using the status of HPV by polymerase chain reaction (PCR) and
+p16 immunohistochemistry. Overexpression of p16 was observed in 81 (5.51%) of the
+1470 cases, and HPV positive was present in 78 cases (5.31%) of the 1470 cases.
+HPV positive and p16 overexpression have a good concordance. However, we found
+that the etiological fraction of HPV in cancers of the OPSCCs was obviously lower
+in Northeast China than other cohorts previously reported. Interestingly, nearly 
+89% of patients with p16 expression were smokers, and nearly 70% of patients with
+p16 expression had a history of alcohol. Our study also demonstrates that p16
+expression is significantly associated with early stage primary OPSCCs and the
+patients with p16 expression tend to show better survival following surgery and
+radiotherapy.
+
+DOI: 10.1155/2018/9594568 
+PMCID: PMC6166388
+PMID: 30310820  [Indexed for MEDLINE]

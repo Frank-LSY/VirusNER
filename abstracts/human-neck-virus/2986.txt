@@ -1,0 +1,34 @@
+
+
+2986. Hum Vaccin Immunother. 2014;10(7):2109-11. doi: 10.4161/hv.29137.
+
+HPV vaccination in boys and men.
+
+Stanley M(1).
+
+Author information: 
+(1)a Department of Pathology; University of Cambridge; Cambridge, UK.
+
+Human papillomaviruses are DNA viruses that infect skin or mucosal cells. In the 
+genital tract HPV (especially types 6 and 11) cause genital warts, the commonest 
+viral sexually transmitted disease. At least 13 of the more than 100 known HPV
+genotypes are oncogenic "high-risk" genotypes. The 2 most common of these
+(genotypes 16 and 18) cause approximately 70% of all cervical cancers. Oncogenic 
+HPVs particularly HPV 16 are associated with other anogenital cancers, anus,
+vagina, vulva and penis, and cancers of the head and neck and current estimates
+are that 5.2% of all cancers are HPV associated. In industrialised countries
+cervical cancer is controlled by secondary intervention other HPV associated
+malignancies are increasing in incidence and the burden of HPV associated disease
+in men is now comparable to that in women in economically developed countries.
+Randomized control trials with the quadrivalent HPV VLP vaccine demonstrate
+robust antibody responses and high efficacy against genital warts anal precancers
+in men. Few countries have recommended male vaccination on the basis that this is
+not cost effective. However gender-neutral vaccination has been recommended in
+the USA, Canada, Austria, and Australia. Careful cost effective modeling has
+preceded these decisions showing that when the burden of disease in men is
+included in the models then, depending upon coverage, vaccine price, and other
+factors male vaccination can become cost effective.
+
+DOI: 10.4161/hv.29137 
+PMCID: PMC4186028
+PMID: 25424825  [Indexed for MEDLINE]

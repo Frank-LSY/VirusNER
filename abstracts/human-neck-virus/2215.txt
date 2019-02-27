@@ -1,0 +1,43 @@
+
+
+2215. Am J Otolaryngol. 2011 Nov-Dec;32(6):541-6. doi: 10.1016/j.amjoto.2010.11.007.
+Epub 2011 Feb 11.
+
+Down-regulation of cyclin D1 by small interfering RNA inhibits cell growth and
+induces apoptosis of laryngeal squamous cell carcinoma.
+
+Xiao Y(1), Wang J, Lu J, Liu Y, Wang Y, Gao Y, Jin D.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, The Second Affiliated
+Hospital, Harbin Medical University, PR China.
+
+OBJECTIVE: The objective of the study was to explore the inhibitive role of
+cyclin D1 gene silence in laryngeal squamous cell carcinoma by
+lentivirus-mediated RNA interference.
+MATERIALS AND METHODS: Cd1-RNAi-Lentivirus and the control lentivirus
+(GFP-Lentivirus) were transfected into Hep-2 cells. Reverse transcriptase
+polymerase chain reaction was performed to explore the cyclin D1 expression level
+in Cd1-RNAi-Lentivirus-transfected Hep 2 cells. The apoptosis and viability of
+Cd1-RNAi-Lentivirus-treated Hep-2 cells were measured with flow cytometry and
+methyl thiazolyl tetrazoliym assay. In an animal experiment, 10 mice bearing
+Hep-2 cell tumor were intratumorally injected with Cd1-RNAi-Lentivirus; and the
+other 10 mice were injected with GFP-Lentivirus. Terminal
+deoxytransferase-mediated dUTP nick end labeling stains and transmission electron
+microscope were used to observe the apoptosis in the xenografts.
+RESULTS: Cyclin D1 was knocked down after Cd1-RNAi-Lentivirus was transfected
+into Hep-2 cells. The proliferative ability of Hep-2 cells was significantly
+inhibited by Cd1-RNAi-Lentivirus, and a significant apoptosis of Hep-2 cells was 
+also observed after Cd1-RNAi-Lentivirus transfection. The average weight and
+volume of tumors in the Cd1-RNAi-Lentivirus-treated group were significantly
+lower than those in the control group (P < .01). The significant apoptosis was
+detected with terminal deoxytransferase-mediated dUTP nick end labeling stain and
+transmission electron microscope.
+CONCLUSIONS: The present findings suggest that cyclin D1 gene silence by
+lentivirus-mediated RNA interference can inhibit growth and promote apoptosis of 
+laryngeal squamous cell carcinoma.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2010.11.007 
+PMID: 21315488  [Indexed for MEDLINE]

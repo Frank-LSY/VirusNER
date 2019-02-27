@@ -1,0 +1,62 @@
+
+
+1485. Oral Oncol. 2014 May;50(5):513-9. doi: 10.1016/j.oraloncology.2014.02.001. Epub
+2014 Feb 22.
+
+Refining risk stratification for locoregional failure after chemoradiotherapy in 
+human papillomavirus-associated oropharyngeal cancer.
+
+Vainshtein JM(1), Spector ME(2), McHugh JB(3), Wong KK(4), Walline HM(5), Byrd
+SA(6), Komarck CM(7), Ibrahim M(8), Stenmark MH(1), Prince ME(2), Bradford CR(2),
+Wolf GT(2), McLean S(2), Worden FP(9), Chepeha DB(2), Carey T(2), Eisbruch A(10).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Michigan, Ann Arbor, MI,
+United States.
+(2)Department of Otolaryngology - Head and Neck Surgery, University of Michigan, 
+Ann Arbor, MI, United States.
+(3)Department of Pathology, University of Michigan, Ann Arbor, MI, United States.
+(4)Division of Nuclear Medicine, Department of Radiology, University of Michigan,
+Ann Arbor, MI, United States.
+(5)Doctoral Program in Cancer Biology, University of Michigan, Ann Arbor, MI,
+United States.
+(6)University of Michigan School of Medicine, Ann Arbor, MI, United States.
+(7)Department of Otolaryngology, University of Michigan, Ann Arbor, MI, United
+States.
+(8)Department of Radiology, University of Michigan, Ann Arbor, MI, United States.
+(9)Division of Hematology Oncology, Department of Internal Medicine, University
+of Michigan Health System, Ann Arbor, MI, United States.
+(10)Department of Radiation Oncology, University of Michigan, Ann Arbor, MI,
+United States. Electronic address: eisbruch@umich.edu.
+
+BACKGROUND: To determine whether the addition of molecular and imaging biomarkers
+to established clinical risk factors could help predict locoregional failure
+(LRF) after chemoradiation in human papillomavirus (HPV)-related (+)
+oropharyngeal cancer (OPC) and improve patient selection for locoregional
+treatment de-intensification.
+METHODS: HPV status was determined for 198 consecutive patients with stage III/IV
+OPC treated with definitive chemoradiation from 5/2003 to 10/2010. The impact of 
+pre-therapy epidermal growth factor receptor (EGFR) overexpression; imaging
+biomarkers including primary tumor and nodal maximum standardized uptake values
+on FDG-PET, gross tumor volumes, and matted nodes; and clinical factors on LRF
+(including residual disease at adjuvant neck dissection) was assessed.
+RESULTS: Primary tumors were HPV+ in 184 patients and HPV-negative in 14. EGFR
+overexpression was related to HPV-negative status and was univariately associated
+with LRF in the overall population, but was neither retained in the multivariate 
+model after adjustment for HPV status, nor associated with LRF in HPV+ patients. 
+Similarly, imaging biomarkers were univariately associated with LRF, but
+correlated with T-stage and/or N-stage and did not remain predictive in HPV+
+patients after adjustment for T4- and N3-stages, which were the only significant 
+predictors of LRF on multivariate analysis. Among HPV+ patients with non-T4- or
+N3-stages, only minimal smoking was associated with decreased LRF.
+CONCLUSIONS: The prognostic impact of EGFR overexpression and imaging biomarkers 
+on LRF was predominantly related to their association with HPV-negative status
+and T- or N-stage, respectively. Among HPV+ OPC patients treated with uniform
+chemoradiation, only T4-stage, N3-stage, and smoking contributed to
+risk-stratification for LRF.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.02.001 
+PMCID: PMC4086868
+PMID: 24565983  [Indexed for MEDLINE]

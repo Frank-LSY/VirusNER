@@ -1,0 +1,37 @@
+
+
+532. Ceska Gynekol. Summer 2018;83(2):133-137.
+
+[The relationship between cervicovaginal and oral HPV infection].
+
+[Article in Czech]
+
+Nipčová M, Sláma J, Podlešák T, Neumannová H, Zikán M, Sehnal B.
+
+OBJECTIVE: To summarize current knowledge of the relationship of genital and oral
+HPV infection in women.
+DESIGN: Review article.
+SETTING: Gynecologic Oncology Center, Department of Gynecology and Obstetrics,
+Hospital Na Bulovce and 1st Medical School of Charles University, Prague;
+Gynecologic Oncology Center, Department of Gynecology and Obstetrics, General
+Faculty Hospital and 1st Medical School of Charles University, Prague; ENT
+Department, Hospital Na Bulovce, Prague.
+METHODS AND RESULTS: The infection of human papillomavirus (HPV) is strongly
+associated with the development of anogenital cancers and of a subset of head and
+neck squamous cell cancers, yet a quite little is known about the
+interrelationship between oral and cervicovaginal HPV infections. A key issue in 
+oral HPV infection is whether it can be brought about a genital HPV infection,
+through sexual or other contact and by autoinoculation, or whether it can be
+considered a fully independent event. Pertinent to this issue is the frequency of
+oral HPV infection in women with a cervical HPV infection. Some studies show that
+females with genital HPV infection are at higher risk for oral infection and HPV 
+genotype-concordance with genital infection are more prevalent than could be
+expected by chance. However, more data are needed to better understand the
+natural history of HPV infection at each anatomic site.
+CONCLUSION: The relationship of oral to cervicovaginal HPV infection remains
+unclear. Nevertheless, published data suggest that HPV infections at these two
+sites are not entirely independent, although genotype-specific concordance is
+low.
+
+
+PMID: 29869513  [Indexed for MEDLINE]

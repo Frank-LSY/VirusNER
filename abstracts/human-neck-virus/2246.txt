@@ -1,0 +1,64 @@
+
+Conflict of interest statement: The authors of this manuscript have no potential 
+conflicts of interest to declare.
+
+
+2246. Ann Pathol. 2017 Feb;37(1):79-89. doi: 10.1016/j.annpat.2016.12.013. Epub 2017
+Jan 19.
+
+[Current events in immunotherapy for upper aerodigestive tract cancer].
+
+[Article in French]
+
+Outh-Gauer S(1), Le Tourneau C(2), Broudin C(1), Scotte F(3), Roussel H(4), Hans 
+S(5), Mandavit M(6), Tartour E(7), Badoual C(8).
+
+Author information: 
+(1)Service d'anatomie pathologique, hôpital européen Georges-Pompidou, AP-HP, 20,
+rue Leblanc, 75015 Paris, France.
+(2)Département d'oncologie médicale, institut Curie, 75005 Paris, France; Unité
+Inserm U900, 75005 Paris, France.
+(3)Unité fonctionnelle de soins oncologiques de support, pôle cancérologie
+spécialités, hôpital européen Georges-Pompidou, AP-HP, 20, rue Leblanc, 75015
+Paris, France.
+(4)Service d'anatomie pathologique, hôpital européen Georges-Pompidou, AP-HP, 20,
+rue Leblanc, 75015 Paris, France; Inserm U 970, équipe 10, PARCC, faculté Paris
+Descartes, 75015 Paris, France.
+(5)Service ORL et chirurgie cervico-faciale, hôpital européen Georges-Pompidou,
+AP-HP, 20, rue Leblanc, 75015 Paris, France.
+(6)Inserm U 970, équipe 10, PARCC, faculté Paris Descartes, 75015 Paris, France.
+(7)Inserm U 970, équipe 10, PARCC, faculté Paris Descartes, 75015 Paris, France; 
+Service d'immunologie biologique, hôpital européen Georges-Pompidou, AP-HP, 20,
+rue Leblanc, 75015 Paris, France.
+(8)Service d'anatomie pathologique, hôpital européen Georges-Pompidou, AP-HP, 20,
+rue Leblanc, 75015 Paris, France; Inserm U 970, équipe 10, PARCC, faculté Paris
+Descartes, 75015 Paris, France. Electronic address: cecile.badoual@aphp.fr.
+
+Head and neck (HN) carcinomas (mostly represented by squamous cell carcinomas
+[SCC]) still have a poor prognosis, which could be dramatically improved with
+immunotherapy. Tumor's microenvironment changes, caused by many endogenous or
+exogenous events, can correlate with prognosis and therapeutic response. Here, we
+review recent data regarding HNSCC, nasopharyngeal carcinomas (NPC) and salivary 
+gland malignant tumors, all three being potential target of immunotherapies.
+About half of HNSCC exhibit PD-L1 expression, this expression being upregulated
+in HPV-positive tumors. In recent clinical trials, a better therapeutic response 
+to anti-PD-1 has been obtained in patients with higher PD-L1 expression. Food and
+Drug Administration (FDA) approved the use of these therapeutics without the
+screening of patients regarding PD-L1 status. Activation status, density and
+localisation of TIL as well as PD-L2, γ-interferon, inflammatory cytokines,
+epithelial-mesenchymal transition phenotype and mutational burden may all be
+potential therapeutic response markers. In Epstein-Barr Virus (EBV)-induced
+nasopharyngeal non-keratinizing cancer, PD-L1 is over-expressed compared to EBV
+negative-tumors. A 22 % response rate has been observed under
+anti-PD-1 treatment, among PD-L1-positive HNSCC patients. There is little data
+regarding microenvironment of salivary gland cancer. PD-L1 shows great
+heterogeneity in localisation, when expressed. A 11 % response rate has been
+obtained under anti-PD-1 treatment among PD-L1-positive NPC patients. A better
+understanding of immune checkpoint regulation processes needs to be achieved to
+allow patients with HN carcinomas to benefit from these promising
+immunotherapies.
+
+Copyright © 2016 Elsevier Masson SAS. All rights reserved.
+
+DOI: 10.1016/j.annpat.2016.12.013 
+PMID: 28111039  [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+
+
+2382. J Clin Pathol. 2010 Oct;63(10):857-66. doi: 10.1136/jcp.2010.078154.
+
+Basaloid squamous cell carcinoma of the head and neck: role of HPV and
+implication in treatment and prognosis.
+
+Thariat J(1), Badoual C, Faure C, Butori C, Marcy PY, Righini CA.
+
+Author information: 
+(1)Department of Radiation Oncology, Anti Cancer Centre Antoine Lacassagne, Nice,
+France. jthariat@hotmail.com
+
+Basaloid squamous cell carcinoma (BSCC) is a rare variant of squamous cell
+carcinoma (SCC) of the head and neck. Wain's criteria (peripheral palisading,
+association with SCC, high nuclear-cytoplasmic ratio, high mitotic rate, solid
+growth), anti-34BE12 and CK 5/6 staining, and absence of neuroendocrine markers
+are mandatory for the diagnosis of BSCC. Its increasing incidence parallels that 
+of human papilloma virus (HPV)-positive tumours for the oropharyngeal subsite. On
+the other hand, BSCC is frequently considered a high-grade carcinoma of poorer
+prognosis than its SCC counterparts, mostly due to a higher rate of distant
+metastases. However, BSCC has similar or better locoregional control rates and a 
+relatively better radiosensitivity than SCC. BSCC seems to have a dual behaviour 
+depending, at least partly, on its recently described association with HPV. The
+basaloid subtype of SCC, owing to its particular behaviour, should be
+systematically investigated along with HPV and smoking status, as those factors
+may be determinant in the response to treatment.
+
+DOI: 10.1136/jcp.2010.078154 
+PMID: 20876315  [Indexed for MEDLINE]

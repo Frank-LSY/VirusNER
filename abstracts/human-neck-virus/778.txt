@@ -1,0 +1,48 @@
+
+
+778. BMC Infect Dis. 2017 Jun 8;17(1):409. doi: 10.1186/s12879-017-2479-5.
+
+Multiplex detection in tonsillar tissue of all known human polyomaviruses.
+
+Sadeghi M(1), Wang Y(1), Ramqvist T(2), Aaltonen LM(3)(4), Pyöriä L(1), Toppinen 
+M(1), Söderlund-Venermo M(1), Hedman K(5)(6).
+
+Author information: 
+(1)Virology, University of Helsinki, Helsinki, Finland.
+(2)Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden.
+(3)Department of Otorhinolaryngology-Head and Neck Surgery, Helsinki University
+Hospital, Helsinki, Finland.
+(4)University of Helsinki, Helsinki, Finland.
+(5)Virology, University of Helsinki, Helsinki, Finland. klaus.hedman@helsinki.fi.
+(6)Helsinki University Hospital, HUSLAB, Helsinki, Finland.
+klaus.hedman@helsinki.fi.
+
+BACKGROUND: In the past few years, eleven new human viruses have joined the two
+previously known members JCPyV and BKPyV of the Polyomaviridae family, by virtue 
+of molecular methods. Serology data suggest that infections with human
+polyomaviruses (HPyVs) occur since childhood and the viruses are widespread in
+the general population. However, the viral persistence sites and transmission
+routes are by and large unknown. Our previous studies demonstrated that the four 
+new HPyVs - KIPyV, WUPyV, MCPyV and TSPyV - were present in the tonsils, and
+suggested lymphoid tissue as a persistent site of these emerging human viruses.
+We developed a Luminex-based multiplex assay for simultaneous detection of all 13
+HPyVs known, and explored their occurrence in tonsillar tissues of children and
+adults mostly with tonsillitis or tonsillar hypertrophy.
+METHODS: We set up and validated a new Luminex-based multiplex assay by using
+primer pairs and probes targeting the respective HPyV viral protein 1 (VP1)
+genes. With this assay we tested 78 tonsillar tissues for DNAs of 13 HPyVs.
+RESULTS: The multiplex assay allowed for simultaneous detection of 13 HPyVs with 
+high analytical sensitivity and specificity, with detection limits of 100-102
+copies per microliter, and identified correctly all 13 target sequences with no
+cross reactions. HPyV DNA altogether was found in 14 (17.9%) of 78 tonsils. The
+most prevalent HPyVs were HPyV6 (7.7%), TSPyV (3.8%) and WUPyV (3.8%). Mixed
+infection of two HPyVs occurred in one sample.
+CONCLUSIONS: The Luminex-based HPyV multiplex assay appears highly suitable for
+clinical diagnostic purposes and large-scale epidemiological studies. Additional 
+evidence was acquired that the lymphoid system plays a role in HPyV infection and
+persistence. Thereby, shedding from this site during reactivation might take part
+in transmission of the newly found HPyVs.
+
+DOI: 10.1186/s12879-017-2479-5 
+PMCID: PMC5465560
+PMID: 28595595  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+1277. Int J Cancer. 2015 May 1;136(9):2196-203. doi: 10.1002/ijc.29254. Epub 2014 Oct
+13.
+
+A high and increasing HPV prevalence in tonsillar cancers in Eastern Denmark,
+2000-2010: the largest registry-based study to date.
+
+Garnaes E(1), Kiss K, Andersen L, Therkildsen MH, Franzmann MB,
+Filtenborg-Barnkob B, Hoegdall E, Krenk L, Josiassen M, Lajer CB, Specht L,
+Frederiksen K, Friis-Hansen L, Nielsen FC, Kjaer SK, Norrild B, von Buchwald C.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+
+The aim was to explore whether the incidence of tonsillar squamous cell
+carcinomas (TSCCs) increased in Eastern Denmark, 2000-2010, and whether human
+papillomavirus (HPV) could explain the increase, and to assess the association of
+HPV prevalence with gender, age, and origin (i.e., the certainty of tonsillar
+tumor origin). We applied HPV DNA PCR and p16 immunohistochemistry to all TSCCs
+registered in the Danish Head and Neck Cancer Group (DAHANCA) and in the Danish
+Pathology Data Bank (n = 632). Pathologists reviewed and subdivided the tumors
+into two groups: specified and nonspecified TSCCs. Approximately 10% of
+HPV-positive tumors was genotyped by amplicon next-generation sequencing. The
+overall crude incidence of TSCCs increased significantly (2.7% per year) and was 
+explained by an increasing incidence of HPV-positive TSCCs (4.9% per year). The
+overall HPV prevalence was 58%, with HPV16 being the predominant HPV type. In
+multivariate analysis, the HPV prevalence was associated with age (<55 vs. >60
+years) (OR, 1.72; 95% CI 1.13-2.63) and origin (nonspecified vs. specified TSCCs)
+(OR, 0.15; 95% CI 0.11-0.22). The association of HPV prevalence with origin
+increased over time in specified TSCCs (OR per year, 1.10; 95% CI 1.01-1.19),
+whereas no change over time was observed among nonspecified TSCCs (OR per year,
+0.99; 95% CI 0.90-1.08). In conclusion, the observed increase in the number of
+HPV-positive TSCCs can explain the increasing number of TSCCs in Eastern Denmark,
+2000-2010. HPV prevalence was associated with younger age (<55 years) and a high 
+certainty of tonsillar tumor origin.
+
+© 2014 UICC.
+
+DOI: 10.1002/ijc.29254 
+PMID: 25283302  [Indexed for MEDLINE]

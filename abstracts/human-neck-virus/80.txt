@@ -1,0 +1,40 @@
+
+
+80. PLoS One. 2017 Mar 17;12(3):e0174188. doi: 10.1371/journal.pone.0174188.
+eCollection 2017.
+
+Respiratory DNA viruses are undetectable in nasopharyngeal secretions from
+adenotonsillectomized children.
+
+Martins RB(1), Rocha LP(2), Prates MM(2), Gagliardi TB(1), Biasoli B(1), Leite
+MJ(2), Buzatto G(2), Hyppolito MA(2), Aragon DC(3), Tamashiro E(2), Valera FC(2),
+Arruda E(1), Anselmo-Lima WT(2).
+
+Author information: 
+(1)Departments of Cell Biology, School of Medicine of Ribeirão Preto of
+University of São Paulo, Ribeirão Preto, Brazil.
+(2)Ophthalmology, Otorhinolaryngology and Head and Neck Surgery, School of
+Medicine of Ribeirão Preto of University of São Paulo, Ribeirão Preto, Brazil.
+(3)Department of Pediatrics, School of Medicine of Ribeirão Preto of University
+of São Paulo, Ribeirão Preto, Brazil.
+
+Respiratory viruses are frequently detected in association with chronic tonsillar
+hypertrophy in the absence of symptoms of acute respiratory infection (ARI). The 
+present analysis was done in follow-up to a previous clinical study done by this 
+same group. Nasopharyngeal washes (NPWs) were obtained from 83 of 120 individuals
+at variable times post adenotonsillectomy, in the absence of ARI symptoms. A look
+back at virus detection results in NPWs from the same 83 individuals at the time 
+of tonsillectomy revealed that 73.5% (61/83) were positive for one or more
+viruses. The overall frequency of respiratory virus detection in
+post-tonsillectomy NPWs was 58.8%. Rhinovirus (RV) was the agent most frequently 
+detected, in 38 of 83 subjects (45.8%), followed by enterovirus in 7 (8.4%),
+human metapneumovirus in 6 (7.2%), human respiratory syncytial virus in 3 (3.6%) 
+and human coronavirus in 1 (1.2%). Remarkably, there was no detection of
+adenovirus (HAdV) or human bocavirus (HBoV) in asymptomatic individuals in
+follow-up of adenotonsillectomy. In keeping with persistence of respiratory DNA
+viruses in human tonsils, tonsillectomy significantly reduces asymptomatic
+shedding of HAdV and HBoV in NPWs.
+
+DOI: 10.1371/journal.pone.0174188 
+PMCID: PMC5357011
+PMID: 28306724  [Indexed for MEDLINE]

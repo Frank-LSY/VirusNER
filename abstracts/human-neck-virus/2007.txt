@@ -1,0 +1,33 @@
+
+
+2007. Hautarzt. 2009 Apr;60(4):275-8. doi: 10.1007/s00105-009-1740-2.
+
+[Merkel cell carcinoma. Viral genesis and new therapeutic options?].
+
+[Article in German]
+
+Pippirs U(1), Buhren BA, Hoff NP, Gerber PA, Bruch-Gerharz D, Reifenberger J,
+Homey B, Schulte KW.
+
+Author information: 
+(1)Hautklinik des Universitätsklinikums Düsseldorf, Moorenstrasse 5, 40225
+Düsseldorf.
+
+Merkel cell carcinoma (cutaneous neuroendocrine carcinoma) is a rare, highly
+malignant, neuroendocrine tumor of the skin with predominance in older patients. 
+The tumor is most often located in the sun-exposed skin of the head, the neck and
+-as in our patient - the extremities. Notably, the tumor bears a high risk of an 
+early regional lymph node as well as distant metastases. Clinically, only a
+presumptive diagnosis of Merkel cell carcinoma can be established. The definite
+diagnosis is made by histological and immunohistological methods. Surgical
+excision with a safety margin should be combined with sentinel lymph node biopsy.
+In advanced tumor stages (lymph node or visceral metastasis), a remission can be 
+achieved by different chemotherapy schedules in combination with radiation.
+Recently, a previously unknown polyomavirus, named Merkel cell polyomavirus (MCV 
+or MCPyV), has been identified in 80% of Merkel cell carcinomas. In the near
+future, these novel findings could be utilized to distinguish Merkel cell
+carcinoma from small round cell cancers and could lead to the development of new 
+therapeutic options.
+
+DOI: 10.1007/s00105-009-1740-2 
+PMID: 19296059  [Indexed for MEDLINE]

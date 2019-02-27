@@ -1,0 +1,41 @@
+
+
+2554. Strahlenther Onkol. 2015 Mar;191(3):209-16. doi: 10.1007/s00066-014-0753-7. Epub 
+2014 Sep 25.
+
+Improved survival in HPV/p16-positive oropharyngeal cancer patients treated with 
+postoperative radiotherapy.
+
+Heiduschka G(1), Grah A, Oberndorfer F, Kadletz L, Altorjai G, Kornek G, Wrba F, 
+Thurnher D, Selzer E.
+
+Author information: 
+(1)Departments of Otorhinolaryngology: Head and Neck Surgery, Medical University 
+of Vienna, Vienna, Austria.
+
+INTRODUCTION: In the literature, HPV infection and/or p16 positivity have been
+consistently demonstrated to correlate with improved response rates in
+oropharyngeal squamous cell carcinoma (OPSCC) patients treated with primary
+radiotherapy (RT) alone and in combination with chemotherapy. However, the exact 
+role of HPV/p16 positivity in patients treated with postoperative RT is still
+unclear.
+METHODS: We analyzed tumor samples for HPV-DNA and p16 expression and correlated 
+these variables with treatment outcome in a series of 63 consecutively treated
+oropharyngeal cancer patients (95% stage III/IV). HPV and p16 analysis were
+performed using validated test systems. Survival was estimated by the
+Kaplan-Meier method. Cox proportional hazard regression models were applied to
+compare the risk of death among patients stratified according to risk factors.
+RESULTS: Expression of p16 or high-risk HPV-DNA was detected in 60.3% and 39.6%
+of the tumors, respectively. p16 expression [overall survival (OS) at 2 years:
+91%] as well as HPV infection (OS at 2 years: 95%) was associated with improved
+OS. Mean survival in p16-positive patients was 112 months compared to 64.6 months
+in case of p16 negativity. All HPV-positive tumors stained positive for p16. In a
+multivariable analysis, p16 positivity was associated with improved OS and with
+disease-free survival.
+CONCLUSION: p16 expression and HPV infection are strongly associated with the
+outcome of postoperatively irradiated OPSCC patients. HPV and p16 double-negative
+OPSCC patients should be regarded as a distinct "very high-risk patient group"
+that may benefit from intensified or novel treatment combinations.
+
+DOI: 10.1007/s00066-014-0753-7 
+PMID: 25252603  [Indexed for MEDLINE]

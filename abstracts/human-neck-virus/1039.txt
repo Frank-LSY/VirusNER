@@ -1,0 +1,32 @@
+
+
+1039. Pediatr Blood Cancer. 2017 Aug;64(8). doi: 10.1002/pbc.26463. Epub 2017 Jan 31.
+
+Pediatric laryngeal carcinoma in a heterozygous carrier of Fanconi anemia.
+
+D'Souza AM(1), Mark J(2), Demarcantonio M(2), Leino D(3), Sisson R(4), Geller
+JI(1).
+
+Author information: 
+(1)Division of Oncology, Cincinnati Children's Hospital Medical Center,
+Cincinnati, Ohio.
+(2)Department of Otolaryngology, University of Cincinnati Medical Center,
+Cincinnati, Ohio.
+(3)Department of Pathology, Cincinnati Children's Hospital Medical Center,
+Cincinnati, Ohio.
+(4)Division of Human Genetics, Cincinnati Children's Hospital Medical Center,
+Cincinnati, Ohio.
+
+A case of invasive, keratinizing squamous cell carcinoma of the larynx in an
+8-year-old female treated with laryngectomy is presented. Perinatal exposure to
+human papilloma virus and constitutional heterozygosity for a FANCC mutation were
+identified, though FANCC heterozygosity is not known to be cancer predisposing.
+An additional tumor-associated mutation in NOTCH1 was also identified potentially
+contributing to oncogenesis. This case illustrates an exceedingly rare type of
+cancer in the pediatric population and discusses diagnostic workup, evaluation of
+risk factors for head and neck cancer, and treatment options.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/pbc.26463 
+PMID: 28139070  [Indexed for MEDLINE]

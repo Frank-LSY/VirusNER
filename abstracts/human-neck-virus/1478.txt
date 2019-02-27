@@ -1,0 +1,46 @@
+
+
+1478. PLoS Pathog. 2018 May 10;14(5):e1007062. doi: 10.1371/journal.ppat.1007062.
+eCollection 2018 May.
+
+Metabolic reprogramming of Kaposi's sarcoma associated herpes virus infected
+B-cells in hypoxia.
+
+Singh RK(1), Lang F(1), Pei Y(1), Jha HC(2), Robertson ES(1).
+
+Author information: 
+(1)Departments of Otorhinolaryngology-Head and Neck Surgery and Microbiology,
+Perelman School of Medicine, University of Pennsylvania, Philadelphia, United
+States of America.
+(2)Discipline of Biosciences and Biomedical Engineering, Indian Institute of
+Technology, Indore, Madhya Pradesh, India.
+
+Kaposi's sarcoma associated herpesvirus (KSHV) infection stabilizes hypoxia
+inducible factors (HIFs). The interaction between KSHV encoded factors and HIFs
+plays a critical role in KSHV latency, reactivation and associated disease
+phenotypes. Besides modulation of large-scale signaling, KSHV infection also
+reprograms the metabolic activity of infected cells. However, the mechanism and
+cellular pathways modulated during these changes are poorly understood. We
+performed comparative RNA sequencing analysis on cells with stabilized hypoxia
+inducible factor 1 alpha (HIF1α) of KSHV negative or positive background to
+identify changes in global and metabolic gene expression. Our results show that
+hypoxia induces glucose dependency of KSHV positive cells with high glucose
+uptake and high lactate release. We identified the KSHV-encoded vGPCR, as a novel
+target of HIF1α and one of the main viral antigens of this metabolic
+reprogramming. Bioinformatics analysis of vGPCR promoter identified 9 distinct
+hypoxia responsive elements which were activated by HIF1α in-vitro. Expression of
+vGPCR alone was sufficient for induction of changes in the metabolic phenotype
+similar to those induced by KSHV under hypoxic conditions. Silencing of HIF1α
+rescued the hypoxia associated phenotype of KSHV positive cells. Analysis of the 
+host transcriptome identified several common targets of hypoxia as well as KSHV
+encoded factors and other synergistically activated genes belonging to cellular
+pathways. These include those involved in carbohydrate, lipid and amino acids
+metabolism. Further DNA methyltranferases, DNMT3A and DNMT3B were found to be
+regulated by either KSHV, hypoxia, or both synergistically at the transcript and 
+protein levels. This study showed distinct and common, as well as synergistic
+effects of HIF1α and KSHV-encoded proteins on metabolic reprogramming of
+KSHV-infected cells in the hypoxia.
+
+DOI: 10.1371/journal.ppat.1007062 
+PMCID: PMC5963815
+PMID: 29746587  [Indexed for MEDLINE]

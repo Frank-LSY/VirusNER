@@ -1,0 +1,51 @@
+
+
+1511. J Voice. 2018 Jul;32(4):488-491. doi: 10.1016/j.jvoice.2017.07.017. Epub 2017 Aug
+31.
+
+Gardasil Vaccination for Recurrent Laryngeal Papillomatosis in Adult Men Second
+Report: Negative Conversion of HPV in Laryngeal Secretions.
+
+Hirai R(1), Makiyama K(2), Matsuzaki H(2), Oshima T(3).
+
+Author information: 
+(1)Department of Otolaryngology- Head and Neck Surgery, Nihon University School
+of Medicine, 30-1 Oyaguchi-kamicho, Itabashi, Tokyo 173-8610, Japan. Electronic
+address: hirai.ryoji@nihon-u.ac.jp.
+(2)Department of Otolaryngology-Head and Neck Surgery, Nihon University Hospital,
+1-6 Kandasurugadai, Chiyoda, Tokyo 101-8309, Japan.
+(3)Department of Otolaryngology- Head and Neck Surgery, Nihon University School
+of Medicine, 30-1 Oyaguchi-kamicho, Itabashi, Tokyo 173-8610, Japan.
+
+BACKGROUND: In our first report on antibody levels in middle-aged and older men
+with recurrent laryngeal papillomatosis (RLP), we reported increases in human
+papillomavirus (HPV) antibody levels similar to those seen in adult women and
+young men. We posited that HPV antibodies produced in laryngeal mucus by Gardasil
+would prevent postoperative reinfection in patients with RLP.
+STUDY DESIGN: This is a case series study.
+PURPOSE: The purpose of this study was to examine whether Gardasil injection
+effectively inhibits recurrence of RLP. Specifically, in this second report,
+whether HPV antibodies produced in laryngeal secretions by Gardasil are capable
+of causing negative conversion of HPV-DNA (deoxyribonucleic acid) in laryngeal
+mucosa was investigated.
+METHODS: A total of 11 patients for whom antibodies were measured in the first
+report were studied. Before vaccination and after 1 year Post-vaccination, HPV
+screening tests were performed on laryngeal secretions, and whether HPV-DNA
+negative conversion had occurred was evaluated. At the time of collection of
+laryngeal secretions, the presence or absence of laryngeal papillomas was
+examined.
+RESULTS: Before vaccination, all patients were HPV low-risk positive on laryngeal
+secretion screening tests. After vaccination, three patients were positive.
+Laryngeal papillomas remained in five patients.
+CONCLUSIONS: The HPV-DNA test showed negative conversion in eight of 11 (72.7%)
+patients after vaccination. Residual laryngeal papillomas were found in five of
+11 (45.5%) patients. The serum HPV antibody titer did not differ significantly
+between the group in which laryngeal secretions showed HPV negative conversion
+and the group in which conversion did not occur. The serum antibody titer did not
+differ significantly as a function of whether there were residual tumors.
+
+Copyright © 2018 The Voice Foundation. Published by Elsevier Inc. All rights
+reserved.
+
+DOI: 10.1016/j.jvoice.2017.07.017 
+PMID: 28866231  [Indexed for MEDLINE]

@@ -1,0 +1,29 @@
+
+
+1920. Mol Med Rep. 2013 Feb;7(2):471-5. doi: 10.3892/mmr.2012.1205. Epub 2012 Nov 27.
+
+Silencing P12CDK²AP¹ with a lentivirus promotes HaCaT cell proliferation.
+
+Sun M(1), Zheng J, Xue H, Jiang Y, Li C, Li J, Jin W, Shen M, Yang X, Ni Q.
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, School of Stomatology, Fourth
+Military Medical University, Xi'an, Shaanxi 710032, P.R. China. moyisun@163.com
+
+The tumor suppressor P12CDK2AP1 negatively regulates cyclin-dependent kinase 2
+(CDK2) activities and suppresses DNA replication. Notably, P12CDK2AP1 is known to
+be downregulated in head and neck squamous cell carcinomas (HNSCCs). Silencing of
+specific gene expression by small interfering RNAs (siRNAs) or short hairpin RNAs
+(shRNAs) using expression vectors and retroviruses has become a powerful tool for
+the genetic analysis of mammalian cells. In the present study, we utilized
+lentivirus‑mediated shRNA for functional gene knockdown in normal human skin
+keratinocytes (HaCaT) cells in order to assess the potential role of P12CDK2AP1
+in HNSCCs. Lentivirus‑mediated RNA interference (RNAi) effectively reduced
+endogenous P12CDK2AP1 expression in HaCaT cells and significantly promoted HaCaT 
+cell proliferation in vitro. Lentiviral vectors have the ability to infect
+dividing and non-dividing cells as well as to achieve long‑term multilineage gene
+expression. Thus, additional studies are needed to investigate the use of such
+vectors as a therapeutic tool for the delivery of siRNAs.
+
+DOI: 10.3892/mmr.2012.1205 
+PMID: 23229879  [Indexed for MEDLINE]

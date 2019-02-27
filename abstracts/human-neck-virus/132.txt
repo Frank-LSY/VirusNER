@@ -1,0 +1,57 @@
+
+
+132. Braz J Otorhinolaryngol. 2017 Jan - Feb;83(1):38-44. doi:
+10.1016/j.bjorl.2016.01.004. Epub 2016 Apr 9.
+
+Human papillomavirus in oral cavity and oropharynx carcinomas in the central
+region of Brazil.
+
+Petito G(1), Carneiro MA(2), Santos SH(2), Silva AM(3), Alencar RC(4), Gontijo
+AP(4), Saddi VA(5).
+
+Author information: 
+(1)Pontifícia Universidade Católica de Goiás (PUC-Goiás), Programa de Mestrado em
+Genética, Goiânia, GO, Brazil. Electronic address: guilherme.petito@hotmail.com.
+(2)Instituto de Patologia Tropical e Saúde Pública, Universidade Federal de Goiás
+(UFG), Goiânia, GO, Brazil.
+(3)Pontifícia Universidade Católica de Goiás (PUC-Goiás), Programa de Mestrado em
+Genética, Goiânia, GO, Brazil.
+(4)Associação de Combate ao Câncer em Goiás, Setor de Anatomia Patológica,
+Laboratório de Oncogenética e Radiobiologia, Goiânia, GO, Brazil.
+(5)Pontifícia Universidade Católica de Goiás (PUC-Goiás), Programa de Mestrado em
+Genética, Goiânia, GO, Brazil; Associação de Combate ao Câncer em Goiás, Setor de
+Anatomia Patológica, Laboratório de Oncogenética e Radiobiologia, Goiânia, GO,
+Brazil.
+
+INTRODUCTION: Molecular studies about carcinomas of the oral cavity and
+oropharynx demonstrate the presence of human papilomavirus genome in these
+tumors, reinforcing the participation of human papilomavirus in oral
+carcinogenesis.
+OBJECTIVES: This study aimed to determine the prevalence of human papilomavirus
+and genotype distribution of HPV16 and HPV18 in oral cavity and oropharynx
+carcinomas, as well as their association with clinical characteristics of the
+tumors.
+METHODS: This is a retrospective study, with clinical data collected from 82
+patients. Human papilomavirus detection was conducted on specimens of oral cavity
+and oropharynx carcinomas included in paraffin blocks. Patients were assisted in 
+a cancer reference center, in the central region of Brazil, between 2005 and
+2007. Polymerase chain reaction was used for the detection and genotyping of
+human papilomavirus.
+RESULTS: Among the patients evaluated, 78% were male. The average age of the
+group was about 58 years. Risk factors, such as smoking (78%) and alcohol
+consumption (70.8%) were recorded for the group. HPV DNA was detected in 21 cases
+(25.6%; 95% confidence interval 16.9-36.6) of which 33.3% were HPV16 and 14.3%
+were HPV18. The presence of lymph node metastases and registered deaths were less
+frequent in human papilomavirus positive tumors, suggesting a better prognosis
+for these cases; however, the differences between the groups were not
+statistically significant.
+CONCLUSION: The results obtained in the present study, with respect to the
+presence of the high-risk HPV16 and HPV18 genotypes, highlight the importance of 
+human papilomavirus vaccination in the control of oral cavity and oropharynx
+carcinomas.
+
+Copyright © 2016 Associação Brasileira de Otorrinolaringologia e Cirurgia
+Cérvico-Facial. Published by Elsevier Editora Ltda. All rights reserved.
+
+DOI: 10.1016/j.bjorl.2016.01.004 
+PMID: 27117892  [Indexed for MEDLINE]

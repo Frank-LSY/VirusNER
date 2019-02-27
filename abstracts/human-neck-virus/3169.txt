@@ -1,0 +1,41 @@
+
+
+3169. Cancer Immunol Immunother. 2017 Feb;66(2):203-213. doi:
+10.1007/s00262-016-1834-5. Epub 2016 Apr 6.
+
+Designing therapeutic cancer vaccines by mimicking viral infections.
+
+Sultan H(1)(2), Fesenkova VI(1), Addis D(1), Fan AE(1), Kumai T(1)(3), Wu J(1),
+Salazar AM(4), Celis E(5)(6).
+
+Author information: 
+(1)Augusta University GRU Cancer Center, CN-4121, 1410 Laney Walker Boulevard,
+Augusta, GA, 30912, USA.
+(2)Microbiology and Immunology Department, Faculty of Pharmacy, Cairo University,
+Cairo, Egypt.
+(3)Department of Otolaryngology, Head and Neck Surgery, Asahikawa Medical
+University, Asahikawa, Japan.
+(4)Oncovir, Inc., Washington, DC, 2008, USA.
+(5)Augusta University GRU Cancer Center, CN-4121, 1410 Laney Walker Boulevard,
+Augusta, GA, 30912, USA. ecelis@gru.edu.
+(6)Departments of Medicine and Biochemistry, Augusta University, Augusta, GA,
+30912, USA. ecelis@gru.edu.
+
+The design of efficacious and cost-effective therapeutic vaccines against cancer 
+remains both a research priority and a challenge. For more than a decade, our
+laboratory has been involved in the development of synthetic peptide-based
+anti-cancer therapeutic vaccines. We first dedicated our efforts in the
+identification and validation of peptide epitopes for both CD8 and CD4 T cells
+from tumor-associated antigens (TAAs). Because of suboptimal immune responses and
+lack of therapeutic benefit of peptide vaccines containing these epitopes, we
+have focused our recent efforts in optimizing peptide vaccinations in mouse tumor
+models using numerous TAA epitopes. In this focused research review, we describe 
+how after taking lessons from the immune system's way of dealing with acute viral
+infections, we have designed peptide vaccination strategies capable of generating
+very high numbers of therapeutically effective CD8 T cells. We also discuss some 
+of the remaining challenges to translate these findings into the clinical
+setting.
+
+DOI: 10.1007/s00262-016-1834-5 
+PMCID: PMC5053837
+PMID: 27052572  [Indexed for MEDLINE]

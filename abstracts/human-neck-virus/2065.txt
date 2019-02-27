@@ -1,0 +1,36 @@
+
+
+2065. Acta Otolaryngol. 2014 Dec;134(12):1265-74. doi: 10.3109/00016489.2014.944272.
+
+Clinical characteristics of Japanese oropharyngeal squamous cell carcinoma
+positive for human papillomavirus infection.
+
+Nomura F(1), Sugimoto T, Kitagaki K, Ito T, Kawachi H, Eishi Y, Watanabe K, Igaue
+M, Shimizu N, Tomita M, Kitamura K, Kishimoto S.
+
+Author information: 
+(1)Department of Head and Neck Surgery, Tokyo Medical and Dental University ,
+Tokyo , Japan.
+
+CONCLUSION: Human papillomavirus (HPV)-related oropharyngeal squamous cell
+carcinoma (OPSCC) is considered to be a distinct entity in Japan. The combination
+of both HPV-DNA sequencing analysis and immunohistochemistry (IHC) for p16(INK4A)
+is useful to discriminate the OPSCC patients with a better prognosis from other
+cases, especially in the advanced stage. Surgical treatment is recommended for
+HPV-negative advanced cancer.
+OBJECTIVE: The number of HPV-related OPSCCs has been increasing worldwide.
+However, the incidence and prognostic significance of this cancer in Japan have
+not yet been fully elucidated.
+METHODS: Seventy-seven Japanese patients with OPSCC were enrolled in this study. 
+The prevalence of HPV-DNA was assessed by PCR and sequencing. The expression of
+p16(INK4A) and p53 was examined by IHC. The clinicopathological parameters and
+disease-specific survival were analyzed for HPV-positive and -negative patients.
+RESULTS: HPV-DNA was detected in 32 patients. Thirty-four patients were
+p16(INK4A)-positive by IHC. The patients who were positive for HPV infection were
+significantly younger. Furthermore, in the stage III or IV cases, the 3-year
+disease-specific survival of the HPV infection-positive group was significantly
+better than that of the HPV-negative group. Surgical treatment was demonstrated
+to lead to a good prognosis for the patients with HPV-negative advanced cancer.
+
+DOI: 10.3109/00016489.2014.944272 
+PMID: 25399886  [Indexed for MEDLINE]

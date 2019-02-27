@@ -1,0 +1,54 @@
+
+
+2118. Oral Oncol. 2017 Oct;73:132-137. doi: 10.1016/j.oraloncology.2017.08.014. Epub
+2017 Sep 1.
+
+Pre-diagnostic dynamic HPV16 IgG seropositivity and risk of oropharyngeal cancer.
+
+Anderson KS(1), Wallstrom G(2), Langseth H(3), Posner M(4), Cheng JN(2), Alam
+R(2), Chowell D(5), Furre IE(6), Mork J(7).
+
+Author information: 
+(1)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, AZ, United States. Electronic address:
+Karen.Anderson.1@asu.edu.
+(2)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, AZ, United States.
+(3)Cancer Registry of Norway, Institute of Population-based Cancer Research,;
+Department of Research, Oslo, Norway.
+(4)Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York
+City, NY, United States.
+(5)Center for Personalized Diagnostics, The Biodesign Institute, Arizona State
+University, Tempe, AZ, United States; Simon A. Levin Mathematical, Computational,
+and Modeling Sciences Center, Arizona State University, Tempe, AZ, United States.
+(6)Department of Pathology, Oslo University Hospital, Oslo, Norway.
+(7)Department of Otolaryngology, Oslo University Hospital, Oslo, Norway.
+
+OBJECTIVE: The aim of this study was to determine the association of HPV16
+antibodies (Abs) and oropharyngeal cancer (OPC) risk in sera obtained prior to
+clinical diagnosis.
+METHODS: We identified 92 participants with incident OPC and 460 matched controls
+from the Janus Serum Bank Cohort in Norway. Archived tumor specimens were
+requested for a subset of the cases. Serum samples were collected from cases, on 
+average, 9.3years before diagnosis (range, 0.1-14.9years). Ten cases had serum
+samples from multiple time points. IgG seropositivity to 8 HPV16 antigens was
+determined, and a logistic regression classifier of a panel of all early-antigen 
+(EA) Abs for the predictive diagnosis of OPC was applied.
+RESULTS: HPV16 EA seropositivity was present in 25.0% of patients with OPC and
+7.6% of controls (odds ratio (OR), 4.1; 95% CI, 2.3-7.2, p<0.0001). Abs to E2
+were strongly associated with cases 0-2years pre- diagnosis (OR, 150.1; 95% CI,
+27.4-1040.0, p<0.0001), and the probability of seropositivity was inversely
+associated with time to diagnosis (OR, 0.7 per additional year; 95% CI, 0.6-0.9, 
+p=0.0002). Abs to E2 were also strongly associated with tumor HPV status (OR,
+35.6; 95% CI, 8.7-200.0, p<0.0001). A positive score on the binary classifier was
+associated with an overall OR of 15.8 (95% CI, 5.6-53.4) compared with controls
+(p<0.05), and was strongly associated with tumor HPV status (OR, 27.4; 95% CI,
+8.6-99.6, p<0.001).
+CONCLUSIONS: HPV16 Abs are detectable years prior to diagnosis of OPC, and the
+probability of seropositivity increases closer to diagnosis.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.08.014 
+PMCID: PMC5624546
+PMID: 28939065  [Indexed for MEDLINE]

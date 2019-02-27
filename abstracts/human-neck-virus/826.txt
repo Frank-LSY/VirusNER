@@ -1,0 +1,44 @@
+
+
+826. J Otolaryngol Head Neck Surg. 2017 Feb 13;46(1):11. doi:
+10.1186/s40463-017-0189-z.
+
+Developing a new diagnostic algorithm for human papilloma virus associated
+oropharyngeal carcinoma: an investigation of HPV DNA assays.
+
+Cohen N(1), Gupta M(2), Doerwald-Munoz L(3), Jang D(4), Young JE(2), Archibald
+S(2), Jackson B(2), Lee J(4), Chernesky M(4).
+
+Author information: 
+(1)Department of Surgery, McMaster University, Hamilton, ON, Canada.
+natasha.cohen87@gmail.com.
+(2)Department of Surgery, St Joseph's Healthcare, Hamilton, ON, Canada.
+(3)Department of Radiation Therapy, Juravinski Cancer Centre, Hamilton, ON,
+Canada.
+(4)Department of Microbiology, St Joseph's Healthcare, Hamilton, ON, Canada.
+
+BACKGROUND: Human papilloma virus (HPV) has been implicated in the development of
+a large proportion of oropharyngeal squamous cell carcinoma (OPSCC). Current
+techniques used to diagnose HPV etiology require histopathologic analysis. We aim
+to investigate the diagnostic accuracy of a new application non-histopathologic
+diagnostic tests to help assist diagnosis of HPV-related oropharyngeal tumors.
+METHODS: Patients with OPSCC with nodal metastasis were consecutively recruited
+from a multidisciplinary cancer clinic. Appropriate samples were collected and
+analyzed. The various tests examined included COBAS® 4800, Cervista® HR and
+Genotyping. These tests were compared to p16 staining, which was used as the
+diagnostic standard. StataIC 14.2 was used to perform analysis, including
+sensitivity, specificity and receiver operator characteristic [ROC] curves.
+RESULTS: The COBAS® FNA (area under ROC 0.863) and saliva (area under ROC 0.847) 
+samples performed well in diagnosing HPV positive and negative tumors. Samples
+tested with Cervista® did not corroborate p16 status reliably. We were able to
+increase the diagnostic yield of the COBAS® FNA samples by applying the results
+of the saliva test to negative FNA samples which correctly identified 11
+additional p16 positive tumors (area under ROC 0.915).
+CONCLUSION: Surrogate testing for HPV using alternate methods is feasible and
+closely predicts the results of standard diagnostic methods. In the future, these
+could minimize invasive procedures for diagnosing HPV-related oropharyngeal
+cancer, but also help to diagnose and treat patients with unknown primaries.
+
+DOI: 10.1186/s40463-017-0189-z 
+PMCID: PMC5307773
+PMID: 28193254  [Indexed for MEDLINE]

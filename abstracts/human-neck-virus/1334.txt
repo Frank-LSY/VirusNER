@@ -1,0 +1,76 @@
+
+
+1334. J Biol Chem. 2014 Dec 12;289(50):34921-37. doi: 10.1074/jbc.M114.568543. Epub
+2014 Oct 20.
+
+p16 Protein and gigaxonin are associated with the ubiquitination of NFκB in
+cisplatin-induced senescence of cancer cells.
+
+Veena MS(1), Wilken R(1), Zheng JY(1), Gholkar A(2), Venkatesan N(1), Vira D(3), 
+Ahmed S(4), Basak SK(1), Dalgard CL(5), Ravichandran S(1), Batra RK(6), Kasahara 
+N(7), Elashoff D(7), Fishbein MC(8), Whitelegge JP(9), Torres JZ(10), Wang
+MB(11), Srivatsan ES(12).
+
+Author information: 
+(1)From the Department of Surgery, Veterans Affairs Greater Los Angeles
+Healthcare System/David Geffen School of Medicine at UCLA, Los Angeles,
+California 90073.
+(2)Department of Chemistry and Biochemistry, UCLA, Los Angeles, California 90095.
+(3)From the Department of Surgery, Veterans Affairs Greater Los Angeles
+Healthcare System/David Geffen School of Medicine at UCLA, Los Angeles,
+California 90073, Department of Head and Neck Surgery, David Geffen School of
+Medicine at University of California Los Angeles, Los Angeles, California 90095.
+(4)Department of Head and Neck Surgery, David Geffen School of Medicine at
+University of California Los Angeles, Los Angeles, California 90095.
+(5)Departments of Anatomy, Physiology, and Genetics, Uniformed Services
+University, Bethesda, Maryland 20814.
+(6)Division of Pulmonary and Critical Care Medicine, Department of Medicine,
+Veterans Affairs Greater Los Angeles Healthcare System, Los Angeles, California
+90073, Department of Medicine and Jonsson Comprehensive Cancer Center, UCLA, Los 
+Angeles, California 90095.
+(7)Department of Medicine and.
+(8)Pathology and Laboratory Medicine, David Geffen School of Medicine at
+University of California Los Angeles, Los Angeles, California.
+(9)Department of Psychiatry and Biobehavioral Sciences, UCLA, Los Angeles,
+California 90095, and.
+(10)Department of Chemistry and Biochemistry, UCLA, Los Angeles, California
+90095, Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California 90095.
+(11)From the Department of Surgery, Veterans Affairs Greater Los Angeles
+Healthcare System/David Geffen School of Medicine at UCLA, Los Angeles,
+California 90073, Department of Head and Neck Surgery, David Geffen School of
+Medicine at University of California Los Angeles, Los Angeles, California 90095, 
+Jonsson Comprehensive Cancer Center, UCLA, Los Angeles, California 90095.
+(12)From the Department of Surgery, Veterans Affairs Greater Los Angeles
+Healthcare System/David Geffen School of Medicine at UCLA, Los Angeles,
+California 90073, Jonsson Comprehensive Cancer Center, UCLA, Los Angeles,
+California 90095 esrivats@ucla.edu.
+
+The molecular mechanism of p16-mediated senescence in cisplatin-treated cancer
+cells is not fully understood. Here we show that cisplatin treatment of head and 
+neck cancer cells results in nuclear transport of p16 leading to a molecular
+modification of NFκB. Chromatin immunoprecipitation assays show that this
+modification is associated with the inhibition of NFκB interacting with its DNA
+binding sequences, leading to decreased expression of NFκB-transcribed proteins. 
+LCMS proteomic analysis of LAP-TAP-purified proteins from HeLa cells containing a
+tetracycline-inducible GFP-S peptide-NFκB expression system identified gigaxonin,
+an ubiquitin E3 ligase adaptor, as an NFκB-interacting protein. Immunoblotting
+and siRNA studies confirmed the NFκB-gigaxonin interaction and the dependence of 
+this binding on p16-NFκB binding. Using gel shift assays, we have confirmed
+p16-NFκB and gigaxonin-NFκB interactions. Furthermore, we have observed increased
+NFκB ubiquitination with cisplatin treatment that is abolished in the absence of 
+p16 and gigaxonin expression. Analysis of 103 primary tumors has shown that
+increased nuclear p16 expression correlates with enhanced survival of head and
+neck cancer patients (p < 0.0000542), indicating the importance of nuclear p16
+expression in prognosis. Finally, p16 expression is associated with reduced
+cytokine expression and the presence of human papilloma virus in
+chemoradiation-sensitive basaloid tumors. However, the absence of p16 expression 
+is associated with enhanced cytokine expression and the absence of human
+papilloma virus in aggressive tumors. These results clearly demonstrate that
+nuclear p16 and gigaxonin play an important role in chemosensitivity of head and 
+neck cancers through ubiquitination of NFκB.
+
+© 2014 by The American Society for Biochemistry and Molecular Biology, Inc.
+
+DOI: 10.1074/jbc.M114.568543 
+PMCID: PMC4263890
+PMID: 25331947  [Indexed for MEDLINE]

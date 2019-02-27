@@ -1,0 +1,46 @@
+
+
+12. Arch Pharm Res. 2017 Aug;40(8):894-905. doi: 10.1007/s12272-017-0939-5. Epub 2017
+Aug 4.
+
+DNA hypermethylation induced by Epstein-Barr virus in the development of
+Epstein-Barr virus-associated gastric carcinoma.
+
+Choi SJ(1), Shin YS(2), Kang BW(3), Kim JG(3), Won KJ(4), Lieberman PM(5), Cho
+H(6), Kang H(7).
+
+Author information: 
+(1)College of Pharmacy and Cancer Research Institute and Research Institute of
+Pharmaceutical Sciences, Kyungpook National University, Taegu, Republic of Korea.
+(2)Department of Medicinal Crop Research, National Institute of Horticultural and
+Herbal Science, Rural Development Administration, Eumseong, Republic of Korea.
+(3)Department of Oncology/Hematology, Kyungpook National University Hospital,
+Kyungpook National University School of Medicine, Kyungpook National University
+Cancer Research Institute, Kyungpook National University, Taegu, Republic of
+Korea.
+(4)Department of Genetics, Perelman School of Medicine, The Institute for
+Diabetes Obesity and Metabolism, University of Pennsylvania, Philadelphia, PA,
+USA.
+(5)The Wistar Institute, Philadelphia, PA, USA.
+(6)College of Pharmacy and Innovative Drug Center, Duksung Women's University,
+Seoul, Republic of Korea. hyosun1102@duksung.ac.kr.
+(7)College of Pharmacy and Cancer Research Institute and Research Institute of
+Pharmaceutical Sciences, Kyungpook National University, Taegu, Republic of Korea.
+hkang72@knu.ac.kr.
+
+Epstein-Barr virus (EBV)-associated gastric carcinoma (EBVaGC) is a recently
+recognized disease entity defined by the presence of EBV in gastric carcinoma
+cells. EBV infection causes major epigenetic alterations in the EBV genome and
+its cellular host genome, suggesting that EBV acts as a direct epigenetic driver 
+for EBVaGC. One of the major epigenetic events in the viral and cellular genomes 
+to control transcription is DNA hypo- or hyper-methylation. Particularly, local
+and global hypermethylation have been reported in EBVaGC. It is therefore
+important to understand the molecular mechanisms of DNA hypermethylation during
+EBVaGC carcinogenesis. To understand the functional roles of DNA methylation and 
+suggest therapeutic target candidates for EBVaGC, we reviewed recent literature
+reporting DNA hypermethylation in EBVaGC. We summarized the identified candidate 
+genes that are markedly hypermethylated in EBVaGC, which can potentially be
+targets for chemotherapies with demethylating agents.
+
+DOI: 10.1007/s12272-017-0939-5 
+PMID: 28779374  [Indexed for MEDLINE]

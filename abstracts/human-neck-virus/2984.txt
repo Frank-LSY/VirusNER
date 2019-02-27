@@ -1,0 +1,52 @@
+
+
+2984. Int J Drug Policy. 2017 Aug;46:28-33. doi: 10.1016/j.drugpo.2017.05.005. Epub
+2017 Jun 3.
+
+Injection into the jugular vein among people who inject drugs in the United
+Kingdom: Prevalence, associated factors and harms.
+
+Hope VD(1), Iversen J(2), Cullen KJ(3), Parry JV(3), Maher L(2), Nucbe F(3).
+
+Author information: 
+(1)National Infection Service, Public Health England, London, UK; Public Health
+Institute, Liverpool John Moores University, UK. Electronic address:
+v.d.hope@ljmu.ac.uk.
+(2)Kirby Institute, UNSW, Sydney, Australia.
+(3)National Infection Service, Public Health England, London, UK.
+
+BACKGROUND: While people who inject drugs (PWID) typically use peripheral veins, 
+some inject into their central veins, including the femoral and jugular veins.
+Injection into the jugular vein can have serious adverse health consequences,
+including jugular vein thrombosis, deep neck infections, pneumothorax,
+endocarditis and sepsis. This study examined the prevalence of, and factors
+associated with, jugular vein injection among a large sample of PWID in the
+United Kingdom.
+METHOD: Unlinked anonymous surveys (2011-14) recruited PWID from agencies
+providing services to this population. Self-reported demographic and
+injection-related data were collected from consenting respondents using a brief
+questionnaire and dried blood spot samples were tested for exposure to HIV,
+hepatitis C virus (HCV) and hepatitis B virus (HBV). Univariate and multivariable
+logistic regression were used to examine factors associated with jugular vein
+injection.
+RESULTS: Among 5261 PWID, one third had injected into a central vein in the
+previous 28 days, including 6% (n=339) who had injected into their jugular vein
+and 1% (n=52) who had used this site exclusively for recent injections. Factors
+independently associated with recent jugular vein injection in multivariable
+analysis included female gender, a lifetime history of imprisonment, sharing
+needles and syringes, poly-drug injection and injection into multiple body sites.
+Jugular vein injection was also associated with experiencing injection-related
+injuries, although no associations were identified with respect to exposure to
+blood borne viral infections.
+CONCLUSION: A significant minority of PWID inject into the jugular vein in the
+United Kingdom. Public health responses should investigate ways to support and
+promote good injection site management in order to minimise vascular damage and
+reduce problems with peripheral venous access. Women who inject drugs, PWID with 
+a history of imprisonment and those people who are experiencing early signs of
+injection-related skin and soft tissue injuries are priority sub-populations for 
+interventions.
+
+Crown Copyright © 2017. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.drugpo.2017.05.005 
+PMID: 28586700  [Indexed for MEDLINE]

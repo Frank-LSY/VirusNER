@@ -1,0 +1,47 @@
+
+
+291. Oral Oncol. 2017 Mar;66:9-13. doi: 10.1016/j.oraloncology.2016.12.033. Epub 2017 
+Jan 6.
+
+Transoral robotic surgery for management of cervical unknown primary squamous
+cell carcinoma: Updates on efficacy, surgical technique and margin status.
+
+Geltzeiler M(1), Doerfler S(1), Turner M(1), Albergotti WG(1), Kubik M(1), Kim
+S(1), Ferris R(1), Duvvuri U(2).
+
+Author information: 
+(1)UPMC Department of Otolaryngology/Head and Neck Surgery, University of
+Pittsburgh Medical Center, Pittsburgh, PA, USA.
+(2)UPMC Department of Otolaryngology/Head and Neck Surgery, University of
+Pittsburgh Medical Center, Pittsburgh, PA, USA. Electronic address:
+duvuriu@upmc.edu.
+
+IMPORTANCE: Management of cervical unknown primary squamous cell carcinoma (CUP) 
+has evolved with the introduction of transoral robotic surgery (TORS).
+OBJECTIVES: 1. To describe the efficacy of TORS lingual and palatine
+tonsillectomy in identifying the primary site of malignancy. 2. To explore how
+the extent of surgery affects diagnostic yield. 3. To report margin status of
+TORS resections.
+DESIGN, SETTING AND PARTICIPANTS: A retrospective, single-center cohort study
+utilizing a prospectively collected database of CUP patients in a high-volume
+tertiary referral center. Patient underwent operative laryngoscopy plus TORS as
+clinically indicated.
+MAIN OUTCOMES AND MEASURES: Primary end point was successful identification of
+the primary. The extent of surgery and margin status were also examined.
+RESULTS: From 2010-2016, 64 patients with CUP were treated. The primary tumor was
+found in 51 patients (80%). Fourteen patients (22%) were identified with
+operative laryngoscopy alone. Fifty patients underwent TORS lingual tonsillectomy
+± palatine tonsillectomy with 37 primary tumors identified (74%). The primary was
+located in the lingual tonsil in 32 patients (86%) and palatine tonsil in 5
+patients (10%, p<0.001). Negative margins were achieved in 19 patients (51%). The
+deep margin was the most commonly positive margin (47%, p=0.049).
+CONCLUSION AND RELEVANCE: Operative laryngoscopy with TORS is efficacious,
+localizing the primary in 80% of patients. If a margin was positive, it was most 
+commonly the deep margin. This study provides valuable information that can help 
+standardize surgical technique, further increasing the diagnostic yield and
+decreasing the negative margin rate of TORS for CUP.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.12.033 
+PMID: 28249654  [Indexed for MEDLINE]

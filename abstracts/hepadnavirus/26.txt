@@ -1,0 +1,53 @@
+
+
+26. J Infect. 2017 Jul;75(1):48-58. doi: 10.1016/j.jinf.2017.04.012. Epub 2017 May 5.
+
+Quasispecies characteristics in mother-to-child transmission of hepatitis B virus
+by next-generation sequencing.
+
+Yang G(1), Liu Z(2), Yang J(2), Luo K(2), Xu Y(2), He H(2), Fu Q(2), Yu S(3),
+Wang Z(4).
+
+Author information: 
+(1)State Key Laboratory of Organ Failure Research, Guangdong Provincial Key
+Laboratory of Viral Hepatitis Research, Department of Infectious Diseases,
+Nanfang Hospital, Southern Medical University, Guangzhou, China; Department of
+Epidemiology, School of Public Health and Tropical Medicine, Southern Medical
+University, Guangzhou, China.
+(2)State Key Laboratory of Organ Failure Research, Guangdong Provincial Key
+Laboratory of Viral Hepatitis Research, Department of Infectious Diseases,
+Nanfang Hospital, Southern Medical University, Guangzhou, China.
+(3)Department of Epidemiology, School of Public Health and Tropical Medicine,
+Southern Medical University, Guangzhou, China. Electronic address:
+qingchen@smu.edu.cn.
+(4)State Key Laboratory of Organ Failure Research, Guangdong Provincial Key
+Laboratory of Viral Hepatitis Research, Department of Infectious Diseases,
+Nanfang Hospital, Southern Medical University, Guangzhou, China. Electronic
+address: w851419@yahoo.com.
+
+OBJECTIVES: To identify within-host quasispecies characteristics of hepatitis B
+virus (HBV) in mothers and children infected via mother-to-child transmission
+(MTCT).
+METHODS: Using next-generation sequencing (NGS), we analyzed sequences within the
+non-overlapping pre-core/core (pre-C/C) gene in 37 mother-child pairs.
+RESULTS: Phylogenetic and Highlighter analyses suggested that both a single
+strain and multiple distinct strains may be transmitted in MTCT of HBV. However, 
+analysis of reassembled viral sequences revealed a relatively narrow distribution
+of variants in children, which was confirmed by a lower viral diversity in
+children than that in mothers. New closely related variants with combinations of 
+two to five high-frequency mutations were observed in seven children with
+elevated ALT levels; the new variants out-competed the transmitted maternal
+variants to become the dominant strains in five of them. Furthermore, 30
+mutations with a frequency >1% of all viruses within-host were present in those
+children; the mutations caused 19 amino-acid substitutions. Interestingly, almost
+all were located within the well-known T-cell or B-cell epitopes.
+CONCLUSIONS: There are restrictive changes that occur in the early stages of
+chronic HBV infection through MTCT with different clinical consequences. These
+data might have important implications for future investigations of interrelated 
+immunopathogenesis and therapeutic strategies.
+
+Copyright © 2017 The British Infection Association. Published by Elsevier Ltd.
+All rights reserved.
+
+DOI: 10.1016/j.jinf.2017.04.012 
+PMID: 28483405  [Indexed for MEDLINE]

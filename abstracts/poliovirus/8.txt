@@ -1,0 +1,47 @@
+
+
+8. J Clin Microbiol. 2017 Jul;55(7):2162-2171. doi: 10.1128/JCM.00144-17. Epub 2017 
+May 3.
+
+Detection of Emerging Vaccine-Related Polioviruses by Deep Sequencing.
+
+Sahoo MK(1), Holubar M(2), Huang C(3), Mohamed-Hadley A(1), Liu Y(1), Waggoner
+JJ(2), Troy SB(4), Garcia-Garcia L(5), Ferreyra-Reyes L(5), Maldonado Y(3),
+Pinsky BA(6)(2).
+
+Author information: 
+(1)Department of Pathology, Stanford University School of Medicine, Stanford,
+California, USA.
+(2)Department of Medicine, Division of Infectious Diseases and Geographic
+Medicine, Stanford University School of Medicine, Stanford, California, USA.
+(3)Department of Pediatrics, Division of Infectious Diseases, Stanford University
+School of Medicine, Stanford, California, USA.
+(4)Eastern Virginia Medical School, Norfolk, Virginia, USA.
+(5)Instituto Nacional de Salud Pública, Cuernavaca, Morelos, Mexico.
+(6)Department of Pathology, Stanford University School of Medicine, Stanford,
+California, USA bpinsky@stanford.edu.
+
+Oral poliovirus vaccine can mutate to regain neurovirulence. To date, evaluation 
+of these mutations has been performed primarily on culture-enriched isolates by
+using conventional Sanger sequencing. We therefore developed a
+culture-independent, deep-sequencing method targeting the 5' untranslated region 
+(UTR) and P1 genomic region to characterize vaccine-related poliovirus variants. 
+Error analysis of the deep-sequencing method demonstrated reliable detection of
+poliovirus mutations at levels of <1%, depending on read depth. Sequencing of
+viral nucleic acids from the stool of vaccinated, asymptomatic children and their
+close contacts collected during a prospective cohort study in Veracruz, Mexico,
+revealed no vaccine-derived polioviruses. This was expected given that the
+longest duration between sequenced sample collection and the end of the most
+recent national immunization week was 66 days. However, we identified many
+low-level variants (<5%) distributed across the 5' UTR and P1 genomic region in
+all three Sabin serotypes, as well as vaccine-related viruses with multiple
+canonical mutations associated with phenotypic reversion present at high levels
+(>90%). These results suggest that monitoring emerging vaccine-related poliovirus
+variants by deep sequencing may aid in the poliovirus endgame and efforts to
+ensure global polio eradication.
+
+Copyright © 2017 Sahoo et al.
+
+DOI: 10.1128/JCM.00144-17 
+PMCID: PMC5483918
+PMID: 28468861  [Indexed for MEDLINE]

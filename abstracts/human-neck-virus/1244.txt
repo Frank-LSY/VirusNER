@@ -1,0 +1,41 @@
+
+
+1244. Epigenetics. 2014 Feb;9(2):194-203. doi: 10.4161/epi.26881. Epub 2013 Oct 29.
+
+Differences in methylation profiles between HPV-positive and HPV-negative
+oropharynx squamous cell carcinoma: a systematic review.
+
+van Kempen PM(1), Noorlag R(2), Braunius WW(1), Stegeman I(3), Willems SM(4),
+Grolman W(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery; University Medical
+Center Utrecht; Utrecht; the Netherlands.
+(2)Department of Oral and Maxillofacial Surgery; University Medical Center
+Utrecht; Utrecht, the Netherlands.
+(3)Department of Otorhinolaryngology-Head and Neck Surgery; University Medical
+Center Utrecht; Utrecht; the Netherlands; Brain Center Rudolf Magnus; University 
+Medical Center Utrecht; the Netherlands.
+(4)Department of Pathology; University Medical Center Utrecht; Utrecht, the
+Netherlands; Department of Molecular Carcinogenesis; Netherlands Cancer
+Institute; Amsterdam, the Netherlands.
+
+Oropharyngeal squamous cell carcinoma (OPSCC) is associated with human
+papillomavirus (HPV). HPV-positive OPSCC is considered a distinct molecular
+entity with a better prognosis than HPV-negative cases of OPSCC. However, the
+exact pathogenic mechanisms underlying the differences in clinical and molecular 
+behavior between HPV-positive and HPV-negative OPSCC remain poorly understood.
+Epigenetic events play an important role in the development of cancer.
+Hypermethylation of DNA in promoter regions and global hypomethylation are 2
+epigenetic changes that have been frequently observed in human cancers. It is
+suggested that heterogeneous epigenetic changes play a role in the clinical and
+biological differences between HPV-positive and HPV-negative tumors. Unraveling
+the differences in methylation profiles of HPV-associated OPSCC may provide for
+promising clinical applications and may pave the road for personalized cancer
+treatment. This systematic review aims to assess the current state of knowledge
+regarding differences in promoter hypermethylation and global methylation between
+HPV-positive and HPV-negative OPSCC.
+
+DOI: 10.4161/epi.26881 
+PMCID: PMC3962529
+PMID: 24169583  [Indexed for MEDLINE]

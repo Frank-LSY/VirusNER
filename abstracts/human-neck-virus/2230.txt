@@ -1,0 +1,41 @@
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+2230. Clin Cancer Res. 2010 Feb 1;16(3):1016-24. doi: 10.1158/1078-0432.CCR-09-2796.
+Epub 2010 Jan 26.
+
+Plasma EBV DNA clearance rate as a novel prognostic marker for
+metastatic/recurrent nasopharyngeal carcinoma.
+
+Wang WY(1), Twu CW, Chen HH, Jan JS, Jiang RS, Chao JY, Liang KL, Chen KW, Wu CT,
+Lin JC.
+
+Author information: 
+(1)Department of Nursing, Hung Kuang University,Taiwan.
+
+PURPOSE: To investigate the prognostic effect of the concentrations and clearance
+rates of plasma EBV DNA in metastatic/recurrent nasopharyngeal carcinoma (NPC).
+EXPERIMENTAL DESIGN: Thirty relapsed and four previously nontreated metastatic
+NPC patients were treated according to the consensus guidelines of the head and
+neck cancer team in our hospital (i.v. chemotherapy first, followed by local
+irradiation boost and oral maintenance chemotherapy where applicable). Multiple
+plasma samples were collected during the first month of chemotherapy. Circulating
+EBV DNA concentrations were measured by a real-time quantitative PCR. The
+half-life values (t(1/2)) of plasma EBV DNA clearance were calculated. The
+associations between clinical outcome and plasma EBV DNA assays were analyzed.
+RESULTS: Tumor response evaluated after 12 weeks of treatment showed 14 complete 
+responses (41.2%), 12 partial responses (35.3%), 7 stable diseases (20.6%), and 1
+progression disease (2.9%). The plasma EBV DNA concentrations have no significant
+effects on outcome prediction. The t(1/2) of plasma EBV DNA clearance ranged from
+1.85 to 28.29 days (median, 3.99). Patients with a short t(1/2) of plasma EBV DNA
+clearance have significantly higher complete response rate and overall survival
+than those with long t(1/2). Multivariate analysis revealed a significant effect 
+of the t(1/2) of plasma EBV DNA clearance on survival.
+CONCLUSIONS: The clearance rates of plasma EBV DNA during the first month of
+chemotherapy can predict tumor response and patient survival. Early change of
+chemotherapy regimen may be considered for patients with slow plasma EBV DNA
+clearance rate.
+
+DOI: 10.1158/1078-0432.CCR-09-2796 
+PMID: 20103659  [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+
+
+1727. Biomed Res Int. 2018 Aug 30;2018:7087586. doi: 10.1155/2018/7087586. eCollection 
+2018.
+
+Characterization of Detailed Audiological Features of Cytomegalovirus Infection: 
+A Composite Cohort Study from Groups with Distinct Demographics.
+
+Kim BJ(1), Han JJ(2), Shin SH(3), Kim HS(3), Yang HR(4), Choi EH(3), Chang MY(5),
+Lee SY(6), Suh MW(6), Koo JW(2), Lee JH(6), Choi BY(2), Oh SH(6).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Chungnam National
+University, College of Medicine, Daejeon 35015, Republic of Korea.
+(2)Department of Otolaryngology, Seoul National University Bundang Hospital,
+Seoul National University, College of Medicine, Seongnam 13620, Republic of
+Korea.
+(3)Department of Pediatrics, Seoul National University Hospital, Seoul National
+University, College of Medicine, Seoul 03080, Republic of Korea.
+(4)Department of Pediatrics, Seoul National University Bundang Hospital, Seoul
+National University, College of Medicine, Seongnam 13620, Republic of Korea.
+(5)Department of Otolaryngology, Chung-Ang University, College of Medicine, Seoul
+06973, Republic of Korea.
+(6)Department of Otolaryngology, Seoul National University Hospital, Seoul
+National University, College of Medicine, Seoul 03080, Republic of Korea.
+
+Congenital cytomegalovirus (cCMV) infection is a common congenital infection that
+causes sensorineural hearing loss (SNHL). Despite its substantial impact on
+public health and cost burden, epidemiology and clinical features of CMV-related 
+SNHL have never been reported in the Korean populations. This study investigated 
+the detailed audiologic phenotypes of cCMV infection to see if a specific SNHL
+pattern is associated with a particular clinical setting. A total of 38 patients 
+with cCMV infection were studied retrospectively. Patients were classified into
+three groups with distinct demographics: clinically driven diagnosis (n=17),
+routine newborn CMV screening according to the NICU protocols (n=10), or referral
+to ENT for cochlear implant (CI) (n=11). The incidence of cCMV infection was
+3.6%, showing 33.3% of SNHL among cCMV patients, 38% of asymmetric hearing loss, 
+29% of late-onset hearing loss, and diverse severity spectrum in patients with
+CMV-related SNHL. CI recipients with CMV-related SNHL showed a significantly
+improved speech perception. Surprisingly, in 36.4 % of CI implantees, initial
+audiological manifestation was significant asymmetry of hearing thresholds
+between both ears, with better ear retaining significant residual hearing up to
+50dB. CMV turns out to be a significant etiology of SNHL, first to date reported 
+in the Korean pediatric population. Analysis of audiologic phenotypes showed a
+very wide spectrum of SNHL and favorable CI outcomes in case of profound
+deafness. Especially for the patients with asymmetric hearing loss, close
+surveillance of hearing should be warranted and CI could be considered on the
+worse side first, based on the observation of rapid progression to profound
+deafness of better side.
+
+DOI: 10.1155/2018/7087586 
+PMCID: PMC6136484
+PMID: 30228987  [Indexed for MEDLINE]

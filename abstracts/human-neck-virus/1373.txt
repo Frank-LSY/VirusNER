@@ -1,0 +1,59 @@
+
+
+1373. Laryngoscope. 2018 Sep;128(9):2076-2083. doi: 10.1002/lary.27131. Epub 2018 Feb
+26.
+
+Unilateral radiotherapy treatment for p16/human papillomavirus-positive squamous 
+cell carcinoma of unknown primary in the head and neck.
+
+Tiong A(1), Rischin D(2)(3), Young RJ(4), Herschtal A(5), Solomon B(2)(3),
+D'Costa I(1), Fua T(1), Liu C(1), Coleman A(1), Kleid S(6), Dixon BJ(6)(7), Corry
+J(3)(8).
+
+Author information: 
+(1)Department of Radiation Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Victoria, Australia.
+(2)Department of Medical Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Victoria, Australia.
+(3)University of Melbourne, Parkville, Victoria, Australia.
+(4)Molecular Therapeutics and Biomarkers Laboratory, Peter MacCallum Cancer
+Centre, Melbourne, Victoria, Australia.
+(5)Department of Biostatistics and Clinical Trials, Peter MacCallum Cancer
+Centre, Melbourne, Victoria, Australia.
+(6)Department of Surgical Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Victoria, Australia.
+(7)Department of Surgery, University of Melbourne, St. Vincent's Hospital,
+Fitzroy, Victoria, Australia.
+(8)GenesisCare Radiation Oncology Centre, St Vincent's Hospital, Fitzroy,
+Victoria, Australia.
+
+OBJECTIVES/HYPOTHESIS: The outcomes of unilateral radiotherapy treatment for
+patients with p16/HPV-positive squamous cell carcinomas of unknown primary
+(SCCUP) affecting cervical lymph nodes are under-reported. Compared to radiating 
+large volumes of the pharyngeal axis (the more common approach), this is
+potentially a much less toxic treatment for a good prognosis group.
+STUDY DESIGN: Retrospective cohort study.
+METHODS: We identified patients with SCCUP who were treated radically at our
+center and did not have parotid or isolated level IV or V nodal involvement.
+Failure-free and overall survivals were calculated using Kaplan-Meier methods.
+RESULTS: From 2004 to 2012, there were 49 radically treated patients with SCCUP. 
+Fourteen patients had bilateral neck treatment (they had bilateral nodal disease 
+or suspected lesions in the base of tongue, though not proven with biopsy), two
+had surgery alone, whereas 33 had unilateral radiotherapy (after neck dissection,
+excisional biopsy, or definitively with concurrent chemotherapy). Of the 33
+patients, 21 tested positive to p16/HPV and had median follow-up of 57 months. In
+this group, no isolated contralateral neck failures or putative primaries
+emerged. There was 1/21 (4.3%) ipsilateral neck failure, 1/21 (4.3%) concurrent
+contralateral neck and distant failure, and 1/21 (4.3%) patient with distant
+failure. The 5-year freedom from failure was 78% (95% confidence interval [CI]:
+56%-100%) and overall survival was 90% (95% CI: 79%-100%).
+CONCLUSIONS: With no emergence of putative primaries and no isolated
+contralateral neck failures, this single-institution experience in
+p16/HPV-positive SCCUP patients suggests that unilateral radiotherapy may be an
+underutilized management strategy.
+LEVELS OF EVIDENCE: 4 Laryngoscope, 128:2076-2083, 2018.
+
+© 2018 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.27131 
+PMID: 29481710  [Indexed for MEDLINE]

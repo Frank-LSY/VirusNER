@@ -1,0 +1,36 @@
+
+Conflict of interest statement: The authors of this article and the planning
+committee members and staff have no relevant financial relationships with
+commercial interests to disclose.
+
+
+2712. Oncogene. 2009 Nov 12;28(45):3960-70. doi: 10.1038/onc.2009.251. Epub 2009 Sep 7.
+
+Impaired PTPN13 phosphatase activity in spontaneous or HPV-induced squamous cell 
+carcinomas potentiates oncogene signaling through the MAP kinase pathway.
+
+Hoover AC(1), Strand GL, Nowicki PN, Anderson ME, Vermeer PD, Klingelhutz AJ,
+Bossler AD, Pottala JV, Hendriks WJ, Lee JH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Roy J. and Lucille A.
+Carver College of Medicine, University of Iowa, Iowa City, IA, USA.
+
+Human papillomaviruses (HPVs) are a causative factor in over 90% of cervical and 
+25% of head and neck squamous cell carcinomas (HNSCCs). The C terminus of the
+high-risk HPV 16 E6 oncoprotein physically associates with and degrades a
+non-receptor protein tyrosine phosphatase (PTPN13), and PTPN13 loss synergizes
+with H-Ras(V12) or ErbB2 for invasive growth in vivo. Oral keratinocytes that
+have lost PTPN13 and express H-Ras(V12) or ErbB2 show enhanced Ras/RAF/MEK/Erk
+signaling. In co-transfection studies, wild-type PTPN13 inhibited Ras/RAF/MEK/Erk
+signaling in HEK 293 cells that overexpress ErbB2, EGFR or H-Ras(V12), whereas an
+enzymatically inactive PTPN13 did not. Twenty percent of HPV-negative HNSCCs had 
+PTPN13 phosphatase mutations that did not inhibit Ras/RAF/MEK/Erk signaling.
+Inhibition of Ras/RAF/MEK/Erk signaling using MEK inhibitor U0126 blocked
+anchorage-independent growth in cells lacking PTPN13. These findings show that
+PTPN13 phosphatase activity has a physiologically significant role in regulating 
+MAP kinase signaling.
+
+DOI: 10.1038/onc.2009.251 
+PMCID: PMC2785129
+PMID: 19734941  [Indexed for MEDLINE]

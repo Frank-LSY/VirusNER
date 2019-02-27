@@ -1,0 +1,44 @@
+
+
+1958. Hum Pathol. 2018 Feb;72:45-51. doi: 10.1016/j.humpath.2017.10.021. Epub 2017 Oct 
+28.
+
+Eps8 expression is significantly lower in p16+ head and neck squamous cell
+carcinomas (HNSCCs) compared with p16- HNSCCs.
+
+Nasri E(1), Wiesen LB(1), Knapik JA(1), Fredenburg KM(2).
+
+Author information: 
+(1)University of Florida College of Medicine, Department of Pathology,
+Immunology, and Laboratory Medicine, Gainesville, FL 32610.
+(2)University of Florida College of Medicine, Department of Pathology,
+Immunology, and Laboratory Medicine, Gainesville, FL 32610. Electronic address:
+kfredenburg@ufl.edu.
+
+In vitro head and neck cancer studies have demonstrated that epidermal growth
+factor receptor kinase substrate 8 (Eps8) overexpression contributes to squamous 
+carcinogenesis. Oral squamous cell carcinoma studies have correlated Eps8
+expression with metastatic disease and poor prognosis. Head and neck squamous
+cell carcinoma (HNSCC) studies comparing its expression by anatomic site or in in
+vivo regional metastases have not been performed. In this study, we compared Eps8
+expression in HNSCCs arising in the oral cavity (OCSCC) and oropharynx (OPSCC)
+along with their corresponding regional lymph node (LN) metastases. We then
+correlated our findings with clinicopathologic data including
+tumor-node-metastasis stage, p16 status, age, sex, and smoking and alcohol
+history. Eps8 immunohistochemistry was performed on 69 archived OCSCCs and
+OPSCCs, and 24 paired and 4 unpaired LNs. Expression was scored from 0 to 3. Eps8
+expression was detected in 49% of combined OCSCC and OPSCC cases. We found that
+expression correlated with advanced tumor stage (P = .022) and p16 status (P =
+.032) but not with anatomic site. Notably, p16+ HNSCCs had significantly lower
+Eps8 expression than p16- HNSCCs. No significant difference was observed between 
+primary HNSCCs and their corresponding metastatic LNs. Neither p16 status nor
+anatomic site influenced Eps8 expression in regional LN metastases. In
+conclusion, our data offer in vivo support that, in HNSCCs, Eps8 is involved in
+tumor invasion but not necessarily the development of regional LN metastasis. The
+association between low Eps8 expression and p16+ HNSCCs suggests that alternative
+signaling pathways may be used for their tumorigenesis.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.humpath.2017.10.021 
+PMID: 29107665  [Indexed for MEDLINE]

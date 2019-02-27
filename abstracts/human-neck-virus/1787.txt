@@ -1,0 +1,35 @@
+
+
+1787. J Clin Pathol. 2015 Oct;68(10):849-52. doi: 10.1136/jclinpath-2015-202947. Epub
+2015 Jul 7.
+
+Population-based p16 and HPV positivity rates in oropharyngeal cancer in
+Southeast Scotland.
+
+Wells LA(1), Junor EJ(1), Conn B(2), Pattle S(3), Cuschieri K(3).
+
+Author information: 
+(1)Department of Oncology, Western General Hospital, Edinburgh, UK.
+(2)Department of Pathology, Royal Infirmary of Edinburgh, Edinburgh, UK.
+(3)Scottish Reference HPV Laboratory, Royal Infirmary of Edinburgh, Edinburgh,
+UK.
+
+We assessed a population-based cohort of patients diagnosed with oropharyngeal
+squamous cell carcinoma in Southeast Scotland over 13 months. p16 and human
+papilloma virus (HPV) expression were determined, and correlated with stage,
+treatment, smoking and alcohol history, and disease outcomes. Retrospective
+analysis was performed on 60 patients. p16 immunohistochemistry and HPV
+genotyping were performed on formalin-fixed paraffin-embedded tissues. HPV
+infection (as defined by p16 positivity and/or HPV PCR positivity) was identified
+in 57% of samples, while dual positives were detected in 45% of cases. HPV16 was 
+most prevalent of the HPV types and was associated with 90% of positive samples. 
+Cause-specific 1-year and 2-year survivals were 82.5% and 78.2%, respectively.
+The p16-positive and HPV-positive groups demonstrated significantly increased
+cause-specific survival in comparison with their negative counterparts.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+DOI: 10.1136/jclinpath-2015-202947 
+PMID: 26152733  [Indexed for MEDLINE]

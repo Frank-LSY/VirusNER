@@ -1,0 +1,42 @@
+
+
+345. J Clin Virol. 2015 Jan;62:106-9. doi: 10.1016/j.jcv.2014.11.002. Epub 2014 Nov 8.
+
+Human parechovirus as a minor cause of acute otitis media in children.
+
+Sillanpää S(1), Oikarinen S(2), Sipilä M(3), Seppälä E(4), Nurminen N(2),
+Rautiainen M(3), Laranne J(3), Hyöty H(5).
+
+Author information: 
+(1)Department of Anatomy, School of Medicine, University of Tampere, 33520
+Tampere, Finland; Department of Otorhinolaryngology, Head and Neck Surgery,
+Tampere University Hospital and School of Medicine, University of Tampere, 33520 
+Tampere, Finland. Electronic address: saara.sillanpaa@uta.fi.
+(2)Department of Virology, School of Medicine, University of Tampere, 33520
+Tampere, Finland.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, Tampere University
+Hospital and School of Medicine, University of Tampere, 33520 Tampere, Finland.
+(4)Department of Dermatology, Tampere University Hospital, 33520 Tampere,
+Finland.
+(5)Department of Virology, School of Medicine, University of Tampere, 33520
+Tampere, Finland; Fimlab Laboratories, Pirkanmaa Hospital District, 33520
+Tampere, Finland.
+
+Human parechoviruses (HPeVs) cause mild upper respiratory infections,
+gastrointestinal symptoms, central nervous system infections and some studies
+have linked them with acute otitis media (AOM). The aim of the present study was 
+to study further the role of HPeV infections in AOM by detecting these viruses
+directly from middle ear fluid (MEF), respiratory and stool samples collected
+from children during AOM episodes. A total of 91 MEF samples, 98 nasal swab (NS) 
+samples and 92 stool samples were collected during 100 AOM episodes in a total of
+87 children aged between five to 42 months. All specimens were analyzed by real
+time RT-PCR for the presence of HPeV RNA. HPeV infection was diagnosed in 12
+(14%) patients. HPeV RNA was detected in altogether 13 samples, including four
+MEF samples, three NS samples and six stool samples. One patient was positive in 
+both stool and MEF samples. The results suggest that HPeV may play a role in some
+AOM cases, but it is not a major cause of AOM in children.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2014.11.002 
+PMID: 25464964  [Indexed for MEDLINE]

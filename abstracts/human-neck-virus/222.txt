@@ -1,0 +1,54 @@
+
+
+222. Laryngoscope. 2017 Jun;127(6):1328-1333. doi: 10.1002/lary.26439. Epub 2016 Dec
+1.
+
+Incidence of contralateral-bilateral nodes in the human papillomavirus era.
+
+Tritter AG(1), Mehta V(1)(2), Samuelson M(1), deGravelle G(3), Ma X(1),
+Medlin-Moore T(1), Takalkar A(4), Caldito G(3), Nathan CO(1)(2).
+
+Author information: 
+(1)Department of Otolaryngology, Louisiana State University Health Sciences
+Center, Shreveport, Louisiana, U.S.A.
+(2)Department of Surgery, Overton-Brooks VA Medical Center, Shreveport,
+Louisiana, U.S.A.
+(3)School of Medicine, Louisiana State University Health Sciences Center,
+Shreveport, Louisiana, U.S.A.
+(4)Department of Radiology, Louisiana State University Health Sciences Center,
+Shreveport, Louisiana, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: HPV-positive oropharyngeal squamous cell carcinoma has a
+more favorable prognosis when compared to HPV-negative disease, regardless of the
+presence of nodal metastases. However, the importance of contralateral neck
+treatment based on HPV status has not been well studied. Given the historically
+poor prognostic implications of cervical nodal metastases, this study sought to
+elucidate the relationship between HPV status and contralateral/bilateral nodal
+metastasis in patients with oropharyngeal squamous cell carcinoma.
+STUDY DESIGN: Retrospective cohort analysis.
+METHODS: Data were collected on patients with oropharyngeal squamous cell
+carcinoma from 2001 to 2014. Nodal status was determined by contrast-enhanced
+computed tomography, positron emission tomography, or surgical pathology when
+available. Survival rates and associations between HPV status and
+demographic/tumor characteristics were assessed.
+RESULTS: Of 178 total patients, 46 (26.0%) had contralateral/bilateral
+metastases. There was no significant difference in incidence of
+contralateral/bilateral nodal metastases between HPV-positive and HPV-negative
+patients (24.6% vs. 29.1%, P = .53). Tonsil primaries had significantly lower
+incidence of contralateral/bilateral nodal metastases compared to tongue base
+(20.9% vs. 34.3%, P = .048). On multivariate regression, tumor size was the only 
+factor associated with contralateral/bilateral nodal metastases (T4 vs. T1-3 odds
+ratio = 5.15, 95% confidence interval: 2.4-11.2). Five-year overall survival
+among all patients with and without contralateral/bilateral nodal metastases was 
+45.4% and 65.2%, respectively (P = .007).
+CONCLUSIONS: Our results did not show a significantly different incidence of
+contralateral/bilateral nodal metastases between HPV-positive and HPV-negative
+patients. T4 stage and tongue base location, however, were associated with
+contralateral disease. These data suggest treatment of bilateral necks might be
+warranted in these cases, regardless of HPV status.
+LEVEL OF EVIDENCE: 4 Laryngoscope, 127:1328-1333, 2017.
+
+© 2016 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26439 
+PMID: 27905120  [Indexed for MEDLINE]

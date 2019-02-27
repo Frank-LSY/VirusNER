@@ -1,0 +1,39 @@
+
+
+145. Virus Res. 2017 Mar 2;231:41-49. doi: 10.1016/j.virusres.2016.11.006. Epub 2016
+Nov 9.
+
+Modulation of the DNA damage response during the life cycle of human
+papillomaviruses.
+
+Anacker DC(1), Moody CA(2).
+
+Author information: 
+(1)Lineberger Comprehensive Cancer Center and the Department of Microbiology and 
+Immunology, University of North Carolina at Chapel Hill, NC, USA.
+(2)Lineberger Comprehensive Cancer Center and the Department of Microbiology and 
+Immunology, University of North Carolina at Chapel Hill, NC, USA. Electronic
+address: camoody@med.unc.edu.
+
+Human papillomavirus (HPV) is the most common sexually transmitted viral
+infection. Infection with certain types of HPV pose a major public health risk as
+these types are associated with multiple human cancers, including cervical
+cancer, other anogenital malignancies and an increasing number of head and neck
+cancers. The HPV life cycle is closely tied to host cell differentiation with
+late viral events such as structural gene expression and viral genome
+amplification taking place in the upper layers of the stratified epithelium. The 
+DNA damage response (DDR) is an elaborate signaling network of proteins that
+regulate the fidelity of replication by detecting, signaling and repairing DNA
+lesions. ATM and ATR are two kinases that are major regulators of DNA damage
+detection and repair. A multitude of studies indicate that activation of the ATM 
+(Ataxia telangiectasia mutated) and ATR (Ataxia telangiectasia and Rad3-related) 
+pathways are critical for HPV to productively replicate. This review outlines how
+HPV interfaces with the ATM- and ATR-dependent DNA damage responses throughout
+the viral life cycle to create an environment supportive of viral replication and
+how activation of these pathways could impact genomic stability.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2016.11.006 
+PMCID: PMC5325762
+PMID: 27836727  [Indexed for MEDLINE]

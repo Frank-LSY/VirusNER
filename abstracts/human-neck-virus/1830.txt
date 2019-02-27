@@ -1,0 +1,46 @@
+
+
+1830. J Oral Pathol Med. 2018 Apr;47(4):396-402. doi: 10.1111/jop.12687. Epub 2018 Feb 
+20.
+
+Type-specific persistence and clearance rates of HPV genotypes in the oral and
+oropharyngeal mucosa in an HIV/AIDS cohort.
+
+Castillejos-García I(1), Ramírez-Amador VA(1), Carrillo-García A(2),
+García-Carrancá A(2), Lizano M(2), Anaya-Saavedra G(1).
+
+Author information: 
+(1)Oral Pathology and Medicine Postgraduate Program, Universidad Autónoma
+Metropolitana, Mexico City, Mexico.
+(2)Biomedical Research Unit, Instituto Nacional de Cancerología (INCan)/Instituto
+de Investigaciones Biomédicas, UNAM, México City, Mexico.
+
+BACKGROUND: Oral high-risk human papillomavirus (HR-HPV) infections are frequent 
+and persistent among the HIV-positive population and are associated with an
+increased risk for head and neck cancer (HNC). In this study, we sought to
+determine the incidence, persistence and clearance of HPV infections in oral and 
+oropharyngeal samples from HIV/AIDS subjects.
+METHODS: A longitudinal, observational and analytical study was performed with an
+ongoing cohort of HIV/AIDS subjects in Mexico City (September 2013-February
+2015). The study was approved by institutional committees, and demographic and
+clinical data were registered. At the baseline and three-month visits, oral
+examinations and cytobrush samples were obtained. DNA was purified, quantified
+and used to detect an HPV-L1 gene fragment by nested PCR, using MY09/MY11 and GP5
++ /GP6 + primers. HPV DNA products were purified, sequenced and typed according
+to HPV databases. Risk factors were assessed, and a multivariate modelling
+approach was used to determine independent effects.
+RESULTS: This study included 97 HIV/AIDS individuals (91% men [86.4% of which are
+men who have sex with men], median age: 36 years, 72.2% under HAART). From the
+baseline visit, HPV was observed in 55.7% (HR-HPV: 26.8%; HPV-18: 24.1%), with a 
+higher HPV-positive samples for smokers (61.1 vs 32.6%, P = .005). The
+three-month overall HPV incidence was 33.9%; type-specific HPV persistence was
+33.3% (HR-HPV: 13.3%); and 13 of the 33 (39.4%) baseline HPV-positive individuals
+cleared the infection (HR-HPV: 53.8%).
+CONCLUSIONS: Although HR-HPV persistence was low, and clearance of the infection 
+was observed in most cases, a close follow-up is necessary, given the increase in
+HNC among HIV-subjects, particularly HPV-related cancer.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12687 
+PMID: 29380908  [Indexed for MEDLINE]

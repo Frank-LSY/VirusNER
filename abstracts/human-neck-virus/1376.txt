@@ -1,0 +1,60 @@
+
+
+1376. Med Oncol. 2016 Aug;33(8):83. doi: 10.1007/s12032-016-0800-6. Epub 2016 Jun 27.
+
+Effect of human papillomavirus 16 oncoproteins on oncostatin M upregulation in
+oral squamous cell carcinoma.
+
+Chuerduangphui J(1)(2), Pientong C(1)(2), Chaiyarit P(3)(4), Patarapadungkit
+N(5)(2), Chotiyano A(6)(2), Kongyingyoes B(7), Promthet S(8)(2), Swangphon
+P(1)(2), Wongjampa W(1)(2), Ekalaksananan T(9)(10).
+
+Author information: 
+(1)Department of Microbiology, Faculty of Medicine, Khon Kaen University, Khon
+Kaen, Thailand.
+(2)HPV & EBV and Carcinogenesis Research Group, Khon Kaen University, Khon Kaen, 
+Thailand.
+(3)Department of Oral Diagnosis, Faculty of Dentistry, Khon Kaen University, Khon
+Kaen, Thailand.
+(4)Research Group of Chronic Inflammatory Oral Diseases and Systemic Diseases
+Associated with Oral Health, Faculty of Dentistry, Khon Kaen University, Khon
+Kaen, Thailand.
+(5)Department of Pathology, Faculty of Medicine, Khon Kaen University, Khon Kaen,
+Thailand.
+(6)Anatomical Pathology Unit, Khon Kaen Hospital, Khon Kaen, Thailand.
+(7)Department of Pharmacology, Faculty of Medicine, Khon Kaen University, Khon
+Kaen, Thailand.
+(8)Department of Epidemiology, Faculty of Public Health, Khon Kaen University,
+Khon Kaen, Thailand.
+(9)Department of Microbiology, Faculty of Medicine, Khon Kaen University, Khon
+Kaen, Thailand. tipeka@kku.ac.th.
+(10)HPV & EBV and Carcinogenesis Research Group, Khon Kaen University, Khon Kaen,
+Thailand. tipeka@kku.ac.th.
+
+Human papillomavirus (HPV) infection modulates several host cytokines
+contributing to cancer development. Oncostatin M (OSM), an IL-6 family cytokine, 
+acts to promote cell senescence and inhibit growth. Its dysregulation promotes
+cell survival, cell proliferation and metastasis in various malignancies. The
+effect of HPV on OSM dysregulation has not been investigated. To elucidate this, 
+immunohistochemistry was used on formalin-fixed, paraffin-embedded oral squamous 
+cell carcinoma (OSCC) tissues: HPV-positive (50) and HPV-negative (50) cases.
+Immortalized human cervical keratinocytes expressing HPV16E6 (HCK1T, Tet-On
+system) were used to demonstrate the role of HPV16E6 in OSM expression. In
+addition, a vector containing HPV16E6/E7 was transiently transfected into oral
+cancer cell lines. Cell viability, cell-cycle progression and cell migration were
+evaluated using flow cytometry and a wound healing assay, respectively. The
+results showed various intensities of OSM expression in OSCC. Interestingly, the 
+median percentages of strongly stained cells were significantly higher in
+HPV-positive OSCCs than in HPV-negative OSCCs. To explore the role of HPV
+oncoproteins on OSM expression, the expression of HPV16E6 in the HCK1T Tet-On
+condition was induced by doxycycline and HPV16E6 was found to significantly
+upregulate levels of OSM mRNA and protein, with concomitant upregulation of
+c-Myc. In addition, the levels of OSM mRNA and protein in E6/E7 transiently
+transfected oral cancer cells also gradually increased in a time-dependent manner
+and these transfected cells showed greater viability and higher migration rates
+and cell-cycle progression than controls. This result demonstrates that HPV16
+oncoproteins upregulate OSM and play an important role to promote OSCC
+development.
+
+DOI: 10.1007/s12032-016-0800-6 
+PMID: 27349249  [Indexed for MEDLINE]

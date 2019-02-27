@@ -1,0 +1,43 @@
+
+
+1146. Curr Opin Otolaryngol Head Neck Surg. 2014 Apr;22(2):90-4. doi:
+10.1097/MOO.0000000000000030.
+
+What are the implications of human papillomavirus status in oropharyngeal tumors 
+for clinical practice?
+
+Klozar J(1), Tachezy R.
+
+Author information: 
+(1)aDepartment of Otorhinolaryngology and Head and Neck Surgery, Faculty of
+Medicine, Charles University in Prague, Motol University Hospital bDepartment of 
+Experimental Virology, Institute of Hematology and Blood Transfusion, Prague,
+Czech Republic.
+
+PURPOSE OF REVIEW: Human papillomavirus (HPV) status itself is an important and
+very probably the strongest prognostic factor in head and neck cancer. Because of
+the prognostic advantage of patients with HPV-positive cancers, the issue of the 
+quality of life of survivors has become increasingly important. The possibility
+of treatment de-escalation in patients with virally induced tumors is being
+considered. Many challenges have to be addressed in order to integrate HPV status
+in the routine decision-making in patients with oropharyngeal cancer. The present
+review discusses the standardization of detection methods suitable for clinical
+use and the differences in predictive parameters between patients with
+HPV-positive and HPV-negative tumors.
+RECENT FINDINGS: The gold standard for the identification of patients with
+oropharyngeal tumors etiologically linked to HPV infection is undoubtedly the
+detection of HPV 16 E6/E7 mRNA. The detection of a surrogate marker of active
+viral infection, p16ink4a, has a low sensitivity when used alone and must
+therefore be combined with the detection of HPV DNA or HPV-specific antibodies.
+The detailed knowledge of the importance of specific prognostic parameters is
+crucial in the choice of treatment. Nodal staging is probably much less important
+in HPV-positive cancers.
+SUMMARY: It is of great importance to implement standardized testing for the
+identification of patients with HPV-induced oropharyngeal tumors. The treatment
+decision models in HPV-positive tumors have to take into account the probably
+different prognostic value of nodal parameters. Before introducing treatment
+de-escalation in patients with virally induced tumors into clinical practice,
+more research and clinical studies are needed.
+
+DOI: 10.1097/MOO.0000000000000030 
+PMID: 24492854  [Indexed for MEDLINE]

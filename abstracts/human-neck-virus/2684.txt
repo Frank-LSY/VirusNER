@@ -1,0 +1,72 @@
+
+
+2684. Lancet Oncol. 2017 Jun;18(6):803-811. doi: 10.1016/S1470-2045(17)30246-2. Epub
+2017 Apr 20.
+
+Reduced-dose radiotherapy for human papillomavirus-associated squamous-cell
+carcinoma of the oropharynx: a single-arm, phase 2 study.
+
+Chen AM(1), Felix C(2), Wang PC(2), Hsu S(2), Basehart V(2), Garst J(2), Beron
+P(2), Wong D(3), Rosove MH(3), Rao S(4), Melanson H(4), Kim E(5), Palmer D(4), Qi
+L(6), Kelly K(5), Steinberg ML(2), Kupelian PA(2), Daly ME(4).
+
+Author information: 
+(1)Department of Radiation Oncology, University of California, Los Angeles, David
+Geffen School of Medicine, Los Angeles, CA, USA. Electronic address:
+achen5@kumc.edu.
+(2)Department of Radiation Oncology, University of California, Los Angeles, David
+Geffen School of Medicine, Los Angeles, CA, USA.
+(3)Department of Internal Medicine, Division of Hematology and Oncology,
+University of California, Los Angeles, David Geffen School of Medicine, Los
+Angeles, CA, USA.
+(4)Department of Radiation Oncology, University of California, Davis, School of
+Medicine, Sacramento, CA, USA.
+(5)Department of Internal Medicine, Division of Hematology and Oncology,
+University of California, Davis, School of Medicine, Sacramento, CA, USA.
+(6)Department of Public Health Sciences, Division of Biostatistics, University of
+California, Davis, School of Medicine, Sacramento, CA, USA.
+
+Comment in
+    Lancet Oncol. 2017 Jun;18(6):704-705.
+    Lancet Oncol. 2017 Aug;18(8):e425.
+    Lancet Oncol. 2017 Aug;18(8):e426.
+
+BACKGROUND: Head and neck cancers positive for human papillomavirus (HPV) are
+exquisitely radiosensitive. We investigated whether chemoradiotherapy with
+reduced-dose radiation would maintain survival outcomes while improving
+tolerability for patients with HPV-positive oropharyngeal carcinoma.
+METHODS: We did a single-arm, phase 2 trial at two academic hospitals in the USA,
+enrolling patients with newly diagnosed, biopsy-proven stage III or IV
+squamous-cell carcinoma of the oropharynx, positive for HPV by p16 testing, and
+with Zubrod performance status scores of 0 or 1. Patients received two cycles of 
+induction chemotherapy with 175 mg/m2 paclitaxel and carboplatin (target area
+under the curve of 6) given 21 days apart, followed by intensity-modulated
+radiotherapy with daily image guidance plus 30 mg/m2 paclitaxel per week
+concomitantly. Complete or partial responders to induction chemotherapy received 
+54 Gy in 27 fractions, and those with less than partial or no responses received 
+60 Gy in 30 fractions. The primary endpoint was progression-free survival at 2
+years, assessed in all eligible patients who completed protocol treatment. This
+study is registered with ClinicalTrials.gov, numbers NCT02048020 and NCT01716195.
+FINDINGS: Between Oct 4, 2012, and March 3, 2015, 45 patients were enrolled with 
+a median age of 60 years (IQR 54-67). One patient did not receive treatment and
+44 were included in the analysis. 24 (55%) patients with complete or partial
+responses to induction chemotherapy received 54 Gy radiation, and 20 (45%) with
+less than partial responses received 60 Gy. Median follow-up was 30 months (IQR
+26-37). Three (7%) patients had locoregional recurrence and one (2%) had distant 
+metastasis; 2-year progression-free survival was 92% (95% CI 77-97). 26 (39%) of 
+44 patients had grade 3 adverse events, but no grade 4 events were reported. The 
+most common grade 3 events during induction chemotherapy were leucopenia (17
+[39%]) and neutropenia (five [11%]), and during chemoradiotherapy were dysphagia 
+(four [9%]) and mucositis (four [9%]). One (2%) of 44 patients was dependent on a
+gastrostomy tube at 3 months and none was dependent 6 months after treatment.
+INTERPRETATION: Chemoradiotherapy with radiation doses reduced by 15-20% was
+associated with high progression-free survival and an improved toxicity profile
+compared with historical regimens using standard doses. Radiotherapy
+de-escalation has the potential to improve the therapeutic ratio and long-term
+function for these patients.
+FUNDING: University of California.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(17)30246-2 
+PMID: 28434660  [Indexed for MEDLINE]

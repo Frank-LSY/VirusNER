@@ -1,0 +1,46 @@
+
+
+1052. Cancer. 2012 Jul 15;118(14):3519-30. doi: 10.1002/cncr.26671. Epub 2011 Nov 15.
+
+Extracapsular spread and adjuvant therapy in human papillomavirus-related,
+p16-positive oropharyngeal carcinoma.
+
+Sinha P(1), Lewis JS Jr, Piccirillo JF, Kallogjeri D, Haughey BH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Washington University
+School of Medicine, St. Louis, MO 63110, USA.
+
+BACKGROUND: Extracapsular spread (ECS) is commonly used to justify adjuvant
+chemotherapy in patients with head and neck cancer. The role of ECS as a
+prognosticator and adjuvant therapy determinant in surgically resected, human
+papillomavirus-related oropharyngeal squamous cell carcinoma (OPSCC), however,
+has never been determined.
+METHODS: Of 210 oropharynx patients in a prospective transoral laser microsurgery
+database, 152 patients who had p16-positive primary OPSCC and pathologically
+positive necks were eligible for the study. ECS was measured from routine
+reporting (ECS(report)) and by using a novel histologic grading system
+(ECS(graded)). Proportional hazards models and matched analyses were used to
+compare the impact of ECS and adjuvant therapy on disease-free survival (DFS).
+Patients with and without graded ECS were matched for T-stage, surgical margins, 
+and adjuvant therapy.
+RESULTS: At a median follow-up of 43 months, the presence of ECS was not
+associated with poorer DFS in multivariate analyses (ECS(report): hazard ratio
+[HR], 3.42; 95% confidence interval [CI], 0.45-25.88; P = .23; ECS(graded): HR,
+2.54; 95% CI, 0.88-7.34; P = .09). T-stage and high-grade ECS, ie soft tissue
+metastasis (STM(graded)) were prognostic. Overall and in the presence of ECS or
+even STM, adjuvant CRT was not associated with better DFS over radiotherapy alone
+(HR, 0.25; 95% CI, 0.06-1.13; P = .07). In addition, matched analyses
+demonstrated no significant reduction in DFS for the presence of ECS versus the
+absence of ECS or reduced DFS for the administration of adjuvant radiotherapy
+alone versus CRT in ECS-positive patients.
+CONCLUSIONS: Routinely reported ECS was not prognostic in this study. Adjuvant
+CRT versus radiotherapy alone produced no improvement in DFS for ECS-positive
+patients. The authors propose that de-escalated adjuvant therapy should be
+considered for patients with p16-positive OPSCC who undergo surgery and that
+routinely reported ECS should not be used to justify adjuvant chemotherapy.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncr.26671 
+PMID: 22086669  [Indexed for MEDLINE]

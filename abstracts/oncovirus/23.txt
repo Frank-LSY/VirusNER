@@ -1,0 +1,42 @@
+
+
+23. PLoS One. 2014 May 5;9(5):e96554. doi: 10.1371/journal.pone.0096554. eCollection 
+2014.
+
+Discrepant amplification results during the development of an assay leads to
+reclassification of two AIDS reagent repository HIV-2 isolates as HIV-1.
+
+Jagodzinski LL(1), Liu Y(2), Hack HR(2), Kibirige C(2), Peel SA(1), Manak MM(2).
+
+Author information: 
+(1)U.S. Military HIV Research Program, Walter Reed Army Institute of Research,
+Silver Spring, Maryland, United States of America.
+(2)U.S. Military HIV Research Program, Henry M. Jackson Foundation for the
+Advancement of Military Medicine, Silver Spring, Maryland, United States of
+America.
+
+The development and verification of HIV-2 assays depends in part on the
+availability of well-characterized samples, including those from reagent
+repositories. During the development of an HIV-2 RNA quantification assay, two
+HIV-2 viral isolates (CDC 301340 and CDC 301342) obtained from the NIAID AIDS
+Reagent and Reference Repository were not detected leading to an investigation.
+Two HIV-2 primers/probe sets of known performance in real-time viral RNA
+quantification assays, targeting different regions of the virus, also failed to
+generate RT-PCR products for these two isolates. These isolates were tested in
+the HIV-1 specific COBAS AmpliPrep/COBAS TaqMan HIV-1 Test v2.0 (Roche Molecular 
+Diagnostics) and were quantified at high copy number. Other HIV-2 isolates tested
+were not amplified in the COBAS HIV-1 TaqMan assay. Furthermore, the discrepant
+isolates were highly reactive in an HIV-1 p24 antigen test while the other HIV-2 
+isolates showed very weak, if any, cross-reactivity with the HIV-1 p24 assay.
+Phylogenetic tree analysis of sequences from the protease-reverse transcriptase
+regions of the discrepant HIV-2 isolates mapped with HIV-1 Group M, Subtype
+CRF02_AG confirming these isolates were of HIV-1 origin and had been
+misclassified as HIV-2. The use of misclassified isolates in the verification of 
+molecular and immunological assays can lead to misinterpretation of test results,
+misdirection of efforts into assay redesign and increased development costs. The 
+results of this study were shared with the NIAID AIDS Reagent Program, leading to
+the reclassification of the two discrepant isolates as HIV-1.
+
+DOI: 10.1371/journal.pone.0096554 
+PMCID: PMC4010467
+PMID: 24797800  [Indexed for MEDLINE]

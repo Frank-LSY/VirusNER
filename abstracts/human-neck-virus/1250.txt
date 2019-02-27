@@ -1,0 +1,43 @@
+
+
+1250. Int J Cancer. 2011 Oct 1;129(7):1752-60. doi: 10.1002/ijc.25825. Epub 2011 Feb
+26.
+
+The prognostic significance of tumor human papillomavirus status for patients
+with anal squamous cell carcinoma treated with combined chemoradiotherapy.
+
+Yhim HY(1), Lee NR, Song EK, Kwak JY, Lee ST, Kim JH, Kim JS, Park HS, Chung IJ, 
+Shim HJ, Hwang JE, Kim HR, Nam TK, Park MR, Shim H, Park HS, Kim HS, Yim CY.
+
+Author information: 
+(1)Division of Hematology/Oncology, Chonbuk National University Medical School,
+Jeonju, Korea.
+
+The prognostic relevance of tumor human papillomavirus (HPV) status in anal
+squamous cell carcinoma (SCC) had not been previously investigated, although its 
+relevance to cervical, head and neck SCC is known. We retrospectively evaluated
+outcomes in 47 patients with anal SCC treated with combined chemoradiotherapy
+(CCRT) and determined tumor HPV status by HPV DNA chip method and p16 expression 
+by immunohistochemistry (IHC) from paraffin-embedded tumor tissues. The median
+age was 65 years (range, 44-90 years). Sixteen (34%) patients were diagnosed with
+T stage 3 to 4, and 18 (38%) patients had regional nodal disease (N-positive).
+Thirty-five (75%) patients were HPV positive, and 31 (66%) patients were genotype
+16 (HPV16-positive). Thirty-nine (83.0%) patients were positive for p16. After
+median follow-up of 51.7 months (range, 5.1-136.0 months), HPV16-positive group
+had significantly better 4-year progression-free survival (PFS, 63.1% vs. 15.6%, 
+p < 0.001) and overall survival (84.6% vs. 39.8%, p = 0.008) than HPV genotype 16
+negative (HPV16-negative) group. Patients with p16-positive tumor also had a
+better 4-year PFS (52.5% vs. 25.0%, p = 0.014) than those with p16-negative
+tumor. In multivariate analysis for PFS, N-positive and HPV16-negative were
+independent prognostic factors for shorter PFS. Comparing patterns of failure,
+time to loco-regional failure was statistically superior in HPV16-positive over
+HPV16-negative groups (p = 0.006), but time to systemic failure was not different
+(p = 0.098). Tumor HPV genotype 16 status is a prognostic and predictive factor
+in anal SCC treated with CCRT, and p16 expression determined by IHC might be
+advocated as a surrogate biomarker of HPV integration in anal SCC. Further
+studies are warranted.
+
+Copyright © 2010 UICC.
+
+DOI: 10.1002/ijc.25825 
+PMID: 21128253  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+1172. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2014 Aug;49(8):643-8.
+
+[Effects of lentivirus-mediated epidermal growth factor-like domain 7 silencing
+on proliferation and invasion of human laryngeal carcinoma Hep-2 cells].
+
+[Article in Chinese]
+
+Li J(1), Ye J(1), Zhuang S(1), Wang T(1), Wang Z(1), Chang L(1), Zhang G(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, Third Affiliated
+Hospital of SUN Yat-sen University, Guangzhou 510630, China.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, Third Affiliated
+Hospital of SUN Yat-sen University, Guangzhou 510630, China. Email:
+gehuazh@hotmail.com.
+
+OBJECTIVE: To explore the effects of epidermal growth factor-like domain 7
+(EGFL7) gene silencing on the proliferation and invasion ablity of laryngeal
+carcinoma cells.
+METHODS: A lentiviral vector expressing EGFL7 shRNA was constructed and
+transfected into human laryngeal carcinoma Hep-2 cells. The expressions of EGFL7 
+mRNA and protein were detected by Real-time PCR and Western blot, respectively.
+Cell proliferation was evaluated by CCK-8 assay, cell cycle and apoptosis were
+tested by flow cytometry, and cell invasion was detected by transwell invasion
+assay.
+RESULTS: The relative expression level s of EGFL7 mRNA and protein in EGFL7-SuRNA
+group were svgnificantly lower than control group (P < 0.001). Western blot
+analysis proved that the relative expression of EGFL7 protein in NC group,
+Lenti-NC group and Lenti-EGFL7 group was (0.39 ± 0.12),(0.36 ± 0.14) and (0.07 ± 
+0.04), respectively. EGFL7 expression in Lenri-EGFL7 group was significantly
+inhibited than NC group (P < 0.001), which confirmed that the recombinant
+lentivirus was successfully transfected into Hep-2 cells. The proliferation of
+Hep-2 cells was significantly inhibited after transfection (P < 0.01). Compared
+with the NC group and Lenti-NC group, the proportion of cells in S phase was
+significantly increased in Lenti-EGFL7 group (P < 0.01), and the proportion in G1
+phase was significantly decreased (P < 0.05). Cell apoptosis assay showed that
+the apoptotic rate in Lenti-EGFL7 group (66.2 ± 1.28) % was significantly
+increased in NC group (6.09 ± 3.28) % and Lenti-NC group (9.86 ± 2.13) %. In
+Transwell invision assay, the mean number of cells coming through the Metrigel in
+Lenti-EGFL7 group was significantly decreased than in the NC group and Lenti-NC
+group (P < 0.01).
+CONCLUSION: The proliferation and invasion ablity of laryngeal carcinoma Hep-2
+cells can be inhibited by siRNA mediated EGFL7 gene silencing.
+
+
+PMID: 25351121  [Indexed for MEDLINE]

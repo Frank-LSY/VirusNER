@@ -1,0 +1,33 @@
+
+
+2298. Lancet Oncol. 2013 Jul;14(8):e302-9. doi: 10.1016/S1470-2045(13)70085-8.
+
+Novel targets in HPV-negative head and neck cancer: overcoming resistance to EGFR
+inhibition.
+
+Burtness B(1), Bauman JE, Galloway T.
+
+Author information: 
+(1)Department of Medical Oncology, Fox Chase Cancer Center, Philadelphia, PA
+19111, USA. barbara.burtness@fccc.edu
+
+Cancers of the head and neck that arise from habitual exposure to carcinogens
+have lower cure rates than those that arise from infection with human
+papillomavirus (HPV), and intensification of cytotoxic chemotherapy and radiation
+has not improved outcomes. HPV-negative head and neck cancers abundantly express 
+EGFR, and the monoclonal antibody cetuximab, directed against EGFR, is the only
+targeted therapy that has improved disease survival so far. However, response
+rates to single-agent cetuximab are lower than 15%, and cetuximab given with
+chemotherapy or radiation leads to only a modest effect on survival. Thus,
+investigating the mechanisms of resistance to EGFR inhibition in HPV-negative
+head and neck cancer might help identify novel and active therapies. In this
+Review, we focus on therapies in development that target redundant receptor
+tyrosine kinases (eg, HER2 and MET), reduce or abrogate nuclear functions of
+EGFR, affect cellular trafficking by inhibition of histone deacetylase, or
+treatments that might address resistance that arises in the EGFR signalling
+stream (eg, aurora-kinase inhibitors and STAT decoys).
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/S1470-2045(13)70085-8 
+PMID: 23816296  [Indexed for MEDLINE]

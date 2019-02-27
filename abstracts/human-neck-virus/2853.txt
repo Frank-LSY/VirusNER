@@ -1,0 +1,48 @@
+
+
+2853. Int J Pediatr Otorhinolaryngol. 2017 Jun;97:251-256. doi:
+10.1016/j.ijporl.2017.04.023. Epub 2017 Apr 17.
+
+Comparison of first year of life acute otitis media admissions before and after
+the 13-valent pneumococcal conjugate vaccine.
+
+Marom T(1), Israel O(2), Gavriel H(2), Pitaro J(2), Baker AA(3), Eviatar E(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Assaf Harofeh Medical
+Center, Tel Aviv University Sackler School of Medicine, 70300 Zerifin, Israel.
+Electronic address: talmarom73@gmail.com.
+(2)Department of Otolaryngology-Head and Neck Surgery, Assaf Harofeh Medical
+Center, Tel Aviv University Sackler School of Medicine, 70300 Zerifin, Israel.
+(3)Faculty of Medicine, Tel Aviv University Sackler School of Medicine, 69978 Tel
+Aviv, Israel.
+
+BACKGROUND: Acute otitis media (AOM) is a common childhood infection, which is
+usually managed in the outpatient setting. Yet, the more severe cases are
+referred for inpatient treatment. We hypothesized that pneumococcal conjugate
+vaccines (PCVs), administered during the first year of life, would decrease AOM
+admissions rate in this age group. We studied the characteristics of infants
+admitted with AOM and acute mastoiditis (AM) in the PCV13 era, routinely given
+from November 2010 to all infants.
+METHODS: Charts of infants ≤1 year that were hospitalized during
+1/1/2010-31/12/2015 with AOM, with or without AM, were retrieved using
+hospitalization codes. We compared 2010-11 (transition years, from PCV7 to PCV13)
+to 2012-15 (post-PCV13 marketing years).
+RESULTS: AOM was the primary/secondary discharge diagnosis in ∼4% of all admitted
+infants ≤1 year. Boys had more admissions than girls (62% vs 38%). Accuracy of
+AOM diagnoses substantially increased in the post-marketing years. The average
+hospitalization duration slightly shortened, from 3.21 (2010-11) to 2.99 days
+(2012-15) (p = 0.52). Despite considerably modest pre-admission antibiotic
+treatment rate (<30%), AM was infrequent (∼3.4% of AOM admissions). Amoxicillin
+was the most common antibiotic therapy given before admission and during
+hospitalization. The number of myringotomies, usually reserved for treatment
+failure cases, significantly declined, and there were almost no cases of
+resistant bacteria. Respiratory syncytial virus was detected in ∼20% of collected
+respiratory samples, and influenza A/B viruses in ∼8%.
+CONCLUSIONS: AOM is still a major cause for hospitalization of infants in the
+PCV13 era. Yet, complications are infrequent, and AM rate is low.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.ijporl.2017.04.023 
+PMID: 28483246  [Indexed for MEDLINE]

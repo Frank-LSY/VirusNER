@@ -1,0 +1,44 @@
+
+
+2883. AJNR Am J Neuroradiol. 2014 Sep;35(9):1813-9. doi: 10.3174/ajnr.A3940. Epub 2014 
+May 15.
+
+Lymphoepithelial carcinoma of the salivary gland: morphologic patterns and
+imaging features on CT and MRI.
+
+Ban X(1), Wu J(1), Mo Y(1), Yang Q(1), Liu X(1), Xie C(1), Zhang R(2).
+
+Author information: 
+(1)From the Medical Imaging and Minimally Invasive Interventional Center and
+State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen
+University, Guangzhou, China.
+(2)From the Medical Imaging and Minimally Invasive Interventional Center and
+State Key Laboratory of Oncology in Southern China, Cancer Center, Sun Yat-sen
+University, Guangzhou, China. zhangr@sysucc.org.cn.
+
+BACKGROUND AND PURPOSE: Lymphoepithelial carcinoma is a rare salivary gland
+lesion. We retrospectively reviewed CT and MR imaging features of salivary gland 
+lymphoepithelial carcinoma to determine their imaging features and morphologic
+patterns.
+MATERIALS AND METHODS: The clinical data, CT, and MR imaging findings of 28
+patients with histologically proved lymphoepithelial carcinoma of the salivary
+gland were retrospectively reviewed. Morphologic patterns of the lesions were
+categorized into 3 types on the basis of margin and shape.
+RESULTS: There were 17 men and 11 women with a mean age of 39.3 years; 96.4% of
+patients were positive for Epstein-Barr virus both on histologic staining and
+Epstein-Barr virus serology. Tumors were parotid in 18 patients, submandibular in
+8 patients, sublingual in 1 patient, and palatal in 1 patient. Most tumors
+(57.1%) manifested as a partially or ill-defined mass with a lobulated or
+plaque-like shape. Homogeneous enhancement was found in 16 patients, while
+heterogeneous enhancement was found in 12, including 4 patients with intratumoral
+necrosis. Invasion into adjacent structures was found in 5 patients; 60.7% of
+patients exhibited abnormal lymph nodes, with nodal necrosis in 3 patients.
+CONCLUSIONS: The characteristic lobulated or plaque-like shape, with a partially 
+or ill-defined margin, of a salivary gland mass associated with ipsilateral
+lymphadenopathy may suggest a preoperative diagnosis of lymphoepithelial
+carcinoma.
+
+© 2014 by American Journal of Neuroradiology.
+
+DOI: 10.3174/ajnr.A3940 
+PMID: 24831594  [Indexed for MEDLINE]

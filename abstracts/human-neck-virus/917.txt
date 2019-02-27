@@ -1,0 +1,59 @@
+
+
+917. J Virol Methods. 2016 Oct;236:157-163. doi: 10.1016/j.jviromet.2016.07.021. Epub 
+2016 Jul 22.
+
+HPV16 detection by qPCR method in relation to quantity and quality of DNA
+extracted from archival formalin fixed and paraffin embedded head and neck cancer
+tissues by three commercially available kits.
+
+Biesaga B(1), Janecka A(2), Mucha-Małecka A(3), Adamczyk A(4), Szostek S(5),
+Słonina D(6), Halaszka K(7), Przewoźnik M(8).
+
+Author information: 
+(1)Department of Applied Radiobiology, Maria Sklodowska-Curie Memorial Cancer
+Center and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow
+31-115, Poland. Electronic address: z5biesag@cyfronet.pl.
+(2)Department of Applied Radiobiology, Maria Sklodowska-Curie Memorial Cancer
+Center and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow
+31-115, Poland. Electronic address: janecka.zrk@gmail.com.
+(3)Department of Radiation Oncology, Maria Sklodowska-Curie Memorial Cancer
+Center and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow
+31-115, Poland. Electronic address: annamucham@o2.pl.
+(4)Department of Applied Radiobiology, Maria Sklodowska-Curie Memorial Cancer
+Center and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow
+31-115, Poland. Electronic address: a.adamczyk@yahoo.com.
+(5)Department of Virology, Chair of Microbiology, Jagiellonian University Medical
+College, 18 Czysta Street, Cracow 31-121, Poland. Electronic address:
+sszostek@cm-uj.krakow.pl.
+(6)Department of Applied Radiobiology, Maria Sklodowska-Curie Memorial Cancer
+Center and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow
+31-115, Poland. Electronic address: z5slonin@cyfronet.pl.
+(7)Department of Tumor Pathology, Maria Sklodowska-Curie Memorial Cancer Center
+and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow 31-115,
+Poland. Electronic address: Krzysztofhalaszka@op.pl.
+(8)Department of Tumor Pathology, Maria Sklodowska-Curie Memorial Cancer Center
+and Institute of Oncology, Cracow Branch, 11 Garncarska Street, Cracow 31-115,
+Poland. Electronic address: przewoznikmarcin@gmail.com.
+
+The aim of the present study was to compare HPV16 detection by quantitative
+polymerase chain reaction (qPCR) in relation to the quantity and quality of DNA
+isolated from 21 formalin fixed and paraffin embedded (FFPE) head and neck cancer
+tissues by three commercially available kits: EX-WAX™ DNA Extraction Kit (M)
+(Merck Millipore, Darmstadt, Germany), QIAamp(®) DNA FFPE Tissue (Q) (Qiagen,
+Hilden, Germany) and ReliaPrep™ FFPE gDNA Miniprep System (P) (Promega, Madison, 
+USA). Quantity of extracted DNA was assessed spectrophometrically and
+fluorometrically. Its quality was analyzed using A260/280 and A260/230 ratios and
+the β-actin fragment amplifiability in qPCR. HPV16 presence was detected by qPCR,
+using specific primers and TaqMan probe. HPV infection was found in 8 DNA samples
+extracted with M kit (38.1%) and in 7 (33.3%) isolated with Q and P kits. Three
+samples from M and Q kits were characterized by HPV16 positivity and lack of
+β-actin amplifiability. They had significantly lower A260/280 ratio (M: 1.6±0.0, 
+p=0.044 and Q: 1.7±0.0, p=0.016) compared to samples with both fragments
+amplification (M: 1.7±0.0 and Q: 1.9±0.0). Therefore, for HPV detection by qPCR
+in FFPE tissues we recommend ReliaPrep™ FFPE gDNA Miniprep System.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jviromet.2016.07.021 
+PMID: 27456982  [Indexed for MEDLINE]

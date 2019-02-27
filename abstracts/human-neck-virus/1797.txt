@@ -1,0 +1,40 @@
+
+
+1797. J Immunol. 2014 Jan 1;192(1):503-11. doi: 10.4049/jimmunol.1301951. Epub 2013 Dec
+4.
+
+Expansion of CMV-mediated NKG2C+ NK cells associates with the development of
+specific de novo malignancies in liver-transplanted patients.
+
+Achour A(1), Baychelier F, Besson C, Arnoux A, Marty M, Hannoun L, Samuel D,
+Debré P, Vieillard V; K-GREF Study Group.
+
+Collaborators: Azouley D, Bitker MO, Chapelier A, Couetil JP, Dartevelle P,
+Delahousse M, Deleuze P, Dousset B, Glotz D, Hannoun L, Lang P, Barthes Fle P,
+Nataf P, Niaudet P, Patard JJ, Pavie A, Rondeau E, Samuel D, Tiret E, Valla D,
+Besson C, Debré P, Toubert A, Vieillard V, Puig L, Thervet L, Janin A, Raphaël M.
+
+Author information: 
+(1)INSERM, Unité Mixte de Recherche S945, Laboratoire Immunité et Infections,
+F-75013 Paris, France;
+
+Solid cancers are a major adverse outcome of orthotopic liver transplantation
+(OLT). Although the use of chronic immunosuppression is known to play a role in T
+cell impairment, recent insights into the specificities of NK cells led us to
+reassess the potential modulation of this innate immune cell compartment after
+transplantation. Our extensive phenotypic and functional study reveals that the
+development of specific de novo noncutaneous tumors post-OLT is linked to unusual
+NK cell subsets with maturation defects and to uncommon cytokine production
+associated with the development of specific cancers. Remarkably, in CMV(+)
+patients, the development de novo head/neck or colorectal tumors is linked to an 
+aberrant expansion of NK cells expressing NKG2C and a high level of intracellular
+TNF-α, which impact on their polyfunctional capacities. In contrast, NK cells
+from patients diagnosed with genitourinary tumors possessed a standard immature
+signature, including high expression of NKG2A and a robust production of IFN-γ.
+Taken together, our results suggest that under an immunosuppressive environment, 
+the interplay between the modulation of NK repertoire and CMV status may greatly 
+hamper the spectrum of immune surveillance and thus favor outgrowth and the
+development of specific de novo tumors after OLT.
+
+DOI: 10.4049/jimmunol.1301951 
+PMID: 24307732  [Indexed for MEDLINE]

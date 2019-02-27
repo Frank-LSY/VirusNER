@@ -1,0 +1,57 @@
+
+Conflict of interest statement: There are no conflicts of interest.
+
+
+347. Bull Cancer. 2018 Feb;105(2):181-192. doi: 10.1016/j.bulcan.2017.11.009. Epub
+2017 Dec 21.
+
+[Advances in the management of cervical lymphadenopathies of unknown primary:
+advances in diagnostic imaging and surgical modalities and new international
+staging system].
+
+[Article in French]
+
+Troussier I(1), Klausner G(2), Morinière S(3), Blais E(4), Jean-Christophe
+Faivre(5), Champion A(6), Geoffrois L(3), Pflumio C(3), Babin E(7), Maingon P(1),
+Thariat J(8).
+
+Author information: 
+(1)CHRU Pitié-Salpêtrière, radiothérapie, 47-83, boulevard de l'Hôpital, 75013
+Paris, France.
+(2)Institut Gustave-Roussy, radiothérapie, 114, rue Edouard-Vaillant, 94800
+Villejuif, France.
+(3)CHRU de Tours, carcinologie cervicofaciale, 2, boulevard Tonnellé, 37000
+Tours, France.
+(4)Centre Bergonié, radiothérapie, 229, cours de l'Argonne, 33000 Bordeaux,
+France.
+(5)Institut de cancérologie de Lorraine, oncologie médicale, 6, avenue de
+Bourgogne, 54519 Vandœuvre-lès-Nancy, France.
+(6)Hôpitaux universitaires Genève, radiothérapie, rue Gabrielle-Perret-Gentil, 4,
+1205 Genève, Suisse.
+(7)CHRU de Caen, carcinologie cervicofaciale, avenue de la Côte-de-Nacre, 14033
+Caen, France.
+(8)ARCHADE centre François-Baclesse, radiothérapie, 3, avenue du Général-Harris, 
+14000 Caen, France. Electronic address: jthariat@gmail.com.
+
+INTRODUCTION: Cervical lymphadenopathies of unknown primary represent 3 % of head
+and neck cancers. Their diagnostic work up has largely changed in recent years.
+This review provides an update on diagnostic developments and their potential
+therapeutic impact.
+MATERIALS AND METHODS: This is a systematic review of the literature.
+RESULTS: In recent years, changes in epidemiology-based prognostic factors such
+as human papilloma virus (HPV) cancers, advances in imaging and minimally
+invasive surgery have been integrated in the management of cervical
+lymphadenopathies of unknown primary. In particular, systematic use of PET
+scanner and increasing practice of robotic or laser surgery have contributed to
+increasing detection rate of primary cancers. These allow more adapted and
+personalized treatments. The impact of changes in the eighth TNM staging system
+is discussed.
+CONCLUSION: The management of cervical lymphadenopathies of unknown primary
+cancer has changed significantly in the last 10 years. On the other hand,
+practice changes will have to be assessed.
+
+Copyright © 2017 Société Française du Cancer. Published by Elsevier Masson SAS.
+All rights reserved.
+
+DOI: 10.1016/j.bulcan.2017.11.009 
+PMID: 29275831  [Indexed for MEDLINE]

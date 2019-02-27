@@ -1,0 +1,46 @@
+
+
+2866. Support Care Cancer. 2010 Aug;18(8):993-1006. doi: 10.1007/s00520-010-0900-3.
+Epub 2010 Jun 11.
+
+A systematic review of viral infections associated with oral involvement in
+cancer patients: a spotlight on Herpesviridea.
+
+Elad S(1), Zadik Y, Hewson I, Hovan A, Correa ME, Logan R, Elting LS, Spijkervet 
+FK, Brennan MT; Viral Infections Section, Oral Care Study Group, Multinational
+Association of Supportive Care in Cancer (MASCC)/International Society of Oral
+Oncology (ISOO).
+
+Author information: 
+(1)Department of Oral Medicine, Hebrew University, Hadassah School of Dental
+Medicine, Jerusalem, Israel. sharon.elad@ekmd.huji.ac.il
+
+PURPOSE: Our aim was to evaluate the literature for the prevalence of and
+interventions for oral viral infections and, based on scientific evidence, point 
+to effective treatment protocols. Quality of life (QOL) and economic impact were 
+assessed if available in the articles reviewed.
+METHODS: Our search of the English literature focused on oral viral infections in
+cancer patients within the timeframe of 1989-2007. Review methods were
+standardized. Cohort studies were used to determine the weighted prevalence of
+oral viral infection in cancer patients. The quality of selected articles were
+assessed and scored with respect to sources of bias, representativeness, scale
+validity, and sample size. Interventional studies were utilized to determine
+management guidelines. Literature search included measures of QOL and economic
+variables.
+RESULTS: Prevalence of oral herpes simplex virus (HSV) infection in neutropenic
+patients was higher than in patients treated with radiotherapy for head and neck 
+cancer (49.8% vs. 0%, respectively). In patients treated with radiochemotherapy
+for head and neck cancer, the prevalence of oral HSV infection increases up to
+43.2% (CI, 0-100%). Prevalence of HSV infection was higher when oral ulcers
+existed. Information about other oral viral infections is sparse. There was a
+significant benefit of using acyclovir to prevent HSV oral infection (at 800
+mg/day). Various dosing protocols of valacyclovir achieved prevention of HSV
+reactivation (500 or 1,000 mg/day). The prevalence of HSV reactivation was
+similar for acyclovir and valacyclovir. No information about impact on QOL and
+economic burden was available.
+CONCLUSIONS: Acyclovir and valacyclovir are equally effective in preventing oral 
+HSV infection. Neutropenic patients, who were primarily treated for hematological
+malignancies in the studies reviewed, are at a greater risk for viral infection.
+
+DOI: 10.1007/s00520-010-0900-3 
+PMID: 20544224  [Indexed for MEDLINE]

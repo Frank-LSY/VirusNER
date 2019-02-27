@@ -1,0 +1,43 @@
+
+
+908. Am J Otolaryngol. 2014 Jan-Feb;35(1):25-32. doi: 10.1016/j.amjoto.2013.08.007.
+Epub 2013 Oct 7.
+
+HPV-related oropharyngeal squamous cell carcinomas: a comparison between three
+diagnostic approaches.
+
+Melkane AE(1), Mirghani H, Aupérin A, Saulnier P, Lacroix L, Vielh P, Casiraghi
+O, Griscelli F, Temam S.
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Institut Gustave Roussy,
+114 rue Edouard Vaillant, Villejuif, France.
+
+PURPOSE: HPV-related oropharyngeal squamous cell carcinomas clearly represent a
+growing entity in the head and neck with distinct carcinogenesis,
+clinico-pathological presentation and survival profile. We aimed to compare the
+HPV prevalence rates and clinico-pathological correlations obtained with three
+distinct commonly used HPV detection methods.
+MATERIALS AND METHODS: p16-immunohistochemistry (IHC), HPV DNA viral load by
+real-time PCR (qPCR), and HPV genotyping by a reverse hybridization-based line
+probe assay (INNO-LiPA) were performed on pretreatment formalin-fixed
+paraffin-embedded tumor samples from 46 patients treated for single primary
+oropharyngeal carcinomas.
+RESULTS: Twenty-eight patients (61%) had a p16 overexpression in IHC. Twenty-nine
+patients (63%) harbored HPV DNA on qPCR. Thirty-four patients (74%) harbored HPV 
+DNA on INNO-LiPA. The concordance analysis revealed a good agreement between both
+HPV DNA detection methods (κ=0.65); when both tests were positive, the depicted
+HPV subtypes were always concordant (HPV16 in 27 cases, HPV18 in 1 case).
+Agreement was moderate between IHC and qPCR (κ=0.59) and fair between IHC and
+INNO-LiPA (κ=0.22).
+CONCLUSIONS: Certain highly sensitive methods are able to detect the mere
+presence of HPV without any carcinogenetic involvement while other more specific 
+tests provide proof of viral transcriptional activity and thus evidence of
+clinically relevant infections. The use of a stepwise approach allows reducing
+false positives; p16-immunostaining seems to be an excellent screening test and
+in situ hybridization may overcome some of the PCR limitations.
+
+© 2013.
+
+DOI: 10.1016/j.amjoto.2013.08.007 
+PMID: 24112760  [Indexed for MEDLINE]

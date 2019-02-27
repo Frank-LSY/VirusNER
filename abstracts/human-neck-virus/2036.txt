@@ -1,0 +1,59 @@
+
+
+2036. Br J Radiol. 2018 Jun;91(1086):20170498. doi: 10.1259/bjr.20170498. Epub 2018 Mar
+22.
+
+Development and validation of a radiomic signature to predict HPV (p16) status
+from standard CT imaging: a multicenter study.
+
+Leijenaar RT(1), Bogowicz M(2), Jochems A(1), Hoebers FJ(3), Wesseling FW(3),
+Huang SH(4), Chan B(4), Waldron JN(4), O'Sullivan B(4), Rietveld D(5), Leemans
+CR(6), Brakenhoff RH(6), Riesterer O(2), Tanadini-Lang S(2), Guckenberger M(2),
+Ikenberg K(7), Lambin P(1).
+
+Author information: 
+(1)1 The D-Lab: Decision Support for Precision Medicine GROW - School for
+Oncology and Developmental Biology & MCCC Maastricht University Medical Centre+
+Maastricht , Maastricht , Netherlands.
+(2)2 Department of Radiation Oncology, University Hospital Zurich and University 
+of Zurich , Zurich , Switzerland.
+(3)3 Department of Radiation Oncology, GROW- School for Oncology and
+Developmental Biology, Maastricht University Medical Centre , Maastricht ,
+Netherlands.
+(4)4 Department of Radiation Oncology, Princess Margaret Cancer Center,
+University of Toronto , Toronto, Ontario , Canada.
+(5)5 Department of Radiation Oncology, VU University Medical Center , Amsterdam ,
+Netherlands.
+(6)6 Department of Otolaryngology/Head and Neck Surgery, VU University Medical
+Center , Amsterdam , Netherlands.
+(7)7 Institute of Pathology and Molecular Pathology, University Hospital Zurich
+and University of Zurich , Zurich , Switzerland.
+
+OBJECTIVES: Human papillomavirus (HPV) positive oropharyngeal cancer
+(oropharyngeal squamous cell carcinoma, OPSCC) is biologically and clinically
+different from HPV negative OPSCC. Here, we evaluate the use of a radiomic
+approach to identify the HPV status of OPSCC.
+METHODS: Four independent cohorts, totaling 778 OPSCC patients with HPV
+determined by p16 were collected. We randomly assigned 80% of all data for model 
+training (N = 628) and 20% for validation (N = 150). On the pre-treatment CT
+images, 902 radiomic features were calculated from the gross tumor volume.
+Multivariable modeling was performed using least absolute shrinkage and selection
+operator. To assess the impact of CT artifacts in predicting HPV (p16), a model
+was developed on all training data (Mall) and on the artifact-free subset of
+training data (Mno art). Models were validated on all validation data (Vall), and
+the subgroups with (Vart) and without (Vno art) artifacts. Kaplan-Meier survival 
+analysis was performed to compare HPV status based on p16 and radiomic model
+predictions.
+RESULTS: The area under the receiver operator curve for Mall and Mno art ranged
+between 0.70 and 0.80 and was not significantly different for all validation
+data sets. There was a consistent and significant split between survival curves
+with HPV status determined by p16 [p = 0.007; hazard ratio (HR): 0.46], Mall (p =
+0.036; HR: 0.55) and Mno art (p = 0.027; HR: 0.49).
+CONCLUSION: This study provides proof of concept that molecular information can
+be derived from standard medical images and shows potential for radiomics as
+imaging biomarker of HPV status. Advances in knowledge: Radiomics has the
+potential to identify clinically relevant molecular phenotypes.
+
+DOI: 10.1259/bjr.20170498 
+PMCID: PMC6223271 [Available on 2019-06-01]
+PMID: 29451412  [Indexed for MEDLINE]

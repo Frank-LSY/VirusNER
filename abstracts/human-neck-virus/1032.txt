@@ -1,0 +1,43 @@
+
+
+1032. Infect Genet Evol. 2016 Sep;43:94-100. doi: 10.1016/j.meegid.2016.05.020. Epub
+2016 May 16.
+
+Phylogenetic and functional analysis of sequence variation of human
+papillomavirus type 31 E6 and E7 oncoproteins.
+
+Ferenczi A(1), Gyöngyösi E(1), Szalmás A(1), László B(1), Kónya J(1), Veress
+G(2).
+
+Author information: 
+(1)Department of Medical Microbiology, Faculty of Medicine, University of
+Debrecen, Nagyerdei krt. 98, H-4032 Debrecen, Hungary.
+(2)Department of Medical Microbiology, Faculty of Medicine, University of
+Debrecen, Nagyerdei krt. 98, H-4032 Debrecen, Hungary. Electronic address:
+veregy@med.unideb.hu.
+
+High-risk human papillomaviruses (HPV) are the causative agents of cervical and
+other anogenital cancers as well as a subset of head and neck cancers. The E6 and
+E7 oncoproteins of HPV contribute to oncogenesis by associating with the tumour
+suppressor protein p53 and pRb, respectively. For HPV types 16 and 18, intratypic
+sequence variation was shown to have biological and clinical significance. The
+functional significance of sequence variation among HPV 31 variants was studied
+less intensively. HPV 31 variants belonging to different variant lineages were
+found to have differences in persistence and in the ability to cause high grade
+cervical intraepithelial neoplasia. In the present study, we started to explore
+the functional effects of natural sequence variation of HPV 31 E6 and E7
+oncoproteins. The E6 variants were tested for their effects on p53 protein
+stability and transcriptional activity, while the E7 variants were tested for
+their effects on pRb protein level and also on the transcriptional activity of
+E2F transcription factors. HPV 31 E7 variants displayed uniform effects on pRb
+stability and also on the activity of E2F transcription factors. HPV 31 E6
+variants had remarkable differences in the ability to inhibit the
+trans-activation function of p53 but not in the ability to induce the in vivo
+degradation of p53. Our results indicate that natural sequence variation of the
+HPV 31 E6 protein may be involved in the observed differences in the oncogenic
+potential between HPV 31 variants.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.meegid.2016.05.020 
+PMID: 27197052  [Indexed for MEDLINE]

@@ -1,0 +1,68 @@
+
+
+1861. Laryngoscope. 2012 Sep;122 Suppl 2:S13-33. doi: 10.1002/lary.23493.
+
+Prognostic factors and survival unique to surgically treated p16+ oropharyngeal
+cancer.
+
+Haughey BH(1), Sinha P.
+
+Author information: 
+(1)Department of Otolaryngology, Washington University School of Medicine, St.
+Louis, Missouri, USA. haugheyb@ent.wustl.edu
+
+OBJECTIVES/HYPOTHESIS: Current head and neck epidemiology demonstrates a steadily
+increasing incidence of p16+ human papillomavirus-related oropharynx squamous
+cell cancer (OPSCC). This distinct tumor subtype is associated with better
+survival outcomes. There is a growing recognition of the need to define
+management regimens that take into account the inherent patho-biological
+attributes of these cancers and provide optimum oncological control with minimum 
+morbidity. This is facilitated by a clear understanding of the prognostic
+variables that predict disease outcome in patients with p16+ OPSCC. To provide
+prognostic estimates, pathological staging and histopathological parameters are
+usually superior to clinical staging. However, knowledge of pathological
+predictors is sparse, mainly because of commonly employed nonsurgical management 
+policies utilizing chemoradiotherapy. Minimally invasive approaches to the
+oropharynx, particularly transoral laser microsurgery (TLM), are well-reported
+effective primary treatments for oropharynx cancers. From such series, it is
+feasible to conduct a detailed appraisal based on pathologic information from
+surgical specimens of both the primary and neck, to establish prognosticators
+unique to p16+ oropharynx cancer patients.
+STUDY DESIGN: A prospectively assembled database of oropharynx cancer patients
+treated with primary TLM ± neck dissection ± adjuvant therapy from 1996 to 2010, 
+analyzed retrospectively for survival and recurrence.
+METHODS: The fundamental inclusion criteria were: 1) previously untreated
+biopsy-proven OPSCC treated with primary TLM ± neck dissection, 2) diffuse p16
+positivity in the surgical specimen, 3) availability for adjuvant therapy, if
+indicated, and 4), minimum follow-up of 12 months or to death. Cox proportional
+hazard regression analyses were used to identify variables that were prognostic
+for disease-free survival (DFS), the primary end point of the study, as well as
+disease-specific survival (DSS) and overall survival. Kaplan-Meier survival
+estimates and patterns of disease recurrence were also assessed. We also explored
+concordance for T and N staging, when assessed by clinical (cT, cN) and
+pathological (cT, pT) measures.
+RESULTS: Of 211 patients in the TLM database, 171 met all the eligibility
+criteria. The median follow-up was 47 months. The 3- and 5-year Kaplan-Meier
+estimates for DFS were 91% and 88%, respectively, whereas for DSS they were 95.5%
+and 94.4%, respectively. A total of 12 (7%) recurrences occurred: two local, four
+regional, and six distant. Of all T-stage categories, pT4 tumors were strongest
+predictors of poorer DFS. cT4 tonsil primaries, ever smoking status, three or
+more metastatic nodes, pN2b+ stage, and radiation-based adjuvant therapy were
+other prognosticators for DFS. Angioinvasion and T3-T4 tumors were prognostic for
+reduced DSS, although smoking parameters were not. Extracapsular spread, N stage,
+and margins were nonprognosticators. Recursive partitioning analysis defined
+high- and low-risk groupings of prognosticators. Downstaging of clinical T stage 
+was observed for 31% of tumors on application of pathological classification.
+CONCLUSIONS: We document a well-delineated set of prognostic variables that
+specifically and accurately identify individuals at risk of reduced outcomes in
+an otherwise good prognosis p16+ OPSCC cohort. Based on these prognosticators,
+appropriate patient counseling, adjuvant treatment recommendations, and
+stratification for trials can more accurately be made. We also observed an
+additional edge conferred by TLM toward more accurate clinical as well as
+pathological T staging.
+
+Copyright © 2012 The American Laryngological, Rhinological, and Otological
+Society, Inc.
+
+DOI: 10.1002/lary.23493 
+PMID: 22926949  [Indexed for MEDLINE]

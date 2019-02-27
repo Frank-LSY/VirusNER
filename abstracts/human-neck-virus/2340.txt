@@ -1,0 +1,32 @@
+
+
+2340. Acta Otolaryngol. 2010 Feb;130(2):293-9. doi: 10.3109/00016480903071377.
+
+Human papillomavirus (HPV)-positive tonsillar carcinomas are frequent and have a 
+favourable prognosis in males in Norway.
+
+Hannisdal K(1), Schjølberg A, De Angelis PM, Boysen M, Clausen OP.
+
+Author information: 
+(1)Department of Oto-Rhino-Laryngology, Head and Neck Surgery, Oslo University
+Hospital, Oslo, Norway. kirsten@hannisdal.net
+
+CONCLUSIONS: This study confirms a high prevalence of human papillomavirus
+(HPV)-positive tonsillar tumours (52%). The survival of the HPV-positive group
+was significantly better in males.
+OBJECTIVES: We assessed the prevalence of HPV in 137 patients with tonsillar
+carcinomas, measured the p53- and Ki-67-positive tumour cell fractions and
+correlated the results with clinical variables.
+PATIENTS AND METHODS: Tumour DNA from patients with squamous cell carcinoma of
+the tonsillar region was amplified by PCR and sequenced for detection of HPV
+subtypes.
+RESULTS: HPV was found in 71/137 (52%) of the tumours; HPV-16 was the most
+frequent subtype (87%). HPV positivity did not correlate with gender, stage, T-
+and N categories, Ki-67 expression or p53 positivity. The HPV-positive group had 
+a significantly better survival (p < 0.01) compared with the HPV-negative group
+in males. In a multivariate analysis HPV status gave prognostic information in
+addition to the earlier established factors, i.e. age, gender and stage (p <
+0.05).
+
+DOI: 10.3109/00016480903071377 
+PMID: 19680990  [Indexed for MEDLINE]

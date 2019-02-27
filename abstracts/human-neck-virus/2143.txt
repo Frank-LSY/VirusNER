@@ -1,0 +1,48 @@
+
+
+2143. Mol Med Rep. 2016 Sep;14(3):2431-8. doi: 10.3892/mmr.2016.5552. Epub 2016 Jul 27.
+
+Co-expression of ING4 and P53 enhances hypopharyngeal cancer chemosensitivity to 
+cisplatin in vivo.
+
+Ren X(1), Liu H(2), Zhang M(1), Wang M(1), Ma S(1).
+
+Author information: 
+(1)Department of Otolaryngology, The First Affiliated Hospital of Bengbu Medical 
+College, Bengbu, Anhui 233030, P.R. China.
+(2)Faculty of Pharmacy, Bengbu Medical College, Bengbu, Anhui 233030, P.R. China.
+
+Hypopharyngeal cancer is a distinct type of malignant head and neck tumor, which 
+exhibits low sensitivity to anti-cancer drugs. The importance of developing
+methods for reducing chemotherapy resistance, and improving and enhancing
+prognosis has previously been emphasized and is considered a challenge for
+effective clinical treatment of hypopharyngeal cancer. The current study
+investigated the effects of co‑expression of inhibitor of growth protein 4 (ING4)
+and P53, a tumor suppressor gene, on chemosensitivity to cisplatin in human
+hypopharyngeal cancer xenografts in vivo, and the potential molecular mechanisms 
+involved. A tumor model was established by injecting athymic nude mice with FADU 
+human hypopharyngeal cancer cells. Five days after intratumoral and peritumoral
+injections of an empty adenoviral vector (Ad), Ad‑ING4‑P53, cisplatin, or a
+combination of Ad‑ING4‑P53 and cisplatin (Ad‑ING4‑P53 + cisplatin) every other
+day for 5 days, the mice were euthanized and their tumors, livers, and kidneys
+were removed. The tumor weights were used to calculate the inhibition rate, and
+the expression levels of ING4 and P53 were detected by reverse
+transcription‑polymerase chain reaction. Additionally, apoptotic cells were
+detected using terminal deoxynucleotidyl transferase dUTP nick end labeling, and 
+immunohistochemistry determined the levels ING4, P53, B‑cell lymphoma‑2 (Bcl‑2)
+and Bcl‑2 associated X protein (Bax) protein expression. The results demonstrated
+increased expression of ING4 and P53 in the Ad‑ING4‑P53 groups compared with PBS 
+and Ad groups, indicating successful introduction of the genes into the tumor
+cells. Notably, the Ad‑ING4‑P53 + cisplatin group exhibited a higher inhibition
+rate compared with the four other groups. The results of immunohistochemistry
+analysis demonstrated that Bax expression was increased and Bcl‑2 was decreased
+in the Ad‑ING4‑P53 + cisplatin group. This suggested that the enhanced cisplatin 
+chemosensitivity with Ad-ING4-P53 gene therapy in hypopharyngeal cancer
+xenografts may be associated with apoptosis induction through upregulation of Bax
+expression and downregulation of Bcl‑2. The results of the present study
+indicated that gene therapy combined with cisplatin treatment may be a promising 
+treatment for human hypopharyngeal cancer.
+
+DOI: 10.3892/mmr.2016.5552 
+PMCID: PMC4991689
+PMID: 27484725  [Indexed for MEDLINE]

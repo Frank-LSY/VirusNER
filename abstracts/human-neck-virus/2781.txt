@@ -1,0 +1,51 @@
+
+
+2781. Anticancer Res. 2017 Jun;37(6):3221-3228.
+
+Occupational Risk for Oral Cancer in Nordic Countries.
+
+Tarvainen L(1), Suojanen J(2), Kyyronen P(3), Lindqvist C(4)(2), Martinsen JI(5),
+Kjaerheim K(5), Lynge E(6), Sparen P(7), Tryggvadottir L(8)(9), Weiderpass
+E(5)(7)(10)(11), Pukkala E(3)(12).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Diseases, University of Helsinki,
+Helsinki, Finland laura.tarvainen@fimnet.fi.
+(2)Department of Oral and Maxillofacial Diseases, Helsinki University Hospital,
+Helsinki, Finland.
+(3)Finnish Cancer Registry, Institute for Statistical and Epidemiological Cancer 
+Research, Helsinki, Finland.
+(4)Department of Oral and Maxillofacial Diseases, University of Helsinki,
+Helsinki, Finland.
+(5)Department of Research, Cancer Registry of Norway, Institute of
+Population-Based Cancer Research, Oslo, Norway.
+(6)Department of Public Health, University of Copenhagen, Copenhagen, Denmark.
+(7)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
+Stockholm, Sweden.
+(8)Icelandic Cancer Registry, Reykjavik, Iceland.
+(9)Faculty of Medicine, University of Iceland, Reykjavik, Iceland.
+(10)Genetic Epidemiology Group, Folkhälsan Research Center, Helsinki, Finland.
+(11)Department of Community Medicine, University of Tromso, The Arctic University
+of Norway, Tromso, Norway.
+(12)School of Health Sciences, University of Tampere, Tampere, Finland.
+
+AIM: To evaluate occupational risk for cancer of the tongue, oral cavity or
+pharynx after adjustment for alcohol and tobacco use.
+MATERIALS AND METHODS: The data covered 14.9 million people and 28,623 cases of
+cancer of the tongue, oral cavity and pharynx in the Nordic countries 1961-2005. 
+Alcohol consumption by occupation was estimated based on mortality from liver
+cirrhosis and incidence of liver cancer. Smoking by occupation was estimated
+based on the incidence of lung cancer.
+RESULTS: Only few occupations had relative risks of over 1.5 for cancer of the
+tongue, oral cavity and pharynx. These occupations included dentists, artistic
+workers, hairdressers, journalists, cooks and stewards, seamen and waiters.
+CONCLUSION: Several occupational categories, including dentists, had an increased
+relative risk of tongue cancer. This new finding remains to be explained but
+could be related to occupational chemical exposures, increased consumption of
+alcohol and tobacco products, or infection with human papilloma virus.
+
+Copyright© 2017, International Institute of Anticancer Research (Dr. George J.
+Delinasios), All rights reserved.
+
+DOI: 10.21873/anticanres.11684 
+PMID: 28551668  [Indexed for MEDLINE]

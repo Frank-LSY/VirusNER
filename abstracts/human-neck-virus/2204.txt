@@ -1,0 +1,45 @@
+
+
+2204. Ann Allergy Asthma Immunol. 2012 Mar;108(3):182-7. doi:
+10.1016/j.anai.2011.12.018. Epub 2012 Jan 26.
+
+Effects of rhinovirus infection on the expression and function of cystic fibrosis
+transmembrane conductance regulator and epithelial sodium channel in human nasal 
+mucosa.
+
+Kim JH(1), Kwon HJ, Jang YJ.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Chuncheon Sacred
+Heart Hospital, Hallym University College of Medicine, Chuncheon, South Korea.
+
+BACKGROUND: Changes in expression and function of the cystic fibrosis
+transmembrane conductance regulator (CFTR) and epithelial sodium channel (ENaC)
+have been found to cause airway surface liquid (ASL) derangement and to impair
+mucociliary clearance, both of which have been linked to the pathogenesis of
+rhinovirus (RV) infection.
+OBJECTIVES: The effects of RV infection on the expression and function of CFTR
+and ENaC in nasal epithelial cells were investigated.
+METHODS: Nasal epithelial cells obtained from 14 turbinoplasty patients were
+infected with RV serotype 16 (RV-16) for 4 hours. Expression of CFTR, α-ENaC,
+β-ENaC, and γ-ENaC was determined by real-time polymerase chain reaction, Western
+blot analysis, and confocal immunofluorescence microscopy. Functional changes in 
+the CFTR and ENaC proteins were assessed by measuring transepithelial resistance 
+(TER) using a voltmeter combined with ion channel modulators.
+RESULTS: Rhinovirus infection increased expression of CFTR, α-ENaC, β-ENaC, and
+γ-ENaC messenger RNA (mRNA) and protein compared with controls (P < .05 each) and
+increased the expression of all 4 proteins on confocal immunofluorescence
+microscopy. Treatment of cells with the ENaC blocker amiloride and the CFTR
+activator forskolin increased TER in RV-infected cells, whereas forskolin
+decreased TER in uninfected cells. The CFTR inhibitor NPPB, however, blocked CFTR
+more in RV-infected than in noninfected cells.
+CONCLUSIONS: Rhinovirus increased the expression of CFTR and appeared to alter
+its function. In contrast, ENaC expression and function were increased by RV
+infection. Therefore, RV infection may impair mucociliary transport of nasal
+epithelium by these alterations.
+
+Copyright © 2012 American College of Allergy, Asthma & Immunology. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anai.2011.12.018 
+PMID: 22374202  [Indexed for MEDLINE]

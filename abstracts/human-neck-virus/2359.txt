@@ -1,0 +1,42 @@
+
+
+2359. J Pharm Pharm Sci. 2015;18(2):220-34.
+
+Strategies for Developing Oral Vaccines for Human Papillomavirus (HPV) Induced
+Cancer using Nanoparticle mediated Delivery System.
+
+Uddin MN(1), Kouzi SA, Hussain MD.
+
+Author information: 
+(1)School of Pharmacy, Levine College of Health Science, Wingate University,
+Wingate, NC, USA.
+
+Human Papillomaviruses (HPV) are a diverse group of small non-enveloped DNA
+viruses. Some HPVs are classified as low-risk as they are very rarely associated 
+with neoplasia or cancer in the general population, and cause lenient warts.
+Other HPVs are considered as high-risk types because they are responsible for
+several important human cancers, including cervical cancer, a large proportion of
+other anogenital cancers, and a growing number of head and neck cancers.
+Transmission of HPV occurs primarily by skin-to-skin contact. The risk of
+contracting genital HPV infection and cervical cancer is influenced by sexual
+activity. Currently two prophylactic HPV vaccines, Gardasil® (Merck, USA) and
+Cervarix® (GlaxoSmithKline, UK), are available and recommended for mass
+immunization of adolescents. However, these vaccines have limitations as they are
+expensive and require cold chain storage and trained personnel to administer them
+by injection. The use of nano or micro particulate vaccines could address most of
+these limitations as they are stable at room temperature, inexpensive to produce 
+and distribute to resource poor regions, and can be administered orally without
+the need for adjuvants in the formulation. Also it is possible to increase the
+efficiency of these particulate vaccines by decorating the surface of the nano or
+micro particulates with suitable ligands for targeted delivery. Oral vaccines,
+which can be delivered using particulate formulations, have the added potential
+to stimulate mucosa-associated lymphoid tissue located in the digestive tract and
+the gut-associated lymphoid tissue, both of which are important for the induction
+of effective mucosal response against many viruses. In addition, oral vaccines
+provide the opportunity to reduce production and administration costs and are
+very patient compliant. This review elaborately discusses different strategies
+that can be pursued to develop a nano or micro particulate oral vaccine for HPV
+induced cancers and other diseases.
+
+
+PMID: 26158287  [Indexed for MEDLINE]

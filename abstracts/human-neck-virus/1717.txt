@@ -1,0 +1,53 @@
+
+
+1717. Oral Oncol. 2017 Oct;73:166-171. doi: 10.1016/j.oraloncology.2017.08.019. Epub
+2017 Sep 14.
+
+Intraindividual homogeneity of 18F-FDG PET/CT parameters in HPV-positive OPSCC.
+
+Sharma SJ(1), Wittekindt C(2), Knuth J(2), Steiner D(3), Wuerdemann N(2), Laur
+M(4), Kroll T(2), Wagner S(2), Klussmann JP(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen/Germany, Klinikstrasse 33, 35392 Giessen, Germany. Electronic address:
+shachi.j.sharma@hno.med.uni-giessen.de.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen/Germany, Klinikstrasse 33, 35392 Giessen, Germany.
+(3)Department of Nuclear Medicine, University of Giessen/Germany, Klinikstrasse
+33, 35392 Giessen, Germany.
+(4)Department of Otorhinolaryngology, Head and Neck Surgery, University of
+Giessen/Germany, Klinikstrasse 33, 35392 Giessen, Germany; Department of
+Otorhinolaryngology, Head and Neck Surgery, Klinikum Bad Hersfeld GmbH, Seilerweg
+29, 36251 Bad Hersfeld, Germany(3).
+
+OBJECTIVES: 18F-FDG PET/CT is widely used in clinical oncology. Human
+papillomavirus (HPV)-related oropharyngeal squamous cell carcinoma (OPSCC)
+represents an emerging disease that differs from HPV-negative OPSCC in clinical
+behavior and tumour biology. In these tumours, HPV-oncogenes might lead to
+distinct alterations in metabolic pathways. Therefore, we compared metabolic
+parameters using 18F-FDG PET/CT in HPV-positive and HPV-negative OPSCC in
+relation to histopathological findings.
+MATERIALS: Eighty-six patients with OPSCC received pre-therapeutic 18F-FDG
+PET/CT. Standardised uptake volume (SUV), total lesion glycolysis (TLG) and
+metabolic tumour volume (MTV) were analysed for the primary tumour. SUVmax was
+determined for neck lymph nodes. HPV-status was determined; overall survival
+rates (OS) were estimated.
+RESULTS: 32/86 patients (37.2%) had HPV-related OPSCC. Overall, PET-parameters in
+primary tumours of both groups did not differ significantly. Comparing early with
+locally advanced primary tumours, there was a significant increase in 18F-FDG
+uptake in HPV-negative patients (p<0.001). Positive nodes of HPV-related OPSCC
+showed significantly higher SUVmax values (p=0.039) compared to HPV-negative
+OPSCC. Strikingly, there was a higher intraindividual homogeneity of 18F-FDG
+uptake between primary and respective positive nodes in HPV-related primary OPSCC
+(p=0.001). SUV-max and -mean values did not correlate with OS in HPV-related
+OPSCC.
+CONCLUSION: The intraindividual homogeneity of 18F-FDG uptake in HPV-related
+OPSCC could reflect the more homogenously, HPV-triggered carcinogenesis compared 
+to the mutation-driven carcinogenesis in the HPV-negative OPSCC with heterogenic 
+18F-FDG uptake.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.08.019 
+PMID: 28939071  [Indexed for MEDLINE]

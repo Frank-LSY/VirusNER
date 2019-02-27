@@ -1,0 +1,33 @@
+
+
+535. Methods Mol Biol. 2018;1699:119-134. doi: 10.1007/978-1-4939-7435-1_10.
+
+Identification of E6/E7-Dependent MicroRNAs in HPV-Positive Cancer Cells.
+
+Honegger A(1), Schilling D(2), Sültmann H(2), Hoppe-Seyler K(1), Hoppe-Seyler
+F(3).
+
+Author information: 
+(1)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), Im Neuenheimer Feld 280, Heidelberg, 69120, Germany.
+(2)Cancer Genome Research (B063), German Cancer Research Center (DKFZ) and German
+Cancer Consortium (DKTK), Heidelberg, Germany.
+(3)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), Im Neuenheimer Feld 280, Heidelberg, 69120, Germany.
+hoppe-seyler@dkfz.de.
+
+Oncogenic types of human papillomaviruses (HPVs) are closely linked to the
+development of anogenital and head and neck cancers . The expression of the viral
+E6 and E7 genes is crucial for the transforming activities of HPVs. There is
+accumulating evidence that the HPV E6/E7 oncogenes can profoundly affect the
+cellular microRNA (miRNA) composition. Since alterations of miRNA expression
+levels can contribute to cancer development and maintenance, it will be important
+to understand in depth the crosstalk between the HPV oncogenes and the cellular
+miRNA network . Here, we describe a method to identify E6/E7-dependent
+intracellular miRNAs by small RNA deep sequencing , upon silencing of endogenous 
+E6/E7 expression in HPV-positive cancer cells in vitro. In addition, we provide a
+protocol to identify E6/E7-dependent miRNA alterations in exosomes that are
+secreted by HPV-positive cancer cells in vitro.
+
+DOI: 10.1007/978-1-4939-7435-1_10 
+PMID: 29086374  [Indexed for MEDLINE]

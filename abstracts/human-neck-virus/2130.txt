@@ -1,0 +1,61 @@
+
+
+2130. Eur J Cancer. 2016 Sep;64:1-11. doi: 10.1016/j.ejca.2016.05.008. Epub 2016 Jun
+17.
+
+Association of human papillomavirus and p16 status with mucositis and dysphagia
+for head and neck cancer patients treated with radiotherapy with or without
+cetuximab: Assessment from a phase 3 registration trial.
+
+Bonner JA(1), Giralt J(2), Harari PM(3), Baselga J(4), Spencer S(5), Bell D(6),
+Raben D(7), Liu J(8), Schulten J(9), Ang KK(6), Rosenthal DI(6).
+
+Author information: 
+(1)University of Alabama at Birmingham Comprehensive Cancer Center, Department of
+Radiation Oncology, 619 19th Street South, Birmingham, AL 35233, USA. Electronic 
+address: jabonner@uabmc.edu.
+(2)Servei d'Oncologia Radioteràpica, Hospital Universitari Valld'Hebron, 08035
+Barcelona, Spain.
+(3)Department of Human Oncology, University of Wisconsin School of Medicine and
+Public Health, 600 Highland Avenue K4/336, Madison, WI 53792, USA.
+(4)Memorial Sloan Kettering Cancer Center, New York, NY 10065, USA.
+(5)University of Alabama, Hazelrig-Salter Radiation Oncology Center, 1700 6th
+Avenue South, Birmingham, AL 35233, USA.
+(6)MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX 77030, USA.
+(7)Department of Radiation Oncology at the Anschutz Medical Campus, 1665 Aurora
+Court, Suite 1032, Aurora, CO 80045, USA.
+(8)Merck Serono, Beijing, China.
+(9)Merck KGaA, Frankfurter Str 250, 135/001, 64293 Darmstadt, Germany.
+
+BACKGROUND: Mucositis and dysphagia are common adverse effects of radiotherapy
+(RT) treatment of locally advanced squamous cell cancer of the head and neck
+(LA-SCCHN). Chemotherapy added to RT increases survival rates but causes worse
+mucositis and dysphagia. The aim of this analysis was to assess the impact of p16
+status on mucositis, dysphagia, and feeding tube use in LA-SCCHN among patients
+treated with RT±cetuximab in the phase 3 IMCL-9815 trial.
+METHODS: Patients received RT plus weekly cetuximab or RT alone. Subgroup
+analyses were conducted on patients with p16-positive (n=75) or p16-negative
+(n=106) oropharyngeal cancer (OPC), as determined by immunohistochemical
+analysis. The onset and duration of mucositis and dysphagia by treatment arm and 
+p16 status were displayed using Kaplan-Meier curves and the log-rank test. P
+values for the incidence of mucositis and dysphagia were calculated using the
+Fisher exact test. Feeding tube use was assessed as the percent of patients
+reporting use.
+RESULTS: The baseline characteristics of patients treated with RT±cetuximab were 
+similar in both the p16-positive and p16-negative OPC subgroups. Patients within 
+the p16-positive OPC subgroup had higher Karnofsky scores and were more likely to
+have stage T1-T3 cancer and be from the United States. Regardless of p16 status, 
+there was no difference in the onset or duration of grade 3/4 mucositis or
+dysphagia in patients receiving RT plus cetuximab compared with those receiving
+RT alone. In the overall population, and the p16-positive and p16-negative OPC
+subpopulations, feeding tube use was not different for patients receiving RT plus
+cetuximab compared with RT alone.
+CONCLUSION: Regardless of p16 status, the addition of cetuximab to RT did not
+alter the incidence, time to onset, severity, or duration of mucositis and
+dysphagia and did not impact the frequency of feeding tube use.
+
+Copyright © 2016 The Authors. Published by Elsevier Ltd.. All rights reserved.
+
+DOI: 10.1016/j.ejca.2016.05.008 
+PMCID: PMC5027878
+PMID: 27323346  [Indexed for MEDLINE]

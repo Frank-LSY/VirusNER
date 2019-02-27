@@ -1,0 +1,33 @@
+
+
+2526. Int J Oncol. 2011 Nov;39(5):1221-31. doi: 10.3892/ijo.2011.1100. Epub 2011 Jun
+24.
+
+Lentiviral short hairpin RNA screen of human kinases and phosphatases to identify
+potential biomarkers in oral squamous cancer cells.
+
+Yeh MH(1), Tsai TC, Kuo HP, Chang NW, Lee MR, Chung JG, Tsai MH, Liu JY, Kao MC.
+
+Author information: 
+(1)Graduate Institute of Life Sciences, National Defense Medical Center, No. 161,
+Section 6, Min-Chuan East Road, Taipei, Taiwan.
+
+Oral carcinoma is a serious public health problem and the leading cause of head
+and neck cancer mortality worldwide. Moreover, oral cancer patients often present
+symptoms at a late stage and show a high recurrence rate after treatment.
+Therefore, there is an urgent need to identify novel biomarkers for early
+diagnosis or clinical oral cancer therapy. In this study, we employed a subset of
+lentiviral short hairpin RNAs targeted against various kinases and phosphatases, 
+designed by The RNAi Consortium, to screen systemically and in a high-throughput 
+manner for potential growth regulators of oral cancer cells. The screen revealed 
+a total of 50 candidate genes, for which more than 90% of growth inhibition in
+human oral squamous cancer HSC-3 cells was obtained. Furthermore, bioinformatic
+analysis of these candidate genes identified transforming growth factor-β
+receptor type II- and fms-related tyrosine kinase 3-related molecular pathways
+that are involved in NF-κB-mediated growth of HSC-3 cells. These candidate genes 
+may be potential biomarkers for early diagnosis of oral cancer. In addition,
+these candidate genes represent potential targets for anticancer drug design
+helping to develop a personalized treatment to combat oral cancer.
+
+DOI: 10.3892/ijo.2011.1100 
+PMID: 21720705  [Indexed for MEDLINE]

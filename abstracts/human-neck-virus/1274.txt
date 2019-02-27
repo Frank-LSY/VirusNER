@@ -1,0 +1,35 @@
+
+
+1274. Head Neck. 2014 Feb;36(2):257-65. doi: 10.1002/hed.23302. Epub 2013 Jun 1.
+
+Human papillomavirus prevalence and prognostic implication in oropharyngeal
+squamous cell carcinomas.
+
+Melkane AE(1), Auperin A, Saulnier P, Lacroix L, Vielh P, Casiraghi O, Msakni I, 
+Drusch F, Temam S.
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Institut Gustave Roussy,
+Villejuif, France.
+
+BACKGROUND: Human papillomavirus (HPV)-related oropharyngeal squamous cell
+carcinoma (SCC) is associated with favorable survival. The purpose of this study 
+was to evaluate the prevalence and prognostic significance of the HPV infection
+through both the p16 expression status and the oncogenic HPV DNA viral load.
+METHODS: A retrospective chart review was conducted on all patients treated for
+oropharyngeal SCC between January 2007 and June 2009. P16 expression status by
+immunohistochemistry and HPV DNA viral load by quantitative polymerase chain
+reaction (qPCR) were evaluated on routine pretreatment tumor samples.
+RESULTS: One hundred thirty-three patients (94 men and 39 women) were included in
+the study. Mean age was 59 years. One hundred twenty-two lesions (92%) were
+localized to lymphoid areas. Sixty-seven patients (50%) were p16+, and 87
+patients (65%) harbored HPV DNA. The p16+/HPV DNA+ profile (48%) was associated
+with the most favorable prognosis. HPV16 was responsible for the majority of the 
+infections (89%).
+CONCLUSION: HPV is common among oropharyngeal SCC in France, and acts as an
+independent prognostic factor.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23302 
+PMID: 23728782  [Indexed for MEDLINE]

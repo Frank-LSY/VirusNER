@@ -1,0 +1,63 @@
+
+
+1203. N Engl J Med. 2017 Aug 10;377(6):513-522. doi: 10.1056/NEJMoa1701717.
+
+Analysis of Plasma Epstein-Barr Virus DNA to Screen for Nasopharyngeal Cancer.
+
+Chan KCA(1), Woo JKS(1), King A(1), Zee BCY(1), Lam WKJ(1), Chan SL(1), Chu
+SWI(1), Mak C(1), Tse IOL(1), Leung SYM(1), Chan G(1), Hui EP(1), Ma BBY(1), Chiu
+RWK(1), Leung SF(1), van Hasselt AC(1), Chan ATC(1), Lo YMD(1).
+
+Author information: 
+(1)From the Li Ka Shing Institute of Health Sciences (K.C.A.C., W.K.J.L.,
+S.W.I.C., C.M., I.O.L.T., S.Y.M.L., G.C., R.W.K.C., Y.M.D.L.), the Department of 
+Chemical Pathology (K.C.A.C., W.K.J.L., S.W.I.C., C.M., I.O.L.T., S.Y.M.L., G.C.,
+R.W.K.C., Y.M.D.L.), State Key Laboratory of Oncology in South China, Sir Y.K.
+Pao Centre for Cancer (K.C.A.C., W.K.J.L., S.L.C., S.W.I.C., C.M., I.O.L.T.,
+S.Y.M.L., G.C., E.P.H., B.B.Y.M., R.W.K.C., S.-F.L., A.T.C.C., Y.M.D.L.),
+Department of Otorhinolaryngology, Head and Neck Surgery (J.K.S.W., W.K.J.L.,
+A.C.H.), Department of Imaging and Interventional Radiology (A.K.), Jockey Club
+School of Public Health and Primary Care (B.C.Y.Z.), and Department of Clinical
+Oncology (S.L.C., E.P.H., B.B.Y.M., S.-F.L., A.T.C.C.), Chinese University of
+Hong Kong, Prince of Wales Hospital - all in Hong Kong.
+
+Erratum in
+    N Engl J Med. 2018 Mar 8;378(10 ):973.
+
+Comment in
+    N Engl J Med. 2017 Aug 10;377(6):584-585.
+
+BACKGROUND: Circulating cell-free Epstein-Barr virus (EBV) DNA is a biomarker for
+nasopharyngeal carcinoma. We conducted a prospective study to investigate whether
+EBV DNA in plasma samples would be useful to screen for early nasopharyngeal
+carcinoma in asymptomatic persons.
+METHODS: We analyzed EBV DNA in plasma specimens to screen participants who did
+not have symptoms of nasopharyngeal carcinoma. Participants with initially
+positive results were retested approximately 4 weeks later, and those with
+persistently positive EBV DNA in plasma underwent nasal endoscopic examination
+and magnetic resonance imaging (MRI).
+RESULTS: A total of 20,174 participants underwent screening. EBV DNA was
+detectable in plasma samples obtained from 1112 participants (5.5%), and 309
+(1.5% of all participants and 27.8% of those who initially tested positive) had
+persistently positive results on the repeated sample. Among these 309
+participants, 300 underwent endoscopic examination, and 275 underwent both
+endoscopic examination and MRI; of these participants, 34 had nasopharyngeal
+carcinoma. A significantly higher proportion of participants with nasopharyngeal 
+carcinoma that was identified by screening had stage I or II disease than in a
+historical cohort (71% vs. 20%, P<0.001 by the chi-square test) and had superior 
+3-year progression-free survival (97% vs. 70%; hazard ratio, 0.10; 95% confidence
+interval, 0.05 to 0.18). Nine participants declined to undergo further testing,
+and 1 of them presented with advanced nasopharyngeal carcinoma 32 months after
+enrollment. Nasopharyngeal carcinoma developed in only 1 participant with
+negative EBV DNA in plasma samples within 1 year after testing. The sensitivity
+and specificity of EBV DNA in plasma samples in screening for nasopharyngeal
+carcinoma were 97.1% and 98.6%, respectively.
+CONCLUSIONS: Analysis of EBV DNA in plasma samples was useful in screening for
+early asymptomatic nasopharyngeal carcinoma. Nasopharyngeal carcinoma was
+detected significantly earlier and outcomes were better in participants who were 
+identified by screening than in those in a historical cohort. (Funded by the
+Kadoorie Charitable Foundation and the Research Grants Council of the Hong Kong
+government; ClinicalTrials.gov number, NCT02063399 .).
+
+DOI: 10.1056/NEJMoa1701717 
+PMID: 28792880  [Indexed for MEDLINE]

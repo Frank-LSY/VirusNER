@@ -1,0 +1,32 @@
+
+
+2108. Anticancer Res. 2013 Sep;33(9):3527-41.
+
+Ubiquitination and the ubiquitin - proteasome system in the pathogenesis and
+treatment of squamous head and neck carcinoma.
+
+Voutsadakis IA(1).
+
+Author information: 
+(1)Division of Medical Oncology, Department of Internal Medicine, Sault Area
+Hospital, 750 Great Northern Rd, Sault Ste Marie, ON P6B OA8, Canada.
+ivoutsadakis@yahoo.com.
+
+Squamous carcinomas of the head and neck area are carcinomas that were
+traditionally associated with alcohol and tobacco abuse. More recently, a
+pathogenic relationship of oncogenic human papilloma viruses (HPV) with head and 
+neck cancer of the oropharynx and the base of the tongue has been revealed. Two
+proteins of HPV, E6 and E7, are involved in neoplastic transformation not only in
+the head and neck but in other locations, where these epitheliotropic viruses
+cause carcinomas, such as the uterine cervix and the anal region. The E6 viral
+protein associates with cellular E3 ubiquitin ligase E6-AP and promotes
+degradation of tumour suppressor p53 by the proteasome. This molecular event
+reveals the important role that the ubiquitin-proteasome system (UPS) plays in
+the pathogenesis of head and neck cancer. The role of this system in head and
+neck carcinogenesis is not restricted to the destruction of p53 but extends to
+most, if not all, signaling pathways that regulate carcinogenesis in this
+location. These roles are reviewed here and implications for treatment are
+discussed.
+
+
+PMID: 24023278  [Indexed for MEDLINE]

@@ -1,0 +1,72 @@
+
+
+2327. Cancer Prev Res (Phila). 2015 Apr;8(4):287-95. doi:
+10.1158/1940-6207.CAPR-14-0366. Epub 2015 Jan 29.
+
+Cleaved NOTCH1 Expression Pattern in Head and Neck Squamous Cell Carcinoma Is
+Associated with NOTCH1 Mutation, HPV Status, and High-Risk Features.
+
+Rettig EM(1), Chung CH(2), Bishop JA(3), Howard JD(4), Sharma R(3), Li RJ(1),
+Douville C(5), Karchin R(6), Izumchenko E(1), Sidransky D(1), Koch W(1), Califano
+J(7), Agrawal N(8), Fakhry C(9).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(2)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland. Sidney Kimmel Comprehensive Cancer
+Center, Baltimore, Maryland. Department of Oncology, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(3)Department of Pathology, Johns Hopkins School of Medicine, Johns Hopkins
+Medicine, Baltimore, Maryland.
+(4)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+(5)Johns Hopkins Institute for Computational Medicine and Department of
+Biomedical Engineering, Baltimore, Maryland.
+(6)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland. Johns Hopkins Institute for Computational Medicine and
+Department of Biomedical Engineering, Baltimore, Maryland.
+(7)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland. Milton J. Dance Jr. Head and Neck
+Center, Greater Baltimore Medical Center, Baltimore, Maryland.
+(8)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland. Johns Hopkins University School of
+Medicine Ludwig Center for Cancer Genetics and Therapeutics, Baltimore, Maryland.
+cfakhry1@jhmi.edu nagrawal@jhmi.edu.
+(9)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland. Milton J. Dance Jr. Head and Neck
+Center, Greater Baltimore Medical Center, Baltimore, Maryland. Department of
+Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore,
+Maryland. cfakhry1@jhmi.edu nagrawal@jhmi.edu.
+
+The Notch pathway is frequently altered in head and neck squamous cell carcinomas
+(HNSCC); however, the clinical significance of NOTCH1 dysregulation is poorly
+understood. This study was designed to characterize expression of the
+transcriptionally active NOTCH1 intracellular domain (NICD1) in HNSCCs and
+evaluate its association with NOTCH1 mutation status and clinical parameters. IHC
+for NICD1 was performed on 79 previously sequenced archival HNSCCs with known
+NOTCH1 mutation status. Three distinct immunohistochemical staining patterns were
+identified: positive/peripheral (47%), positive/nonperipheral (34%), and negative
+(19%). NICD1 expression was associated with NOTCH1 mutation status (P < 0.001).
+Most NOTCH1-wild-type tumors were peripheral (55%), whereas mutated NOTCH1 tumors
+were most commonly negative (47%). Nonperipheral tumors were more likely than
+peripheral tumors to have extracapsular spread [adjusted odds ratio (aOR), 16.01;
+95% confidence interval (CI), 1.92-133.46; P = 0.010] and poor differentiation
+(aOR, 5.27; 95% CI, 0.90-30.86; P = 0.066). Negative staining tumors tended to be
+poorly differentiated (aOR, 24.71; 95% CI, 1.53-399.33; P = 0.024) and were less 
+likely to be human papillomavirus (HPV) positive (aOR, 0.043; 95% CI, 0.001-1.59;
+P = 0.087). NOTCH1 mutagenesis was significantly associated with HPV status, with
+NOTCH1-wild-type tumors more likely to be HPV positive than NOTCH1-mutated tumors
+(aOR, 19.06; 95% CI, 1.31-276.15; P = 0.031). TP53 disruptive mutations were not 
+associated with NICD1 expression or NOTCH1 mutation. In conclusion, NICD1 is
+expressed in three distinct patterns in HNSCC that are significantly associated
+with high-risk features. These findings further support a dual role for NOTCH1 as
+both tumor suppressor and oncogene in HNSCC. Further research is necessary to
+clarify the role of NOTCH1 in HNSCC and understand the clinical and therapeutic
+implications therein.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1940-6207.CAPR-14-0366 
+PMCID: PMC4383699
+PMID: 25633867  [Indexed for MEDLINE]

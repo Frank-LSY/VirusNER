@@ -1,0 +1,42 @@
+
+
+1043. J Biomol Tech. 2016 Jul;27(2):46-52. doi: 10.7171/jbt.16-2702-004. Epub 2016 Mar 
+7.
+
+Next-Generation Sequencing-Based HPV Genotyping Assay Validated in
+Formalin-Fixed, Paraffin-Embedded Oropharyngeal and Cervical Cancer Specimens.
+
+Ambulos NP Jr(1), Schumaker LM(1), Mathias TJ(1), White R(1), Troyer J(1), Wells 
+D(1), Cullen KJ(1).
+
+Author information: 
+(1)1 University of Maryland Marlene and Stewart Greenebaum Cancer Center,
+Baltimore, Maryland 21201, USA; and 2 Cancer Research Technology Program,
+Frederick National Laboratory for Cancer Research, Frederick, Maryland 21702,
+USA.
+
+Available clinical human papilloma virus (HPV) diagnostics for head and neck
+cancer have limited sensitivity and/or fail to define the HPV genotype. Common
+HPV genotyping assays are costly and labor intensive. We sought to develop a
+next-generation sequencing (NGS)-based HPV genotyping assay that was sensitive
+enough to work on formalin-fixed paraffin-embedded (FFPE) samples. We developed
+an ion torrent NGS HPV genotyping assay using barcoded HPV PCR broad-spectrum
+general primers 5(+)/6(+) (BSGP)5(+)/6(+). To validate genotype specificity and
+use in archived clinical FFPE tumor samples, we compared NGS HPV genotyping at 2 
+sequencing centers with typing by Roche Linear Array assay in 42 oropharyngeal
+and cervical cancer specimens representing 10 HPV genotypes, as well as
+HPV-negative cases. To demonstrate the detection of a broad range of HPV
+genotypes, we genotyped a cohort of 266 cervical cancers. A comparison of NGS
+genotyping of FFPE cancer specimens with genotyping by Linear Array showed
+concordant results in 34/37 samples (92%) at sequencing site 1 and 39/42 samples 
+(93%) at sequencing site 2. Concordance between sites was 92%. Designed for use
+with 10 ng genomic DNA, the assay detected HPV using as little as 1.25 ng
+FFPE-derived genomic DNA. In 266 cervical cancer specimens, the NGS assay
+identified 20 different HPV genotypes, including all 13 carcinogenic genotypes.
+This novel NGS assay provides a sensitive and specific high-throughput method to 
+detect and genotype HPV in a range of clinical specimens derived from FFPE with
+low per-sample cost.
+
+DOI: 10.7171/jbt.16-2702-004 
+PMCID: PMC4802743
+PMID: 27006646  [Indexed for MEDLINE]

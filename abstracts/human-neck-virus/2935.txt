@@ -1,0 +1,55 @@
+
+
+2935. AIDS Res Hum Retroviruses. 2016 Jan;32(1):59-67. doi: 10.1089/aid.2015.0158. Epub
+2015 Sep 14.
+
+High Prevalence of Low Bone Mineral Density and Substantial Bone Loss over 4
+Years Among HIV-Infected Persons in the Era of Modern Antiretroviral Therapy.
+
+Escota GV(1), Mondy K(2), Bush T(3), Conley L(3), Brooks JT(3), Önen N(1), Patel 
+P(4), Kojic EM(5), Henry K(6), Hammer J(7), Wood KC(8), Lichtenstein KA(9),
+Overton ET(10).
+
+Author information: 
+(1)1 Division of Infectious Diseases, Washington University School of Medicine , 
+Saint Louis, Missouri.
+(2)2 Central Texas Veterans Healthcare System , Austin, Texas.
+(3)3 Division of HIV/AIDS Prevention, Centers for Disease Control and Prevention 
+, Atlanta, Georgia .
+(4)4 Center of Global Health, Non-Communicable Diseases Unit, Centers for Disease
+Control and Prevention , Atlanta, Georgia .
+(5)5 Division of Infectious Diseases, Brown University , Miriam Hospital,
+Providence, Rhode Island.
+(6)6 HIV Program, Hennepin County Medical Center and the University of Minnesota 
+, Minneapolis, Minnesota.
+(7)7 Denver Infectious Disease Consultants , Denver, Colorado.
+(8)8 Cerner Corporation , Vienna, Virginia.
+(9)9 National Jewish Health , Denver, Colorado.
+(10)10 Division of Infectious Diseases, University of Alabama School of Medicine 
+, Birmingham, Alabama.
+
+HIV-infected persons are living longer on combination antiretroviral therapy
+(cART) but experiencing more comorbidities including low bone mineral density
+(BMD). Using data from the Study to Understand the Natural History of HIV and
+AIDS in the Era of Effective Therapy (SUN Study), we determined the prevalence of
+low BMD (T-score below one standard deviation of the reference mean) and compared
+it with matched controls from the National Health and Nutrition Examination
+Survey (NHANES). We also assessed 4-year longitudinal BMD changes among
+participants virologically suppressed on cART. Of 653 participants included in
+this analysis (77% male, 29% black, median age 41 years, median CD4(+) cell count
+464 cells/mm(3), 89% with HIV RNA <400 copies/ml), 51% and 10% had baseline
+osteopenia and osteoporosis, respectively. Low BMD at the femoral neck was
+significantly more prevalent than for the NHANES controls (47% versus 29%,
+p<0.001). Lower body mass index, nonwhite race, longer tenofovir exposure, older 
+age, being unemployed or retired, and lower apolipoprotein E were independently
+associated with baseline osteoporosis. Among 170 participants virologically
+suppressed on cART and with longitudinal BMD data, 31% experienced substantial
+bone loss (≥5% BMD decline from baseline) over 4 years. Female sex, current
+smoking, and longer stavudine use were more common among participants who had
+substantial bone loss, although these variables failed to reach statistical
+significance. Low BMD was highly prevalent among HIV-infected persons. One-third 
+of participants experienced substantial bone loss despite cART, suggesting the
+need for monitoring and potential clinical interventions.
+
+DOI: 10.1089/aid.2015.0158 
+PMID: 26366785  [Indexed for MEDLINE]

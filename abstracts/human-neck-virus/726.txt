@@ -1,0 +1,31 @@
+
+
+726. Recent Results Cancer Res. 2017;206:233-242.
+
+Predictive Factors for Outcome and Quality of Life in HPV-Positive and
+HPV-Negative HNSCC.
+
+Hess J(1).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, University Hospital and
+Research Group Molecular Mechanisms of Head and Neck Tumors, German Cancer
+Research Center (DKFZ), Heidelberg, Germany. jochen.hess@med.uni-heidelberg.de.
+
+Infection with high-risk types of the human papilloma virus (HPV) is an
+etiological risk factor for oropharyngeal squamous cell carcinoma (OPSCC) and
+associated with a better response to therapy and improved survival. A better
+understanding of the molecular principles underlying the differences in clinical 
+behavior could pave the way to establish more effective and less toxic therapy
+for HPV-positive OPSCC and their HPV-negative counterparts. Compelling
+experimental evidence demonstrates that extensive global reprogramming of
+epigenetic profiles is as important as genetic mutations during neoplastic
+transformation and malignant progression, including HPV-positive OPSCC. In this
+chapter, the current knowledge on HPV-related alterations in DNA methylation,
+histone modification, and chromosome remodeling will be summarized and assessment
+of cancer-related profiles will be discussed as a valuable tool to gain important
+diagnostic or prognostic information for therapeutic decision-making and clinical
+management of HNSCC patients.
+
+DOI: 10.1007/978-3-319-43580-0_18 
+PMID: 27699543  [Indexed for MEDLINE]

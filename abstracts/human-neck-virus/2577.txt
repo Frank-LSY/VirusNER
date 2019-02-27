@@ -1,0 +1,38 @@
+
+
+2577. Eur Arch Otorhinolaryngol. 2014 Jun;271(6):1737-45. doi:
+10.1007/s00405-013-2693-8. Epub 2013 Sep 25.
+
+Comparison of HPV prevalence in HNSCC patients with regard to regional and
+socioeconomic factors.
+
+Krupar R(1), Hartl M, Wirsching K, Dietmaier W, Strutz J, Hofstaedter F.
+
+Author information: 
+(1)Institute of Pathology, University of Regensburg, Franz-Josef-Strauss-Allee
+11, 93053, Regensburg, Germany, rosemarie.krupar@ukr.de.
+
+HPV infection is considered as an independent risk factor for head and neck
+squamous cell carcinomas (HNSCC). Due to highly variable prevalence results in
+numerous studies, it is, however, difficult to estimate the relevance of HPV
+infection as risk factor for a specific patient collective. This study aimed to
+elucidate the disparities of HPV prevalence by analyzing socioeconomically and
+regionally different patient collectives. Two age, gender, stage and tumor
+location matched cohorts of 18 private health insured (PHIP) and 16 statutory
+health insured patients (SIP) suffering from an oropharyngeal squamous cell
+carcinoma (OSCC) and treated at a university hospital were screened for p16
+overexpression and HPV infection by immunohistochemistry and PCR. In addition 85 
+HNSCC patients of an otolaryngology private practice (PPP) in a rural area were
+screened for p16 overexpression and positive cases were tested for HPV infection.
+HPV prevalence was 72.2% in the PHIP collective in comparison to 25.0% (p =
+0.015) in the SIP collective with a significantly improved 5-year overall
+survival (p = 0.003) of the PHIP collective. The total HPV prevalence of PPP
+group was 7.1% with the highest infection rate in tonsillar carcinomas (33.3%)
+and a larger percentage of female patients in the HPV positive group (p = 0.037).
+This study shows that variable HPV infection rates in HNSCC can be caused by the 
+selection of particular patient collectives, which suggest taking socioeconomic
+and regional factors into account for a decision on HPV testing, if it is not
+performed on a routine basis.
+
+DOI: 10.1007/s00405-013-2693-8 
+PMID: 24065189  [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+
+
+2317. Mol Carcinog. 2017 Mar;56(3):1100-1106. doi: 10.1002/mc.22576. Epub 2016 Oct 20.
+
+A functional variant at the miRNA binding site in E2F1 gene is associated with
+risk and tumor HPV16 status of oropharynx squamous cell carcinoma.
+
+Yuan Y(1)(2), Sturgis EM(1)(3), Zhu L(1)(4), Lu M(5), Li Y(6), Wei Q(7), Li
+G(1)(3).
+
+Author information: 
+(1)Department of Head and Neck Surgery, University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(2)Department of Radiology, Shanghai Ninth People's Hospital, Shanghai Jiao Tong 
+University School of Medicine, Shanghai, China.
+(3)Department of Epidemiology, University of Texas MD Anderson Cancer Center,
+Houston, Texas.
+(4)Department of Oral and Maxillofacial Surgery, Guangdong General Hospital and
+Guangdong Academy of Medical Science, Guangzhou, China.
+(5)Department of Epidemiology and Biostatistics, School of Public Health,
+Huazhong University of Science and Technology, Wuhan, China.
+(6)Department of Otorhinolaryngology, Union Hospital of Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, China.
+(7)Duke Cancer Institute, Duke University Medical Center, Durham, North Carolina.
+
+Human papillomavirus (HPV) activates E2F1-driven transcription via the E7-RB1-E2F
+pathway. Genetic polymorphisms in the 3' untranslated region (UTR) targeted by
+miRNAs can affect the regulation of target genes and individual cancer risk.
+Thus, we hypothesized that a polymorphism at the 3'UTR miRNA binding site of E2F1
+gene (rs3213180) was associated with risk of oral squamous cell carcinoma (OSCC) 
+and tumor HPV status of oropharynx squamous cell carcinoma (OPSCC). We determined
+the E2F1rs3213180 polymorphism and HPV16 L1 serology of 325 OSCC patients and 335
+controls, and tumor HPV16 status of 552 OPSCC. Logistic regression models were
+used to calculate associations of E2F1rs3213180 polymorphism with risk of
+HPV-associated OSCC and tumor HPV status of OPSCC. The risk of HPV-associated
+OSCC was modified by the E2F1rs3213180 polymorphism. Patients with both HPV
+seropositivity and the Ins/Del or Ins/Ins genotype of E2F1rs3213180 had the
+highest risk of OSCC, while the lowest risk was detected in patients with HPV
+seronegativity and the Del/Del genotype. A similar and more prominent effect was 
+detected in OPSCC, but not in oral cavity squamous cell carcinoma (OCSCC)
+patients. Notably, that effect trend was pronounced in never-smokers and
+never-drinkers. Furthermore, the patients with the E2F1rs3213180 Ins/Del or
+Ins/Ins genotype were 2.9 times more likely to have HPV-positive tumors than
+those with the Del/Del genotype. Our results suggest that the E2F1rs3213180
+polymorphism may influence susceptibility to HPV-associated OSCC, particularly
+for OPSCC, never-smokers and never-drinkers, but not for patients with OCSCC.
+Additional larger population and functional studies are warranted to confirm our 
+findings. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mc.22576 
+PMID: 27677255  [Indexed for MEDLINE]

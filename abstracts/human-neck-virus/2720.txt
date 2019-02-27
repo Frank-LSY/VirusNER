@@ -1,0 +1,35 @@
+
+
+2720. Eur J Cancer Prev. 2017 Mar;26(2):144-150. doi: 10.1097/CEJ.0000000000000221.
+
+BART miRNAs: an unimaginable force in the development of nasopharyngeal
+carcinoma.
+
+Wang Y(1), Guo Z, Shu Y, Zhou H, Wang H, Zhang W.
+
+Author information: 
+(1)aDepartment of Clinical Pharmacology, Xiangya Hospital, Central South
+University and Institute of Clinical Pharmacology, Central South University
+bDepartment of Radiation Oncology, Hunan Provincial Tumor Hospital & Affiliated
+Tumor Hospital of Xiangya Medical School, Central South University cHunan Key
+Laboratory of Pharmacogenetics dHunan Key Laboratory of Translational Radiation
+Oncology, ChangSha, People's Republic of China eDepartment of Pharmaceutical
+Sciences, School of Pharmacy, University of Maryland, Baltimore, Maryland, USA.
+
+Nasopharyngeal carcinoma (NPC) is a head and neck cancer that represents a major 
+health burden in Southern China and Southeast Asia. Although the close
+association of NPC with Epstein-Barr virus (EBV) infection has been demonstrated,
+its exact role in the pathogenesis of this malignancy is still unclear. The
+expression of EBV-encoded microRNAs, especially BART miRNAs, which are encoded
+from the BamHI-A region of the viral genome, is detected at a high level in NPC. 
+miRNAs are small noncoding mRNAs that can positively regulate the virus to ensure
+accurate expression of viral genomes and to modify the gene expression of host
+cells by negative regulation. Accumulating evidence suggests that ebv-mir-BARTs
+play a critical role in host cell survival, immune escape, cell proliferation,
+cell apoptosis, and cancer metabolism, promoting the generation of NPC. This
+review will summarize our current understanding of the nature and function of
+ebv-mir-BARTs in NPC.
+
+DOI: 10.1097/CEJ.0000000000000221 
+PMCID: PMC5321115
+PMID: 26909566  [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+
+
+3165. Br J Cancer. 2016 Jul 12;115(2):212-22. doi: 10.1038/bjc.2016.199. Epub 2016 Jun 
+28.
+
+Overexpression of the oncostatin-M receptor in cervical squamous cell carcinoma
+is associated with epithelial-mesenchymal transition and poor overall survival.
+
+Kucia-Tran JA(1), Tulkki V(1), Smith S(1), Scarpini CG(1), Hughes K(2), Araujo
+AM(1), Yan KY(1), Botthof J(1), Pérez-Gómez E(3), Quintanilla M(4), Cuschieri
+K(5), Caffarel MM(1), Coleman N(1).
+
+Author information: 
+(1)Department of Pathology, University of Cambridge, Cambridge CB2 1QP, UK.
+(2)Department of Veterinary Medicine, University of Cambridge, Cambridge CB3 0ES,
+UK.
+(3)Department of Biochemistry and Molecular Biology I, School of Biology,
+Complutense University, Madrid 28040, Spain.
+(4)Department of Cancer Biology, Instituto de Investigaciones Biomédicas Alberto 
+Sols, Consejo Superior de Investigaciones Científicas (CSIC), Universidad
+Autónoma de Madrid (UAM), Madrid 28029, Spain.
+(5)Scottish Human Papilloma Virus Reference Laboratory, Specialist Virology
+Centre, Royal Infirmary of Edinburgh, Edinburgh EH16 4SA, UK.
+
+BACKGROUND: Copy-number gain of the oncostatin-M receptor (OSMR) occurs
+frequently in cervical squamous cell carcinoma (SCC) and is associated with
+adverse clinical outcome. We previously showed that OSMR overexpression renders
+cervical SCC cells more sensitive to the major ligand oncostatin-M (OSM), which
+increases migration and invasion in vitro. We hypothesised that a major
+contribution to this phenotype would come from epithelial-mesenchymal transition 
+(EMT).
+METHODS: We performed a comprehensive integrated study, involving in vitro cell
+line studies, in vivo animal models and numerous clinical samples from a variety 
+of anatomical sites.
+RESULTS: In independent sets of cervical, head/neck and lung SCC tissues, OSMR
+expression levels correlated with multiple EMT-associated phenotypic markers and 
+transcription factors. OSM treatment of OSMR overexpressing cervical SCC cells
+produced consistent EMT changes and increased tumour sphere formation in
+suspension culture. In a mouse model, OSMR overexpressing SCC cells treated with 
+OSM showed significant increases in lung colonisation. The biological effects of 
+exogenous OSM were mirrored by highly significant adverse overall survival in
+cervical SCCs with OSMR overexpression (N=251).
+CONCLUSIONS: OSM:OSMR interactions are able to induce EMT, increased cancer stem 
+cell-like properties and enhanced lung colonisation in SCC cells. These changes
+are likely to contribute to the highly significant adverse outcome associated
+with OSMR overexpression in cervical SCCs.
+
+DOI: 10.1038/bjc.2016.199 
+PMCID: PMC4947707
+PMID: 27351213  [Indexed for MEDLINE]

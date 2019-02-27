@@ -1,0 +1,46 @@
+
+
+668. J Oral Pathol Med. 2016 Sep;45(8):565-72. doi: 10.1111/jop.12416. Epub 2015 Dec
+29.
+
+Detection of human papillomavirus infection in oral squamous cell carcinoma: a
+cohort study of Japanese patients.
+
+Kouketsu A(1), Sato I(2), Abe S(1), Oikawa M(3), Shimizu Y(3), Takahashi T(1),
+Kumamoto H(3).
+
+Author information: 
+(1)Division of Oral and Maxillofacial Surgery, Department of Oral Medicine and
+Surgery, Tohoku University Graduate School of Dentistry, Sendai, Miyagi, Japan.
+(2)Division of Pathology, Miyagi Cancer Center, Natori, Miyagi, Japan.
+(3)Division of Oral Pathology, Department of Oral Medicine and Surgery, Tohoku
+University Graduate School of Dentistry, Sendai, Miyagi, Japan.
+
+OBJECTIVE: Recent evidence suggests that human papillomavirus (HPV)-related head 
+and neck squamous cell carcinoma (HNSCC) is a separate HNSCC subgroup with
+distinct epidemiology, histopathological characteristics, therapeutic response to
+chemotherapy and radiation, and clinical outcome. This study aimed to investigate
+the role of HPV infection in oral squamous cell carcinoma (OSCC) and the
+correlation between HPV infection, tumor suppressor protein p16 expression, and
+clinicopathological features in Japanese patients.
+METHODS: In total, 174 OSCC specimens were examined for p16 levels by
+immunohistochemistry, and p16-positive OSCCs were analyzed for HPV DNA by in situ
+hybridization (ISH) and HPV genotypes by real-time PCR. The results were
+evaluated for the association with clinicopathological characteristics of OSCC
+patients.
+RESULTS: Twenty-four OSCC samples were found positive for p16 expression; all of 
+them were well-differentiated tumors. P16 immunoreactivity was significantly
+associated with the invasion depth and tended to correlate with sex, site in the 
+oral cavity, stromal reaction, TNM stage, and survival. HPV DNA was detected in
+13 of 24 (54%) p16-positive OSCC by real-time PCR; HPV 16, 18, and other
+high-risk genotypes were the most prevalent. However, ISH failed to detect HPV
+DNA in p16-positive OSCCs.
+CONCLUSION: P16 immunoreactivity and HPV genotyping by real-time PCR may be
+useful markers of HPV infection in OSCC. However, although HPV-related OSCC
+showed good outcomes, HPV infection may have a minor role in oral oncogenesis in 
+Japanese patients.
+
+© 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12416 
+PMID: 26711722  [Indexed for MEDLINE]

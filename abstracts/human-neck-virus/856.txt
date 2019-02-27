@@ -1,0 +1,35 @@
+
+
+856. Cancer Gene Ther. 2013 Oct;20(10):582-9. doi: 10.1038/cgt.2013.55. Epub 2013 Sep 
+13.
+
+Overcoming cancer cell resistance to VSV oncolysis with JAK1/2 inhibitors.
+
+Escobar-Zarate D(1), Liu YP, Suksanpaisan L, Russell SJ, Peng KW.
+
+Author information: 
+(1)Department of Molecular Medicine, Mayo Clinic, Rochester, MN, USA.
+
+Oncolytic vesicular stomatitis virus (VSV) has potent antitumor activity but some
+cancer cells are resistant to VSV killing, either constitutively or due to type I
+interferon (IFN) inducing an antiviral state in the cells. Here, we evaluated VSV
+oncolysis of a panel of human head and neck cancer cells and showed that VSV
+resistance in SCC25 and SCC15 cells could be reversed with Janus kinase (JAK) 1/2
+inhibitors (JAK inhibitor I and ruxolitinib). Pre-treatment of cells with JAK1/2 
+inhibitors before or in conjunction with VSV enhanced viral infection, spread and
+progeny yield (100- to 1000-fold increase). In contrast, inhibitors of histone
+deacetylase (LBH589), phosphatidylinositol 3-kinase (GDC-0941, LY294002),
+mammalian target of rapamycin (rapamycin) or signal transducer and activator of
+transcription 3 (STAT3 inhibitor VII) were ineffective. Compared with
+VSV-sensitive SW579 cells, IFNα/β responsive antiviral genes (IRF-9, IRF-7, OAS1 
+but not MxA) are constitutively expressed in SCC25 cells. Pretreatment with JAK
+inhibitors reduced mRNA levels of these genes, increasing VSV expression in the
+cells. Interestingly, 1 h of drug exposure was sufficient to reverse SCC25
+resistance to VSV and was still effective if virus was added 24 h later. Overall,
+we show here that JAK inhibitor I and ruxolitinib (Jakafi) can reverse resistance
+to VSV, supporting the rationale to incorporate JAK1/2 inhibitors in future VSV
+virotherapy trials.
+
+DOI: 10.1038/cgt.2013.55 
+PMCID: PMC4817541
+PMID: 24030211  [Indexed for MEDLINE]

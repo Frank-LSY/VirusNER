@@ -1,0 +1,36 @@
+
+
+896. Clin Adv Hematol Oncol. 2014 Dec;12(12):812-9.
+
+The role of HPV status in recurrent/metastatic squamous cell carcinoma of the
+head and neck.
+
+Misiukiewicz K(1), Camille N(1), Gupta V(2), Bakst R(2), Teng M(2), Miles B(2),
+Genden E(2), Sikora A(3), Posner M(1).
+
+Author information: 
+(1)Tisch Cancer Institute, Mount Sinai Health System, New York, NY.
+(2)Icahn School of Medicine, Mount Sinai Health System, New York, NY.
+(3)Baylor College of Medicine, Houston, TX.
+
+Although the prognostic role of human papillomavirus (HPV) in locoregionally
+advanced squamous cell carcinoma of the head and neck (SCCHN) is well
+established, its prognostic and/or predictive role in recurrent/metastatic
+settings remains to be defined. Despite epidemic growth of HPV-positive
+oropharyngeal carcinoma, a low recurrence rate in HPV-positive patients results
+in a small number of patients entering clinical trials for recurrent and/or
+metastatic SCCHN. The consequent lack of statistical power and also significant
+data contamination by misclassification of HPV-positive patients leads to
+premature study conclusions. Even emerging data from the analysis of 2 randomized
+trials, SPECTRUM and EXTREME, do not provide enough evidence for any HPV-based
+therapeutic strategy. Many upcoming studies for locally advanced disease,
+including the ones with de-escalated strategies, will have an increasing number
+of patients with HPV. Optimal HPV testing strategies for reliable patient
+selection and HPV-driven therapeutic approaches will be essential. Here, we
+comprehensively review the existing data regarding HPV status and prognostic or
+predictive outcomes in recurrent/metastatic settings and discuss current
+promising studies and future directions that may help in the design of upcoming
+trials.
+
+
+PMID: 25674839  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+3105. Laryngoscope. 2013 Jan;123(1):134-9. doi: 10.1002/lary.23373. Epub 2012 Aug 20.
+
+Efficacy of fine-needle aspiration in diagnosing cervical nodal metastasis from
+nasopharyngeal carcinoma after radiotherapy.
+
+Chan JY(1), Chan RC, Chow VL, To VS, Wei WI.
+
+Author information: 
+(1)Division of Head and Neck Surgery, Department of Surgery, University of Hong
+Kong Li Ka Shing Faculty of Medicine, Queen Mary Hospital, Hong Kong, China.
+chanjyw@gmail.com
+
+OBJECTIVES/HYPOTHESIS: Our purpose was to study the effect of previous
+radiotherapy (RT) on the efficacy of fine-needle aspiration (FNA) in diagnosing
+cervical nodal metastasis in nasopharyngeal carcinoma (NPC).
+STUDY DESIGN: Case-control study.
+METHODS: The diagnostic efficacy of FNA in a group of patients with residual or
+recurrent cervical lymphadenopathy after previous RT for NPC was compared with a 
+cohort of patients with primary NPC before RT during the same period.
+RESULTS: Between 2008 and 2010, 50 patients were included for each group in the
+study. The specificity (100% vs. 88%, P = .12) and positive predictive value
+(100% vs. 89%, P = .12) was comparable in the two groups. However, the
+sensitivity (82% vs. 40%, P = .04), negative predictive value (NPV; 74% vs. 36%, 
+P = .03), and accuracy (88% vs. 54%, P = .05) were significantly worse after
+previous RT. Previous RT was the only factor that was significantly associated
+with worse diagnostic efficacy (P = .001). When used together with plasma
+Epstein-Barr virus (pEBV)-DNA level and magnetic resonance imaging (MRI) findings
+(triple assessment), the diagnostic efficacy was significantly improved,
+especially regarding sensitivity (40% vs. 98%, P = .01), NPV (36% vs. 96%, P =
+.02), and accuracy (54% vs. 97%, P = .03).
+CONCLUSIONS: Diagnostic efficacy of FNA for residual or recurrent cervical lymph 
+node metastasis in NPC is significantly reduced after previous RT. To ensure that
+the proper diagnosis is made early, triple assessment using FNA, pEBV-DNA, and
+MRI should be adopted in this scenario.
+
+Copyright © 2012 The American Laryngological, Rhinological, and Otological
+Society, Inc.
+
+DOI: 10.1002/lary.23373 
+PMID: 22907783  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+1299. Oral Oncol. 2013 Dec;49(12):1097-102. doi: 10.1016/j.oraloncology.2013.09.001.
+Epub 2013 Oct 6.
+
+Head and neck squamous cell carcinoma in young patients.
+
+van Monsjou HS(1), Wreesmann VB, van den Brekel MW, Balm AJ.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Leiden Medical Center, PO Box 9600, 2300 RC
+Leiden, The Netherlands. Electronic address: h.s.van_monsjou@lumc.nl.
+
+Epidemiologic analyses have shown disproportional increases of head and neck
+squamous cell carcinoma (HNSCC) incidence in a younger age group (younger than 45
+years old), compared to patients above 45 years old. Although this group is small
+(5%), it includes a significant subset of the HNSCC patient population, and is
+characterized by a distinct clinical and etiological phenotype. HNSCC in young
+patients often presents without significant exposure to alcohol and tobacco and
+primarily affects the oropharynx and oral cavity. Exposure to human papilloma
+virus (HPV) has been identified as a major contributor to the pathogenesis of
+oropharyngeal carcinomas, and explains part of the observed incidence variation. 
+Specific hereditary influences, including genetic predispositions accounting for 
+an increased mutagen sensibility and inherited syndromes like Fanconi Anemia and 
+Bloom's syndrome, have been identified as causative factors in a subgroup of
+young-onset HNSCC, but their cumulative influence remains at present likely
+underestimated. Circumstantial evidence suggests that young-onset HNSCC patients 
+have a clinically different phenotype compared to older patients, however, the
+true impact of young age on HNSCC clinical behavior will remain difficult to
+determine unless multi-institutional databases will be combined. The rising
+incidence of young-onset HNSCC mandates intensification of research endeavors
+into its etiology, clinical phenotype and optimal management.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.09.001 
+PMID: 24103389  [Indexed for MEDLINE]

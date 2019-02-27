@@ -1,0 +1,55 @@
+
+
+2029. Am J Pathol. 2015 Mar;185(3):679-92. doi: 10.1016/j.ajpath.2014.11.018. Epub 2015
+Jan 5.
+
+Identification of a human papillomavirus-associated oncogenic miRNA panel in
+human oropharyngeal squamous cell carcinoma validated by bioinformatics analysis 
+of the Cancer Genome Atlas.
+
+Miller DL(1), Davis JW(2), Taylor KH(1), Johnson J(3), Shi Z(3), Williams R(4),
+Atasoy U(5), Lewis JS Jr(6), Stack MS(7).
+
+Author information: 
+(1)Department of Pathology and Anatomical Sciences, University of Missouri School
+of Medicine, Columbia, Missouri.
+(2)Department of Health Management and Informatics, University of Missouri School
+of Medicine, Columbia, Missouri; Department of Statistics, University of Missouri
+School of Medicine, Columbia, Missouri.
+(3)Department of Chemistry and Biochemistry, University of Notre Dame, South
+Bend, Indiana; Harper Cancer Research Institute, University of Notre Dame, South 
+Bend, Indiana.
+(4)Department of Biochemistry, Indiana University South Bend, South Bend,
+Indiana.
+(5)Department of Surgery, University of Missouri School of Medicine, Columbia,
+Missouri.
+(6)Department of Pathology and Immunology, Washington University School of
+Medicine, St. Louis, Missouri; Department of Otolaryngology Head and Neck
+Surgery, Washington University School of Medicine, St. Louis, Missouri.
+(7)Department of Chemistry and Biochemistry, University of Notre Dame, South
+Bend, Indiana; Harper Cancer Research Institute, University of Notre Dame, South 
+Bend, Indiana. Electronic address: sstack@nd.edu.
+
+High-risk human papillomavirus (HPV) is a causative agent for an increasing
+subset of oropharyngeal squamous cell carcinomas (OPSCCs), and current evidence
+supports these tumors as having identifiable risk factors and improved response
+to therapy. However, the biochemical and molecular alterations underlying the
+pathobiology of HPV-associated OPSCC (designated HPV(+) OPSCC) remain unclear.
+Herein, we profile miRNA expression patterns in HPV(+) OPSCC to provide a more
+detailed understanding of pathologic molecular events and to identify biomarkers 
+that may have applicability for early diagnosis, improved staging, and prognostic
+stratification. Differentially expressed miRNAs were identified in RNA isolated
+from an initial clinical cohort of HPV(+/-) OPSCC tumors by quantitative
+PCR-based miRNA profiling. This oncogenic miRNA panel was validated using miRNA
+sequencing and clinical data from The Cancer Genome Atlas and miRNA in situ
+hybridization. The HPV-associated oncogenic miRNA panel has potential utility in 
+diagnosis and disease stratification and in mechanistic elucidation of molecular 
+factors that contribute to OPSCC development, progression, and differential
+response to therapy.
+
+Copyright © 2015 American Society for Investigative Pathology. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajpath.2014.11.018 
+PMCID: PMC4348472
+PMID: 25572154  [Indexed for MEDLINE]

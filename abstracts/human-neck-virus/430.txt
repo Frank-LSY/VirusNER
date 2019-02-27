@@ -1,0 +1,51 @@
+
+
+430. BMC Cancer. 2012 Aug 24;12:368. doi: 10.1186/1471-2407-12-368.
+
+Reovirus exerts potent oncolytic effects in head and neck cancer cell lines that 
+are independent of signalling in the EGFR pathway.
+
+Twigger K(1), Roulstone V, Kyula J, Karapanagiotou EM, Syrigos KN, Morgan R,
+White C, Bhide S, Nuovo G, Coffey M, Thompson B, Jebar A, Errington F, Melcher
+AA, Vile RG, Pandha HS, Harrington KJ.
+
+Author information: 
+(1)Division of Cancer Biology Chester Beatty Laboratories, The Institute of
+Cancer Research, 237 Fulham Road, London, SW3 6JB, UK.
+
+BACKGROUND: Reovirus exploits aberrant signalling downstream of Ras to mediate
+tumor-specific oncolysis. Since ~90% squamous cell carcinomas of the head and
+neck (SCCHN) over-express EGFR and SCCHN cell lines are sensitive to oncolytic
+reovirus, we conducted a detailed analysis of the effects of reovirus in 15 head 
+and neck cancer cell lines. Both pre- and post-entry events were studied in an
+attempt to define biomarkers predictive of sensitivity/resistance to reovirus. In
+particular, we analysed the role of EGFR/Ras signalling in determining
+virus-mediated cytotoxicity in SCCHN.
+METHODS: To test whether EGFR pathway activity was predictive of increased
+sensitivity to reovirus, correlative analyses between reoviral IC50 by MTT assay 
+and EGFR levels by western blot and FACS were conducted. Inhibition or
+stimulation of EGFR signalling were analysed for their effect on reoviral
+oncolysis by MTT assay, and viral growth by TCID50 assay. We next analysed the
+effects of inhibiting signalling downstream of Ras, by specific inhibitors of
+p38MAPK, PI3-K or MEK, on reoviral killing examined by MTT assay. The role of PKR
+in reoviral killing was also determined by blockade of PKR using 2-aminopurine
+and assaying for cell survival by MTT assay. The apoptotic response of SCCHN to
+reovirus was examined by western blot analysis of caspase 3 cleavage.
+RESULTS: Correlative analyses between reoviral sensitivity and EGFR levels
+revealed no association. Intermediate sub-viral and core particles showed the
+same infectivity/cytotoxicity as intact reovirus. Therefore, sensitivity was not 
+determined by cell entry. In 4 cell lines, oncolysis and viral growth were both
+unaffected by inhibition or stimulation of EGFR signalling. Inhibition of
+signalling downstream of Ras did not abrogate reoviral oncolysis and, in
+addition, modulation of PKR using 2-aminopurine did not alter reovirus
+sensitivity in resistant cell lines. Caspase 3 cleavage was not detected in
+infected cells and oncolysis was observed in pan-caspase inhibited cells.
+CONCLUSIONS: In summary, reovirus is potently oncolytic in a broad panel of SCCHN
+cell lines. Attempts to define sensitivity/resistance by analysis of the
+EGFR/Ras/MAPK pathway have failed to provide a clear predictive biomarker of
+response. Further analysis of material from in vitro and clinical studies is
+ongoing in an attempt to shed further light on this issue.
+
+DOI: 10.1186/1471-2407-12-368 
+PMCID: PMC3537694
+PMID: 22920673  [Indexed for MEDLINE]

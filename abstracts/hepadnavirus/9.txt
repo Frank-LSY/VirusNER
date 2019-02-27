@@ -1,0 +1,18 @@
+
+
+9. Emerg Infect Dis. 2017 Dec;23(12):2089-2091. doi: 10.3201/eid2312.161634.
+
+New Avian Hepadnavirus in Palaeognathous Bird, Germany.
+
+Jo WK, Pfankuche VM, Petersen H, Frei S, Kummrow M, Lorenzen S, Ludlow M, Metzger
+J, Baumgärtner W, Osterhaus A, van der Vries E.
+
+In 2015, we identified an avian hepatitis B virus associated with hepatitis in a 
+group of captive elegant-crested tinamous (Eudromia elegans) in Germany. The
+full-length genome of this virus shares <76% sequence identity with other
+avihepadnaviruses. The virus may therefore be considered a new extant avian
+hepadnavirus.
+
+DOI: 10.3201/eid2312.161634 
+PMCID: PMC5708223
+PMID: 29148393  [Indexed for MEDLINE]

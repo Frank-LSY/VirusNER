@@ -1,0 +1,21 @@
+
+
+2073. Nat Rev Clin Oncol. 2011 Feb;8(2):72-4. doi: 10.1038/nrclinonc.2010.226.
+
+Head and neck cancer in 2010: Maximizing survival and minimizing toxicity.
+
+Brockstein BE(1), Vokes EE.
+
+Author information: 
+(1)Division of Hematology/Oncology, NorthShore University HealthSystem, 2650
+Ridge Avenue, Room 4816, Evanston, IL 60201, USA. bbrockstein@northshore.org
+
+Outcomes for patients with oropharyngeal cancer are determined by their tumor
+characteristics and associated demographics. The role of human papilloma
+virus-related disease for prognosis and outcomes with chemoradiotherapy is being 
+more clearly defined. EGFR inhibitors are used in conjunction with radiotherapy, 
+and the importance of optimizing radiation quality and minimizing toxicity is the
+focus of ongoing studies.
+
+DOI: 10.1038/nrclinonc.2010.226 
+PMID: 21278773  [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+
+
+558. Expert Opin Biol Ther. 2010 Jul;10(7):1145-53. doi: 10.1517/14712598.2010.495383.
+
+Herpes simplex virus oncolytic vaccine therapy in melanoma.
+
+Sivendran S(1), Pan M, Kaufman HL, Saenger Y.
+
+Author information: 
+(1)The Mount Sinai School of Medicine, The Tisch Cancer Institute, Division of
+Hematology/Oncology, Department of Medicine, New York, NY 10029, USA.
+
+IMPORTANCE OF THE FIELD: Advanced melanoma is a devastating disease with a five
+year survival for Stage IV disease of 10 - 20% and a median survival of 6 - 18
+months depending on sub-stage. Current FDA approved therapies demonstrate limited
+response rates, few complete remissions and no proven survival benefit. New
+therapies are clearly needed. JSI/34.5-/47-/GM-CSF is a herpes simplex virus-1
+(OncoVEX(GM-CSF)) oncolytic vaccine therapy designed to induce local and systemic
+anti-tumor immune responses.
+AREAS COVERED IN THIS REVIEW: Evolution of current herpes simplex virus oncolytic
+vaccines from preclinical to clinical studies from 1994 to 2010.
+WHAT THE READER WILL GAIN: Preclinical studies have shown that herpes simplex
+virus-1 oncolytic vaccines generate local tumor destruction through the lytic
+action of the virus and local and systemic immune responses. Phase I studies
+demonstrated limited toxicities with no neurotoxicty. Phase II studies
+demonstrated durable regressions in patients with metastatic melanoma. A Phase
+III trial in melanoma is ongoing to determine clinical effectiveness, and a Phase
+III trial in head and neck cancer will initiate during 2010.
+TAKE HOME MESSAGE: JSI/34.5-/47-/GM-CSF is a new generation herpes simplex
+virus-1 oncolytic vaccine that demonstrates direct tumor lysis and systemic
+immune responses. Early clinical studies have yielded preliminary evidence of
+activity.
+
+DOI: 10.1517/14712598.2010.495383 
+PMID: 20515292  [Indexed for MEDLINE]

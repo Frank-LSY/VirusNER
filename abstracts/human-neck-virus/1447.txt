@@ -1,0 +1,42 @@
+
+
+1447. Oncotarget. 2015 Feb 20;6(5):3462-70.
+
+Potential impact of human papilloma virus on survival of basaloid squamous
+carcinoma of the head and neck.
+
+Jacobi C(1), Ayx I(1), Fritsche K(1), Piontek G(1), Hoffmann D(2), Weirich G(3), 
+Knopf A(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Technical University Munich, München,
+Germany.
+(2)Institute of Virology, Technische Universität and Helmholtz Zentrum München,
+München, Germany.
+(3)Institute of Pathology, Technical University Munich, München, Germany.
+
+OBJECTIVES: Basaloid-squamous-carcinomas (BSCC) have been considered as
+aggressive variants of common squamous-cell-carcinomas (HNSCC). Recent studies
+demonstrated a different clinical course depending on the tumour site. The aim of
+the study is to analyze the histopathologic/clinical features of BSCC/HNSCC
+resolved by the HPV-status.
+METHODS: We analysed the histopathologic/clinical features of BSCC (n=59) and
+HNSCC (n=981), subdivided due to the HPV status. Differences were analysed using 
+Chi square, Fisher exact, and student's t-test. Survival rates were calculated by
+Kaplan-Meier and log-rank test. Prognostic variables were subsequently evaluated 
+by Cox regression.
+RESULTS: Our cohort was congruent with the literature regarding sex, age,
+metastases, and a predilection in the oropharynx. HNSCC/BSCC did not show a
+different disease-specific-survival. After UICC matching, univariate analysis
+revealed a better survival of UICC stage IVa BSCC compared to HNSCC (69% vs. 42%,
+p=0.022) that was associated with a better response to radio-chemotherapy (p =
+0.009). These results referred to the high prevalence of HPV+ (86%) oropharyngeal
+BSCC. Subgroup analysis demonstrated a better survival of HPV+ oropharyngeal BSCC
+than HPV- BSCC (p=0.017).
+CONCLUSION: The clinical outcome in BSCC depends on the tumour site and
+HPV-status. Prospective studies have to evaluate the beneficial application of
+postoperative radio-chemotherapy in HPV+ BSCC.
+
+DOI: 10.18632/oncotarget.3062 
+PMCID: PMC4413667
+PMID: 25739121  [Indexed for MEDLINE]

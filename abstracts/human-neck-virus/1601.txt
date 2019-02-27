@@ -1,0 +1,34 @@
+
+
+1601. Cancer Discov. 2015 Mar;5(3):239-44. doi: 10.1158/2159-8290.CD-14-1205. Epub 2015
+Feb 2.
+
+Therapeutic insights from genomic studies of head and neck squamous cell
+carcinomas.
+
+Hammerman PS(1), Hayes DN(2), Grandis JR(3).
+
+Author information: 
+(1)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts. Cancer Program, Broad Institute of Harvard and MIT, Cambridge,
+Massachusetts.
+(2)Department of Hematology/Oncology, University of North Carolina Lineberger
+Cancer Center, Chapel Hill, North Carolina.
+(3)Department of Otolaryngology, University of Pittsburgh and University of
+Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania. Department of Pharmacology
+and Chemical Biology, University of Pittsburgh, Pittsburgh, Pennsylvania.
+grandisjr@upmc.edu.
+
+Large and comprehensive genomic surveys of head and neck squamous cell carcinomas
+(HNSCC) are now greatly increasing our understanding of the diversity of this
+disease and the key genomic changes that drive these tumors. The results from
+these studies are beginning to inform the introduction of novel therapies for
+patients with HNSCCs. Here, we review some of the key findings from recent
+genomic studies of head and neck cancers, including the most comprehensive study 
+to date from The Cancer Genome Atlas Network.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/2159-8290.CD-14-1205 
+PMCID: PMC4355279
+PMID: 25643909  [Indexed for MEDLINE]

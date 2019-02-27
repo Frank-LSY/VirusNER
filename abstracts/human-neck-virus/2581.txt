@@ -1,0 +1,31 @@
+
+
+2581. APMIS. 2010 Jun;118(6-7):450-4. doi: 10.1111/j.1600-0463.2010.02619.x.
+
+Epidemiology of recurrent respiratory papillomatosis.
+
+Larson DA(1), Derkay CS.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, Eastern Virginia Medical
+School, Norfolk, VA 23507, USA.
+
+Recurrent respiratory papillomatosis (RRP) was first described in the 1800s, but 
+it was not until the 1980s when it was convincingly attributed to human papilloma
+virus (HPV). RRP is categorized into juvenile onset and adult onset depending on 
+presentation before or after the age of 12 years, respectively. The prevalence of
+this disease is likely variable depending on the age of presentation, country and
+socioeconomic status of the population being studied, but is generally accepted
+to be between 1 and 4 per 100 000. Despite the low prevalence, the economic
+burden of RRP is high given the multiple procedures required by patients.
+Multiple studies have shown that the most likely route of transmission of HPV in 
+RRP is from mother to child during labor. Exceptions to this may include patients
+with congenital RRP who have been exposed in utero and adult patients who may
+have been exposed during sexual contact. Although cesarean section may prevent
+the exposure of children to the HPV virus during childbirth, its effectiveness in
+preventing RRP is debatable and the procedure itself carries an increased risk of
+complications. The quadrivalent HPV vaccine holds the most promise for the
+prevention of RRP by eliminating the maternal reservoir for HPV.
+
+DOI: 10.1111/j.1600-0463.2010.02619.x 
+PMID: 20553527  [Indexed for MEDLINE]

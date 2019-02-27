@@ -1,0 +1,56 @@
+
+
+2623. Cancer Prev Res (Phila). 2016 Feb;9(2):135-41. doi:
+10.1158/1940-6207.CAPR-15-0299. Epub 2015 Dec 23.
+
+Serum Antibodies to HPV16 Early Proteins Warrant Investigation as Potential
+Biomarkers for Risk Stratification and Recurrence of HPV-Associated Oropharyngeal
+Cancer.
+
+Fakhry C(1), Qualliotine JR(2), Zhang Z(3), Agrawal N(2), Gaykalova DA(2), Bishop
+JA(4), Subramaniam RM(5), Koch WM(2), Chung CH(3), Eisele DW(2), Califano J(2),
+Viscidi RP(6).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland. cfakhry1@jhmi.edu.
+(2)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(3)Department of Oncology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+(4)Department of Pathology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+(5)Department of Radiology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+(6)Department of Pediatrics, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+
+Human papillomavirus (HPV) is responsible for increasing incidence of
+oropharyngeal cancer. At present, there are no biomarkers in the surveillance
+algorithm for HPV-positive oropharyngeal cancer (HPV-OPC). HPV16 E6 antibody
+precedes oropharyngeal cancer diagnosis. If HPV16 E6 indeed precedes primary
+diagnosis, it is similarly expected to precede disease recurrence and may have a 
+potential role as a biomarker for surveillance of HPV-OPC. To determine whether
+HPV antibody titers have a potential role as early markers of disease recurrence 
+or prognosis, a retrospective pilot study was designed to determine whether HPV16
+early antibody titers E6, E7, E1, and E2 decrease after treatment of
+HPV16-positive OPC. Trends in pretreatment, early (≤6 months after treatment),
+and late posttreatment (>6 months after treatment) HPV16 antibody titers were
+examined. There were 43, 34, and 52 subjects with serum samples available for
+pretreatment, early, and late posttreatment intervals. Mean pretreatment antibody
+levels were higher than posttreatment antibody levels. Average antibody levels
+decreased significantly over time for E6 (Ptrend = 0.001) and E7 (Ptrend <
+0.001). Six disease recurrences were observed during the follow-up period
+(median, 4.4 years). In univariate analysis, a log-unit increase in pretreatment 
+E6 titer was significantly associated with increased risk of disease recurrence
+(HR, 5.42; 95% CI, 1.1-25.7; P = 0.03). Therefore, levels of antibodies to HPV16 
+early oncoproteins decline after therapy. Higher E6 titers at diagnosis are
+associated with significant increases in the risk of recurrence. These data
+support the prospective evaluation of HPV16 antibodies as markers of surveillance
+and for risk stratification at diagnosis.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1940-6207.CAPR-15-0299 
+PMCID: PMC4811031
+PMID: 26701665  [Indexed for MEDLINE]

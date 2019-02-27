@@ -1,0 +1,35 @@
+
+
+152. B-ENT. 2016;12(4):263-269.
+
+Human papilloma virus detection in oropharyngeal cancer with gargle samples.
+
+Imai T, Sato I, Matsumoto K, Asada Y, Kato K, Sogai S, Watanabe K, Sadayasu R,
+Saijo S, Matsuura K.
+
+Human papilloma virus detection in oropharyngeal cancer with gargle
+samples.OBJECTIVE: human papilloma virus (HPV) is a major risk factor for
+oropharyngeal squamous cell carcinoma (OPSCC) and knowledge of a patient's HPV
+status is clinically important in terms of treatment and prognosis. The
+practicality of using oral gargle samples to reliably detect HPV in patients with
+OPSCC remains unclear. Therefore, we evaluated the feasibility of HPV detection
+in gargle samples of OPSCC patients using an HPV-dedicated nucleic acid
+amplification test (cobas 4800 HPV Test; Roche Diagnostics K.K.).
+METHODOLOGY: 15 patients with histologically proven OPSCC were evaluated from May
+2014 to March 2015. Swab sam- ples served as positive controls and were tested
+using both the Hybrid Capture II HPV Test (HC-II; Digene Corporation) and the
+cobas 4800 HPV Test. Oral gargle samples were tested using the cobas 4800 HPV
+Test. Five of the 15 patients were confirmed to be HPV-positive by a combination 
+of p16 immunohistochemistry, HPV-DNA in situ hybridization and nucleic acid
+amplification.
+RESULTS: the sensitivity and specificity of the gargling method were 60% and
+100%, respectively. No false-positives were obtained. Detection of HPV in two
+very small tumours rising from the base of the tongue was difficult and these
+cases were overlooked as HPV-negative.
+CONCLUSIONS: use of the gargling method to determine HPV positivity in OPSCC
+patients appears feasible, except in patients with very small tumours. Real-time 
+polymerase chain reaction using gargle samples may have greater clinical efficacy
+than the swabbing method.
+
+
+PMID: 29709129  [Indexed for MEDLINE]

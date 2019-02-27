@@ -1,0 +1,36 @@
+
+
+1345. Hematol Oncol. 2017 Dec;35(4):655-663. doi: 10.1002/hon.2360. Epub 2016 Oct 6.
+
+Circulating Epstein-Barr virus-encoded micro-RNAs as potential biomarkers for
+nasal natural killer/T-cell lymphoma.
+
+Komabayashi Y(1), Kishibe K(1), Nagato T(1), Ueda S(1), Takahara M(1), Harabuchi 
+Y(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Asahikawa Medical
+University, Asahikawa, Japan.
+
+Nasal natural killer/T-cell lymphoma (NNKTL) is an Epstein-Barr virus
+(EBV)-associated malignancy and is characterized by local invasion and widespread
+dissemination, with a consequent poor prognosis. Micro-RNAs (miRNAs) play roles
+in the pathogenesis of several malignancies by regulating gene expression and
+have been recently identified as stable entities in serum. Here, we investigated 
+the value of circulating EBV-miRNAs as biomarkers for NNKTL. Sera of patients
+with NNKTL were subjected to miRNA polymerase chain reaction (PCR)-array
+analysis, after which serum EBV-miRNA levels were verified using quantitative
+PCR. The latter analysis revealed high miR-BART2-5p, miR-BART7-3p, miR-BART13-3p,
+and miR-BART1-5p expression levels in sera of patients with NNKTL and indicated
+accurate values for discriminating patients with NNKTL from healthy controls.
+Levels of these 4 EBV-miRNAs, which were secreted from NNKTL cells, significantly
+decreased after treatment compared with those before treatment. Furthermore, a
+high circulating miR-BART2-5p level was associated with disease progression and
+poor prognosis in patients with NNKTL. Our findings demonstrate that circulating 
+EBV-miRNAs, particularly miR-BART2-5p, may serve as potential diagnostic and
+prognostic biomarkers in patients with NNKTL.
+
+Copyright © 2016 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/hon.2360 
+PMID: 27709652  [Indexed for MEDLINE]

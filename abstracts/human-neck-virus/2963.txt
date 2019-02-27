@@ -1,0 +1,51 @@
+
+
+2963. Acta Med Croatica. 2015;69(5):431-8.
+
+[ASSOCIATION OF SKIN PHOTOTYPE AND UV EXPOSURE WITH EXPRESSION OF HER RECEPTORS, 
+Ki67 AND p53 IN PATIENTS WITH CUTANEOUS SQUAMOUS CELL CARCINOMA].
+
+[Article in Croatian]
+
+Drvar DL, Lipozenčić J, Mokos ZB, Ilić I, Knežević F.
+
+An increase in the incidence of cancer, in particular skin cancer, has been
+observed in the last few decades. Skin cancer represents a significant public
+health problem in Croatia and worldwide. Cutaneous squamous cell carcinoma (cSCC)
+is a malignant tumor arising in epidermal keratinocytes. Together with basal cell
+carcinoma it belongs to non-melanoma skin cancers, which are the most common
+cancers in humans. The lifetime risk of cSCC development in Caucasian population 
+is nowadays estimated to about 15%, which makes it double compared to 20 years
+ago. The most probable causes are increased ultraviolet light (UV) exposure
+(exposure to artificial UV sources in suntan parlors, spending more time
+outdoors, changes in fashion, as well as ozone holes), and longer life
+expectancy. In its etiopathogenesis, important risk factors include genetic
+factors, fair-skin phototype, UV exposure, chronic degenerative and inflammatory 
+conditions, chemical factors, oncogenic viruses, immunosuppression, ionizing
+radiation, as well as habitual risk factors. Human epidermal growth factor
+receptor (HER) family is involved in the control of multiple signal pathways.
+Their dysregulation is associated with development of many cancers such as breast
+carcinoma, non-small cell lung carcinoma, ovarian carcinoma, carcinoma of
+pancreas, head and neck carcinoma, as well as glioblastoma. The objective of our 
+investigation was to establish if there is association of the skin phototype and 
+UV exposure with the expression of HER receptors, Ki67 and p53 in patients with
+cSCC. Study group included 101 cSCC patients. Inclusion criteria were age >50,
+both sexes, histopathologically confirmed cSCC, no previous therapy, specimens
+sufficient for immunohistochemistry, and complete clinical data collected by a
+questionnaire. Material obtained by excisional biopsy was completely
+histopathologically evaluated and additional tissue slices were
+immunohistochemically analyzed. Statistical analysis of the sample included
+non-parametrical statistical methods and statistical reviews. Analysis was done
+using R statistical package. Statistical significance was set at p<0.05. The
+following skin phototypes (according to Fitzpatrick) were present in our study:
+54 (53.47%) patients with phototype II and 47 (46.53%) patients with phototype
+III. The majority of patients (n=93; 92.08%) were exposed to increased UV
+radiation during lifetime. Forty (39.60%) patients had three or more sunburns
+during childhood. Study results showed a signifi cantly higher expression of EGFR
+receptors, Ki67 and protein p53 in patients with light skin phototype that had
+been exposed to increased UV light during lifetime or had acquired 3 or more
+sunburns in childhood, suggesting that UV exposure led to the induction of EGFR, 
+Ki67 and protein p53, and consequently to development of cSCC.
+
+
+PMID: 29087088  [Indexed for MEDLINE]

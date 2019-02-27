@@ -1,0 +1,61 @@
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+1426. PLoS One. 2015 Oct 28;10(10):e0141245. doi: 10.1371/journal.pone.0141245.
+eCollection 2015.
+
+Effects of Methylation Status of CpG Sites within the HPV16 Long Control Region
+on HPV16-Positive Head and Neck Cancer Cells.
+
+Zhang C(1), Deng Z(2), Pan X(3), Uehara T(4), Suzuki M(4), Xie M(5).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Zhujiang Hospital,
+Southern Medical University, Guangzhou, China; Department of Otorhinolaryngology,
+Head and Neck Surgery, University of the Ryukyus, Okinawa, Japan; Department of
+Otorhinolaryngology, Head and Neck Surgery, Affiliated hospital of Zunyi Medical 
+University, Zunyi, China.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Zhujiang Hospital,
+Southern Medical University, Guangzhou, China; Department of Otorhinolaryngology,
+Head and Neck Surgery, University of the Ryukyus, Okinawa, Japan.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery, Zhujiang Hospital,
+Southern Medical University, Guangzhou, China; Department of Otorhinolaryngology,
+Head and Neck Surgery, University of the Ryukyus, Okinawa, Japan; Department of
+Otorhinolaryngology, Head and Neck Surgery, The First People's Hospital of
+Guangzhou, Guangzhou, China.
+(4)Department of Otorhinolaryngology, Head and Neck Surgery, University of the
+Ryukyus, Okinawa, Japan.
+(5)Department of Otorhinolaryngology, Head and Neck Surgery, Zhujiang Hospital,
+Southern Medical University, Guangzhou, China.
+
+OBJECTIVE: To map comprehensively the methylation status of the CpG sites within 
+the HPV16 long control region (LCR) in HPV-positive cancer cells, and to explore 
+further the effects of methylation status of HPV16 LCR on cell bioactivity and E6
+and E7 expression. In addition, to analyze the methylation status of the LCR in
+HPV-positive oropharyngeal squamous cell carcinoma (OPSCC) patients.
+METHODS AND MATERIALS: Methylation patterns of HPV16 LCR in UM-SCC47, CaSki, and 
+SiHa cells and HPV16-positiive OPSCC specimens were detected by
+bisulfite-sequencing PCR and TA cloning. For cells treated with
+5-aza-2'-deoxycytidine and E6 and E7 knockdown, MTS and trypan blue staining,
+annexin-V and 7-AAD staining, and prodidium iodide were used to evaluate cell
+growth and cell proliferation, cell apoptosis, and cell cycle arrest,
+respectively. E6 and E7 mRNA and protein expression were analyzed by quantitative
+real-time PCR and immunocytochemistry, respectively.
+RESULTS: Hypermethylation status of the LCR in UM-SCC47 (79.8%) and CaSki cells
+(90.0%) and unmethylation status of the LCR in SiHa cells (0%) were observed.
+Upon demethylation, the cells with different methylation levels responded
+differently during growth, apoptosis, and cell cycle arrest, as well as in terms 
+of their E6 and E7 expression. In HPV16-positive OPSCC patients, the methylation 
+rates were 9.5% in the entire LCR region, 13.9% in the 5'-LCR, 6.0% in the E6
+enhancer, and 9.5% in the p97 promoter, and hypermethylation of p97 promoter was 
+found in a subset of cases (20.0%, 2/10).
+CONCLUSIONS: Our study revealed two different methylation levels of the LCR in
+HPV16-positive cancer cells and OPSCC patients, which may represent different
+carcinogenesis mechanisms of HPV-positive cancers cells. Demethylating the meCpGs
+in HPV16 LCR might be a potential target for a subgroup of HPV16-positive
+patients with head and neck squamous cell carcinoma.
+
+DOI: 10.1371/journal.pone.0141245 
+PMCID: PMC4625038
+PMID: 26509736  [Indexed for MEDLINE]

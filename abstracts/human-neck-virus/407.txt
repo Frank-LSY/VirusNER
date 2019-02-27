@@ -1,0 +1,37 @@
+
+
+407. J Clin Virol. 2012 Feb;53(2):116-20. doi: 10.1016/j.jcv.2011.11.005. Epub 2011
+Dec 15.
+
+HPV genotypes and their prognostic significance in head and neck squamous cell
+carcinomas.
+
+Rautava J(1), Kuuskoski J, Syrjänen K, Grenman R, Syrjänen S.
+
+Author information: 
+(1)Department of Oral Pathology and Oral Radiology, Institute of Dentistry,
+Faculty of Medicine, University of Turku, Lemminkäisenkatu 2, FIN-20520 Turku,
+Finland. jaana.rautava@utu.fi
+
+BACKGROUND: Human papillomavirus (HPV) has been reported in up to 50% of head and
+neck squamous cell carcinomas (HNSCCs). Presence of HPV in HNSCC has been
+associated with more favorable prognosis.
+OBJECTIVES: This study was designed to disclose HPV genotype distribution in head
+and neck squamous cell carcinomas (HNSCC) and their role in disease outcome. In
+addition, role of herpesviruses 1 and 2 (HSV-1 and -2) and cytomegalovirus (CMV) 
+as co-factors was elucidated.
+STUDY DESIGN: HPV-genotyping of 106 HNSCC was done with Multimetrix(®)-kit.
+Luminex-based-method was used to detect HSV-1 and -2 and CMV.
+RESULTS: In males, 50% of HNSCC were HPV DNA positive and 25% of these were
+multiple HPV-types infections and in women, 72% and 31%, respectively. Low-risk
+(LR) HPV-types were found in 20.5% and co-infection with HSV-1 in 6.6%. Patients 
+with HPV-positive and -negative HNSCC had similar survival. Patients not treated 
+with chemoradiotherapy and co-infected with HSV-1 and HPV had a worse outcome.
+Similarly patients with LR-HPVs treated with radiotherapy had a poor prognosis.
+DISCUSSION: Radiotherapy for HNSCC in patients with either the presence of
+LR-HPV-types or a co-infection with HPV and HSV-1 may result in poor outcome.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2011.11.005 
+PMID: 22177275  [Indexed for MEDLINE]

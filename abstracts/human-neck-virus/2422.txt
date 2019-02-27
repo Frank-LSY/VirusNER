@@ -1,0 +1,33 @@
+
+
+2422. J Exp Clin Cancer Res. 2010 Jul 13;29:94. doi: 10.1186/1756-9966-29-94.
+
+Targeted gene therapy of nasopharyngeal cancer in vitro and in vivo by enhanced
+thymidine kinase expression driven by human TERT promoter and CMV enhancer.
+
+Shen CX(1), Wen Z, Qian YH, Mu SF, Guan XF.
+
+Author information: 
+(1)Otolaryngology-Head & Neck Surgery, Zhujiang Hospital, The Southern Medical
+University, Guangzhou 510282, China.
+
+BACKGROUND/AIM: To explore the therapeutic effects of thymidine kinase (TK)
+expressed by enhanced vector pGL3-basic- hTERTp-TK-EGFP-CMV driven by human
+telomerase reverse transcriptase promoter (hTERTp) as well as cytomegalovirus
+immediate early promoter enhancer (CMV).
+MATERIALS/METHODS: Enhanced TK-EGFP expression was confirmed by fluorescent
+microscopy, real time PCR and telomerase activity. Its effects were examined by
+survival of tumor cells NPC 5-8F and MCF-7, index of xenograft implanted in nude 
+mice and histology.
+RESULTS: Compared with non-enhanced vector pGL3-basic-TK-hTERTp-EGFP, TK
+expressed by the enhanced vector significantly decreased NPC 5-8F and MCF-7 cell 
+survival rates after ganciclovir (GCV) treatment (p < 0.001) and tumor progress
+in nude mice with NPC xenograft and treated with GCV, without obvious toxicity to
+mouse liver and kidney.
+CONCLUSION: The enhanced TK expression vector driven by hTERTp with CMV enhancer 
+has brighter clinical potentials in nasopharyngeal carcinoma therapy than the
+non-enhanced vector.
+
+DOI: 10.1186/1756-9966-29-94 
+PMCID: PMC2917418
+PMID: 20626878  [Indexed for MEDLINE]

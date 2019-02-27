@@ -1,0 +1,50 @@
+
+
+1901. Radiother Oncol. 2018 Jan;126(1):116-124. doi: 10.1016/j.radonc.2017.10.007. Epub
+2017 Nov 1.
+
+Prognostic value of tissue necrosis, hypoxia-related markers and correlation with
+HPV status in head and neck cancer patients treated with bio- or
+chemo-radiotherapy.
+
+Ou D(1), Garberis I(2), Adam J(2), Blanchard P(3), Nguyen F(3), Levy A(3),
+Casiraghi O(2), Gorphe P(4), Breuskin I(4), Janot F(4), Temam S(4), Scoazec
+JY(2), Deutsch E(3), Tao Y(5).
+
+Author information: 
+(1)Department of Radiation Oncology, Gustave Roussy, Paris-Saclay University,
+Villejuif, France; Department of Radiation Oncology, Fudan University Shanghai
+Cancer Center, Shanghai, China.
+(2)Department of Pathology, Gustave Roussy, Paris-Saclay University, Villejuif,
+France.
+(3)Department of Radiation Oncology, Gustave Roussy, Paris-Saclay University,
+Villejuif, France.
+(4)Department of Head and Neck Oncology, Gustave Roussy, Paris-Saclay University,
+Villejuif, France.
+(5)Department of Radiation Oncology, Gustave Roussy, Paris-Saclay University,
+Villejuif, France. Electronic address: yungan.tao@gustaveroussy.fr.
+
+BACKGROUND AND PURPOSE: The aim of the present study was to investigate the role 
+of three hypoxia-related biomarkers in patients with locally advanced head and
+neck squamous cell carcinoma (HNSCC) treated with concurrent chemoradiotherapy
+(3-weekly cisplatin) or bioradiotherapy (weekly cetuximab).
+MATERIAL AND METHODS: In tumor tissue material from 100 patients with known HPV
+status, we evaluated the extent of tumor necrosis, the expression level of CA-IX 
+and the microvascular density (MVD) measured as the density of CD34+ vascular
+structures. The correlations between biomarker expressions and
+clinicopathological characteristics and treatment outcomes were analyzed.
+RESULTS: We found a significant correlation of MVD with UICC stage (p = 0.02) and
+T classification (p = 0.05), of CA-IX with UICC stage (p = 0.03) and N
+classification (p = 0.04) and a significant inverse correlation of MVD with CA-IX
+expression (r = -0.22, p = 0.03). Multivariate analysis showed that low MVD
+combined with high CA IX-expression was a significant independent prognostic
+factor for worse loco-regional control (HR = 2.6, 95%CI 1.1-5.0, p = 0.02) in the
+whole population but not in the p16+ subgroup. Patients treated with CRT had a
+better LRC than those with BRT independent of MVD or CA-IX expression.
+CONCLUSIONS: The combination of MVD and CA-IX expression might give additional
+prognostic information in HNSCC patients with known HPV status.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.radonc.2017.10.007 
+PMID: 29079308  [Indexed for MEDLINE]

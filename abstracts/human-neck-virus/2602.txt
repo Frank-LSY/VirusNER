@@ -1,0 +1,45 @@
+
+
+2602. Int J Clin Exp Pathol. 2014 Apr 15;7(5):2454-61. eCollection 2014.
+
+Aberrant SATB1 expression is associated with Epstein-Barr virus infection,
+metastasis and survival in human nasopharyngeal cells and endemic nasopharyngeal 
+carcinoma.
+
+Deng YF(1), Zhou DN(2), Pan ZY(3), Yin P(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Zhongshan Hospital, Xiamen
+University Xiamen, Fujian 361004, China ; Department of Otolaryngology-Head and
+Neck Surgery, Union School of Clinical Medicine, Fujian Medical University
+Fuzhou, Fujian 350001, China.
+(2)Department of Pathology, Zhongshan Hospital, Xiamen University Xiamen, Fujian 
+361004, China.
+(3)Department of Otolaryngology-Head and Neck Surgery, Union School of Clinical
+Medicine, Fujian Medical University Fuzhou, Fujian 350001, China.
+
+Special AT-rich sequence-binding protein 1 (SATB1) has been identified as a key
+factor in the progression of some cancers, functioning as a global genome
+organizer and chromatin regulator. We examined the levels of SATB1 mRNA
+expression in NPC cell lines 5-8F (high metastasis) and 6-10B (low metastasis)
+and immortalized human nasopharyngeal epithelial cells NP69-SV40T by quantitative
+real-time PCR. We also examined the protein expression levels of SATB1 in 72
+cases of nasopharyngeal carcinoma (NPC) tissues and 30 cases of normal
+nasopharyngeal (NNP) tissues by immunohistochemistry, and then assessed the
+correlations between SATB1 expression and clinicopathological factors. The
+expression level of SATB1 mRNA in 5-8F was much higher than those in 6-10B and
+NP69-SV40T (P<0.05). The expression level of SATB1 mRNA in 6-10B was higher than 
+in NP69-SV40T, but the difference was not statistically significant (P>0.05). The
+positive expression rates of SATB1 protein in NPC (38/72, 52.8%) were
+significantly higher than in NNP (4/30, 13.3%) (P<0.05). SATB1 protein levels in 
+NPC were not associated with gender, age, and T stage (P>0.05), but positively
+correlated with the titers of EBVCA-IgA, metastasis (N and M stage), recurrence, 
+and survival (P<0.05). Multivariate analysis showed that the overexpression of
+SATB1 protein is an independent prognostic factor for NPC. The expression levels 
+of SATB1 were obviously upregulated in primary NPC tissues and human NPC cell
+lines. Therefore, SATB1 may be a valuable predictor in assessing the metastasis, 
+recurrence, and prognosis of NPC.
+
+
+PMCID: PMC4069958
+PMID: 24966956  [Indexed for MEDLINE]

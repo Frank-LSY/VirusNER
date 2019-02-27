@@ -1,0 +1,68 @@
+
+
+1489. J Otolaryngol Head Neck Surg. 2018 May 9;47(1):32. doi:
+10.1186/s40463-018-0280-0.
+
+Cavernous sinus involvement in human papillomavirus associated oropharyngeal
+squamous cell carcinoma: case report of an atypical site of distant metastasis.
+
+Forner D(1), Wilke D(2), Rigby MH(3), Croul S(4), Mishra A(5), Massoud E(3)(6),
+Clarke DB(3)(5)(6), Lamond N(7).
+
+Author information: 
+(1)Division of Otolaryngology - Head & Neck Surgery, Department of Surgery, Queen
+Elizabeth Health Science Center, Dalhousie University, Third Floor Dickson
+Building, Victoria General Site, 820 University Avenue, Halifax, B3H 1Y9, NS,
+Canada. david.forner@dal.ca.
+(2)Department of Radiation Oncology, Nova Scotia Cancer Centre, Dalhousie
+University, Dickson Building, Room 2200, main floor, 5820 University Avenue,
+Halifax, B3H 1V7, NS, Canada.
+(3)Division of Otolaryngology - Head & Neck Surgery, Department of Surgery, Queen
+Elizabeth Health Science Center, Dalhousie University, Third Floor Dickson
+Building, Victoria General Site, 820 University Avenue, Halifax, B3H 1Y9, NS,
+Canada.
+(4)Department of Pathology & Laboratory Medicine, Division of Anatomical
+Pathology, Dalhousie University, Room 635-B, 6th Floor, DJ Mackenzie Building,
+5788 University Avenue, Halifax, B3H 2Y9, NS, Canada.
+(5)Department of Ophthalmology & Visual Sciences, Dalhousie University, 1278
+Tower Road, Room 2035, 2W Victoria, Halifax, B3H 2Y9, NS, Canada.
+(6)Division of Neurosurgery, Department of Surgery, QEII Health Sciences Centre, 
+Dalhousie University, 1796 Summer Street, Suite 3806, Halifax, B3H 3A7, NS,
+Canada.
+(7)Division of Medical Oncology, Department of Medicine, Dalhousie University,
+QEII - Bethune Building, Suite 470 Bethune Building, 1276 South Park Street,
+Halifax, B3H 2Y9, NS, Canada.
+
+BACKGROUND: HPV-associated OSCC (HPV-OSCC) has been determined to be a distinct
+disease entity from non-HPV associated OSCC. Patients affected by HPV-OSCC
+generally have a more favourable prognosis, with improved rates of locoregional
+control and survival compared with their non-HPV counterparts. Despite this,
+HPV-OSCC has a similar rate of distant metastases. Interestingly, recent evidence
+has emerged that demonstrates more frequent atypical metastasis patterns when
+compared to non-HPV associated disease. To the best of our knowledge, this report
+describes the first case of a confirmed HPV-OSCC with distant metastasis to the
+cavernous sinus.
+CASE PRESENTATION: A 62-year-old non-smoking male presented to the head and neck 
+oncology clinic with a five-month history of enlarging right neck mass causing
+neck pain, dysphagia, and dysphonia. HPV-associated base of tongue squamous cell 
+carcinoma (cT4aN2c) was diagnosed, and he was treated with primary
+chemoradiation. Shortly after treatment, he presented with progressive bilateral 
+cranial nerve palsies including left cranial nerve III and right cranial nerve VI
+involvement. Imaging identified masses in the left cavernous sinus with extension
+of tumor into the sella and in the right cavernous sinus at the level of
+Dorello's canal. Endoscopic Image Guided Transsphenoidal biopsy of the left
+sellar mass confirmed distant metastases from the previously treated HPV-OSCC
+primary to the cavernous sinus. The patient was palliated with carboplatin and
+paclitaxel.
+CONCLUSION: The presented report is the first documented case of confirmed
+HPV-associated oropharyngeal squamous cell carcinoma metastasizing to the
+cavernous sinus, and the only HPV confirmed head and neck cancer case to present 
+with metastasis to the cavernous sinus and limited extracranial disease. This
+case demonstrates the importance of recognizing presentations of atypical
+metastasis that are possible in HPV-associated oropharyngeal cancer. Given the
+rarity of metastasis to this region, vigilance in follow up is instrumental in
+early identification and treatment for these patients.
+
+DOI: 10.1186/s40463-018-0280-0 
+PMCID: PMC5941456
+PMID: 29743120  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+2905. Pathol Oncol Res. 2011 Jun;17(2):397-402. doi: 10.1007/s12253-010-9312-4. Epub
+2010 Oct 30.
+
+Interdigitating dendritic cell sarcoma following adult liver transplantation:
+case report and literature review.
+
+Liu X(1), Deng Y, Zhang X, Mukherjee R, Huang W, Zhang G, Wang H, Li X.
+
+Author information: 
+(1)Department of Pathology, First Affiliated Hospital, Medical College of Xi'an
+Jiaotong University, Xi'an 710061, China. liuxizgq@gmail.com
+
+Interdigitating dendritic cell sarcoma is an extremely rare neoplasm derived from
+professional antigen presenting cells. We report an unusual case of such a tumor 
+occurring in a 61-year-old woman who had undergone orthotopic liver
+transplantation for stage IVA2 primary hepatocellular carcinoma with a raised
+preoperative α-fetoprotein level, followed by tacrolimus-based immunosuppressive 
+therapy. During her subsequent management, the tacrolimus blood levels ranged
+from 7.9 ng/mL to 16.1 ng/mL. Physical examination revealed bilateral neck and
+left axillary lymphadenopathy. No evidence of either chronic hepatitis B virus or
+Epstein-Barr virus could be detected in serum. An excisional biopsy of a right
+neck lymph node was performed. Microscopically, the normal architecture was
+diffusely effaced by a proliferation of spindled to ovoid cells arrayed in a
+fascicular, ill-defined whorled pattern and small lymphocytes were admixed in
+varying numbers with the tumor cells. Immunohistochemical studies showed that the
+tumor cells were positive for S100 protein, vimentin and CD68. Based on these
+findings, the case was diagnosed as an interdigitating dendritic cell sarcoma.
+The patient unfortunately had no response to 2 cycles of CHOP chemotherapy
+(cyclophosphamide, doxorubicin, vincristine, and prednisone), and died of wide
+spread disease 6 months after the original biopsy. We propose that
+tacrolimus-based immunosuppression was associated with the development of
+interdigitating dendritic cell sarcoma after liver transplantation in this case.
+
+DOI: 10.1007/s12253-010-9312-4 
+PMID: 21052884  [Indexed for MEDLINE]

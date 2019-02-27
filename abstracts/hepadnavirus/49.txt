@@ -1,0 +1,31 @@
+
+
+49. World J Gastroenterol. 2014 May 14;20(18):5427-34. doi: 10.3748/wjg.v20.i18.5427.
+
+Hepatitis B virus genotypes: global distribution and clinical importance.
+
+Sunbul M(1).
+
+Author information: 
+(1)Mustafa Sunbul, Department of Infectious Diseases, School of Medicine, Ondokuz
+Mayis University, 55139 Samsun, Turkey.
+
+At least 600000 individuals worldwide annually die of hepatitis B virus
+(HBV)-related diseases, such as chronic hepatitis B (CHB), liver cirrhosis (LC), 
+and hepatocellular carcinoma (HCC). Many viral factors, such as viral load,
+genotype, and specific viral mutations, are known to affect disease progression. 
+HBV reverse transcriptase does not have a proofreading function, therefore, many 
+HBV genotypes, sub-genotypes, mutants, and recombinants emerge. Differences
+between genotypes in response to antiviral treatment have been determined. To
+date, 10 HBV genotypes, scattered across different geographical regions, have
+been identified. For example, genotype A has a tendency for chronicity, whereas
+viral mutations are frequently encountered in genotype C. Both chronicity and
+mutation frequency are common in genotype D. LC and progression to HCC are more
+commonly encountered with genotypes C and D than the other genotypes. Pathogenic 
+differences between HBV genotypes explain disease intensity, progression to LC,
+and HCC. In conclusion, genotype determination in CHB infection is important in
+estimating disease progression and planning optimal antiviral treatment.
+
+DOI: 10.3748/wjg.v20.i18.5427 
+PMCID: PMC4017058
+PMID: 24833873  [Indexed for MEDLINE]

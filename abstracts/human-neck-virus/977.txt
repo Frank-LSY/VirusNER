@@ -1,0 +1,59 @@
+
+
+977. Oral Oncol. 2016 Dec;63:23-29. doi: 10.1016/j.oraloncology.2016.10.021. Epub 2016
+Nov 10.
+
+HPV knowledge gaps and information seeking by oral cancer patients.
+
+Inglehart RC(1), Taberna M(2), Pickard RK(3), Hoff M(3), Fakhry C(4), Ozer E(5), 
+Katz M(6), Gillison ML(7).
+
+Author information: 
+(1)MSTP Program, The Ohio State University College of Medicine, Columbus, OH,
+United States.
+(2)Department of Medical Oncology, Catalan Institute of Oncology (ICO), IDIBELL. 
+L'Hospitalet de Llobregar, Barcelona, Spain; Cancer Epidemiology Research
+Program, Catalan Institute of Oncology (ICO), IDIBELL. L'Hospitalet de Llobregat,
+Barcelona, Spain; University of Barcelona, Spain.
+(3)Department of Medicine, The Ohio State University, Columbus, OH, United
+States.
+(4)Department of Otolaryngology, Head and Neck Surgery, Johns Hopkins School of
+Medicine, Johns Hopkins Outpatient Center, Baltimore, MD, United States.
+(5)Department of Otolaryngology, Head and Neck Surgery, The Ohio State
+University, Columbus, OH, United States.
+(6)Division of Cancer Prevention and Control, Department of Internal Medicine,
+College of Medicine, The Ohio State University, Columbus, OH, United States;
+Division of Health Behavior and Health Promotion, College of Public Health, The
+Ohio State University, Columbus, OH, United States.
+(7)Department of Medicine, The Ohio State University, Columbus, OH, United
+States. Electronic address: maura.gillison@osumc.edu.
+
+OBJECTIVES: The incidence of human papillomavirus (HPV) positive oral squamous
+cell carcinoma (OSCC) continues to increase over time, challenging healthcare
+providers to address their patients' HPV-related concerns.
+MATERIALS AND METHODS: This prospective study assessed health literacy, HPV
+knowledge, utilization and trust in information sources among patients with
+incident HPV-positive or HPV-negative OSCC diagnosed at the Ohio State University
+from 2011 to 2015. Health literacy was assessed with a standardized scale.
+Additional questions evaluated HPV knowledge (including transmission, prevalence,
+health consequences and treatment), the frequency and type of information sources
+sought, and trust in those sources.
+RESULTS: Surveys were collected from 372 OSCC cases (HPV-positive, n=188;
+HPV-negative, n=184). Despite high mean health literacy scores, only 45.2% of
+HPV-related knowledge questions were answered correctly. HPV was known to be a
+sexually transmitted infection and a cause of cervical and anal cancer by 66.0%, 
+56.5% and 15.2%, respectively. In all domains, cases with HPV-positive OSCC were 
+significantly more informed than HPV-negative cases (for all, p<0.01). Only 52.7%
+and 56.2% of patients with HPV-positive OSCC felt they knew enough to be
+comfortable discussing HPV with their doctor or sexual partner, respectively. The
+most frequently used information source was the internet (80.9%), which ranked
+8th in trust of 15 possible sources. Although most (95.5%) patients trusted
+information from their doctors, only 37.9% used doctors as an information source.
+CONCLUSIONS: Doctors are a highly trusted, but infrequent utilized, information
+source and should facilitate patient access to high-quality HPV information
+sources.
+
+Copyright © 2016. Published by Elsevier Ltd.
+
+DOI: 10.1016/j.oraloncology.2016.10.021 
+PMID: 27938996  [Indexed for MEDLINE]

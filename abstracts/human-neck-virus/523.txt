@@ -1,0 +1,33 @@
+
+
+523. Head Neck Pathol. 2017 Sep;11(3):377-384. doi: 10.1007/s12105-017-0780-7. Epub
+2017 Feb 7.
+
+Human Papillomavirus Associated Cancers of the Head and Neck: An Australian
+Perspective.
+
+Aldalwg MAH(1), Brestovac B(2).
+
+Author information: 
+(1)School of Biomedical Sciences, Curtin University, Building 308, Kent Street,
+Bentley, Perth, WA, 6102, Australia.
+(2)School of Biomedical Sciences, Curtin University, Building 308, Kent Street,
+Bentley, Perth, WA, 6102, Australia. b.brestovac@curtin.edu.au.
+
+Human papillomavirus (HPV) associated head and neck squamous cell carcinomas
+(HNSCCs), have become a serious global health problem. Despite decreases in
+HPV-negative HNSCCs, the prevalence of HPV-positive HNSCCs has significantly
+increased. HPV-positive cancers are associated with superior survival outcomes
+when compared to HPV-negative cancers, which appears likely to be associated with
+differences in the molecular pathogenesis of the two diseases. While therapies
+are still problematic, the current HPV vaccine programs hold a promise for the
+primary prevention of HPV-related HNSCCs and since Australia was the first to
+introduce a nationwide HPV vaccine program, it is in a unique position to observe
+the effects of the vaccine on HNSCCs. This review discusses the epidemiological
+trends associated with HPV in HNSCC, with reference to the differences between
+HPV-positive and HPV-negative HNSCCs and the prevention potential of HPV
+vaccines.
+
+DOI: 10.1007/s12105-017-0780-7 
+PMCID: PMC5550398
+PMID: 28176136  [Indexed for MEDLINE]

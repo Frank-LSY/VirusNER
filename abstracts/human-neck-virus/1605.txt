@@ -1,0 +1,47 @@
+
+
+1605. Auris Nasus Larynx. 2018 Jun;45(3):558-565. doi: 10.1016/j.anl.2017.07.010. Epub 
+2017 Jul 29.
+
+The applicability of new TNM classification for humanpapilloma virus-related
+oropharyngeal cancer in the 8th edition of the AJCC/UICC TNM staging system in
+Japan: A single-centre study.
+
+Sano D(1), Yabuki K(2), Arai Y(2), Tanabe T(2), Chiba Y(2), Nishimura G(2),
+Takahashi H(2), Yamanaka S(3), Oridate N(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Yokohama City
+University, School of Medicine, Yokohama, Japan. Electronic address:
+dsano@yokohama-cu.ac.jp.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Yokohama City
+University, School of Medicine, Yokohama, Japan.
+(3)Department of Pathology, Yokohama City University Hospital, Yokohama, Japan.
+
+OBJECTIVE: The purpose of this study is to validate the applicability of new TNM 
+classification for human papillomavirus (HPV)-related oropharyngeal cancer (OPC) 
+in the 8th edition of the American Joint Committee on Cancer (AJCC)/Union for
+International Cancer Control (UICC) TNM staging system in Japan.
+METHODS: A total of 91 OPC patients treated with radiation-based therapy between 
+November 2001 and July 2015 were analyzed retrospectively in this study. HPV
+infection status was evaluated using tumor p16 expression.
+RESULTS: 40 OPC patients (44.0%) had HPV-positive disease in this study. The
+distribution of disease stage of HPV-positive OPC patients dramatically changed
+from the 7th edition to the 8th edition of AJCC/UICC TNM classification. However,
+neither the 8th edition nor the 7th edition of the AJCC/UICC TNM staging system
+could adequately predict outcomes of HPV-positive OPC patients in our patient
+series. On the other hand, our multivariate analysis indicated that matted nodes 
+and age ≥63 were independent prognostic factors for progression-free survival. In
+addition, HPV-positive OPC patients with stage I without matted nodes showed
+significantly better overall and progression-free survival compared with those
+with stage I with matted nodes and stages II and III in the 8th edition of the
+AJCC/UICC TNM staging system (P=0.008, and P=0.043, respectively).
+CONCLUSION: Our results suggested that matted nodes of HPV-positive OPC patients 
+might be additionally examined to apply the 8th edition of AJCC/UICC TNM
+classification for more adequate predicting outcomes of HPV-positive OPC
+patients.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.anl.2017.07.010 
+PMID: 28760331  [Indexed for MEDLINE]

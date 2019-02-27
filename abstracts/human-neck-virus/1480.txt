@@ -1,0 +1,40 @@
+
+
+1480. Auris Nasus Larynx. 2014 Feb;41(1):109-12. doi: 10.1016/j.anl.2013.05.006. Epub
+2013 Jul 17.
+
+Synchronous bilateral tonsillar carcinomas associated with human papillomavirus.
+
+Nakahara S(1), Yasui T(2), Takenaka Y(2), Yamamoto Y(2), Yoshii T(2), Morii E(3),
+Inohara H(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Osaka University
+Graduate School of Medicine, Suita, Osaka, Japan. Electronic address:
+snakahara@ent.med.osaka-u.ac.jp.
+(2)Department of Otorhinolaryngology-Head and Neck Surgery, Osaka University
+Graduate School of Medicine, Suita, Osaka, Japan.
+(3)Department of Pathology, Osaka University Graduate School of Medicine, Suita, 
+Osaka, Japan.
+
+Although the incidence of human papillomavirus (HPV)-positive oropharyngeal
+carcinoma is increasing, only a limited number of synchronous bilateral
+HPV-positive tonsillar carcinomas have been reported to date. Here, we describe
+an additional case of 61-year-old female. Pathological analysis proved squamous
+cell carcinoma in biopsy specimens from bilateral tonsillar lesions and a fine
+needle aspirate from an enlarged cervical node. Polymerase chain reaction (PCR)
+and direct sequencing showed HPV-16 DNA in all of the biopsy specimens and fine
+needle aspirate with completely concordant sequences. Bilateral tonsillar lesions
+were immunohistochemically positive for p16. Taken together with radiological
+findings, she was diagnosed to have bilateral tonsillar carcinomas (cT1N2bM0 on
+the right side and cT2N0M0 on the left side). We administered concurrent
+chemoradiotherapy to treat these synchronous lesions, and the restaging workup
+resulted in overall complete response. No recurrent and/or metastatic disease has
+been evident 20 months after the restaging. It seems reasonable to include
+bilateral tonsils as a therapeutic target in the treatment of HPV-positive
+unknown primary carcinoma.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.anl.2013.05.006 
+PMID: 23871190  [Indexed for MEDLINE]

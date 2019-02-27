@@ -1,0 +1,62 @@
+
+
+37. J Virol. 2016 Oct 28;90(22):10193-10208. Print 2016 Nov 15.
+
+Vif Proteins from Diverse Human Immunodeficiency Virus/Simian Immunodeficiency
+Virus Lineages Have Distinct Binding Sites in A3C.
+
+Zhang Z(1), Gu Q(1), Jaguva Vasudevan AA(1), Jeyaraj M(1), Schmidt S(2), Zielonka
+J(1), Perković M(1)(2), Heckel JO(3), Cichutek K(2), Häussinger D(1), Smits
+SH(4), Münk C(5).
+
+Author information: 
+(1)Clinic for Gastroenterology, Hepatology, and Infectiology, Medical Faculty,
+Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany.
+(2)Department of Medical Biotechnology, Paul-Ehrlich-Institut, Langen, Germany.
+(3)Zoo Landau in der Pfalz, Landau in der Pfalz, Germany.
+(4)Institute of Biochemistry, Heinrich-Heine-Universität Düsseldorf, Düsseldorf, 
+Germany.
+(5)Clinic for Gastroenterology, Hepatology, and Infectiology, Medical Faculty,
+Heinrich-Heine-Universität Düsseldorf, Düsseldorf, Germany
+carsten.muenk@med.uni-duesseldorf.de.
+
+Lentiviruses have evolved the Vif protein to counteract APOBEC3 (A3) restriction 
+factors by targeting them for proteasomal degradation. Previous studies have
+identified important residues in the interface of human immunodeficiency virus
+type 1 (HIV-1) Vif and human APOBEC3C (hA3C) or human APOBEC3F (hA3F). However,
+the interaction between primate A3C proteins and HIV-1 Vif or natural HIV-1 Vif
+variants is still poorly understood. Here, we report that HIV-1 Vif is inactive
+against A3Cs of rhesus macaques (rhA3C), sooty mangabey monkeys (smmA3C), and
+African green monkeys (agmA3C), while HIV-2, African green monkey simian
+immunodeficiency virus (SIVagm), and SIVmac Vif proteins efficiently mediate the 
+depletion of all tested A3Cs. We identified that residues N/H130 and Q133 in
+rhA3C and smmA3C are determinants for this HIV-1 Vif-triggered counteraction. We 
+also found that the HIV-1 Vif interaction sites in helix 4 of hA3C and hA3F
+differ. Vif alleles from diverse HIV-1 subtypes were tested for degradation
+activities related to hA3C. The subtype F-1 Vif was identified to be inactive for
+degradation of hA3C and hA3F. The residues that determined F-1 Vif inactivity in 
+the degradation of A3C/A3F were located in the C-terminal region (K167 and D182).
+Structural analysis of F-1 Vif revealed that impairing the internal salt bridge
+of E171-K167 restored reduction capacities to A3C/A3F. Furthermore, we found that
+D101 could also form an internal interaction with K167. Replacing D101 with
+glycine and R167 with lysine in NL4-3 Vif impaired its counteractivity to A3F and
+A3C. This finding indicates that internal interactions outside the A3 binding
+region in HIV-1 Vif influence the capacity to induce degradation of
+A3C/A3F.IMPORTANCE: The APOBEC3 restriction factors can serve as potential
+barriers to lentiviral cross-species transmissions. Vif proteins from
+lentiviruses counteract APOBEC3 by proteasomal degradation. In this study, we
+found that monkey-derived A3C, rhA3C and smmA3C, were resistant to HIV-1 Vif.
+This was determined by A3C residues N/H130 and Q133. However, HIV-2, SIVagm, and 
+SIVmac Vif proteins were found to be able to mediate the depletion of all tested 
+primate A3C proteins. In addition, we identified a natural HIV-1 Vif (F-1 Vif)
+that was inactive in the degradation of hA3C/hA3F. Here, we provide for the first
+time a model that explains how an internal salt bridge of E171-K167-D101
+influences Vif-mediated degradation of hA3C/hA3F. This finding provides a novel
+way to develop HIV-1 inhibitors by targeting the internal interactions of the Vif
+protein.
+
+Copyright © 2016, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01497-16 
+PMCID: PMC5105656
+PMID: 27581978  [Indexed for MEDLINE]

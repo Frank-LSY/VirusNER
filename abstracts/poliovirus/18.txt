@@ -1,0 +1,50 @@
+
+
+18. Clin Infect Dis. 2016 Jan 15;62(2):190-198. doi: 10.1093/cid/civ831. Epub 2015
+Sep 28.
+
+Genomic Surveillance Elucidates Persistent Wild Poliovirus Transmission During
+2013-2015 in Major Reservoir Areas of Pakistan.
+
+Alam MM(1), Sharif S(1), Shaukat S(1), Angez M(1), Khurshid A(1), Rehman L(1),
+Zaidi SSZ(1).
+
+Author information: 
+(1)Department of Virology, National Institute of Health, Chak Shahzad, Islamabad,
+Pakistan.
+
+Comment in
+    Clin Infect Dis. 2016 Jan 15;62(2):199.
+
+BACKGROUND: Despite tremendous efforts in the fight against polio, Pakistan bears
+the highest proportion of poliomyelitis cases among the 3 endemic countries
+including Afghanistan and Nigeria. Apart from insecurity and inaccessibility
+challenges, the substantial shift of unimmunized children from North Waziristan
+due to recent military operations was presumed to favor the widespread poliovirus
+infection in Pakistan.
+METHODS: To better understand the current epidemiological situation, we analyzed 
+the virologic data of wild poliovirus type 1 (WPV1) strains detected in Pakistan 
+during 2013-2015.
+RESULTS: Five genetic clusters (A-E) were identified with at least 5% nucleotide 
+divergence in the viral protein 1 (VP1) coding region. Peshawar, Quetta, and
+Karachi were found to be the major endemic foci where multiple discrete genetic
+lineages of WPV1 were detected. Phylogenetic analysis suggests that wild
+poliovirus strains from endemic regions were genetically distant (with 5%-15% VP1
+nucleotide divergence) from those detected in North Waziristan cases, excluding
+the possibility of a recent progenitor of WPV1 instigating single-source
+transmission across the country. Orphan lineages detected in Rawalpindi, Lahore, 
+Hyderabad, Sukkur, and Jacobabad revealed silent transmission and the need for
+vigilant surveillance. Sustenance of analogous genetic lineages over a period of 
+3 years highlights multiple unimmunized foci present to maintain viral genetic
+diversity.
+CONCLUSIONS: Our findings are inconsistent with the hypothesis that impoverished 
+populations from North Waziristan serve as a possible determinant of widespread
+poliomyelitis infection in Pakistan and further emphasize the need to scale-up
+clinical and environmental surveillance as well as immunization activities.
+
+© The Author 2015. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/civ831 
+PMID: 26417032  [Indexed for MEDLINE]

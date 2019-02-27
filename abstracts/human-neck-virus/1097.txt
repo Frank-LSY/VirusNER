@@ -1,0 +1,40 @@
+
+
+1097. Virchows Arch. 2015 Jul;467(1):111-7. doi: 10.1007/s00428-015-1779-7. Epub 2015
+May 10.
+
+Epstein-Barr virus-positive primary cutaneous follicle centre lymphoma; an
+age-related phenomenon?
+
+van der Horst MP(1), Hardwick A, Rahilly M, Goodlad JR.
+
+Author information: 
+(1)Department of Pathology, Western General Hospital, Alexander Donald Building, 
+1st Floor, Crewe Road, Edinburgh, EH4 2XU, Scotland, UK.
+
+Primary cutaneous follicle centre lymphoma is the most frequently encountered
+primary cutaneous B cell lymphoma, often presenting in the head and neck region. 
+Treatment is locally directed with surgery and/or radiotherapy. The prognosis is 
+usually excellent with only local recurrences and generally no dissemination to
+extracutaneous sites. Epstein-Barr virus (EBV) is frequently encountered in
+lymphoproliferative disorders associated with immunosuppression, typically
+iatrogenic and congenital, or acquired as a consequence of a human
+immunodeficiency virus infection. More recently, age-related immune senescence
+has been proposed as a main driver in the evolution of EBV-positive
+lymphoproliferative disorders. We report a 50-year-old male presenting with a
+2-3-year history of an inflamed eruption centred on the forehead and scalp.
+Incisional biopsy showed pathological features typical of primary cutaneous
+follicle centre lymphoma (PCFCL), and in the absence of systemic disease, he was 
+treated with local radical radiotherapy. A cutaneous relapse occurred 10 months
+after initial diagnosis and 29 months after completing radiotherapy, he presented
+with a right-sided submandibular lymph node mass. Pathological examination of an 
+excised node showed an EBV-positive diffuse large B cell lymphoma. Retrospective 
+examination of the presenting PCFCL also showed the neoplastic lymphoid cells to 
+be positive for EBV, both by in situ hybridization and on immunohistochemical
+staining for LMP1. EBV-associated PCFCL is an extremely rare occurrence. We
+speculate that, in this case, the EBV-positive lymphoma has most likely arisen as
+a consequence of age-related immune senescence, thereby further expanding the
+pathological spectrum of age-related EBV-associated B cell lymphoproliferations.
+
+DOI: 10.1007/s00428-015-1779-7 
+PMID: 25957860  [Indexed for MEDLINE]

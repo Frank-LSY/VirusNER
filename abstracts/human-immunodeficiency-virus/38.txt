@@ -1,0 +1,38 @@
+
+
+38. Macromol Biosci. 2017 Mar;17(3). doi: 10.1002/mabi.201600359. Epub 2016 Oct 17.
+
+Gold Nanocarriers for Macrophage-Targeted Therapy of Human Immunodeficiency
+Virus.
+
+Zazo H(1), Colino CI(1), Warzecha KT(2), Hoss M(3), Gbureck U(4), Trautwein C(2),
+Tacke F(2), Lanao JM(1), Bartneck M(2).
+
+Author information: 
+(1)Area of Pharmacy and Pharmaceutical Technology, University of Salamanca,
+Spain, Av. Lcdo Méndez Nieto, 37007, Salamanca, Spain.
+(2)Department of Medicine III, Medical Faculty, RWTH Aachen, Pauwelsstr. 30,
+52074, Aachen, Germany.
+(3)Electron Microscopic Facility (EMF), Medical Faculty, RWTH Aachen, Pauwelsstr.
+30, 52074, Aachen, Germany.
+(4)Department and Chair of Functional Materials in Medicine and Dentistry,
+University Hospital Würzburg, Pleicherwall 2, 97070, Würzburg, Germany.
+
+The human immunodeficiency virus (HIV) continues to be a global pandemic and
+there is an urgent need for innovative treatment. Immune cells represent a major 
+target of virus infection, but are also therapeutic targets. Currently, no
+antiretroviral therapy targets macrophages, which function as portal of entry and
+as major long-term deposit of HIV. It has been shown before that human
+macrophages efficiently internalize gold nanoparticles, a fact which might be
+used to target them with drug-nanoparticle conjugates. Here, the authors use gold
+nanocarriers to facilitate delivery of stavudine, a widely used antiretroviral
+drug, to primary human macrophages. Using an ease-of-use coupling method, a
+striking potentiation of stavudine intake by macrophages using gold nanocarriers 
+is shown. Further, the carriers induce a specific subtype of proinflammatory
+activation indicative for antiviral activity of macrophages, which suggests
+promising novel treatment options for HIV.
+
+© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/mabi.201600359 
+PMID: 27748547  [Indexed for MEDLINE]

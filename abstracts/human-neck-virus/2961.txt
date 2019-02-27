@@ -1,0 +1,67 @@
+
+
+2961. Ann Allergy Asthma Immunol. 2017 May;118(5):621-628.e1. doi:
+10.1016/j.anai.2017.02.012.
+
+Physicians' experience and opinion on contraindications to allergen
+immunotherapy: The CONSIT survey.
+
+Rodríguez Del Rio P(1), Pitsios C(2), Tsoumani M(3), Pfaar O(4), Paraskevopoulos 
+G(5), Gawlik R(6), Valovirta E(7), Larenas-Linnemann D(8), Demoly P(9), Calderón 
+MA(10).
+
+Author information: 
+(1)Allergy Section, Children's University Hospital "Niño Jesús", Madrid, Spain.
+Electronic address: prodriguezd@salud.madrid.org.
+(2)Medical School, University of Cyprus, Nicosia, Cyprus.
+(3)Centre for Respiratory Medicine and Allergy, University Hospital of South
+Manchester and Manchester Academic Health Science Centre, The University of
+Manchester, Manchester, United Kingdom.
+(4)Department of Otorhinolaryngology, Head and Neck Surgery, Universitätsmedizin 
+Mannheim, Medical Faculty Mannheim, Heidelberg University, Mannheim, Germany;
+Center for Rhinology and Allergology, Wiesbaden, Germany.
+(5)Allergy Outpatient Clinic, 401 General Military Hospital of Athens, Athens,
+Greece.
+(6)Department of Internal Medicine, Allergy and Clinical Immunology, Silesian
+University of Medicine, Katowice, Poland.
+(7)Terveystalo Turku, Allergy Clinic, University of Turku, Turku, Finland.
+(8)Hospital Medica Sur, Mexico DF, Mexico.
+(9)Département de Pneumologie et Addictologie, Hôpital Arnaud de Villeneuve,
+University Hospital of Montpellier; Sorbonne Universités, UPMC Paris 06, UMR-S
+1136, IPLESP, Equipe EPAR, 75013, Paris, France.
+(10)Section of Allergy and Clinical Immunology, Imperial College London, National
+Heart and Lung Institute and Royal Brompton Hospital NSH, London, United Kingdom.
+
+BACKGROUND: Allergen immunotherapy (AIT) is the only disease-modifying treatment 
+in allergy but several contraindications limit its use.
+OBJECTIVE: To collect the outcome of using AIT in theoretically contraindicated
+situations in real patients in the Contraindications to Specific ImmunoTherapy
+(CONSIT) survey.
+METHODS: The CONSIT is an electronic European Academy of Allergy and Clinical
+Immunology survey conducted to gather the safety outcomes of patients undergoing 
+subcutaneous, sublingual, or venom AIT and the opinions of physicians on each of 
+17 selected conditions: children younger than 5 years; starting AIT during
+pregnancy; controlled severe asthma; arrhythmias; coronary disease; cancer;
+autoimmune disease; bone marrow and solid organ transplantation; human
+immunodeficiency virus and acquired immunodeficiency syndrome; previous
+anaphylaxis during AIT; use of β-blockers, angiotensin-converting inhibitors,
+cyclosporine, and methotrexate; and inability to communicate. Safety using AIT
+was reported in a 3-point scale: 1, "no problems"; 2, "minor problems" (requiring
+only dose modifications); and 3, "major problems" (AIT not tolerated). Each
+physician was asked about the degree of contraindication that each condition
+should have: no contraindication (score 1), relative contraindication (score 2), 
+or absolute contraindication (score 3).
+RESULTS: Five hundred twenty physicians (75% Europeans, 89% allergists) reported 
+on approximately 45,000 patients undergoing AIT with any of these conditions.
+Major problems were infrequent, occurring more frequently in patients with asthma
+(9.9%) and with previous anaphylaxis from AIT (9.5%). Regarding opinions,
+experienced physicians scored a significantly lower mean for all conditions than 
+non-experienced physicians for all routes.
+CONCLUSION: Major problems were infrequent and experienced physicians were less
+likely to be restrictive in the use of AIT.
+
+Copyright © 2017 American College of Allergy, Asthma & Immunology. Published by
+Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anai.2017.02.012 
+PMID: 28477792  [Indexed for MEDLINE]

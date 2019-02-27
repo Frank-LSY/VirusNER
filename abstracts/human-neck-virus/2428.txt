@@ -1,0 +1,45 @@
+
+
+2428. Cancer Med. 2015 Oct;4(10):1525-35. doi: 10.1002/cam4.499. Epub 2015 Jul 21.
+
+Clinical relevance of copy number profiling in oral and oropharyngeal squamous
+cell carcinoma.
+
+van Kempen PM(1), Noorlag R(2), Braunius WW(1), Moelans CB(3), Rifi W(4), Savola 
+S(4), Koole R(2), Grolman W(1), van Es RJ(2), Willems SM(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology, University Medical Center Utrecht, Utrecht,
+The Netherlands.
+(2)Department of Oral and Maxillofacial Surgery, University Medical Center
+Utrecht, Utrecht, The Netherlands.
+(3)Department of Pathology, University Medical Center Utrecht, Utrecht, The
+Netherlands.
+(4)Tumor diagnostics, MRC-Holland, Amsterdam, The Netherlands.
+
+Current conventional treatment modalities in head and neck squamous cell
+carcinoma (HNSCC) are nonselective and have shown to cause serious side effects. 
+Unraveling the molecular profiles of head and neck cancer may enable promising
+clinical applications that pave the road for personalized cancer treatment. We
+examined copy number status in 36 common oncogenes and tumor suppressor genes in 
+a cohort of 191 oropharyngeal squamous cell carcinomas (OPSCC) and 164 oral
+cavity squamous cell carcinomas (OSCC) using multiplex ligation probe
+amplification. Copy number status was correlated with human papillomavirus (HPV) 
+status in OPSCC, with occult lymph node status in OSCC and with patient survival.
+The 11q13 region showed gain or amplifications in 59% of HPV-negative OPSCC,
+whereas this amplification was almost absent in HPV-positive OPSCC. Additionally,
+in clinically lymph node-negative OSCC (Stage I-II), gain of the 11q13 region was
+significantly correlated with occult lymph node metastases with a negative
+predictive value of 81%. Multivariate survival analysis revealed a significantly 
+decreased disease-free survival in both HPV-negative and HPV-positive OPSCC with 
+a gain of Wnt-induced secreted protein-1. Gain of CCND1 showed to be an
+independent predictor for worse survival in OSCC. These results show that copy
+number aberrations, mainly of the 11q13 region, may be important predictors and
+prognosticators which allow for stratifying patients for personalized treatment
+of HNSCC.
+
+© 2015 The Authors. Cancer Medicine published by John Wiley & Sons Ltd.
+
+DOI: 10.1002/cam4.499 
+PMCID: PMC4618623
+PMID: 26194878  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+1454. PLoS One. 2017 Aug 1;12(8):e0180426. doi: 10.1371/journal.pone.0180426.
+eCollection 2017.
+
+Expression of Merkelcell polyomavirus (MCPyV) large T-antigen in Merkel cell
+carcinoma lymph node metastases predicts poor outcome.
+
+Haymerle G(1), Janik S(1), Fochtmann A(2), Pammer J(3), Schachner H(3), Nemec
+L(4), Mildner M(4), Houben R(5), Grasl MC(1), Erovic BM(1).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Medical University of
+Vienna, Vienna, Austria.
+(2)Department of Surgery, Clinical Division of Plastic and Reconstructive
+Surgery, Medical University of Vienna, Vienna, Austria.
+(3)Department of Clinical Pathology, Medical University of Vienna, Vienna,
+Austria.
+(4)Department of Dermatology, Research Division of Biology and Pathobiology of
+the Skin, Medical University of Vienna, Vienna, Austria.
+(5)Department of Dermatology, Medical University of Wuerzburg, Wuerzburg,
+Germany.
+
+BACKGROUND: The aim of this study was to determine the prevalence of MCPyV in
+Merkel cell carcinoma (MCC) primaries versus lymph node metastasis and to
+evaluate possible prognostic factors.
+METHODS: Samples of MCC primaries and lymph node metastases were stained
+immunohistochemically for the MCPyV large T-antigen and expression was compared
+to patients´ clinical outcome.
+RESULTS: 41 MCC patients were included. 33 (61%) out of 54 specimens were
+MCPyV-positive in the immunohistochemistry. 15 (47%) out of 32 primary tumors
+were positive compared to 18 (82%) out of 22 lymph node metastases. Eleven
+patients with positive polyomavirus expression died from the carcinoma compared
+to 4 patients without virus expression. Cox regression analysis showed worse
+disease-free survival in patients with MCPyV compared to virus-negative lymph
+nodes (p = 0.002).
+CONCLUSIONS: To our knowledge this is the first study to describe a negative
+prognostic effect of the MCPyV expression in lymph node metastasis in MCC
+patients.
+
+DOI: 10.1371/journal.pone.0180426 
+PMCID: PMC5538748
+PMID: 28763479  [Indexed for MEDLINE]

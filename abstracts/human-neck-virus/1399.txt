@@ -1,0 +1,48 @@
+
+
+1399. Oral Surg Oral Med Oral Pathol Oral Radiol. 2016 May;121(5):456-60. doi:
+10.1016/j.oooo.2015.10.035. Epub 2015 Nov 17.
+
+Differences in human papillomavirus-positive and -negative head and neck cancers 
+in Belgium: an 8-year retrospective, comparative study.
+
+Grisar K(1), Dok R(2), Schoenaers J(3), Dormaar T(3), Hauben E(4), Jorissen M(5),
+Nuyts S(6), Politis C(3).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, University Hospitals Leuven,
+Leuven, Belgium. Electronic address: Koenraadgrisar@gmail.com.
+(2)Laboratory of Experimental Radiotherapy, University of Leuven, Leuven,
+Belgium.
+(3)Department of Oral and Maxillofacial Surgery, University Hospitals Leuven,
+Leuven, Belgium.
+(4)Department of Imaging and Pathology, University Hospitals Leuven, Leuven,
+Belgium.
+(5)Department of Otorhinolaryngology, University Hospitals Leuven, Leuven,
+Belgium.
+(6)Laboratory of Experimental Radiotherapy, University of Leuven, Leuven,
+Belgium; Department of Radiation Oncology, University Hospitals Leuven, Leuven,
+Belgium.
+
+OBJECTIVES: This study investigated the prevalence of human papillomavirus
+(HPV)-related oropharyngeal squamous cell carcinoma (OPSCC) and compared patient 
+profiles and outcomes between HPV-positive and HPV-negative groups.
+STUDY DESIGN: This retrospective study included all patients treated for OPSCC in
+the University Hospitals of Leuven between 2004 and 2012. Paraffin-embedded tumor
+tissue was available for all patients. Patient characteristics, treatment, and
+follow-up data were retrieved from medical files. HPV status was determined by
+immunohistochemical staining for the p16 epitope.
+RESULTS: Among 94 patients, the prevalence of HPV-positive OPSCC was 22.34%.
+Compared with HPV-negative tumors, HPV-positive tumors were correlated with less 
+smoking and alcohol consumption, tonsillar sublocalization (P < .05), and younger
+age. HPV-positive OPSCC was associated with better overall survival (62.2%)
+compared with HPV-negative OPSCC (42.5%; P = .0588).
+CONCLUSIONS: Among patients with OPSCC, those with HPV exhibited profiles
+different from those without HPV. HPV-positive OPSCC was associated with better
+overall survival compared with HPV-negative OPSCC. HPV-positive OPSCC prevalence 
+increased over time.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.oooo.2015.10.035 
+PMID: 26795451  [Indexed for MEDLINE]

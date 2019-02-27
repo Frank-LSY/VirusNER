@@ -1,0 +1,39 @@
+
+
+2831. Am J Health Syst Pharm. 2009 May 15;66(10):908-15. doi: 10.2146/ajhp070605.
+
+Propofol infusion syndrome: case report and literature review.
+
+Orsini J(1), Nadkarni A, Chen J, Cohen N.
+
+Author information: 
+(1)Division of Critical Care Medicine, Albert Einstein College of Medicine and
+Montefiore Medical Center, Bronx, NY 10467-2490, USA. joseorsini@yahoo.com
+
+PURPOSE: A case of propofol infusion syndrome in a patient with respiratory
+failure and sepsis is reported.
+SUMMARY: A 36-year-old Hispanic woman was admitted to the medical intensive care 
+unit for treatment of respiratory failure and sepsis, likely secondary to
+pneumonia. Her medical history included human immunodeficiency virus infection
+and chronic hepatitis C virus infection. She was intubated and placed on
+mechanical ventilation. Empirical i.v. antimicrobial therapy was initiated with
+vancomycin, moxifloxacin, piperacillin-tazobactam, trimethoprim-sulfamethoxazole,
+and micafungin, along with corticosteroids and vasopressors. Propofol 1.5 mg/kg
+per hour i.v. and midazolam i.v. were initiated for sedation, but the dosages of 
+both propofol and midazolam needed to be increased due to persistent agitation.
+On hospital day 7, the patient developed a morbilliform rash on her neck,
+shoulders, and chest and multiple abnormal laboratory test values, including
+elevated levels of alanine transaminase, aspartate transaminase, amylase, lipase,
+creatine kinase, and triglycerides. Serial electrocardiograms revealed sinus
+tachycardia. Computed tomography of the abdomen showed hepatomegaly with fatty
+infiltration of the liver, no gallstones, and a normal pancreas. I.V.
+phenobarbital was added for sedation, and propofol was tapered and discontinued
+on the same day. The patient responded adequately to phenobarbital maintenance
+therapy and was eventually weaned off all other sedatives. The patient's
+laboratory test values returned to normal within 72 hours after discontinuation
+of the propofol infusion, and the rash and tachycardia resolved.
+CONCLUSION: Propofol infusion syndrome developed in a patient with respiratory
+failure and sepsis after a prolonged infusion of high-dose propofol.
+
+DOI: 10.2146/ajhp070605 
+PMID: 19420309  [Indexed for MEDLINE]

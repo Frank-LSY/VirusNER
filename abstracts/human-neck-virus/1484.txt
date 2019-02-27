@@ -1,0 +1,51 @@
+
+
+1484. Laryngoscope. 2012 Jan;122(1):121-7. doi: 10.1002/lary.22133.
+
+Infiltrating lymphocytes and human papillomavirus-16--associated oropharyngeal
+cancer.
+
+Wansom D(1), Light E, Thomas D, Worden F, Prince M, Urba S, Chepeha D, Kumar B,
+Cordell K, Eisbruch A, Taylor J, Moyer J, Bradford C, D'Silva N, Carey T, McHugh 
+J, Wolf G; UM Head Neck SPORE Program.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Michigan,
+Ann Arbor, Michigan 48109, USA.
+
+OBJECTIVES/HYPOTHESIS: Human papillomavirus-16 (HPV-16)-associated carcinoma of
+the oropharynx has a favorable prognosis. Such patients have elevated CD8+
+T-lymphocyte levels that correlate with response to chemotherapy and survival.
+Tumor-infiltrating lymphocyte (TIL) subpopulations were assessed in pretreatment 
+biopsies from a prospective patient cohort to determine if TIL subsets differed
+by HPV status, clinical factors, or patient outcome or correlated with peripheral
+blood T-cell levels.
+STUDY DESIGN: Retrospective immunological correlative study of patients entered
+in a prospective Phase 2 clinical trial.
+METHODS: Measured were CD8, CD4, CD68, and Treg (FoxP3) lymphocytes by
+immunohistochemistry in a tissue microarray created from patients (n=46) with
+advanced oropharyngeal cancer. Correlations with peripheral blood levels, HPV
+status, expression of epidermal growth factor receptor (EGFR), clinical tumor,
+and patient characteristics and outcome were determined. Median follow-up was 6.6
+years.
+RESULTS: HPV-16-positive patients had improved survival (P=.016). Degree of
+T-cell infiltration did not differ by HPV status but was significantly related to
+disease-specific survival (DSS) and overall survival (OS). Even after adjusting
+for HPV status, we found that CD8, FoxP3, and total T cells were significantly
+associated with DSS (P=.0236, P=.0040, and P=.0197, respectively) and OS
+(P=.0137, P=.0158, and P=.0115, respectively). Less T-cell infiltration (P=.0130)
+and CD4 cells in particular (P=.0792) were associated with higher EGFR
+expression.
+CONCLUSIONS: Improved outcomes are associated with increased TILs independent of 
+HPV status and suggest the local immune response may be more related to factors
+such as tumor size, EGFR expression, or performance status than HPV status.
+Further study of larger numbers of patients and infiltrates combined with
+functional analysis of individual subsets may be necessary to detect significant 
+differences in local immunity in HPV-16-related cancers.
+
+Copyright © 2011 The American Laryngological, Rhinological, and Otological
+Society, Inc.
+
+DOI: 10.1002/lary.22133 
+PMCID: PMC3337032
+PMID: 22183632  [Indexed for MEDLINE]

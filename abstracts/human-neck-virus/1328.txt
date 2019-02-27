@@ -1,0 +1,51 @@
+
+
+1328. Oncotarget. 2017 May 23;8(21):34820-34835. doi: 10.18632/oncotarget.16747.
+
+Molecular and serologic markers of HPV 16 infection are associated with local
+recurrence in patients with oral cavity squamous cell carcinoma.
+
+Huang CG(1)(2)(3), Lee LA(4)(5), Liao CT(4)(5), Yen TC(4)(6), Yang SL(1)(2), Liu 
+YC(1), Li JC(4), Gong YN(1), Kang CJ(4)(5), Huang SF(4)(5), Fang KH(4)(5), Chang 
+KP(4)(5), Lee LY(4)(7), Hsueh C(4)(7), Shih SR(1)(2)(3), Tsao KC(1)(2).
+
+Author information: 
+(1)Department of Laboratory Medicine, Head and Neck Oncology Group, Linkou Chang 
+Gung Memorial Hospital, Taoyuan, Taiwan, ROC.
+(2)Department of Medical Biotechnology and Laboratory Science, Chang Gung
+University, Taoyuan, Taiwan, ROC.
+(3)Graduate Institute of Biomedical Sciences, Chang Gung University, Taoyuan,
+Taiwan, ROC.
+(4)Faculty of Medicine, Chang Gung University, Taoyuan, Taiwan, ROC.
+(5)Department of Otorhinolaryngology - Head and Neck Surgery, Head and Neck
+Oncology Group, Linkou Chang Gung Memorial Hospital, Taoyuan, Taiwan, ROC.
+(6)Molecular Imaging Center, Head and Neck Oncology Group, Linkou Chang Gung
+Memorial Hospital, Taoyuan, Taiwan, ROC.
+(7)Department of Pathology, Head and Neck Oncology Group, Linkou Chang Gung
+Memorial Hospital, Taoyuan, Taiwan, ROC.
+
+Human papillomavirus (HPV) infections predict mortality in Taiwanese patients
+with oral cavity squamous cell carcinoma (OCSCC). To address their prognostic
+significance for local recurrence (LR), in this retrospective cohort study we
+investigated different serologic and molecular markers of HPV 16 infection in 85 
+consecutive patients with primary OCSCC who received standard treatment and had
+their sera stored before treatment. Resected tumor specimens were examined with
+PCR-based assays for HPV 16 E6/E7 mRNA expression. Sera were tested with
+suspension arrays for the presence of HPV-specific antibodies using synthetic L1 
+and E6 peptides as well as a synthetic E7 protein. HPV 16 E6/E7 mRNA, anti-L1,
+anti-E6, and anti-E7 antibodies tested positive in 12%, 25%, 38%, and 41% of the 
+study patients, respectively. Multivariate analysis identified pathological
+T3/T4, E6/E7 mRNA, and anti-E7 antibodies as independent risk factors for LR,
+whereas anti-E6 antibodies were an independent protective factor. In patients
+with ≥ 3 (high-risk group), 2 (intermediate-risk), and ≤ 1 (low-risk) independent
+risk factors (predictors), the 5-year LR rates were 75%, 42%, and 4%,
+respectively. Results were validated in an independent cohort. Together, our
+preliminary data indicate that HPV 16 infections as well as low and high serum
+levels of anti-E6 and anti-E7 antibodies, respectively, can serve as biomarkers
+of LR in patients with OCSCC, whereas the clinical usefulness of anti-HPV 16
+antibodies for risk stratification of newly diagnosed cases deserves further
+scrutiny.
+
+DOI: 10.18632/oncotarget.16747 
+PMCID: PMC5471014
+PMID: 28422732  [Indexed for MEDLINE]

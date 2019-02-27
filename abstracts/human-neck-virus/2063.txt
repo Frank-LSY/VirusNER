@@ -1,0 +1,53 @@
+
+
+2063. Cancer Biomark. 2016;16(3):467-76. doi: 10.3233/CBM-160586.
+
+Rta-IgG as a biomarker for diagnosis and post treatment prognostic of
+nasopharyngeal carcinoma.
+
+Xu XF(1)(2), Lu RQ(1)(2), Xiao R(1), Zhou L(1), Zhao XM(3), Hu XC(3), Gao X(1),
+Guo L(1)(2).
+
+Author information: 
+(1)Department of Clinical Laboratory, Fudan University Shanghai Cancer Center,
+Shanghai, China.
+(2)Department of Oncology, Shanghai Medical College, Fudan University, Shanghai, 
+China.
+(3)Department of Medical Oncology, Shanghai Cancer Center, Fudan University,
+Shanghai, China.
+
+BACKGROUND: Nasopharyngeal carcinoma (NPC) is a common type of head and neck
+cancer.
+OBJECTIVE: This study aimed to detect the expression of Epstein-Barr viral Rta
+protein in patients with untreated NPC, and compare the serum Rta-IgG with the
+VCA-IgA in patients with NPC.
+METHODS: In the current work, the nasopharyngeal tissues of untreated NPC
+patients (n= 13) and non-NPC controls (n= 10) were collected for the
+immunohistochemical (IHC) staining to analyze the levels of Rta protein
+expression, meanwhile serum samples from the participants were prepared to assess
+the roles of Rta-IgG level with Enzyme-linked immunosorbence assay (ELISA) in
+diagnosis of NPC including the patients with NPC, the patients with other
+cancers, and normal volunteers.
+RESULTS: The levels of serum Rta-IgG in 26 NPC patients were monitored at pre-
+and post-treatments, as well as one to two year after. We found that there was a 
+significant difference of the expression levels of Rta protein between NPC and
+non-NPC groups (P< 0.05). Correspondingly, the levels of serum Rta-IgG in NPC
+patients (3.05, 1.19-4.95) were significantly higher than those of non-NPC
+participants (0.15, 0.08-0.30, P< 0.05) including the patients with lung cancer
+(0.14, 0.08-0.19), the patients with breast carcinoma (0.17, 0.10-0.25), the
+patients with gastric carcinoma (0.08, 0.05-0.16), the patients with malignant
+lymphoma (0.13, 0.08-0.20), the patients with benign nasopharyngeal disease
+(1.65, 0.74-1.93) and healthy volunteers (0.22, 0.13-0.32), respectively. With a 
+receiver operation characteristic (ROC) analysis, the cut-off value to
+discriminate NPC patients from the controls was established at 0.92 (S/CO) for
+Rta-IgG (sensitivity 83.6%; specificity 82.4%), the diagnosis efficacy of Rta-IgG
+was higher than VCA-IgA. The positive rates of Rta-IgG were related to clinical
+stage, but not metastatic sites. Serum concentrations of Rta-IgG were decreased
+in NPC patients with effective radiation, and slightly raised or with no change
+with ineffective radiation.
+CONCLUSIONS: Rta expression levels are elevated in the patients with NPC, and
+serum Rta-IgG is a promising biomarker in both differential diagnosis and
+therapy-monitoring of the patients with NPC.
+
+DOI: 10.3233/CBM-160586 
+PMID: 27062704  [Indexed for MEDLINE]

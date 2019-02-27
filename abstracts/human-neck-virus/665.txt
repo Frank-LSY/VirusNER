@@ -1,0 +1,40 @@
+
+
+665. Am J Case Rep. 2015 Oct 30;16:774-7.
+
+Epstein-Barr Virus-Associated Atraumatic Spleen Laceration Presenting with Neck
+and Shoulder Pain.
+
+Sergent SR(1), Johnson SM(1), Ashurst J(1), Johnston G(1).
+
+Author information: 
+(1)Department of Emergency Medicine, Conemaugh Memorial Hospital, Johnstown, PA, 
+USA.
+
+BACKGROUND: Infectious mononucleosis, caused by the Epstein-Barr virus (EBV), is 
+a common infection with worldwide distribution; more than 90% of people have been
+infected by adulthood. One of the most feared, albeit rare, complications,
+occurring in less than 0.5% of those infected, is splenic injury or rupture.
+CASE REPORT: A febrile 15-year-old male presented to the emergency department
+with the chief compliant of headache, neck pain, and upper shoulder pain. He did 
+not recall any specific traumatic injury. His abdomen was soft, nondistended, and
+was tender in the right and left lower quadrants. Right lower quadrant ultrasound
+demonstrated non-visualization of the appendix, moderate right lower quadrant
+free fluid, and positive McBurney's sign. CT of the abdomen and pelvis was
+ordered, which demonstrated moderate splenomegaly, with findings compatible with 
+laceration through the anterior aspect of the spleen, with moderate
+hemoperitoneum. Monospot was negative and EBV panel demonstrated IGG negative,
+IGM positive, and, IGG negative. The patient was transferred to interventional
+radiology for a splenic angiogram and proximal splenic artery embolization. The
+angiogram demonstrated grade 3 laceration with moderate hemoperitoneum and no
+active extravasation or evidence of pseudoaneurysm. The patient was admitted and 
+made a prompt recovery without any other sequelae.
+CONCLUSIONS: The presentation of splenic injury or rupture can vary; the patient 
+may complain of abdominal pain or left upper quadrant pain, may exhibit referred 
+left shoulder pain when the LUQ is palpated (Kehr's Sign), or may exhibit
+hemodynamic instability. Given the spectrum of non-specific symptoms, diagnosing 
+EBV-induced splenic laceration can be difficult.
+
+
+PMCID: PMC4631128
+PMID: 26516137  [Indexed for MEDLINE]

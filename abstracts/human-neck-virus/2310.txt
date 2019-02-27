@@ -1,0 +1,39 @@
+
+
+2310. Otol Neurotol. 2014 Jan;35(1):e1-6. doi: 10.1097/MAO.0000000000000218.
+
+Unbiased stereologic estimation of the spatial distribution of Paget's disease in
+the human temporal bone.
+
+Bloch SL(1), Sørensen MS.
+
+Author information: 
+(1)*Department of Otolaryngology, Head and Neck Surgery, Køge Hospital,
+University of Copenhagen, Denmark; and †Department of Otolaryngology, Head and
+Neck Surgery, Rigshospitalet, University Hospital of Copenhagen, Denmark.
+
+BACKGROUND: It has been suggested that Paget's disease of bone and otosclerosis
+may share a myxoviral etiology. However, the association between virus infection 
+and pathologic bone remodeling is still controversial. The aim of this study was 
+to estimate the spatial distribution of pagetic bone remodeling around the inner 
+ear space and to compare it with that of otosclerosis in a contemporary context
+of temporal bone dynamics.
+MATERIALS AND METHODS: From the temporal bone collection of Massachusetts Eye and
+Ear Infirmary, 15 of 29 temporal bones with Paget's disease were selected to
+obtain an independent sample. All volume distributions were obtained along the
+normal axis of capsular bone remodeling activity by the use of vector-based
+stereology.
+RESULTS: Pagetic bone remodeling was distributed centrifugally around the inner
+ear space at the individual and the general level. This pattern is similar to the
+normal distribution of perilabyrinthine bone remodeling but entirely different
+from the spatial location of otosclerosis, which are focal and centripetally
+distributed around the inner ear space.
+CONCLUSION: In Paget's disease, the antiresorptive barrier around the inner ear
+space becomes gradually overruled as pagetic bone resorption invades the otic
+capsule from the outside. However, in otosclerosis, this barrier has somehow
+failed locally inside the otic capsule. Although virus infections potentially may
+trigger osteoclastic activity additional pathogenetic factors are needed to
+explain the organ-specific nature and spatial properties of otosclerosis.
+
+DOI: 10.1097/MAO.0000000000000218 
+PMID: 24335937  [Indexed for MEDLINE]

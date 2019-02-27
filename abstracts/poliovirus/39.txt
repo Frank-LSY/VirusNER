@@ -1,0 +1,44 @@
+
+
+39. Risk Anal. 2013 Apr;33(4):703-49. doi: 10.1111/risa.12044. Epub 2013 Mar 22.
+
+Characterizing poliovirus transmission and evolution: insights from modeling
+experiences with wild and vaccine-related polioviruses.
+
+Duintjer Tebbens RJ(1), Pallansch MA, Kalkowska DA, Wassilak SG, Cochi SL,
+Thompson KM.
+
+Author information: 
+(1)Kid Risk, Inc., 10524 Moss Park Rd., Ste. 204-364, Orlando, FL 32832, USA.
+rdt@kidrisk.org
+
+With national and global health policymakers facing numerous complex decisions
+related to achieving and maintaining polio eradication, we expanded our
+previously developed dynamic poliovirus transmission model using information from
+an expert literature review process and including additional immunity states and 
+the evolution of oral poliovirus vaccine (OPV). The model explicitly considers
+serotype differences and distinguishes fecal-oral and oropharyngeal transmission.
+We evaluated the model by simulating diverse historical experiences with
+polioviruses, including one country that eliminated wild poliovirus using both
+OPV and inactivated poliovirus vaccine (IPV) (USA), three importation outbreaks
+of wild poliovirus (Albania, the Netherlands, Tajikistan), one situation in which
+no circulating vaccine-derived polioviruses (cVDPVs) emerge despite annual OPV
+use and cessation (Cuba), three cVDPV outbreaks (Haiti, Madura Island in
+Indonesia, northern Nigeria), one area of current endemic circulation of all
+three serotypes (northern Nigeria), and one area with recent endemic circulation 
+and subsequent elimination of multiple serotypes (northern India). We find that
+when sufficient information about the conditions exists, the model can reproduce 
+the general behavior of poliovirus transmission and outbreaks while maintaining
+consistency in the generic model inputs. The assumption of spatially homogeneous 
+mixing remains a significant limitation that affects the performance of the
+differential equation-based model when significant heterogeneities in immunity
+and mixing may exist. Further studies on OPV virus evolution and improved
+understanding of the mechanisms of mixing and transmission may help to better
+characterize poliovirus transmission in populations. Broad application of the
+model promises to offer insights in the context of global and national policy and
+economic models.
+
+© 2013 Society for Risk Analysis.
+
+DOI: 10.1111/risa.12044 
+PMID: 23521018  [Indexed for MEDLINE]

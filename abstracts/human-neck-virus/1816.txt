@@ -1,0 +1,51 @@
+
+
+1816. APMIS. 2015 Apr;123(4):305-14. doi: 10.1111/apm.12356.
+
+Peripheral blood monocyte and T-lymphocyte activation levels at diagnosis predict
+long-term survival in head and neck squamous cell carcinoma patients.
+
+Aarstad HJ(1), Vintermyr OK, Ulvestad E, Aarstad HH, Kross KW, Heimdal JH.
+
+Author information: 
+(1)Department of Clinical Medicine, Faculty of Medicine and Dentistry, University
+of Bergen, Bergen, Norway; Department of Otolaryngology/Head and Neck Surgery,
+Haukeland University Hospital, Bergen, Norway.
+
+This study was performed to determine whether peripheral blood (PB) monocyte
+and/or lymphocyte activation at diagnosis were associated with long-term
+prognosis in patients with head and neck squamous cell carcinoma (HNSCC), and to 
+what extent such prognostic properties relate to human papilloma virus
+(HPV)-associated tumor infection of the included patients. This was a long-term
+prospective study describing patient survival in relation to PB T lymphocyte and 
+monocyte activation in patients observed for up to 14 years following diagnosis. 
+Sixty-four patients from a consecutive cohort of newly diagnosed HNSCC patients
+along with 16 non-cancer control patients were included over a period of almost 2
+years. Monocyte responsiveness was assessed at diagnosis (N = 56 HNSCC/16
+non-cancer controls) by measuring net levels of spontaneous vs
+lipopolysaccharide-induced monocyte chemotactic protein (MCP)-1 secretion in
+vitro. PB T lymphocyte activation was determined (N = 58 HNSCC/16 controls) by
+measuring the percentage of T cells expressing CD69 by flow cytometry. Whether
+HPV infection or not was determined by PCR analysis on formalin fixed
+paraffin-embedded tumor tissue. Tumor HPV-positive patients had better prognosis 
+than HPV-negative patients. A low net MCP-1 response in monocytes predicted
+increased survival (Relative risk (RR) = 2.1; Confidence interval (CI): 1.1-4.0; 
+p < 0.05). A low percentage of CD69 positive T lymphocytes also predicted better 
+prognosis (RR = 2.6; CI: 1.3-5.0; p = 0.005). The predictive power of MCP-1
+monocyte and CD69 T lymphocyte measures were retained when adjusted for age and
+gender of the patients and shown to be independent of each other (N = 50 HNSCC/16
+controls). The results were similar in HPV tumor-positive and -negative patients.
+Patients with high monocyte- and/or T lymphocyte activation status had low
+survival with 8% 5 year overall survival (OS) compared to 65% 5 year OS for
+patients with dual low activation levels (RR = 0.27; CI: 0.14-0.56; p < 0.001),
+mostly secondary to disease-specific survival. Both tumor HPV-positive and
+-negative HNSCC patients with high percentage of CD69 positive T lymphocytes
+and/or high monocyte MCP-1 secretion had low long-term survival. The data suggest
+that the general inflammatory and adaptive immune systems are independently
+linked to the clinical aggressiveness of both tumor HPV-negative and -positive
+HNSCC patients.
+
+© 2015 APMIS. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/apm.12356 
+PMID: 25801083  [Indexed for MEDLINE]

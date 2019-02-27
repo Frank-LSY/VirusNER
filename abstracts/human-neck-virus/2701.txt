@@ -1,0 +1,62 @@
+
+
+2701. BMC Cancer. 2016 Jul 4;16:382. doi: 10.1186/s12885-016-2430-y.
+
+Comparison of the miRNA profiles in HPV-positive and HPV-negative tonsillar
+tumors and a model system of human keratinocyte clones.
+
+Vojtechova Z(1)(2), Sabol I(2), Salakova M(1)(2), Smahelova J(1)(2), Zavadil
+J(3), Turek L(4), Grega M(5), Klozar J(6), Prochazka B(2), Tachezy R(7)(8).
+
+Author information: 
+(1)Department of Genetics and Microbiology, Faculty of Science, Charles
+University in Prague, Prague, Czech Republic.
+(2)Department of Immunology, Institute of Hematology and Blood Transfusion, U
+Nemocnice 2094/1, Prague 2, CZ-12820, Czech Republic.
+(3)Molecular Mechanisms and Biomarkers Group, International Agency for Research
+on Cancer, Lyon, France.
+(4)Veterans Affairs Healthcare System and Department of Pathology, University of 
+Iowa, Iowa City, IA, USA.
+(5)Department of Pathology and Molecular Medicine, 2nd Faculty of Medicine,
+Charles University in Prague, Prague, Czech Republic.
+(6)Department of Otorhinolaryngology and Head and Neck Surgery, 1st Faculty of
+Medicine, Charles University in Prague, Motol University Hospital, Prague, Czech 
+Republic.
+(7)Department of Genetics and Microbiology, Faculty of Science, Charles
+University in Prague, Prague, Czech Republic. rutach@uhkt.cz.
+(8)Department of Immunology, Institute of Hematology and Blood Transfusion, U
+Nemocnice 2094/1, Prague 2, CZ-12820, Czech Republic. rutach@uhkt.cz.
+
+BACKGROUND: Better insights into the molecular changes involved in
+virus-associated and -independent head and neck cancer may advance our knowledge 
+of HNC carcinogenesis and identify critical disease biomarkers. Here we aimed to 
+characterize the expression profiles in a matched set of well-characterized
+HPV-dependent and HPV-independent tonsillar tumors and equivalent immortalized
+keratinocyte clones to define potential and clinically relevant biomarkers of HNC
+of different etiology.
+METHODS: Fresh frozen tonsillar cancer tissues were analyzed together with
+non-malignant tonsillar tissues and compared with cervical tumors and normal
+cervical tissues. Furthermore, relative miRNAs abundance levels of primary and
+immortalized human keratinocyte clones were evaluated. The global quantitation of
+miRNA gene abundance was performed using a TaqMan Low Density Array system. The
+confirmation of differentially expressed miRNAs was performed on a set of
+formalin-fixed paraffin-embedded tumor samples enriched for the tumor cell
+fraction by macrodissection.
+RESULTS: We defined 46 upregulated and 31 downregulated miRNAs characteristic for
+the HPV-positive tonsillar tumors and 42 upregulated miRNAs and 42 downregulated 
+miRNAs characteristic for HPV-independent tumors. In comparison with the
+expression profiles in cervical tumors, we defined miR-141-3p, miR-15b-5p,
+miR-200a-3p, miR-302c-3p, and miR-9-5p as specific for HPV induced malignancies. 
+MiR-335-5p, miR-579-3p, and miR-126-5p were shared by the expression profiles of 
+HPV-positive tonsillar tumors and of the HPV immortalized keratinocyte clones,
+whereas miR-328-3p, miR-34c-3p, and miR-885-5p were shared by the miRNA profiles 
+of HPV-negative tonsillar tumors and the HPV-negative keratinocytes.
+CONCLUSIONS: We identified the miRNAs characteristic for HPV-induced tumors and
+tonsillar tumors of different etiology, and the results were compared with those 
+of the model system. Our report presents the basis for further investigations
+leading to the identification of clinically relevant diagnostic and/or
+therapeutic biomarkers for tumors of viral and non-viral etiology.
+
+DOI: 10.1186/s12885-016-2430-y 
+PMCID: PMC4932682
+PMID: 27377959  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+301. Anticancer Agents Med Chem. 2013 Jul 1;13(6):834-43.
+
+Integrated therapeutic approaches in head and neck cancer: the importance of
+multidisciplinary team management.
+
+Perri F(1), Muto P, Aversa C, Daponte A, Della Vittoria G, Pepe S, Caponigro F.
+
+Author information: 
+(1)National Tumor Institute of Naples- Head and Neck Medical Oncology Unit, Via
+Mariano Semmola, Naples.
+
+Multidisciplinary team (MDT) is of paramount importance in the approach to
+patients with head and neck cancer. Its aim is to provide the best diagnostic
+work-up, tumor staging, and treatment. Furthermore, the prognosis of patients who
+are managed by MDT is usually better. MDT has a great value in all presentation
+settings. The role of the pathologist in the team is of utmost importance, in
+particular with regards to information provided on Human Papilloma Virus (HPV)
+status, which has a well acknowledged independent prognostic value mainly in
+oropharyngeal carcinoma. In early stage disease, namely in T1-2 N0 M0 patients,
+the meetings within the MDT mainly involve surgeons and radiation therapists.
+Surgery represents the mainstay of treatment, while radiation therapy is a
+suitable alternative, in particular in patients with advanced age, poor
+performance status and comorbidities. In locally advanced disease, surgeons,
+medical oncologists and radiotherapists are the key people, since different
+approaches have been carried out. In operable patients, adjuvant chemoradiation
+is indicated when resection margins are involved or close, or in presence of
+extracapsular nodal spread. Concurrent chemoradiotherapy, preceded or not by
+induction chemotherapy, is the favourite approach in this setting when surgery is
+strictly not indicated. In recurrent/metastatic disease chemotherapy and best
+supportive care are the main options, although local treatments, such as
+reirradiation and salvage surgery, are also worth considering. The standard
+chemotherapy treatment has finally evolved after about 30 years, and strong
+efforts are being pursued to further improve the outcome, mainly with the
+addition of new drugs.
+
+
+PMID: 23194421  [Indexed for MEDLINE]

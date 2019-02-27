@@ -1,0 +1,35 @@
+
+
+312. MMWR Morb Mortal Wkly Rep. 2016 Mar 11;65(9):248-9. doi: 10.15585/mmwr.mm6509a4.
+
+Notes from the Field: Lymphocytic Choriomeningitis Virus Meningoencephalitis from
+a Household Rodent Infestation - Minnesota, 2015.
+
+Talley P, Holzbauer S, Smith K, Pomputius W.
+
+Erratum in
+    MMWR Morb Mortal Wkly Rep. 2016;65(11):295.
+
+On April 20, 2015, a female aged 15 years sought care at her pediatrician's
+office after 5 days of fever, myalgia, left parietal headache, and photophobia. A
+rapid influenza assay was negative, and erythrocyte sedimentation rate and total 
+white blood cell count were normal. She improved with symptomatic care at home,
+but returned to her pediatrician's office on April 28, reporting recurrence of
+her headache and photophobia and new onset of a stiff neck. She was admitted to
+the hospital, where she was febrile to 102.9°F (39.4°C) and had meningismus.
+Computed tomography scan of her head was normal, and a cerebrospinal fluid (CSF) 
+analysis showed a markedly elevated white blood cell count with 68% lymphocytes, 
+low glucose, and a negative Gram stain. She was treated empirically for both
+bacterial and herpes simplex virus meningitis. The patient's hospital course was 
+notable for hypotension (blood pressure 81/50), irritability, and pancreatitis
+with a peak lipase of 8,627 U/L. CSF cultures yielded no growth, and CSF
+polymerase chain reaction (PCR) testing for herpes simplex virus was negative.
+Nucleic acid amplification testing, acid-fast bacilli stain, and acid-fast
+bacilli cultures of CSF were negative for Mycobacterium tuberculosis. Results of 
+investigations for human immunodeficiency virus, syphilis, Lyme disease, human
+herpesvirus 6 and 7, and species of Babesia, Toxoplasma, Histoplasma,
+Cryptococcus, Blastomyces, and Brucella were negative. She recovered and was
+discharged on hospital day 11 with no apparent sequelae.
+
+DOI: 10.15585/mmwr.mm6509a4 
+PMID: 26963688  [Indexed for MEDLINE]

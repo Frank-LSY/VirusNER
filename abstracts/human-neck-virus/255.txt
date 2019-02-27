@@ -1,0 +1,45 @@
+
+
+255. ACS Appl Mater Interfaces. 2018 Apr 18;10(15):12534-12543. doi:
+10.1021/acsami.8b02735. Epub 2018 Apr 9.
+
+Magnetic Nanozyme-Linked Immunosorbent Assay for Ultrasensitive Influenza A Virus
+Detection.
+
+Oh S(1), Kim J(1), Tran VT(1), Lee DK(1), Ahmed SR(2), Hong JC(3), Lee J(4), Park
+EY(4), Lee J(1).
+
+Author information: 
+(1)Department of Cogno-Mechatronics Engineering , Pusan National University ,
+Busan 46241 , Republic of Korea.
+(2)BioNano Laboratory, School of Engineering , University of Guelph , Gulph ,
+Ontario N1G 2W1 , Canada.
+(3)Department of Otolaryngology, Head and Neck Surgery, College of Medicine ,
+Dong-A University , Busan 49201 , Republic of Korea.
+(4)Research Institute of Green Science and Technology , Shizuoka University , 836
+Ohya , Suruga-ku, Shizuoka 422-8529 , Japan.
+
+Rapid and sensitive detection of influenza virus is of soaring importance to
+prevent further spread of infections and adequate clinical treatment. Herein, an 
+ultrasensitive colorimetric assay called magnetic nano(e)zyme-linked
+immunosorbent assay (MagLISA) is suggested, in which silica-shelled magnetic
+nanobeads (MagNBs) and gold nanoparticles are combined to monitor influenza A
+virus up to femtogram per milliliter concentration. Two essential strategies for 
+ultrasensitive sensing are designed, i.e., facile target separation by MagNBs and
+signal amplification by the enzymelike activity of gold nanozymes (AuNZs). The
+enzymelike activity was experimentally and computationally evaluated, where the
+catalyticity of AuNZ was tremendously stronger than that of normal biological
+enzymes. In the spiked test, a straightforward linearity was presented in the
+range of 5.0 × 10-15-5.0 × 10-6g·mL-1 in detecting the influenza virus A (New
+Caledonia/20/1999) (H1N1). The detection limit is up to 5.0 × 10-12 g·mL-1 only
+by human eyes, as well as up to 44.2 × 10-15 g·mL-1 by a microplate reader, which
+is the lowest record to monitor influenza virus using enzyme-linked immunosorbent
+assay-based technology as far as we know. Clinically isolated human serum samples
+were successfully observed at the detection limit of 2.6 PFU·mL-1. This novel
+MagLISA demonstrates, therefore, a robust sensing platform possessing the
+advances of fathomable sample separation, enrichment, ultrasensitive readout, and
+anti-interference ability may reduce the spread of influenza virus and provide
+immediate clinical treatment.
+
+DOI: 10.1021/acsami.8b02735 
+PMID: 29595253  [Indexed for MEDLINE]

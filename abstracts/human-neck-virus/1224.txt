@@ -1,0 +1,52 @@
+
+
+1224. J Oral Pathol Med. 2016 Jul;45(6):399-408. doi: 10.1111/jop.12378. Epub 2015 Oct 
+22.
+
+A novel prediction model for human papillomavirus-associated oropharyngeal
+squamous cell carcinoma using p16 and subcellular β-catenin expression.
+
+Qian G(1), Hu Z(1)(2), Xu H(3), Müller S(4), Wang D(1), Zhang H(1), Kim S(5),
+Chen Z(5), Saba NF(1), Shin DM(1), Wang AY(3), Chen ZG(1).
+
+Author information: 
+(1)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University School of Medicine, Atlanta, GA, USA.
+(2)Department of Pathology, Xiangya Hospital, Xiangya Medical School, Central
+South University, Changsha, Hunan, China.
+(3)Ocean NanoTech, San Diego, CA, USA.
+(4)Department of Otolaryngology, Emory University School of Medicine, Atlanta,
+GA, USA.
+(5)Department of Biostatistics and Bioinformatics, Emory University, Atlanta, GA,
+USA.
+
+BACKGROUND: p16 overexpression is a highly sensitive yet moderately specific
+biomarker for predicting human papillomavirus (HPV)-associated oropharyngeal
+squamous cell carcinoma (OPSCC). Nuclear β-catenin translocation has been linked 
+to HPV-positive OPSCC. However, whether the strategy of combining β-catenin with 
+p16 can better predict HPV-associated OPSCC remains unknown.
+METHODS: We evaluated the expression of p16 and β-catenin (nuclear and membrane) 
+by immunohistochemistry staining in 101 OPSCC tissues and HPV status by HPV DNA
+in situ hybridization. Logistic regression models were used to evaluate single or
+multiple biomarkers for HPV prediction. The prediction power, sensitivity, and
+specificity were determined by receiver operating characteristic (ROC) analyses.
+RESULTS: Our data showed that upon univariate analysis, p16 and nuclear β-catenin
+were positively correlated with HPV status, while membrane β-catenin was
+inversely correlated with HPV status (P < 0.01). p16 showed the highest HPV
+predictive power, with area under the curve (AUC) of 0.9074 compared to 0.6762
+for nuclear β-catenin and 0.7635 for membrane β-catenin, respectively, indicating
+differential accuracies for HPV prediction. Multivariable analysis showed that
+p16 was significantly correlated with HPV, while nuclear and membrane β-catenin
+showed marginal significance. The three-biomarker model was similarly sensitive
+(98.9% vs. 100%) but more specific (88.9% vs. 81%) than p16 alone, which also
+showed a good predictive value for overall (P = 0.0002) survival and disease-free
+(P = 0.0158) survival.
+CONCLUSION: Our study suggests a novel model of combining p16 and subcellular
+β-catenin for prediction of HPV-associatred OPSCC, and this finding deserves
+further validation.
+
+© 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12378 
+PMCID: PMC4841757
+PMID: 26493274  [Indexed for MEDLINE]

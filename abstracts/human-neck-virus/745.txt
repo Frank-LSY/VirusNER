@@ -1,0 +1,36 @@
+
+
+745. Cancer Res. 2012 Mar 1;72(5):1280-9. doi: 10.1158/0008-5472.CAN-11-2833. Epub
+2012 Jan 11.
+
+Pocket proteins suppress head and neck cancer.
+
+Shin MK(1), Pitot HC, Lambert PF.
+
+Author information: 
+(1)McArdle Laboratory for Cancer Research, University of Wisconsin School of
+Medicine and Public Health, Madison, Wisconsin 53706, USA.
+
+Head and neck squamous cell carcinomas (HNSCC) is a common cancer in humans long 
+known to be caused by tobacco and alcohol use, but now an increasing percentage
+of HNSCC is recognized to be caused by the same human papillomaviruses (HPV) that
+cause cervical and other anogenital cancers. HPV-positive HNSCCs differ
+remarkably from HPV-negative HNSCCs in their clinical response and molecular
+properties. From studies in mice, we know that E7 is the dominant HPV oncoprotein
+in head and neck cancer. E7 is best known for its ability to inactivate pRb, the 
+product of the retinoblastoma tumor susceptibility gene. However, loss of pRb
+function does not fully account for potency of E7 in causing head and neck
+cancer. In this study, we characterized the cancer susceptibility of mice
+deficient in the expression of pRb and either of two related "pocket" proteins,
+p107 and p130, that are also inactivated by E7. pRb/p107-deficient mice developed
+head and neck cancer as frequently as do HPV-16 E7 transgenic mice. The head and 
+neck epithelia of the pRb/p107-deficient mice also displayed the same acute
+phenotypes and biomarker readouts as observed in the epithelia of E7 transgenic
+mice. Mice deficient for pRb and p130 in their head and neck epithelia showed
+intermediate acute and tumor phenotypes. We conclude that pRb and p107 act
+together to efficiently suppress head and neck cancer and are, therefore, highly 
+relevant targets of HPV-16 E7 in its contribution to HPV-positive HNSCC.
+
+DOI: 10.1158/0008-5472.CAN-11-2833 
+PMCID: PMC3293996
+PMID: 22237625  [Indexed for MEDLINE]

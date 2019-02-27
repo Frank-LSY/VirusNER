@@ -1,0 +1,43 @@
+
+
+2928. Hear Res. 2012 Jul;289(1-2):86-97. doi: 10.1016/j.heares.2012.04.007. Epub 2012
+Apr 28.
+
+Stable release of BDNF from the fibroblast cell line NIH3T3 grown on silicone
+elastomers enhances survival of spiral ganglion cells in vitro and in vivo.
+
+Warnecke A(1), Sasse S, Wenzel GI, Hoffmann A, Gross G, Paasche G, Scheper V,
+Reich U, Esser KH, Lenarz T, Stöver T, Wissel K.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Hannover Medical
+School, Carl-Neuberg-Str 1, 30625 Hannover, Germany.
+warnecke.athanasia@mh-hannover.de
+
+The treatment of choice for profound sensorineural hearing loss (SNHL) is direct 
+electrical stimulation of spiral ganglion cells (SGC) via a cochlear implant
+(CI). The number and excitability of SGC seem to be critical for the success that
+can be achieved via CI treatment. However, SNHL is associated with degeneration
+of SGC. Long-term drug delivery to the inner ear for improving SGC survival may
+be achieved by functionalisation of CI electrodes with cells providing growth
+factors. Therefore, the capacity of brain-derived neurotrophic factor
+(BDNF)-secreting NIH3T3 cells grown on cylindrically shaped silicone elastomers
+(SE) to exert local and sustained neuroprotective effects was assessed in vitro
+and in vivo. An in vitro model to investigate adhesion and cell growth of
+lentivirally modified NIH3T3 cells synthesising BDNF on SE was established. The
+bioactivity of BDNF was characterised by co-cultivation of SGC with cell-coated
+SE. In addition, cell-coated SE were implanted into deafened guinea pigs. The
+recombinant NIH3T3 cells proliferated on silicone surfaces during 14 days of
+cultivation and expressed significantly increasing BDNF levels. Enhanced survival
+rates and neurite outgrowth of SGC demonstrated the bioactivity of BDNF in vitro.
+Implantation of SE with adhering BDNF-secreting NIH3T3 cells into the cochleae of
+systemically deafened guinea pigs induced a significant increase in SGC survival 
+in comparison to SE without cell coating. Our data demonstrate a novel approach
+of cell-based long-term drug delivery to support SGC survival in vitro and in
+vivo. This therapeutic strategy--once transferred to cells suitable for clinical 
+application--may improve CI performance.
+
+Copyright © 2012 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.heares.2012.04.007 
+PMID: 22564255  [Indexed for MEDLINE]

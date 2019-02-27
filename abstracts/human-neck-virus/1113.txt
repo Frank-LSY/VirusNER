@@ -1,0 +1,34 @@
+
+
+1113. Viruses. 2013 Apr 22;5(4):1131-42. doi: 10.3390/v5041131.
+
+Generation and characterization of a novel recombinant antibody against LMP1-TES1
+of Epstein-Barr virus isolated by phage display.
+
+Zhang D(1), Mao Y, Cao Q, Xiong L, Wen J, Chen R, Zhu J.
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, The Second Affiliated
+Hospital of Nanjing Medical University, 121 Jiangjiayuan, Nanjing 210011, China. 
+chinarenzdw@yahoo.com.cn
+
+Latent Membrane Protein 1 (LMP1) is a primary target for controlling
+tumorigenesis in Epstein-Barr virus related malignancies; in this study, we aimed
+to develop a specific antibody against the TES1 domain of the oncogenic LMP1. We 
+screened a full human naïve Fab phage library against TES1 peptide, which
+consisted of C terminal-activating regions proximal 44 amino acids. After three
+rounds of panning, enrichment and testing by phage ELISA and further analyzed by 
+DNA sequencing, we selected a phage clone with the highest affinity to LMP1-TES1 
+and designated it as htesFab. The positive clone was expressed in Escherichia
+coli and the purified htesFab was characterized for its binding specificity and
+affinity to LMP1. ELISA, immunofluorescence and FACS analysis confirmed that
+htesFab could recognize LMP1 TES1 both in vitro and in LMP1 expressing HNE2-LMP1 
+cells. Furthermore, MTT assay showed that htesFab inhibited the proliferation of 
+HNE2-LMP1 cells in a dose-dependent manner. In summary, this study reported the
+isolation and characterization of human Fab, which specifically targets the C
+terminal region/TES1 of LMP1, and has potential to be developed as novel tool for
+the diagnosis and therapy of Epstein-Barr virus related carcinoma.
+
+DOI: 10.3390/v5041131 
+PMCID: PMC3705269
+PMID: 23609879  [Indexed for MEDLINE]

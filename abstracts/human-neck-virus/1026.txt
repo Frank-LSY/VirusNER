@@ -1,0 +1,43 @@
+
+
+1026. Oncotarget. 2017 Jun 27;8(26):42061-42075. doi: 10.18632/oncotarget.14939.
+
+LncRNAs as an intermediate in HPV16 promoting myeloid-derived suppressor cell
+recruitment of head and neck squamous cell carcinoma.
+
+Ma X(1)(2), Sheng S(1), Wu J(1), Jiang Y(1)(3), Gao X(1), Cen X(1), Wu J(1), Wang
+S(1), Tang Y(4), Tang Y(1)(5), Liang X(1)(6).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, West China Hospital of Stomatology
+(Sichuan University), Chengdu, Sichuan 610041, China.
+(2)Department of Oral and Maxillofacial Surgery, Affiliated Hospital of Binzhou
+Medical College, Binzhou, Shandong 256600, China.
+(3)Department of Implant, The Affiliated Hospital of Qingdao University, Qingdao,
+Shandong 266000, China.
+(4)Key Laboratory of Fermentation Engineering (Ministry of Education), Hubei
+University of Technology, Wuhan, Hubei 430068, China.
+(5)Department of Oral Pathology, West China Hospital of Stomatology (Sichuan
+University), Chengdu, Sichuan 610041, China.
+(6)Department of Oral and Maxillofacial Surgery, West China Hospital of
+Stomatology (Sichuan University), Chengdu, Sichuan 610041, China.
+
+The emerging evidence showed that long noncoding RNAs (lncRNAs) are involved in
+cell growth and apoptosis as well as cancer progression and metastasis of
+malignant tumor, however, limited data are available on the role of lncRNAs in
+human papillomavirus (HPV)-associated Head and neck squamous cell carcinomas
+(HNSCC). Here, we demonstrated that 23.98% of 196 HNSCC cases in Southwest China 
+could be classified as HPV16 infection. The number of MDSCs in HPV-positive HNSCC
+was significantly higher than normal control, indicating that HPV infection may
+promote MDSCs aggregation. Then, we applied an array-based approach to monitor
+the lncRNA expression between HPV-positive HNSCC, HPV-negative HNSCC and normal
+oral mucous, and obtained 132 different lncRNAs in different HPV infected states 
+of HNSCC. HOTAIR, PROM1, CCAT1, and MUC19 mRNA levels, determined by qRT-PCR were
+inversely correlated with MDSCs collection of HPV-associated HNSCC in 2
+independent patient cohorts. The results may provide a rationale for the further 
+evaluation of lncRNAs as a molecular target to elucidate the molecular mechanism 
+of HPV promoting MDSCs collection of HNSCC.
+
+DOI: 10.18632/oncotarget.14939 
+PMCID: PMC5522049
+PMID: 28159935  [Indexed for MEDLINE]

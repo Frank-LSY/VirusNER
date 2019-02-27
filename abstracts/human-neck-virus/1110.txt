@@ -1,0 +1,38 @@
+
+
+1110. Oral Oncol. 2010 Jul;46(7):492-6. doi: 10.1016/j.oraloncology.2010.02.013. Epub
+2010 Mar 12.
+
+Refining the diagnosis of oropharyngeal squamous cell carcinoma using human
+papillomavirus testing.
+
+Robinson M(1), Sloan P, Shaw R.
+
+Author information: 
+(1)School of Dental Sciences, Newcastle University, UK. max.robinson@ncl.ac.uk
+<max.robinson@ncl.ac.uk>
+
+There is accumulating evidence that oropharyngeal squamous cell carcinomas (SCCs)
+that harbour oncogenic human papillomavirus (HPV) are biologically distinct and
+have a better prognosis. This information is a persuasive argument for the
+identification of these cancers in clinical practice. The concept of 'HPV
+related' SCC should be underpinned by knowledge that the malignant cells harbour 
+a high risk HPV genotype and there is evidence of oncogenic viral protein
+expression with effects on cell signalling pathways. For satisfactory
+classification in clinical practice HPV tests should reliably work on fixed cells
+and tissue. There is evidence that detection of high risk HPV by consensus
+polymerase chain reaction (PCR) alone is insufficient to accurately classify
+tumours. However, there is convincing evidence that the detection of p16 protein 
+by immunohistochemistry can be used as a surrogate marker for the elaboration of 
+oncogenic HPV proteins. Recently, there have been calls for standardisation of
+HPV testing in head and neck cancers and two diagnostic algorithms have emerged: 
+the first advocates screening for p16 by immunohistochemistry followed by
+detection of HPV DNA by in situ hybridisation: the second recommends detection of
+p16 followed by consensus PCR. The majority of pathology laboratories have the
+capability of delivering the first algorithm. Furthermore, the techniques
+employed are automated and are subject to stringent quality assurance measures;
+features that can deliver routine, accurate and cost effective HPV testing for
+oropharyngeal cancers.
+
+DOI: 10.1016/j.oraloncology.2010.02.013 
+PMID: 20227331  [Indexed for MEDLINE]

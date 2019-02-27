@@ -1,0 +1,32 @@
+
+
+2957. Anticancer Res. 2012 Mar;32(3):1057-62.
+
+Coxsackie adenovirus receptor expression in carcinomas of the head and neck.
+
+Wunder T(1), Schumacher U, Friedrich RE.
+
+Author information: 
+(1)Department of Anatomy and Experimental Morphology, University Cancer Center
+Hamburg, University Hospital Hamburg-Eppendorf, Martinistraße 52, D-20246
+Hamburg, Germany. t.wunder@uke.de
+
+BACKGROUND: Advanced stage head and neck squamous cell carcinomas (HNSCC) have a 
+poor prognosis, this being particularly true for undifferentiated carcinomas.
+Adenoviral oncolytic therapy, whose success depends on the expression of the
+coxsackie adenovirus receptor (CAR) on tumour cells, might be an interesting
+therapeutic option. Thus CAR expression in HNSCC was evaluated in the current
+study.
+PATIENTS AND METHODS: CAR expression in 41 cases of HNSCC was investigated
+immunohistochemically.
+RESULTS: CAR expression was very heterogeneous and was more abundant in well
+differentiated carcinomas than in less differentiated ones. Expression decreased 
+from 72.4% in G1 tumours to 56% in G4 tumours.
+CONCLUSION: As CAR expression decreases during malignant progression in HNSCC,
+its down-regulation in advanced grades of HNSCC is potential indicator of tumour 
+progression. With regard to oncolytic therapy, CAR expression analysis should be 
+performed prior to adenoviral oncolytic treatment to stratify patients for
+treatment.
+
+
+PMID: 22399632  [Indexed for MEDLINE]

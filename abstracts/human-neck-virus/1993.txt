@@ -1,0 +1,56 @@
+
+
+1993. Mol Carcinog. 2018 Mar;57(3):361-369. doi: 10.1002/mc.22760. Epub 2017 Nov 13.
+
+Mouse double minute 4 variants modify susceptibility to risk of recurrence in
+patients with squamous cell carcinoma of the oropharynx.
+
+Lu Z(1)(2), Sturgis EM(2)(3), Zhu L(2)(4), Zhang H(2)(5), Tao Y(2)(6), Wei P(7), 
+Wei Q(8), Li G(2)(3).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Guangdong General Hospital
+and Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China.
+(2)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas.
+(3)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas.
+(4)Department of Oral and Maxillofacial Surgery, Guangdong General Hospital and
+Guangdong Academy of Medical Sciences, Guangzhou, Guangdong, China.
+(5)Department of Otolaryngology-Head and Neck Surgery, the Affiliated Yantai
+Yuhuangding Hospital of Qingdao University, Yantai, Shandong, China.
+(6)Department of Otolaryngology and Head and Neck Surgery, the 2nd Affiliated
+Hospital of Anhui Medical University, Hefei, Anhui, China.
+(7)Department of Biostatistics, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(8)Duke Cancer Institute, Duke University Medical Center, Durham, North Carolina.
+
+Given the crucial role of Mouse double minute 4 (MDM4) oncoprotein in p53
+pathway, single nucleotide polymorphisms (SNPs) could serve as such biomarkers
+for prediction of SCCOP recurrence. Thus, we investigated associations between
+three tagging putatively functional variants of MDM4, two in the 3' untranslated 
+region of 3' UTR [rs11801299 (NC_000001.10:g.204529084G>A) and
+rs10900598(NC_000001.10:g.204525568G>T)] and one in intron 1
+[rs1380576(NC_000001.10:g.204488278G>C)], and recurrence risk of SCCOP in 1,008
+incident patients. A log-rank test and multivariable Cox models were used to
+assess associations. Patients with MDM4-rs10900598 GT/TT had a worse disease-free
+survival (DFS) compared with corresponding GG genotype, while those with
+rs11801299 AG/AA genotypes had a lower recurrence risk than the cases with
+rs11801299 GG genotype (both log-rank, P < 0.001). Multivariable analysis showed 
+that significantly different recurrence risk were found among patients with
+MDM4-rs10900598 GT/TT and rs11801299 AG/AA variant genotypes (HR, 2.0, 95% CI,
+1.4-2.9 and HR, 0.4, 95% CI, 0.3-0.6, respectively) compared with their
+corresponding common homozygous genotypes. Furthermore, after combining the risk 
+genotypes of the three SNPs, patients among low-risk group had a significantly
+lower risk of SCCOP recurrence than those in high-risk group (HR, 0.2, 95% CI,
+0.1-0.3). The risk for both individual SNPs or combined risk genotypes was
+restricted to HPV-positive SCCOP patients. Our findings suggest that the MDM4
+polymorphisms may, individually or in combination, confer an independent risk of 
+SCCOP recurrence, particularly in HPV-positive SCCOP patients. However, larger
+studies are needed to validate our findings.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/mc.22760 
+PMCID: PMC5796850 [Available on 2019-03-01]
+PMID: 29073727  [Indexed for MEDLINE]

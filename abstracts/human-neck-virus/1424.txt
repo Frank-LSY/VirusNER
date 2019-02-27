@@ -1,0 +1,54 @@
+
+
+1424. Laryngoscope. 2016 Dec;126(12):2733-2738. doi: 10.1002/lary.26083. Epub 2016 Jun 
+27.
+
+Smoking cessation is associated with improved survival in oropharynx cancer
+treated by chemoradiation.
+
+Platek AJ(1), Jayaprakash V(2), Merzianu M(3), Platek ME(2), Cohan DM(2), Hicks
+WL Jr(2), Marimuthu SP(2), Winslow TB(1), Gupta V(2), Arshad H(2), Kuriakose
+MA(2), Dibaj S(4), Marshall JR(5), Reid ME(6), Warren GW(7), Singh AK(1).
+
+Author information: 
+(1)Department of Radiation Medicine, Roswell Park Cancer Institute, Buffalo, New 
+York, U.S.A.
+(2)Head and Neck/Plastic and Reconstructive Surgery, Roswell Park Cancer
+Institute, Buffalo, New York, U.S.A.
+(3)Pathology, Roswell Park Cancer Institute, Buffalo, New York, U.S.A.
+(4)Biostatistics, Roswell Park Cancer Institute, Buffalo, New York, U.S.A.
+(5)Cancer Prevention and Population Sciences, Roswell Park Cancer Institute,
+Buffalo, New York, U.S.A.
+(6)Medicine, Roswell Park Cancer Institute, Buffalo, New York, U.S.A.
+(7)Department of Radiation Oncology, Medical University of South Carolina,
+Charleston, South Carolina, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: The effect of smoking and human papillomavirus (HPV) on
+overall survival (OS) of oropharyngeal squamous cell carcinoma (OPSCC) patients
+undergoing concurrent chemotherapy (CCRT) remains unclear.
+STUDY DESIGN: Retrospective review.
+METHODS: Clinical characteristics of OPSCC patients treated between 2008 and 2015
+with CCRT were abstracted from medical records. OS curves and multivariate cox
+proportional hazard ratios (HRs) were examined.
+RESULTS: Of 120 evaluable patients, 71% had HPV+ tumors. Median follow-up
+duration for the entire cohort was 41.5 months (range = 6-88 months). HPV+
+current smokers experienced significantly worse 5-year OS (73% alive vs. 36%
+alive, P = .01) and there was a similar trend in HPV- current smokers (66% alive 
+vs. 31% alive, P = .28) compared to former/never smokers undergoing CCRT. In a
+multivariate cox proportional hazard model adjusted for age, gender, and overall 
+tumor stage, HPV+ current smokers experienced nearly a fourfold increase in
+overall mortality in comparison to HPV+ never/former smokers (HR = 3.68, 95% CI =
+1.35-10.0). Similarly, current smokers with HPV- tumors (HR = 6.80, 95% CI =
+1.11-41.67) had increased mortality compared to never/former smokers.
+CONCLUSIONS: Current smoking is associated with poor prognosis, independent of
+HPV status, in CCRT-treated OPSCC patients. Current smoking produced an
+approximately four- to sevenfold increase in risk of mortality for HPV+ and HPV- 
+patients, respectively. Regardless of pack years and HPV status, efforts should
+be made to achieve smoking cessation before CCRT.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 126:2733-2738, 2016.
+
+© 2016 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26083 
+PMCID: PMC5880216
+PMID: 27346612  [Indexed for MEDLINE]

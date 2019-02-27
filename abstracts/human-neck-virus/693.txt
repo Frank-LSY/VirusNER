@@ -1,0 +1,59 @@
+
+
+693. Viruses. 2015 Oct 5;7(10):5243-56. doi: 10.3390/v7102871.
+
+HPV16 E6 Controls the Gap Junction Protein Cx43 in Cervical Tumour Cells.
+
+Sun P(1), Dong L(2), MacDonald AI(3), Akbari S(4), Edward M(5), Hodgins MB(6),
+Johnstone SR(7), Graham SV(8).
+
+Author information: 
+(1)Feinberg School of Medicine, North Western University, Chicago, IL 60611, USA.
+pengsun2014@gmail.com.
+(2)MRC-University of Glasgow Centre for Virus Research, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Garscube Estate, Glasgow G61 1QH, Scotland, UK.
+2102286D@student.gla.ac.uk.
+(3)MRC-University of Glasgow Centre for Virus Research, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Garscube Estate, Glasgow G61 1QH, Scotland, UK.
+Alasdair.MacDonald@gla.ac.uk.
+(4)MRC-University of Glasgow Centre for Virus Research, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Garscube Estate, Glasgow G61 1QH, Scotland, UK.
+2107107A@student.gla.ac.uk.
+(5)Dermatology, School of Medicine, College of Medical, Veterinary and Life
+Sciences, University of Glasgow, Glasgow G12 8TT, Scotland, UK.
+Mike.Edward@gla.ac.uk.
+(6)Dermatology, School of Medicine, College of Medical, Veterinary and Life
+Sciences, University of Glasgow, Glasgow G12 8TT, Scotland, UK.
+Malcolm.Hodgins@gla.ac.uk.
+(7)Institute of Cardiovascular and Medical Sciences, College of Medical,
+Veterinary and Life Sciences, University of Glasgow, Glasgow G12 8TT, Scotland,
+UK. Scott.Johnstone@gla.ac.uk.
+(8)MRC-University of Glasgow Centre for Virus Research, Institute of Infection,
+Immunity and Inflammation, College of Medical, Veterinary and Life Sciences,
+University of Glasgow, Garscube Estate, Glasgow G61 1QH, Scotland, UK.
+Sheila.Graham@gla.ac.uk.
+
+Human papillomavirus type 16 (HPV16) causes a range of cancers including cervical
+and head and neck cancers. HPV E6 oncoprotein binds the cell polarity regulator
+hDlg (human homologue of Drosophila Discs Large). Previously we showed in vitro, 
+and now in vivo, that hDlg also binds Connexin 43 (Cx43), a major component of
+gap junctions that mediate intercellular transfer of small molecules. In
+HPV16-positive non-tumour cervical epithelial cells (W12G) Cx43 localised to the 
+plasma membrane, while in W12T tumour cells derived from these, it relocated with
+hDlg into the cytoplasm. We now provide evidence that E6 regulates this
+cytoplasmic pool of Cx43. E6 siRNA depletion in W12T cells resulted in
+restoration of Cx43 and hDlg trafficking to the cell membrane. In C33a
+HPV-negative cervical tumour cells expressing HPV16 or 18 E6, Cx43 was located
+primarily in the cytoplasm, but mutation of the 18E6 C-terminal hDlg binding
+motif resulted in redistribution of Cx43 to the membrane. The data indicate for
+the first time that increased cytoplasmic E6 levels associated with malignant
+progression alter Cx43 trafficking and recycling to the membrane and the E6/hDlg 
+interaction may be involved. This suggests a novel E6-associated mechanism for
+changes in Cx43 trafficking in cervical tumour cells.
+
+DOI: 10.3390/v7102871 
+PMCID: PMC4632379
+PMID: 26445057  [Indexed for MEDLINE]

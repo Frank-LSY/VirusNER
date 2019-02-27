@@ -1,0 +1,44 @@
+
+
+3112. Mol Ther. 2017 Mar 1;25(3):780-791. doi: 10.1016/j.ymthe.2017.01.007. Epub 2017
+Feb 21.
+
+Gene Therapy Restores Balance and Auditory Functions in a Mouse Model of Usher
+Syndrome.
+
+Isgrig K(1), Shteamer JW(1), Belyantseva IA(2), Drummond MC(2), Fitzgerald TS(3),
+Vijayakumar S(4), Jones SM(4), Griffith AJ(5), Friedman TB(2), Cunningham LL(6), 
+Chien WW(7).
+
+Author information: 
+(1)Neurotology Program, National Institute on Deafness and Other Communication
+Disorders (NIDCD), NIH, Bethesda, MD 20892, USA.
+(2)Laboratory of Molecular Genetics, NIDCD, NIH, Bethesda, MD 20892, USA.
+(3)Mouse Auditory Testing Core Facility, NIDCD, NIH, Bethesda, MD 20892, USA.
+(4)Department of Special Education and Communication Disorders, University of
+Nebraska, Lincoln, NE 68583, USA.
+(5)Molecular Biology and Genetics Section, NIDCD, NIH, Bethesda, MD 20892, USA.
+(6)Section on Sensory Cell Biology, NIDCD, NIH, Bethesda, MD 20892, USA.
+(7)Neurotology Program, National Institute on Deafness and Other Communication
+Disorders (NIDCD), NIH, Bethesda, MD 20892, USA; Department of
+Otolaryngology-Head and Neck Surgery, Johns Hopkins School of Medicine,
+Baltimore, MD 21287, USA. Electronic address: wade.chien@nih.gov.
+
+Dizziness and hearing loss are among the most common disabilities. Many forms of 
+hereditary balance and hearing disorders are caused by abnormal development of
+stereocilia, mechanosensory organelles on the apical surface of hair cells in the
+inner ear. The deaf whirler mouse, a model of human Usher syndrome (manifested by
+hearing loss, dizziness, and blindness), has a recessive mutation in the whirlin 
+gene, which renders hair cell stereocilia short and dysfunctional. In this study,
+wild-type whirlin cDNA was delivered to the inner ears of neonatal whirler mice
+using adeno-associated virus serotype 2/8 (AAV8-whirlin) by injection into the
+posterior semicircular canal. Unilateral whirlin gene therapy injection was able 
+to restore balance function as well as improve hearing in whirler mice for at
+least 4 months. Our data indicate that gene therapy is likely to become a
+treatment option for hereditary disorders of balance and hearing.
+
+Copyright © 2017. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ymthe.2017.01.007 
+PMCID: PMC5363211
+PMID: 28254438  [Indexed for MEDLINE]

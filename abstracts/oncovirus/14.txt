@@ -1,0 +1,32 @@
+
+
+14. J Virol. 2015 May;89(10):5204-12. doi: 10.1128/JVI.03684-14. Epub 2015 Mar 11.
+
+The Road Less Traveled: HIV's Use of Alternative Routes through Cellular
+Pathways.
+
+Marx A(1), Alian A(2).
+
+Author information: 
+(1)Faculty of Biology, Technion-Israel Institute of Technology, Haifa, Israel.
+(2)Faculty of Biology, Technion-Israel Institute of Technology, Haifa, Israel
+alian@tx.technion.ac.il.
+
+Pathogens such as HIV-1, with their minimalist genomes, must navigate cellular
+networks and rely on hijacking and manipulating the host machinery for successful
+replication. Limited overlap of host factors identified as vital for pathogen
+replication may be explained by considering that pathogens target, rather than
+specific cellular factors, crucial cellular pathways by targeting different,
+functionally equivalent, protein-protein interactions within that pathway. The
+ability to utilize alternative routes through cellular pathways may be essential 
+for pathogen survival when restricted and provide flexibility depending on the
+viral replication stage and the environment in the infected host. In this
+minireview, we evaluate evidence supporting this notion, discuss specific HIV-1
+examples, and consider the molecular mechanisms which allow pathogens to flexibly
+exploit different routes.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03684-14 
+PMCID: PMC4442546
+PMID: 25762730  [Indexed for MEDLINE]

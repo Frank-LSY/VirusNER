@@ -1,0 +1,31 @@
+
+
+2865. Pediatr Emerg Care. 2013 Oct;29(10):1104-6. doi: 10.1097/PEC.0b013e3182a60049.
+
+Pediatric mumps with laryngeal edema.
+
+Hattori Y(1), Oi Y, Matsuoka R, Daimon Y, Ito A, Kubota W, Konishi K, Onguchi T, 
+Sato A, Yamashita Y, Ishihara J.
+
+Author information: 
+(1)From the Departments of *Pediatrics, and †Emergency Medicine, Yokohama
+Municipal Citizen's Hospital, Yokohama, Kanagawa, Japan.
+
+Mumps virus infection primarily affects the salivary glands and may incur various
+complications. Laryngeal edema is such a rare complication that few adult cases
+have been reported. We report the first known pediatric patient with mumps with
+laryngeal edema. An 8-year-old boy developed dyspnea after a rapidly progressive 
+swelling of his face and neck. Laryngoscopy revealed edematous changes in the
+supraglottic and subglottic regions, and computed tomography confirmed
+significant laryngeal edema in addition to swelling of the cervical soft tissue
+and the salivary glands. Laboratory findings revealed a high serum amylase level 
+and confirmed the diagnosis of mumps. Intravenous steroid administration
+alleviated the dyspnea, although the patient required temporary tracheal
+intubation to maintain airway patency. He did not need tracheotomy and did not
+experience any other complications. Laryngeal edema must be regarded as a rare,
+potentially life-threatening complication of mumps. When mumps is diagnosed with 
+significant swelling of the neck, an emergency airway should be established to
+prevent airway obstruction.
+
+DOI: 10.1097/PEC.0b013e3182a60049 
+PMID: 24084609  [Indexed for MEDLINE]

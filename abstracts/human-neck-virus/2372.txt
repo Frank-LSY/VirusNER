@@ -1,0 +1,37 @@
+
+
+2372. Oncol Rep. 2016 Jan;35(1):89-98. doi: 10.3892/or.2015.4374. Epub 2015 Nov 2.
+
+Effects of lentivirus-mediated shRNA targeting integrin-linked kinase on oral
+squamous cell carcinoma in vitro and in vivo.
+
+Que L(1), Zhao D(2), Tang XF(3), Liu JY(3), Zhang XY(1), Zhan YH(1), Zhang L(1).
+
+Author information: 
+(1)State Key Laboratory of Oral Diseases, Sichuan University, Chengdu 610041,
+P.R. China.
+(2)Department of Oral and Maxillofacial Surgery, The First Affiliated Hospital of
+Chongqing Medical University, Chongqing 400016, P.R. China.
+(3)Department of Head and Neck Carcinoma, West China College of Stomatology,
+Sichuan University, Chengdu 610041, P.R. China.
+
+Integrin-linked kinase (ILK), a highly conserved intracellular protein of
+serine/threonine protein kinase activities, which is associated with the integrin
+and growth factor receptor signaling pathway, is involved in the regulation of
+cell proliferation, apoptosis, differentiation, migration and
+epithelial-mesenchymal transition (EMT). Findings of a previous study showed that
+ILK overexpression was strongly correlated with a more aggressive tumor
+phenotype, recurrence and poor survival for oral squamous cell carcinoma (OSCC)
+patients, as well as some EMT markers. In order to investigate the underlying
+mechanisms involved, a lentivirus-mediated short hairpin RNA (shRNA) was employed
+to downregulate ILK. The results showed that the knockdown of ILK inhibited cell 
+growth, adhesion and invasion ability in vitro, and OSCC cells deficient of ILK
+were blocked in the S phase and underwent apoptosis. Additionally, ILK shRNA
+inhibited EMT by impairing the expression of Snail, Slug and Twist2 and enhacning
+E-cadherin expression. ILK shRNA suppressed the phosphorylation of downstream
+signaling targets Akt and GSk-3β. In addition, the knockdown of ILK inhibited
+tumor growth, invasion and metastasis of xenograft tumors in vivo. These results 
+suggested that ILK is a promising therapeutic target for the treatment of OSCC.
+
+DOI: 10.3892/or.2015.4374 
+PMID: 26531674  [Indexed for MEDLINE]

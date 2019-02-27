@@ -1,0 +1,33 @@
+
+
+2553. Front Biosci (Elite Ed). 2016 Jun 1;8:358-69.
+
+Anticancer activity of drug conjugates in head and neck cancer cells.
+
+Majumdar D(1), Rahman MA(2), Chen ZG(2), Shin DM(3).
+
+Author information: 
+(1)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University School of Medicine, Emory University, 1365 C Clifton Road, Atlanta, GA
+30322 and Glycosyn LLC, Medford, MA 02155.
+(2)Glycosyn LLC, Medford, MA 02155.
+(3)Glycosyn LLC, Medford, MA 02155, dmshin@emory.edu.
+
+Sexually transmitted oral cancer/head and neck cancer is increasing rapidly.
+Human papilloma virus (HPV) is playing a role in the pathogenesis of a subset of 
+squamous cell carcinoma of head and neck (SCCHN). Paclitaxel is a widely used
+anticancer drug for breast, ovarian, testicular, cervical, non-small cell lung,
+head and neck cancer. However, it is water insoluble and orally inactive. We
+report the synthesis of water soluble nanosize conjugates of paclitaxel, branched
+PEG, and EGFR-targeting peptide by employing native chemical ligation. We
+performed a native chemical ligation between the N-hydroxy succinimide (NHS)
+ester of paclitaxel succinate and cysteine at pH 6.5 to give the
+cysteine-conjugated paclitaxel derivative. The thiol functionality of cysteine
+was activated and subsequently conjugated to multiarm thiol-PEG to obtain the
+paclitaxel branched PEG conjugate. Finally, we conjugated an EGFR-targeting
+peptide to obtain conjugates of paclitaxel, branched PEG, and EGFR-targeting
+peptide. These conjugates show anticancer activity against squamous cell
+carcinoma of head and neck cells (SCCHN, Tu212).
+
+
+PMID: 27100344  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+290. Oral Oncol. 2014 Sep;50(9):780-4. doi: 10.1016/j.oraloncology.2013.09.010. Epub
+2013 Oct 11.
+
+Tailored immunotherapy for HPV positive head and neck squamous cell cancer.
+
+Gildener-Leapman N(1), Lee J(2), Ferris RL(3).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, United States. Electronic address:
+gildenerleapmannr@upmc.edu.
+(2)Sanford Ear, Nose, and Throat Clinic, Sioux Falls, SD, United States.
+(3)Department of Otolaryngology Head and Neck Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, United States.
+
+Human papilloma virus (HPV) associated oropharynx carcinoma (OPC) is increasingly
+common, with a distinct biology from HPV negative OPC. In spite of this better
+prognosis, morbidity is significant and treatment related after effects can be
+debilitating. Because the foreign viral proteins that drive HPV+ cancers are
+known, there are multiple options for tailored immune therapies. Herein we review
+the immunologic basis for disease and emerging immune therapies. The oncogenesis 
+of HPV+ SCCHN goes beyond cell cycle deregulation, and relies on the immune
+escape through (E5, E6, and E7) downregulating antigen processing, interferon
+response, as well as STAT-1 signaling. Individual susceptibilities to HPV
+infection may vary. The treatment of HPV+ cancers has had a wide range of
+successes and failures. Perhaps the shining example of immunoprevention has been 
+the L1 protein vaccines developed for cervical cancer prevention, however this
+vaccine has not been beneficial for people already infected. Therefore multiple
+strategies have been employed in the cancer therapeutic realm for people with
+existing disease. These agents range from peptides, to viral vectors, to adoptive
+cell therapy. In this review we consider the work done in both SCCHN and cervical
+cancer, as these therapeutic targets are the similar. The listed studies are not 
+exhaustive, but rather illustrate experimental design and approach.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.09.010 
+PMCID: PMC4437525
+PMID: 24126224  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+2555. Psychooncology. 2015 Nov;24(11):1506-13. doi: 10.1002/pon.3760. Epub 2015 Jan 28.
+
+Distancing, self-esteem, and subjective well-being in head and neck cancer.
+
+Devins GM(1), Wong JC(2), Payne AY(2), Lebel S(3), Lee RN(4), Mah K(5), Irish
+J(1), Rodin G(1).
+
+Author information: 
+(1)Princess Margaret Cancer Center and University of Toronto, Canada.
+(2)University of Toronto, Canada.
+(3)University of Ottawa, Canada.
+(4)McMaster University Medical Centre and McMaster University, Canada.
+(5)Princess Margaret Cancer Center, Canada.
+
+BACKGROUND: Distancing (i.e. construing oneself as dissimilar to a
+negatively-stereotyped group) preserves self-esteem and may benefit other domains
+of subjective well-being. Head and neck cancer (HNC) is stigmatized because major
+risk factors include avoidable lifestyle variables (smoking, alcohol consumption,
+and human papilloma virus). Because the benefits of coping efforts, such as
+distancing, are most evident when people are under stress, we hypothesize that
+the psychosocial benefits of distancing will be most pronounced when cancer and
+its treatment interfere substantially with participation in valued activities and
+interests (i.e. high illness intrusiveness).
+OBJECTIVE: To test whether distancing preserves self-esteem and other domains of 
+subjective well-being (SWB) in HNC, especially when illness intrusiveness is
+high.
+METHODS: Five hundred and twenty-two HNC outpatients completed a
+semantic-differential measure of perceived similarity to the 'cancer patient' and
+measures of illness intrusiveness, self-esteem, depressive symptoms, and
+psychological well-being in structured interviews. Evaluations of the 'cancer
+patient' reflected cancer stereotypes.
+RESULTS: A statistically significant interaction supported the central
+hypothesis: When people held negative stereotypes, those who construed themselves
+as similar to the 'cancer patient' reported lower self-esteem than those who
+construed themselves as dissimilar. Distancing did not benefit other SWB
+variables. Some results were counter-intuitive: e.g. Emotional distress increased
+with increasing illness intrusiveness when people did not hold negative cancer
+stereotypes, but when they held highly negative stereotypes, distress decreased
+with increasing illness intrusiveness.
+CONCLUSIONS: Overall, distancing preserved self-esteem in people with HNC and was
+associated with benefits in other SWB domains.
+
+Copyright © 2015 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/pon.3760 
+PMID: 25631628  [Indexed for MEDLINE]

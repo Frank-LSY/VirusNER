@@ -1,0 +1,41 @@
+
+
+1508. Acta Otolaryngol. 2017 Aug;137(8):888-894. doi: 10.1080/00016489.2017.1296585.
+Epub 2017 Apr 10.
+
+M2-polarized tumour-associated macrophages in stroma correlate with poor
+prognosis and Epstein-Barr viral infection in nasopharyngeal carcinoma.
+
+Huang H(1), Liu X(1), Zhao F(2), Lu J(1), Zhang B(3), Peng X(1), Zhang M(1), Chen
+X(1), Li G(1), Li X(1).
+
+Author information: 
+(1)a Department of Otorhinolaryngology-Head and Neck Surgery , Nanfang Hospital, 
+Southern Medical University , Guangzhou , China.
+(2)b Department of Otolaryngology-Head and Neck Surgery , The Affiliated Hospital
+of Southwest Medical University, Southwest Medical University , Luzhou , China.
+(3)c Biosafety Level-3 (BSL-3) Laboratory, School of Public Health , Southern
+Medical University , Guangzhou , China.
+
+Erratum in
+    Acta Otolaryngol. 2017 Oct;137(10 ):1127.
+
+OBJECTIVES: To assess the relationships between CD163 expression, localization of
+CD163+ macrophages, clinicopathological features and prognosis of NPC.
+METHODS: A total of 110 cases of NPC specimens and 80 cases of nasopharyngitis
+specimens were analysed for CD163 expression by immunohistochemistry and EBERs
+expression in situ hybridization.
+RESULTS: CD163 + macrophages in the tumour stroma were positively correlated with
+the tumour and nodal stage. Higher expression of Epstein-Barr virus-encoded RNAs 
+(EBERs) in the nuclei of tumour cells was associated with higher density of
+CD163 + macrophages in the tumour stroma. More importantly, greater infiltration 
+of CD163 + macrophages in the tumour stroma was associated with poor overall
+survival (OS) and poor progression-free survival (PFS). Multivariate analysis
+revealed that the density of CD163+ macrophages in the tumour stroma may be an
+independent risk factor for NPC prognosis.
+CONCLUSIONS: Increased infiltration of CD163+ macrophages in the tumour stroma
+correlates with worse outcomes and with Epstein-Barr virus (EBV) infection status
+of tumour cells in nasopharyngeal carcinoma (NPC).
+
+DOI: 10.1080/00016489.2017.1296585 
+PMID: 28395580  [Indexed for MEDLINE]

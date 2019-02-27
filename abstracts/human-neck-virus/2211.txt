@@ -1,0 +1,36 @@
+
+
+2211. Oncotarget. 2016 Mar 1;7(9):10386-401. doi: 10.18632/oncotarget.7006.
+
+Resistance to the nucleotide analogue cidofovir in HPV(+) cells: a multifactorial
+process involving UMP/CMP kinase 1.
+
+Topalis D(1), Nogueira TC(1), De Schutter T(1), El Amri C(2), Krečmerová M(3),
+Naesens L(1), Balzarini J(1), Andrei G(1), Snoeck R(1).
+
+Author information: 
+(1)Rega Institute for Medical Research, KU Leuven, Leuven, Belgium.
+(2)Sorbonne Universités, UPMC University Paris 06, UMR 8256, B2A, Biological
+Adaptation and Ageing, Integrated Cellular Ageing and Inflammation, Molecular and
+Functional Enzymology, Paris, France.
+(3)Institute of Organic Chemistry and Biochemistry, Academy of Sciences of The
+Czech Republic, v.v.i., Prague, Czech Republic.
+
+Human papillomavirus (HPV) is responsible for cervical cancer, and its role in
+head and neck carcinoma has been reported. No drug is approved for the treatment 
+of HPV-related diseases but cidofovir (CDV) exhibits selective antiproliferative 
+activity. In this study, we analyzed the effects of CDV-resistance (CDVR) in two 
+HPV(+) (SiHaCDV and HeLaCDV) and one HPV(-) (HaCaTCDV) tumor cell lines.
+Quantification of CDV metabolites and analysis of the sensitivity profile to
+chemotherapeutics was performed. Transporters expression related to
+multidrug-resistance (MRP2, P-gp, BCRP) was also investigated. Alterations of CDV
+metabolism in SiHaCDV and HeLaCDV, but not in HaCaTCDV, emerged via impairment of
+UMP/CMPK1 activity. Mutations (P64T and R134M) as well as down-regulation of
+UMP/CMPK1 expression were observed in SiHaCDV and HeLaCDV, respectively. Altered 
+transporters expression in SiHaCDV and/or HeLaCDV, but not in HaCaTCDV, was also 
+noted. Taken together, these results indicate that CDVR in HPV(+) tumor cells is 
+a multifactorial process.
+
+DOI: 10.18632/oncotarget.7006 
+PMCID: PMC4891127
+PMID: 26824416  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+1440. Oncotarget. 2015 Apr 20;6(11):9627-42.
+
+Head and neck cancer subtypes with biological and clinical relevance:
+Meta-analysis of gene-expression data.
+
+De Cecco L(1), Nicolau M(2), Giannoccaro M(1), Daidone MG(3), Bossi P(4), Locati 
+L(4), Licitra L(4), Canevari S(1).
+
+Author information: 
+(1)Functional Genomics and Bioinformatics, Department of Experimental Oncology
+and Molecular Medicine, Fondazione IRCCS Istituto Nazionale dei Tumori, Milan,
+Italy.
+(2)Department of Mathematics, Stanford University, Stanford, CA, USA.
+(3)Department of Experimental Oncology and Molecular Medicine, Fondazione IRCCS
+Istituto Nazionale dei Tumori, Milan, Italy.
+(4)Head and Neck Medical Oncology Unit, Fondazione IRCCS Istituto Nazionale dei
+Tumori, Milan, Italy.
+
+Head and neck squamous cell carcinoma (HNSCC) is a disease with heterogeneous
+clinical behavior and response to therapies. Despite the introduction of
+multimodality treatment, 40-50% of patients with advanced disease recur.
+Therefore, there is an urgent need to improve the classification beyond the
+current parameters in clinical use to better stratify patients and the
+therapeutic approaches. Following a meta-analysis approach we built a large
+training set to whom we applied a Disease-Specific Genomic Analysis (DSGA) to
+identify the disease component embedded into the tumor data. Eleven independent
+microarray datasets were used as validation sets. Six different HNSCC subtypes
+that summarize the aberrant alterations occurring during tumor progression were
+identified. Based on their main biological characteristics and de-regulated
+signaling pathways, the subtypes were designed as immunoreactive, inflammatory,
+human papilloma virus (HPV)-like, classical, hypoxia associated, and mesenchymal.
+Our findings highlighted a more aggressive behavior for mesenchymal and
+hypoxia-associated subtypes. The Genomics Drug Sensitivity Project was used to
+identify potential associations with drug sensitivity and significant differences
+were observed among the six subtypes. To conclude, we report a robust molecularly
+defined subtype classification in HNSCC that can improve patient selection and
+pave the way to the development of appropriate therapeutic strategies.
+
+DOI: 10.18632/oncotarget.3301 
+PMCID: PMC4496244
+PMID: 25821127  [Indexed for MEDLINE]

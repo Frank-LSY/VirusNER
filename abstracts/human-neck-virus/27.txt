@@ -1,0 +1,44 @@
+
+
+27. Recent Results Cancer Res. 2017;206:3-25.
+
+HPV in Head and Neck Cancer-30 Years of History.
+
+Syrjänen S(1)(2), Rautava J(3)(4), Syrjänen K(5).
+
+Author information: 
+(1)Department of Oral Pathology, Faculty of Medicine, Institute of Dentistry,
+University of Turku, Lemminkäisenkatu 2, 20520, Turku, Finland.
+stina.syrjanen@utu.fi.
+(2)Department of Pathology, Turku University Hospital, University of Turku,
+Turku, Finland. stina.syrjanen@utu.fi.
+(3)Department of Oral Pathology, Faculty of Medicine, Institute of Dentistry,
+University of Turku, Lemminkäisenkatu 2, 20520, Turku, Finland.
+(4)Department of Pathology, Turku University Hospital, University of Turku,
+Turku, Finland.
+(5)Department of Clinical Research, Biohit Oyj, Helsinki, Finland.
+
+The interesting history of papillomavirus (PV) research has been reviewed before.
+The history of human papillomavirus (HPV) in head and neck region starts in 1901 
+when the contagious transmission of warty lesions into the mouth via oral sex was
+described, although the confirmation of their viral etiology had to wait until
+1907. Ullman was the first to associate the human wart virus with laryngeal
+warts. Parsons and Kidd described the natural history of oral PV infections in
+rabbits already in 1942, but these findings were corroborated in humans only
+recently. Koilocytotic atypia described by Koss and Durfee in 1956 was recognized
+as a sign of HPV infection in cervical precancer lesions only in 1976-1977
+(Meisels and Fortin; Purola and Savia). This prompted systematic surveys of head 
+and neck lesions for the detection of koilocytosis since the late 1970s, and the 
+authors of this communication were the first to propose the HPV involvement in a 
+subgroup of head and neck cancers. Brandsma and Abramson demonstrated HPV16 DNA
+in tonsillar SCCs in 1989. Since the early 2000s, HPV research of head and neck
+squamous cell carcinomas (HNSCC) has made impressive progress, confirming that
+the specific anatomic site plays a key role in determining the susceptibility to 
+HPV infection. The most likely cancer sites associated with HPV are the base of
+the tongue and palatine tonsils, followed by oral cavity, larynx, and sinonasal
+mucosa. There is substantial geographic variation in HPV association with HNSCC. 
+Patients with HPV-associated HNSCC are younger, and survival is better than in
+the absence of HPV.
+
+DOI: 10.1007/978-3-319-43580-0_1 
+PMID: 27699526  [Indexed for MEDLINE]

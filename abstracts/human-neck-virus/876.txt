@@ -1,0 +1,41 @@
+
+
+876. Oncotarget. 2015 Nov 24;6(37):39969-79. doi: 10.18632/oncotarget.5483.
+
+Degradation of the cancer genomic DNA deaminase APOBEC3B by SIV Vif.
+
+Land AM(1)(2), Wang J(1), Law EK(1), Aberle R(1), Kirmaier A(3), Krupp A(3)(4),
+Johnson WE(3), Harris RS(1).
+
+Author information: 
+(1)Department of Biochemistry, Molecular Biology and Biophysics, Institute for
+Molecular Virology, Masonic Cancer Center, and Center for Genome Engineering,
+University of Minnesota, Minneapolis, Minnesota, USA.
+(2)Present address: Department of Biological Sciences, Minnesota State University
+Mankato, Mankato, Minnesota, USA.
+(3)Department of Biology, Boston College, Boston, Massachusetts, USA.
+(4)Present address: Biogen Idec, Cambridge, Massachusetts, USA.
+
+APOBEC3B is a newly identified source of mutation in many cancers, including
+breast, head/neck, lung, bladder, cervical, and ovarian. APOBEC3B is a member of 
+the APOBEC3 family of enzymes that deaminate DNA cytosine to produce the
+pro-mutagenic lesion, uracil. Several APOBEC3 family members function to restrict
+virus replication. For instance, APOBEC3D, APOBEC3F, APOBEC3G, and APOBEC3H
+combine to restrict HIV-1 in human lymphocytes. HIV-1 counteracts these APOBEC3s 
+with the viral protein Vif, which targets the relevant APOBEC3s for proteasomal
+degradation. While APOBEC3B does not restrict HIV-1 and is not targeted by HIV-1 
+Vif in CD4-positive T cells, we asked whether related lentiviral Vif proteins
+could degrade APOBEC3B. Interestingly, several SIV Vif proteins are capable of
+promoting APOBEC3B degradation, with SIVmac239 Vif proving the most potent. This 
+likely occurs through the canonical polyubiquitination mechanism as APOBEC3B
+protein levels are restored by MG132 treatment and by altering a conserved E3
+ligase-binding motif. We further show that SIVmac239 Vif can prevent APOBEC3B
+mediated geno/cytotoxicity and degrade endogenous APOBEC3B in several cancer cell
+lines. Our data indicate that the APOBEC3B degradation potential of SIV Vif is an
+effective tool for neutralizing the cancer genomic DNA deaminase APOBEC3B.
+Further optimization of this natural APOBEC3 antagonist may benefit cancer
+therapy.
+
+DOI: 10.18632/oncotarget.5483 
+PMCID: PMC4741873
+PMID: 26544511  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+2634. Anticancer Res. 2016 Aug;36(8):3917-24.
+
+Expression of Cell Cycle-Related Proteins p16, p27, p53 and Ki-67 in HPV-positive
+and -negative Samples of Papillomas of the Upper Respiratory Tract.
+
+Zatonski T(1), Ciesielska U(2), Nowinska K(3), Ratajczak-Wielgomas K(3),
+Kobierzycki C(3), Pula B(3), Podhorska-Okolow M(3), Krecicki T(1), Dziegiel P(4).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, Wroclaw Medical
+University, Wroclaw, Poland.
+(2)Department of Histology and Embryology, Wroclaw Medical University, Wroclaw,
+Poland urszula.ciesielska@umed.wroc.pl.
+(3)Department of Histology and Embryology, Wroclaw Medical University, Wroclaw,
+Poland.
+(4)Department of Histology and Embryology, Wroclaw Medical University, Wroclaw,
+Poland Department of Physiotherapy, University School of Physical Education,
+Wroclaw, Poland.
+
+BACKGROUND: The role of human papillomavirus (HPV) infection as an etiological
+factor of respiratory tract papillomas has been described in numerous studies,
+however its role in malignant transformation has not been clearly defined.
+Depending on their oncogenic potential they have been classified as low- and
+high-risk HPVs. We analyzed the expression of four cell cycle-related proteins in
+order to understand the processes leading to malignant transformation.
+MATERIALS AND METHODS: Fifty-six cases of pharyngeal and laryngeal papillomas
+were analyzed. Nested multiplex polymerase chain reactions to detect the presence
+of the HPV types, as well as immunohistochemical reactions were performed for the
+detection of cell cycle-related proteins p16, p27, p53 and Ki-67.
+RESULTS: The presence of HPVs 6/11 and 16 was confirmed in 10/56 cases. The
+expression of all analyzed cell cycle-related proteins was increased in
+HPV-infected papillomas.
+CONCLUSION: HPV infection of the upper respiratory tract may influence the
+expression of cell cycle-related proteins, that could indicate its possible role 
+in the process of malignant transformation.
+
+Copyright© 2016 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 27466494  [Indexed for MEDLINE]

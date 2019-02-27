@@ -1,0 +1,38 @@
+
+
+1243. Eur J Pediatr. 2009 Nov;168(11):1365-72. doi: 10.1007/s00431-009-0939-7. Epub
+2009 Feb 17.
+
+Clinical and microbiological impact of human bocavirus on children with acute
+otitis media.
+
+Beder LB(1), Hotomi M, Ogami M, Yamauchi K, Shimada J, Billal DS, Ishiguro N,
+Yamanaka N.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Wakayama Medical
+University, Kimiidera 811-1, Wakayama-shi 641-0012, Wakayama, Japan.
+
+Human Bocavirus (HBoV) as a newly discovered parvovirus has been commonly
+detected in respiratory tract infections. However, its role in acute otitis media
+(AOM) has not been well studied. We examined HBoV in Japanese children with AOM
+and evaluated the virus prevalence together with clinical manifestations and
+bacterial findings. Overall, 222 nasopharyngeal swabs and 176 middle ear fluids
+(MEF) samples were collected from 222 children with AOM (median age, 19 months)
+between May 2006 and April 2007. HBoV detection was performed by PCR and
+bacterial isolation by standard culture methods. HBoV was found in the
+nasopharyngeal aspirates of 14 children (6.3%) and in the MEF of six children
+(2.7%). When HBoV detection results were evaluated with clinical characteristics 
+of children, resolution time of AOM was significantly longer (p=0.04), and rate
+of fever symptom was also higher in HBoV-positive group (p=0.04). Furthermore, we
+found positive correlation between detection of HBoV and Streptococcus pneumoniae
+in the MEF (p=0.004). Nevertheless, nasopharyngeal proportion of S. pneumoniae
+was similar between virus positive and negative groups. Furthermore, S.
+pneumoniae was detected as a single pathogen in all MEF of HBoV-positive cases
+but one, while it presents mixed with other pathogenic bacteria in nasopharynx.
+In conclusion, HBoV may worsen the clinical symptoms and prolong the clinical
+outcome of AOM in pediatric population. Finally, HBoV may prime the secondary
+bacterial infection in the middle ear in favor of S. pneumoniae.
+
+DOI: 10.1007/s00431-009-0939-7 
+PMID: 19221788  [Indexed for MEDLINE]

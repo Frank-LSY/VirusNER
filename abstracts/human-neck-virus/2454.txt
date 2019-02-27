@@ -1,0 +1,59 @@
+
+
+2454. Auris Nasus Larynx. 2018 Oct;45(5):911-915. doi: 10.1016/j.anl.2017.11.016. Epub 
+2017 Dec 8.
+
+Anti-mumps IgM antibody positive rate with sudden sensorineural hearing loss
+using second-generation enzyme immunoassay: A retrospective, multi-institutional 
+investigation in Hokkaido, Japan.
+
+Fukuda A(1), Morita S(2), Nakamaru Y(2), Hoshino K(2), Fujiwara K(2), Akazawa
+S(3), Sakashita T(4), Obara N(5), Homma A(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head & Neck Surgery, Faculty of Medicine and
+Graduate School of Medicine, Hokkaido University, North 15, West 7, Kita-ku,
+Sapporo, Hokkaido 060-8638, Japan. Electronic address:
+atsushi.fukuda@huhp.hokudai.ac.jp.
+(2)Department of Otolaryngology-Head & Neck Surgery, Faculty of Medicine and
+Graduate School of Medicine, Hokkaido University, North 15, West 7, Kita-ku,
+Sapporo, Hokkaido 060-8638, Japan.
+(3)Department of Otolaryngology, Hakodate Central General Hospital, 33-2, Honcho,
+Hakodate, Hokkaido, 040-8585, Japan.
+(4)Department of Otolaryngology, Kushiro City General Hospital, 1-12, Syunkodai, 
+Kushiro, Hokkaido, 085-0822, Japan.
+(5)Department of Otolaryngology, Nakashibetsu Town Hosipital, 1-1, West 10, South
+9, Nakashibetsu, Hokkaido, 086-1110, Japan.
+
+OBJECTIVE: Although elevated anti-mumps IgM antibody levels were reported in
+5.7%-7.2% of Japanese patients with sudden sensorineural hearing loss (SSNHL),
+there were several reports of false-positive cases, such as the continually IgM
+positive case and the IgM positive case in normal adults. To improve specificity,
+the new enzyme immuno assay (EIA) anti-mumps IgM antibody measurement kit was
+introduced in December 2009. This study re-examined the frequency of anti-mumps
+IgM antibody test positivity with SSNHL using the new measurement kit and
+compared the results with those from a previous report that used old kit.
+METHODS: This is a retrospective multi-institutional study involving patients
+diagnosed with SSNHL who exhibited the anti-mumps IgM antibody. We compared the
+positive rate of anti-mumps IgM antibody and the annual average number of mumps
+cases per sentinel in Hokkaido between the patients in the present study and
+patients previously evaluated.
+RESULTS: Overall, 100 patients with SSNHL were enrolled. One case (1.0%) was
+positive for anti-mumps IgM antibody. Of the 69 patients evaluated in the
+previous study, 5 cases (7.2%) were positive for anti-mumps IgM antibody. The
+positive rate of the anti-mumps IgM antibody in the present cases was
+significantly lower than that previously reported (p=0.042). The annual average
+number of mumps cases per sentinel in Hokkaido of the present and previous
+surveillance period was 34.47 and 42.77, respectively; no significant difference 
+was seen in these data (p=0.4519).
+CONCLUSION: The present study revealed that 1.0% of SSNHL was positive for the
+anti-mumps IgM antibody using the new EIA-IgM measurement kit. After the
+introduction of the new EIA-IgM measurement kit, anti-mumps IgM antibody positive
+rate with SSNHL significantly decreased, indicating that the proportion of
+asymptomatic mumps among etiology of SSNHL may be lower than those previously
+reported.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.anl.2017.11.016 
+PMID: 29224848  [Indexed for MEDLINE]

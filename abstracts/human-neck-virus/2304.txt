@@ -1,0 +1,36 @@
+
+
+2304. Curr Opin Otolaryngol Head Neck Surg. 2014 Jun;22(3):195-200. doi:
+10.1097/MOO.0000000000000044.
+
+Dysphagia in head and neck cancer: prevention and treatment.
+
+Starmer HM(1).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Johns Hopkins Medical
+Institutions, Baltimore, Maryland, USA.
+
+PURPOSE OF REVIEW: Swallowing difficulties are among the most problematic
+outcomes associated with head and neck cancer (HNCA) and the strategies employed 
+to treat it. With a rising incidence of human papilloma virus-associated HNCA, a 
+larger number of patients are expected to survive their cancer, and therefore
+will be more susceptible to long-term treatment toxicities. Optimization of
+long-term swallowing outcomes is an important objective for those working with
+patients with HNCA.
+RECENT FINDINGS: The role of the swallowing therapist in the management of
+patients with HNCA cannot be overstated. This begins with pretreatment evaluation
+of swallowing. At the time of initial assessment, education should be provided
+regarding treatment toxicities and the importance of prophylactic swallowing
+exercises and oral intake. Recent evidence suggests that maintaining an oral diet
+and engaging in swallowing exercise during radiation have a positive impact on
+diet level, swallowing physiology, patient-perceived swallowing-related quality
+of life, and reduced feeding tube use. Although treatment strategies such as
+radiation de-intensification and transoral surgical treatments show promise for
+reducing toxicities, evidence regarding their impact is still being amassed.
+SUMMARY: Maintaining an oral diet and performing prophylactic swallowing
+exercises are currently the most evidence-based strategies for dysphagia
+prevention in HNCA.
+
+DOI: 10.1097/MOO.0000000000000044 
+PMID: 24614062  [Indexed for MEDLINE]

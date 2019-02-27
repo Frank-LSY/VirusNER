@@ -1,0 +1,41 @@
+
+
+2968. Nat Commun. 2017 Mar 31;8:14848. doi: 10.1038/ncomms14848.
+
+PABPN1 gene therapy for oculopharyngeal muscular dystrophy.
+
+Malerba A(1), Klein P(2), Bachtarzi H(1), Jarmin SA(1), Cordova G(2), Ferry
+A(2)(3), Strings V(4), Espinoza MP(2), Mamchaoui K(2), Blumen SC(5), St Guily
+JL(2)(6), Mouly V(2), Graham M(4), Butler-Browne G(2), Suhy DA(4), Trollet C(2), 
+Dickson G(1).
+
+Author information: 
+(1)School of Biological Sciences, Royal Holloway, University of London, Egham
+Hill, Egham, TW20 0EX Surrey, UK.
+(2)Sorbonne Universités, UPMC Univ Paris 06, UM76, INSERM U974, Institut de
+Myologie, CNRS FRE3617, 47 bd de l'Hôpital, 75013 Paris, France.
+(3)Sorbonne Paris Cité, Université Paris Descartes, 75006 Paris, France.
+(4)Benitec Biopharma, 3940 Trust Way, Hayward, California 94545, USA.
+(5)Department of Neurology, Hillel Yaffe Medical Center, Hadera and Rappaport
+Faculty of Medicine, The Technion, 1 Efron Street, Haifa 31096, Israel.
+(6)Department of Otolaryngology-Head and Neck Surgery, Faculty of Medicine and
+University Pierre-et-Marie-Curie, Paris VI, Tenon Hospital, Assistance Publique
+des Hopitaux de Paris, 75252 Paris, France.
+
+Oculopharyngeal muscular dystrophy (OPMD) is an autosomal dominant, late-onset
+muscle disorder characterized by ptosis, swallowing difficulties, proximal limb
+weakness and nuclear aggregates in skeletal muscles. OPMD is caused by a
+trinucleotide repeat expansion in the PABPN1 gene that results in an N-terminal
+expanded polyalanine tract in polyA-binding protein nuclear 1 (PABPN1). Here we
+show that the treatment of a mouse model of OPMD with an adeno-associated
+virus-based gene therapy combining complete knockdown of endogenous PABPN1 and
+its replacement by a wild-type PABPN1 substantially reduces the amount of
+insoluble aggregates, decreases muscle fibrosis, reverts muscle strength to the
+level of healthy muscles and normalizes the muscle transcriptome. The efficacy of
+the combined treatment is further confirmed in cells derived from OPMD patients. 
+These results pave the way towards a gene replacement approach for OPMD
+treatment.
+
+DOI: 10.1038/ncomms14848 
+PMCID: PMC5380963
+PMID: 28361972  [Indexed for MEDLINE]

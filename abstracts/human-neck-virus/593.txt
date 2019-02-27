@@ -1,0 +1,38 @@
+
+
+593. Nat Commun. 2018 Jun 22;9(1):2436. doi: 10.1038/s41467-018-04846-w.
+
+Secondary lymphoid organ fibroblastic reticular cells mediate trans-infection of 
+HIV-1 via CD44-hyaluronan interactions.
+
+Murakami T(1), Kim J(2), Li Y(2)(3), Green GE(4), Shikanov A(2)(3), Ono A(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of Michigan Medical
+School, Ann Arbor, MI, 48109, USA.
+(2)Department of Macromolecular Science and Engineering, University of Michigan, 
+Ann Arbor, MI, 48109, USA.
+(3)Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI,
+48109, USA.
+(4)Department of Otolaryngology-Head and Neck Surgery, University of Michigan
+Medical School, Ann Arbor, MI, 48109, USA.
+(5)Department of Microbiology and Immunology, University of Michigan Medical
+School, Ann Arbor, MI, 48109, USA. akiraono@umich.edu.
+
+Fibroblastic reticular cells (FRCs) are stromal cells in secondary lymphoid
+organs, the major sites for HIV-1 infection of CD4+ T cells. Although FRCs
+regulate T cell survival, proliferation, and migration, whether they play any
+role in HIV-1 spread has not been studied. Here, we show that FRCs enhance HIV-1 
+spread via trans-infection in which FRCs capture HIV-1 and facilitate infection
+of T cells that come into contact with FRCs. FRCs mediate trans-infection in both
+two- and three-dimensional culture systems and in a manner dependent on the virus
+producer cells. This producer cell dependence, which was also observed for virus 
+spread in secondary lymphoid tissues ex vivo, is accounted for by CD44
+incorporated into virus particles and hyaluronan bound to such CD44 molecules.
+This virus-associated hyaluronan interacts with CD44 expressed on FRCs, thereby
+promoting virus capture by FRCs. Overall, our results reveal a novel role for
+FRCs in promoting HIV-1 spread.
+
+DOI: 10.1038/s41467-018-04846-w 
+PMCID: PMC6015004
+PMID: 29934525  [Indexed for MEDLINE]

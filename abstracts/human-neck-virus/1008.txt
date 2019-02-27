@@ -1,0 +1,57 @@
+
+
+1008. Medicine (Baltimore). 2015 Nov;94(47):e2069. doi: 10.1097/MD.0000000000002069.
+
+Human Papillomavirus Infections are Common and Predict Mortality in a
+Retrospective Cohort Study of Taiwanese Patients With Oral Cavity Cancer.
+
+Lee LA(1), Huang CG, Tsao KC, Liao CT, Kang CJ, Chang KP, Huang SF, Chen IH, Fang
+TJ, Li HY, Yang SL, Lee LY, Hsueh C, Lin CY, Fan KH, Chang TC, Wang HM, Ng SH,
+Yen TC.
+
+Author information: 
+(1)From the Department of Otorhinolaryngology, Head and Neck Surgery, Head and
+Neck Oncology Group (LAL, CTL, CJK, KPC, SFH, IHC, TJF, HYL); Department of
+Laboratory Medicine, Linkou-Chang Gung Memorial Hospital (CGH, KCT, SLY);
+Department of Medical Biotechnology and Laboratory Science, Graduate Institute of
+Biomedical Sciences, Chang Gung University (CGH, KCT, SLY); Department of
+Pathology (LYL, CH); Department of Radiation Oncology (CYL, KHF, TCC); Department
+of Medical Oncology (HMW); Department of Diagnostic Radiology (SHN); and
+Department of Nuclear Medicine and Molecular Imaging Center, Head and Neck
+Oncology Group, Linkou-Chang Gung Memorial Hospital, Chang Gung University,
+Taoyuan, Taiwan, Republic of China (TCY).
+
+Human papillomavirus (HPV) infections are deemed to play a role in the
+pathogenesis of oral cavity cancer (OCC). However, their exact prevalence and
+clinical significance remain unclear. Herein, we investigated the prevalence and 
+prognostic value of HPV infections in a large sample of Taiwanese OCC
+patients.This study was designed as a retrospective cohort study. Between 2004
+and 2011, we identified 1002 consecutive patients with newly diagnosed OCC who
+were scheduled for standard treatment. HPV genotyping was performed in tumor
+specimens using polymerase chain reaction-based HPV blots. To investigate the
+temporal trends of HPV infections and their impact on 5-year overall survival
+(OS), patients were divided into 2 cohorts according to calendar periods: "2004
+cohort" (2004-2007; n = 466) and "2008 cohort" (2008-2011; n = 536). Univariate
+and multivariate Cox regression models were also used to identify the independent
+predictors of OS in the 2 cohorts. A weighted risk score was assigned to each
+factor based on the range of their corresponding hazard ratios and validated in
+both cohorts using the c-statistic.The overall prevalence of HPV infections was
+19%, with a trend toward decreasing rates from 2004 to 2011. In patients without 
+risky oral habits, the 5-year OS rate of HPV-positive patients was significantly 
+lower than that of HPV-negative cases (49% vs 80%; P = 0.021). In the 2004
+cohort, multivariate analysis identified HPV16, pathological T3/T4, pathological 
+N1/N2, and extracapsular spread as independent adverse prognostic factors for OS.
+In the 2008 cohort, pathological N1/N2, pathological stage III/IV, and
+histological tumor depth >8 mm were identified as independent adverse prognostic 
+factors. Using a weighted grading system incorporating HPV16 infection, we
+devised a prognostic index that identified 4 distinct risk categories with 5-year
+OS rates ranging from 25% to 89% (c-statistic = 0.76) in the 2004 cohort. The
+validity of the index was internally confirmed in the 2008 cohort (c-statistic = 
+0.71).We conclude that HPV infections are common in Taiwanese OCC patients and
+predict 5-year OS. If independently validated, our composite prognostic score
+comprising HPV16 infection may be useful for allocating OCC patients to
+risk-adapted therapies.
+
+DOI: 10.1097/MD.0000000000002069 
+PMCID: PMC5058981
+PMID: 26632712  [Indexed for MEDLINE]

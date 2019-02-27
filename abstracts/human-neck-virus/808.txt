@@ -1,0 +1,42 @@
+
+
+808. Laryngoscope. 2010 Aug;120(8):1531-7. doi: 10.1002/lary.20984.
+
+Human papillomavirus-active head and neck cancer and ethnic health disparities.
+
+Weinberger PM(1), Merkley MA, Khichi SS, Lee JR, Psyrri A, Jackson LL, Dynan WS.
+
+Author information: 
+(1)Department of Otolaryngology, Medical College of Georgia, Augusta, Georgia,
+USA.
+
+OBJECTIVES/HYPOTHESIS: Mortality for black males with head and neck squamous cell
+carcinoma (HNSCC) is twice that of white males or females. Human papillomavirus
+(HPV)-active HNSCC, defined by the concurrent presence of high-risk type HPV DNA 
+and host cell p16(INK4a) expression, is associated with decreased mortality. We
+hypothesized that prevalence of this HPV-active disease class would be lower in
+black HNSCC patients compared to white patients.
+STUDY DESIGN: Multi-institutional retrospective cohort analysis.
+METHODS: Real-time polymerase chain reaction was used to evaluate for high-risk
+HPV DNA presence. Immunohistochemistry for p16(INK4a) protein was used as a
+surrogate marker for HPV oncoprotein activity. Patients were classified as
+HPV-negative (HPV DNA-negative, p16(INK4a) low), HPV-inactive (HPV DNA-positive, 
+p16(INK4a) low), and HPV-active (HPV DNA-positive, p16(INK4a) high). Overall
+survival and recurrence rates were compared by Fisher exact test and Kaplan-Meier
+analysis.
+RESULTS: There were 140 patients with HNSCC who met inclusion criteria.
+Self-reported ethnicity was white (115), black (25), and other (0). Amplifiable
+DNA was recovered from 102/140 patients. The presence of HPV DNA and the level of
+p16(INK4a) expression were determined, and the results were used to classify
+these patients as HPV-negative (44), HPV-inactive (33), and HPV-active (25).
+Patients with HPV-active HNSCC had improved overall 5-year survival (59.7%)
+compared to HPV-negative and HPV-inactive patients (16.9%) (P = .003). Black
+patients were less likely to have HPV-active disease (0%) compared to white
+patients (21%) (P = .017).
+CONCLUSIONS: The favorable HPV-active disease class is less common in black than 
+in white patients with HNSCC, which appears to partially explain observed ethnic 
+health disparities.
+
+DOI: 10.1002/lary.20984 
+PMCID: PMC3051373
+PMID: 20564751  [Indexed for MEDLINE]

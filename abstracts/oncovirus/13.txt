@@ -1,0 +1,47 @@
+
+
+13. Viruses. 2015 Mar 31;7(4):1651-66. doi: 10.3390/v7041651.
+
+Tenth International Foamy Virus Conference 2014--achievements and perspectives.
+
+Materniak M(1), Kubiś P(2), Rola-Łuszczak M(3), Khan AS(4), Buseyne F(5),
+Lindemann D(6), Löchelt M(7), Kuźmak J(8).
+
+Author information: 
+(1)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland. magdalena.materniak@piwet.pulawy.pl.
+(2)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland. kubip@piwet.pulawy.pl.
+(3)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland.
+(4)Laboratory of Retroviruses, Division of Viral Products, OVRR, CBER, U.S. Food 
+and Drug Administration, Silver Spring, MD 20993, USA. arifa.khan@fda.hhs.gov.
+(5)Unité d'épidémiologie et Physiopathologie des Virus Oncogènes, Institut
+Pasteur, 75015 Paris, France. florence.buseyne@pasteur.fr.
+(6)Institute of Virology, Medical Faculty "Carl Gustav Carus", Technische
+Universität Dresden, 01307 Dresden, Germany. Dirk.Lindemann@tu-dresden.de.
+(7)Department of Genome Modifications and Carcinogenesis, German Cancer Research 
+Center, 69121 Heidelberg, Germany. m.loechelt@dkfz.de.
+(8)Department of Biochemistry, National Veterinary Research Institute, 24-100
+Pulawy, Poland. jkuzmak@piwet.pulawy.pl.
+
+For the past two decades, scientists from around the world, working on different 
+aspects of foamy virus (FV) research, have gathered in different research
+institutions almost every two years to present their recent results in formal
+talks, to discuss their ongoing studies informally, and to initiate fruitful
+collaborations. In this report we review the 2014 anniversary conference to share
+the meeting summary with the virology community and hope to arouse interest by
+other researchers to join this exciting field. The topics covered included
+epidemiology, virus molecular biology, and immunology of FV infection in
+non-human primates, cattle, and humans with zoonotic FV infections, as well as
+recent findings on endogenous FVs. Several topics focused on virus replication
+and interactions between viral and cellular proteins. Use of FV in biomedical
+research was highlighted with presentations on using FV vectors for gene therapy 
+and FV proteins as scaffold for vaccine antigen presentation. On behalf of the FV
+community, this report also includes a short tribute to commemorate Prof. Axel
+Rethwilm, one of the leading experts in the field of retrovirology and foamy
+viruses, who passed away 29 July 2014.
+
+DOI: 10.3390/v7041651 
+PMCID: PMC4411671
+PMID: 25835535  [Indexed for MEDLINE]

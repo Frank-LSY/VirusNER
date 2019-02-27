@@ -1,0 +1,48 @@
+
+
+149. Papillomavirus Res. 2018 Dec;6:58-62. doi: 10.1016/j.pvr.2018.10.006. Epub 2018
+Nov 1.
+
+Human papillomavirus in head and neck squamous cell carcinomas in a South African
+cohort.
+
+Sekee TR(1), Burt FJ(2), Goedhals D(2), Goedhals J(3), Munsamy Y(1), Seedat
+RY(4).
+
+Author information: 
+(1)Division of Virology, Faculty of Health Sciences, University of the Free
+State, Bloemfontein, South Africa.
+(2)Division of Virology, Faculty of Health Sciences, University of the Free
+State, Bloemfontein, South Africa; Division of Virology, National Health
+Laboratory Service Universitas, Bloemfontein, South Africa.
+(3)Department of Anatomical Pathology, Faculty of Health Sciences, University of 
+the Free State, Bloemfontein, South Africa; Department of Anatomical Pathology,
+National Health Laboratory Service Universitas, Bloemfontein, South Africa.
+(4)Department of Otorhinolaryngology, Faculty of Health Sciences, University of
+the Free State, Bloemfontein, South Africa; Department of Otorhinolaryngology,
+Universitas Academic Hospital, Bloemfontein, South Africa. Electronic address:
+SeedatRY@ufs.ac.za.
+
+BACKGROUND: Most tumours of the head and neck are attributable to smoking and
+alcohol use, but an increasing proportion of head and neck tumours are caused by 
+human papillomaviruses (HPVs). The aim of this study was to use in house
+molecular assays to detect and genotype HPV in biopsies from patients with
+histologically confirmed head and neck squamous cell carcinomas. In addition, the
+results were compared with p16 immunohistochemistry staining, which has been
+described as a potential marker for HPV infection.
+METHODS: Biopsies of squamous cell carcinomas of the oropharynx, nasopharynx,
+larynx and hypopharynx from 112 South African patients were screened using three 
+PCR assays targeting the L1 and E6 regions of HPV and p16 immunohistochemical
+staining.
+RESULTS AND CONCLUSION: HPV was identified in 7 (6.3%) tumours, while 22 (19.6%) 
+had positive p16 immunohistochemical staining. There was concordance between the 
+results obtained using the three PCR assays. There was substantial agreement
+between the results of molecular tests and p16 immunohistochemistry for
+hypopharyngeal carcinomas, but only fair agreement for laryngeal and
+oropharyngeal carcinomas.
+
+Copyright © 2018 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pvr.2018.10.006 
+PMCID: PMC6232649
+PMID: 30391364  [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+
+
+167. Head Neck Pathol. 2012 Jul;6 Suppl 1:S3-15. doi: 10.1007/s12105-012-0367-2. Epub 
+2012 Jul 3.
+
+Biology of human papillomavirus infections in head and neck carcinogenesis.
+
+Rautava J(1), Syrjänen S.
+
+Author information: 
+(1)Department of Oral Pathology, Faculty of Medicine, Institute of Dentistry,
+University of Turku, Lemminkäisenkatu 2, 20880 Turku, Finland.
+
+The association between human papillomaviruses (HPV) and oral cancer was
+initially suggested nearly 30 years ago by us. Today, the research interest of
+head and neck squamous cell carcinoma (HNSCC) has substantially increased.
+HPV-associated HNSCC is considered a distinct clinical entity with better
+prognosis than the classical tobacco and alcohol associated cancers. HPV 16 seems
+to be the main genotype present in HNSCC and it most probably utilizes the same
+pathways in epithelial cell transformation as established for genital cancer.
+High-risk HPV E6 and E7 target the well characterized cellular proteins p53 and
+Rb, respectively. In addition, several other cellular targets of E6 and E7 have
+been identified. This review gives an overview on the biology of HPV which aids
+in dissecting the role of HPV in head and neck carcinogenesis. It also summarizes
+the possible pathways involved in creating new tools for diagnosis and therapy of
+HPV-associated HNSCC.
+
+DOI: 10.1007/s12105-012-0367-2 
+PMCID: PMC3394166
+PMID: 22782219  [Indexed for MEDLINE]

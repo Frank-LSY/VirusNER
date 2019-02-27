@@ -1,0 +1,41 @@
+
+
+732. Head Neck. 2016 Apr;38 Suppl 1:E2021-9. doi: 10.1002/hed.24372. Epub 2016 Feb 15.
+
+Association between FAT1 mutation and overall survival in patients with human
+papillomavirus-negative head and neck squamous cell carcinoma.
+
+Kim KT(1), Kim BS(1)(2), Kim JH(1)(3).
+
+Author information: 
+(1)Seoul National University Biomedical Informatics (SNUBI), Division of
+Biomedical Informatics, Seoul National University College of Medicine, Seoul,
+Korea.
+(2)Department of Pathology, National Medical Center, Seoul, Korea.
+(3)Systems Biomedical Informatics National Core Research Center (NCRC), Division 
+of Biomedical Informatics, Seoul National University College of Medicine, Seoul, 
+Korea.
+
+BACKGROUND: The purpose of this study was to characterize the mutation profile of
+FAT atypical cadherin 1 (FAT1) and determine the prognostic significance of FAT1 
+mutation for overall survival in patients with human papillomavirus
+(HPV)-negative head and neck squamous cell carcinoma (HNSCC).
+METHODS: Data were downloaded from The Cancer Genome Atlas (TCGA) and
+International Cancer Genome Consortium (ICGC) data portals and used as discovery 
+and validation sets. FAT1 mutational status was determined in 234 and 37 patients
+with HPV-negative HNSCC, respectively, and overall survival analysis was
+performed. For comparison, HPV-positive patients were also analyzed for overall
+survival.
+RESULTS: Most of the identified nonsynonymous somatic FAT1 mutations were
+loss-of-function mutations. FAT1 mutation was significantly associated with
+better overall survival in HPV-negative patients from both the TCGA cohort (p =
+.026) and the ICGC cohort (p = .047), but not in HPV-positive patients.
+CONCLUSION: FAT1 mutational status is a strong independent prognostic factor in
+patients with HPV-negative HNSCC. © 2016 The Authors Head & Neck Published by
+Wiley Periodicals, Inc. Head Neck 38: E2021-E2029, 2016.
+
+© 2016 The Authors Head & Neck Published by Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24372 
+PMCID: PMC5067633
+PMID: 26876381  [Indexed for MEDLINE]

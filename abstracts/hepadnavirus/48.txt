@@ -1,0 +1,37 @@
+
+
+48. Intervirology. 2014;57(3-4):141-50. doi: 10.1159/000360947. Epub 2014 Jul 15.
+
+Genotypes and genetic variability of hepatitis B virus.
+
+Kramvis A(1).
+
+Author information: 
+(1)Hepatitis Virus Diversity Research Programme (HVDRP), Department of Internal
+Medicine, Faculty of Health Sciences, University of the Witwatersrand,
+Johannesburg, South Africa.
+
+Sequence heterogeneity is a feature of hepatitis B virus (HBV), the prototype
+member of the family Hepadnaviridae. Based on an intergroup divergence of greater
+than 7.5% across the complete genome, HBV has been classified phylogenetically
+into 9 genotypes, A-I, with a putative 10th genotype 'J', isolated from a single 
+individual. With between approximately 4 and 8% intergroup nucleotide divergence 
+across the complete genome and good bootstrap support, genotypes A-D, F, H, and I
+are classified further into subgenotypes. There is a broad and highly
+statistically significant correlation between serological subtypes and genotypes,
+and in some cases, serological subtypes can be used to differentiate
+subgenotypes. The genotypes, and certain subgenotypes, have distinct geographical
+distributions and are important in both the clinical manifestation of infection
+and response to antiviral therapy. HBV genotypes/subgenotypes and genetic
+variability of HBV are useful in epidemiological and transmission studies,
+tracing human migrations, and in predicting the risk for the development of
+severe liver disease and response to antiviral therapy. Moreover, knowledge of
+the genotype/subgenotype is important in implementing preventative strategies.
+Thus, it is crucial that new strains are correctly assigned to their respective
+genotype/subgenotype and consistent, unambiguous, and generally accepted
+nomenclature is utilized.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000360947 
+PMID: 25034481  [Indexed for MEDLINE]

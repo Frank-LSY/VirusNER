@@ -1,0 +1,66 @@
+
+
+2545. Clin Ther. 2015 Jan 1;37(1):156-167.e4. doi: 10.1016/j.clinthera.2014.11.002.
+Epub 2014 Dec 6.
+
+Health utilities lost and risk factors associated with HPV-induced diseases in
+men and women: the HPV Italian collaborative study group.
+
+Marcellusi A(1), Capone A(2), Favato G(2), Mennini FS(3), Baio G(4), Haeussler
+K(4), Bononi M(5); HPV Italian Collaborative Study Group.
+
+Author information: 
+(1)CEIS - Economic Evaluation and HTA, Faculty of Economics, University of Rome
+"Tor Vergata", Rome, Italy; Department of Demography, "Sapienza" University of
+Rome, Rome, Italy. Electronic address: andrea.marcellusi@uniroma2.it.
+(2)Institute for Leadership and Management in Health, Kingston University London,
+London, United Kingdom.
+(3)CEIS - Economic Evaluation and HTA, Faculty of Economics, University of Rome
+"Tor Vergata", Rome, Italy; Institute for Leadership and Management in Health,
+Kingston University London, London, United Kingdom.
+(4)Department of Statistical Science, University College London, London, United
+Kingdom.
+(5)Department of Surgery Pietro Valdoni, "Sapienza" University of Rome, Rome,
+Italy.
+
+PURPOSE: A complete economic evaluation requires accurate data concerning the
+resources used, outcomes, and utilities (patient's preferences) to properly value
+the cost utility of human papillomavirus (HPV) vaccination strategies. This study
+was designed to measure the utility loss in health states affected by a broad
+range of HPV-induced pathologies in both sexes in Italy. As a secondary
+objective, risk factors influencing the viral transmission and development of HPV
+infections were also investigated.
+METHODS: Patients with a diagnosis of several HPV-induced pathologies including
+atypical squamous cells of undetermined significance (ASC-US), cervical
+intraepithelial neoplasia (CIN), cervical and anal-colorectal cancer, head and
+neck squamous cell carcinoma (HNSCC) and anogenital warts (AWs) were evaluated.
+Utilities, quality of life, and risk factors were elicited using a standardized
+and computer-guided administration of time trade-off, European Quality of Life 5 
+Dimensions (EQ-5D), 3 levels, and risk factor questionnaires. Utilities were
+measured at 6 clinical research centers across Italy. A group of healthy subjects
+was used as a control. A mean number of 20 healthy subjects was used as a control
+for each pathology group.
+FINDINGS: Overall, 600 respondents were eligible for analysis: 465 patients (mean
+[SD] age, 44.0 [16.3] years) and 135 controls (mean [SD] age, 44.0 [13.2] years).
+With the exception of anal and HNSCC cancer, no statistically significant
+differences were observed between case and control groups, in terms of either age
+or quality of life at the time of interview. The patients' perception of their
+health condition at baseline was equal to an EQ-5D score of 0.87 (0.22). The mean
+(SD) value of utilities associated with the HPV-induced pathologies corresponded 
+to 0.83 (0.24), 0.78 (0.27), 0.83 (0.22), 0.81 (0.27), 0.58 (0.31), 0.51 (0.26), 
+and 0.69 (0.30) for ASC-US, AWs, CIN 1 (mild), CIN 2-3 (moderate to severe),
+cervical cancer, anal cancer and HNSCC, respectively. Utility lost due to AWs was
+significantly higher in females compared with males (0.71 [0.29] vs 0.83 [0.25]; 
+P = 0.018). Having >5 sexual partners increased the risk of acquiring HPV-induced
+infections as much as 2.52-fold (P = 0.004), whereas for smoking or the age at
+start of sexual activity younger than 18 years, the risk increased by ~1.62-fold 
+(P = 0.034). High levels of education were associated with a statistically
+significant protective effect (P < 0.001).
+IMPLICATIONS: Risk factors and utilities elicited in this study can be used as
+part of future economic assessments of other HPV vaccination strategies,
+including an immunization program for preadolescents of both sexes in Italy.
+
+Copyright © 2015 Elsevier HS Journals, Inc. All rights reserved.
+
+DOI: 10.1016/j.clinthera.2014.11.002 
+PMID: 25487083  [Indexed for MEDLINE]

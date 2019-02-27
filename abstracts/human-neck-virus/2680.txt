@@ -1,0 +1,35 @@
+
+
+2680. Acta Otolaryngol. 2011 Sep;131(9):1008-11. doi: 10.3109/00016489.2011.575796.
+Epub 2011 May 4.
+
+Increased incidence of oropharyngeal cancer and p16 expression.
+
+Lundberg M(1), Leivo I, Saarilahti K, Mäkitie AA, Mattila PS.
+
+Author information: 
+(1)Department of Otorhinolaryngology - Head and Neck Surgery, Helsinki University
+Central Hospital, University of Helsinki, Finland. marie.lundberg@helsinki.fi
+
+CONCLUSIONS: The incidence of oropharyngeal squamous cell cancer (OPSCC) in
+Finland has increased during the past decades. A similar change has been seen in 
+the relative frequency of p16-positive head and neck squamous cell carcinoma
+(HNSCC). As p16 is a surrogate marker for human papilloma virus (HPV) infection, 
+and as most p16-positive HNSCCs are OPSCC, HPV infection may have had a role in
+the observed increased incidence of OPSCC.
+OBJECTIVES: Numerous studies have shown that HPV is an independent risk factor
+for OPSCC. We aimed to use p16 as a surrogate marker of HPV infection to study
+its role as a possible risk factor in OPSCC. Furthermore, the change in the
+incidence of OPSCC in Finland was studied.
+METHODS: HPV status was determined by p16 immunohistochemistry of 135 HNSCC
+tumour specimens retrieved from patients treated at the Helsinki University
+Central Hospital. Incidence data on OPSCC were obtained from the Finnish Cancer
+Registry.
+RESULTS: The incidence of OPSCC in Finland increased from 0.66/100 000
+person-years during 1989-1993 to 1.36 during 2004-2008. During the same period a 
+significant increase in the relative frequency of p16 positive HNSCC tumours from
+22% during 1990-1999 to 41% during 2000-2007 could be seen at our institution. In
+all, 85% of the p16-positive specimens were OPSCC.
+
+DOI: 10.3109/00016489.2011.575796 
+PMID: 21542673  [Indexed for MEDLINE]

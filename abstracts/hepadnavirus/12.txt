@@ -1,0 +1,41 @@
+
+
+12. PLoS One. 2017 Oct 24;12(10):e0186982. doi: 10.1371/journal.pone.0186982.
+eCollection 2017.
+
+PRMT5: A novel regulator of Hepatitis B virus replication and an arginine
+methylase of HBV core.
+
+Lubyova B(1), Hodek J(1), Zabransky A(1), Prouzova H(1), Hubalek M(1), Hirsch
+I(1)(2), Weber J(1).
+
+Author information: 
+(1)Institute of Organic Chemistry and Biochemistry of the Czech Academy of
+Sciences, IOCB & Gilead Research Center, Prague, Czech Republic.
+(2)Dept. Genetics and Microbiology, Faculty of Sciences, Charles University,
+Prague, Czech Republic.
+
+In mammals, protein arginine methyltransferase 5, PRMT5, is the main type II
+enzyme responsible for the majority of symmetric dimethylarginine formation in
+polypeptides. Recent study reported that PRMT5 restricts Hepatitis B virus (HBV) 
+replication through epigenetic repression of HBV DNA transcription and
+interference with encapsidation of pregenomic RNA. Here we demonstrate that PRMT5
+interacts with the HBV core (HBc) protein and dimethylates arginine residues
+within the arginine-rich domain (ARD) of the carboxyl-terminus. ARD consists of
+four arginine rich subdomains, ARDI, ARDII, ARDIII and ARDIV. Mutation analysis
+of ARDs revealed that arginine methylation of HBc required the wild-type status
+of both ARDI and ARDII. Mass spectrometry analysis of HBc identified multiple
+potential ubiquitination, methylation and phosphorylation sites, out of which
+lysine K7 and arginines R150 (within ARDI) and R156 (outside ARDs) were shown to 
+be modified by ubiquitination and methylation, respectively. The HBc symmetric
+dimethylation appeared to be linked to serine phosphorylation and nuclear import 
+of HBc protein. Conversely, the monomethylated HBc retained in the cytoplasm.
+Thus, overexpression of PRMT5 led to increased nuclear accumulation of HBc, and
+vice versa, down-regulation of PRMT5 resulted in reduced levels of HBc in nuclei 
+of transfected cells. In summary, we identified PRMT5 as a potent controller of
+HBc cell trafficking and function and described two novel types of HBc
+post-translational modifications (PTMs), arginine methylation and ubiquitination.
+
+DOI: 10.1371/journal.pone.0186982 
+PMCID: PMC5655436
+PMID: 29065155  [Indexed for MEDLINE]

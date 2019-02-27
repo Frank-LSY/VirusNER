@@ -1,0 +1,40 @@
+
+
+1458. Sci Rep. 2015 Nov 13;5:16657. doi: 10.1038/srep16657.
+
+TMEM16A/ANO1 is differentially expressed in HPV-negative versus HPV-positive head
+and neck squamous cell carcinoma through promoter methylation.
+
+Dixit R(1), Kemp C(1), Kulich S(2), Seethala R(3), Chiosea S(3), Ling S(4), Ha
+PK(4), Duvvuri U(1)(2).
+
+Author information: 
+(1)Department of Otolaryngology, University of Pittsburgh, Pittsburgh,
+Pennsylvania USA.
+(2)VA Pittsburgh Healthcare System, Pittsburgh, Pennsylvania USA.
+(3)Department of Pathology, University of Pittsburgh, Pittsburgh, Pennsylvania
+USA.
+(4)Department of Otolaryngology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland USA.
+
+Head and neck squamous cell carcinoma (HNSCC) has a variety of causes. Recently, 
+the human papilloma virus (HPV) has been implicated in the rising incidence of
+oropharyngeal cancer and has led to variety of studies exploring the differences 
+between HPV-positive and HPV-negative HNSCC. The calcium-activated chloride
+channel TMEM16A is overexpressed in a variety of cancers, including HNSCC, but
+whether or not it plays different roles in HPV-positive and HPV-negative HNSCC is
+unknown. Here, we demonstrate that TMEM16A is preferentially overexpressed in
+HPV-negative HNSCC and that this overexpression of TMEM16A is associated with
+decreased patient survival. We also show that TMEM16A expression is decreased in 
+HPV-positive HNSCC at the DNA, RNA, and protein levels in patient samples as well
+as cell lines. We demonstrate that the lower levels of TMEM16A expression in
+HPV-positive tumors can be attributed to both a combination of copy number
+alteration and promoter methylation at the DNA level. Additionally, our cellular 
+data show that HPV-negative cell lines are more dependent on TMEM16A for survival
+than HPV-positive cell lines. Therefore, we suspect that the down-regulation of
+TMEM16A in HPV-positive HNSCC makes TMEM16A a poor therapeutic target in
+HPV-positive HNSCC, but a potentially useful target in HPV-negative HNSCC.
+
+DOI: 10.1038/srep16657 
+PMCID: PMC4643216
+PMID: 26563938  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+1353. Head Neck. 2016 Apr;38 Suppl 1:E694-704. doi: 10.1002/hed.24072. Epub 2015 Jun
+15.
+
+Human papillomavirus status and gene expression profiles of oropharyngeal and
+oral cancers from European American and African American patients.
+
+Tomar S(1), Graves CA(1), Altomare D(2), Kowli S(1), Kassler S(2), Sutkowski
+N(3), Gillespie MB(4), Creek KE(2), Pirisi L(1).
+
+Author information: 
+(1)Department of Pathology, Microbiology, and Immunology, University of South
+Carolina School of Medicine, Columbia, South Carolina.
+(2)Department of Drug Discovery and Biomedical Sciences, South Carolina College
+of Pharmacy, University of South Carolina, Columbia, South Carolina.
+(3)Department of Microbiology and Immunology, Medical University of South
+Carolina, Columbia, South Carolina.
+(4)Department of Otolaryngology and Head and Neck Surgery, Medical University of 
+South Carolina, Charleston, South Carolina.
+
+BACKGROUND: Disparities in prevalence, human papillomavirus (HPV) status, and
+mortality rates for head and neck cancer have been described between African
+American and European American patients.
+METHODS: We studied the HPV status and gene expression profiles in 56
+oropharyngeal/oral cavity tumors and 9 normal tissue samples from European
+American and African American patients treated in South Carolina between 2010 and
+2012.
+RESULTS: Overall, 59% of tumors were HPV DNA-positive, but only 48% of those
+expressed E7 mRNA (HPV-active). The prevalence of HPV-active tumors was 10% in
+African American patients and 39% in European American patients. Tumors positive 
+for HPV DNA but negative for HPV mRNA exhibited gene expression profiles distinct
+from those of both HPV-active and HPV-negative cancers, suggesting that HPV
+DNA-positive/RNA-negative tumors may constitute a unique group.
+CONCLUSION: This study provides a direct assessment of differential expression
+patterns in HPV-related oropharyngeal cancer arising from African American and
+European American patients, for which there is a paucity of data. © 2015 Wiley
+Periodicals, Inc. Head Neck 00: 000-000, 2015.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24072 
+PMCID: PMC4615317
+PMID: 25899179  [Indexed for MEDLINE]

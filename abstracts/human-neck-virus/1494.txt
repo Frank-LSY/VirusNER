@@ -1,0 +1,80 @@
+
+
+1494. Am J Surg Pathol. 2017 Dec;41(12):1690-1701. doi: 10.1097/PAS.0000000000000944.
+
+HPV-related Multiphenotypic Sinonasal Carcinoma: An Expanded Series of 49 Cases
+of the Tumor Formerly Known as HPV-related Carcinoma With Adenoid Cystic
+Carcinoma-like Features.
+
+Bishop JA(1), Andreasen S, Hang JF, Bullock MJ, Chen TY, Franchi A, Garcia JJ,
+Gnepp DR, Gomez-Fernandez CR, Ihrler S, Kuo YJ, Lewis JS Jr, Magliocca KR,
+Pambuccian S, Sandison A, Uro-Coste E, Stelow E, Kiss K, Westra WH.
+
+Author information: 
+(1)*Departments of Pathology, Oncology, and Otolaryngology-Head and Neck Surgery,
+The Johns Hopkins University, Baltimore, MD †Department of Pathology, University 
+of Texas Southwestern Medical Center, Dallas, TX Departments of
+‡Otorhinolaryngology Head & Neck Surgery and Audiology ¶¶¶Pathology, Copenhagen
+University Hospital, Copenhagen §Department of Otorhinolaryngology and
+Maxillofacial Surgery, Zealand University Hospital, Køge, Denmark ∥Department of 
+Pathology and Laboratory Medicine, Taipei Veterans General Hospital ¶School of
+Medicine, National Yang-Ming University, Taipei, Taiwan #Department of Pathology,
+Dalhousie University, Halifax, NS, Canada **Mayo Clinic School of Medicine, Mayo 
+Clinic ‡‡Department of Laboratory Medicine and Pathology, Mayo Clinic Rochester, 
+Rochester, MN ††Department of Translational Research and New Technologies in
+Medicine, University of Pisa, Pisa, Italy §§Department of Pathology, Warren
+Alpert School of Medicine at Brown University (retired), Providence, RI
+∥∥Department of Pathology, University of Miami, Miami, FL ¶¶Laboratory for
+Dermatohistology and Oral Pathology, Munich, Germany ##Department of Pathology,
+Microbiology, and Immunology, Vanderbilt University Medical Center, Nashville, TN
+***Department of Pathology and Laboratory Medicine, Emory University, Atlanta, GA
+†††Department of Pathology, Loyola University Medical Center, Chicago, IL
+‡‡‡Department of Pathology, Imperial College, London, United Kingdom
+§§§Department of Pathology, University of Toulouse, Toulouse, France
+∥∥∥Department of Pathology, University of Virginia, Charlottesville, VA.
+
+Human papillomavirus (HPV)-related multiphenotypic sinonasal carcinoma (HMSC),
+originally known as HPV-related carcinoma with adenoid cystic carcinoma-like
+features, is a peculiar neoplasm that is restricted to the sinonasal tract,
+exhibits features of both a surface-derived and salivary gland carcinoma
+(particularly adenoid cystic carcinoma), and is associated with high-risk HPV.
+Given the limited number of published cases, the full clinicopathologic spectrum 
+of this neoplasm is unclear. Here, we present an updated experience of 49 cases. 
+All cases of HMSC were obtained from the authors' files. Immunohistochemistry for
+p16, c-kit, and myoepithelial cell markers (S100, actin, calponin, p63, and/or
+p40) was performed along with RNA in situ hybridization for HPV (type 33-specific
+as well as a high-risk cocktail). Fluorescence in situ hybridization studies for 
+fusions of MYB, NFIB, and MYBL1 was performed on a subset of cases. Clinical
+follow-up was obtained from medical records. A total of 49 cases of HMSC were
+collected. Twenty-eight (57%) were from women and 18 (43%) from men, ranging in
+age from 28 to 90 years (mean, 54 y). Of 40 cases with detailed staging
+information, 43% of HMSCs presented with a high T-stage (T3 or T4).
+Histologically, most grew predominantly as solid nests of basaloid cells
+exhibiting high mitotic rates and frequent necrosis, with histologic and
+immunohistochemical evidence of myoepithelial differentiation. Most cases also
+demonstrated foci of cribriform and/or tubular growth, along with an
+inconspicuous population of ducts. Thirty-four (69%) cases demonstrated an
+unusual pattern of surface involvement where markedly atypical squamous cells
+colonized tracts of the sinonasal mucosa. Less consistent histologic features
+included squamous differentiation within the invasive tumor (n=6), sarcomatoid
+transformation (n=5) including overt chondroid differentiation (n=3), and
+prominent epithelial-myoepithelial carcinoma-like growth (n=3). All cases were
+positive for p16 by immunostaining and HPV by RNA in situ hybridization.
+Thirty-three (67%) were positive for HPV 33. No cases tested for MYB, MYBL1, or
+NFIB gene fusions were positive. In the 38 cases with follow-up data, (mean
+follow-up, 42 mo) 14 recurred locally and 2 metastasized (lung, finger). There
+were no regional lymph node metastases, and no tumor-related deaths. HMSC is a
+distinct sinonasal neoplasm characterized by myoepithelial differentiation,
+frequent surface epithelial involvement, and the presence of high-risk HPV
+(especially type 33). Although it classically exhibits a cribriforming pattern
+that closely resembles adenoid cystic carcinoma, our expanded series highlights a
+histologic spectrum that is much broader than previously recognized, warranting a
+change in terminology. HMSC usually presents as a large and destructive sinonasal
+mass with high-grade histologic features, but it paradoxically behaves in a
+relatively indolent manner, underscoring the importance of distinguishing HMSC
+from true adenoid cystic carcinoma, squamous cell carcinoma, and other histologic
+mimickers.
+
+DOI: 10.1097/PAS.0000000000000944 
+PMCID: PMC5680105
+PMID: 28877065  [Indexed for MEDLINE]

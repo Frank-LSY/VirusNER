@@ -1,0 +1,39 @@
+
+
+2978. Mol Cancer Ther. 2012 Mar;11(3):594-603. doi: 10.1158/1535-7163.MCT-11-0725. Epub
+2011 Dec 14.
+
+A human Fab-based immunoconjugate specific for the LMP1 extracellular domain
+inhibits nasopharyngeal carcinoma growth in vitro and in vivo.
+
+Chen R(1), Zhang D, Mao Y, Zhu J, Ming H, Wen J, Ma J, Cao Q, Lin H, Tang Q,
+Liang J, Feng Z.
+
+Author information: 
+(1)Nanjing Medical University, The Key Laboratory of Cancer Biomarkers,
+Prevention & Treatment Cancer Center, The Key Laboratory of Antibody Technique of
+Ministry of Health and The Second Affiliated Hospital, Department of
+Otolaryngology Head and Neck Surgery, 140 Hanzhong Road, Nanjing 210029, China.
+
+Nasopharyngeal carcinoma (NPC) is a major cause of cancer-related death in
+Southeast Asia and China. Metastasis and relapse are the primary cause of
+morbidity and mortality in NPC. Recent evidence suggests that the Epstein-Barr
+virus latent membrane protein 1 (LMP1) is exclusively expressed in most NPC and
+is a potential target for biotherapy. In this study, we successfully prepared a
+novel human antibody Fab (HLEAFab) against LMP1 extracellular domain, which was
+subsequently conjugated with mitomycin C (MMC), thus forming an immunoconjugate
+(HLEAFab-MMC). The effects of HLEAFab-MMC on proliferation and apoptosis in NPC
+cell lines HNE2/LMP1 and the inhibition rate of growth of NPC xenografts in nude 
+mice were examined. The inhibition rate of HNE2/LMP1 cell proliferation was the
+highest for HLEAFab-MMC (76%) compared with MMC (31%) and HLEAFab (22%) at a
+concentration of 200 nmol/L and showed dose-dependent fashion. The apoptosis rate
+of HNE2/LMP1 cell lines was 13.88% in HLEAFab-MMC group, 3.04% in MMC group,
+2.78% in HLEAFab group, and 2.10% in negative control group at the same
+concentration, respectively. In vivo, the inhibition rate of growth of NPC
+xenografts in nude mice was 55.1% in HLEAFab-MMC group, 26.5% in MMC group, and
+5.64% in HLEAFab group. In summary, our findings show that HLEAFab-MMC is a
+unique immunoconjugate with the potential as a novel therapeutic agent in the
+treatment of LMP1-expressing NPC.
+
+DOI: 10.1158/1535-7163.MCT-11-0725 
+PMID: 22169768  [Indexed for MEDLINE]

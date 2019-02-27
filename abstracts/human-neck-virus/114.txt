@@ -1,0 +1,55 @@
+
+
+114. PLoS One. 2017 Aug 11;12(8):e0180683. doi: 10.1371/journal.pone.0180683.
+eCollection 2017.
+
+Seroprevalence of IgA anti Epstein-Barr virus is high among family members of
+nasopharyngeal cancer patients and individuals presenting with chronic complaints
+in head and neck area.
+
+Hutajulu SH(1), Fachiroh J(2), Argy G(3), Indrasari SR(4), Indrawati LPL(4),
+Paramita DK(2), Jati TBR(5), Middeldorp JM(6).
+
+Author information: 
+(1)Division of Hematology and Medical Oncology, Department of Internal Medicine, 
+Faculty of Medicine, Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta,
+Indonesia.
+(2)Department of Histology and Cell Biology, Faculty of Medicine, Universitas
+Gadjah Mada, Yogyakarta, Indonesia.
+(3)Study Program of Medicine, Faculty of Medicine, Universitas Gadjah Mada,
+Yogyakarta, Indonesia.
+(4)Department of Otorhinolaryngology Head and Neck Surgery, Faculty of Medicine, 
+Universitas Gadjah Mada/Dr. Sardjito Hospital, Yogyakarta, Indonesia.
+(5)Field Epidemiology Training Program, Department of Public Health, Faculty of
+Medicine, Universitas Gadjah Mada, Yogyakarta, Indonesia.
+(6)Department of Pathology, VU University Medical Center, Amsterdam, The
+Netherlands.
+
+Epstein-Barr (EBV) infection and presence of a nasopharyngeal cancer (NPC) case
+in the family increases the risk of developing NPC. Aberrant anti-EBV
+immunoglobulin A (IgA) antibodies (EBV-IgA) may be present in the sera of
+non-cancer individuals and predict NPC. Limited studies report the presence of
+EBV-IgA antibodies within non-cancer individuals in Indonesia where the disease
+is prevalent. This study aimed at exploring whether EBV-IgA was found more
+frequently among first degree relatives of NPC patients and individuals
+presenting with chronic symptoms in the head and neck area compared to healthy
+controls. A total of 967 non-cancer subjects were recruited, including 509 family
+members of NPC cases, 196 individuals having chronic complaints in the head and
+neck region, and 262 healthy donors of the local blood bank. Sera were analyzed
+using a standardized peptide-based EBV-IgA ELISA. Overall, 61.6% of all
+individuals had anti-EBV IgA reactivity equal to or below cut off value (CoV).
+Seroreactivity above CoV was significantly higher in females (38.7%) compared to 
+males (28.7%) (p = 0.001). Older individuals had more seroreactivity above CoV
+(42.5%) than the younger ones (26.4%) (p< 0.001). Seroprevalence was
+significantly higher in family members of NPC patients (41.7%), compared to 32.7%
+of individuals with chronic head and neck problems (p = 0.028) and 16.4% healthy 
+blood donors (p< 0.001). As conclusion, this study showed a significant higher
+seroprevalence in healthy family members of NPC cases and subjects presenting
+with chronic symptoms in the head and neck area compared to healthy individuals
+from the general community. This finding indicates that both groups have elevated
+risk of developing NPC and may serve as targets for a regional NPC screening
+program.
+
+DOI: 10.1371/journal.pone.0180683 
+PMCID: PMC5553716
+PMID: 28800616  [Indexed for MEDLINE]

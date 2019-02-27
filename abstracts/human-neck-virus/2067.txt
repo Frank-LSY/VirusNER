@@ -1,0 +1,27 @@
+
+
+2067. Indian J Cancer. 2017 Jan-Mar;54(1):2-5. doi: 10.4103/ijc.IJC_170_17.
+
+Is pulmonary metastasectomy beneficial in head and neck squamous cell carcinoma? 
+A review of literature.
+
+Subramaniam NR(1), Reddy R(2), Balasubramanian D(1), Thankappan K(1), Iyer S(1).
+
+Author information: 
+(1)Department of Head and Neck Oncology, Amrita Institute of Medical Sciences,
+Amrita University, Kochi, Kerala, India.
+(2)Department of Surgery, University of Sydney, Sydney, Australia.
+
+Metastatic head and neck squamous cell carcinoma (HNSCC) has traditionally
+carried a dismal prognosis; however with advances in care, it has been shown that
+pulmonary metastasectomy is a viable therapeutic option in selected patients,
+palliating symptoms and improving survival. With the increasing incidence of
+human papilloma virus-related HNSCC and better availability of minimal access
+surgery, there is a need to better understand the role of pulmonary
+metastasectomy in the treatment of HNSCC. This article summarizes the literature 
+on indications, results, surgical options and approaches, clinical dilemmas, and 
+controversies associated with pulmonary metastasectomy in HNSCC, to identify
+suitable candidates and optimize outcomes.
+
+DOI: 10.4103/ijc.IJC_170_17 
+PMID: 29199651  [Indexed for MEDLINE]

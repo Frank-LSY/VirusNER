@@ -1,0 +1,37 @@
+
+
+885. J Med Virol. 2009 Nov;81(11):1975-81. doi: 10.1002/jmv.21627.
+
+Investigation of the occurrence of torque tenovirus in malignant and potentially 
+malignant disorders associated with human papillomavirus.
+
+Fehér E(1), Gáll T, Murvai M, Kis A, Boda R, Sápy T, Tar I, Gergely L, Szarka K.
+
+Author information: 
+(1)Department of Medical Microbiology, Medical and Health Science Centre,
+University of Debrecen, Debrecen H-4032, Hungary.
+
+In a previous pilot study, a significantly poorer outcome of laryngeal cancer was
+found in patients co-infected with human papillomavirus (HPV) and genogroup 1
+torque tenovirus (TTV). The present study aimed to collect data on the overall
+prevalence of TTVs on the prevalence of genogroup 1 TTV in two other malignancies
+associated with HPV, oral squamous cell cancer and cervical cancer, and in oral
+and cervical premalignant lesions (oral lichen planus, oral leukoplakia, cervical
+atypia). Oral samples from all patients were accompanied with a sample from the
+healthy mucosa. The overall prevalence of TTV was significantly higher both in
+oral squamous cell cancer and cervical cancer compared with other patient groups 
+or with the respective controls. The prevalence of genogroup 1 TTV was
+significantly higher in lesions of oral squamous cell cancer and oral lichen
+planus, but not in lesions of oral leukoplakia (24.6%, 10.1%, and 4.5%,
+respectively), compared with the prevalence in the oral cavity of controls
+(1.4%). Co-infection rates with genogroup 1 TTV and HPV were significantly higher
+in oral squamous cell cancer than in controls, oral lichen planus or oral
+leukoplakia patients (12.3%, 0.0%, 6.7%, and 4.5%, respectively). The prevalence 
+of genogroup 1 TTV in all cervical samples were comparable. These data suggest
+that genogroup 1 TTV may be associated specifically with some head and neck
+mucosal disorders, but disproves a (co)carcinogenic role in oral cancer or
+cervical cancer as well as an association with HPV or with malignancies
+associated with HPV.
+
+DOI: 10.1002/jmv.21627 
+PMID: 19774682  [Indexed for MEDLINE]

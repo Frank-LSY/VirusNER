@@ -1,0 +1,37 @@
+
+Conflict of interest statement: The author reports no conflicts of interest in
+this work.
+
+
+1140. Vopr Virusol. 2016;61(5):205-12.
+
+Diagnostic value of the Epstein-Barr virus serological markers in patients with
+nasopharyngeal carcinoma in cases of undetectable primary tumor location.
+
+Gurtsevitch VE, Senyuta NB, Lomaya MV, Ignatova AV, Dushenkina TE, Repkina IA,
+Pavlovskaya AI, Mudunov AM.
+
+The goal of this work was to describe a method for diagnosis of the
+non-keratinizing nasopharyngeal carcinoma (nNPC) in cases of the undetectable
+primary tumor location. The method is based on evaluation of IgG and IgA antibody
+levels to the capsid (VCA) and early antigens (EA) of the Epstein-Barr virus
+(EBV). The diagnosis of nNPC is established by a so-called decision rule. The
+latter was created by mathematical processing of the method of multifactor
+analysis of the results of anti-EBV antibody testing of 72 patients with
+clinically and morphologically confirmed nNPC and 72 patients with other head and
+neck benign tumors (OHNT) not associated with EBV, which were tested as a control
+group. The diagnostic value of the decision rule which was tested in the group of
+77 patients with confirmed nNPC and 231 patients of a control group was high. The
+numbers of false negative and false positive cases were equal to 5.2% (4/77) and 
+6.5% (17/231), respectively. Among 32 patients with undetectable primary tumors
+the decision rule was able to identify 11 cases of nNPC. This diagnosis later was
+confirmed by morphological and instrumental methods of study. Only in two cases, 
+false negative result was obtained (2/32; 6.3%) indicating that the serological
+diagnostics of nNPC with the decision rule is highly specific but not exact.
+Thus, the data obtained allowed us to conclude that the serological testing of
+EBV specific antibody evaluated by the decision rule can be recommended as an
+important test supplementing the standard methods of pdNPC diagnostics including 
+cases with undetected primary tumor location.
+
+
+PMID: 29323852  [Indexed for MEDLINE]

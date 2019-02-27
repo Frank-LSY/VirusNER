@@ -1,0 +1,45 @@
+
+
+1784. Sci Rep. 2017 Jan 3;7:39765. doi: 10.1038/srep39765.
+
+Modifying effect of mouse double minute-2 promoter variants on risk of recurrence
+for patients with squamous cell carcinoma of oropharynx.
+
+Zhang Y(1)(2), Sturgis EM(1)(3), Li Y(1)(4), Wei Q(5), Huang Z(1)(2), Li G(1)(3).
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, USA.
+(2)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren Hospital, 
+Capital Medical University, Key Laboratory of Otolaryngology Head and Neck
+Surgery, Ministry of Education, Beijing Institute of Otolaryngology, Beijing,
+100730, China.
+(3)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, TX 77030, USA.
+(4)Department of Otorhinolaryngology, Union Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, 1277 Jiefang Avenue, Wuhan 430022,
+China.
+(5)Duke Cancer Institute, Duke University Medical Center, Durham, NC 27710, USA.
+
+Functional mouse double minute-2 (MDM2) promoter variants may alter MDM2
+expression and thus affect radiotherapy response and prognosis of squamous cell
+carcinoma of oropharynx (SCCOP). Thus we assessed association of 2 functional
+MDM2 promoter variants with recurrence risk of SCCOP. The disease-free survival
+(DFS) of patients with MDM2rs2279744 TT or MDM2rs937283 AA genotypes was
+significantly reduced compared with that of patients with corresponding GT/GG or 
+AG/GG genotypes. Multivariable analysis showed patients with TT or AA genotypes
+had a significantly higher risk of SCCOP recurrence than those with corresponding
+GT/GG or AG/GG genotypes did. Furthermore, patients with combined risk genotypes 
+of the 2 polymorphisms had significantly worse DFS and a higher recurrence risk
+than patients with fewer combined risk genotypes did (Ptrend < 0.001). Compared
+with patients with 0 risk genotypes, patients with 1 or 2 risk genotypes had an
+approximately 3- or 11-fold increased risk of SCCOP recurrence, respectively.
+Notably, for both individual and combined polymorphisms, the above similar
+recurrence risks were particularly higher among patients with human papilloma
+virus (HPV)-positive tumors. Taken together, our findings suggest that MDM2
+promoter variants individually, or more likely jointly, play a role in
+determining the risk of recurrence of SCCOP, particularly HPV-positive SCCOP.
+
+DOI: 10.1038/srep39765 
+PMCID: PMC5206622
+PMID: 28045062  [Indexed for MEDLINE]

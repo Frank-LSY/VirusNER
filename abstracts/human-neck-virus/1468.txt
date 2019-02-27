@@ -1,0 +1,44 @@
+
+
+1468. Otolaryngol Head Neck Surg. 2013 Aug;149(2):252-60. doi:
+10.1177/0194599813486599. Epub 2013 Apr 12.
+
+Head and neck cancer stem cells: the effect of HPV--an in vitro and mouse study.
+
+Tang AL(1), Owen JH, Hauff SJ, Park JJ, Papagerakis S, Bradford CR, Carey TE,
+Prince ME.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, University of Michigan,
+Ann Arbor, Michigan 48109, USA.
+
+OBJECTIVES: To determine if the behavior of cancer stem cells (CSCs) is affected 
+by human papillomavirus (HPV) status.
+STUDY DESIGN: An in vitro and in vivo analysis of HPV and CSCs.
+SETTING: University laboratory.
+SUBJECTS AND METHODS: We isolated CSCs from HPV-positive and HPV-negative cell
+lines. Two HPV-negative cell lines underwent lentiviral transduction of E6/E7.
+Chemoresistence was determined using colony formation assays. Native HPV-positive
+and HPV E6/E7-transduced cells were compared for lung colonization after tail
+vein injection in NOD/SCID mice.
+RESULTS: The proportion of CSC is not significantly different in HPV-positive or 
+HPV-negative head and neck squamous cell carcinoma (HNSCC) cell lines. The HNSCC 
+CSCs are more resistant to cisplatin than the non-CSCs, but there were no
+significant differences between HPV-positive and HPV-negative cells. The
+HPV-negative cancer cells yielded low colony formation after cell sorting. After 
+transduction with HPV E6/E7, increased colony formation was observed in both CSCs
+and non-CSCs. Results from tail vein injections yielded no differences in
+development of lung colonies between HPV E6/E7-transduced cells and nontransduced
+cells.
+CONCLUSIONS: Human papillomavirus status does not correlate with the proportion
+of CSCs present in HNSCC. The HPV-positive cells and those transduced with HPV
+E6/E7 have a greater clonogenicity than HPV-negative cells. The HNSCC CSCs are
+more resistant to cisplatin than non-CSCs. This suggests that common
+chemotherapeutic agents may shrink tumor bulk by eliminating non-CSCs, whereas
+CSCs have mechanisms that facilitate evasion of cell death. Human papillomavirus 
+status does not affect CSC response to cisplatin therapy, suggesting that other
+factors explain the better outcomes for patients with HPV-positive cancer.
+
+DOI: 10.1177/0194599813486599 
+PMCID: PMC4086879
+PMID: 23585151  [Indexed for MEDLINE]

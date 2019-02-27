@@ -1,0 +1,37 @@
+
+
+1464. Mol Cancer. 2017 Jun 29;16(1):113. doi: 10.1186/s12943-017-0678-8.
+
+Dual role for p16 in the metastasis process of HPV positive head and neck
+cancers.
+
+Dok R(1), Glorieux M(1), Holacka K(1), Bamps M(1), Nuyts S(2)(3).
+
+Author information: 
+(1)Department of Oncology, Laboratory of Experimental Radiotherapy, KU Leuven,
+University of Leuven, 3000, Leuven, Belgium.
+(2)Department of Oncology, Laboratory of Experimental Radiotherapy, KU Leuven,
+University of Leuven, 3000, Leuven, Belgium. sandra.nuyts@uzleuven.be.
+(3)Department of Radiation Oncology, Leuven Cancer Institute, UH Leuven,
+Herestraat 49 box 815, 3000, Leuven, Belgium. sandra.nuyts@uzleuven.be.
+
+Several studies show that human papillomavirus (HPV) positive head and neck
+cancers (HNSCC) are typically characterized by low tumor and high regional node
+stages, intrinsically indicating high local metastatic potential. Despite this,
+the distant metastasis rates of HPV positive and negative HNSCC are similar. To
+date, majority of the studies focus on molecular characterization of HPV positive
+disease and on treatment outcome. Here we assessed the biological mechanisms of
+metastasis by combining in vitro and in vivo head and neck carcinoma xenograft
+models with patient data. We provide experimental evidence for a dual role of
+p16, a surrogate marker for HPV infections, in the metastasis process of HNSCC.
+We found that p16 regulates the invasiveness and metastatic potential of HNSCC
+cells by impairing angiogenesis. In parallel, we found that p16 is regulating the
+nodal spread by mediating lymphatic vessel formation through the upregulation of 
+integrins. These findings not only provide understanding of the biology of the
+different dissemination patterns but also suggest that inhibition of
+lymphangiogenesis in HPV positive cancers and inhibition of angiogenesis in HPV
+negative cancers can form a treatment strategy against metastasis.
+
+DOI: 10.1186/s12943-017-0678-8 
+PMCID: PMC5492443
+PMID: 28662664  [Indexed for MEDLINE]

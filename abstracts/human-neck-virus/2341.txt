@@ -1,0 +1,42 @@
+
+
+2341. Eur Arch Otorhinolaryngol. 2017 Oct;274(10):3735-3739. doi:
+10.1007/s00405-017-4672-y. Epub 2017 Jul 12.
+
+Head and neck diffuse large B cell lymphomas (HN-DLBCL) in human immunodeficiency
+virus (HIV) positive patients: long-term results in the highly active
+antiretroviral therapy (HAART) era.
+
+De Felice F(1), Di Mino A(2), Grapulin L(2), Mistrulli ML(2), Musio D(2),
+Tombolini V(2).
+
+Author information: 
+(1)Department of Radiotherapy, Policlinico Umberto I, "Sapienza" University of
+Rome, Viale Regina Elena 326, 00161, Rome, Italy. fradefelice@hotmail.it.
+(2)Department of Radiotherapy, Policlinico Umberto I, "Sapienza" University of
+Rome, Viale Regina Elena 326, 00161, Rome, Italy.
+
+To report long-term outcomes and toxicity rates after chemotherapy (CHT) followed
+by radiotherapy (RT) in the highly active antiretroviral therapy (HAART) era in
+human immunodeficiency virus (HIV) positive patients with head and neck diffuse
+large B cell lymphomas (HN-DLBCL). Clinical data concerning consecutive HIV
+patients treated for DLBCL located in head and neck region with CHT and RT were
+retrospectively reviewed. Systemic treatment consisted of combination CHT agents 
+given with concomitant HAART and regimen was left to oncologists' discretion.
+Involved field RT was delivered at a total dose of 30-36 Gy (2 Gy per fraction). 
+Survival rates were estimated using the Kaplan-Meier method. Toxicity was
+evaluated using National Cancer Institute's Common Terminology Criteria for
+Adverse Events. Overall, 13 patients were included. There were no missing data.
+Eight patients had advanced disease (stage III-IV = 8; 61.5%). The most common
+primary tumor location was oral cavity (n = 7) with large mass at presentation.
+All patients completed the programmed treatment. Severe acute toxicity was
+observed in one patient, only. Overall, three patients had died and no
+treatment-related deaths occurred. After a median follow-up of 152 months, the
+20-year overall survival and disease-free survival rates were 65.9 and 41.5%,
+respectively. Globally, there were no RT-related late complications. This data
+analysis suggested that CHT followed by RT can be safety proposed in the
+management of patients with HIV-related HN-DLBCL in the HAART era. Further
+investigations are necessary to validate our results.
+
+DOI: 10.1007/s00405-017-4672-y 
+PMID: 28702826  [Indexed for MEDLINE]

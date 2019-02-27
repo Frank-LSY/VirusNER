@@ -1,0 +1,37 @@
+
+
+2478. Oncol Rep. 2010 Jul;24(1):225-31.
+
+Toll-like receptor 3 signaling induces apoptosis in human head and neck cancer
+via survivin associated pathway.
+
+Nomi N(1), Kodama S, Suzuki M.
+
+Author information: 
+(1)Department of Otolaryngology, Oita University Faculty of Medicine, Yufu, Oita 
+879-5593, Japan.
+
+The innate immune system builds up host defense against a huge diversity of
+pathogens, such as viruses, bacteria and fungi. Toll-like receptors (TLRs) are
+one of the pattern recognition receptors that trigger the initiation of various
+defense mechanisms. The expression of TLRs represents an important link between
+innate and adaptive immune responses. The expression of TLRs in several cancer
+cell types has been reported; however, the exact roles they play in cancers are
+still unclear. In this study, we investigated the expression and signaling of
+TLRs in human head and neck squamous cell carcinomas (HNSCCs). The expression of 
+TLRs in 8 HNSCC cell lines was examined by Western blot analysis and flow
+cytometry. The expression of TLR mRNA was also examined by quantitative RT-PCR.
+Cells were incubated with poly I:C, a TLR3 ligand, and cell viability was tested 
+by MTT assay. In addition, apoptosis was analyzed by flow cytometry with Annexin 
+V and propidium iodide staining. The expression of survivin, a member of the
+inhibitors of the apoptosis protein family, was also investigated. TLR2 and TLR3 
+were widely expressed in human HNSCCs. Interestingly, the stimulation of TLR3 by 
+poly I:C induced apoptosis in cancer cells in a dose-dependent manner. The
+expression of survivin was down-regulated during apoptosis, suggesting that TLR
+signaling affects survivin-mediated signal transduction in apoptosis. In the
+present study, we demonstrated the proapoptotic activity of TLR3 expressed by
+HNSCCs. These results suggest that TLR3 could be a new target for therapy in
+HNSCCs.
+
+
+PMID: 20514466  [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+
+
+3018. J Sex Med. 2012 Sep;9(9):2438-47. doi: 10.1111/j.1743-6109.2012.02810.x. Epub
+2012 Jun 27.
+
+The direct and indirect costs among U.S. privately insured employees with
+hypogonadism.
+
+Kaltenboeck A(1), Foster S, Ivanova J, Diener M, Bergman R, Birnbaum H, Kinchen
+K, Swindle R.
+
+Author information: 
+(1)Analysis Group, Inc, New York, NY 10020, USA. akaltenboeck@analysisgroup.com
+
+INTRODUCTION: While previous studies have noted that hypogonadism (HG) may pose a
+significant economic and quality-of-life burden, no studies have evaluated the
+impact of HG on healthcare utilization and costs in the United States.
+AIM: Compare direct (health care) and indirect (disability leave or medical
+absence) costs between privately insured U.S. employees with HG and controls
+without HG.
+METHODS: The study sample included 4,269 male employees, ages 35-64, with ≥ 2 HG 
+diagnoses (International Classification of Diseases, Ninth Revision, Clinical
+Modification: 257.2x) or ≥ 1 HG diagnosis and ≥ 1 claim for testosterone therapy,
+1/1/2005-3/31/2009, identified from a large, private insurance administrative
+database that includes medical, prescription drug, and disability claims data.
+The index date was the most recent HG diagnosis that had continuous eligibility
+for at least 1 year before (baseline period) and 1 year after (study period).
+Employees with HG were matched 1:1 on age, region, salaried vs. nonsalaried
+employment status, and index year to controls without HG.
+MAIN OUTCOME MEASURES: Descriptive analyses compared demographic characteristics,
+comorbidities, resource utilization, direct and indirect costs inflated to USD
+2009. Multivariate analyses adjusting for baseline characteristics were used to
+estimate risk-adjusted costs.
+RESULTS: HG employees and controls had a mean age of 51 years. HG employees
+compared with controls had higher baseline comorbidity rates, including
+hyperlipidemia (50.2% vs. 25.3%), hypertension (37.7% vs. 21.1%), back/neck pain 
+(32.0% vs. 15.7%), and human immunodeficiency virus/acquired immunodeficiency
+syndrome (7.1% vs. 0.3%) (all P < 0.0001). HG employees had higher mean study
+period direct ($10,914 vs. $3,823) and indirect costs ($3,204 vs. $1,450);
+HG-related direct costs were $832 (all P < 0.0001). Risk-adjusted direct ($9,291 
+vs. $5,248) and indirect ($2,729 vs. $1,840) costs were also higher for HG
+employees (all P < 0.0001).
+CONCLUSIONS: Employees with HG had higher comorbidity rates and costs compared
+with controls. Given the low HG-related costs, a primary driver of costs among HG
+patients appears to be their comorbidity burden.
+
+© 2012 International Society for Sexual Medicine.
+
+DOI: 10.1111/j.1743-6109.2012.02810.x 
+PMID: 22738380  [Indexed for MEDLINE]

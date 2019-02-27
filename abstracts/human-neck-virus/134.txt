@@ -1,0 +1,43 @@
+
+
+134. J Gen Virol. 2016 Nov;97(11):2949-2956. doi: 10.1099/jgv.0.000611. Epub 2016 Sep 
+21.
+
+Prevalence of human papillomavirus types, viral load and physical status of HPV16
+in head and neck squamous cell carcinoma from the South Swedish Health Care
+Region.
+
+Faust H(1), Eldenhed Alwan E(2), Roslin A(2), Wennerberg J(2), Forslund O(1).
+
+Author information: 
+(1)1​Division of Medical Microbiology, Department of Laboratory Medicine, Lund
+University, Skane Laboratory Medicine, Sölvegatan 23, 221 85 Lund, Sweden.
+(2)2​Division of Otorhinolaryngology, Head and Neck Surgery, Department of
+Clinical Sciences, Lund University, Skane University Hospital, Lasarettsgatan 21,
+221 85 Lund, Sweden.
+
+Incidence of human papillomavirus (HPV)-positive head and neck squamous cell
+carcinoma (HNSCC) is rising in several countries. Intriguingly, large variations 
+of HPV16 viral load and different proportions of the physical viral status among 
+HNSCC have been reported. We analysed fresh biopsies of 275 HNSCC patients from
+the South Swedish Health Care Region for HPV types with modified general primer
+PCR and Luminex. Seventy-eight HPV16-positive HNSCC cases were further
+investigated for viral DNA load and physical status using quantitative PCR for
+HPV E2 and E7 genes. Presence of intact E2 gene, as a surrogate marker for
+episomal HPV, was investigated with conventional PCR. Fifteen different HPV types
+were detected in HNSCC cases and HPV16 was present in 74 % of the HPV-positive
+cases. HPV was detected in 65 % (92/141) and 11 % (15/134) of oropharyngeal and
+non-oropharyngeal carcinomas, respectively (P<0.0001). HPV was detected in 73 %
+(75/103) of tonsillar carcinomas. The median load of HPV16 was 13 copies cell-1
+(range 0.003-1080). Among HPV16-positive patients with oropharyngeal carcinoma,
+metastases to regional lymph nodes were observed in 100 % (17/17) and 68 %
+(40/58) for those with <1 HPV16 copy cell-1 and >1 HPV16 copy cell-1,
+respectively (P=0.007). Among HPV16 cases, purely integrated HPV16 was found in
+6 %, whereas entirely episomal and mixed virus was detected in 51 and 42 % of
+cases, respectively. Conclusively, HPV16 viral DNA load demonstrated a large
+diversity among HNSCCs. Although integration of HPV16 is common (48 %), the
+episomal HPV16 is salient (93 %) among HPV16 HNSCCs. In addition, low amount of
+HPV16 was associated with lymph node metastases among oropharyngeal carcinomas.
+
+DOI: 10.1099/jgv.0.000611 
+PMID: 27667722  [Indexed for MEDLINE]

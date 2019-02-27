@@ -1,0 +1,36 @@
+
+
+912. Clin Cancer Res. 2015 Sep 1;21(17):3821-8. doi: 10.1158/1078-0432.CCR-14-1329.
+
+New Strategies in Human Papillomavirus-Related Oropharynx Cancer: Effecting
+Advances in Treatment for a Growing Epidemic.
+
+Massarelli E(1), Ferrarotto R(1), Glisson BS(2).
+
+Author information: 
+(1)Department of Thoracic and Head/Neck Medical Oncology, The University of Texas
+MD Anderson Cancer Center, Houston, Texas.
+(2)Department of Thoracic and Head/Neck Medical Oncology, The University of Texas
+MD Anderson Cancer Center, Houston, Texas. bglisson@mdanderson.org.
+
+The past two decades have been witness to a steadily increasing incidence of
+oropharynx cancer, specifically related to human papillomavirus (HPV), primarily 
+affecting middle-aged Caucasian men, in North America and Europe. The
+ever-increasing incidence, now clearly an epidemic, of this unique
+clinicopathologic entity demands new perspectives in diagnosis and staging and
+presents unique challenges in clinical research, given the excellent prognosis
+afforded by chemoradiation for the majority of these patients. To reduce the
+morbidity of late toxicity in survivors without compromising the high rates of
+survival currently enjoyed, and simultaneously address the poor prognosis of
+those with recurrence, it is critical to capitalize on the viral etiology and
+translate discoveries in genomics, target/drug discovery, viral oncogenesis, and 
+immunbiology to improved outcomes for patients. Herein, we review ongoing and
+planned clinical research for HPV-related oropharynx cancer, the basis for which 
+is constituted by prior clinical observations, knowledge of the genomic
+alterations and altered biology associated with HPV-related oncogenesis, and hope
+that molecularly targeted and immunomodulatory therapies can be harnessed.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-14-1329 
+PMID: 26330505  [Indexed for MEDLINE]

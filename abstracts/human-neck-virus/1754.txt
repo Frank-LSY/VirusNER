@@ -1,0 +1,33 @@
+
+
+1754. New Microbiol. 2014 Apr;37(2):129-43. Epub 2014 Apr 1.
+
+Differential expression of HER2, STAT3, SOX2, IFI16 and cell cycle markers during
+HPV-related head and neck carcinogenesis.
+
+Mazibrada J(1), Longo L, Vatrano S, Cappia S, Giorcelli J, Pentenero M, Gandolfo 
+S, Volante M, dell'Oste V, Lo Cigno I, Biolatti M, Landolfo S, Papotti M.
+
+Author information: 
+(1)Department of Oncology, University of Turin at San Luigi Hospital, Turin,
+Italy.
+
+The aim of this study was to analyze protein and gene expression of HER2 in 224
+head and neck precancerous and malignant lesions by immunohistochemistry and FISH
+analysis. In parallel, expression of pStat3, Sox2, IFI16 and p16, Ki67 was
+evaluated. Immunohistochemical analysis was assessed on formalin-fixed
+paraffin-embedded (FFPE) tissue specimens. A combined method for HPV detection
+consisting of p16 immunostaining and two PCR probes was applied. HER2 gene status
+was evaluated by FISH analysis. HPV DNA was detected in 24% of cases with
+predominant HPV16 genotype. HPV-positive lesions had higher HER2, pStat3 and
+within carcinoma group, and higher IFI16 expression compared to the HPV-negative 
+group (Fig. 1A-B-C). A strong positive correlation between Sox2 and proliferative
+activity was observed, whereas IFI16 expression displayed a negative relationship
+with Sox2 and Ki67 activity. The most striking result was higher pStat3
+expression in HPV-positive lesions and its strong positive correlation with IFI16
+expression. The presence of HPV may induce upregulation of HER2/neu, pStat3 and
+IFI16. High levels and a strong positive correlation between pStat3 and IFI16
+suggest their synergistic pro-apoptotic effects in HPV-positive lesions.
+
+
+PMID: 24858640  [Indexed for MEDLINE]

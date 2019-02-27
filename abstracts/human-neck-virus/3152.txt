@@ -1,0 +1,40 @@
+
+
+3152. J Laryngol Otol. 2017 Jul;131(S2):S2-S11. doi: 10.1017/S0022215116009294. Epub
+2017 Jan 16.
+
+Microbiology of otitis media in Indigenous Australian children: review.
+
+Jervis-Bardy J(1), Carney AS(2), Duguid R(1), Leach AJ(1).
+
+Author information: 
+(1)Child Health Division,Menzies School of Health Research,Charles Darwin
+University,Darwin.
+(2)Department of Otolaryngology - Head and Neck Surgery,Flinders
+University,Adelaide,Australia.
+
+OBJECTIVES: To review research addressing the polymicrobial aetiology of otitis
+media in Indigenous Australian children in order to identify research gaps and
+inform best practice in effective prevention strategies and therapeutic
+interventions.
+METHODS: Literature review.
+RESULTS: Studies of aspirated middle-ear fluid represented a minor component of
+the literature reviewed. Most studies relied upon specimens from middle-ear
+discharge or the nasopharynx. Culture-based middle-ear discharge studies have
+found that non-typeable Haemophilus influenzae and Streptococcus pneumoniae
+predominate, with Moraxella catarrhalis, Staphylococcus aureus and Streptococcus 
+pyogenes isolated in a lower proportion of samples. Alloiococcus otitidis was
+detected in a number of studies; however, its role in otitis media pathogenesis
+remains controversial. Nasopharyngeal colonisation is a risk factor for otitis
+media in Indigenous infants, and bacterial load of otopathogens in the
+nasopharynx can predict the ear state of Indigenous children.
+CONCLUSION: Most studies have used culture-based methods and specimens from
+middle-ear discharge or the nasopharynx. Findings from these studies are
+consistent with international literature, but reliance on culture may incorrectly
+characterise the microbiology of this condition. Advances in genomic technologies
+are now providing microbiologists with the ability to analyse the entire mixed
+bacterial communities ('microbiomes') of samples obtained from Indigenous
+children with otitis media.
+
+DOI: 10.1017/S0022215116009294 
+PMID: 28088924  [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+
+
+1661. Recent Results Cancer Res. 2017;206:173-181.
+
+Should We De-escalate the Treatment for HPV-Positive Tumors?
+
+Dietz A(1)(2), Wichmann G(3)(4), Wiegand S(3)(4).
+
+Author information: 
+(1)Klinik und Poliklinik für Hals-, Nasen-, Ohrenheilkunde, Department Kopf- und 
+Zahnmedizin, Universitätsklinikum Leipzig, Leipzig, Germany.
+Andreas.Dietz@medizin.uni-leipzig.de.
+(2)Clinic of Otolaryngology, Head and Neck Surgery, Department of Head Medicine
+and Oral Health, University of Leipzig, Leipzig, Germany.
+Andreas.Dietz@medizin.uni-leipzig.de.
+(3)Klinik und Poliklinik für Hals-, Nasen-, Ohrenheilkunde, Department Kopf- und 
+Zahnmedizin, Universitätsklinikum Leipzig, Leipzig, Germany.
+(4)Clinic of Otolaryngology, Head and Neck Surgery, Department of Head Medicine
+and Oral Health, University of Leipzig, Leipzig, Germany.
+
+De-escalation or de-intensification of therapy is discussed since many
+retrospective analyses of former trials demonstrated significantly better outcome
+for patients suffering from p16/HPV16-positive oropharyngeal squamous cell
+carcinoma of head and neck (OHNSCC). These observations are comprehensively
+addressed, but the reader has to keep in mind that none of the currently
+discussed data result from prospective controlled trials addressing the
+HPV-discrimination in the primary endpoint design. Identification of the true
+HPV16-related tumors is still challenging and in addition with different clinical
+reports and lack of data of prospective trials not mature for routine clinical
+decision making in 2016. Independent of the currently lacking evidence for
+HPV-dependent treatment de-escalation, there are some relevant arguments to
+address this question in ongoing and future trials.
+
+DOI: 10.1007/978-3-319-43580-0_13 
+PMID: 27699538  [Indexed for MEDLINE]

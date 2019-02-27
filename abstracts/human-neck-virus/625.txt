@@ -1,0 +1,55 @@
+
+
+625. J Leukoc Biol. 2015 Jul;98(1):5-14. doi: 10.1189/jlb.4HI0714-338RR. Epub 2015 Feb
+2.
+
+SAMHD1's protein expression profile in humans.
+
+Schmidt S(1), Schenkova K(1), Adam T(1), Erikson E(1), Lehmann-Koch J(1), Sertel 
+S(1), Verhasselt B(1), Fackler OT(1), Lasitschka F(1), Keppler OT(2).
+
+Author information: 
+(1)*Institute of Medical Virology, National Reference Center for Retroviruses,
+University of Frankfurt, Germany; Department of Infectious Diseases, Integrative 
+Virology, Institute of Pathology, and Department of Otolaryngology, Head and Neck
+Surgery, University of Heidelberg, Germany; German Centre for Infection Research,
+Heidelberg, Germany; and Department of Clinical Chemistry, Microbiology and
+Immunology, Ghent University, Ghent, Belgium.
+(2)*Institute of Medical Virology, National Reference Center for Retroviruses,
+University of Frankfurt, Germany; Department of Infectious Diseases, Integrative 
+Virology, Institute of Pathology, and Department of Otolaryngology, Head and Neck
+Surgery, University of Heidelberg, Germany; German Centre for Infection Research,
+Heidelberg, Germany; and Department of Clinical Chemistry, Microbiology and
+Immunology, Ghent University, Ghent, Belgium oliver.keppler@kgu.de.
+
+Comment in
+    J Leukoc Biol. 2015 Jul;98(1):1-3.
+
+The deoxynucleoside triphosphate triphosphohydrolase and 3' → 5' exonuclease
+SAMHD1 restricts HIV-1 infection in noncycling hematopoietic cells in vitro, and 
+SAMHD1 mutations are associated with AGS. Little is known about the in vivo
+expression and functional regulation of this cellular factor. Here, we first
+assessed the SAMHD1 protein expression profile on a microarray of 25 human
+tissues from >210 donors and in purified primary cell populations. In vivo,
+SAMHD1 was expressed in the majority of nucleated cells of hematopoietic origin, 
+including tissue-resident macrophages, DCs, pDCs, all developmental stages of
+thymic T cells, monocytes, NK cells, as well as at lower levels in B cells. Of
+note, SAMHD1 was abundantly expressed in HIV target cells residing in the
+anogenital mucosa, providing a basis for its evaluation as a cellular factor that
+may impact the efficiency of HIV transmission. Next, we examined the effect of
+the activation status and proinflammatory cytokine treatment of cells on
+expression and phosphorylation of SAMHD1. Activated, HIV-susceptible CD4(+) T
+cells carried pSAMHD1(T592), whereas resting CD4(+) T cells and macrophages
+expressed the unphosphorylated protein with HIV-restrictive activity.
+Surprisingly, stimulation of these primary cells with IFN-α, IFN-γ, IL-4, IL-6,
+IL-12, IL-18, IL-27, or TNF-α affected neither SAMHD1 expression levels nor
+threonine 592 phosphorylation. Only IL-1β moderately down-regulated SAMHD1 in
+activated CD4(+) T cells. Taken together, this study establishes the first
+cross-sectional protein expression profile of SAMHD1 in human tissues and
+provides insight into its cell cycle-dependent phosphorylation and
+unresponsiveness to multiple proinflammatory cytokines.
+
+© Society for Leukocyte Biology.
+
+DOI: 10.1189/jlb.4HI0714-338RR 
+PMID: 25646359  [Indexed for MEDLINE]

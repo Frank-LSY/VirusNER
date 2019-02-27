@@ -1,0 +1,47 @@
+
+
+2514. Oncotarget. 2015 Apr 20;6(11):9045-60.
+
+Antibody and lectin target podoplanin to inhibit oral squamous carcinoma cell
+migration and viability by distinct mechanisms.
+
+Ochoa-Alvarez JA(1), Krishnan H(1), Pastorino JG(1), Nevel E(1), Kephart D(1),
+Lee JJ(1), Retzbach EP(1), Shen Y(1), Fatahzadeh M(2), Baredes S(3), Kalyoussef
+E(3), Honma M(4), Adelson ME(5), Kaneko MK(6), Kato Y(6), Young MA(1),
+Deluca-Rapone L(1), Shienbaum AJ(1), Yin K(1), Jensen LD(7), Goldberg GS(1).
+
+Author information: 
+(1)Departments of Molecular Biology, Cell Biology, and Pathology, School of
+Osteopathic Medicine, Rowan University, Stratford, NJ, USA.
+(2)Department of Diagnostic Sciences, Rutgers School of Dental Medicine, Newark, 
+NJ, USA.
+(3)Department of Otolaryngology - Head and Neck Surgery, Rutgers New Jersey
+Medical School, Newark, NJ, USA.
+(4)Department of Dermatology, Asahikawa Medical University, Midorigaoka-Higashi, 
+Asahikawa, Japan.
+(5)Medical Diagnostic Laboratories, Hamilton, NJ, USA.
+(6)Department of Regional Innovation, Tohoku University Graduate School of
+Medicine, Seiryo-machi, Aoba-ku, Sendai, Miyagi, Japan.
+(7)Department of Medical and Health Sciences, Linköping University,
+Lasarettsgatan, Ingång, Linköping, Sweden.
+
+Podoplanin (PDPN) is a unique transmembrane receptor that promotes tumor cell
+motility. Indeed, PDPN may serve as a chemotherapeutic target for primary and
+metastatic cancer cells, particularly oral squamous cell carcinoma (OSCC) cells
+that cause most oral cancers. Here, we studied how a monoclonal antibody (NZ-1)
+and lectin (MASL) that target PDPN affect human OSCC cell motility and viability.
+Both reagents inhibited the migration of PDPN expressing OSCC cells at nanomolar 
+concentrations before inhibiting cell viability at micromolar concentrations. In 
+addition, both reagents induced mitochondrial membrane permeability transition to
+kill OSCC cells that express PDPN by caspase independent nonapoptotic necrosis.
+Furthermore, MASL displayed a surprisingly robust ability to target PDPN on OSCC 
+cells within minutes of exposure, and significantly inhibited human OSCC
+dissemination in zebrafish embryos. Moreover, we report that human OSCC cells
+formed tumors that expressed PDPN in mice, and induced PDPN expression in
+infiltrating host murine cancer associated fibroblasts. Taken together, these
+data suggest that antibodies and lectins may be utilized to combat OSCC and other
+cancers that express PDPN.
+
+DOI: 10.18632/oncotarget.3515 
+PMCID: PMC4496201
+PMID: 25826087  [Indexed for MEDLINE]

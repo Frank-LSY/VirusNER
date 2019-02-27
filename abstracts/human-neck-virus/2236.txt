@@ -1,0 +1,45 @@
+
+
+2236. Anticancer Res. 2016 Apr;36(4):1703-9.
+
+Clinical Outcomes in Patients with Recurrent or Metastatic Human Papilloma
+Virus-positive Head and Neck Cancer.
+
+Dang RP(1), LE VH(2), Miles BA(3), Teng MS(3), Genden EM(3), Bakst RL(4), Gupta
+V(4), Zhang DY(5), Demicco EG(5), Posner MR(6), Misiukiewicz KJ(6).
+
+Author information: 
+(1)Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+York, NY, U.S.A. Rajan.dang@icahn.mssm.edu.
+(2)Department of Medical Education, Icahn School of Medicine at Mount Sinai, New 
+York, NY, U.S.A.
+(3)Department of Otolaryngology-Head and Neck Surgery, Icahn School of Medicine
+at Mount Sinai, New York, NY, U.S.A.
+(4)Department of Radiation Oncology, Icahn School of Medicine at Mount Sinai, New
+York, NY, U.S.A.
+(5)Department of Pathology, Icahn School of Medicine at Mount Sinai, New York,
+NY, U.S.A.
+(6)Department of Hematology-Oncology-Tisch Cancer Institute, Icahn School of
+Medicine at Mount Sinai, New York, NY, U.S.A.
+
+BACKGROUND: There are few data regarding the role of human papilloma virus (HPV) 
+in recurrent/metastatic (R/M) head and neck squamous cell carcinoma (HNSCC).
+PATIENTS AND METHODS: A retrospective chart review was carried out using our
+electronic medical record (EPIC) for all patients diagnosed with HPV-positive R/M
+HNSCC between 2010 and 2014 with minimum of 6 months of follow-up in order to
+assess progression-free survival (PFS) and overall survival (OS).
+RESULTS: We assessed 11 patients who underwent a variety of treatments. PFS and
+OS were 7 and 34+ months, respectively. Four patients (36%) were still alive and 
+disease-free (median OS of 39+ months). Three disease-free patients had been
+treated with taxane, platinum and 5-fluorouracil as aggressive curative systemic 
+therapy. Another patient treated with TPF was disease-free for 25 months and died
+of disease at 42 months.
+CONCLUSION: Our study demonstrates favorable prognosis for patients with
+HPV-positive R/M HNSCC and that aggressive systemic treatment can lead to a
+prolonged disease-free period or possibly cure, even after metastasis.
+
+Copyright© 2016 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 27069149  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+1096. Oncol Rep. 2013 May;29(5):1962-8. doi: 10.3892/or.2013.2327. Epub 2013 Mar 5.
+
+Human papillomavirus infection in head and neck cancer: the role of the secretory
+leukocyte protease inhibitor.
+
+Hoffmann M(1), Quabius ES, Tribius S, Hebebrand L, Görögh T, Halec G, Kahn T,
+Hedderich J, Röcken C, Haag J, Waterboer T, Schmitt M, Giuliano AR, Kast WM.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Christian-Albrechts 
+University Kiel, D-24105 Kiel, Germany. mhoffmann@hno.uni-kiel.de
+
+We previously showed that secretory leukocyte protease inhibitor (SLPI) gene and 
+protein expression is significantly lower in metastatic versus non-metastatic
+head and neck squamous cell carcinoma (HNSCC). However, we did not assess the
+human papillomavirus (HPV) status of these cases. Since SLPI plays a role in HIV 
+and herpes simplex virus (HSV) infections, we hypothesized that SLPI may be
+involved in HPV-infected HNSCC. In HNSCC tissue (n=54), HPV DNA was determined
+and correlated with SLPI expression. Additionally, to investigate a possible role
+of smoking on SLPI expression in clinically normal mucosa, 19 patients treated
+for non‑malignant diseases (non-HNSCC) were analyzed for SLPI expression and
+correlated with smoking habits. In HNSCC patients, SLPI expression showed a
+significant inverse correlation with HPV status. In patients with moderate/strong
+SLPI expression (n=19), 10.5% were HPV-positive. By contrast, patients with
+absent/weak SLPI expression (n=35), 45.7% were HPV-positive. Low SLPI expression 
+was correlated with metastasis (P=0.003) independent of HPV status.
+HPV-positivity was clearly associated with lymph node status (81.3% N1-3 cases). 
+In smoking non-HNSCC patients (n=7), 42.9% showed absent/weak and 57.1%
+moderate/strong SLPI staining. In non-smoking non-HNSCC patients (n=10) 83.3%
+showed absent/weak and 16.7% moderate/strong SLPI expression. For the first time,
+a correlation between SLPI downregulation and HPV infection was demonstrated,
+suggesting that high levels of SLPI, possibly induced by environmental factors
+such as tobacco smoking, correlate with protective effects against HPV infection.
+SLPI may be a potential biomarker identifying head and neck cancer patients not
+at risk of developing metastases (SLPI-positive), and those at risk to be
+infected by HPV (SLPI-negative) and likely to develop metastases.
+
+DOI: 10.3892/or.2013.2327 
+PMCID: PMC3658815
+PMID: 23467841  [Indexed for MEDLINE]

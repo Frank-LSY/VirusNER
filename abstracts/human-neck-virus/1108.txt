@@ -1,0 +1,133 @@
+
+
+1108. Proc Natl Acad Sci U S A. 2014 Oct 28;111(43):15544-9. doi:
+10.1073/pnas.1416074111. Epub 2014 Oct 13.
+
+Characterization of HPV and host genome interactions in primary head and neck
+cancers.
+
+Parfenov M(1), Pedamallu CS(2), Gehlenborg N(3), Freeman SS(4), Danilova L(5),
+Bristow CA(6), Lee S(7), Hadjipanayis AG(1), Ivanova EV(8), Wilkerson MD(9),
+Protopopov A(6), Yang L(7), Seth S(6), Song X(6), Tang J(6), Ren X(1), Zhang
+J(6), Pantazi A(1), Santoso N(1), Xu AW(7), Mahadeshwar H(6), Wheeler DA(10),
+Haddad RI(11), Jung J(4), Ojesina AI(2), Issaeva N(12), Yarbrough WG(12), Hayes
+DN(13), Grandis JR(14), El-Naggar AK(15), Meyerson M(16), Park PJ(7), Chin L(17),
+Seidman JG(18), Hammerman PS(19), Kucherlapati R(20); Cancer Genome Atlas
+Network.
+
+Collaborators: Ally A, Balasundaram M, Birol I, Bowlby R, Butterfield YS, Carlsen
+R, Cheng D, Chu A, Dhalla N, Guin R, Holt RA, Jones SJ, Lee D, Li HI, Marra MA,
+Mayo M, Moore RA, Mungall AJ, Robertson AG, Schein JE, Sipahimalani P, Tam A,
+Thiessen N, Wong T, Protopopov A, Santoso N, Lee S, Parfenov M, Zhang J,
+Mahadeshwar HS, Tang J, Ren X, Seth S, Haseley P, Zeng D, Yang L, Xu AW, Song X, 
+Pantazi A, Bristow C, Hadjipanayis A, Seidman J, Chin L, Park PJ, Kucherlapati R,
+Akbani R, Casasent T, Liu W, Lu Y, Mills G, Motter T, Weinstein J, Diao L, Wang
+J, Fan YH, Liu J, Wang K, Auman JT, Balu S, Bodenheimer T, Buda E, Hayes DN,
+Hoadley KA, Hoyle AP, Jefferys SR, Jones CD, Kimes PK, Marron JS, Meng S,
+Mieczkowski PA, Mose LE, Parker JS, Perou CM, Prins JF, Roach J, Shi Y, Simons
+JV, Singh D, Soloway MG, Tan D, Veluvolu U, Walter V, Waring S, Wilkerson MD, Wu 
+J, Zhao N, Cherniack AD, Hammerman PS, Tward AD, Pedamallu CS, Saksena G, Jung J,
+Ojesina AI, Carter SL, Zack TI, Schumacher SE, Beroukhim R, Freeman SS, Meyerson 
+M, Cho J, Chin L, Getz G, Noble MS, DiCara D, Zhang H, Heiman DI, Gehlenborg N,
+Voet D, Lin P, Frazer S, Stojanov P, Liu Y, Zou L, Kim J, Lawrence MS, Sougnez C,
+Lichtenstein L, Cibulskis K, Lander E, Gabriel SB, Muzny D, Doddapaneni H, Kovar 
+C, Reid J, Morton D, Han Y, Hale W, Chao H, Chang K, Drummond JA, Gibbs RA,
+Kakkar N, Wheeler D, Xi L, Ciriello G, Ladanyi M, Lee W, Ramirez R, Sander C,
+Shen R, Sinha R, Weinhold N, Taylor BS, Aksoy BA, Dresdner G, Gao J, Gross B,
+Jacobsen A, Reva B, Schultz N, Sumer SO, Sun Y, Chan T, Morris L, Stuart J, Benz 
+S, Ng S, Benz C, Yau C, Baylin SB, Cope L, Danilova L, Herman JG, Bootwalla M,
+Maglinte DT, Laird PW, Triche T Jr, Weisenberger DJ, Van Den Berg DJ, Agrawal N, 
+Bishop J, Boutros PC, Bruce JP, Byers LA, Califano J, Carey TE, Chen Z, Cheng H, 
+Chiosea SI, Cohen E, Diergaarde B, Egloff AM, El-Naggar AK, Ferris RL, Frederick 
+MJ, Grandis JR, Guo Y, Haddad RI, Hammerman PS, Harris T, Hayes DN, Hui AB, Lee
+JJ, Lippman SM, Liu FF, McHugh JB, Myers J, Ng PK, Perez-Ordonez B, Pickering CR,
+Prystowsky M, Romkes M, Saleh AD, Sartor MA, Seethala R, Seiwert TY, Si H, Tward 
+AD, Van Waes C, Waggott DM, Wiznerowicz M, Yarbrough W, Zhang J, Zuo Z, Burnett
+K, Crain D, Gardner J, Lau K, Mallery D, Morris S, Paulauskis J, Penny R, Shelton
+C, Shelton T, Sherman M, Yena P, Black AD, Bowen J, Frick J, Gastier-Foster JM,
+Harper HA, Lichtenberg TM, Ramirez NC, Wise L, Zmuda E, Baboud J, Jensen MA, Kahn
+AB, Pihl TD, Pot DA, Srinivasan D, Walton JS, Wan Y, Burton R, Davidsen T,
+Demchok JA, Eley G, Ferguson ML, Mills Shaw KR, Ozenberger BA, Sheth M, Sofia HJ,
+Tarnuzzer R, Wang Z, Yang L, Zenklusen JC, Saller C, Tarvin K, Chen C, Bollag R, 
+Weinberger P, Golusiński W, Golusiński P, Ibbs M, Korski K, Mackiewicz A,
+Suchorska W, Szybiak B, Wiznerowicz M, Burnett K, Curley E, Gardner J, Mallery D,
+Penny R, Shelton T, Yena P, Beard C, Mitchell C, Sandusky G, Agrawal N, Ahn J,
+Bishop J, Califano J, Khan Z, Bruce JP, Hui AB, Irish J, Liu FF, Perez-Ordonez B,
+Waldron J, Boutros PC, Waggott DM, Myers J, Lippman SM, Egea S, Gomez-Fernandez
+C, Herbert L, Bradford CR, Carey TE, Chepeha DB, Haddad AS, Jones TR, Komarck CM,
+Malakh M, McHugh JB, Moyer JS, Nguyen A, Peterson LA, Prince ME, Rozek LS, Sartor
+MA, Taylor EG, Walline HM, Wolf GT, Boice L, Chera BS, Funkhouser WK, Gulley ML, 
+Hackman TG, Hayes DN, Hayward MC, Huang M, Rathmell WK, Salazar AH, Shockley WW, 
+Shores CG, Thorne L, Weissler MC, Wrenn S, Zanation AM, Chiosea SI, Diergaarde B,
+Egloff AM, Ferris RL, Romkes M, Seethala R, Brown BT, Guo Y, Pham M, Yarbrough
+WG.
+
+Author information: 
+(1)Departments of Genetics and.
+(2)Department of Medical Oncology and The Eli and Edythe L. Broad Institute,
+Massachusetts Institute of Technology and Harvard University, Cambridge, MA
+02142;
+(3)The Eli and Edythe L. Broad Institute, Massachusetts Institute of Technology
+and Harvard University, Cambridge, MA 02142; Center for Biomedical Informatics,
+Harvard Medical School, Boston, MA 02115;
+(4)The Eli and Edythe L. Broad Institute, Massachusetts Institute of Technology
+and Harvard University, Cambridge, MA 02142;
+(5)The Sidney Kimmel Comprehensive Cancer Center, Johns Hopkins University,
+Baltimore, MD 21287;
+(6)Institute for Applied Cancer Science, Department of Genomic Medicine and.
+(7)Center for Biomedical Informatics, Harvard Medical School, Boston, MA 02115;
+(8)Department of Medical Oncology and Belfer Institute for Applied Cancer
+Science, Dana-Farber Cancer Institute, Boston, MA 02115;
+(9)Lineberger Comprehensive Cancer Center and Department of Genetics and.
+(10)Human Genome Sequencing Center, Baylor College of Medicine, Houston, TX
+77030;
+(11)Department of Medical Oncology, Head and Neck Oncology Program, Dana-Farber
+Cancer Institute, Boston, MA 02215;
+(12)Department of Surgery, Division of Otolaryngology, Yale School of Medicine,
+New Haven, CT 06520-8041;
+(13)Lineberger Comprehensive Cancer Center and Department of Internal Medicine,
+Division of Medical Oncology, University of North Carolina at Chapel Hill, Chapel
+Hill, NC 27599;
+(14)Departments of Otolaryngology and Pharmacology and Chemical Biology,
+University of Pittsburgh School of Medicine, Pittsburgh, PA 15213; and.
+(15)Departments of Pathology and Head and Neck Surgery, University of Texas MD
+Anderson Cancer Center, Houston, TX 77030;
+(16)Department of Medical Oncology and The Eli and Edythe L. Broad Institute,
+Massachusetts Institute of Technology and Harvard University, Cambridge, MA
+02142; Pathology and.
+(17)The Eli and Edythe L. Broad Institute, Massachusetts Institute of Technology 
+and Harvard University, Cambridge, MA 02142; Institute for Applied Cancer
+Science, Department of Genomic Medicine and.
+(18)Departments of Genetics and seidman@genetics.med.harvard.edu
+peterh@broadinstitute.org rkucherlapati@partners.org.
+(19)Department of Medical Oncology and The Eli and Edythe L. Broad Institute,
+Massachusetts Institute of Technology and Harvard University, Cambridge, MA
+02142; seidman@genetics.med.harvard.edu peterh@broadinstitute.org
+rkucherlapati@partners.org.
+(20)Harvard Medical School, Partners HealthCare Center for Genetics and Genomics,
+Boston, MA 02115 seidman@genetics.med.harvard.edu peterh@broadinstitute.org
+rkucherlapati@partners.org.
+
+Previous studies have established that a subset of head and neck tumors contains 
+human papillomavirus (HPV) sequences and that HPV-driven head and neck cancers
+display distinct biological and clinical features. HPV is known to drive cancer
+by the actions of the E6 and E7 oncoproteins, but the molecular architecture of
+HPV infection and its interaction with the host genome in head and neck cancers
+have not been comprehensively described. We profiled a cohort of 279 head and
+neck cancers with next generation RNA and DNA sequencing and show that 35 (12.5%)
+tumors displayed evidence of high-risk HPV types 16, 33, or 35. Twenty-five cases
+had integration of the viral genome into one or more locations in the human
+genome with statistical enrichment for genic regions. Integrations had a marked
+impact on the human genome and were associated with alterations in DNA copy
+number, mRNA transcript abundance and splicing, and both inter- and
+intrachromosomal rearrangements. Many of these events involved genes with
+documented roles in cancer. Cancers with integrated vs. nonintegrated HPV
+displayed different patterns of DNA methylation and both human and viral gene
+expressions. Together, these data provide insight into the mechanisms by which
+HPV interacts with the human genome beyond expression of viral oncoproteins and
+suggest that specific integration events are an integral component of viral
+oncogenesis.
+
+DOI: 10.1073/pnas.1416074111 
+PMCID: PMC4217452
+PMID: 25313082  [Indexed for MEDLINE]

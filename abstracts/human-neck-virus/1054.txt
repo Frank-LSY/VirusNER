@@ -1,0 +1,40 @@
+
+
+1054. Head Neck Pathol. 2011 Jun;5(2):108-16. doi: 10.1007/s12105-011-0245-3. Epub 2011
+Feb 9.
+
+Adenosquamous carcinoma of the head and neck: relationship to human
+papillomavirus and review of the literature.
+
+Masand RP(1), El-Mofty SK, Ma XJ, Luo Y, Flanagan JJ, Lewis JS Jr.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, 660 S. Euclid Avenue, St. Louis, MO 63110, USA.
+
+Adenosquamous carcinoma (ADSC) of the head and neck is an aggressive variant of
+squamous cell carcinoma (SCC). Certain variants of head and neck SCC are human
+papillomavirus (HPV)-related and have better prognosis. The relationship of HPV
+to head and neck ADSC has not been investigated. We searched our files for the
+term "adenosquamous" and head and neck subsites and found cases from 1998 to
+2009. The requisite histologic criteria were the presence of SCC combined with
+distinct gland formation and/or intracellular mucin. DNA in situ hybridization
+for high-risk HPV, RNA in situ hybridization for high risk HPV E6 and E7
+transcripts, and immunohistochemistry for p16 and p53 were performed. The
+existing literature on ADSC was also reviewed. Of the 18 cases, eight were from
+the larynx and hypopharynx, four from the oral cavity, three from the oropharynx,
+and three from the nasal cavity. Three cases (16%) showed both high risk HPV E6
+and E7 and p16 expression, one from the nasal cavity and two from the oropharynx.
+Both oropharyngeal carcinoma patients were alive and disease free at 34 and
+103 months, respectively. ADSCs of the head and neck are a heterogeneous group of
+tumors. A small minority of cases harbor HPV and most of these, particularly
+those occurring at sites with known high prevalence of HPV, show active viral
+transcription with detectable E6 and E7 and overexpression of p16. The
+HPV-related oropharyngeal cases, though rare, appear to do very well clinically, 
+while the remaining cohort of ADSC patients do quite poorly. Head and neck ADSC
+appears to be a mixed variant that can be further classified according to its HPV
+status.
+
+DOI: 10.1007/s12105-011-0245-3 
+PMCID: PMC3098325
+PMID: 21305368  [Indexed for MEDLINE]

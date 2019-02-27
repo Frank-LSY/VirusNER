@@ -1,0 +1,34 @@
+
+
+41. Expert Rev Mol Diagn. 2014 Nov;14(8):1033-40. doi: 10.1586/14737159.2014.960519. 
+Epub 2014 Sep 15.
+
+miRNAs in human papilloma virus associated oral and oropharyngeal squamous cell
+carcinomas.
+
+Salazar C(1), Calvopiña D, Punyadeera C.
+
+Author information: 
+(1)Saliva Translational Research Group, The Translational Research Institute, The
+University of Queensland Diamantina Institute, Level 6, 37 Kent St,
+Woolloongabba, QLD 4102, Australia.
+
+Head and neck squamous cell carcinoma (HNSCC) is the sixth most common cancer in 
+the world with 600,000 new cases diagnosed annually. Tobacco and alcohol use have
+been associated as the principal etiological factors of this pathogenesis. The
+incidence of smoking-associated HNSCC has declined, while human papilloma virus
+(HPV)-associated HNSCC is on the rise. There are currently no clinically
+validated biomarkers to detect this cancer at an early stage (cancers independent
+of HPV status). It is well-established that the aberrant expression of miRNAs can
+lead to tumorigenesis. miRNA expression differences have also been demonstrated
+in HPV-positive and HPV-negative HNSCC tumor tissues as well as in body fluids.
+Therefore, miRNAs have the potential to provide an unprecedented insight into the
+pathogenesis of HNSCC and serve as potential biomarkers. This review addresses
+HNSCC disease burden and the regulation of miRNA by HPV viral oncoproteins,
+potential miRNA biomarkers and future perspectives. miRNA provides an unique
+opportunity to fulfill the current clinical challenge in HNSCC patient management
+by enabling early detection followed by targeted interventions, leading to a
+significant reduction in mortality and morbidity.
+
+DOI: 10.1586/14737159.2014.960519 
+PMID: 25222489  [Indexed for MEDLINE]

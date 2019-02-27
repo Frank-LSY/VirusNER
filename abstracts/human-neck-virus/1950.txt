@@ -1,0 +1,40 @@
+
+
+1950. Am J Surg Pathol. 2016 Aug;40(8):1117-24. doi: 10.1097/PAS.0000000000000650.
+
+Histologic Typing in Oropharyngeal Squamous Cell Carcinoma: A 4-Year Prospective 
+Practice Study With p16 and High-Risk HPV mRNA Testing Correlation.
+
+Gondim DD(1), Haynes W, Wang X, Chernock RD, El-Mofty SK, Lewis JS Jr.
+
+Author information: 
+(1)Departments of *Pathology and Immunology †Radiation Oncology ‡Otolaryngology
+Head and Neck Surgery, Washington University School of Medicine, St Louis, MO
+Departments of §Pathology, Microbiology, and Immunology ∥Otolaryngology,
+Vanderbilt University Medical Center, Nashville, TN.
+
+Oropharyngeal squamous cell carcinomas (OPSCCs) associated with human
+papillomavirus (HPV) represent a distinct clinical and pathologic entity. The
+majority of HPV-related OPSCCs have a characteristic nonkeratinizing morphology. 
+This study sought to determine the strength of the association between
+nonkeratinizing histology and HPV status compared with other squamous cell
+carcinoma variants in 4 years of routine clinical practice on a high-volume head 
+and neck service. Primary and/or nodal metastatic tumors in all cases of OPSCC
+from 2010 to 2013 were typed by 1 of 3 head and neck pathologists as
+keratinizing, nonkeratinizing, nonkeratinizing with maturation, or another
+defined variant. All were assessed for p16 by immunohistochemistry with a 70%
+nuclear and cytoplasmic positivity cutoff as part of routine clinical practice.
+In addition, 70 consecutive cases from 1 year were "audited" for high-risk HPV
+mRNA by reverse transcription polymerase chain reaction and in situ
+hybridization. Of the 435 cases, the majority (90%) consisted of 1 of the 3 main 
+types described and the rest (10%) of uncommon variants. Nonkeratinizing
+morphology had 99.1% and 100.0% positive predictive value for p16 and high-risk
+HPV mRNA positivity, respectively. Nonkeratinizing with maturation, keratinizing,
+and other specific squamous cell carcinoma variants were p16 positive in 91.8%,
+22.8%, and 79.5%, respectively. All 47 nonkeratinizing OPSCCs tested for HPV mRNA
+were positive. In summary, strictly defined nonkeratinizing OPSCC (which
+constitutes ∼55% of all tumors) essentially implies positivity for both p16 and
+transcriptionally active high-risk HPV.
+
+DOI: 10.1097/PAS.0000000000000650 
+PMID: 27035614  [Indexed for MEDLINE]

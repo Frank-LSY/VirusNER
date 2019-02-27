@@ -1,0 +1,28 @@
+
+
+158. Curr Gene Ther. 2016;16(2):130-43.
+
+Oncotarget Strategies For Herpes Simplex Virus-1.
+
+Zhang L(1), Tatsuya T, Nishiyama Y.
+
+Author information: 
+(1)Division of Liver Diseases, Department of Medicine, Icahn School of Medicine
+at Mount Sinai, New York, NY, 10029, USA. lumin.zhang@mssm.edu.
+
+The high level of manipulability of viral genome has set up HSV-1 to be an ideal 
+viral vector for oncolytic virotherapy. In the past two decades, several
+oncolytic HSV-1 viruses have been successfully developed and assessed in animal
+studies. Accumulated evidences show that oncolytic HSV- 1 can efficiently infect 
+many tumor cells and augment anti-tumor effect by induction of systemic innate
+and adaptive immune responses. Inspiring results have been accomplished in
+several phase I clinical trials for glioma, head and neck squeous cells carcinoma
+and Melanoma using oncolytic HSV- 1 viruses. More recently, oncovey, one of
+oncolytic HSV-1 viruses has been approved by FDA for the comprehensive evolution 
+of its anti-tumor effects in phase III clinical trials. These promising studies
+encourage more efforts to be devoted to craft the new generation of oncolytic
+HSV-1. Herein, we will review and summarize the basic strategies to construct
+oncolytic HSV-1 viruses and their applications in cancer therapy.
+
+
+PMID: 27029942  [Indexed for MEDLINE]

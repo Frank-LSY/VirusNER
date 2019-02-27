@@ -1,0 +1,38 @@
+
+
+616. Br J Cancer. 2012 Apr 24;106(9):1526-34. doi: 10.1038/bjc.2012.109.
+
+The role of miRNAs in human papilloma virus (HPV)-associated cancers: bridging
+between HPV-related head and neck cancer and cervical cancer.
+
+Lajer CB(1), Garnæs E, Friis-Hansen L, Norrild B, Therkildsen MH, Glud M, Rossing
+M, Lajer H, Svane D, Skotte L, Specht L, Buchwald C, Nielsen FC.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, University of Copenhagen, Denmark. christel.lajer@rh.regionh.dk
+
+Erratum in
+    Br J Cancer. 2017 Jul 13;:.
+
+BACKGROUND: Although the role of human papilloma virus (HPV) in cervical squamous
+cell carcinoma (CSCC) is well established, the role in head and neck SCC (HNSCC) 
+is less clear. MicroRNAs (miRNAs) have a role in the cancer development, and HPV 
+status may affect the miRNA expression pattern in HNSCC. To explore the influence
+of HPV in HNSCC, we made a comparative miRNA profile of HPV-positive (HPV+) and
+HPV-negative (HPV-) HNSCC against CSCC.
+METHODS: Fresh frozen and laser microdissected-paraffin-embedded samples obtained
+from patients with HPV+/HPV- HNSCC, CSCC and controls were used for microarray
+analysis. Differentially expressed miRNAs in the HPV+ and HPV- HNSCC samples were
+compared with the differentially expressed miRNAs in the CSCC samples.
+RESULTS: Human papilloma virus positive (+) HNSCC had a distinct miRNA profile
+compared with HPV- HNSCC. Significantly more similarity was seen between HPV+
+HNSCC and CSCC than HPV- and CSCC. A set of HPV core miRNAs were identified. Of
+these especially the miR-15a/miR-16/miR195/miR-497 family, miR-143/miR-145 and
+the miR-106-363 cluster appear to be important within the known HPV pathogenesis.
+CONCLUSION: This study adds new knowledge to the known pathogenic pathways of HPV
+and substantiates the oncogenic role of HPV in subsets of HNSCCs.
+
+DOI: 10.1038/bjc.2012.109 
+PMCID: PMC3341860
+PMID: 22472886  [Indexed for MEDLINE]

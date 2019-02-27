@@ -1,0 +1,25 @@
+
+
+865. J Cancer Res Ther. 2015 Jan-Mar;11(1):6-9. doi: 10.4103/0973-1482.151445.
+
+HPV positive oropharyngeal cancer and treatment deintensification: how pertinent 
+is it?
+
+Laskar SG(1), Swain M.
+
+Author information: 
+(1)Department of Radiation Oncology, Head and Neck Oncology Disease Management
+Group, Tata Memorial Centre, Parel, Mumbai, Maharashtra, India.
+
+In recent years there has been change in trends in the incidence of head and neck
+squamous cell carcinoma (HNSCC) with oropharyngeal carcinoma (OPC) showing an
+increased incidence, attributable specifically to infection by human
+papillomavirus (HPV). At the same time there is change in demographic
+characteristics and prognosis of this subset of HNSCC. Considering the better
+prognosis, researchers are trying to reduce the acute and long-term toxicities by
+alteration of various components of treatment protocols. Although treatment
+deintensification is an option for this group of patients, there is no standard
+protocol available and should be tried only in the protocol setting.
+
+DOI: 10.4103/0973-1482.151445 
+PMID: 25879328  [Indexed for MEDLINE]

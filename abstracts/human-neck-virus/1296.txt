@@ -1,0 +1,39 @@
+
+
+1296. Histopathology. 2012 May;60(6):982-91. doi: 10.1111/j.1365-2559.2011.04169.x.
+Epub 2012 Feb 23.
+
+Transcriptionally-active high-risk human papillomavirus is rare in oral cavity
+and laryngeal/hypopharyngeal squamous cell carcinomas--a tissue microarray study 
+utilizing E6/E7 mRNA in situ hybridization.
+
+Lewis JS Jr(1), Ukpo OC, Ma XJ, Flanagan JJ, Luo Y, Thorstad WL, Chernock RD.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University, St. Louis, MO
+63110, USA. jlewis@path.wustl.edu
+
+AIMS: Human papillomavirus is well established in oropharyngeal squamous cell
+carcinoma as both causative and prognostic, but its significance in
+non-oropharyngeal tumours is unclear. In particular, the significance of finding 
+viral DNA is not known. We sought to evaluate nonoropharyngeal squamous cell
+carcinomas for transcriptionally-active human papillomavirus and to compare this 
+with the presence of viral DNA.
+METHODS: We evaluated an 87 patient tissue microarray cohort of oral cavity and
+laryngeal/hypopharyngeal squamous cell carcinomas for high risk human
+papillomavirus DNA and E6 and E7 mRNA transcripts by in situ hybridization, and
+for p16 expression by immunohistochemistry.
+RESULTS: We found only two of the 73 (2.7%) evaluable cases to harbour
+transcriptionally-active human papillomavirus. Both of these tumours were from
+the larynx, one was positive for human papillomavirus DNA by in situ
+hybridization, and both were extensively positive for p16. All oral cavity and
+hypopharyngeal tumours were negative for human papillomavirus.
+CONCLUSIONS: Transcriptionally-active human papillomavirus appears to be rare in 
+laryngeal, hypopharyngeal, and oral cavity squamous cell carcinomas. As such, it 
+appears unlikely to be a 'driver' or to be clinically significant in most
+established tumours.
+
+© 2012 Blackwell Publishing Ltd.
+
+DOI: 10.1111/j.1365-2559.2011.04169.x 
+PMID: 22360821  [Indexed for MEDLINE]

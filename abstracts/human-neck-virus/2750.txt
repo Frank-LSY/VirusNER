@@ -1,0 +1,63 @@
+
+
+2750. J Biomed Sci. 2017 May 10;24(1):30. doi: 10.1186/s12929-017-0333-0.
+
+Adducin family proteins possess different nuclear export potentials.
+
+Liu CM(1), Hsu WH(2), Lin WY(3), Chen HC(4)(5)(6)(7)(8).
+
+Author information: 
+(1)Department of Life Sciences, National Chung Hsing University, Taichung,
+Taiwan.
+(2)Program in Tissue Engineering and Regenerative Medicine, National Chung Hsing 
+University, Taichung, Taiwan.
+(3)Institue of Biomedical Sciences, National Chung Hsing University, Taichung,
+Taiwan.
+(4)Department of Life Sciences, National Chung Hsing University, Taichung,
+Taiwan. hcchen@nchu.edu.tw.
+(5)Program in Tissue Engineering and Regenerative Medicine, National Chung Hsing 
+University, Taichung, Taiwan. hcchen@nchu.edu.tw.
+(6)Institue of Biomedical Sciences, National Chung Hsing University, Taichung,
+Taiwan. hcchen@nchu.edu.tw.
+(7)Rong-Hsing Research Center for Translational Medicine, National Chung Hsing
+University, Taichung, Taiwan. hcchen@nchu.edu.tw.
+(8)Institute of Biochemistry and Molecular Biology, National Yang Ming
+University, No. 155, Sec. 2, Li-Nong St, Taipei, 11221, Taiwan.
+hcchen@nchu.edu.tw.
+
+BACKGROUND: The adducin (ADD) family proteins, namely ADD1, ADD2, and ADD3, are
+actin-binding proteins that play important roles in the stabilization of membrane
+cytoskeleton and cell-cell junctions. All the ADD proteins contain a highly
+conserved bipartite nuclear localization signal (NLS) at the carboxyl termini,
+but only ADD1 can localize to the nucleus. The reason for this discrepancy is not
+clear.
+METHODS: To avoid the potential effect of cell-cell junctions on the distribution
+of ADD proteins, HA epitope-tagged ADD proteins and mutants were transiently
+expressed in NIH3T3 fibroblasts and their distribution in the cytoplasm and
+nucleus was examined by immunofluorescence staining. Several nuclear proteins
+were identified to interact with ADD1 by mass spectrometry, which were further
+verified by co-immunoprecipitation.
+RESULTS: In this study, we found that ADD1 was detectable both in the cytoplasm
+and nucleus, whereas ADD2 and ADD3 were detected only in the cytoplasm. However, 
+ADD2 and ADD3 were partially (~40%) sequestered in the nucleus by leptomycin B, a
+CRM1/exportin1 inhibitor. Upon the removal of leptomycin B, ADD2 and ADD3
+re-distributed to the cytoplasm. These results indicate that ADD2 and ADD3
+possess functional NLS and are quickly transported to the cytoplasm upon entering
+the nucleus. Indeed, we found that ADD2 and ADD3 possess much higher potential to
+counteract the activity of the NLS derived from Simian virus 40 large T-antigen
+than ADD1. All the ADD proteins appear to contain multiple nuclear export signals
+mainly in their head and neck domains. However, except for the leucine-rich motif
+(377FEALMRMLDWLGYRT391) in the neck domain of ADD1, no other classic nuclear
+export signal was identified in the ADD proteins. In addition, the nuclear
+retention of ADD1 facilitates its interaction with RNA polymerase II and
+zinc-finger protein 331.
+CONCLUSIONS: Our results suggest that ADD2 and ADD3 possess functional NLS and
+shuttle between the cytoplasm and nucleus. The discrepancy in the subcellular
+localization of the ADD isoforms arises due to their different nuclear export
+capabilities. In addition, the interaction of ADD1 with RNA polymerase II and
+zinc-finger protein 331 implicates a potential role for ADD1 in the regulation of
+transcription.
+
+DOI: 10.1186/s12929-017-0333-0 
+PMCID: PMC5424492
+PMID: 28490361  [Indexed for MEDLINE]

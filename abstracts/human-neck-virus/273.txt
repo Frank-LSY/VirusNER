@@ -1,0 +1,40 @@
+
+
+273. Acta Otolaryngol. 2017 Aug;137(8):791-796. doi: 10.1080/00016489.2017.1293292.
+Epub 2017 Mar 23.
+
+Herpes simplex virus-1 and cytomegalovirus DNAs detection in the inner ear of
+implanted patients with non-congenital infection.
+
+Di Nardo W(1), Anzivino R(1), Cattani P(2), Santangelo R(2), De Corso E(1),
+Paludetti G(1).
+
+Author information: 
+(1)a Department of Head and Neck Surgery, Institute of Otorhinolaryngology ,
+Catholic University of Sacred Heart , Rome , Italy.
+(2)b Department of Diagnostic and Laboratory Medicine, Institute of Microbiology 
+, Catholic University of Sacred Heart , Rome , Italy.
+
+CONCLUSIONS: The detection of cytomegalovirus (CMV) and herpes simplex virus-1
+(HSV-1) genome in perilymph of patients with negative serology or clinical
+history for congenital infections supports the hypothesis that Herpesviridae,
+even after acquired postnatal infections, could remain in latent phase in the
+spiral ganglion and damage the cochlea by a possible subsequent reactivation.
+Further studies are needed to identify the markers of such reactivation.
+OBJECTIVE: To identify the presence of certain viral species in the
+endolabyrinthic fluid of deaf patients with non-congenital infection. The
+research of viral DNA within the inner ear is the only direct way to increase our
+knowledge about the viral role in postnatal damage to the cochlea.
+METHODS: Thirty-six patients (1-69 years) suffering from bilateral sensorineural 
+hearing loss (SNHL) were subjected, during cochlear implant (CI) surgery, to a
+sample taking of inner ear fluid. Several types of viral genome (HSV, VZV, CMV,
+EBV and Enterovirus) were investigated in each sample through multiplex
+polymerase chain reaction (PCR) and reverse transcriptase-polymerase chain
+reaction (RT-PCR). Radiological exams, serology (specific IgG and IgM) and PCR of
+peripheral blood were also performed.
+RESULTS: While the research of the viral genome in peripheral blood was negative 
+in all patients, multiplex PCR on endolabyrinthic fluid samples was positive in
+three patients (two cases of CMV-DNA and one case of HSV-1 DNA).
+
+DOI: 10.1080/00016489.2017.1293292 
+PMID: 28332898  [Indexed for MEDLINE]

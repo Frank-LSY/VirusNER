@@ -1,0 +1,42 @@
+
+
+1622. J Photochem Photobiol B. 2013 Oct 5;127:114-22. doi:
+10.1016/j.jphotobiol.2013.07.020. Epub 2013 Aug 6.
+
+FosPeg® PDT alters the EBV miRNAs and LMP1 protein expression in EBV positive
+nasopharyngeal carcinoma cells.
+
+Wu RW(1), Chu ES, Huang Z, Xu CS, Ip CW, Yow CM.
+
+Author information: 
+(1)Medical Laboratory Science Section, Department of Health Technology &
+Informatics, Hong Kong Polytechnic University, Hong Kong Special Administrative
+Region.
+
+Nasopharyngeal carcinoma (NPC) is one of the top ten cancers highly prevalent in 
+Hong Kong and South China. Epstein-Barr virus (EBV) infection contributes to the 
+tumorigenesis of NPC through the expression of different viral proteins. Among
+these, Latent Membrane Protein 1(LMP1) is the major oncoprotein expressed by EBV.
+Foscan® (Biolitec AG), m-tetrahydroxyphenylchlorin (mTHPC)-based photosensitizing
+drug, has been used in the photodynamic therapy (PDT) for head and neck cancers. 
+FosPeg® (Biolitec AG) is a new formulation of mTHPC contained in PEGylated
+liposomes with optimized distribution properties. In this in vitro study, the
+potential of FosPeg®-PDT on human EBV positive NPC cell (c666-1) and EBV negative
+cells (HK1 and CNE2) were investigated. Effects of FosPeg®-PDT on the expression 
+of EBV BART miRNAs (EBV miRNA BART 1-5p, BART 16, and BART 17-5p), LMP1 mRNA and 
+proteins on c666-1 cells were also elucidated. The killing efficacy of
+FosPeg®-PDT on NPC cells were determined by MTT assay after LED activation.
+Effects of FosPeg®-PDT on the expression of LMP1 mRNA and protein were examined
+by real time PCR and western blot analysis. FosPeg®-PDT demonstrated its
+antitumor effect on c666-1 cells in a drug and light dose dependent manner. LD30,
+LD50 and LD70 were achieved by applying LED activation (3J/cm(2)) at 4h post
+incubated cells with 0.05μg/ml, 0.07μg/ml and 0.3μg/ml FosPeg®, respectively.
+Up-regulation of both LMP1 mRNA and protein were observed after FosPeg®-PDT in a 
+dose dependent manner. FosPeg®-PDT exerted antitumor effect on c666-1 cells
+through up-regulation of LMP1 protein. Understanding the mechanism of FosPeg®-PDT
+may help to develop better strategies for the treatment of NPC.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jphotobiol.2013.07.020 
+PMID: 24013466  [Indexed for MEDLINE]

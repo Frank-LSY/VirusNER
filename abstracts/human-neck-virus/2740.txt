@@ -1,0 +1,39 @@
+
+
+2740. Invest New Drugs. 2011 Jun;29(3):401-10. doi: 10.1007/s10637-009-9356-z. Epub
+2009 Dec 16.
+
+Hypoxia-targeting by tirapazamine (TPZ) induces preferential growth inhibition of
+nasopharyngeal carcinoma cells with Chk1/2 activation.
+
+Hong B(1), Lui VW, Hui EP, Ng MH, Cheng SH, Sung FL, Tsang CM, Tsao SW, Chan AT.
+
+Author information: 
+(1)Cancer Signaling Laboratory, Department of Clinical Oncology, The Chinese
+University of Hong Kong, New Territories, Hong Kong.
+
+Hypoxia is commonly developed in solid tumors, which contributes to metastasis as
+well as radio- and chemo-resistance. Nasopharyngeal carcinoma (NPC) is a highly
+invasive and metastatic head and neck cancer prevalent in Southeast Asia with a
+high incidence rate of 15-30/100,000 persons/year (comparable to that of
+pancreatic cancer in the US). Previous clinical studies in NPC showed that
+hypoxia is detected in almost 100% of primary tumors and overexpression of
+hypoxia markers correlated with poor clinical outcome. Tirapazamine (TPZ) is a
+synthetic hypoxia-activated prodrug, which preferentially forms cytotoxic and
+DNA-damaging free radicals under hypoxia, thus selectively eradicate hypoxic
+cells. Here, we hypothesized that specific hypoxia-targeting by this clinical
+trial agent may be therapeutic for NPC. Our findings demonstrated that under
+hypoxia, TPZ was able to induce preferential growth inhibition of NPC cells,
+which was associated with marked cell cycle arrest at S-phase and PARP cleavage
+(a hallmark of apoptosis). Examination of S-phase checkpoint regulators revealed 
+that Chk1 and Chk2 were selectively activated by TPZ in NPC cells under hypoxia. 
+Hypoxia-selectivity of TPZ was also demonstrated by preferential downregulation
+of several important hypoxia-induced markers (HIF-1α, CA IX and VEGF) under
+hypoxia. Furthermore, we demonstrated that TPZ was equally effective and
+hypoxia-selective even in the presence of the EBV oncoprotein, LMP1 or the EBV
+genome. In summary, encouraging results from this proof-of-concept study
+implicate the therapeutic potential of hypoxia-targeting approaches for the
+treatment of NPC.
+
+DOI: 10.1007/s10637-009-9356-z 
+PMID: 20013349  [Indexed for MEDLINE]

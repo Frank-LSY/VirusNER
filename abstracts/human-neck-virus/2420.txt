@@ -1,0 +1,61 @@
+
+
+2420. HNO. 2015 Nov;63(11):758-67. doi: 10.1007/s00106-015-0074-x.
+
+[HPV-associated head and neck cancer : mutational signature and genomic
+aberrations].
+
+[Article in German]
+
+Wagner S(1)(2), Würdemann N(3)(4), Hübbers C(5)(4), Reuschenbach M(6)(4), Prigge 
+ES(6)(4), Wichmann G(7)(4), Hess J(8)(4), Dietz A(7)(4), Dürst M(9)(4), Tinhofer 
+I(10)(4), von Knebel-Döberitz M(6)(4), Wittekindt C(3)(4), Klussmann JP(3)(4).
+
+Author information: 
+(1)HNO-Tumorforschung, Klinik für HNO-Heilkunde, Kopf-, Halschirurgie,
+Justus-Liebig-Universität Gießen, Schuberstr. 81 (BFS), 35392, Gießen,
+Deutschland. steffen.wagner@hno.med.uni-giessen.de.
+(2)The Human Papillomavirus Infection and Oropharyngeal Cancer Consortium (HOCC),
+. steffen.wagner@hno.med.uni-giessen.de.
+(3)HNO-Tumorforschung, Klinik für HNO-Heilkunde, Kopf-, Halschirurgie,
+Justus-Liebig-Universität Gießen, Schuberstr. 81 (BFS), 35392, Gießen,
+Deutschland.
+(4)The Human Papillomavirus Infection and Oropharyngeal Cancer Consortium (HOCC).
+(5)Jean-Uhrmacher-Institut für klinische HNO-Forschung, Universität zu Köln,
+Köln, Deutschland.
+(6)Abteilung für Angewandte Tumorbiologie, Institut für Pathologie,
+Universitätsklinikum Heidelberg, Heidelberg, Deutschland.
+(7)Hals-Nasen-Ohren-Universitätsklinik Leipzig, Liebigstr. 10-14, 04103, Leipzig,
+Deutschland.
+(8)Sektion Experimentelle und Translationale Kopf-Hals-Onkologie,
+Hals-Nasen-Ohrenklinik, Universitätsklinikum Heidelberg, Heidelberg, Deutschland.
+(9)Klinik für Frauenheilkunde, Universitätsklinikum Jena, Jena, Deutschland.
+(10)Klinik für Radioonkologie und Strahlentherapie, Charité - Universitätsmedizin
+Berlin, Berlin, Deutschland.
+
+A significantly increasing proportion of oropharyngeal head and neck carcinomas
+(OSCC) in North America and Europe are associated with human papillomavirus (HPV)
+infections. HPV-related OSCC is regarded as a distinct tumor type with regard to 
+its cellular, biologic, and clinical characteristics. Patients with HPV-related
+OSCC have significantly better local control, but higher rates of regional lymph 
+node and distant metastases as compared to patients with HPV-negative OSCC.
+Classical molecular genetic investigations demonstrated specific chromosomal
+aberration signatures in HPV-related OSCC, and recent developments in next
+generation sequencing (NGS) technology have rendered possible the sequencing of
+entire genomes, and thus detection of specific mutations, in just a few days.
+Initial data from The Cancer Genome Atlas (TCGA) project obtained by using
+genome-wide high throughput methods have confirmed that HPV-related OSCC contain 
+fewer, albeit more specific mutations than HPV-negative tumors. Additionally,
+these data revealed the presence of specific-potentially therapeutically
+targetable-activating driver mutations in subgroups of HPV-positive OSCC, some of
+which have a prognostic impact. Specific targeted NGS technologies provide new
+possibilities for identification of diagnostic, prognostic, and predictive
+biomarkers and the development of personalized cancer treatment. Patients with
+HPV-positive tumors are likely to profit from these developments in the future,
+since the genetic alterations are relatively homogenous and frequently lead to
+signal pathway activation. There is an urgent need for network research
+activities to carry out the necessary basic research in prospective cohort
+studies.
+
+DOI: 10.1007/s00106-015-0074-x 
+PMID: 26507715  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+3100. J Pathol. 2013 Nov;231(3):311-22. doi: 10.1002/path.4239. Epub 2013 Sep 3.
+
+Constitutive activation of distinct NF-κB signals in EBV-associated
+nasopharyngeal carcinoma.
+
+Chung GT(1), Lou WP, Chow C, To KF, Choy KW, Leung AW, Tong CY, Yuen JW, Ko CW,
+Yip TT, Busson P, Lo KW.
+
+Author information: 
+(1)Department of Anatomical and Cellular Pathology, State Key Laboratory in
+Oncology in South China, Prince of Wales Hospital, The Chinese University of Hong
+Kong, Hong Kong; Li Ka Shing Institute of Health Science, Prince of Wales
+Hospital, The Chinese University of Hong Kong, Hong Kong.
+
+As a distinct type of head and neck cancer, non-keratinizing nasopharyngeal
+carcinoma (NPC) is closely associated with EBV infection and massive lymphoid
+infiltration. The unique histological features suggest that local inflammation
+plays an important role in NPC tumourigenesis. We comprehensively characterized
+NF-κB signalling, a key inflammatory pathway which might contribute to the
+tumourigenesis of this EBV-associated cancer. By EMSA, western blotting, and
+immunohistochemical staining, constitutive activation of distinct NF-κB
+complexes, either p50/p50/Bcl3 or p50/RelB, was found in almost all EBV-positive 
+NPC tumours. siRNA or chemical inhibition of NF-κB signalling significantly
+inhibited the growth of EBV-positive NPC cells C666-1. Gene expression profiling 
+identified a number of NF-κB target genes involved in cell proliferation,
+apoptosis, immune response, and transcription. We further confirmed that p50
+signals modulate the expression of multiple oncogenes (MYB, BCL2), chemokines,
+and chemokine receptors (CXCL9, CXCL10, CX3CL1, and CCL20). The findings support 
+a crucial role of these constitutively activated NF-κB signals in NPC
+tumourigenesis and local inflammation. In addition to expression of the viral
+oncoprotein LMP1, genetic alteration of several NF-κB regulators (eg TRAF3,
+TRAF2, NFKBIA, A20) also contributes to the aberrant NF-κB activation in
+EBV-associated NPC. Except for LMP1-expressing C15 cells, all NPC tumour lines
+harbour at least one of these genetic alterations. Importantly, missense
+mutations of TRAF3, TRAF2, and A20 were also detected in 3/33 (9.1%) primary
+tumours. Taken together with the reported LTBR amplification in 7.3% of primary
+NPCs, genetic alterations in NF-κB pathways occurred in at least 16% of cases of 
+this cancer. The findings indicate that distinct NF-κB signals are constitutively
+activated in EBV-positive NPC cells by either multiple genetic changes or EBV
+latent genes.
+
+Copyright © 2013 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+DOI: 10.1002/path.4239 
+PMID: 23868181  [Indexed for MEDLINE]

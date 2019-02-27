@@ -1,0 +1,41 @@
+
+
+2504. Int J Cancer. 2012 Aug 1;131(3):E251-8. doi: 10.1002/ijc.27335. Epub 2011 Dec 2.
+
+Combined p53-related genetic variants together with HPV infection increase oral
+cancer risk.
+
+Wang Z(1), Sturgis EM, Zhang Y, Huang Z, Zhou Q, Wei Q, Li G.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX 77030, USA.
+
+To explore the role of polymorphisms of p53-related genes in etiology of oral
+cancer, we investigated joint effects of seven putatively functional
+polymorphisms of p53 (codon 72 Arg/Pro), p73 (4/14 GC/AT), murine double minute 2
+gene (MDM2; A2164G and T2580G) and MDM4 (rs11801299 G > A, rs10900598 G > T and
+rs1380576 C > G) on risk of human papillomavirus (HPV)16-associated oral cancer
+in a case-control study with 325 cases and 335 cancer-free controls. We found
+that HPV16 seropositivity alone was associated with an increased risk of oral
+cancer [adjusted odds ratio (OR), 3.1; 95% confidence interval (CI), 2.1-4.6].
+After combining genotypes of seven polymorphisms and using the low-risk group
+(0-3 combined risk genotypes) and HPV16 seronegativity as the reference group,
+the medium-risk (4 combined risk genotypes) and high-risk groups (5-7 combined
+risk genotypes) and HPV16 seronegativity were associated with only an OR of 1.6
+(95% CI, 1.1-2.5) and 1.2 (95% CI, 0.7-1.9) for oral cancer risk, respectively,
+whereas the low-risk, medium-risk and high-risk groups and HPV16 seropositivity
+were significantly associated with a higher OR of 2.1 (95% CI, 1.2-3.6), 4.0 (95%
+CI, 1.8-9.1) and 19.1 (95% CI, 5.7-64.2), respectively. Notably, such effect
+modification by these combined risk genotypes was particularly pronounced in
+young subjects (aged < 50 years), never smokers and patients with oropharyngeal
+cancer. Taken together, these findings suggest that the combined risk genotypes
+of p53-related genes may modify risk of HPV16-associated oral cancer, especially 
+in young patients, never-smokers and patients with oropharyngeal cancer. Larger
+studies are needed to validate our findings.
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.27335 
+PMCID: PMC3289741
+PMID: 22052649  [Indexed for MEDLINE]

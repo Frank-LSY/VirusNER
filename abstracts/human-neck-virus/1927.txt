@@ -1,0 +1,42 @@
+
+
+1927. Br J Cancer. 2017 Sep 5;117(6):876-883. doi: 10.1038/bjc.2017.258. Epub 2017 Aug 
+15.
+
+Predicting response to radical (chemo)radiotherapy with circulating HPV DNA in
+locally advanced head and neck squamous carcinoma.
+
+Lee JY(1), Garcia-Murillas I(1), Cutts RJ(1), De Castro DG(2), Grove L(2), Hurley
+T(2), Wang F(2), Nutting C(1)(2), Newbold K(1)(2), Harrington K(1)(2), Turner
+N(1)(2), Bhide S(1)(2).
+
+Author information: 
+(1)The Institute of Cancer Research, Fulham Road, London SW3 6JB, UK.
+(2)The Royal Marsden Hospital, Fulham Road, London SW3 6JJ and Downs Road Sutton,
+SM2 5PT, UK.
+
+BACKGROUND: Following chemo-radiotherapy (CCRT) for human papilloma virus
+positive (HPV+) locally advanced head and neck cancer, patients frequently
+undergo unnecessary neck dissection (ND) and/or repeated biopsies for abnormal
+PET-CT, which causes significant morbidity. We assessed the role of circulating
+HPV DNA in identifying 'true' residual disease.
+METHODS: We prospectively recruited test (n=55) and validation (n=33) cohorts.
+HPV status was confirmed by E7 RT-PCR. We developed a novel amplicon-based next
+generation sequencing assay (HPV16-detect) to detect circulating HPV DNA.
+Circulating HPV DNA levels post-CCRT were correlated to disease response
+(PET-CT).
+RESULTS: In pre-CCRT plasma, HPV-detect demonstrated 100% sensitivity and 93%
+specificity, and 90% sensitivity and 100% specificity for the test (27 HPV+) and 
+validation (20 HPV+) cohorts, respectively. Thirty-six out of 37 patients (test
+and validation cohort) with complete samples-set had negative HPV-detect at end
+of treatment. Six patients underwent ND (3) and repeat primary site biopsies (3) 
+for positive PET-CT but had no viable tumour. One patient had positive HPV-detect
+and positive PET-CT and liver biopsy, indicating 100% agreement for HPV-detect
+and residual cancer.
+CONCLUSIONS: We demonstrate that HPV16-detect is a highly sensitive and specific 
+test for identification of HPV DNA in plasma at diagnosis. HPV DNA post-treatment
+correlates with clinical response.
+
+DOI: 10.1038/bjc.2017.258 
+PMCID: PMC5589999
+PMID: 28809864  [Indexed for MEDLINE]

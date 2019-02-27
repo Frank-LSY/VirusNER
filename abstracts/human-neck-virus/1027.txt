@@ -1,0 +1,57 @@
+
+
+1027. Int J Cancer. 2017 Jun 15;140(12):2748-2757. doi: 10.1002/ijc.30697. Epub 2017
+Apr 4.
+
+Sensitivity and specificity of antibodies against HPV16 E6 and other early
+proteins for the detection of HPV16-driven oropharyngeal squamous cell carcinoma.
+
+Holzinger D(1), Wichmann G(2), Baboci L(1)(3), Michel A(1), Höfler D(1),
+Wiesenfarth M(4), Schroeder L(1), Boscolo-Rizzo P(5), Herold-Mende C(6)(7),
+Dyckhoff G(6), Boehm A(2), Del Mistro A(8), Bosch FX(6), Dietz A(2), Pawlita
+M(1), Waterboer T(1).
+
+Author information: 
+(1)Division of Molecular Diagnostics of Oncogenic Infections, Infection,
+Inflammation and Cancer Program, German Cancer Research Center (DKFZ),
+Heidelberg, Germany.
+(2)Department of Otorhinolaryngology, University Hospital Leipzig, Leipzig,
+Germany.
+(3)Department of Oncology and Surgical Sciences, University of Padua, Padua,
+Italy.
+(4)Division of Biostatistics, German Cancer Research Center, Heidelberg, Germany.
+(5)Department of Neurosciences, ENT Clinic and Regional Center for Head and Neck 
+Cancer, University of Padua, Treviso, Italy.
+(6)Department of Otorhinolaryngology, Head and Neck Surgery, Heidelberg
+University, Heidelberg, Germany.
+(7)Department of Neurosurgery, Division of Experimental Neurosurgery, Heidelberg 
+University, Heidelberg, Germany.
+(8)Department of Immunology and Molecular Oncology, IRCCS Veneto Institute of
+Oncology (IOV), Padua, Italy.
+
+To determine the sensitivity and specificity of HPV16 serology as diagnostic
+marker for HPV16-driven oropharyngeal squamous cell carcinoma (OPSCC), 214 HNSCC 
+patients from Germany and Italy with fresh-frozen tumor tissues and sera
+collected before treatment were included in this study. Hundred and twenty cancer
+cases were from the oropharynx and 94 were from head and neck cancer regions
+outside the oropharynx (45 oral cavity, 12 hypopharynx and 35 larynx). Serum
+antibodies to early (E1, E2, E6 and E7) and late (L1) HPV16 proteins were
+analyzed by multiplex serology and were compared to tumor HPV RNA status as the
+gold standard. A tumor was defined as HPV-driven in the presence of HPV16 DNA and
+HPV16 transformation-specific RNA transcript patterns (E6*I, E1∧ E4 and E1C). Of 
+120 OPSCC, 66 (55%) were HPV16-driven. HPV16 E6 seropositivity was the best
+predictor of HPV16-driven OPSCC (diagnostic accuracy 97% [95%CI 92-99%], Cohen's 
+kappa 0.93 [95%CI 0.8-1.0]). Of the 66 HPV-driven OPSCC, 63 were HPV16 E6
+seropositive, compared to only one (1.8%) among the 54 non-HPV-driven OPSCC,
+resulting in a sensitivity of 96% (95%CI 88-98) and a specificity of 98% (95%CI
+90-100). Of 94 HNSCC outside the oropharynx, six (6%) were HPV16-driven. In these
+patients, HPV16 E6 seropositivity had lower sensitivity (50%, 95%CI 19-81), but
+was highly specific (100%, 95%CI 96-100). In conclusion, HPV16 E6 seropositivity 
+appears to be a highly reliable diagnostic marker for HPV16-driven OPSCC with
+very high sensitivity and specificity, but might be less sensitive for
+HPV16-driven HNSCC outside the oropharynx.
+
+© 2017 UICC.
+
+DOI: 10.1002/ijc.30697 
+PMID: 28316084  [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+
+
+1470. Scand J Immunol. 2017 Mar;85(3):211-219. doi: 10.1111/sji.12518.
+
+In vitro Monocyte IL-6 Secretion Levels Following Stimulation with Autologous
+Spheroids Derived from Tumour or Benign Mucosa Predict Long-term Survival in Head
+and Neck Squamous Cell Carcinoma Patients.
+
+Aarstad HJ(1)(2), Aarstad HH(1)(2), Vintermyr OK(1)(3), Kross KW(4), Lybak
+S(1)(2), Heimdal JH(1)(2).
+
+Author information: 
+(1)Department of Clinical Medicine, Faculty of Medicine and Dentistry, University
+of Bergen, Bergen, Norway.
+(2)Department of Otolaryngology/Head and Neck Surgery, Haukeland University
+Hospital, Bergen, Norway.
+(3)Department of Pathology, Haukeland University Hospital, Bergen, Norway.
+(4)Department of Otolaryngology/Head and Neck Surgery, Maastricht University
+Medical Centre, Maastricht, The Netherlands.
+
+MCP-1/IL-6 in vitro monocyte secretion upon coculture with autologous fragment
+spheroids was studied in relation to patient 5- and 10-year overall survival
+rates in head and neck squamous cell carcinoma (HNSCC) patients (n = 65)
+diagnosed between 1998 and 2005, nine of whom had an human papilloma virus (HPV) 
+tumour infection. The spheroids were harvested from malignant or benign tissue
+during primary surgery. Two weeks following surgery, freshly isolated autologous 
+monocytes and benign or malignant spheroids were cocultured 24 h in vitro. The
+IL-6 secretion was expressed as a fraction of the lipopolysaccharide (LPS)
+response from the same batch of monocytes. HPV status was obtained by employing
+PCR analyses of primary diagnostic blocks. IL-6/MCP-1 response levels were not
+found to be dependent on HPV infection status. MCP-1 secretion did not predict
+prognosis, nor did in vitro IL-6 monocyte background or LPS-stimulated IL-6
+secretion. At 5-year observation, dichotomized IL-6 levels following monocyte
+coculture, with both malignant and benign spheroids, showed a strong trend
+towards predicting survival, that is a low monocyte malignant coculture response 
+showed a survival of 31 ± 17 versus 58 ± 17% with a high such response
+(P = 0.057). When studying monocyte IL-6 coculture responses evaluating benign
+and malignant spheroid results statistically together, a prediction of survival
+up to 10 years was found (hazard ratio = 0.48; confidence interval = 0.24-0.96;
+P < 0.05) with double low IL-6 responses. This survival prediction was also
+present after an adjustment for HPV tumour infection status. In conclusion,
+monocyte IL-6 in vitro secretion in cocultures with autologous spheroids/serum
+from HNSCCs predicted 5- and 10-year survivals, both with and without tumour HPV 
+tumour adjustment.
+
+© 2016 The Foundation for the Scandinavian Journal of Immunology.
+
+DOI: 10.1111/sji.12518 
+PMID: 27943380  [Indexed for MEDLINE]

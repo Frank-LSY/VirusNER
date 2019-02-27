@@ -1,0 +1,46 @@
+
+
+2627. Tumori. 2010 Jan-Feb;96(1):143-8.
+
+Reactive lymphoid hyperplasia with giant follicles associated with a
+posttherapeutic state of hematological malignancies. A report of eight cases.
+
+Kojima M(1), Nakamura N, Murayama K, Igarashi T, Matsumoto M, Matsuda H, Masawa
+N, Miura I, Morita Y.
+
+Author information: 
+(1)Department of Pathology, Dokkyo University School of Medicine, Mibu, Japan.
+mkojima@dokkyomed.ac.jp
+
+AIMS AND BACKGROUND: To further clarify the clinicopathological, molecular
+genetic and karyotypic findings of reactive lymph node hyperplasia with giant
+follicles (RLHGF) associated with a posttherapeutic state of hematological
+malignancies, we studied eight such cases.
+METHODS: Using formalin-fixed, paraffin-embedded sections, histological,
+immunohistochemical, in situ hybridization (ISH), and polymerase chain reaction
+(PCR) were performed.
+RESULTS: Six patients had a history of malignant lymphoma (diffuse large B-cell
+lymphoma [DLBCL] = 4, marginal zone B-cell lymphoma = 2), and two had acute
+myeloid leukemia (AML). Six patients initially presented with lymphadenopathy of 
+the head and neck area and the remaining one presented with swelling of the
+tonsil. All seven cases demonstrating analyzable metaphases showed a normal
+karyotype. Histologically, all eight lesions were characterized by numerous
+enlarged, bizarre-shaped coalescing lymphoid follicles with follicular lysis.
+Immunohistochemical and flow cytometry study demonstrated the reactive nature of 
+the B cells in all eight lesions. However, three of our eight cases demonstrated 
+immunoglobulin heavy-chain (IgH) gene rearrangement on PCR study. Different
+clonal bands were detected in the initial lymphomatous tissue and RLHGF in one of
+the studied cases. There was no development of B-cell lymphoma or recurrence of
+B-cell lymphoma in any of the three lesions demonstrating IgH rearrangement.
+There were no human herpes virus type-8+ or human immunodeficiency virus type-1+ 
+cells in any of the eight lesions. ISH demonstrated Epstein-Barr virus
+(EBV)-encoded small RNA (EBER)+ cells in only two lesions. PCR analyses
+demonstrated that there was no Toxoplasma gondii DNA in any of the eight lesions.
+CONCLUSIONS: As suggested in RLHGF posttransplant, RLHGF arising after therapy
+for hematological malignancies is also a consequence of chronic stimulation in
+the setting of immune deregulation rather than various infectious agents. It is
+important for pathologists and clinicians to be aware of this type of lesion in
+diagnostic practice.
+
+
+PMID: 20437872  [Indexed for MEDLINE]

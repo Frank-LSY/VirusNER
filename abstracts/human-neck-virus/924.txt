@@ -1,0 +1,55 @@
+
+
+924. Oral Oncol. 2015 Oct;51(10):901-7. doi: 10.1016/j.oraloncology.2015.06.011. Epub 
+2015 Jul 26.
+
+The epidemiology of head and neck squamous cell carcinoma in The Netherlands
+during the era of HPV-related oropharyngeal squamous cell carcinoma. Is there
+really evidence for a change?
+
+van Monsjou HS(1), Schaapveld M(2), van den Brekel MW(3), Balm AJ(3).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Leiden University Medical Center, Leiden,
+The Netherlands; Department of Head and Neck Surgery and Oncology, The
+Netherlands Cancer Institute/Antoni van Leeuwenhoek Hospital, Amsterdam, The
+Netherlands. Electronic address: h.s.van_monsjou@lumc.nl.
+(2)Department of Psychosocial Research, Epidemiology and Biostatistics, The
+Netherlands Cancer Institute/Antoni van Leeuwenhoek, Amsterdam, The Netherlands; 
+Comprehensive Cancer Center Netherlands, Amsterdam, The Netherlands.
+(3)Department of Head and Neck Surgery and Oncology, The Netherlands Cancer
+Institute/Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands; Department
+of Oral-, Maxillofacial Surgery, Academic Medical Center Amsterdam, The
+Netherlands.
+
+BACKGROUND: Several recent studies have shown that incidence of oropharyngeal
+carcinomas is rising in the Western World. This increase has been attributed to
+changes in the etiology of oropharyngeal carcinomas with a growing role for
+infections with Human Papilloma viruses. This nationwide study evaluates and
+compares trends in incidence, clinical behavior and tumor characteristics of
+oropharyngeal and oral squamous cell cancer.
+METHODS: This study comprised all 16,480 patients with primary squamous cell
+carcinoma of the oral tongue (OTSCC), oral cavity excluding oral tongue (OCSCC), 
+and oropharynx (OPSCC) diagnosed from 1989 through 2008 in The Netherlands. We
+assessed trends in age-standardized incidence, second cancer risk and subsite
+specific relative survival (RS) over time.
+RESULTS: Incidence of OTSCC and OPSCC in males and incidence of all subsites in
+females increased significantly from 1989 through 2008. In males increases in
+incidence were largely restricted to the 50-64 year age group (estimated annual
+percentage change 2.2% and 3.2% for OTSCC and OPSCC, respectively), while in
+females incidence increased for most age groups. The incidence of OCSCC (excl.
+oral tongue) and OPSCC before 50 years of age decreased. Patients with OPSCC
+showed the poorest prognosis with a relative survival of 41.6% after 5 years and 
+29.4% after 10 years (P<0.001) over the entire period 1989-2008. However survival
+increased substantially for OPSCC patients over time (5-year RS of 37.2% in
+1989-1993 to 47.6% in 2004-2008, P<0.001).
+CONCLUSION: Although incidence of OPSCC did increase since 1989, especially in
+females, similar increases were seen for OCSCC (excl. oral tongue) and OTSCC. Our
+study does not appear to support that HPV is the main contributor to a rising
+incidence of OPSCC as the effects of changes in smoking and alcohol use cannot be
+discounted.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.06.011 
+PMID: 26216340  [Indexed for MEDLINE]

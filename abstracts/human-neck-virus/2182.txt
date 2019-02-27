@@ -1,0 +1,47 @@
+
+
+2182. PLoS One. 2018 Apr 30;13(4):e0196201. doi: 10.1371/journal.pone.0196201.
+eCollection 2018.
+
+Prevalence of and risk factors for low bone mineral density in Spanish treated
+HIV-infected patients.
+
+Cervero M(1), Torres R(1), Agud JL(1), Alcázar V(2), Jusdado JJ(1),
+García-Lacalle C(3), Moreno S(4).
+
+Author information: 
+(1)Department of Internal Medicine, Severo Ochoa University Hospital, Leganés,
+Madrid, Spain.
+(2)Department of Endocrinology, Severo Ochoa University Hospital, Leganés,
+Madrid, Spain.
+(3)Department of Biochemistry, Severo Ochoa University Hospital, Leganés, Madrid,
+Spain.
+(4)Department of Infectious Diseases, Ramón y Cajal Hospital, University of
+Alcalá de Henares, IRYCIS, Madrid, Spain.
+
+OBJECTIVES: Several studies have involved antiretroviral therapy in the
+pathogenesis of low bone mineral density (BMD), while others have not confirmed
+this association. In this study we analyze the impact of HIV status, traditional 
+risk factors and antiretroviral therapy in BMD in an HIV-infected population
+living in Madrid.
+MATERIAL AND METHODS: We performed a cross-sectional analysis of 107 individuals 
+infected with HIV and exposed to antiretroviral treatment to estimate the
+prevalence of decreased BMD. Bone mineral density of lumbar spine and femoral
+neck was measured by dual-energy X-ray absorptiometry. In a multivariate analysis
+variables related with HIV status, antiretroviral drugs and traditional risk
+factors were included.
+RESULTS: Low BMD was diagnosed in 63 participants (58.9%), including osteoporosis
+in 11 (10%). At least one cause of osteoporosis was identified in 43 patients
+(40%), with a deficiency of vitamin D in 86 (89%) and secondary
+hyperparathyroidism in 30 (28%). In multivariate analysis, increasing age, a
+treatment based on boosted PI and tenofovir DF, and previous exposure to
+tenofovir were identified as independent risk factors for a decreased BMD in both
+lumbar spine and femoral neck.
+CONCLUSIONS: We have confirmed a high prevalence of reduced BMD, which is
+favoured by ritonavir-boosted PI and TDF. Bone safety should continue to be
+evaluated in clinical trials and cohort studies in order to demonstrate that the 
+new drugs offer additional advantages regarding the impact on BMD.
+
+DOI: 10.1371/journal.pone.0196201 
+PMCID: PMC5927434
+PMID: 29709013  [Indexed for MEDLINE]

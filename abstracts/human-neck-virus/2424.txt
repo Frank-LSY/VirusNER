@@ -1,0 +1,40 @@
+
+
+2424. Trials. 2011 Aug 8;12:190. doi: 10.1186/1745-6215-12-190.
+
+Can an online clinical data management service help in improving data collection 
+and data quality in a developing country setting?
+
+Wildeman MA(1), Zandbergen J, Vincent A, Herdini C, Middeldorp JM, Fles R,
+Dalesio O, van der Donk E, Tan IB.
+
+Author information: 
+(1)Department of Head and Neck Oncology and Surgery, The Netherlands Cancer
+Institute- Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands.
+m.wildeman@nki.nl
+
+BACKGROUND: Data collection by electronic medical record (EMR) systems have been 
+proven to be helpful in data collection for scientific research and in improving 
+healthcare. For a multi-centre trial in Indonesia and the Netherlands a web based
+system was selected to enable all participating centres to easily access data.
+This study assesses whether the introduction of a clinical trial data management 
+service (CTDMS) composed of electronic case report forms (eCRF) can result in
+effective data collection and treatment monitoring.
+METHODS: Data items entered were checked for inconsistencies automatically when
+submitted online. The data were divided into primary and secondary data items. We
+analysed both the total number of errors and the change in error rate, for both
+primary and secondary items, over the first five month of the trial.
+RESULTS: In the first five months 51 patients were entered. The primary data
+error rate was 1.6%, whilst that for secondary data was 2.7% against acceptable
+error rates for analysis of 1% and 2.5% respectively.
+CONCLUSION: The presented analysis shows that after five months since the
+introduction of the CTDMS the primary and secondary data error rates reflect
+acceptable levels of data quality. Furthermore, these error rates were decreasing
+over time. The digital nature of the CTDMS, as well as the online availability of
+that data, gives fast and easy insight in adherence to treatment protocols. As
+such, the CTDMS can serve as a tool to train and educate medical doctors and can 
+improve treatment protocols.
+
+DOI: 10.1186/1745-6215-12-190 
+PMCID: PMC3175171
+PMID: 21824421  [Indexed for MEDLINE]

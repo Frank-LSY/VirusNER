@@ -1,0 +1,51 @@
+
+
+2146. Am J Otolaryngol. 2018 May - Jun;39(3):257-260. doi:
+10.1016/j.amjoto.2018.01.011. Epub 2018 Feb 7.
+
+Prognostic significance of HPV status in the re-irradiation of recurrent and
+second primary cancers of the head and neck.
+
+Velez MA(1), Wang PC(1), Hsu S(1), Chin R(1), Beron P(1), Abemayor E(2), St John 
+M(2), Chen AM(3).
+
+Author information: 
+(1)Department of Radiation Oncology, University of California, Los Angeles, David
+Geffen School of Medicine, United States.
+(2)Department of Otolaryngology- Head and Neck Surgery, University of California,
+Los Angeles, David Geffen School of Medicine, United States.
+(3)Department of Radiation Oncology, University of California, Los Angeles, David
+Geffen School of Medicine, United States. Electronic address: achen5@kumc.edu.
+
+PURPOSE: To evaluate the prognostic significance of human papillomavirus (HPV)
+status among patients treated by salvage radiation therapy for local-regional
+recurrences and second primary cancers of the head and neck arising in a
+previously irradiated field.
+METHODS AND MATERIALS: The medical records of 54 consecutive patients who
+underwent re-irradiation for squamous cell carcinoma of the head and neck
+occurring in a previously irradiated field were reviewed. Only patients with
+biopsy-proven evidence of recurrent disease that had previously been treated with
+doses of radiation therapy of at least 60 Gy were included. Determination of HPV 
+status at the time of recurrence was performed by p16 immunohistochemistry. The
+median age at re-irradiation was 58.5 years (range, 27.9 to 81.5 years). Thirty
+patients (55.5%) were lifelong never-smokers. The Kaplan Meier method was used to
+calculate overall survival, progression-free survival, and local-regional
+control, and distant metastasis-free survival with comparisons between groups
+performed using the log-rank test.
+RESULTS: HPV status among tumors that were re-irradiated was as follows: 16
+positive (29.7%); 7 negative (12.9%); 31 unknown (57.4%). The median overall
+survival in the entire cohort was 11.7 months (range, 8 to 27 months), with the
+1-year and 2-year estimates of overall survival being 47.2% and 38.4%,
+respectively. A statistical trend was identified favoring patients with
+HPV-positive cancers with respect to the endpoints of overall survival (p = 0.06)
+and progression-free survival (p = 0.08) after re-irradiation when compared to
+the HPV-negative/unknown population. There was no significant difference in
+distant control between the two cohorts (p = 0.40).
+CONCLUSIONS: The favorable prognostic significance of HPV seemingly extends to
+patients treated by re-irradiation suggesting that this biomarker may be useful
+in risk stratification in this setting.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2018.01.011 
+PMID: 29433815  [Indexed for MEDLINE]

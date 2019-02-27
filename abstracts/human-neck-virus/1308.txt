@@ -1,0 +1,51 @@
+
+
+1308. PLoS One. 2017 Nov 20;12(11):e0188322. doi: 10.1371/journal.pone.0188322.
+eCollection 2017.
+
+Supraglottic squamous cell carcinomas have distinctive clinical features and
+prognosis based on subregion.
+
+Ding W(1)(2), Liu T(3), Liang J(1)(2), Hu T(1)(2), Cui S(1)(2), Zou G(1)(2), Cai 
+W(1)(2), Yang A(4)(5).
+
+Author information: 
+(1)Department Otorhinolaryngology, Panyu Central Hospital, Guangzhou, China.
+(2)Cancer Institute of Panyu, Guangzhou, China.
+(3)Department of Otorhinolaryngology Head and Neck Surgery, The Sixth Affiliated 
+Hospital of Sun Yat-sen University, Guangzhou, China.
+(4)Department of Head and Neck Surgery, Sun Yat-sen University Cancer Center,
+Guangzhou, China.
+(5)State Key Laboratory of Southern China, Guangzhou, China.
+
+OBJECTIVE: To analyze the clinicopathologic characteristics and prognosis of
+patients with squamous cell carcinoma localized to different supraglottic
+subregions.
+METHODS: Clinicopathologic data were reviewed retrospectively for 111 patients
+with supraglottic squamous cell carcinoma who were diagnosed between January 1,
+1995 and December 31, 2005 and were initially treated with surgery. DNA from
+human papillomavirus (HPV) 16 and (or /and) HPV 18 were detected in all the 111
+supraglottic carcinoma specimens using in situ hybridization. Survival analysis
+was performed by Kaplan-Meier analysis, factors were compared using log-rank
+test, and prognostic factors were determined using Cox proportional hazards
+model. The relationship between subregions and clinicopathologic factors was
+analyzed using Chi-square tests.
+RESULTS: HPV prevalence differed between patients with aryepiglottic fold
+carcinoma and ventricle carcinoma (P < .05). The local-regional control rates,
+overall survival rates or cancer specific survival rates were significantly
+different between different subregions. Univariate analysis indicated that pTNM
+classification, pN spread, and subregion were associated with prognosis (P <
+.05). Multivariate analysis indicated that pTNM classification and subregion were
+associated with supraglottic carcinoma prognosis. The survival rate was better
+for patients with carcinoma of the epiglottis or ventricular bands compared to
+those with carcinoma in the aryepiglottic fold or ventricle (P = .012).
+CONCLUSIONS: Subregion may be a new prognostic factor for supraglottic squamous
+cell carcinoma. Different supraglottic carcinoma subregions have distinct
+clinical features such as HPV expression, lymph node metastasis rate,
+local-regional control and prognosis. Therefore, it is necessary to subdivide
+supraglottic squamous cell carcinomas into several subregion groups to
+individualize therapy.
+
+DOI: 10.1371/journal.pone.0188322 
+PMCID: PMC5695779
+PMID: 29155864  [Indexed for MEDLINE]

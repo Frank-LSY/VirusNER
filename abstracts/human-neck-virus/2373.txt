@@ -1,0 +1,44 @@
+
+
+2373. Head Neck. 2016 Jan;38(1):59-65. doi: 10.1002/hed.23850. Epub 2015 Apr 6.
+
+HPV-related oropharyngeal cancer: Risk factors for treatment failure in patients 
+managed with primary transoral robotic surgery.
+
+Kaczmar JM(1), Tan KS(2), Heitjan DF(2), Lin A(3), Ahn PH(3), Newman JG(4),
+Rassekh CH(4), Chalian AA(4), O'Malley BW Jr(4), Cohen RB(5), Weinstein GS(4).
+
+Author information: 
+(1)Department of Medical Oncology, Fox Chase Cancer Center/Temple University,
+Philadelphia, Pennsylvania.
+(2)Department of Biostatistics and Epidemiology, University of Pennsylvania,
+Philadelphia, Pennsylvania.
+(3)Department of Radiation Oncology, University of Pennsylvania, Philadelphia,
+Pennsylvania.
+(4)Department of Otorhinolaryngology/Head and Neck Surgery, University of
+Pennsylvania, Philadelphia, Pennsylvania.
+(5)Department of Internal Medicine, University of Pennsylvania, Philadelphia,
+Pennsylvania.
+
+BACKGROUND: The purpose of this study was to determine clinical factors that
+predict locoregional recurrence or distant metastasis in patients with human
+papillomavirus (HPV)-positive oropharyngeal cancer treated with surgery and
+guideline-indicated adjuvant therapy.
+METHODS: We identified all presumed HPV-positive patients with oropharyngeal
+cancer in our health system from January 2010 to August 2012 treated with surgery
+and guideline-indicated adjuvant therapy. Statistical analysis was performed to
+identify clinical predictors associated with treatment failure.
+RESULTS: One hundred fourteen p16+ oropharyngeal cancers managed with initial
+surgical resection were identified. Median follow-up was 17 months. Two-year
+locoregional failure was 3.3% and distant failure was 8.4%. Statistical analysis 
+found that conventional poor prognostic features did not predict treatment
+failure.
+CONCLUSION: Locoregional recurrence and development of distant metastatic disease
+are uncommon in patients who are appropriately selected for surgical management
+of p16+ oropharyngeal cancer regardless of the presence or absence of
+conventional poor prognostic features.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23850 
+PMID: 25197014  [Indexed for MEDLINE]

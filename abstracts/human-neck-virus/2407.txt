@@ -1,0 +1,33 @@
+
+
+2407. Semin Radiat Oncol. 2017 Oct;27(4):340-349. doi: 10.1016/j.semradonc.2017.04.008.
+
+Management of Radiation Toxicity in Head and Neck Cancers.
+
+Siddiqui F(1), Movsas B(2).
+
+Author information: 
+(1)Department of Radiation Oncology, Henry Ford Health System, Detroit, MI.
+Electronic address: fsiddiq2@hfhs.org.
+(2)Department of Radiation Oncology, Henry Ford Health System, Detroit, MI.
+
+Head and neck cancers account for approximately 3% of all cancers in the United
+States with 62,000 new cases diagnosed annually. The global incidence is
+approximately 700,000 new cases a year. There has also been a recent increase in 
+human papilloma virus-related oropharyngeal cancers. External beam radiation
+therapy (RT) is commonly used as an effective therapy for head and neck (H&N)
+cancers. This is used as a definitive treatment (alone or in combination with
+chemotherapy) or as an adjuvant treatment after surgical resection of the tumors.
+Because of the complex anatomy of the H&N region, several critical structures in 
+and around the area receive radiation treatment. This includes the neural
+structures (brainstem, spinal cord, and brachial plexus), salivary glands,
+mucosa, major blood vessels, and swallowing musculature. Careful RT planning is
+necessary to avoid or mitigate the side effects of treatment. This review
+discusses some of the major acute and late side effects of RT for H&N cancers and
+provides evidence-based guidelines for their management. Patient-reported
+outcomes and quality-of-life implications are also discussed.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.semradonc.2017.04.008 
+PMID: 28865517  [Indexed for MEDLINE]

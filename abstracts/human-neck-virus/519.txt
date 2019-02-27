@@ -1,0 +1,36 @@
+
+
+519. Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2015 Sep;29(17):1549-52.
+
+[Subtype analysis and clinical significance of HPV infection in laryngeal
+squamous cell carcinoma and precancerous lesions].
+
+[Article in Chinese]
+
+Guan L, Sun N, Sun G, Fang Q, Meng Y, Zhao X, Meng L.
+
+OBJECTIVE: To investigate the correlation of laryngeal squamous cell carcinoma
+(LSCC) and precancerous lesion with HPV infection subtypes and possible clinical 
+relationship.
+METHOD: Eighty-three cases in paraffin embedded tissues were detected with thirty
+seven HPV subtypes by flow-through hybridization and gene chip (HybriMax),
+including 31 cases of laryngeal squamous cell carcinoma, 52 cases of precancerous
+lesions (29 cases of vocal cord leukoplakia and 23 cases of laryngeal papilloma),
+and 36 cases of vocal cord polyp as normal vocal mucosa were used as control.
+RESULT: The total positive rate of HPV was 19.4% in the group of laryngeal
+squamous cell carcinoma (6/31), 0 in vocal cord leukoplakia, 65.2% in laryngeal
+papilloma (15/23), and the control group were all negative, HPV virus subtype of 
+HPV-positive laryngeal squamous cell carcinoma were all high-risk HPV16; and
+there were 6 HPV virus subtypes in laryngeal papilloma (8: HPV6,4: HPV52, 1:
+HPV11, 1: HPV18, 2: HPV45, 3: HPV16), individual mixing two or more subtypes
+infection. HPV infection of laryngeal squamous cell carcinoma and precancerous
+lesions has no statistically significant difference according to gender, high
+low-risk subtypes.
+CONCLUSION: HPV infection related to laryngeal squamous cell carcinoma and
+precancerous lesions, but no significant correlation with the subtype
+distribution of high and low risk; HPV detection is making positive sense to
+clinical diagnosis of laryngeal carcinoma and precancerous lesions as well as the
+development of specific HPV subtype vaccine.
+
+
+PMID: 26647542  [Indexed for MEDLINE]

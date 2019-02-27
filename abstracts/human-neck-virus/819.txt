@@ -1,0 +1,45 @@
+
+
+819. Br J Cancer. 2011 Nov 8;105(10):1512-21. doi: 10.1038/bjc.2011.429. Epub 2011 Oct
+11.
+
+Photodynamic therapy augments the efficacy of oncolytic vaccinia virus against
+primary and metastatic tumours in mice.
+
+Gil M(1), Bieniasz M, Seshadri M, Fisher D, Ciesielski MJ, Chen Y, Pandey RK,
+Kozbor D.
+
+Author information: 
+(1)Department of Immunology, Roswell Park Cancer Institute, Buffalo, NY 14263,
+USA.
+
+BACKGROUND: Therapies targeted towards the tumour vasculature can be exploited
+for the purpose of improving the systemic delivery of oncolytic viruses to
+tumours. Photodynamic therapy (PDT) is a clinically approved treatment for cancer
+that is known to induce potent effects on tumour vasculature. In this study, we
+examined the activity of PDT in combination with oncolytic vaccinia virus (OVV)
+against primary and metastatic tumours in mice.
+METHODS: The effect of 2-[1-hexyloxyethyl-]-2-devinyl pyropheophorbide-a
+(HPPH)-sensitised-PDT on the efficacy of oncolytic virotherapy was investigated
+against subcutaneously implanted syngeneic murine NXS2 neuroblastoma and human
+FaDu head and neck squamous cell carcinoma xenografts in nude mice. Treatment
+efficacy was evaluated by monitoring tumour growth and survival. The effects of
+combination treatment on vascular function were examined using magnetic resonance
+imaging (MRI) and immunohistochemistry, whereas viral replication in tumour cells
+was analysed by a standard plaque assay. Normal tissue phototoxicity following
+PDT-OV treatment was studied using the mouse foot response assay.
+RESULTS: Combination of PDT with OVV resulted in inhibition of primary and
+metastatic tumour growth compared with either monotherapy. PDT-induced vascular
+disruption resulted in higher intratumoural viral titres compared with the
+untreated tumours. Five days after delivery of OVV, there was a loss of blood
+flow to the interior of tumour that was associated with infiltration of
+neutrophils. Administration of OVV did not result in any additional photodynamic 
+damage to normal mouse foot tissue.
+CONCLUSION: These results provide evidence into the usefulness of PDT as a means 
+of enhancing intratumoural replication and therapeutic efficacy of OV.
+
+2011 Cancer Research UK
+
+DOI: 10.1038/bjc.2011.429 
+PMCID: PMC3242530
+PMID: 21989183  [Indexed for MEDLINE]

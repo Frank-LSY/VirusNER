@@ -1,0 +1,51 @@
+
+
+2033. Zhonghua Er Ke Za Zhi. 2012 Apr;50(4):255-60.
+
+[Evolution and prognosis of the acute flaccid paralysis associated with
+enterovirus 71 infection evaluated through a clinical and magnetic resonance
+imaging follow-up study].
+
+[Article in Chinese]
+
+Peng BW(1), Du ZH, Li XJ, Lin HS, Liu HS, Chen WX, Mai JN, Liang HC.
+
+Author information: 
+(1)Department of Neurology, Guangzhou Women and Children's Medical Center,
+Guangzhou 510120, China.
+
+OBJECTIVE: To explore the development and prognosis of the acute flaccid
+paralysis (AFP) associated with enterovirus 71 (EV71) infection through clinical 
+follow-up study for clinical and magnetic resonance imaging (MRI) features based 
+on the research progress of virology and pathology.
+METHOD: Sixteen children with HFMD associated with AFP in hospital from May 1,
+2011 to August 31, 2011 were investigated and the patients received intensive
+rehabilitation training. The 16 cases were divided into two groups (the recovery 
+or the sequela) by if the muscle strength recovered to level 4 after intensive
+rehabilitation. The MRI findings of 15 children were analyzed and among them, 6
+patients were reexamined after one month. The clinical markers were compared
+between groups including course of disease, WBC, WBC in cerebrospinal fluid
+(CSF), ventilator support, therapy, the worst muscle strength, the initial tendon
+reflex, the muscle atrophy, and multi-limb paralysis. The data were analyzed by t
+test and χ2 test with SPSS10.0.
+RESULT: All the 16 children were infected with enterovirus 71 (EV71). The
+myodynamia of 7 children were level 0, 4 children had serious upper limbs
+paralysis. The neck muscle in 3 cases and the brain stem motor ruckus in 4 cases 
+were involved. The ankle clonus of non-completely paralyzed limbs in 14 cases
+occurred during rehabilitation. Eight children had the better prognosis, the
+other 8 children had sequela. 0 level muscle strength (0 case vs. 7 cases,
+χ2=12.4), the initial tendon reflex (2 cases vs. 8 cases, χ2=9.6), obvious muscle
+atrophy (0 case vs. 8 cases, χ2=16), were significantly different in the children
+with the recovery when compared to the sequela (P<0.01). The severe upper limbs
+paralysis had the worse prognosis than the severe lower limbs paralysis. MR
+imaging showed signs of spinal nerve root inflammation and the bilateral
+hyperintense lesions, symmetrical in the posterior portions of the medulla, pons,
+and asymmetrical in the ventral horns of cervical spinal cord. Signal enhancement
+occurred only in the early MRI examination.
+CONCLUSION: In the evolution of AFP due to EV71 infection, the upper motor neuron
+damage is common, the prognosis is related with the severity of early paralysis
+and neuron damage. MR imaging is helpful to understand the pathological mechanism
+of AFP.
+
+
+PMID: 22801224  [Indexed for MEDLINE]

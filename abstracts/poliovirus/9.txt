@@ -1,0 +1,67 @@
+
+
+9. J Virol Methods. 2017 Aug;246:75-80. doi: 10.1016/j.jviromet.2017.04.016. Epub
+2017 Apr 26.
+
+Quantifying low-frequency revertants in oral poliovirus vaccine using next
+generation sequencing.
+
+Sarcey E(1), Serres A(2), Tindy F(3), Chareyre A(4), Ng S(5), Nicolas M(6),
+Vetter E(7), Bonnevay T(8), Abachin E(9), Mallet L(10).
+
+Author information: 
+(1)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Eric.Sarcey@sanofi.com.
+(2)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Aurelie.Serres@sanofi.com.
+(3)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Fabrice.Tindy@sanofi.com.
+(4)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Audrey.Chareyre@sanofi.com.
+(5)Sanofi Pasteur, Microbiology & Virology Platform, Department of Analytical
+Research & Development North America, 1755 Steeles Avenue West, Toronto, Ontario 
+M2R 3T4, Canada. Electronic address: Siemon.Ng@sanofi.com.
+(6)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Marine.Nicolas@sanofi.com.
+(7)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Emmanuelle.Vetter@sanofi.com.
+(8)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Thierry.Bonnevay@sanofi.com.
+(9)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Eric.Abachin@sanofi.com.
+(10)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Laurent.Mallet@sanofi.com.
+
+Spontaneous reversion to neurovirulence of live attenuated oral poliovirus
+vaccine (OPV) serotype 3 (chiefly involving the n.472U>C mutation), must be
+monitored during production to ensure vaccine safety and consistency. Mutant
+analysis by polymerase chain reaction and restriction enzyme cleavage (MAPREC)
+has long been endorsed by the World Health Organization as the preferred in vitro
+test for this purpose; however, it requires radiolabeling, which is no longer
+supported by many laboratories. We evaluated the performance and suitability of
+next generation sequencing (NGS) as an alternative to MAPREC. The linearity of
+NGS was demonstrated at revertant concentrations equivalent to the study range of
+0.25%-1.5%. NGS repeatability and intermediate precision were comparable across
+all tested samples, and NGS was highly reproducible, irrespective of sequencing
+platform or analysis software used. NGS was performed on OPV serotype 3 working
+seed lots and monovalent bulks (n=21) that were previously tested using MAPREC,
+and which covered the representative range of vaccine production. Percentages of 
+472-C revertants identified by NGS and MAPREC were comparable and highly
+correlated (r≥0.80), with a Pearson correlation coefficient of 0.95585
+(p<0.0001). NGS demonstrated statistically equivalent performance to that of
+MAPREC for quantifying low-frequency OPV serotype 3 revertants, and offers a
+valid alternative to MAPREC.
+
+Copyright © 2017 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jviromet.2017.04.016 
+PMID: 28456668  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+1423. Br J Cancer. 2010 Dec 7;103(12):1822-30. doi: 10.1038/sj.bjc.6605980. Epub 2010
+Nov 9.
+
+Molecular disruption of NBS1 with targeted gene delivery enhances
+chemosensitisation in head and neck cancer.
+
+Araki K(1), Yamashita T, Reddy N, Wang H, Abuzeid WM, Khan K, O'Malley BW Jr, Li 
+D.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head & Neck Surgery, University of
+Pennsylvania School of Medicine, 415 Curie Boulevard, CRB Room 145, Philadelphia,
+PA 19104, USA.
+
+BACKGROUND: a fibroblast growth factor 2 (FGF2)-targeted adenoviral system can
+alter viral tropism and allow for improved transduction and reduced systemic
+toxicity. This study is to investigate if the FGF2-targeted adenoviral mutant
+Nijmegen breakage syndrome 1 (FGF2-Ad-NBS1) gene transfer can enhance cisplatin
+chemosensitisation not only by targeting DNA repair, but also through the
+induction of antiangiogenesis, whereas at the same time reducing toxicities in
+treating head and neck squamous cell carcinoma (HNSCC).
+METHODS: the human HNSCC cell line was treated in vitro and in a nude mouse
+xenograft model. We conducted verification of binding ability of mutant NBS1 and 
+downregulation of MRN complex, evaluation of transduction efficiency and combined
+antitumour activities. The antiangiogenesis mechanism was also investigated.
+Finally, we estimated the distribution of adenoviral vector in the liver.
+RESULTS: the mutant NBS1 protein retains the binding ability and effectively
+suppresses the expression level of the MRN in infected cells. Transduction
+efficiency in vitro and cisplatin chemosensitisation were upregulated. The
+FGF2-Ad-NBS1 also showed detargeting the viral vectors away from the liver. The
+downregulation of NF-κB expression was supposed to correlate with increased
+antiangiogenesis.
+CONCLUSIONS: FGF2-targeted adenoviral system enhances the cisplatin
+chemosensitisation of mutant NBS1 and may avoid viral-associated liver
+toxicities.
+
+2010 Cancer Resaerch UK.
+
+DOI: 10.1038/sj.bjc.6605980 
+PMCID: PMC3008607
+PMID: 21063405  [Indexed for MEDLINE]

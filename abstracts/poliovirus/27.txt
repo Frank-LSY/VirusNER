@@ -1,0 +1,42 @@
+
+
+27. J Infect Dis. 2014 Nov 1;210 Suppl 1:S353-60. doi: 10.1093/infdis/jiu069.
+
+Outbreak of type 1 wild poliovirus infection in adults, Namibia, 2006.
+
+Yusuf N(1), de Wee R(2), Foster N(2), Watkins MA(3), Tiruneh D(4), Chauvin C(5), 
+Bossarte R(3), Mandlhate C(4), Jack A(1), Gumede N(6), Mawela A(6), Burns CC(7), 
+Pallansch MA(7), Allies T(2), Rainey J(3), Mataruse N(1), Nshimirimana D(8).
+
+Author information: 
+(1)World Health Organization (WHO) Intercountry Program Office, Harare, Zimbabwe.
+(2)Ministry of Health and Social Services.
+(3)Global Immunization Division, Center for Global Health.
+(4)WHO Country Office, Windhoek, Namibia.
+(5)WHO Headquarters, Geneva, Switzerland.
+(6)National Institute for Communicable Disease, National Health Laboratory
+Service, Johannesburg, South Africa.
+(7)Division of Viral Diseases, National Center for Immunization and Respiratory
+Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia.
+(8)WHO Regional Office for Africa, Brazzaville, Republic of Congo.
+
+A paralytic poliomyelitis outbreak occurred in Namibia in 2006, almost
+exclusively among adults. Nineteen cases were virologically confirmed as due to
+wild poliovirus type 1 (WPV1), and 26 were classified as polio compatible. Eleven
+deaths occurred among confirmed and compatible cases (24%). Of the confirmed
+cases, 97% were aged 15-45 years, 89% were male, and 71% lived in settlement
+areas in Windhoek. The virus was genetically related to a virus detected in 2005 
+in Angola, which had been imported earlier from India. The outbreak is likely due
+to immunity gaps among adults who were inadequately vaccinated during childhood. 
+This outbreak underscores the ongoing risks posed by poliovirus importations, the
+importance of maintaining strong acute flaccid paralysis surveillance even in
+adults, and the need to maintain high population immunity to avoid polio
+outbreaks in the preeradication period and outbreaks due to vaccine-derived
+polioviruses in the posteradication era.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiu069 
+PMID: 25316855  [Indexed for MEDLINE]

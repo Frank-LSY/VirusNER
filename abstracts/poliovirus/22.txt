@@ -1,0 +1,39 @@
+
+
+22. Virology. 2015 Aug;482:28-31. doi: 10.1016/j.virol.2015.03.005. Epub 2015 Mar 30.
+
+Effect of time at temperature on wild poliovirus titers in stool specimens.
+
+Walker AT(1), Williams AJ(2), Gary HE Jr(2), Pallansch MA(3), Wassilak SG(2),
+Oberste MS(3).
+
+Author information: 
+(1)Global Immunization Division, Center for Global Health, Centers for Disease
+Control and Prevention (CDC), USA. Electronic address: atwalker@cdc.gov.
+(2)Global Immunization Division, Center for Global Health, Centers for Disease
+Control and Prevention (CDC), USA.
+(3)Division of Viral Diseases, National Center for Immunization and Respiratory
+Diseases, CDC, USA.
+
+BACKGROUND: The effect of transport temperature on the viability of poliovirus in
+stool specimens from paralyzed cases has not been tested. Quality assurance of
+programmatic indicators will be necessary in the final phase of polio
+eradication.
+OBJECTIVE: To estimate the effect of time at elevated temperatures on wild
+poliovirus titers in stool specimens.
+METHODS: We exposed aliquots of pooled wild poliovirus type 1 specimens to
+elevated temperatures (27 °C, 31 °C, and 35 °C) for varying time periods up to 14
+days. We determined the virus titer of these aliquots and created decay curves at
+each temperature to estimate the relationship between time at temperature and
+virus titer.
+RESULTS: We found significantly different slopes of decay at each temperature.
+The negative slopes increased as the temperature increased.
+CONCLUSIONS: While poliovirus in stool remains relatively stable at moderately
+elevated temperature, transport at higher temperatures could impact sample
+integrity and virus isolation results.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2015.03.005 
+PMCID: PMC4620922
+PMID: 25817402  [Indexed for MEDLINE]

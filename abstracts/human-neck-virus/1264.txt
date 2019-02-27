@@ -1,0 +1,36 @@
+
+
+1264. Oral Oncol. 2016 Jul;58:8-13. doi: 10.1016/j.oraloncology.2016.04.004. Epub 2016 
+May 7.
+
+Immune cells and prognosis in HPV-associated oropharyngeal squamous cell
+carcinomas: Review of the literature.
+
+Saber CN(1), Grønhøj Larsen C(2), Dalianis T(3), von Buchwald C(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, Denmark.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, Denmark. Electronic address: c.gronhoj@gmail.com.
+(3)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, Denmark; Department of Oncology-Pathology, Karolinska Institutet,
+Stockholm, Sweden.
+
+Currently, oropharyngeal squamous cell carcinomas (OPSCC) are treated based on
+the traditional TNM-classification, although this scheme might be inadequate for 
+the subgroup of human papillomavirus (HPV)-associated OPSCCs. It remains
+debatable whether this subgroup of patients with favorable prognosis should be
+offered altered treatment. Besides the well-known biomarkers of HPV and p16, new 
+promising immune cells and markers might nuance the prognosis and treatment for
+patients with HPV+ OPSCC. We systematically reviewed the literature on
+immunological features of HPV-associated OPSCCs, and report that a high number of
+cytotoxic T cells (CD8s) and a low number of CD98 positive cells is associated
+with better outcome, while an increased CD4/CD8 ratio and a high human leukocyte 
+antigen 1 (HLA1) intensity is most likely associated with worse outcome. These
+findings might contribute to future OPSCC staging and treatment.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.04.004 
+PMID: 27311396  [Indexed for MEDLINE]

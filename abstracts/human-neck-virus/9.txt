@@ -1,0 +1,47 @@
+
+
+9. Oral Oncol. 2017 Apr;67:103-108. doi: 10.1016/j.oraloncology.2017.02.013. Epub
+2017 Feb 23.
+
+Sensitivity of tumor surface brushings to detect human papilloma virus DNA in
+head and neck cancer.
+
+Kofler B(1), Borena W(2), Manzl C(3), Dudas J(4), Wegscheider AS(3), Jansen-Dürr 
+P(5), Schartinger V(4), Riechelmann H(4).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Medical University of Innsbruck,
+Anichstrasse 35, 6020 Innsbruck, Austria. Electronic address:
+ba.kofler@tirol-kliniken.at.
+(2)Division of Virology, Department of Hygiene, Microbiology, Social Medicine,
+Medical University of Innsbruck, Peter-Mayr-Strasse 4b, 6020 Innsbruck, Austria.
+(3)Department of Pathology, Medical University of Innsbruck, Müllerstrasse 44,
+6020 Innsbruck, Austria.
+(4)Department of Otorhinolaryngology, Medical University of Innsbruck,
+Anichstrasse 35, 6020 Innsbruck, Austria.
+(5)Institute for Biomedical Ageing Research, Medical University of Innsbruck,
+Rennweg 10, 6020 Innsbruck, Austria.
+
+OBJECTIVE: Human papilloma virus (HPV) induced head and neck squamous cell
+carcinoma (HNSCC) represents a distinct tumor subset. We questioned how
+accurately a brushing from the tumor surface detects HPV in patients with HNSCC.
+MATERIALS AND METHODS: Brushings from the tumor surface were compared with HPV
+DNA isolation from formalin-fixed and paraffin-embedded (FFPE) tumor biopsies,
+which served as the reference standard. In both matrices, HPV DNA was detected
+using a commercially available test kit. In addition, p16 was assessed in tumor
+biopsies by immunohistochemistry (IHC). The tumors were considered p16 positive
+if 70% or more of cancer cells expressed p16.
+RESULTS: 93 patients with HNSCC were included. Sensitivity and specificity of the
+brush test were 83% (95%CI: 67-92%) and 85% (95%CI: 72-93%). Results of p16 IHC
+were concordant with FFPE samples DNA determinations in 73/93 patients. In 53
+patients (57%) the tumor was located in the oropharynx and in 40 patients (43%)
+the tumor was located in the non-oropharynx region. Sensitivity and specificity
+of the brush test in patients with oropharyngeal cancer was higher with 86%
+(95%CI: 70-95%) and 89% (95%CI: 65-99%).
+CONCLUSION: Superficial brushes from the tumor surface may be used to identify
+HPV positive HNSCC.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.02.013 
+PMID: 28351563  [Indexed for MEDLINE]

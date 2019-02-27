@@ -1,0 +1,32 @@
+
+
+727. Bull Cancer. 2018 Jun;105(6):596-602. doi: 10.1016/j.bulcan.2018.04.004.
+
+[WHO classification of head and neck tumours 2017: Main novelties and update of
+diagnostic methods].
+
+[Article in French]
+
+Sarradin V(1), Siegfried A(2), Uro-Coste E(2), Delord JP(3).
+
+Author information: 
+(1)IUCT-Oncopole, département d'oncologie médicale, 31000 Toulouse, France.
+Electronic address: victor.sarradin@gmail.com.
+(2)CHU de Toulouse, IUCT-Oncopole, département d'anatomie et cytologie
+pathologiques, 31000 Toulouse, France.
+(3)IUCT-Oncopole, département d'oncologie médicale et de recherche clinique,
+31000 Toulouse, France.
+
+The publication of the new WHO classification of head and neck tumours in
+2017 brought major modifications. Especially, a new chapter is dedicated to the
+oropharynx, focusing on the description of squamous cell carcinoma induced by the
+virus Human Papilloma Virus (HPV), and new entities of tumors are described in
+nasal cavities and sinuses. In this article are presented the novelties and main 
+changes of this new classification, as well as the updates of the diagnostic
+methods (immunohistochemistry, cytogenetics or molecular biology).
+
+Copyright © 2018 Société Française du Cancer. Published by Elsevier Masson SAS.
+All rights reserved.
+
+DOI: 10.1016/j.bulcan.2018.04.004 
+PMID: 29759330  [Indexed for MEDLINE]

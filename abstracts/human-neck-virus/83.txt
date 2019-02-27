@@ -1,0 +1,41 @@
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+83. Oncotarget. 2014 Jun 30;5(12):3956-69.
+
+An updated overview of HPV-associated head and neck carcinomas.
+
+Zaravinos A(1).
+
+Author information: 
+(1)Molecular Medicine Research Center and Laboratory of Molecular and Medical
+Genetics, Department of Biological Sciences, University of Cyprus, 1678 Nicosia, 
+Cyprus. Division of Clinical Immunology and Transfusion Medicine, Department of
+Laboratory Medicine, Karolinska Institutet, 14145 Huddinge, Sweden.
+
+Human papilloma virus (HPV)-associated head and neck carcinoma is quite
+heterogeneous and most of the tumors arise in the oral cavity, oropharynx,
+hypopharynx and larynx. HPV was just recently recognized as an emerging risk
+factor for oropharyngeal squamous cell carcinoma (OSCC). HPV(+) tumors represent 
+5-20% of all head and neck squamous-cell carcinomas (HNSCCs) and 40-90% of those 
+arising from the oropharynx, with widely variable rates depending on the
+geographic area, population, relative prevalence of environment-related SCC and
+detection assay. Different carcinogenic mechanisms are most likely implicated in 
+cervical and oropharyngeal carcinogenesis. The most certain carcinogenic genotype
+for the head and neck region and the most common high-risk HPV genotype, HPV-16, 
+is frequently detected in OSCC. A combination of p16INK4A expression and
+molecular detection of HPV DNA is the gold standard for the viral identification 
+in tissue and exfoliated cell samples. Differences in the biology of HPV(+) and
+HPV(-) OSCC may have implications for the management of patients. New
+immunotherapy drugs based on the release of the co-inhibitory receptors,
+cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4) and programmed-death 1
+(PD-1) have currently emerged. The goal of therapeutic cancer vaccination is
+inculcation of a persistent, tumor antigen-specific T cell response which kills
+tumor cells. The efficacy of the current HPV vaccines, Cervarix and Gardasil, in 
+preventing HPV-related HNSCC is at present unknown. Treatment de-escalation is
+recommended as the current management of HPV-induced HNSCCs.
+
+DOI: 10.18632/oncotarget.1934 
+PMCID: PMC4147298
+PMID: 24970795  [Indexed for MEDLINE]

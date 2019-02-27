@@ -1,0 +1,52 @@
+
+
+2709. World J Surg Oncol. 2016 Jul 15;14(1):184. doi: 10.1186/s12957-016-0941-2.
+
+Solitary splenic metastasis from nasopharyngeal carcinoma: a case report and
+systematic review of the literature.
+
+Genova P(1), Brunetti F(2), Bequignon E(3)(4), Landi F(2), Lizzi V(2), Esposito
+F(2), Charpy C(5), Calderaro J(5), Azoulay D(2), de'Angelis N(2).
+
+Author information: 
+(1)Department of General and Oncological Surgery, Azienda Ospedaliera
+Universitaria Policlinico "Paolo Giaccone", Via del Vespro 129, 90127, Palermo,
+PA, Italy. pietro.genova@gmail.com.
+(2)Department of Digestive, Hepatobiliary Surgery and Liver Transplantation,
+Henri Mondor University Hospital, AP-HP, Université Paris Est - UPEC, Créteil,
+France.
+(3)Department of Otorhinolaryngology and Head and Neck Surgery, Henri Mondor
+University Hospital, AP-HP, Université Paris Est - UPEC, Créteil, France.
+(4)INSERM U955, Créteil, France.
+(5)Department of Pathology, Henri Mondor University Hospital, AP-HP, Université
+Paris Est - UPEC, Créteil, France.
+
+BACKGROUND: Solitary splenic metastases are a rare occurrence, and the
+nasopharyngeal carcinoma represents one of the most uncommon primary sources. The
+present study aimed to describe a rare case of a solitary single splenic
+metastasis from nasopharyngeal carcinoma and to assess the number of cases of
+isolated nasopharyngeal carcinoma metastases to the spleen reported in the
+literature.
+MAIN BODY: We describe the case of a 56-year-old man with a history of
+nasopharyngeal carcinoma and complete remission after chemo-radiotherapy. Three
+months after complete remission, positron emission tomography/computed tomography
+scan revealed a hypermetabolic splenic lesion without increased metabolic
+activity in other areas. After laparoscopic splenectomy, the pathology report
+confirmed a single splenic metastasis from undifferentiated carcinoma of the
+nasopharyngeal type. The postoperative period was uneventful. We also performed a
+systematic review of the literature using MEDLINE and Google Scholar databases.
+All articles reporting cases of splenic metastases from nasopharyngeal carcinoma,
+with or without histologic confirmation, were evaluated. The literature search
+yielded 15 relevant articles, which were very heterogeneous in their aims and
+methods and described only 25 cases of splenic metastases from nasopharyngeal
+carcinoma.
+CONCLUSION: The present review shows that solitary splenic metastases from
+nasopharyngeal carcinoma are a rare event, but it should be considered in
+patients presenting with splenic lesions at imaging and a history of primary or
+recurrent nasopharyngeal carcinoma. No evidence supports a negative impact of
+splenectomy in patients with solitary splenic metastasis from nasopharyngeal
+carcinoma.
+
+DOI: 10.1186/s12957-016-0941-2 
+PMCID: PMC4947368
+PMID: 27422630  [Indexed for MEDLINE]

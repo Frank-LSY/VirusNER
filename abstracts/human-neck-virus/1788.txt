@@ -1,0 +1,82 @@
+
+
+1788. Oral Oncol. 2014 Sep;50(9):869-76. doi: 10.1016/j.oraloncology.2014.06.010. Epub 
+2014 Jul 3.
+
+Retrospective analysis of the impact of HPV status and smoking on mucositis in
+patients with oropharyngeal squamous cell carcinoma treated with concurrent
+chemotherapy and radiotherapy.
+
+Vatca M(1), Lucas JT Jr(2), Laudadio J(3), D'Agostino RB(4), Waltonen JD(5),
+Sullivan CA(6), Rouchard-Plasser R(7), Matsangou M(8), Browne JD(9), Greven
+KM(10), Porosnicu M(11).
+
+Author information: 
+(1)Section on Hematology and Oncology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA; Comprehensive Cancer Center of Wake Forest
+University, Winston-Salem, NC 27157, USA. Electronic address:
+mvatca@wakehealth.edu.
+(2)Department of Radiation Oncology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA. Electronic address: jolucas@wakehealth.edu.
+(3)Department of Pathology, Wake Forest School of Medicine, Winston-Salem, NC
+27157, USA. Electronic address: jlaudadio@uams.edu.
+(4)Department of Biostatistical Sciences, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA; Comprehensive Cancer Center of Wake Forest
+University, Winston-Salem, NC 27157, USA. Electronic address:
+rdagosti@wakehealth.edu.
+(5)Comprehensive Cancer Center of Wake Forest University, Winston-Salem, NC
+27157, USA; Department of Otolaryngology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA. Electronic address: jwaltone@wakehealth.edu.
+(6)Comprehensive Cancer Center of Wake Forest University, Winston-Salem, NC
+27157, USA; Department of Otolaryngology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA. Electronic address: csulliva@wakehealth.edu.
+(7)Department of Otolaryngology, Wake Forest School of Medicine, Winston-Salem,
+NC 27157, USA. Electronic address: rplasser@wakehealth.edu.
+(8)Section on Hematology and Oncology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA; Comprehensive Cancer Center of Wake Forest
+University, Winston-Salem, NC 27157, USA. Electronic address:
+mmatsang@wakehealth.edu.
+(9)Department of Otolaryngology, Wake Forest School of Medicine, Winston-Salem,
+NC 27157, USA; Comprehensive Cancer Center of Wake Forest University,
+Winston-Salem, NC 27157, USA. Electronic address: jdbrowne@wakehealth.edu.
+(10)Department of Radiation Oncology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA; Comprehensive Cancer Center of Wake Forest
+University, Winston-Salem, NC 27157, USA. Electronic address:
+kgreven@wakehealth.edu.
+(11)Section on Hematology and Oncology, Wake Forest School of Medicine,
+Winston-Salem, NC 27157, USA; Comprehensive Cancer Center of Wake Forest
+University, Winston-Salem, NC 27157, USA. Electronic address:
+mporosni@wakehealth.edu.
+
+OBJECTIVES: The standard concurrent radiotherapy and chemotherapy regimens for
+patients with oropharyngeal cancer are highly toxic. Human papillomavirus
+(HPV)-associated oropharyngeal squamous cell carcinoma (OPSCC) has recently
+emerged as a distinct biological and clinical entity with improved response to
+treatment and prognosis. A tailored therapeutic approach is needed to optimize
+patient care. The aim of our study was to investigate the impact of HPV and
+smoking status on early toxicities (primarily mucositis) associated with
+concurrent chemotherapy and radiotherapy in patients with OPSCC.
+MATERIALS AND METHODS: We retrospectively evaluated 72 consecutive patients with 
+OPSCC and known HPV status treated with concurrent radiotherapy and chemotherapy 
+at our institution. Treatment-related toxicities were stratified by smoking and
+HPV status and compared using univariate and multivariate logistic regression.
+RESULTS: HPV-positive patients had a 6.86-fold increase in the risk of having
+severe, grade 3-4 mucositis. This effect was preserved after adjusting for
+patient smoking status, nodal stage, radiotherapy technique and radiotherapy
+maximum dose. Additionally, HPV status had significant effect on the objective
+weight loss during treatment and at three months after treatment. Consistently,
+non-smokers had a significant 2.70-fold increase in the risk of developing severe
+mucositis.
+CONCLUSION: Risk factors for OPSCC modify the incidence of treatment-related
+early toxicities, with HPV-positive and non-smoking status correlating with
+increased risk of high grade mucositis and associated outcomes. Retrospective
+single-institution studies need to be interpreted cautiously. However, this
+finding is important to consider when designing therapeutic strategies for
+HPV-positive patients and merits further investigation in prospective clinical
+trials.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2014.06.010 
+PMCID: PMC4148719
+PMID: 24998139  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+3049. Mini Rev Med Chem. 2018;18(2):173-183. doi: 10.2174/1389557517666170717125821.
+
+Nutlin-3, A p53-Mdm2 Antagonist for Nasopharyngeal Carcinoma Treatment.
+
+Yee-Lin V(1), Pooi-Fong W(1), Soo-Beng AK(2).
+
+Author information: 
+(1)Department of Pharmacology, Faculty of Medicine, University of Malaya, 50603
+Kuala Lumpur. Malaysia.
+(2)Molecular Pathology Unit, Cancer Research Centre, Institute for Medical
+Research, 50588 Kuala Lumpur. Malaysia.
+
+Nasopharyngeal carcinoma (NPC) is a form of head and neck cancer of
+multifactorial etiologies that is highly prevalent among men in the population of
+Southern China and Southeast Asia. NPC has claimed many thousands of lives
+worldwide; but the low awareness of NPC remains a hindrance in early diagnosis
+and prevention of the disease. NPC is highly responsive to radiotherapy and
+chemotherapy, but radiocurable NPC is still dependent on concurrent treatment of 
+megavoltage radiotherapy with chemotherapy. Despite a significant reduction in
+loco-regional and distant metastases, radiotherapy alone has failed to provide a 
+significant improvement in the overall survival rate of NPC, compared to
+chemotherapy. In addition, chemo-resistance persists as the major challenge in
+the management of metastatic NPC although the survival rate of advanced
+metastatic NPC has significantly improved with the administration of chemotherapy
+adjunctive to radiotherapy. In this regard, targeted molecular therapy could be
+explored for the discovery of alternative NPC therapies. Nutlin-3, a small
+molecule inhibitor that specifically targets p53-Mdm2 interaction offers new
+therapeutic opportunities by enhancing cancer cell growth arrest and apoptosis
+through the restoration of the p53-mediated tumor suppression pathway while
+producing minimal cytotoxicity and side effects. This review discusses the
+potential use of Nutlin-3 as a p53-activating drug and the future directions of
+its clinical research for NPC treatment.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.org.
+
+DOI: 10.2174/1389557517666170717125821 
+PMCID: PMC5769085
+PMID: 28714398  [Indexed for MEDLINE]

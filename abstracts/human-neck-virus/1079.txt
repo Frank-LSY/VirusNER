@@ -1,0 +1,38 @@
+
+
+1079. Mod Rheumatol. 2017 Jan;27(1):155-161. doi: 10.3109/14397595.2014.948981. Epub
+2014 Aug 27.
+
+Visceral disseminated varicella zoster virus infection after rituximab treatment 
+for granulomatosis with polyangiitis.
+
+Tsuji H(1), Yoshifuji H(1), Fujii T(1), Matsuo T(1), Nakashima R(1), Imura Y(1), 
+Yukawa N(1), Ohmura K(1), Sumiyoshi S(2), Mimori T(1).
+
+Author information: 
+(1)a Department of Rheumatology and Clinical Immunology , Graduate School of
+Medicine, Kyoto University , Kyoto , Japan.
+(2)b Department of Diagnostic Pathology , Graduate School of Medicine, Kyoto
+University , Kyoto , Japan.
+
+We report on a 30-year-old Japanese woman with granulomatosis with polyangiitis
+(GPA) complicated by pituitary diabetes insipidus and multiple lung granulomas.
+The granulomas disappeared with prednisolone (50 mg/day) and rituximab, although 
+continuous nasal desmopressin was needed to control diabetes insipidus after
+immunosuppressive therapies. At the time of presentation, the patient had
+abdominal pain and disseminated intravascular coagulation but no rash. She died
+of continuous hemorrhage from her skin of neck, mucosa of her pharynx, and small 
+intestine. At autopsy, varicella zoster virus (VZV)-DNA detected in serum and VZV
+antigens detected in tissues of her pharynx, esophagus, and liver led to a
+diagnosis of visceral disseminated VZV infection (VD-VZV). She also complicated
+cytomegalovirus infection in her stomach and ovaries. Her posterior pituitary
+gland had been replaced by foamy macrophages. In 38 reported cases of VD-VZV,
+rash appeared following the onset of abdominal pain (mean interval, 6.5 days) but
+was lacking in 11% of cases. The mortality rate associated with VD-VZV was as
+high as 29% and survived cases were treated with antivirals earlier than mortal
+cases. A quick diagnosis with detection of VZV-DNA or VZV antigens in sera or
+tissues using PCR or immunohistochemistry examination and early empirical
+treatment with antivirals are important.
+
+DOI: 10.3109/14397595.2014.948981 
+PMID: 25159158  [Indexed for MEDLINE]

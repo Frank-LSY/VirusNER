@@ -1,0 +1,54 @@
+
+
+1294. Immunol Lett. 2016 Apr;172:11-20. doi: 10.1016/j.imlet.2016.02.006. Epub 2016 Feb
+10.
+
+Conserved stem fragment from H3 influenza hemagglutinin elicits cross-clade
+neutralizing antibodies through stalk-targeted blocking of conformational change 
+during membrane fusion.
+
+Gong X(1), Yin H(1), Shi Y(1), Guan S(1), He X(1), Yang L(1), Yu Y(1), Kuai Z(1),
+Jiang C(2), Kong W(2), Wang S(3), Shan Y(4).
+
+Author information: 
+(1)National Engineering Laboratory for AIDS Vaccine, School of Life Sciences,
+Jilin University, Changchun, Jilin, China.
+(2)National Engineering Laboratory for AIDS Vaccine, School of Life Sciences,
+Jilin University, Changchun, Jilin, China; Key Laboratory for Molecular
+Enzymology and Engineering, The Ministry of Education, School of Life Sciences,
+Jilin University, Changchun, Jilin, China.
+(3)State Key Laboratory of Theoretical and Computational Chemistry, Institute of 
+Theoretical Chemistry, Jilin University, Changchun, Jilin, China.
+(4)National Engineering Laboratory for AIDS Vaccine, School of Life Sciences,
+Jilin University, Changchun, Jilin, China; Key Laboratory for Molecular
+Enzymology and Engineering, The Ministry of Education, School of Life Sciences,
+Jilin University, Changchun, Jilin, China. Electronic address: shanym@jlu.edu.cn.
+
+Currently available influenza vaccines typically fail to elicit/boost broadly
+neutralizing antibodies due to the mutability of virus sequences and
+conformational changes during protective immunity, thereby limiting their
+efficacy. This problem needs to be addressed by further understanding the
+mechanisms of neutralization and finding the desired neutralizing site during
+membrane fusion. This study specifically focused on viruses of the H3N2 subtype, 
+which have persisted as a principal source of influenza-related morbidity and
+mortality in humans since the 1968 influenza pandemic. Through sequence alignment
+and epitope prediction, a series of highly conserved stem fragments (spanning 47 
+years) were found and coupled to the Keyhole Limpet Hemocyanin (KLH) protein. By 
+application of a combinatorial display library and crystal structure modeling, a 
+stem fragment immunogen, located at the turning point of the HA neck undergoing
+conformational change during membrane fusion with both B- and T-cell epitopes,
+was identified. After synthesis of the optimal stem fragment using a multiple
+antigen peptide (MAP) system, strong humoral immune responses and cross-clade
+neutralizing activities against strains from the H3 subtype of group 2 influenza 
+viruses after animal immunizations were observed. By detection of nuclear protein
+immunofluorescence with acid bypass treatment, antisera raised against MAP4
+immunogens of the stem fragment showed the potential to inhibit the
+conformational change of HA in stem-targeted virus neutralization. The
+identification of this conserved stem fragment provides great potential for
+exploitation of this site of vulnerability in therapeutic and vaccine design.
+
+Copyright © 2016 European Federation of Immunological Societies. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.imlet.2016.02.006 
+PMID: 26875772  [Indexed for MEDLINE]

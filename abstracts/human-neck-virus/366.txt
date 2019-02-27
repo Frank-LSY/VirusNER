@@ -1,0 +1,33 @@
+
+
+366. Cell. 2010 Sep 17;142(6):902-13. doi: 10.1016/j.cell.2010.08.029.
+
+Influenza virus M2 protein mediates ESCRT-independent membrane scission.
+
+Rossman JS(1), Jing X, Leser GP, Lamb RA.
+
+Author information: 
+(1)Department of Biochemistry, Northwestern University, Evanston, IL 60208, USA.
+
+Comment in
+    Cell. 2010 Sep 17;142(6):839-41.
+    Nat Rev Microbiol. 2010 Nov;8(11):757.
+
+Many viruses utilize host ESCRT proteins for budding; however, influenza virus
+budding is thought to be ESCRT-independent. In this study we have found a role
+for the influenza virus M2 proton-selective ion channel protein in mediating
+virus budding. We observed that a highly conserved amphipathic helix located
+within the M2 cytoplasmic tail mediates a cholesterol-dependent alteration in
+membrane curvature. The 17 amino acid amphipathic helix is sufficient for budding
+into giant unilamellar vesicles, and mutation of this sequence inhibited budding 
+of transfected M2 protein in vivo. We show that M2 localizes to the neck of
+budding virions and that mutation of the M2 amphipathic helix results in failure 
+of the virus to undergo membrane scission and virion release. These data suggest 
+that M2 mediates the final steps of budding for influenza viruses, bypassing the 
+need for host ESCRT proteins.
+
+Copyright © 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cell.2010.08.029 
+PMCID: PMC3059587
+PMID: 20850012  [Indexed for MEDLINE]

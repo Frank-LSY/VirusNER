@@ -1,0 +1,39 @@
+
+
+1259. Oncology. 2018;95(4):193-201. doi: 10.1159/000489786. Epub 2018 Jun 19.
+
+An Update on Cellular MicroRNA Expression in Human Papillomavirus-Associated Head
+and Neck Squamous Cell Carcinoma.
+
+Emmett S(1)(2)(3), Whiteman DC(1)(2), Panizza BJ(2)(3), Antonsson A(1)(2).
+
+Author information: 
+(1)Department of Population Health, QIMR Berghofer Medical Research Institute,
+Brisbane, Queensland, Australia.
+(2)School of Medicine, University of Queensland, Brisbane, Queensland, Australia.
+(3)Department of Otolaryngology, Princess Alexandra Hospital, Brisbane,
+Queensland, Australia.
+
+Squamous cell carcinoma of mucosal sites in the head and neck (HNSCC) is the
+sixth most common cause of cancer worldwide, and despite advances in conventional
+management, it still has significant morbidity and mortality associated with both
+diagnosis and treatment. Advances in our understanding of the biological
+mechanisms underlying this disease have demonstrated a significant difference
+between human papillomavirus (HPV)-associated, HPV and tobacco associated, and
+HPV-negative disease. It remains important to further elucidate the biologic and 
+genetic differences between HPV-associated and tobacco-associated disease, with
+the aim of earlier diagnosis through screening, and advances in management
+including the development of novel therapeutic agents. MicroRNAs (miRNAs) are
+small, non-coding RNAs that function as post-transcriptional regulators of gene
+expression, and have effects on almost every cellular function, and have
+potentially important applications to diagnosis, management and prognosis in
+HNSCC. Establishing a cellular miRNA expression profile for HPV-associated
+disease may therefore have important implications for the screening and treatment
+of this disease. This review summarises the current findings regarding miRNA
+expression in mucosal HNSCC, and focuses particularly on miRNA expression in
+HPV-associated tumours.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000489786 
+PMID: 29920485  [Indexed for MEDLINE]

@@ -1,0 +1,1861 @@
+
+1. Lancet Glob Health. 2018 Jan;6(1):e34. doi: 10.1016/S2214-109X(17)30464-3.
+
+Epidemiological data for hepatitis D in Africa - Authors' reply.
+
+Stockdale AJ(1), Beloukas A(2), Geretti AM(3).
+
+Author information: 
+(1)Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+UK; Malawi-Liverpool-Wellcome Trust Clinical Research Programme, Blantyre,
+Malawi.
+(2)Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+UK.
+(3)Institute of Infection and Global Health, University of Liverpool, Liverpool, 
+UK. Electronic address: geretti@liverpool.ac.uk.
+
+Erratum in
+    Lancet Glob Health. 2018 Feb;6(2):e151.
+
+Comment on
+    Lancet Glob Health. 2018 Jan;6(1):e32.
+    Lancet Glob Health. 2017 Oct;5(10 ):e992-e1003.
+    Lancet Glob Health. 2018 Jan;6(1):e33.
+
+DOI: 10.1016/S2214-109X(17)30464-3 
+PMID: 29241612  [Indexed for MEDLINE]
+
+
+2. Mem Inst Oswaldo Cruz. 2018 Jan;113(1):62-65. doi: 10.1590/0074-02760170071.
+
+Detection of occult hepatitis B in serum and oral fluid samples.
+
+Portilho MM(1), Nabuco LC(2), Villela-Nogueira CA(2), Brandão-Mello CE(3),
+Pilotto JH(4)(5), Flores GL(1), Lewis-Ximenez LL(1), Lampe E(1), Villar LM(1).
+
+Author information: 
+(1)Fundação Oswaldo Cruz-Fiocruz, Instituto Oswaldo Cruz, Laboratório de
+Hepatites Virais, Rio de Janeiro, RJ, Brasil.
+(2)Universidade Federal do Rio de Janeiro, Hospital Universitário Clementino
+Fraga Filho, Rio de Janeiro, RJ, Brasil.
+(3)Universidade Federal do Estado do Rio de Janeiro, Hospital Universitário
+Gaffrée e Guinle, Rio de Janeiro, RJ, Brasil.
+(4)Hospital Geral de Nova Iguaçu, Nova Iguaçu, RJ, Brasil.
+(5)Fundação Oswaldo Cruz-Fiocruz, Instituto Oswaldo Cruz, Laboratório de AIDS e
+Imunologia Molecular, Rio de Janeiro, RJ, Brasil.
+
+In occult hepatitis B infection (OBI), hepatitis B virus DNA (HBV DNA) can be
+detected in serum samples; however, oral fluid collection for detection of HBV
+DNA has not yet been explored, despite the availability of collection devices.
+Serum and oral fluid samples from 45 hepatitis B core antibody
+(anti-HBc)-positive patients were collected for the amplification of the HBV
+polymerase gene. HBV DNA was detected in five serum and four oral fluid samples
+(the detection limit for oral fluid was 1.656 log IU/mL in paired serum). In
+conclusion, simple methodologies of sample collection and in-house polymerase
+chain reaction (PCR) allowed detection of HBV DNA, and these could be used to
+improve the diagnosis of OBI, especially in locations with limited resources.
+
+DOI: 10.1590/0074-02760170071 
+PMCID: PMC5719542
+PMID: 29211108  [Indexed for MEDLINE]
+
+
+3. World J Gastroenterol. 2017 Nov 21;23(43):7657-7665. doi:
+10.3748/wjg.v23.i43.7657.
+
+Functional interaction of endoplasmic reticulum stress and hepatitis B virus in
+the pathogenesis of liver diseases.
+
+Kim SY(1), Kyaw YY(1), Cheong J(2).
+
+Author information: 
+(1)Department of Molecular Biology, Pusan National University, Busan 609-735,
+South Korea.
+(2)Department of Molecular Biology, Pusan National University, Busan 609-735,
+South Korea. molecule85@pusan.ac.kr.
+
+Hepatitis B virus (HBV) is a non-cytopathic virus that causes acute and chronic
+inflammatory liver diseases, often leading to the pathogenesis of hepatocellular 
+carcinoma (HCC). Although many studies for the roles of HBV on pathogenesis of
+the liver diseases, such as non-alcoholic fatty liver disease (NAFLD), hepatic
+inflammation, cirrhosis, and HCC, have been reported, the mechanisms are not
+fully understood. Endoplasmic reticulum (ER) and mitochondria have the protective
+mechanisms to restore their damaged function by intrinsic or extrinsic stresses, 
+but their chronic dysfunctions are associated with the pathogenesis of the
+various diseases. Furthermore, HBV can affect intra- or extracellular homeostasis
+through induction of ER and mitochondrial dysfunctions, leading to liver injury. 
+Therefore, the mechanism by which HBV induces ER or mitochondrial stresses may be
+a therapeutic target for treatment of liver diseases.
+
+DOI: 10.3748/wjg.v23.i43.7657 
+PMCID: PMC5703926
+PMID: 29209107  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict-of-interest statement: The authors
+declare that they have no conflict of interest.
+
+
+4. Clin Chem Lab Med. 2018 Mar 28;56(4):634-641. doi: 10.1515/cclm-2017-0701.
+
+Evaluation of the Aptima HBV Quant assay vs. the COBAS TaqMan HBV test using the 
+high pure system for the quantitation of HBV DNA in plasma and serum samples.
+
+Schalasta G(1), Börner A(2), Speicher A(2), Enders M(2).
+
+Author information: 
+(1)Prof Gisela Enders and Kollegen, MVZ GbR Rosenbergstr. 85, 70193 Stuttgart,
+Germany, Phone: +0711 6357 140, Fax: +0711 6357 148.
+(2)Prof Gisela Enders and Kollegen, MVZ GbR, Stuttgart, Germany.
+
+BACKGROUND: Proper management of patients with chronic hepatitis B virus (HBV)
+infection requires monitoring of plasma or serum HBV DNA levels using a highly
+sensitive nucleic acid amplification test. Because commercially available assays 
+differ in performance, we compared herein the performance of the Hologic Aptima
+HBV Quant assay (Aptima) to that of the Roche Cobas TaqMan HBV test for use with 
+the high pure system (HPS/CTM).
+METHODS: Assay performance was assessed using HBV reference panels as well as
+plasma and serum samples from chronically HBV-infected patients. Method
+correlation, analytical sensitivity, precision/reproducibility, linearity, bias
+and influence of genotype were evaluated. Data analysis was performed using
+linear regression, Deming correlation analysis and Bland-Altman analysis.
+RESULTS: Agreement between the assays for the two reference panels was good, with
+a difference in assay values vs. target <0.5 log. Qualitative assay results for
+159 clinical samples showed good concordance (88.1%; κ=0.75; 95% confidence
+interval: 0.651-0.845). For the 106 samples quantitated by both assays, viral
+load results were highly correlated (R=0.92) and differed on average by 0.09 log,
+with 95.3% of the samples being within the 95% limit of agreement of the assays. 
+Linearity for viral loads 1-7 log was excellent for both assays (R2>0.98). The
+two assays had similar bias and precision across the different genotypes tested
+at low viral loads (25-1000 IU/mL).
+CONCLUSIONS: Aptima has a performance comparable with that of HPS/CTM, making it 
+suitable for use for HBV infection monitoring. Aptima runs on a fully automated
+platform (the Panther system) and therefore offers a significantly improved
+workflow compared with HPS/CTM.
+
+DOI: 10.1515/cclm-2017-0701 
+PMID: 29197859  [Indexed for MEDLINE]
+
+
+5. Gut. 2018 May;67(5):787-788. doi: 10.1136/gutjnl-2017-315528. Epub 2017 Dec 1.
+
+HBV infection and HCC: the 'dangerous liaisons'.
+
+Bertoletti A(1), Kennedy PTF(2), Durantel D(3).
+
+Author information: 
+(1)Emerging Infectious Diseases Program, Duke-NUS Medical School, Singapore,
+Singapore.
+(2)Centre for Immunobiology, Blizard Institute, Barts and The London School of
+Medicine & Dentistry, London, UK.
+(3)Cancer Research Center of Lyon (CRCL), INSERM U1052, UMR-5286 CNRS, University
+of Lyon, Lyon, France.
+
+Comment on
+    Gut. 2018 May;67(5):945-952.
+
+DOI: 10.1136/gutjnl-2017-315528 
+PMID: 29196438  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: AB declares the following
+relationship with commercial entities developing therapeutics for HBV treatment. 
+He collaborates and receives research support from Gilead Sciences to test the
+effect of HBV antigens on immune cell function. He acted as a consultant and
+served on the advisory boards of Gilead Sciences, MedImmune, Jansseen-Cilag,
+IONIS, Abivax, HUMABS BioMed. AB is also a cofounder of LION TCR pte. ltd. a
+biotech company developing T cell receptors for treatment of virus-related
+cancers and chronic viral diseases.
+
+
+6. Gut. 2018 May;67(5):988. doi: 10.1136/gutjnl-2017-315603. Epub 2017 Nov 25.
+
+Prognosis of immune-tolerant phase chronic hepatitis B.
+
+Chu CM(1), Liaw YF(1).
+
+Author information: 
+(1)Liver Research Unit, Chang Gung Memorial Hospital, Chang Gung University
+College of Medicine, Taipei, Taiwan.
+
+Comment in
+    Gut. 2018 May;67(5):988-989.
+
+Comment on
+    Gut. 2018 May;67(5):945-952.
+
+DOI: 10.1136/gutjnl-2017-315603 
+PMID: 29175863  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+7. Ann Intern Med. 2017 Nov 21;167(10):760. doi: 10.7326/L17-0477.
+
+Hepatitis B Virus Reactivation Associated With Direct-Acting Antiviral Therapy
+for Chronic Hepatitis C Virus.
+
+Bersoff-Matcha SJ(1), Cao K(1), Jason M(1), Jones SC(1), Brinker A(1).
+
+Author information: 
+(1)From U.S. Food and Drug Administration, Silver Spring, Maryland.
+
+Comment on
+    Ann Intern Med. 2017 Jun 6;166(11):792-798.
+    Ann Intern Med. 2017 Nov 21;167(10 ):759-760.
+
+DOI: 10.7326/L17-0477 
+PMID: 29159389  [Indexed for MEDLINE]
+
+
+8. J Infect Dis. 2017 Nov 16;216(suppl_8):S757-S764. doi: 10.1093/infdis/jix461.
+
+Viral Factors Affecting the Clinical Outcomes of Chronic Hepatitis B.
+
+Yang HC(1)(2)(3)(4), Shih YF(5), Liu CJ(2)(3)(4).
+
+Author information: 
+(1)Department of Microbiology.
+(2)Graduate Institute of Clinical Medicine.
+(3)Department of Internal Medicine.
+(4)Hepatitis Research Center, National Taiwan University College of Medicine and 
+National Taiwan University Hospital.
+(5)Department of Physical Therapy and Assistive Technology, National Yang-Ming
+University, Taipei, Taiwan.
+
+Chronic hepatitis B (CHB) exhibits a variety of clinical outcomes, ranging from
+spontaneous resolution of hepatitis B to severe adverse consequences, including
+the development of cirrhosis, hepatic failure, and hepatocellular carcinoma. The 
+heterogeneous clinical courses of chronic hepatitis B virus (HBV) infection
+reflect the complex host-virus interactions, and point to the difficulty and
+necessity of identifying the patients at risk. With the advance of HBV virology, 
+several viral factors have been found to be associated with the long-term
+clinical outcomes of CHB patients. Different viral factors probe different
+aspects of CHB. Integration of these viral factors may help to determine the
+disease state of patients more accurately, and identify the patients who require 
+timely antiviral therapy to prevent the development of detrimental clinical
+outcomes. In this article, we will introduce the conventional and emerging viral 
+factors that are associated with clinical outcomes and discuss their utility in a
+clinical setting.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix461 
+PMID: 29156050  [Indexed for MEDLINE]
+
+
+9. Emerg Infect Dis. 2017 Dec;23(12):2089-2091. doi: 10.3201/eid2312.161634.
+
+New Avian Hepadnavirus in Palaeognathous Bird, Germany.
+
+Jo WK, Pfankuche VM, Petersen H, Frei S, Kummrow M, Lorenzen S, Ludlow M, Metzger
+J, Baumgärtner W, Osterhaus A, van der Vries E.
+
+In 2015, we identified an avian hepatitis B virus associated with hepatitis in a 
+group of captive elegant-crested tinamous (Eudromia elegans) in Germany. The
+full-length genome of this virus shares <76% sequence identity with other
+avihepadnaviruses. The virus may therefore be considered a new extant avian
+hepadnavirus.
+
+DOI: 10.3201/eid2312.161634 
+PMCID: PMC5708223
+PMID: 29148393  [Indexed for MEDLINE]
+
+
+10. Cancer Sci. 2018 Jan;109(1):241-249. doi: 10.1111/cas.13440. Epub 2017 Dec 7.
+
+Investigating the hepatitis B virus life cycle using engineered reporter
+hepatitis B viruses.
+
+Nishitsuji H(1), Harada K(1), Ujino S(1), Zhang J(2), Kohara M(3), Sugiyama M(1),
+Mizokami M(1), Shimotohno K(1).
+
+Author information: 
+(1)Research Center for Hepatitis and Immunology, National Center for Global
+Health and Medicine, Ichikawa, Japan.
+(2)Research and Development Center, FUSO Pharmaceutical Industries, Osaka, Japan.
+(3)Department of Microbiology and Cell Biology, Tokyo Metropolitan Institute of
+Medical Science, Tokyo, Japan.
+
+Chronic infection with hepatitis B virus (HBV) increases the risk of developing
+fibrosis, cirrhosis or hepatocellular carcinoma. Current therapies are limited to
+type-I interferons and/or nucleos(t)ide analogues; however, these are only
+partially effective. The development of novel anti-HBV agents for new treatment
+strategies has been hampered by the lack of a suitable system that allows the
+in vitro replication of HBV. Studies of virus infection/replication at the
+molecular level using wild-type HBV are labor-intensive and time-consuming. To
+overcome these problems, we previously constructed a recombinant reporter HBV
+bearing the NanoLuc gene and showed its usefulness in identifying factors that
+affect HBV proliferation. Because this system mimics the early stage of the HBV
+life cycle faithfully, we conducted a quantitative analysis of HBV infectivity to
+several human hepatocyte cell lines as well as the effect of dimethyl sulfoxide
+and HBV protein X on the early stage of HBV proliferation using this system.
+Furthermore, we developed a system to produce a reporter HBV expressing a pol
+gene. These reporter HBV may provide an opportunity to enhance our understanding 
+of the HBV life cycle and aid strategies for the development of new anti-HBV
+agents.
+
+© 2017 The Authors. Cancer Science published by John Wiley & Sons Australia, Ltd 
+on behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.13440 
+PMCID: PMC5765299
+PMID: 29121422  [Indexed for MEDLINE]
+
+
+11. Hepatol Int. 2017 Nov;11(6):500-508. doi: 10.1007/s12072-017-9829-7. Epub 2017
+Nov 2.
+
+Hepatitis B virus: virology, molecular biology, life cycle and intrahepatic
+spread.
+
+Karayiannis P(1).
+
+Author information: 
+(1)Medical School, University of Nicosia, 21 Ilia Papakyriakou, 2414 Engomi, P.O.
+Box 24005, CY-1700, Nicosia, Cyprus. karayiannis.p@unic.ac.cy.
+
+Hepatitis B virus is a member of the Hepadnaviridae family and responsible for
+causing acute and chronic hepatitis in humans. The current estimates of people
+chronically infected with the virus are put at 250 million worldwide.
+Immune-mediated liver damage in these individuals may lead to the development of 
+cirrhosis and hepatocellular carcinoma later in life. This review deals with our 
+current understanding of the virology, molecular biology, life cycle and
+cell-to-cell spread of this very important pathogen, all of which are considered 
+essential for current and future approaches to antiviral treatment.
+
+DOI: 10.1007/s12072-017-9829-7 
+PMID: 29098564  [Indexed for MEDLINE]
+
+
+12. PLoS One. 2017 Oct 24;12(10):e0186982. doi: 10.1371/journal.pone.0186982.
+eCollection 2017.
+
+PRMT5: A novel regulator of Hepatitis B virus replication and an arginine
+methylase of HBV core.
+
+Lubyova B(1), Hodek J(1), Zabransky A(1), Prouzova H(1), Hubalek M(1), Hirsch
+I(1)(2), Weber J(1).
+
+Author information: 
+(1)Institute of Organic Chemistry and Biochemistry of the Czech Academy of
+Sciences, IOCB & Gilead Research Center, Prague, Czech Republic.
+(2)Dept. Genetics and Microbiology, Faculty of Sciences, Charles University,
+Prague, Czech Republic.
+
+In mammals, protein arginine methyltransferase 5, PRMT5, is the main type II
+enzyme responsible for the majority of symmetric dimethylarginine formation in
+polypeptides. Recent study reported that PRMT5 restricts Hepatitis B virus (HBV) 
+replication through epigenetic repression of HBV DNA transcription and
+interference with encapsidation of pregenomic RNA. Here we demonstrate that PRMT5
+interacts with the HBV core (HBc) protein and dimethylates arginine residues
+within the arginine-rich domain (ARD) of the carboxyl-terminus. ARD consists of
+four arginine rich subdomains, ARDI, ARDII, ARDIII and ARDIV. Mutation analysis
+of ARDs revealed that arginine methylation of HBc required the wild-type status
+of both ARDI and ARDII. Mass spectrometry analysis of HBc identified multiple
+potential ubiquitination, methylation and phosphorylation sites, out of which
+lysine K7 and arginines R150 (within ARDI) and R156 (outside ARDs) were shown to 
+be modified by ubiquitination and methylation, respectively. The HBc symmetric
+dimethylation appeared to be linked to serine phosphorylation and nuclear import 
+of HBc protein. Conversely, the monomethylated HBc retained in the cytoplasm.
+Thus, overexpression of PRMT5 led to increased nuclear accumulation of HBc, and
+vice versa, down-regulation of PRMT5 resulted in reduced levels of HBc in nuclei 
+of transfected cells. In summary, we identified PRMT5 as a potent controller of
+HBc cell trafficking and function and described two novel types of HBc
+post-translational modifications (PTMs), arginine methylation and ubiquitination.
+
+DOI: 10.1371/journal.pone.0186982 
+PMCID: PMC5655436
+PMID: 29065155  [Indexed for MEDLINE]
+
+
+13. Arch Virol. 2018 Feb;163(2):319-330. doi: 10.1007/s00705-017-3551-6. Epub 2017
+Oct 23.
+
+Epidemiology of hepatitis B in pregnant Iranian women: a systematic review and
+meta-analysis.
+
+Badfar G(1), Shohani M(2), Nasirkandy MP(3), Mansouri A(4), Abangah G(5), Rahmati
+S(6), Aazami S(7), Soleymani A(8), Azami M(9).
+
+Author information: 
+(1)Department of Pediatrics, Behbahan Faculty of Medical Sciences, Behbahan,
+Iran.
+(2)Department of Nursing, Faculty of Allied Medical Sciences, Ilam University of 
+Medical Sciences, Ilam, Iran.
+(3)Women's Reproductive Health Research Center, Tabriz University of Medical
+Sciences, Tabriz, Iran.
+(4)School of Nursing and Midwifery, Ahvaz Jundishapour University of Medical
+Science, Ahvaz, Iran.
+(5)Department of Gastroenterology, Faculty of Medicine, Ilam University of
+Medical Sciences, Ilam, Iran.
+(6)Student Research Committee, Ilam University of Medical Sciences, Ilam, Iran.
+(7)Faculty of Nursing and Midwife, Ilam University of Medical Sciences, Ilam,
+Iran.
+(8)Faculty of Medicine, Dezful University of Medical Sciences, Dezful, Iran.
+(9)Student Research Committee, Faculty of Medicine, Ilam University of Medical
+Sciences, Ilam, Iran. MiladAzami@medilam.ac.ir.
+
+Perinatal transmission is one of the most common routes of hepatitis B virus
+(HBV) transmission. This study aims to identify the epidemiological features of
+HBV among pregnant Iranian women. This study followed the Preferred Reporting
+Items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines. Two authors
+independently searched several online databases without time limit until May
+2017. The databases include Magiran, Iranmedex, SID, Medlib, IranDoc, Scopus,
+PubMed, Science Direct, Cochrane, Web of Science and Google Scholar. The data
+were analyzed based on a random-effects model using Comprehensive Meta-Analysis
+software version 2. Thirty-seven studies were included in the meta-analysis. The 
+prevalence of HBV among pregnant Iranian women was 1.18% (95% CI: 0.09%-1.53%).
+The prevalence of HBV among pregnant women living in urban and rural areas was
+1.60% (95% CI: 0.06%-4.30%) and 1.70% (95% CI: 0.09%-3.2%), respectively. The
+prevalence of HBV among housewives and working pregnant women was 4.3% (95% CI:
+1.4%-12.5%) and 1.2% (95% CI: 0.02%-5.8%), respectively. The risk of developing
+an HBV infection was significantly associated with illiteracy (p = 0.013),
+abortion (p = 0.001), blood transfusion (p < 0.001) and addicted spouse
+(p = 0.045). However, no significant relationship was observed between HBV
+infection and urbanization (p = 0.65), occupation (p = 0.37), history of surgery 
+(p = 0.32) or tattooing (p = 0.69). Vaccination coverage (receiving at least a
+single dose) in pregnant women was 9.8% (95% CI: 5.3%-17.5%). The prevalence of
+HBV among pregnant women is lower than in the general population of Iran. HBV
+vaccination coverage was low among pregnant Iranian women. Therefore, health
+policy-makers are recommended to enforce immunization programs for HBV
+vaccination among high-risk pregnant women.
+
+DOI: 10.1007/s00705-017-3551-6 
+PMID: 29063378  [Indexed for MEDLINE]
+
+
+14. Hepatology. 2018 Apr;67(4):1237-1252. doi: 10.1002/hep.29609. Epub 2018 Feb 22.
+
+Hepatitis B virus sensitivity to interferon-α in hepatocytes is more associated
+with cellular interferon response than with viral genotype.
+
+Shen F(1)(2), Li Y(1), Wang Y(1), Sozzi V(3), Revill PA(3), Liu J(1), Gao L(2),
+Yang G(2), Lu M(4), Sutter K(4), Dittmer U(4), Chen J(1), Yuan Z(1).
+
+Author information: 
+(1)Key Laboratory of Medical Molecular Virology, School of Basic Medical
+Sciences, Shanghai Medical College of Fudan University, Shanghai, China.
+(2)Roche Innovation Center Shanghai, Shanghai, China.
+(3)Victorian Infectious Diseases Reference Laboratory, The Royal Melbourne
+Hospital at the Peter Doherty Institute for Infection and Immunity, Melbourne,
+Australia.
+(4)Institute of Virology, University Hospital Essen, University of
+Duisburg-Essen, Essen, Germany.
+
+Interferon-α (IFN-α) is used to treat chronic hepatitis B virus (HBV) infection, 
+but only 20%-40% of patients respond well. Clinical observations have suggested
+that HBV genotype is associated with the response to IFN therapy; however, its
+role in viral responsiveness to IFN in HBV-infected hepatocytes remains unclear. 
+Here, we produced infectious virions of HBV genotypes A to D to infect three
+well-recognized cell-culture-based HBV infection systems, including primary human
+hepatocytes (PHH), differentiated HepaRG (dHepaRG), and HepG2-NTCP cells to
+quantitatively compare the antiviral effect of IFN-α on HBV across genotypes and 
+cell models. The efficacy of IFN-α against HBV in hepatocytes was generally
+similar across genotypes A2, B5, C2, and D3; however, it was significantly
+different among the infection models given that the half maximal inhibitory
+concentration value of IFN-α for inhibition of viral DNA replication in PHH (<20 
+U/mL) and dHepaRG cells were much lower than that in HepG2-NTCP cells (>500
+U/mL). Notably, even in PHH, IFN-α did not reduce HBV covalently closed circular 
+DNA at the concentrations for which viral antigens and DNA replication
+intermediates were strongly reduced. The three cell-culture models exhibited
+differential cellular response to IFN-α. The genes reported to be associated with
+responsiveness to IFN-α in patients were robustly induced in PHH while weakly
+induced in HepG2-NTCP cells upon IFN-α treatment. Reduction or promotion of IFN
+response in PHH or HepG2-NTCP cells significantly attenuated or improved the
+inhibitory capacity of IFN-α on HBV replication, respectively.CONCLUSION: In the 
+cell-culture-based HBV infection models, the sensitivity of HBV to IFN-α in
+hepatocytes is determined more by the cell-intrinsic IFN response than by viral
+genotype, and improvement of the IFN response in HepG2-NTCP cells promotes the
+efficacy of IFN-α against HBV. (Hepatology 2018;67:1237-1252).
+
+© 2017 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.29609 
+PMID: 29059468  [Indexed for MEDLINE]
+
+
+15. Inflamm Res. 2018 Jan;67(1):89-103. doi: 10.1007/s00011-017-1099-2. Epub 2017 Oct
+10.
+
+Flavocoxid exerts a potent antiviral effect against hepatitis B virus.
+
+Pollicino T(1), Musolino C(2), Irrera N(3), Bitto A(3), Lombardo D(3), Timmoneri 
+M(3), Minutoli L(3), Raimondo G(3), Squadrito G(2), Squadrito F(4), Altavilla
+D(5).
+
+Author information: 
+(1)Division of Clinical and Molecular Hepatology, Department of Human Pathology, 
+University Hospital of Messina, Via Consolare Valeria, 98125, Messina, Italy.
+tpollicino@unime.it.
+(2)Division of Clinical and Molecular Hepatology, Department of Human Pathology, 
+University Hospital of Messina, Via Consolare Valeria, 98125, Messina, Italy.
+(3)Department of Clinical and Experimental Medicine, Section of Pharmacology,
+University of Messina, Via Consolare Valeria, Torre Biologica 5th floor, c/o AOU 
+Policlinico G. Martino, Via C. Valeria Gazzi, 98125, Messina, Italy.
+(4)Department of Clinical and Experimental Medicine, Section of Pharmacology,
+University of Messina, Via Consolare Valeria, Torre Biologica 5th floor, c/o AOU 
+Policlinico G. Martino, Via C. Valeria Gazzi, 98125, Messina, Italy.
+fsquadrito@unime.it.
+(5)Department of Biomedical and Dental Sciences and Morphological and Functional 
+Sciences, University of Messina, Via Consolare Valeria, 98125, Messina, Italy.
+
+Comment in
+    Inflamm Res. 2018 Mar;67(3):203-205.
+
+INTRODUCTION: Flavocoxid is a proprietary blend of two flavonoids, baicalin and
+catechin, and recent evidence has shown that bioflavonoids may exert antiviral
+activities. The potential antiviral activity of Flavocoxid against hepatitis B
+virus (HBV) was evaluated. Additionally, it was investigated if Flavocoxid used
+in combination with Entecavir could potentiate its anti-HBV activity.
+MATERIALS AND METHODS: Hepatoma cells replicating HBV were treated with
+Flavocoxid, or Entecavir alone or in combination for up to 5 days. Viral
+replicative intermediates, transcripts, and cccDNA levels were evaluated in
+HBV-replicating cells by real-time PCR, Southern and Northern blotting.
+Expression profiling was performed using TaqMan low-density arrays.
+RESULTS: Flavocoxid treatment induced a reduction of HBV replicative
+intermediates, the amount of transcripts, and HBsAg levels. Flavocoxid and
+Entecavir combination therapy further decreased the amount of HBV replicative
+intermediates, compared to Flavocoxid alone. Importantly, Flavocoxid alone or in 
+combination with Entecavir also induced a reduction of cccDNA. Gene-expression
+analysis showed that Flavocoxid activates type I IFNs-signaling and dampens the
+HBV-induced inflammatory response.
+CONCLUSIONS: Flavocoxid inhibits HBV replication by targeting multiple steps of
+viral life cycle. These results indicate that the antiviral activity of Entecavir
+is potentiated by Flavocoxid, suggesting that this medical food might be
+considered as an adjuvant for anti-HBV therapy.
+
+DOI: 10.1007/s00011-017-1099-2 
+PMID: 29018874  [Indexed for MEDLINE]
+
+
+16. Cell Host Microbe. 2017 Sep 13;22(3):387-399.e6. doi: 10.1016/j.chom.2017.07.019.
+Epub 2017 Aug 31.
+
+Deciphering the Origin and Evolution of Hepatitis B Viruses by Means of a Family 
+of Non-enveloped Fish Viruses.
+
+Lauber C(1), Seitz S(2), Mattei S(3), Suh A(4), Beck J(5), Herstein J(6), Börold 
+J(7), Salzburger W(8), Kaderali L(9), Briggs JAG(3), Bartenschlager R(10).
+
+Author information: 
+(1)Institute for Medical Informatics and Biometry, Technische Universität
+Dresden, 01307 Dresden, Germany.
+(2)University of Heidelberg, Department of Infectious Diseases, Molecular
+Virology, 69120 Heidelberg, Germany. Electronic address:
+stefan.seitz@med.uni-heidelberg.de.
+(3)Structural and Computational Biology Unit, European Molecular Biology
+Laboratory, 69117 Heidelberg, Germany.
+(4)Department of Evolutionary Biology, Evolutionary Biology Centre (EBC), Uppsala
+University, 75236 Uppsala, Sweden.
+(5)Department of Internal Medicine 2/Molecular Biology, University Hospital
+Freiburg, 79106 Freiburg, Germany.
+(6)Department of Psychiatry and the Behavioral Sciences, Keck School of Medicine,
+University of Southern California, Los Angeles, CA 90033, USA.
+(7)University of Heidelberg, Department of Infectious Diseases, Molecular
+Virology, 69120 Heidelberg, Germany.
+(8)Zoological Institute, University of Basel, 4051 Basel, Switzerland.
+(9)Institute for Medical Informatics and Biometry, Technische Universität
+Dresden, 01307 Dresden, Germany; Institute for Bioinformatics, University
+Medicine Greifswald, 17487 Greifswald, Germany.
+(10)University of Heidelberg, Department of Infectious Diseases, Molecular
+Virology, 69120 Heidelberg, Germany; Division of Virus-Associated Carcinogenesis,
+German Cancer Research Center (DKFZ), 69120 Heidelberg, Germany.
+
+Hepatitis B viruses (HBVs), which are enveloped viruses with reverse-transcribed 
+DNA genomes, constitute the family Hepadnaviridae. An outstanding feature of HBVs
+is their streamlined genome organization with extensive gene overlap. Remarkably,
+the ∼1,100 bp open reading frame (ORF) encoding the envelope proteins is fully
+nested within the ORF of the viral replicase P. Here, we report the discovery of 
+a diversified family of fish viruses, designated nackednaviruses, which lack the 
+envelope protein gene, but otherwise exhibit key characteristics of HBVs
+including genome replication via protein-primed reverse-transcription and
+utilization of structurally related capsids. Phylogenetic reconstruction
+indicates that these two virus families separated more than 400 million years ago
+before the rise of tetrapods. We show that HBVs are of ancient origin, descending
+from non-enveloped progenitors in fishes. Their envelope protein gene emerged de 
+novo, leading to a major transition in viral lifestyle, followed by co-evolution 
+with their hosts over geologic eras.
+
+Copyright © 2017 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2017.07.019 
+PMCID: PMC5604429
+PMID: 28867387  [Indexed for MEDLINE]
+
+
+17. Semin Liver Dis. 2017 Aug;37(3):231-242. doi: 10.1055/s-0037-1606212. Epub 2017
+Aug 28.
+
+Challenges to a Cure for HBV Infection.
+
+Testoni B(1)(2)(3), Levrero M(1)(2)(4)(5)(6), Zoulim F(1)(2)(3)(4).
+
+Author information: 
+(1)INSERM, U1052, Lyon, France.
+(2)Cancer Research Center of Lyon (CRCL), Lyon, France.
+(3)University of Lyon, UMR_S1052, UCBL, Lyon, France.
+(4)Hospices Civils de Lyon (HCL), Lyon, France.
+(5)Department of Internal Medicine - DMISM, Sapienza University, Rome, Italy.
+(6)CLNS@SAPIENZA, Istituto Italiano di Tecnologia (IIT), Rome, Italy.
+
+DOI: 10.1055/s-0037-1606212 
+PMID: 28847034  [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest: Fabien Zoulim has received 
+research grants and consultancy honoraria from Hoffmann-La-Roche, Gilead
+Sciences, Novira Therapeutics, Janssen, Assembly Biosciences, Arbutus, Contravir,
+Sanofi, and Transgene. Levrero Massimo is on the advisory boards of BMS, Assembly
+Biosciences, Gilead, Arbutus, Janssen, Galapagos, and Medimmune.
+
+
+18. Hepatology. 2017 Dec;66(6):2066-2077. doi: 10.1002/hep.29479. Epub 2017 Nov 6.
+
+Epigenetic regulation of hepatitis B virus covalently closed circular DNA:
+Implications for epigenetic therapy against chronic hepatitis B.
+
+Hong X(1), Kim ES(2), Guo H(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Georgetown University Medical
+Center, Washington, DC.
+(2)Department of Microbiology and Immunology, Indiana University School of
+Medicine, Indianapolis, IN.
+
+Hepatitis B virus (HBV) infection represents a significant public health burden
+worldwide. Although current therapeutics manage to control the disease
+progression, lifelong treatment and surveillance are required because drug
+resistance develops during treatment and reactivations frequently occur following
+medication cessation. Thus, the occurrence of hepatocellular carcinoma is
+decreased, but not eliminated. One major reason for failure of HBV treatment is
+the inability to eradicate or inactivate the viral covalently closed circular DNA
+(cccDNA), which is a stable episomal form of the viral genome decorated with host
+histones and nonhistone proteins. Accumulating evidence suggests that epigenetic 
+modifications of cccDNA contribute to viral replication and the outcome of
+chronic HBV infection. Here, we summarize current progress on HBV epigenetics
+research and the therapeutic implications for chronic HBV infection by learning
+from the epigenetic therapies for cancer and other viral diseases, which may open
+a new venue to cure chronic hepatitis B. (Hepatology 2017;66:2066-2077).
+
+© 2017 by the American Association for the Study of Liver Diseases.
+
+DOI: 10.1002/hep.29479 
+PMCID: PMC5696023
+PMID: 28833361  [Indexed for MEDLINE]
+
+
+19. Trends Microbiol. 2018 Jan;26(1):33-42. doi: 10.1016/j.tim.2017.07.006. Epub 2017
+Aug 16.
+
+Mechanisms of Hepatitis B Virus Persistence.
+
+Tsai KN(1), Kuo CF(1), Ou JJ(2).
+
+Author information: 
+(1)Department of Molecular Microbiology and Immunology, University of Southern
+California Keck School of Medicine, Los Angeles, CA 90033, USA.
+(2)Department of Molecular Microbiology and Immunology, University of Southern
+California Keck School of Medicine, Los Angeles, CA 90033, USA. Electronic
+address: jamesou@hsc.usc.edu.
+
+Hepatitis B virus (HBV) chronically infects 250 million people worldwide,
+resulting in nearly one million deaths annually. Studies in recent years have
+significantly improved our knowledge on the mechanisms of HBV persistence. HBV
+uses multiple pathways to harness host innate immunity to enhance its
+replication. It can also take advantage of the developing immune system and the
+not-yet-stabilized gut microbiota of young children to facilitate its
+persistence, and use maternal viral e antigen to educate immunity of the
+offspring to support its persistence after vertical transmission. The knowledge
+gained from these recent studies paves the way for the development of new
+therapies for the treatment of chronic HBV infection, which has so far been very 
+challenging.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tim.2017.07.006 
+PMCID: PMC5741523
+PMID: 28823759  [Indexed for MEDLINE]
+
+
+20. J Hepatol. 2017 Oct;67(4):847-861. doi: 10.1016/j.jhep.2017.05.008. Epub 2017 Aug
+1.
+
+Hepatitis B cure: From discovery to regulatory approval.
+
+Lok AS(1), Zoulim F(2), Dusheiko G(3), Ghany MG(4).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, University of Michigan, Ann
+Arbor, MI, United States. Electronic address: aslok@med.umich.edu.
+(2)Cancer Research Center of Lyon-INSERM U1052, Hospices Civils de Lyon, Lyon
+University, Lyon, France.
+(3)University College London Medical School and Kings College Hospital, London,
+UK.
+(4)Liver Diseases Branch, National Institute of Diabetes and Digestive and Kidney
+Diseases, National Institutes of Health, Bethesda, MD, United States.
+
+The majority of persons currently treated for chronic hepatitis B require
+long-term or lifelong therapy. New inhibitors of hepatitis B virus entry,
+replication, assembly, or secretion and immune modulatory therapies are in
+development. The introduction of these novel compounds for chronic hepatitis B
+necessitates a standardised appraisal of the efficacy and safety of these
+treatments and definitions of new or additional endpoints to inform clinical
+trials. To move the field forward and to expedite the pathway from discovery to
+regulatory approval, a workshop with key stakeholders was held in September 2016 
+to develop a consensus on treatment endpoints to guide the design of clinical
+trials aimed at hepatitis B cure. The consensus reached was that a complete
+sterilising cure, i.e., viral eradication from the host, is unlikely to be
+feasible. Instead, a functional cure characterised by sustained loss of hepatitis
+B surface antigen with or without hepatitis B surface antibody seroconversion,
+which is associated with improved clinical outcomes, in a higher proportion of
+patients than is currently achieved with existing treatments is a feasible goal. 
+Development of standardised assays for novel biomarkers toward better defining
+hepatitis B virus cure should occur in parallel with development of novel
+antiviral and immune modulatory therapies such that approval of new treatments
+can be linked to the approval of new diagnostic assays used to measure efficacy
+or to predict response. Combination of antiviral and immune modulatory therapies 
+will likely be needed to achieve functional hepatitis B virus cure. Limited
+proof-of-concept monotherapy studies to evaluate safety and antiviral activity
+should be conducted prior to proceeding to combination therapies. The safety of
+any new curative therapies will be paramount given the excellent safety of
+currently approved nucleos(t)ide analogues.
+
+Copyright © 2017 American Association for the Study of Liver Diseases, European
+Association for the Study of the Liver. Published by Elsevier B.V. All rights
+reserved.
+
+DOI: 10.1016/j.jhep.2017.05.008 
+PMID: 28778687  [Indexed for MEDLINE]
+
+
+21. Best Pract Res Clin Gastroenterol. 2017 Jun;31(3):337-345. doi:
+10.1016/j.bpg.2017.05.004. Epub 2017 May 25.
+
+New treatments to reach functional cure: Rationale and challenges for emerging
+immune-based therapies.
+
+Gehring AJ(1).
+
+Author information: 
+(1)Toronto Centre for Liver Disease and Toronto General Hospital Research
+Institute, University Health Network, Toronto, Canada; Department of Immunology, 
+University of Toronto, Toronto, Canada. Electronic address:
+adam.gehring@uhnresearch.ca.
+
+The landscape for chronic HBV therapy is rapidly evolving. The latest generation 
+of antiviral drugs provide robust virus suppression with a high barrier to
+resistance that facilitates long-term treatment. However, low rates of HBsAg loss
+demonstrate that additional strategies are needed to consistency achieve a
+functional cure. The immune system can clear HBV and establish long-term control 
+over the virus. Sufficiently boosting HBV immunity in chronic patients has been
+very difficult due to immune exhaustion, immune dysregulation, and inhibitory
+pathways suppressing the immune response. Therapeutic vaccines employing new
+technology, vectors and new immunomodulatory drugs that can elicit direct
+antiviral effects and cancel inhibitory mechanism may be able to overcome
+exhaustion. This review will discuss the justification for immunotherapy, lessons
+from previous trials and new vaccines/drugs in early stage clinical trials. The
+challenges of correlating immune responses induced by these drugs to clinical
+efficacy will also be addressed.
+
+Crown Copyright © 2017. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.bpg.2017.05.004 
+PMID: 28774416  [Indexed for MEDLINE]
+
+
+22. Antivir Chem Chemother. 2017 Aug;25(2):53-57. doi: 10.1177/2040206617701372.
+
+Metabolic reprogramming during hepatitis B disease progression offers novel
+diagnostic and therapeutic opportunities.
+
+Masson JJ(1), Billings HW(1), Palmer CS(1)(2)(3).
+
+Author information: 
+(1)1 Centre for Biomedical Research, Burnet Institute, Melbourne, Australia.
+(2)2 Department of Infectious Diseases, Monash University, Melbourne, Australia.
+(3)3 Department of Microbiology and Immunology, University of, Melbourne,
+Melbourne, Australia.
+
+Metabolic remodeling occurs in immune cells during an infection. Host cells must 
+upregulate energy production for growth, proliferation, and effector functions to
+limit the damage imposed by pathogens. One example, the hepatitis B virus,
+induces hepatic injury in human hepatocytes through dysregulation of aerobic
+glycolysis and lipid metabolism. Increased glycolytic metabolism mediated by
+elevated expression of Glut1, glucose influx, and lactate secretion is associated
+with this Warburg phenotype, a classic metabolic signature also observed in
+cancer cells. This article brings into focus the tight interaction between HBV
+infection and metabolic dysfunction and how these processes facilitate the
+progression of end-stage liver diseases, such as hepatocellular carcinoma. We
+also provide evidence and models by which other viruses such as HIV and Zika
+disrupt their host metabolic machinery. The emergence of the immunometabolism
+field provides novel opportunities to take advantage of intermediary metabolites 
+and key metabolic pathways for diagnostic and therapeutic purposes.
+
+DOI: 10.1177/2040206617701372 
+PMCID: PMC5890528
+PMID: 28768434  [Indexed for MEDLINE]
+
+
+23. Viruses. 2017 Jun 21;9(6). pii: E156. doi: 10.3390/v9060156.
+
+The Role of cccDNA in HBV Maintenance.
+
+Allweiss L(1), Dandri M(2)(3).
+
+Author information: 
+(1)I. Department of Internal Medicine, Center for Internal Medicine, University
+Medical Center Hamburg-Eppendorf, Martinistr. 52, D-20246 Hamburg, Germany.
+l.allweiss@uke.de.
+(2)I. Department of Internal Medicine, Center for Internal Medicine, University
+Medical Center Hamburg-Eppendorf, Martinistr. 52, D-20246 Hamburg, Germany.
+m.dandri@uke.de.
+(3)German Center for Infection Research (DZIF), Hamburg-Lübeck-Borstel Site,
+Germany. m.dandri@uke.de.
+
+Chronic hepatitis B virus (HBV) infection continues to be a major health burden
+worldwide; it can cause various degrees of liver damage and is strongly
+associated with the development of liver cirrhosis and hepatocellular carcinoma. 
+The molecular mechanisms determining HBV persistence are not fully understood,
+but these appear to be multifactorial and the unique replication strategy
+employed by HBV enables its maintenance in infected hepatocytes. Both the
+stability of the HBV genome, which forms a stable minichromosome, the covalently 
+closed circular DNA (cccDNA) in the hepatocyte nucleus, and the inability of the 
+immune system to resolve chronic HBV infection are believed to be key mechanisms 
+of HBV chronicity. Since a true cure of HBV requires clearance of intranuclear
+cccDNA from infected hepatocytes, understanding the mechanisms involved in cccDNA
+biogenesis, regulation and stability is mandatory to achieve HBV eradication.
+This review will summarize the state of knowledge on these mechanisms including
+the impact of current treatments on the cccDNA stability and activity. We will
+focus on events challenging cccDNA persistence in dividing hepatocytes.
+
+DOI: 10.3390/v9060156 
+PMCID: PMC5490831
+PMID: 28635668  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+24. Proc Natl Acad Sci U S A. 2017 Jun 27;114(26):6653-6655. doi:
+10.1073/pnas.1707142114. Epub 2017 Jun 12.
+
+Unconventional secretion of hepatitis A virus.
+
+Kirkegaard K(1)(2).
+
+Author information: 
+(1)Department of Genetics, Stanford University School of Medicine, Stanford, CA
+94305; karlak@stanford.edu.
+(2)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA 94305.
+
+Comment on
+    Proc Natl Acad Sci U S A. 2017 Jun 20;114(25):6587-6592.
+
+DOI: 10.1073/pnas.1707142114 
+PMCID: PMC5495285
+PMID: 28607085  [Indexed for MEDLINE]
+
+Conflict of interest statement: The author declares no conflict of interest.
+
+
+25. Viruses. 2017 Jun 6;9(6). pii: E139. doi: 10.3390/v9060139.
+
+Detection of HBV Covalently Closed Circular DNA.
+
+Li X(1), Zhao J(2), Yuan Q(3), Xia N(4)(5).
+
+Author information: 
+(1)State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics,
+School of Public Health, Xiamen University, Xiamen 361102, China.
+15711511022@163.com.
+(2)National Institute of Diagnostics and Vaccine Development in Infectious
+Diseases, School of Life Sciences, Xiamen University, Xiamen 361102, China.
+21620111152491@stu.xmu.edu.cn.
+(3)State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics,
+School of Public Health, Xiamen University, Xiamen 361102, China.
+yuanquan@xmu.edu.cn.
+(4)State Key Laboratory of Molecular Vaccinology and Molecular Diagnostics,
+School of Public Health, Xiamen University, Xiamen 361102, China.
+nsxia@xmu.edu.cn.
+(5)National Institute of Diagnostics and Vaccine Development in Infectious
+Diseases, School of Life Sciences, Xiamen University, Xiamen 361102, China.
+nsxia@xmu.edu.cn.
+
+Chronic hepatitis B virus (HBV) infection affects approximately 240 million
+people worldwide and remains a serious public health concern because its complete
+cure is impossible with current treatments. Covalently closed circular DNA
+(cccDNA) in the nucleus of infected cells cannot be eliminated by present
+therapeutics and may result in persistence and relapse. Drug development
+targeting cccDNA formation and maintenance is hindered by the lack of efficient
+cccDNA models and reliable cccDNA detection methods. Southern blotting is
+regarded as the gold standard for quantitative cccDNA detection, but it is
+complicated and not suitable for high-throughput drug screening, so more
+sensitive and simple methods, including polymerase chain reaction (PCR)-based
+methods, Invader assays, in situ hybridization and surrogates, have been
+developed for cccDNA detection. However, most methods are not reliable enough,
+and there are no unified standards for these approaches. This review will
+summarize available methods for cccDNA detection. It is hoped that more robust
+methods for cccDNA monitoring will be developed and that standard operation
+procedures for routine cccDNA detection in scientific research and clinical
+monitoring will be established.
+
+DOI: 10.3390/v9060139 
+PMCID: PMC5490816
+PMID: 28587292  [Indexed for MEDLINE]
+
+
+26. J Infect. 2017 Jul;75(1):48-58. doi: 10.1016/j.jinf.2017.04.012. Epub 2017 May 5.
+
+Quasispecies characteristics in mother-to-child transmission of hepatitis B virus
+by next-generation sequencing.
+
+Yang G(1), Liu Z(2), Yang J(2), Luo K(2), Xu Y(2), He H(2), Fu Q(2), Yu S(3),
+Wang Z(4).
+
+Author information: 
+(1)State Key Laboratory of Organ Failure Research, Guangdong Provincial Key
+Laboratory of Viral Hepatitis Research, Department of Infectious Diseases,
+Nanfang Hospital, Southern Medical University, Guangzhou, China; Department of
+Epidemiology, School of Public Health and Tropical Medicine, Southern Medical
+University, Guangzhou, China.
+(2)State Key Laboratory of Organ Failure Research, Guangdong Provincial Key
+Laboratory of Viral Hepatitis Research, Department of Infectious Diseases,
+Nanfang Hospital, Southern Medical University, Guangzhou, China.
+(3)Department of Epidemiology, School of Public Health and Tropical Medicine,
+Southern Medical University, Guangzhou, China. Electronic address:
+qingchen@smu.edu.cn.
+(4)State Key Laboratory of Organ Failure Research, Guangdong Provincial Key
+Laboratory of Viral Hepatitis Research, Department of Infectious Diseases,
+Nanfang Hospital, Southern Medical University, Guangzhou, China. Electronic
+address: w851419@yahoo.com.
+
+OBJECTIVES: To identify within-host quasispecies characteristics of hepatitis B
+virus (HBV) in mothers and children infected via mother-to-child transmission
+(MTCT).
+METHODS: Using next-generation sequencing (NGS), we analyzed sequences within the
+non-overlapping pre-core/core (pre-C/C) gene in 37 mother-child pairs.
+RESULTS: Phylogenetic and Highlighter analyses suggested that both a single
+strain and multiple distinct strains may be transmitted in MTCT of HBV. However, 
+analysis of reassembled viral sequences revealed a relatively narrow distribution
+of variants in children, which was confirmed by a lower viral diversity in
+children than that in mothers. New closely related variants with combinations of 
+two to five high-frequency mutations were observed in seven children with
+elevated ALT levels; the new variants out-competed the transmitted maternal
+variants to become the dominant strains in five of them. Furthermore, 30
+mutations with a frequency >1% of all viruses within-host were present in those
+children; the mutations caused 19 amino-acid substitutions. Interestingly, almost
+all were located within the well-known T-cell or B-cell epitopes.
+CONCLUSIONS: There are restrictive changes that occur in the early stages of
+chronic HBV infection through MTCT with different clinical consequences. These
+data might have important implications for future investigations of interrelated 
+immunopathogenesis and therapeutic strategies.
+
+Copyright © 2017 The British Infection Association. Published by Elsevier Ltd.
+All rights reserved.
+
+DOI: 10.1016/j.jinf.2017.04.012 
+PMID: 28483405  [Indexed for MEDLINE]
+
+
+27. Gut. 2018 Jan;67(1):3-4. doi: 10.1136/gutjnl-2017-314013. Epub 2017 May 5.
+
+Hepatitis B virus X protein: TRIMming antiviral defences in hepatocytes.
+
+Thomas E.
+
+Comment on
+    Gut. 2018 Jan;67(1):166-178.
+
+DOI: 10.1136/gutjnl-2017-314013 
+PMID: 28476915  [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+28. Hepatology. 2017 Sep;66(3):691-693. doi: 10.1002/hep.29249. Epub 2017 Jul 20.
+
+Toward novel immunocompetent animal models for hepatitis B virus infection.
+
+Mailly L(1)(2), Zeisel MB(1)(2), Baumert TF(1)(2)(3).
+
+Author information: 
+(1)Inserm, U1110, Institut de Recherche sur les Maladies Virales et Hépatiques,
+Strasbourg, France.
+(2)Université de Strasbourg, Strasbourg, France.
+(3)Institut Hospitalo-Universitaire, Pôle Hépato-digestif, Hôpitaux
+Universitaires de Strasbourg, Strasbourg, France.
+
+Comment on
+    Hepatology. 2017 Sep;66(3):703-716.
+
+DOI: 10.1002/hep.29249 
+PMID: 28470681  [Indexed for MEDLINE]
+
+
+29. FEBS J. 2017 Nov;284(21):3550-3572. doi: 10.1111/febs.14094. Epub 2017 May 19.
+
+Virus-host interplay in hepatitis B virus infection and epigenetic treatment
+strategies.
+
+Hensel KO(1), Rendon JC(2)(3), Navas MC(3), Rots MG(2), Postberg J(1).
+
+Author information: 
+(1)HELIOS Medical Centre Wuppertal, Paediatrics Centre, Centre for Clinical &
+Translational Research (CCTR), Faculty of Health, Centre for Biomedical Education
+& Research (ZBAF), Witten/Herdecke University, Germany.
+(2)Epigenetic Editing, Department of Pathology and Medical Biology, University of
+Groningen, University Medical Center Groningen (UMCG), The Netherlands.
+(3)Grupo de Gastrohepatologia, Facultad de Medicina, Universidad de Antioquia
+(UdeA), Medellin, Colombia.
+
+Worldwide, chronic hepatitis B virus (HBV) infection is a major health problem
+and no cure exists. Importantly, hepatocyte intrusion by HBV particles results in
+a complex deregulation of both viral and host cellular genetic and epigenetic
+processes. Among the attempts to develop novel therapeutic approaches against HBV
+infection, several options targeting the epigenomic regulation of HBV replication
+are gaining attention. These include the experimental treatment with 'epidrugs'. 
+Moreover, as a targeted approach, the principle of 'epigenetic editing' recently 
+is being exploited to control viral replication. Silencing of HBV by specific
+rewriting of epigenetic marks might diminish viral replication, viremia, and
+infectivity, eventually controlling the disease and its complications.
+Additionally, epigenetic editing can be used as an experimental tool to increase 
+our limited understanding regarding the role of epigenetic modifications in viral
+infections. Aiming for permanent epigenetic reprogramming of the viral genome
+without unspecific side effects, this breakthrough may pave the roads for an
+ambitious technological pursuit: to start designing a curative approach utilizing
+manipulative molecular therapies for viral infections in vivo.
+
+© 2017 Federation of European Biochemical Societies.
+
+DOI: 10.1111/febs.14094 
+PMID: 28457020  [Indexed for MEDLINE]
+
+
+30. Clin Infect Dis. 2017 May 15;64(10):1463. doi: 10.1093/cid/cix213.
+
+Reply to Ozaras et al.
+
+Sulkowski MS(1), Brainard DM(2), Yang JC(2), Gane EJ(3).
+
+Author information: 
+(1)Johns Hopkins University School of Medicine, Baltimore, Maryland.
+(2)Gilead Sciences, Foster City, California; and.
+(3)New Zealand Liver Transplant Unit, Auckland City Hospital.
+
+Comment on
+    Clin Infect Dis. 2016 Nov 1;63(9):1202-1204.
+    Clin Infect Dis. 2017 May 15;64(10):1461-1462.
+
+DOI: 10.1093/cid/cix213 
+PMCID: PMC6248553
+PMID: 28444143  [Indexed for MEDLINE]
+
+
+31. J Hepatol. 2017 Aug;67(2):370-398. doi: 10.1016/j.jhep.2017.03.021. Epub 2017 Apr
+18.
+
+EASL 2017 Clinical Practice Guidelines on the management of hepatitis B virus
+infection.
+
+European Association for the Study of the Liver. Electronic address:
+easloffice@easloffice.eu; European Association for the Study of the Liver.
+
+Collaborators: Lampertico P, Agarwal K, Berg T, Buti M, Janssen HLA,
+Papatheodoridis G, Zoulim F, Tacke F.
+
+Hepatitis B virus (HBV) infection remains a global public health problem with
+changing epidemiology due to several factors including vaccination policies and
+migration. This Clinical Practice Guideline presents updated recommendations for 
+the optimal management of HBV infection. Chronic HBV infection can be classified 
+into five phases: (I) HBeAg-positive chronic infection, (II) HBeAg-positive
+chronic hepatitis, (III) HBeAg-negative chronic infection, (IV) HBeAg-negative
+chronic hepatitis and (V) HBsAg-negative phase. All patients with chronic HBV
+infection are at increased risk of progression to cirrhosis and hepatocellular
+carcinoma (HCC), depending on host and viral factors. The main goal of therapy is
+to improve survival and quality of life by preventing disease progression, and
+consequently HCC development. The induction of long-term suppression of HBV
+replication represents the main endpoint of current treatment strategies, while
+HBsAg loss is an optimal endpoint. The typical indication for treatment requires 
+HBV DNA >2,000IU/ml, elevated ALT and/or at least moderate histological lesions, 
+while all cirrhotic patients with detectable HBV DNA should be treated.
+Additional indications include the prevention of mother to child transmission in 
+pregnant women with high viremia and prevention of HBV reactivation in patients
+requiring immunosuppression or chemotherapy. The long-term administration of a
+potent nucleos(t)ide analogue with high barrier to resistance, i.e., entecavir,
+tenofovir disoproxil or tenofovir alafenamide, represents the treatment of
+choice. Pegylated interferon-alfa treatment can also be considered in mild to
+moderate chronic hepatitis B patients. Combination therapies are not generally
+recommended. All patients should be monitored for risk of disease progression and
+HCC. Treated patients should be monitored for therapy response and adherence. HCC
+remains the major concern for treated chronic hepatitis B patients. Several
+subgroups of patients with HBV infection require specific focus. Future treatment
+strategies to achieve 'cure' of disease and new biomarkers are discussed.
+
+Copyright © 2017 European Association for the Study of the Liver. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhep.2017.03.021 
+PMID: 28427875  [Indexed for MEDLINE]
+
+
+32. Viruses. 2017 Apr 3;9(4). pii: E69. doi: 10.3390/v9040069.
+
+Identifying and Characterizing Interplay between Hepatitis B Virus X Protein and 
+Smc5/6.
+
+Livingston CM(1), Ramakrishnan D(2), Strubin M(3), Fletcher SP(4), Beran RK(5).
+
+Author information: 
+(1)Gilead Sciences, Foster City, CA 94404, USA.
+christine.marie.livingston@gmail.com.
+(2)Gilead Sciences, Foster City, CA 94404, USA. Dhivya.Ramakrishnan@gilead.com.
+(3)Department of Microbiology and Molecular Medicine, University Medical Center
+(CMU), 1211 Geneva, Switzerland. Michel.Strubin@unige.ch.
+(4)Gilead Sciences, Foster City, CA 94404, USA. simon.fletcher@gilead.com.
+(5)Gilead Sciences, Foster City, CA 94404, USA. rudolf.beran@gilead.com.
+
+Hepatitis B X protein (HBx) plays an essential role in the hepatitis B virus
+(HBV) replication cycle, but the function of HBx has been elusive until recently.
+It was recently shown that transcription from the HBV genome (covalently-closed
+circular DNA, cccDNA) is inhibited by the structural maintenance of chromosome
+5/6 complex (Smc5/6), and that a key function of HBx is to redirect the
+DNA-damage binding protein 1 (DDB1) E3 ubiquitin ligase to target this complex
+for degradation. By doing so, HBx alleviates transcriptional repression by Smc5/6
+and stimulates HBV gene expression. In this review, we discuss in detail how the 
+interplay between HBx and Smc5/6 was identified and characterized. We also
+discuss what is known regarding the repression of cccDNA transcription by Smc5/6,
+the timing of HBx expression, and the potential role of HBx in promoting
+hepatocellular carcinoma (HCC).
+
+DOI: 10.3390/v9040069 
+PMCID: PMC5408675
+PMID: 28368357  [Indexed for MEDLINE]
+
+
+33. Viruses. 2017 Mar 21;9(3). pii: E56. doi: 10.3390/v9030056.
+
+Complete and Incomplete Hepatitis B Virus Particles: Formation, Function, and
+Application.
+
+Hu J(1), Liu K(2)(3).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Penn State University College of
+Medicine, Hershey, PA 17033, USA. juh13@psu.edu.
+(2)Department of Microbiology and Immunology, Penn State University College of
+Medicine, Hershey, PA 17033, USA. kul21@psu.edu.
+(3)College of Life Sciences, Zhejiang Sci-Tech University, Hangzhou 310018,
+China. kul21@psu.edu.
+
+Hepatitis B virus (HBV) is a para-retrovirus or retroid virus that contains a
+double-stranded DNA genome and replicates this DNA via reverse transcription of a
+RNA pregenome. Viral reverse transcription takes place within a capsid upon
+packaging of the RNA and the viral reverse transcriptase. A major characteristic 
+of HBV replication is the selection of capsids containing the double-stranded
+DNA, but not those containing the RNA or the single-stranded DNA replication
+intermediate, for envelopment during virion secretion. The complete HBV virion
+particles thus contain an outer envelope, studded with viral envelope proteins,
+that encloses the capsid, which, in turn, encapsidates the double-stranded DNA
+genome. Furthermore, HBV morphogenesis is characterized by the release of
+subviral particles that are several orders of magnitude more abundant than the
+complete virions. One class of subviral particles are the classical surface
+antigen particles (Australian antigen) that contain only the viral envelope
+proteins, whereas the more recently discovered genome-free (empty) virions
+contain both the envelope and capsid but no genome. In addition, recent evidence 
+suggests that low levels of RNA-containing particles may be released, after all. 
+We will summarize what is currently known about how the complete and incomplete
+HBV particles are assembled. We will discuss briefly the functions of the
+subviral particles, which remain largely unknown. Finally, we will explore the
+utility of the subviral particles, particularly, the potential of empty virions
+and putative RNA virions as diagnostic markers and the potential of empty virons 
+as a vaccine candidate.
+
+DOI: 10.3390/v9030056 
+PMCID: PMC5371811
+PMID: 28335554  [Indexed for MEDLINE]
+
+
+34. J Virol. 2017 Apr 13;91(9). pii: e00092-17. doi: 10.1128/JVI.00092-17. Print 2017
+May 1.
+
+Capsid Phosphorylation State and Hepadnavirus Virion Secretion.
+
+Ning X(1), Basagoudanavar SH(1), Liu K(1), Luckenbaugh L(1), Wei D(2), Wang C(2),
+Wei B(2), Zhao Y(3), Yan T(3), Delaney W(4), Hu J(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Pennsylvania State University
+College of Medicine, Hershey, Pennsylvania, USA.
+(2)China National Vaccine and Serum Institute, Beijing, China.
+(3)Department of Infectious Diseases, First Affiliated Hospital, School of
+Medicine, Xi'an Jiaotong University, Xi'an, Shaanxi, China.
+(4)Gilead Sciences, Inc., Foster City, California, USA.
+(5)Department of Microbiology and Immunology, Pennsylvania State University
+College of Medicine, Hershey, Pennsylvania, USA juh13@psu.edu.
+
+The C-terminal domain (CTD) of hepadnavirus core protein is involved in multiple 
+steps of viral replication. In particular, the CTD is initially phosphorylated at
+multiple sites to facilitate viral RNA packaging into immature nucleocapsids
+(NCs) and the early stage of viral DNA synthesis. For the avian hepadnavirus duck
+hepatitis B virus (DHBV), CTD is dephosphorylated subsequently to facilitate the 
+late stage of viral DNA synthesis and to stabilize NCs containing mature viral
+DNA. The role of CTD phosphorylation in virion secretion, if any, has remained
+unclear. Here, the CTD from the human hepatitis B virus (HBV) was found to be
+dephosphorylated in association with NC maturation and secretion of
+DNA-containing virions, as in DHBV. In contrast, the CTD in empty HBV virions
+(i.e., enveloped capsids with no RNA or DNA) was found to be phosphorylated. The 
+potential role of CTD dephosphorylation in virion secretion was analyzed through 
+mutagenesis. For secretion of empty HBV virions, which is independent of either
+viral RNA packaging or DNA synthesis, multiple substitutions in the CTD to mimic 
+either phosphorylation or dephosphorylation showed little detrimental effect.
+Similarly, phospho-mimetic substitutions in the DHBV CTD did not block the
+secretion of DNA-containing virions. These results indicate that CTD
+dephosphorylation, though associated with NC maturation in both HBV and DHBV, is 
+not essential for the subsequent NC-envelope interaction to secrete
+DNA-containing virions, and the CTD state of phosphorylation also does not play
+an essential role in the interaction between empty capsids and the envelope for
+secretion of empty virions.IMPORTANCE The phosphorylation state of the C-terminal
+domain (CTD) of hepatitis B virus (HBV) core or capsid protein is highly dynamic 
+and plays multiple roles in the viral life cycle. To study the potential role of 
+the state of phosphorylation of CTD in virion secretion, we have analyzed the CTD
+phosphorylation state in complete (containing the genomic DNA) versus empty
+(genome-free) HBV virions. Whereas CTD is unphosphorylated in complete virions,
+it is phosphorylated in empty virions. Mutational analyses indicate that neither 
+phosphorylation nor dephosphorylation of CTD is required for virion secretion.
+These results demonstrate that while CTD dephosphorylation is associated with HBV
+DNA synthesis, the CTD state of phosphorylation may not regulate virion
+secretion.
+
+Copyright © 2017 American Society for Microbiology.
+
+DOI: 10.1128/JVI.00092-17 
+PMCID: PMC5391479
+PMID: 28228589  [Indexed for MEDLINE]
+
+
+35. BMC Genomics. 2017 Feb 17;18(1):184. doi: 10.1186/s12864-017-3561-5.
+
+Genome-wide identification of direct HBx genomic targets.
+
+Guerrieri F(1), Belloni L(1), D'Andrea D(2), Pediconi N(3), Le Pera L(1)(2),
+Testoni B(4), Scisciani C(5), Floriot O(4), Zoulim F(4), Tramontano A(1)(2)(6),
+Levrero M(7)(8)(9)(10).
+
+Author information: 
+(1)Center for Life NanoScience@Sapienza, Istituto Italiano di Tecnologia, Viale
+Regina Elena 291, Rome, 00161, Italy.
+(2)Biocomputing Lab, Department of Physics, Sapienza University, Rome, Italy.
+(3)Department of Molecular Medicine, Sapienza University, Viale Regina Elena 291,
+Rome, 00161, Italy.
+(4)INSERM U1052, Cancer Research Center of Lyon (CRCL), 151 cours Albert Thomas, 
+Lyon, 69424, France.
+(5)Department of Internal Medicine - DMISM, Sapienza University, Viale del
+Policlinico 155, 00161, Rome, Italy.
+(6)Istituto Pasteur Fondazione Cenci Bolognetti, Viale Regina Elena 291, Rome,
+00161, Italy.
+(7)Center for Life NanoScience@Sapienza, Istituto Italiano di Tecnologia, Viale
+Regina Elena 291, Rome, 00161, Italy. massimo.levrero@uniroma1.it.
+(8)INSERM U1052, Cancer Research Center of Lyon (CRCL), 151 cours Albert Thomas, 
+Lyon, 69424, France. massimo.levrero@uniroma1.it.
+(9)Department of Internal Medicine - DMISM, Sapienza University, Viale del
+Policlinico 155, 00161, Rome, Italy. massimo.levrero@uniroma1.it.
+(10)Cancer Research Center of Lyon (CRCL) - INSERM U1052, 151 cours Albert
+Thomas, 69424, Lyon Cedex 03, France. massimo.levrero@uniroma1.it.
+
+BACKGROUND: The Hepatitis B Virus (HBV) HBx regulatory protein is required for
+HBV replication and involved in HBV-related carcinogenesis. HBx interacts with
+chromatin modifying enzymes and transcription factors to modulate histone
+post-translational modifications and to regulate viral cccDNA transcription and
+cellular gene expression. Aiming to identify genes and non-coding RNAs (ncRNAs)
+directly targeted by HBx, we performed a chromatin immunoprecipitation sequencing
+(ChIP-Seq) to analyse HBV recruitment on host cell chromatin in cells replicating
+HBV.
+RESULTS: ChIP-Seq high throughput sequencing of HBx-bound fragments was used to
+obtain a high-resolution, unbiased, mapping of HBx binding sites across the
+genome in HBV replicating cells. Protein-coding genes and ncRNAs involved in cell
+metabolism, chromatin dynamics and cancer were enriched among HBx targets
+together with genes/ncRNAs known to modulate HBV replication. The direct
+transcriptional activation of genes/miRNAs that potentiate endocytosis
+(Ras-related in brain (RAB) GTPase family) and autophagy (autophagy related (ATG)
+genes, beclin-1, miR-33a) and the transcriptional repression of microRNAs
+(miR-138, miR-224, miR-576, miR-596) that directly target the HBV pgRNA and would
+inhibit HBV replication, contribute to HBx-mediated increase of HBV replication.
+CONCLUSIONS: Our ChIP-Seq analysis of HBx genome wide chromatin recruitment
+defined the repertoire of genes and ncRNAs directly targeted by HBx and led to
+the identification of new mechanisms by which HBx positively regulates cccDNA
+transcription and HBV replication.
+
+DOI: 10.1186/s12864-017-3561-5 
+PMCID: PMC5316204
+PMID: 28212627  [Indexed for MEDLINE]
+
+
+36. Virology. 2017 Feb;502:176-187. doi: 10.1016/j.virol.2016.12.025. Epub 2017 Jan
+3.
+
+Characterization of the disassembly and reassembly of the HBV glycoprotein
+surface antigen, a pliable nanoparticle vaccine platform.
+
+Gallagher JR(1), Torian U(1), McCraw DM(1), Harris AK(2).
+
+Author information: 
+(1)Laboratory of Infectious Diseases, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, 50 South Drive, Room 6351,
+Bethesda, MD 20892, USA.
+(2)Laboratory of Infectious Diseases, National Institute of Allergy and
+Infectious Diseases, National Institutes of Health, 50 South Drive, Room 6351,
+Bethesda, MD 20892, USA. Electronic address: harrisau@mail.nih.gov.
+
+While nanoparticle vaccine technology is gaining interest due to the success of
+vaccines like those for the human papillomavirus that is based on viral capsid
+nanoparticles, little information is available on the disassembly and reassembly 
+of viral surface glycoprotein-based nanoparticles. One such particle is the
+hepatitis B virus surface antigen (sAg) that exists as nanoparticles. Here we
+show, using biochemical analysis coupled with electron microscopy, that sAg
+nanoparticle disassembly requires both reducing agent to disrupt intermolecular
+disulfide bonds, and detergent to disrupt hydrophobic interactions that stabilize
+the nanoparticle. Particles were otherwise resistant to salt and urea, suggesting
+the driving mechanism of particle formation involves hydrophobic interactions. We
+reassembled isolated sAg protein into nanoparticles by detergent removal and
+reassembly resulted in a wider distribution of particle diameters. Knowledge of
+these driving forces of nanoparticle assembly and stability should facilitate
+construction of epitope-displaying nanoparticles that can be used as immunogens
+in vaccines.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2016.12.025 
+PMCID: PMC5276716
+PMID: 28061386  [Indexed for MEDLINE]
+
+
+37. J Hepatol. 2017 Apr;66(4):685-692. doi: 10.1016/j.jhep.2016.11.009. Epub 2016 Nov
+25.
+
+Cyclosporin derivatives inhibit hepatitis B virus entry without interfering with 
+NTCP transporter activity.
+
+Shimura S(1), Watashi K(2), Fukano K(3), Peel M(4), Sluder A(4), Kawai F(5),
+Iwamoto M(6), Tsukuda S(7), Takeuchi JS(8), Miyake T(9), Sugiyama M(10),
+Ogasawara Y(11), Park SY(5), Tanaka Y(12), Kusuhara H(9), Mizokami M(10), Sureau 
+C(13), Wakita T(8).
+
+Author information: 
+(1)Department of Virology II, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan; SCYNEXIS, Inc., Durham, NC 27713, USA.
+(2)Department of Virology II, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan; Department of Applied Biological Science, Tokyo University of
+Sciences, Noda 278-8510, Japan; CREST, Japan Science and Technology Agency
+(J.S.T.), Saitama 332-0012, Japan. Electronic address: kwatashi@nih.go.jp.
+(3)Department of Virology II, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan; Department of Analytical Biochemistry, Meiji Pharmaceutical
+University, Kiyose 204-8588, Japan.
+(4)SCYNEXIS, Inc., Durham, NC 27713, USA.
+(5)Drug Design Laboratory, Graduate School of Medical Life Science, Yokohama City
+University, Yokohama 230-0045, Japan.
+(6)Department of Virology II, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan; Department of Applied Biological Science, Tokyo University of
+Sciences, Noda 278-8510, Japan.
+(7)Department of Virology II, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan; Micro-signaling Regulation Technology Unit, RIKEN Center for
+Life Science Technologies, Wako 351-0198, Japan.
+(8)Department of Virology II, National Institute of Infectious Diseases, Tokyo
+162-8640, Japan.
+(9)The University of Tokyo, Graduate School of Pharmaceutical Sciences, Tokyo
+113-0033, Japan.
+(10)The Research Center for Hepatitis and Immunology, National Center for Global 
+Health and Medicine, Ichikawa 272-8516, Japan.
+(11)Department of Analytical Biochemistry, Meiji Pharmaceutical University,
+Kiyose 204-8588, Japan.
+(12)Department of Virology and Liver Unit, Nagoya City University Graduate School
+of Medicinal Sciences, Nagoya 467-8601, Japan.
+(13)Laboratoire de Virologie Moléculaire, Institut National de la Transfusion
+Sanguine (INTS), Paris, France.
+
+Comment in
+    J Hepatol. 2017 Apr;66(4):677-679.
+
+BACKGROUND & AIMS: The sodium taurocholate co-transporting polypeptide (NTCP) is 
+the main target of most hepatitis B virus (HBV) specific entry inhibitors.
+Unfortunately, these agents also block NTCP transport of bile acids into
+hepatocytes, and thus have the potential to cause adverse effects. We aimed to
+identify small molecules that inhibit HBV entry while maintaining NTCP
+transporter function.
+METHODS: We characterized a series of cyclosporine (CsA) derivatives for their
+anti-HBV activity and NTCP binding specificity using HepG2 cells overexpressing
+NTCP and primary human hepatocytes. The four most potent derivatives were tested 
+for their capacity to prevent HBV entry, but maintain NTCP transporter function. 
+Their antiviral activity against different HBV genotypes was analysed.
+RESULTS: We identified several CsA derivatives that inhibited HBV infection with 
+a sub-micromolar IC50. Among them, SCY446 and SCY450 showed low activity against 
+calcineurin (CN) and cyclophilins (CyPs), two major CsA cellular targets. This
+suggested that instead, these compounds interacted directly with NTCP to inhibit 
+viral attachment to host cells, and have no immunosuppressive function.
+Importantly, we found that SCY450 and SCY995 did not impair the NTCP-dependent
+uptake of bile acids, and inhibited multiple HBV genotypes including a clinically
+relevant nucleoside analog-resistant HBV isolate.
+CONCLUSIONS: This is the first example of small molecule selective inhibition of 
+HBV entry with no decrease in NTCP transporter activity. It suggests that the
+anti-HBV activity can be functionally separated from bile acid transport. These
+broadly active anti-HBV molecules are potential candidates for developing new
+drugs with fewer adverse effects.
+LAY SUMMARY: In this study, we identified new compounds that selectively
+inhibited hepatitis B virus (HBV) entry, and did not impair bile acid uptake. Our
+evidence offers a new strategy for developing anti-HBV drugs with fewer side
+effects.
+
+Copyright © 2016 European Association for the Study of the Liver. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhep.2016.11.009 
+PMID: 27890789  [Indexed for MEDLINE]
+
+
+38. Biochem Biophys Res Commun. 2016 Sep 16;478(2):825-30. doi:
+10.1016/j.bbrc.2016.08.032. Epub 2016 Aug 5.
+
+Nuclear factor Y regulates ancient budgerigar hepadnavirus core promoter
+activity.
+
+Shen Z(1), Liu Y(2), Luo M(1), Wang W(1), Liu J(1), Liu W(1), Pan S(3), Xie Y(4).
+
+Author information: 
+(1)Key Laboratory of Medical Molecular Virology (Ministry of Health and Ministry 
+of Education), Institutes of Biomedical Sciences, Shanghai Medical College, Fudan
+University, Shanghai 200031, China.
+(2)Department of Surgery, Huashan Hospital, Fudan University, Shanghai 200040,
+China.
+(3)Shanghai Keybiomed Technology Co., Ltd., Shanghai 201206, China. Electronic
+address: panshaokun@foxmail.com.
+(4)Key Laboratory of Medical Molecular Virology (Ministry of Health and Ministry 
+of Education), Institutes of Biomedical Sciences, Shanghai Medical College, Fudan
+University, Shanghai 200031, China. Electronic address: yhxie@fudan.edu.cn.
+
+Endogenous viral elements (EVE) in animal genomes are the fossil records of
+ancient viruses and provide invaluable information on the origin and evolution of
+extant viruses. Extant hepadnaviruses include avihepadnaviruses of birds and
+orthohepadnaviruses of mammals. The core promoter (Cp) of hepadnaviruses is vital
+for viral gene expression and replication. We previously identified in the
+budgerigar genome two EVEs that contain the full-length genome of an ancient
+budgerigar hepadnavirus (eBHBV1 and eBHBV2). Here, we found eBHBV1 Cp and eBHBV2 
+Cp were active in several human and chicken cell lines. A region from nt -85
+to -11 in eBHBV1 Cp was critical for the promoter activity. Bioinformatic
+analysis revealed a putative binding site of nuclear factor Y (NF-Y), a
+ubiquitous transcription factor, at nt -64 to -50 in eBHBV1 Cp. The NF-Y core
+binding site (ATTGG, nt -58 to -54) was essential for eBHBV1 Cp activity. The
+same results were obtained with eBHBV2 Cp and duck hepatitis B virus Cp. The
+subunit A of NF-Y (NF-YA) was recruited via the NF-Y core binding site to eBHBV1 
+Cp and upregulated the promoter activity. Finally, the NF-Y core binding site is 
+conserved in the Cps of all the extant avihepadnaviruses but not of
+orthohepadnaviruses. Interestingly, a putative and functionally important NF-Y
+core binding site is located at nt -21 to -17 in the Cp of human hepatitis B
+virus. In conclusion, our findings have pinpointed an evolutionary conserved and 
+functionally critical NF-Y binding element in the Cps of avihepadnaviruses.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2016.08.032 
+PMID: 27501758  [Indexed for MEDLINE]
+
+
+39. Antiviral Res. 2016 Aug;132:26-37. doi: 10.1016/j.antiviral.2016.05.005. Epub
+2016 May 13.
+
+Establishment of an inducible HBV stable cell line that expresses
+cccDNA-dependent epitope-tagged HBeAg for screening of cccDNA modulators.
+
+Cai D(1), Wang X(2), Yan R(1), Mao R(1), Liu Y(3), Ji C(4), Cuconati A(5), Guo
+H(6).
+
+Author information: 
+(1)Institute for Biotechnology and Virology Research, Drexel University College
+of Medicine, Doylestown, PA, 18902, USA; Department of Microbiology and
+Immunology, Indiana University School of Medicine, Indianapolis, IN, 46202, USA.
+(2)Baruch S. Blumberg Institute, Hepatitis B Foundation, Doylestown, PA, 18902,
+USA.
+(3)Department of Microbiology and Immunology, Indiana University School of
+Medicine, Indianapolis, IN, 46202, USA.
+(4)Virology Discovery and Translational Area, Roche Pharma Research and Early
+Development, Nutley, NJ, 07110, USA. Electronic address: changhua.ji2@pfizer.com.
+(5)Baruch S. Blumberg Institute, Hepatitis B Foundation, Doylestown, PA, 18902,
+USA. Electronic address: acuconati@arbutusbio.com.
+(6)Institute for Biotechnology and Virology Research, Drexel University College
+of Medicine, Doylestown, PA, 18902, USA; Department of Microbiology and
+Immunology, Indiana University School of Medicine, Indianapolis, IN, 46202, USA. 
+Electronic address: haitguo@iupui.edu.
+
+Hepatitis B virus (HBV) covalently closed circular (ccc) DNA is essential to the 
+virus life cycle, its elimination during chronic infection is considered critical
+to a durable therapy but has not been achieved by current antivirals. Despite
+being essential, cccDNA has not been the major target of high throughput
+screening (HTS), largely because of the limitations of current HBV tissue culture
+systems, including the impracticality of detecting cccDNA itself. In response to 
+this need, we have previously developed a proof-of-concept HepDE19 cell line in
+which the production of wildtype e antigen (HBeAg) is dependent upon cccDNA.
+However, the existing assay system is not ideal for HTS because the HBeAg ELISA
+cross reacts with a viral HBeAg homologue, which is the core antigen (HBcAg)
+expressed largely in a cccDNA-independent fashion in HepDE19 cells. To further
+improve the assay specificity, we report herein a "second-generation" cccDNA
+reporter cell line, termed HepBHAe82. In the similar principle of HepDE19 line,
+an in-frame HA epitope tag was introduced into the precore domain of HBeAg open
+reading frame in the transgene of HepBHAe82 cells without disrupting any
+cis-element critical for HBV replication and HBeAg secretion. A chemiluminescence
+ELISA assay (CLIA) for the detection of HA-tagged HBeAg with HA antibody serving 
+as capture antibody and HBeAb serving as detection antibody has been developed to
+eliminate the confounding signal from HBcAg. The miniaturized HepBHAe82 cell
+based assay system exhibits high level of cccDNA-dependent HA-HBeAg production
+and high specific readout signals with low background. We have also established a
+HepHA-HBe4 cell line expressing transgene-dependent HA-HBeAg as a counter screen 
+to identify HBeAg inhibitors. The HepBHAe82 system is amenable to antiviral HTS
+development, and can be used to identify host factors that regulate cccDNA
+metabolism and transcription.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.antiviral.2016.05.005 
+PMCID: PMC5060949
+PMID: 27185623  [Indexed for MEDLINE]
+
+
+40. Proc Natl Acad Sci U S A. 2016 Feb 23;113(8):2074-9. doi:
+10.1073/pnas.1525616113. Epub 2016 Feb 8.
+
+Structural and biochemical analysis of Bcl-2 interaction with the hepatitis B
+virus protein HBx.
+
+Jiang T(1), Liu M(1), Wu J(1), Shi Y(2).
+
+Author information: 
+(1)Ministry of Education Key Laboratory of Protein Science, Tsinghua-Peking Joint
+Center for Life Sciences, Beijing Advanced Innovation Center for Structural
+Biology, School of Life Sciences, Tsinghua University, Beijing 100084, China.
+(2)Ministry of Education Key Laboratory of Protein Science, Tsinghua-Peking Joint
+Center for Life Sciences, Beijing Advanced Innovation Center for Structural
+Biology, School of Life Sciences, Tsinghua University, Beijing 100084, China
+shi-lab@tsinghua.edu.cn.
+
+HBx is a hepatitis B virus protein that is required for viral infectivity and
+replication. Anti-apoptotic Bcl-2 family members are thought to be among the
+important host targets of HBx. However, the structure and function of HBx are
+poorly understood and the molecular mechanism of HBx-induced carcinogenesis
+remains unknown. In this study, we report biochemical and structural
+characterization of HBx. The recombinant HBx protein contains metal ions, in
+particular iron and zinc. A BH3-like motif in HBx (residues 110-135) binds Bcl-2 
+with a dissociation constant of ∼193 μM, which is drastically lower than that for
+a canonical BH3 motif from Bim or Bad. Structural analysis reveals that, similar 
+to other BH3 motifs, the BH3-like motif of HBx adopts an amphipathic α-helix and 
+binds the conserved BH3-binding groove on Bcl-2. Unlike the helical Bim or Bad
+BH3 motif, the C-terminal portion of the bound HBx BH3-like motif has an extended
+conformation and makes considerably fewer interactions with Bcl-2. These
+observations suggest that HBx may modulate Bcl-2 function in a way that is
+different from that of the classical BH3-only proteins.
+
+DOI: 10.1073/pnas.1525616113 
+PMCID: PMC4776483
+PMID: 26858413  [Indexed for MEDLINE]
+
+
+41. Cold Spring Harb Perspect Med. 2016 Jan 8;6(3):a021402. doi:
+10.1101/cshperspect.a021402.
+
+Hepatitis B Virus X and Regulation of Viral Gene Expression.
+
+Slagle BL(1), Bouchard MJ(2).
+
+Author information: 
+(1)Department of Molecular Virology and Microbiology, Baylor College of Medicine,
+Houston, Texas 77030.
+(2)Department of Biochemistry and Molecular Biology, Drexel University College of
+Medicine, Philadelphia, Pennsylvania 19102.
+
+The efficient replication of hepatitis B virus (HBV) requires the HBV regulatory 
+hepatitis B virus X (HBx) protein. The exact contributions of HBx are not fully
+understood, in part because of the limitations of the assays used for its study. 
+When HBV replication is driven from a plasmid DNA, the contribution of HBx is
+modest. However, there is an absolute requirement for HBx in assays that
+recapitulate the infectious virus life cycle. There is much evidence that HBx can
+contribute directly to HBV replication by acting on viral promoters embedded
+within protein coding sequences. In addition, HBx may also contribute indirectly 
+by modulating cellular pathways to benefit virus replication. Understanding the
+mechanism(s) of HBx action during virus replication may provide insight into
+novel ways to disrupt chronic HBV replication.
+
+Copyright © 2016 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a021402 
+PMCID: PMC4772081
+PMID: 26747833  [Indexed for MEDLINE]
+
+
+42. Cold Spring Harb Perspect Med. 2016 Jan 4;6(1):a021360. doi:
+10.1101/cshperspect.a021360.
+
+Origins and Evolution of Hepatitis B Virus and Hepatitis D Virus.
+
+Littlejohn M(1), Locarnini S(1), Yuen L(1).
+
+Author information: 
+(1)Molecular Research and Development, Victorian Infectious Diseases Reference
+Laboratory, Doherty Institute, Melbourne 3000, Australia.
+
+Members of the family Hepadnaviridae fall into two subgroups: mammalian and
+avian. The detection of endogenous avian hepadnavirus DNA integrated into the
+genomes of zebra finches has revealed a deep evolutionary origin of
+hepadnaviruses that was not previously recognized, dating back at least 40
+million and possibly >80 million years ago. The nonprimate mammalian members of
+the Hepadnaviridae include the woodchuck hepatitis virus (WHV), the ground
+squirrel hepatitis virus, and arctic squirrel hepatitis virus, as well as a
+number of members of the recently described bat hepatitis virus. The
+identification of hepatitis B viruses (HBVs) in higher primates, such as
+chimpanzee, gorilla, orangutan, and gibbons that cluster with the human HBV, as
+well as a number of recombinant forms between humans and primates, further
+implies a more complex origin of this virus. We discuss the current theories of
+the origin and evolution of HBV and propose a model that includes cross-species
+transmissions and subsequent recombination events on a genetic backbone of
+genotype C HBV infection. The hepatitis delta virus (HDV) is a defective RNA
+virus requiring the presence of the HBV for the completion of its life cycle. The
+origins of this virus remain unknown, although some recent studies have suggested
+an ancient African radiation. The age of the association between HDV and HBV is
+also unknown.
+
+Copyright © 2016 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a021360 
+PMCID: PMC4691804
+PMID: 26729756  [Indexed for MEDLINE]
+
+
+43. Viral Immunol. 2015 Oct;28(8):411. doi: 10.1089/vim.2015.29001.dlw.
+
+An Update on Hantaviruses.
+
+Woodland DL(1).
+
+Author information: 
+(1)Keystone Symposia on Molecular and Cellular Biology , Silverthorne, Colorado.
+
+DOI: 10.1089/vim.2015.29001.dlw 
+PMID: 26425893  [Indexed for MEDLINE]
+
+
+44. Cold Spring Harb Perspect Med. 2015 Jul 1;5(7):a021386. doi:
+10.1101/cshperspect.a021386.
+
+Hepadnavirus Genome Replication and Persistence.
+
+Hu J(1), Seeger C(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Penn State University College of
+Medicine, Hershey, Pennsylvania 17033.
+(2)Fox Chase Cancer Center, Philadelphia, Pennsylvania 19111.
+
+Hallmarks of the hepadnavirus replication cycle are the formation of covalently
+closed circular DNA (cccDNA) and the reverse transcription of a pregenomic RNA
+(pgRNA) in core particles leading to synthesis of the relaxed circular DNA
+(rcDNA) genome. cccDNA, the template for viral RNA transcription, is the basis
+for the persistence of these viruses in infected hepatocytes. In this review, we 
+summarize the current state of knowledge on the mechanisms of hepadnavirus
+reverse transcription and the biochemical and structural properties of the viral 
+reverse transcriptase (RT). We highlight important gaps in knowledge regarding
+cccDNA biosynthesis and stability. In addition, we discuss the impact of current 
+antiviral therapies on viral persistence, particularly on cccDNA.
+
+Copyright © 2015 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a021386 
+PMCID: PMC4484952
+PMID: 26134841  [Indexed for MEDLINE]
+
+
+45. Cold Spring Harb Perspect Med. 2015 Apr 1;5(4). pii: a021352. doi:
+10.1101/cshperspect.a021352.
+
+Animal models and the molecular biology of hepadnavirus infection.
+
+Mason WS(1).
+
+Author information: 
+(1)Fox Chase Cancer Center, Philadelphia, Pennsylvania 19111.
+
+Australian antigen, the envelope protein of hepatitis B virus (HBV), was
+discovered in 1967 as a prevalent serum antigen in hepatitis B patients. Early
+electron microscopy (EM) studies showed that this antigen was present in 22-nm
+particles in patient sera, which were believed to be incomplete virus. Complete
+virus, much less abundant than the 22-nm particles, was finally visualized in
+1970. HBV was soon found to infect chimpanzees, gorillas, orangutans, gibbon
+apes, and, more recently, tree shrews (Tupaia belangeri) and cynomolgus macaques 
+(Macaca fascicularis). This restricted host range placed limits on the kinds of
+studies that might be performed to better understand the biology and molecular
+biology of HBV and to develop antiviral therapies to treat chronic infections.
+About 10 years after the discovery of HBV, this problem was bypassed with the
+discovery of viruses related to HBV in woodchucks, ground squirrels, and ducks.
+Although unlikely animal models, their use revealed the key steps in hepadnavirus
+replication and in the host response to infection, including the fact that the
+viral nuclear episome is the ultimate target for immune clearance of transient
+infections and antiviral therapy of chronic infections. Studies with these and
+other animal models have also suggested interesting clues into the link between
+chronic HBV infection and hepatocellular carcinoma.
+
+Copyright © 2015 Cold Spring Harbor Laboratory Press; all rights reserved.
+
+DOI: 10.1101/cshperspect.a021352 
+PMCID: PMC4382722
+PMID: 25833941  [Indexed for MEDLINE]
+
+
+46. Gastroenterology. 2015 Jan;148(1):221-244.e3. doi: 10.1053/j.gastro.2014.10.038. 
+Epub 2014 Oct 31.
+
+American Gastroenterological Association Institute technical review on prevention
+and treatment of hepatitis B virus reactivation during immunosuppressive drug
+therapy.
+
+Perrillo RP(1), Gish R(2), Falck-Ytter YT(3).
+
+Author information: 
+(1)Hepatology Division, Baylor University Medical Center, Department of Medicine,
+University of Texas Southwestern, Dallas, Texas.
+(2)Division of Gastroenterology and Hepatology, Department of Medicine,Stanford
+University, Palo Alto, California; Hepatitis B Foundation, Doylestown,
+Pennsylvania.
+(3)Division of Gastroenterology and Hepatology, Department of Medicine, Case and 
+VA Medical Center, Case Western Reserve University, Cleveland, Ohio.
+
+DOI: 10.1053/j.gastro.2014.10.038 
+PMID: 25447852  [Indexed for MEDLINE]
+
+
+47. Gastroenterology. 2015 Jan;148(1):215-9; quiz e16-7. doi:
+10.1053/j.gastro.2014.10.039. Epub 2014 Oct 31.
+
+American Gastroenterological Association Institute guideline on the prevention
+and treatment of hepatitis B virus reactivation during immunosuppressive drug
+therapy.
+
+Reddy KR(1), Beavers KL(2), Hammond SP(3), Lim JK(4), Falck-Ytter YT(5); American
+Gastroenterological Association Institute.
+
+Collaborators: Flamm SL, Gerson LB, Hirano I, Nguyen GC, Rubenstein JH, Singh S, 
+Smalley WE, Stollman N, Sultan S, Vege SS, Wani SB, Weinberg DS, Yang YX.
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, University of Pennsylvania,
+Philadelphia, Pennsylvania.
+(2)Division of Gastroenterology and Hepatology, Medical University of South
+Carolina, Charleston, South Carolina.
+(3)Division of Infectious Diseases, Brigham & Women's Hospital, Dana-Farber
+Cancer Institute and Harvard Medical School, Boston, Massachusetts.
+(4)Division of Gastroenterology and Hepatology, Yale University School of
+Medicine, New Haven, Connecticut.
+(5)Division of Gastroenterology and Hepatology, Department of Medicine, Case and 
+VA Medical Center, Case Western Reserve University, Cleveland, Ohio.
+
+Erratum in
+    Gastroenterology. 2015 Feb;148(2):455. multiple investigator names added.
+
+DOI: 10.1053/j.gastro.2014.10.039 
+PMID: 25447850  [Indexed for MEDLINE]
+
+
+48. Intervirology. 2014;57(3-4):141-50. doi: 10.1159/000360947. Epub 2014 Jul 15.
+
+Genotypes and genetic variability of hepatitis B virus.
+
+Kramvis A(1).
+
+Author information: 
+(1)Hepatitis Virus Diversity Research Programme (HVDRP), Department of Internal
+Medicine, Faculty of Health Sciences, University of the Witwatersrand,
+Johannesburg, South Africa.
+
+Sequence heterogeneity is a feature of hepatitis B virus (HBV), the prototype
+member of the family Hepadnaviridae. Based on an intergroup divergence of greater
+than 7.5% across the complete genome, HBV has been classified phylogenetically
+into 9 genotypes, A-I, with a putative 10th genotype 'J', isolated from a single 
+individual. With between approximately 4 and 8% intergroup nucleotide divergence 
+across the complete genome and good bootstrap support, genotypes A-D, F, H, and I
+are classified further into subgenotypes. There is a broad and highly
+statistically significant correlation between serological subtypes and genotypes,
+and in some cases, serological subtypes can be used to differentiate
+subgenotypes. The genotypes, and certain subgenotypes, have distinct geographical
+distributions and are important in both the clinical manifestation of infection
+and response to antiviral therapy. HBV genotypes/subgenotypes and genetic
+variability of HBV are useful in epidemiological and transmission studies,
+tracing human migrations, and in predicting the risk for the development of
+severe liver disease and response to antiviral therapy. Moreover, knowledge of
+the genotype/subgenotype is important in implementing preventative strategies.
+Thus, it is crucial that new strains are correctly assigned to their respective
+genotype/subgenotype and consistent, unambiguous, and generally accepted
+nomenclature is utilized.
+
+© 2014 S. Karger AG, Basel.
+
+DOI: 10.1159/000360947 
+PMID: 25034481  [Indexed for MEDLINE]
+
+
+49. World J Gastroenterol. 2014 May 14;20(18):5427-34. doi: 10.3748/wjg.v20.i18.5427.
+
+Hepatitis B virus genotypes: global distribution and clinical importance.
+
+Sunbul M(1).
+
+Author information: 
+(1)Mustafa Sunbul, Department of Infectious Diseases, School of Medicine, Ondokuz
+Mayis University, 55139 Samsun, Turkey.
+
+At least 600000 individuals worldwide annually die of hepatitis B virus
+(HBV)-related diseases, such as chronic hepatitis B (CHB), liver cirrhosis (LC), 
+and hepatocellular carcinoma (HCC). Many viral factors, such as viral load,
+genotype, and specific viral mutations, are known to affect disease progression. 
+HBV reverse transcriptase does not have a proofreading function, therefore, many 
+HBV genotypes, sub-genotypes, mutants, and recombinants emerge. Differences
+between genotypes in response to antiviral treatment have been determined. To
+date, 10 HBV genotypes, scattered across different geographical regions, have
+been identified. For example, genotype A has a tendency for chronicity, whereas
+viral mutations are frequently encountered in genotype C. Both chronicity and
+mutation frequency are common in genotype D. LC and progression to HCC are more
+commonly encountered with genotypes C and D than the other genotypes. Pathogenic 
+differences between HBV genotypes explain disease intensity, progression to LC,
+and HCC. In conclusion, genotype determination in CHB infection is important in
+estimating disease progression and planning optimal antiviral treatment.
+
+DOI: 10.3748/wjg.v20.i18.5427 
+PMCID: PMC4017058
+PMID: 24833873  [Indexed for MEDLINE]
+
+
+50. J Hepatol. 2014 Sep;61(3):660-71. doi: 10.1016/j.jhep.2014.04.026. Epub 2014 May 
+4.
+
+The role of Kupffer cells in hepatitis B and hepatitis C virus infections.
+
+Boltjes A(1), Movita D(1), Boonstra A(1), Woltman AM(2).
+
+Author information: 
+(1)Dept. of Gastroenterology and Hepatology, Erasmus MC University Medical
+Center, Rotterdam, The Netherlands.
+(2)Dept. of Gastroenterology and Hepatology, Erasmus MC University Medical
+Center, Rotterdam, The Netherlands. Electronic address: a.woltman@erasmusmc.nl.
+
+Globally, over 500 million people are chronically infected with the hepatitis B
+virus (HBV) or hepatitis C virus (HCV). These chronic infections cause liver
+inflammation, and may result in fibrosis/cirrhosis or hepatocellular carcinoma.
+Albeit that HBV and HCV differ in various aspects, clearance, persistence, and
+immunopathology of either infection depends on the interplay between the innate
+and adaptive responses in the liver. Kupffer cells, the liver-resident
+macrophages, are abundantly present in the sinusoids of the liver. These cells
+have been shown to be crucial players to maintain homeostasis, but also
+contribute to pathology. However, it is important to note that especially during 
+pathology, Kupffer cells are difficult to distinguish from infiltrating
+monocytes/macrophages and other myeloid cells. In this review we discuss our
+current understanding of Kupffer cells, and assess their role in the regulation
+of anti-viral immunity and disease pathogenesis during HBV and HCV infection.
+
+Copyright © 2014 European Association for the Study of the Liver. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jhep.2014.04.026 
+PMID: 24798624  [Indexed for MEDLINE]
+

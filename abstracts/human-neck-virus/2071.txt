@@ -1,0 +1,42 @@
+
+
+2071. Hum Pathol. 2011 Oct;42(10):1385-90. doi: 10.1016/j.humpath.2010.12.013. Epub
+2011 Mar 30.
+
+Immunohistochemistry for Merkel cell polyomavirus is highly specific but not
+sensitive for the diagnosis of Merkel cell carcinoma in the Australian
+population.
+
+Paik JY(1), Hall G, Clarkson A, Lee L, Toon C, Colebatch A, Chou A, Gill AJ.
+
+Author information: 
+(1)The Department of Anatomical Pathology, Royal North Shore Hospital, Sydney,
+2065 Australia.
+
+Recent studies have demonstrated a high frequency of detection of Merkel cell
+polyomavirus in Merkel cell carcinoma. However, most of these studies are from
+European or North American centers that have relatively low sun exposure and may 
+have a higher incidence of virus-driven oncogenesis compared with the highly
+sun-exposed but predominantly fair-skinned Australian population. We performed
+immunohistochemistry for Merkel cell polyomavirus on 104 cases of Merkel cell
+carcinoma and 74 cases of noncutaneous small cell-undifferentiated carcinoma from
+3 major Australian centers. Nineteen (18.3%) cases of Merkel cell carcinoma
+showed positive staining for Merkel cell polyomavirus versus 1 (1.3%) of small
+cell-undifferentiated carcinoma. All 15 cases (14.3%) of Merkel cell carcinoma
+with areas of mixed squamous differentiation showed negative staining. We found
+positive staining in only 3 (7.7%) of 39 Merkel cell carcinoma from the head and 
+neck (the most sun-exposed area) versus 16 (24.6%) of 65 of tumors from other
+sites (P < .05). Our findings support the concept of a Merkel cell
+polyomavirus-driven and a non-Merkel cell polyomavirus-driven (primarily
+sun-dependent) pathway in Merkel cell carcinoma carcinogenesis, with the latter
+being significantly more frequent in Australia and in mixed squamous-Merkel cell 
+carcinoma (which is also more frequent in Australia). Although
+immunohistochemistry for Merkel cell polyomavirus seems to be highly specific in 
+all populations, the low incidence of Merkel cell polyomavirus-positive Merkel
+cell carcinoma in a highly sun-exposed population limits its diagnostic utility
+in this setting.
+
+Crown Copyright © 2011. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.humpath.2010.12.013 
+PMID: 21453956  [Indexed for MEDLINE]

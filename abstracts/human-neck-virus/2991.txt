@@ -1,0 +1,53 @@
+
+
+2991. Neoplasia. 2014 May;16(5):403-12. doi: 10.1016/j.neo.2014.05.004. Epub 2014 Jun
+18.
+
+A small-molecule inhibitor of PIM kinases as a potential treatment for urothelial
+carcinomas.
+
+Foulks JM(1), Carpenter KJ(2), Luo B(1), Xu Y(1), Senina A(1), Nix R(1), Chan
+A(1), Clifford A(1), Wilkes M(1), Vollmer D(1), Brenning B(1), Merx S(1), Lai
+S(1), McCullar MV(1), Ho KK(1), Albertson DJ(3), Call LT(2), Bearss JJ(4), Tripp 
+S(5), Liu T(3), Stephens BJ(2), Mollard A(2), Warner SL(2), Bearss DJ(6), Kanner 
+SB(1).
+
+Author information: 
+(1)Astex Pharmaceuticals, Inc, Salt Lake City, UT.
+(2)Tolero Pharmaceuticals, Inc, Lehi, UT.
+(3)Department of Pathology, University of Utah School of Medicine, Salt Lake
+City, UT.
+(4)Huntsman Cancer Institute, University of Utah, Salt Lake City, UT.
+(5)ARUP Laboratories, Salt Lake City, UT.
+(6)Tolero Pharmaceuticals, Inc, Lehi, UT. Electronic address:
+dbearss@toleropharma.com.
+
+The proto-oncogene proviral integration site for moloney murine leukemia virus
+(PIM) kinases (PIM-1, PIM-2, and PIM-3) are serine/threonine kinases that are
+involved in a number of signaling pathways important to cancer cells. PIM kinases
+act in downstream effector functions as inhibitors of apoptosis and as positive
+regulators of G1-S phase progression through the cell cycle. PIM kinases are
+upregulated in multiple cancer indications, including lymphoma, leukemia,
+multiple myeloma, and prostate, gastric, and head and neck cancers.
+Overexpression of one or more PIM family members in patient tumors frequently
+correlates with poor prognosis. The aim of this investigation was to evaluate PIM
+expression in low- and high-grade urothelial carcinoma and to assess the role PIM
+function in disease progression and their potential to serve as molecular targets
+for therapy. One hundred thirty-seven cases of urothelial carcinoma were included
+in this study of surgical biopsy and resection specimens. High levels of
+expression of all three PIM family members were observed in both noninvasive and 
+invasive urothelial carcinomas. The second-generation PIM inhibitor, TP-3654,
+displays submicromolar activity in pharmacodynamic biomarker modulation, cell
+proliferation studies, and colony formation assays using the UM-UC-3 bladder
+cancer cell line. TP-3654 displays favorable human ether-à-go-go-related gene and
+cytochrome P450 inhibition profiles compared with the first-generation PIM
+inhibitor, SGI-1776, and exhibits oral bioavailability. In vivo xenograft studies
+using a bladder cancer cell line show that PIM kinase inhibition can reduce tumor
+growth, suggesting that PIM kinase inhibitors may be active in human urothelial
+carcinomas.
+
+Copyright © 2014. Published by Elsevier Inc.
+
+DOI: 10.1016/j.neo.2014.05.004 
+PMCID: PMC4198696
+PMID: 24953177  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+890. Int J Clin Oncol. 2016 Oct;21(5):819-826. Epub 2016 Jun 23.
+
+The molecular mechanism of human papillomavirus-induced carcinogenesis in head
+and neck squamous cell carcinoma.
+
+Sano D(1), Oridate N(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Yokohama City
+University, School of Medicine, 3-9 Fukuura, Kanazawa-ku, Yokohama, 236-0004,
+Japan. dsano@yokohama-cu.ac.jp.
+(2)Department of Otorhinolaryngology, Head and Neck Surgery, Yokohama City
+University, School of Medicine, 3-9 Fukuura, Kanazawa-ku, Yokohama, 236-0004,
+Japan.
+
+Head and neck squamous cell carcinoma (HNSCC) is the sixth most common cancer
+worldwide. Recently, the incidence of oropharyngeal cancer (OPC) has increased
+markedly in comparison to that of HNSCC, which is associated with the use of
+tobacco or alcohol or both. This increase has resulted mainly from the global
+rise in the number of human papillomavirus (HPV)-related oropharyngeal cancers
+(HPV-OPCs). HPV-OPC has several unique characteristics, including presentation in
+younger patients, better response rates to treatment, and better prognosis
+compared to alcohol- and smoking-related HNSCC. HPV infection status is now an
+independent prognostic factor for survival in patients with OPC. In general, HPV 
+oncoproteins E6 and E7 are the primary viral factors responsible for the
+initiation and progression of HPV-related cancers via the inactivation of p53 and
+pRb. However, alterations in additional factors, including genomic instability,
+HPV DNA integration, and epigenetic alterations, could be equally important for
+neoplastic transformation and tumor progression. The impact of genomic
+instability and external environmental factors on the initiation of cervical
+cancer development through high-risk HPV infection has been well characterized,
+although less is known about the mechanism underlying HPV-induced carcinogenesis 
+in HNSCC. This review provides an overview of the biology and molecular
+mechanisms of HPV-related cancers, including a particular focus on several recent
+studies on the comprehensive characterization of genomic alterations in
+HPV-associated HNSCC.
+
+DOI: 10.1007/s10147-016-1005-x 
+PMID: 27339270  [Indexed for MEDLINE]

@@ -1,0 +1,54 @@
+
+
+2713. Zhonghua Bing Li Xue Za Zhi. 2017 Mar 8;46(3):155-159. doi:
+10.3760/cma.j.issn.0529-5807.2017.03.003.
+
+[Clinicopathologic characteristics of head and neck carcinoma showing thymus-like
+element].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Cui XJ(1), Zhang CY, Su P, Lyu B, Ren YB, Fan XS, Zhang XF, Wang Y, Song YH, Liu 
+ZY.
+
+Author information: 
+(1)Department of Pathology, Shandong University Qilu Hospital, Jinan 250012,
+China.
+
+Objective: To investigate clinicopathological features of carcinoma showing
+thymus-like elements (CASTLE) in the head and neck regions. Methods:
+Clinicopathological data of 7 patients with CASTLE in the head and neck regions
+were retrospectively reviewed.Immunohistochemical staining and in situ
+hybridization for EBER were performed. BRAF(V600E) mutation was examined by ARMS 
+method in 6 cases. Results: There were 5 females and 2 males with age between 49 
+and 78 years (average of 65.6 years). All tumors were solitary nodular lesions
+with an infiltrative border, including 6 intrathyroid tumors and 1 extrathyroid
+tumor in the laryngeal pharynx.The tumors were 1.7-4.1 cm in diameter (average of
+3.0 cm). Four cases demonstrated lymph node metastasis.All patients were alive
+without metastasis during follow-up, except one consultation case (with FNA
+sample) developed recurrence at the primary site. The cases showed different
+immunoreaction to CD5, diffuse immunoreaction with p63, CK5/6 and CD117, but
+negative staining for TTF1, TG and calcitonin. One case showed positive
+immunoreaction with Synin less than 30% tumor cells. The Ki-67 labeling index was
+between 3% and 90%. No BRAF(V600E) mutation and EB virus infection were detected.
+Conclusions: Extrathyroid CASTLE involving laryngeal pharynx shows the similar
+morphological and immunohistochemical features with intrathyroid
+CASTLE.Immunohistochemical markers of CD5 and CD117 are helpful in the diagnosis.
+Ki-67 labeling index can be high in CASTLE, especially in lymphoepithelioma type.
+CD5-negative CASTLE may have neuroendocrine differentiation. BRAF(V600E) mutation
+and EB virus may not be involved in the carcinogenesis of CASTLE.
+
+Publisher: 目的： 探讨头颈部显示胸腺样分化的癌(carcinoma showing thymus like elements,
+CASTLE)的细胞学特点及临床病理特征。 方法：
+收集7例CASTLE患者存档资料，行细胞学、组织学观察及免疫组织化学(LASB法)染色，采用突变扩增阻滞系统(ARMS)法检测BRAF(V600E)基因突变，并采
+用EBER原位杂交检测EB病毒感染情况，分析其细胞学特点及临床病理特征。 结果：
+7例患者，5例女性，2例男性。年龄49～78岁，平均年龄65.6岁。6例位于甲状腺内，1例位于下咽。7例均为孤立性结节，边界相对清楚。肿瘤直径1.7～4.1
+cm，平均直径3.0
+cm。4例(含下咽病例)伴有颈部淋巴结转移。7例均有随访。1例于甲状腺内原位复发，并行甲状腺细针穿刺。其余6例均未发现复发和转移。1例CASTLE局灶性表达CD5
+(小于5%肿瘤细胞)，30%肿瘤细胞表达突触素，其余6例CASTLE弥漫阳性表达CD5。所有病例阳性表达CK5/6、p63、CD117，不表达甲状腺转录因子1、甲
+状腺球蛋白、CT。Ki-67阳性指数在3%～90%。6例均无BRAF(V600E)基因突变。6例EBER原位杂交均为阴性。 结论：
+位于下咽CASTLE具有和甲状腺内CASTLE相同形态学特点和免疫组织化学表型。CD5和CD117是诊断CASTLE的有效指标。CD5阴性的CASTLE可伴神经内
+分泌分化。CASTLE的Ki-67阳性指数可以较高，在淋巴上皮癌型CASTLE中尤为明显。BRAF(V600E)基因突变和EB病毒感染可能不参与CASTLE的发生
+。.
+DOI: 10.3760/cma.j.issn.0529-5807.2017.03.003 
+PMID: 28297754  [Indexed for MEDLINE]

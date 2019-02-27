@@ -1,0 +1,36 @@
+
+
+130. Biomedica. 2015 Oct 23;36(0):14-24. doi: 10.7705/biomedica.v36i0.2912.
+
+Genotyping, levels of expression and physical status of human papilloma virus in 
+oropharyngeal squamous cell carcinoma among Colombian patients.
+
+Erira A(1), Motta LA, Chala A, Moreno A, Gamboa F, García DA.
+
+Author information: 
+(1)Centro de Investigaciones Odontológicas, Pontificia Universidad Javeriana,
+Bogotá, D.C., Colombia. halverash@gmail.com.
+
+INTRODUCTION: One of the risk factors for squamous cell oropharyngeal carcinoma
+is infection with the human papilloma virus (HPV), with prevalences that vary
+depending on the geographical region. 
+OBJECTIVE: To identify the most frequent HPV viral types in oropharyngeal cancer,
+the levels of expression and the physical condition of the viral genome. 
+MATERIALS AND METHODS: Forty-six patients were included in the study from among
+those attending head and neck surgical services in the cities of Bogotá,
+Manizales and Bucaramanga. In the histopathological report all study samples were
+characterized as oropharyngeal squamous cell carcinoma. DNA extraction was
+subsequently performed for HPV genotyping and to determine the physical state of 
+the viral genome, as well as RNA to determine viral transcripts using real-time
+PCR. 
+RESULTS: HPV prevalence in tumors was 21.74% (n=10) and the most common viral
+type was HPV-16 (nine cases). Viral expression for HPV-16 was low (one of 11
+copies) and the predominant physical state of the virus was mixed (eight cases), 
+with disruption observed at the E1 - E2 binding site (2525 - 3720 nucleotides). 
+CONCLUSION: The prevalence of HPV associated with oropharyngeal carcinoma among
+the Colombian study population was 21.7%, which is relatively low. The most
+frequent viral type was HPV-16, found in a mixed form and with low expression of 
+E7, possibly indicating a poor prognosis for these patients.
+
+DOI: 10.7705/biomedica.v36i0.2912 
+PMID: 27622789  [Indexed for MEDLINE]

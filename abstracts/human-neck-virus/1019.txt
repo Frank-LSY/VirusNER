@@ -1,0 +1,33 @@
+
+
+1019. Cancer Gene Ther. 2012 Oct;19(10):667-74. doi: 10.1038/cgt.2012.55. Epub 2012 Aug
+24.
+
+A non-oncogenic HPV 16 E6/E7 vaccine enhances treatment of HPV expressing tumors.
+
+Wieking BG(1), Vermeer DW, Spanos WC, Lee KM, Vermeer P, Lee WT, Xu Y, Gabitzsch 
+ES, Balcaitis S, Balint JP Jr, Jones FR, Lee JH.
+
+Author information: 
+(1)Cancer Biology Research Center, Sanford Research/University of South Dakota,
+Sioux Falls, SD 57104, USA.
+
+Human papillomaviruses (HPVs) are the causative factor for >90% of cervical
+cancers and 25% of head and neck cancers. The incidence of HPV positive (+) head 
+and neck squamous cell carcinomas has greatly increased in the last 30 years. E6 
+and E7 are the two key viral oncoproteins that induce and propagate cellular
+transformation. An immune response generated during cisplatin/radiation therapy
+improves tumor clearance of HPV(+) cancers. Augmenting this induced response
+during therapy with an adenoviral HPV16 E6/E7 vaccine improves long-term survival
+in pre-clinical models. Here, we describe the generation of an HPV16 E6/E7
+construct, which contains mutations that render E6/E7 non-oncogenic, while
+preserving antigenicity. These mutations do not allow E6/E7 to degrade p53, pRb, 
+PTPN13, or activate telomerase. Non-oncogenic E6/E7 (E6(Δ)/E7(Δ)) expressed as a 
+stable integrant, or in the [E1-, E2b-] adenovirus, lacks the ability to
+transform human cells while retaining the ability to induce an HPV-specific
+immune response. Moreover, E6(Δ)/E7(Δ) plus chemotherapy/radiation statistically 
+enhances clearance of established HPV(+) cancer in vivo.
+
+DOI: 10.1038/cgt.2012.55 
+PMCID: PMC3571619
+PMID: 22918471  [Indexed for MEDLINE]

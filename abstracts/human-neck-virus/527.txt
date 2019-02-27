@@ -1,0 +1,35 @@
+
+
+527. Lin Chung Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2012 Sep;26(17):792-5.
+
+[Construction of GRbeta and GFP gene co-expressing lentivirus vector].
+
+[Article in Chinese]
+
+Wang M(1), Shi P, Song Y, Li Y, Wang H.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Provincial Hospital
+Affiliated to Shandong University, Jinan, 250021, China.
+
+OBJECTIVE: To construct the co-expressing lentivirus vector of human
+glucocorticoid receptor (GR) beta and green fluorescent protein (GFP).
+METHOD: cDNA encoding hGRbeta obtained from the expression library of fetal brain
+using gene recombinant technology was cloned into pGC-LV by double digests
+technology. The constructed lentivirus vector of pGC-FU-GRbeta that was confirmed
+the sequencing was correct, transfected 293T cells through lipofectamine 2000.
+The constructed lentivirus vector was identified by fluorescence detection and
+Western Blot method. The packed lentivirus vector was used to infect 293T cells. 
+The titer of virus was tested by real-time quantitative PCR.
+RESULT: A recombinant lentivirus vector co-expressing hGRbeta and GFP gene was
+constructed successfully. After transfection, a large number of 293T cells with
+green fluorescence were observed under fluorescent microscope, and the expression
+of GRbeta and GFP fusion protein was detected by Western Blot. The virus titer
+was 2.00E+8 TU/ml tested by Real-time PCR.
+CONCLUSION: Successful construction of hGRbeta and GFP co-expressing lentivirus
+vector provides a stable vector for investigating the relationship between GRbeta
+and hormonal sensitivity or resistance in the therapy of chronic rhinosinusitis
+whose choice drug are glucocorticoids.
+
+
+PMID: 23214317  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+1307. J Voice. 2015 Mar;29(2):223-9. doi: 10.1016/j.jvoice.2014.08.003. Epub 2015 Jan
+22.
+
+The use of the quadrivalent human papillomavirus vaccine (gardasil) as adjuvant
+therapy in the treatment of recurrent respiratory papilloma.
+
+Young DL(1), Moore MM(2), Halstead LA(3).
+
+Author information: 
+(1)College of Medicine, Medical University of South Carolina, Charleston, South
+Carolina.
+(2)Department of Otolaryngology-Head & Neck Surgery, Medical University of South 
+Carolina, Charleston, South Carolina.
+(3)Department of Otolaryngology-Head & Neck Surgery, MUSC Evelyn Trammell
+Institute for Voice & Swallowing, Medical University of South Carolina,
+Charleston, South Carolina; Department of Pediatrics, MUSC Evelyn Trammell
+Institute for Voice & Swallowing, Medical University of South Carolina,
+Charleston, South Carolina. Electronic address: halstead@musc.edu.
+
+OBJECTIVE: To examine the effect of the quadrivalent human papillomavirus
+vaccine, Gardasil, on the disease course of patients with recurrent respiratory
+papillomatosis (RRP).
+METHODS: A retrospective chart review of patients with RRP was conducted and 20
+patients were selected who had received the Gardasil vaccine as part of their
+treatment. Efficacy was assessed by calculating the intersurgical interval (ISI) 
+before and after receiving the vaccine, as well as number of complete and partial
+remissions.
+RESULTS: Analysis of all patients found a significant increase in the ISI of 3.1 
+months (95% confidence interval [CI]: 1.02-5.19, P=0.0061). Male patients
+experienced an increase in the ISI of 4.2 months (95% CI: 1.6-6.7, P=0.0048).
+Female patients had a nonsignificant increase in ISI of 1.2 months (95% CI:
+3.1-5.4, P=0.51). Eight patients (40%; six male and two female) experienced
+complete remission. Five patients (25%) overall (three male and two female)
+experienced partial remission. In total, complete or partial remission was
+achieved in a total of 13 (65%) patients (nine male and four female).
+CONCLUSIONS: The Gardasil vaccine can modulate the severity of RRP and induce
+remission in some patients. The effect was much greater in males and in females
+in low estrogen states.
+
+Copyright © 2015 The Voice Foundation. Published by Elsevier Inc. All rights
+reserved.
+
+DOI: 10.1016/j.jvoice.2014.08.003 
+PMID: 25619468  [Indexed for MEDLINE]

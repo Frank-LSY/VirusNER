@@ -1,0 +1,50 @@
+
+
+1665. BMC Cancer. 2011 Feb 3;11:54. doi: 10.1186/1471-2407-11-54.
+
+Synergistic antitumor effect of AAV-mediated TRAIL expression combined with
+cisplatin on head and neck squamous cell carcinoma.
+
+Jiang M(1), Liu Z, Xiang Y, Ma H, Liu S, Liu Y, Zheng D.
+
+Author information: 
+(1)National Key Laboratory of Medical Molecular Biology, Institute of Basic
+Medical Sciences, Chinese Academy of Medical Sciences & Peking Union Medical
+College, Beijing 100005, China.
+
+BACKGROUND: Adeno-associated virus-2 (AAV-2)-mediated gene therapy is quite
+suitable for local or regional application in head and neck cancer squamous cell 
+carcinoma (HNSCC). However, its low transduction efficiency has limited its
+further development as a therapeutic agent. DNA damaging agents have been shown
+to enhance AAV-mediated transgene expression. Cisplatin, one of the most
+effective chemotherapeutic agents, has been recognized to cause cancer cell death
+by apoptosis with a severe toxicity. This study aims to evaluate the role of
+cisplatin in AAV-mediated tumor necrosis factor-related apoptosis-inducing ligand
+(TRAIL) expression and the effect on HNSCC both in vitro and in vivo.
+METHODS: Five human HNSCC cell lines were treated with recombinant soluble TRAIL 
+(rsTRAIL) and infected with AAV/TRAIL to estimate the sensitivity of the cancer
+cells to TRAIL-induced cytotoxicity. KB cells were infected with AAV/EGFP with or
+without cisplatin pretreatment to evaluate the effect of cisplatin on
+AAV-mediated gene expression. TRAIL expression was detected by ELISA and Western 
+blot. Cytotoxicity was measured by MTT assay and Western blot analysis for
+caspase-3 and -8 activations. Following the in vitro experiments, TRAIL
+expression and its tumoricidal activity were analyzed in nude mice with
+subcutaneous xenografts of HNSCC.
+RESULTS: HNSCC cell lines showed different sensitivities to rsTRAIL, and KB cells
+possessed both highest transduction efficacy of AAV and sensitivity to TRAIL
+among five cell lines. Preincubation of KB cells with subtherapeutic dosage of
+cisplatin significantly augmented AAV-mediated transgene expression in a heparin 
+sulfate proteoglycan (HSPG)-dependent manner. Furthermore, cisplatin enhanced the
+killing efficacy of AAV/TRAIL by 3-fold on KB cell line. The AAV mediated TRAIL
+expression was observed in the xenografted tumors and significantly enhanced by
+cisplatin. AAV/TRAIL suppressed the tumors growth and cisplatin augmented the
+tumoricidal activity by two-fold. Furthermore, Combination treatment reduced
+cisplatin-caused body weight loss in nude mice.
+CONCLUSION: The combination of AAV-mediated TRAIL gene expression and cisplatin
+had synergistic therapeutic effects on head and neck cancers and reduced the
+potential toxicity of cisplatin. These findings suggest that the combination of
+AAV/TRAIL and cisplatin may be a promising strategy for HNSCC therapy.
+
+DOI: 10.1186/1471-2407-11-54 
+PMCID: PMC3044652
+PMID: 21291526  [Indexed for MEDLINE]

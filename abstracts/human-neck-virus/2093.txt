@@ -1,0 +1,55 @@
+
+
+2093. Jpn J Clin Oncol. 2018 Apr 1;48(4):350-355. doi: 10.1093/jjco/hyy009.
+
+Laryngeal squamous cell papilloma is highly associated with human papillomavirus.
+
+Orita Y(1), Gion Y(2), Tachibana T(3), Ikegami K(2), Marunaka H(4), Makihara
+S(5), Yamashita Y(6), Miki K(7), Makino T(3), Akisada N(8), Akagi Y(4), Kimura
+M(9), Yoshino T(10), Nishizaki K(7), Sato Y(2)(10).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Kumamoto University
+Graduate School of Medical Sciences, Kumamoto.
+(2)Division of Pathophysiology, Okayama University Graduate School of Health
+Sciences, Okayama.
+(3)Department of Otolaryngology, Himeji Red Cross Hospital, Hyogo.
+(4)Department of Otolaryngology, National Hospital Organization Okayama Medical
+Center, Okayama.
+(5)Department of Otolaryngology, Kagawa Rosai Hospital, Kagawa.
+(6)Department of Otolaryngology, Fukuyama City Hospital, Hiroshima.
+(7)Department of Otolaryngology Head and Neck Surgery, Okayama University
+Graduate School of Medicine, Dentistry and Pharmaceutical Sciences.
+(8)Department of Otolaryngology, Okayama Red Cross Hospital, Okayama.
+(9)Department of Virology, Graduate School of Medicine and Pharmaceutical
+Sciences, University of Toyama, Toyama, Japan.
+(10)Department of Pathology, Okayama University Graduate School of Medicine,
+Dentistry and Pharmaceutical Sciences.
+
+Objective: To delineate the association between characteristics of adult-onset
+laryngeal squamous cell papilloma and human papillomavirus (HPV) infection.
+Methods: Clinical records and paraffin-embedded specimens of 77 papilloma
+patients who had been treated between 1998 and 2014 were collected. Of the 77
+cases, 34 were identified in the larynx, 28 in the oral cavity and 15 in the
+oropharynx. Specimens were investigated by polymerase chain reaction (PCR) to
+detect HPV 6, 11, 16, 18, 31, 33, 35, 52b and 58, and immunohistochemical (IHC)
+staining for anti-p16INK4a antibody.
+Results: In 21 cases (61.8%) with laryngeal squamous cell papilloma, various
+types of HPV were detected: 14 cases (41.2%) were positive of high-risk HPV, 18
+(52.9%) were positive of low-risk HPV and 11 (32.4%) were positive of both
+high-risk HPV and low-risk HPV. Younger patients (<60 years) showed a higher rate
+of HPV infection than older patients. Among the 34 cases with laryngeal
+papilloma, no malignant transformation was observed during the study period. With
+IHC staining, positive expression of p16 was observed in 20 cases (58.8%). HPV
+infection and p16-expression were associated with the pathological finding of
+koilocytosis. Only four cases (14.3%) showed HPV-positivity in the oral cavity,
+and none of the 15 oropharyngeal cases were positive for HPV, and none of the
+oral cavity and oropharyngeal cases showed koilocytosis. Results of HPV-PCR and
+p16-IHC staining were significantly correlated each other.
+Conclusions: HPV infection is frequently associated with laryngeal squamous cell 
+papilloma, and koilocytosis is a characteristic pathological finding. To the best
+of our knowledge, this is the first report which have described infections with
+multiple HPV types in laryngeal papilloma.
+
+DOI: 10.1093/jjco/hyy009 
+PMID: 29447361  [Indexed for MEDLINE]

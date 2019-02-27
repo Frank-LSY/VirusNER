@@ -1,0 +1,52 @@
+
+
+249. Cancer. 2017 May 15;123(10):1768-1777. doi: 10.1002/cncr.30512. Epub 2017 Jan 5.
+
+Evaluation of proposed staging systems for human papillomavirus-related
+oropharyngeal squamous cell carcinoma.
+
+Malm IJ(1), Fan CJ(1), Yin LX(1), Li DX(1), Koch WM(1), Gourin CG(1), Pitman
+KT(1), Richmon JD(1), Westra WH(2), Kang H(3), Quon H(4), Eisele DW(1), Fakhry
+C(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Hospital,
+Baltimore, Maryland.
+(2)Department of Pathology, Johns Hopkins Hospital, Baltimore, Maryland.
+(3)Department of Oncology, Sidney Kimmel Comprehensive Cancer Center, Johns
+Hopkins University School of Medicine, Baltimore, Maryland.
+(4)Department of Radiation Oncology and Molecular Radiation Sciences, Sidney
+Kimmel Comprehensive Cancer Center, Johns Hopkins University School of Medicine, 
+Baltimore, Maryland.
+
+BACKGROUND: Patients with human papillomavirus (HPV)-related oropharyngeal cancer
+(OPC) have improved survival when compared with those with HPV-negative OPC.
+Unfortunately, the American Joint Committee on Cancer seventh edition (AJCC-7ed) 
+staging system does not account for the prognostic advantage observed with
+HPV-positive OPC. The purpose of the current study was to validate and compare 2 
+recently proposed staging systems for HPV-positive OPC.
+METHODS: Patients treated for HPV-positive OPC from 2005 to 2015 at Johns Hopkins
+Hospital (JHH) were included for analysis. The International Collaboration on
+Oropharyngeal cancer Network for Staging (ICON-S) and The University of Texas MD 
+Anderson Cancer Center (MDACC) staging systems were applied and survival was
+calculated using Kaplan-Meier methods. Cox proportional hazard regression was
+used to determine the relationship between stage of disease and survival. Models 
+were compared using the Akaike information criterion (AIC).
+RESULTS: A total of 435 patients were eligible for analysis. There was a dramatic
+shift in lymph node category and overall stage of disease when ICON-S and MDACC
+stage were applied to the JHH cohort. There was superior stratification of
+overall survival and progression-free survival by ICON-S stage. Both proposed
+models had an improved fit based on AIC scores (P<.001 for both) over the
+AJCC-7ed. The ICON-S staging system had the lowest AIC score, and thus a better
+fit within the JHH population.
+CONCLUSIONS: The current analysis provides external validation for both staging
+systems in an independent and heterogeneously treated patient population.
+Although the MDACC staging system is an improvement over the AJCC-7ed, the ICON-S
+stage provides superior stratification of overall and progression-free survival, 
+thereby supporting its use as the updated AJCC staging system for OPC. Cancer
+2017;123:1768-1777. © 2017 American Cancer Society.
+
+© 2017 American Cancer Society.
+
+DOI: 10.1002/cncr.30512 
+PMID: 28055120  [Indexed for MEDLINE]

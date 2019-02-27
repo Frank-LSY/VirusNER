@@ -1,0 +1,32 @@
+
+
+21. Annu Rev Virol. 2016 Sep 29;3(1):359-372. Epub 2016 Aug 15.
+
+Epstein-Barr Virus: The Path from Latent to Productive Infection.
+
+Chiu YF(1)(2)(3)(4), Sugden B(1).
+
+Author information: 
+(1)McArdle Laboratory for Cancer Research, University of Wisconsin-Madison,
+Madison, Wisconsin 53705; email: sugden@oncology.wisc.edu.
+(2)Morgridge Institute for Research, Madison, Wisconsin 53715.
+(3)Research Center for Emerging Viral Infections and Department of Microbiology
+and Immunology, Chang Gung University, Taoyuan 33302, Taiwan.
+(4)Department of Medical Laboratory, Chang Gung Memorial Hospital, Taoyuan 33305,
+Taiwan.
+
+The intrinsic properties of different viruses have driven their study. For
+example, the capacity for efficient productive infection of cultured cells by
+herpes simplex virus 1 has made it a paradigm for this mode of infection for
+herpesviruses in general. Epstein-Barr virus, another herpesvirus, has two
+properties that have driven its study: It causes human cancers, and it exhibits a
+tractable transition from its latent to its productive cycle in cell culture.
+Here, we review our understanding of the path Epstein-Barr virus follows to move 
+from a latent infection to and through its productive cycle. We use information
+from human infections to provide a framework for describing studies in cell
+culture and, where possible, the molecular resolutions from these studies. We
+also pose questions whose answers we think are pivotal to understanding this
+path, and we provide answers where we can.
+
+DOI: 10.1146/annurev-virology-110615-042358 
+PMID: 27578440  [Indexed for MEDLINE]

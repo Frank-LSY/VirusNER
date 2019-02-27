@@ -1,0 +1,31 @@
+
+Conflict of interest statement: RR and SR are employees of Roche Diagnostics, a
+company that commercializes in vitro diagnostic tests used in this study. This
+does not alter our adherence to PLOS ONE policies on sharing data and materials.
+
+
+586. Curr Treat Options Oncol. 2009 Dec;10(5-6):296-307. doi:
+10.1007/s11864-009-0113-5. Epub 2009 Sep 19.
+
+Human papillomavirus and oropharyngeal cancer: what you need to know in 2009.
+
+Gillespie MB(1), Rubinchik S, Hoel B, Sutkowski N.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, Medical University of
+South Carolina, 135 Rutledge Avenue MSC 550, Charleston, SC 29425-5500, USA,
+gillesmb@musc.edu
+
+OPINION STATEMENT: Oropharyngeal cancer has demonstrated a steady increase in
+incidence over the past 20 years in contrast to declining numbers of head and
+neck squamous cell carcinoma (HNSCC) overall. Recent evidence has found that
+high-risk strains of human papillomavirus (HPV) are the likely cause of the
+changing epidemiology of oropharyngeal cancer. HPV-associated oropharyngeal
+cancer has a molecular, epidemiological, and clinical profile that is distinct
+from non-HPV HNSCC. Clinicians managing oropharyngeal HNSCC need to be aware of
+differences in the HPV HNSCC population which may impact treatment outcomes.
+Testing of HNSCC tumor tissue for HPV using validated and precise techniques
+should be performed when feasible.
+
+DOI: 10.1007/s11864-009-0113-5 
+PMID: 19768554  [Indexed for MEDLINE]

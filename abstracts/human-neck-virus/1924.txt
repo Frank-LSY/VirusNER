@@ -1,0 +1,48 @@
+
+
+1924. J Control Release. 2015 Sep 10;213:96-102. doi: 10.1016/j.jconrel.2015.06.022.
+Epub 2015 Jun 18.
+
+In vivo evaluation of matrix metalloproteinase responsive silk-elastinlike
+protein polymers for cancer gene therapy.
+
+Price R(1), Poursaid A(2), Cappello J(3), Ghandehari H(4).
+
+Author information: 
+(1)Department of Pharmaceutics and Pharmaceutical Chemistry, University of Utah, 
+Salt Lake City, UT, USA; Utah Center for Nanomedicine, Nano Institute of Utah,
+University of Utah, Salt Lake City, UT, USA.
+(2)Utah Center for Nanomedicine, Nano Institute of Utah, University of Utah, Salt
+Lake City, UT, USA; Department of Bioengineering, University of Utah, Salt Lake
+City, UT, USA.
+(3)Department of Pharmaceutics and Pharmaceutical Chemistry, University of Utah, 
+Salt Lake City, UT, USA.
+(4)Department of Pharmaceutics and Pharmaceutical Chemistry, University of Utah, 
+Salt Lake City, UT, USA; Utah Center for Nanomedicine, Nano Institute of Utah,
+University of Utah, Salt Lake City, UT, USA; Department of Bioengineering,
+University of Utah, Salt Lake City, UT, USA. Electronic address:
+hamid.ghandehari@pharm.utah.edu.
+
+Silk-elastinlike protein polymers (SELPs) have been effectively used as
+controlled release matrices for the delivery of viruses for cancer gene therapy
+in preclinical models. However, the degradability of these polymers needs to be
+tuned for improved localized intratumoral gene delivery. Using recombinant
+techniques, systematic modifications in distinct regions of the polymer backbone,
+namely, within the elastin blocks, silk blocks, and adjacent to silk and elastin 
+blocks, have been made to impart sensitivity to specific matrix
+metalloproteinases (MMPs) known to be overexpressed in the tumor environment. In 
+this report we investigated the structure-function relationship of MMP-responsive
+SELPs for viral mediated gene therapy of head and neck cancer. These polymers
+showed significant degradation in vitro in the presence of MMPs. Their
+degradation rate was a function of the location of the MMP-responsive sequence in
+the polymer backbone when in hydrogel form. Treatment efficacy of the adenoviral 
+vectors released from the MMP responsive SELP analogs in a xenograft mouse model 
+of head and neck squamous cell carcinoma (HNSCC) was shown to be polymer
+structure dependent. These results demonstrate the tunable nature of
+MMP-responsive SELPs for localized matrix-mediated gene delivery.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jconrel.2015.06.022 
+PMCID: PMC4684501
+PMID: 26095079  [Indexed for MEDLINE]

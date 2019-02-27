@@ -1,0 +1,48 @@
+
+
+357. Bull Cancer. 2016 May;103(5):455-60. doi: 10.1016/j.bulcan.2016.02.016. Epub 2016
+Apr 13.
+
+[HPV DNA genotyping: A study of anogenital, head and neck and skin cancers in a
+population from west Algerian. HPV detection in different cancers from an
+Algerian population].
+
+[Article in French]
+
+Nahet A(1), Boublenza L(2), Hassaine H(2), Masdoua N(2), Prétet JL(3), Belglaiaa 
+E(4), Mougin C(3).
+
+Author information: 
+(1)Université de Tlemcen, laboratoire de microbiologie appliquée à
+l'agroalimentaire, au biomédical et à l'environnement (LAMAABE), ex. complexe
+biomédical, Imama, bloc C, BP 119, Tlemcen 13000, Algérie. Electronic address:
+nahet_amira@hotmail.fr.
+(2)Université de Tlemcen, laboratoire de microbiologie appliquée à
+l'agroalimentaire, au biomédical et à l'environnement (LAMAABE), ex. complexe
+biomédical, Imama, bloc C, BP 119, Tlemcen 13000, Algérie.
+(3)Université de Franche-Comté, UBFC, EA3181, LabEx LipSTIC, 25000 Besançon,
+France; CHRU de Besançon, laboratoire de biologie cellulaire et moléculaire,
+Inserm CIC 1431, 25000 Besançon, France.
+(4)Université de Franche-Comté, UBFC, EA3181, LabEx LipSTIC, 25000 Besançon,
+France; Université Ibn Zohr, Agadir, Maroc.
+
+OBJECTIVES: To investigate the prevalence of human papillomaviruses (HPV) in
+cancers located at different sites in patients from west Algerian and collected
+between 2010 and 2014.
+MATERIAL AND METHODS: Extracted DNA from archival formaldehyde-fixed and
+paraffin-embedded tissues was provided from 39 anogenital cancers, 10 head and
+neck cancers and 36 skin cancers. The viral DNA was detected using the INNO-LiPA 
+HPV Genotyping Extra(®) kit.
+RESULTS: The prevalence of HPV was 100% in cervical cancers, 40% in vaginal
+cancers, 17% in vulvar cancers, 33% in anal cancers, 0% in tonsil and larynx
+cancers and 6.4% in skin squamous cell carcinoma. In cervical cancers, the most
+prevalent genotypes were HPV16 (52%) and HPV18 (12%) as single infection.
+CONCLUSION: The overall results agree partially with literature. Extensive
+research is necessary to promote HPV vaccine to reduce in particular the burden
+of cervical cancer in Algeria.
+
+Copyright © 2016 Société Française du Cancer. Published by Elsevier Masson SAS.
+All rights reserved.
+
+DOI: 10.1016/j.bulcan.2016.02.016 
+PMID: 27085765  [Indexed for MEDLINE]

@@ -1,0 +1,45 @@
+
+
+423. Oral Oncol. 2012 Nov;48(11):1178-84. doi: 10.1016/j.oraloncology.2012.05.022.
+Epub 2012 Jun 26.
+
+HPV status in patients with head and neck of carcinoma of unknown primary site:
+HPV, tobacco smoking, and outcome.
+
+Tribius S(1), Hoffmann AS, Bastrop S, Görögh T, Haag J, Röcken C, Clauditz T,
+Grob T, Wilczak W, Tennstedt P, Borcherding A, Petersen C, Hoffmann M.
+
+Author information: 
+(1)Department of Radiation Oncology, University Medical Center Hamburg-Eppendorf,
+Hamburg, Germany. tribius@uke.uni-hamburg.de
+
+OBJECTIVES: Infection with human papillomavirus (HPV) is linked to oropharyngeal 
+cancer. This analysis investigated possible associations between HPV status,
+smoking history and survival outcome in patients with neck metastasis and
+carcinoma of unknown primary (CUP).
+MATERIALS AND METHODS: Registries at the Universities of Hamburg and Kiel were
+searched for patients with CUP diagnosed from 2002 to 2011 who had formalin-fixed
+and paraffin-embedded metastatic lymph node samples available. All patients
+underwent routine diagnostic procedures to establish the primary site and
+received radiotherapy (60Gy using conventional fractionation) with or without
+concurrent cisplatin-based chemotherapy depending on disease extent. Genotyping
+was performed using polymerase chain reaction; p16([INK4a]) expression was
+assessed using immunohistochemistry.
+RESULTS: Sixty-three patients were included; 23 (37%) had HPV DNA/p16+ samples
+and 40 (63%) were negative for either/both markers. A high proportion of patients
+had a history of tobacco smoking; significantly fewer patients with HPV+/p16+
+samples were smokers than those who were negative for either/both markers (61%
+vs. 90%, respectively; p = 0.0067). There were no statistically significant
+differences between overall or recurrence-free survival in HPV+/p16+ patients vs.
+those negative for either/both markers. Overall survival appeared to be superior 
+in patients with <10 pack-years smoking history and HPV+/p16+ disease.
+CONCLUSIONS: This study, the largest to date investigating HPV status in head and
+neck CUP, identified HPV and p16 overexpression in over one-third of patients.
+Tobacco smoking history appeared to affect survival in HPV+/p16+ patients.
+Smoking status should be considered as a prognostic factor in patients with CUP, 
+along with HPV DNA status.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2012.05.022 
+PMID: 22739067  [Indexed for MEDLINE]

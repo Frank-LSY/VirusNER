@@ -1,0 +1,37 @@
+
+
+2736. Oral Dis. 2016 Jan;22(1):9-18. doi: 10.1111/odi.12300. Epub 2015 Jan 19.
+
+Oxidative stress in oral diseases.
+
+Kesarwala AH(1), Krishna MC(2), Mitchell JB(2).
+
+Author information: 
+(1)Radiation Oncology Branch, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, MD, USA.
+(2)Radiation Biology Branch, Center for Cancer Research, National Cancer
+Institute, National Institutes of Health, Bethesda, MD, USA.
+
+Oxidative species, including reactive oxygen species (ROS), are components of
+normal cellular metabolism and are required for intracellular processes as varied
+as proliferation, signal transduction, and apoptosis. In the situation of chronic
+oxidative stress, however, ROS contribute to various pathophysiologies and are
+involved in multiple stages of carcinogenesis. In head and neck cancers
+specifically, many common risk factors contribute to carcinogenesis via ROS-based
+mechanisms, including tobacco, areca quid, alcohol, and viruses. Given their
+widespread influence on the process of carcinogenesis, ROS and their related
+pathways are attractive targets for intervention. The effects of radiation
+therapy, a central component of treatment for nearly all head and neck cancers,
+can also be altered via interfering with oxidative pathways. These pathways are
+also relevant to the development of many benign oral diseases. In this review, we
+outline how ROS contribute to pathophysiology with a focus toward head and neck
+cancers and benign oral diseases, describing potential targets and pathways for
+intervention that exploit the role of oxidative species in these pathologic
+processes.
+
+Published 2014. This article is a U.S. Government work and is in the public
+domain in the USA.
+
+DOI: 10.1111/odi.12300 
+PMCID: PMC4442080
+PMID: 25417961  [Indexed for MEDLINE]

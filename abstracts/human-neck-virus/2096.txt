@@ -1,0 +1,58 @@
+
+
+2096. Mol Med. 2014 Aug 28;20:372-80. doi: 10.2119/molmed.2014.00098.
+
+Decreased Langerhans cell responses to IL-36γ: altered innate immunity in
+patients with recurrent respiratory papillomatosis.
+
+DeVoti J(1), Hatam L(1), Lucs A(2), Afzal A(3), Abramson A(2), Steinberg B(4),
+Bonagura V(5).
+
+Author information: 
+(1)Feinstein Institute for Medical Research, Manhasset, New York, United States
+of America Division of Allergy and Immunology, Department of Pediatrics, Hofstra 
+North Shore-LIJ School of Medicine, Great Neck, New York, United States of
+America.
+(2)Feinstein Institute for Medical Research, Manhasset, New York, United States
+of America Department of Otolaryngology, Hofstra North Shore-LIJ School of
+Medicine, Great Neck, New York, United States of America.
+(3)Elmezzi Graduate School of Molecular Medicine, Manhasset, New York, United
+States of America.
+(4)Elmezzi Graduate School of Molecular Medicine, Manhasset, New York, United
+States of America Department of Otolaryngology, Hofstra North Shore-LIJ School of
+Medicine, Great Neck, New York, United States of America.
+(5)Feinstein Institute for Medical Research, Manhasset, New York, United States
+of America Elmezzi Graduate School of Molecular Medicine, Manhasset, New York,
+United States of America Division of Allergy and Immunology, Department of
+Pediatrics, Hofstra North Shore-LIJ School of Medicine, Great Neck, New York,
+United States of America.
+
+Recurrent respiratory papillomatosis (RRP) is a rare, chronic disease caused by
+human papillomaviruses (HPVs) types 6 and 11 that is characterized by the
+polarization of adaptive immune responses that support persistent HPV infection. 
+Respiratory papillomas express elevated mRNA levels of IL-36γ, a proinflammatory 
+cytokine in comparison to autologous clinically normal laryngeal tissues; however
+there is no evidence of inflammation in these lesions. Consistent with this,
+respiratory papillomas do not contain TH1-like CD4(+) T-cells or cytotoxic CD8(+)
+T-cells, but instead contain a predominance of TH2-like and T regulatory cells
+(Tregs). In addition, papillomas also are infiltrated with immature Langerhans
+cells (iLCs). In this study, we show that papilloma cells express IL-36γ protein,
+and that human keratinocytes transduced with HPV11 have reduced IL-36γ secretion.
+We now provide the first evidence that peripheral blood-derived iLCs respond to
+IL-36γ by expressing inflammatory cytokines and chemokines. When stimulated with 
+IL-36γ, iLCs from patients with RRP had lower expression levels of the TH2-like
+chemokine CCL-20 as compared with controls. Patients' iLCs also had decreased
+steady state levels of CCL-1, which is a proinflammatory chemokine. Moreover,
+CCL-1 levels in iLCs inversely correlated with the severity of RRP. The combined 
+decrease of TH1- and a TH2-like chemokines by iLCs from patients could have
+consequences in the priming of IFN-γ expression by CD8(+) T-cells. Taken
+together, our results suggest that, in RRP, there is a defect in the
+proinflammatory innate immune responses made by iLCs in response to IL-36γ. The
+consequence of this defect may lead to persistent HPV infection by failing to
+support an effective HPV-specific, TH1-like and/or Tc1-like adaptive response,
+thus resulting in the predominant TH2-like and/or Treg micromilieu present in
+papillomas.
+
+DOI: 10.2119/molmed.2014.00098 
+PMCID: PMC4153838
+PMID: 24950037  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+1631. Int J Clin Oncol. 2013 Oct;18(5):824-8. doi: 10.1007/s10147-012-0469-6. Epub 2012
+Aug 31.
+
+Improved survival of Japanese patients with human papillomavirus-positive
+oropharyngeal squamous cell carcinoma.
+
+Mizumachi T(1), Kano S, Sakashita T, Hatakeyama H, Suzuki S, Homma A, Oridate N, 
+Fukuda S.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Hokkaido University
+Graduate School of Medicine, Kita 15, Nishi 7, Kita-ku, Sapporo, 060-8638, Japan,
+mizumati@med.hokudai.ac.jp.
+
+Comment in
+    Int J Clin Oncol. 2014 Aug;19(4):767-8.
+
+BACKGROUND: The prevalence of oropharyngeal carcinoma is rising in western Europe
+and the United States, where there appears to be a strong association between
+human papillomavirus (HPV) and oropharyngeal squamous cell carcinoma (OPSCC).
+However, such a correlation has not yet been fully evaluated in Japan.
+METHODS: We performed a retrospective analysis of the association between tumour 
+HPV status and the demographic and clinicopathological parameters of 71 patients 
+with OPSCC at Hokkaido University Hospital, Japan, between 1998 and 2009. The
+parameters included age, gender, survival, tumour subsite, tumour-node-metastasis
+(TNM) stage, smoking history, second primary tumour status, recurrence/residual
+disease at the primary site, and overall survival. HPV status was established by 
+multiplex polymerase chain reaction (PCR) analysis.
+RESULTS: Of the 71 oropharyngeal cancers, 20 were positive for HPV-16, two for
+HPV-18, and one for HPV-58. Kaplan-Meier survival analysis showed improved
+overall survival rates in patients with HPV-positive tumours (p = 0.0038)
+compared with HPV-negative tumours. Of the 45 patients who received
+chemoradiotherapy, HPV-positive patients experienced better overall survival than
+HPV-negative patients (p = 0.0032). In a multivariate analysis, the survival
+benefit of HPV-positive patients was independent of age and T and N
+classification.
+CONCLUSIONS: HPV status is a significantly favourable prognostic factor in
+oropharyngeal cancer and could be used as a marker to optimize the treatment of
+patients with this type of cancer in Japan.
+
+DOI: 10.1007/s10147-012-0469-6 
+PMID: 22936564  [Indexed for MEDLINE]

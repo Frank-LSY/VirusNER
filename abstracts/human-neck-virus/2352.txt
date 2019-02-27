@@ -1,0 +1,45 @@
+
+
+2352. Gene. 2009 Dec 15;448(2):151-67. doi: 10.1016/j.gene.2009.08.006. Epub 2009 Aug
+21.
+
+Loss of epigenetic silencing in tumors preferentially affects primate-specific
+retroelements.
+
+Szpakowski S(1), Sun X, Lage JM, Dyer A, Rubinstein J, Kowalski D, Sasaki C,
+Costa J, Lizardi PM.
+
+Author information: 
+(1)Interdepartmental Program in Computational, Biology and Bioinformatics, Yale
+University School of Medicine, Room LH-208, 310 Cedar Street, New Haven, CT
+06520, USA.
+
+Close to 50% of the human genome harbors repetitive sequences originally derived 
+from mobile DNA elements, and in normal cells, this sequence compartment is
+tightly regulated by epigenetic silencing mechanisms involving chromatin-mediated
+repression. In cancer cells, repetitive DNA elements suffer abnormal
+demethylation, with potential loss of silencing. We used a genome-wide microarray
+approach to measure DNA methylation changes in cancers of the head and neck and
+to compare these changes to alterations found in adjacent non-tumor tissues. We
+observed specific alterations at thousands of small clusters of CpG dinucleotides
+associated with DNA repeats. Among the 257,599 repetitive elements probed, 5% to 
+8% showed disease-related DNA methylation alterations. In dysplasia, a large
+number of local events of loss of methylation appear in apparently stochastic
+fashion. Loss of DNA methylation is most pronounced for certain members of the
+SVA, HERV, LINE-1P, AluY, and MaLR families. The methylation levels of
+retrotransposons are discretely stratified, with younger elements being highly
+methylated in healthy tissues, while in tumors, these young elements suffer the
+most dramatic loss of methylation. Wilcoxon test statistics reveals that a subset
+of primate LINE-1 elements is demethylated preferentially in tumors, as compared 
+to non-tumoral adjacent tissue. Sequence analysis of these strongly demethylated 
+elements reveals genomic loci harboring full length, as opposed to truncated
+elements, while possible enrichment for functional LINE-1 ORFs is weaker. Our
+analysis suggests that, in non-tumor adjacent tissues, there is generalized and
+highly variable disruption of epigenetic control across the repetitive DNA
+compartment, while in tumor cells, a specific subset of LINE-1 retrotransposons
+that arose during primate evolution suffers the most dramatic DNA methylation
+alterations.
+
+DOI: 10.1016/j.gene.2009.08.006 
+PMCID: PMC2783545
+PMID: 19699787  [Indexed for MEDLINE]

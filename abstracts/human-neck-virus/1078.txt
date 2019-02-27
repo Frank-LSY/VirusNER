@@ -1,0 +1,65 @@
+
+
+1078. J Virol. 2017 Aug 10;91(17). pii: e00301-17. doi: 10.1128/JVI.00301-17. Print
+2017 Sep 1.
+
+Genome-Wide Analysis of 18 Epstein-Barr Viruses Isolated from Primary
+Nasopharyngeal Carcinoma Biopsy Specimens.
+
+Tu C(1)(2)(3), Zeng Z(1)(2)(3), Qi P(2), Li X(3), Yu Z(2), Guo C(1)(2)(3), Xiong 
+F(1), Xiang B(1)(2)(3), Zhou M(1)(2)(3), Gong Z(2), Liao Q(2)(4), Yu J(4), He
+Y(2)(4), Zhang W(2), Li X(1)(2)(3), Li Y(2)(5), Li G(6)(2)(3), Xiong W(6)(2)(3).
+
+Author information: 
+(1)The Key Laboratory of Carcinogenesis of the Chinese Ministry of Health,
+Xiangya Hospital, Central South University, Changsha, Hunan, China.
+(2)The Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese
+Ministry of Education, Cancer Research Institute, Central South University,
+Changsha, Hunan, China.
+(3)Hunan Key Laboratory of Nonresolving Inflammation and Cancer, Disease Genome
+Research Center, the Third Xiangya Hospital, Central South University, Changsha, 
+Hunan, China.
+(4)Department of Head and Neck Surgery, Hunan Cancer Hospital and the Affiliated 
+Cancer Hospital of Xiangya School of Medicine, Central South University,
+Changsha, Hunan, China.
+(5)Department of Cancer Biology, Lerner Research Institute, Cleveland Clinic,
+Cleveland, Ohio, USA.
+(6)The Key Laboratory of Carcinogenesis of the Chinese Ministry of Health,
+Xiangya Hospital, Central South University, Changsha, Hunan, China lgy@csu.edu.cn
+xiongwei@csu.edu.cn.
+
+Epstein-Barr virus (EBV) is a ubiquitous gammaherpesvirus that is highly
+prevalent in almost all human populations and is associated with many human
+cancers, such as nasopharyngeal carcinoma (NPC), Hodgkin's disease, and gastric
+carcinoma. However, in these EBV-associated cancers, only NPC exhibits remarkable
+ethnic and geographic distribution. We hypothesized that EBV genomic variations
+might contribute to the pathogenesis of different human cancers in different
+geographic areas. In this study, we collected 18 NPC biopsy specimens from the
+Hunan Province in southern China and de novo assembled 18 NPC biopsy
+specimen-derived EBV (NPC-EBV) genomes, designated HN1 to HN18. This was achieved
+through target enrichment of EBV DNA by hybridization, followed by
+next-generation sequencing, to reveal sequence diversity. These EBV genomes
+harbored 20,570 variations totally, including 20,328 substitutions, 88
+insertions, and 154 deletions, compared to the EBV reference genome. Phylogenetic
+analysis revealed that all NPC-EBV genomes were distinct from other EBV genomes. 
+Furthermore, HN1 to HN18 had some nonsynonymous variations in EBV genes including
+genes encoding latent, early lytic, and tegument proteins, such as substitutions 
+within transmembrane domains 1 and 3 of LMP1, FoP_duplication, and zf-AD domains 
+of ENBA1, in addition to aberrations in noncoding regions, especially in BamHI A 
+rightward transcript microRNAs. These variations might have potential biological 
+significance. In conclusion, we reported a genome-wide view of sequence variation
+in EBV isolated from primary NPC biopsy specimens obtained from the Hunan
+Province. This might contribute to further understanding of how genomic
+variations contribute to carcinogenesis, which would impact the treatment of
+EBV-associated cancer.IMPORTANCE Nasopharyngeal carcinoma (NPC) is highly
+associated with Epstein-Barr virus (EBV) infection and exhibits remarkable ethnic
+and geographic distribution. Hunan Province in southern China has a high
+incidence rate of NPCs. Here, we report 18 novel EBV genome sequences from
+viruses isolated from primary NPC biopsy specimens in this region, revealing
+whole-genome sequence diversity.
+
+Copyright © 2017 American Society for Microbiology.
+
+DOI: 10.1128/JVI.00301-17 
+PMCID: PMC5553176
+PMID: 28637758  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+2715. Int J Radiat Oncol Biol Phys. 2011 May 1;80(1):249-57. doi:
+10.1016/j.ijrobp.2010.11.059.
+
+High stromal carbonic anhydrase IX expression is associated with decreased
+survival in P16-negative head-and-neck tumors.
+
+Brockton N(1), Dort J, Lau H, Hao D, Brar S, Klimowicz A, Petrillo S, Diaz R,
+Doll C, Magliocco A.
+
+Author information: 
+(1)Department of Population Health Research, Alberta Health Services-Cancer Care,
+Calgary, Alberta, Canada. nigel.brockton@albertahealthservices.ca
+
+PURPOSE: Head-and-neck squamous cell carcinoma (HNSCC) is the fifth most common
+malignancy worldwide. Alcohol use and tobacco use are the most established risk
+factors; however, human papilloma virus (HPV) infection is a major risk factor
+for a subset of HNSCCs. Although HPV-positive tumors typically present at a more 
+advanced stage at diagnosis, they are associated with a better prognosis. Tumor
+hypoxia confers poor prognosis and treatment failure, but direct tumor oxygen
+measurement is challenging. Endogenous markers of hypoxia (EMHs) have been
+proposed but have not replicated the prognostic utility of direct oxygen
+measurement. The expression of endogenous markers of hypoxia may be influenced by
+oxygen-independent factors, such as the HPV status of the tumor.
+METHODS AND MATERIALS: Consecutive cases of locally advanced HNSCC, treated with 
+a uniform regimen of combined radiotherapy and chemotherapy, were identified.
+Tissue microarrays were assembled from triplicate 0.6-mm cores of archived tumor 
+tissue. HPV status was inferred from semiquantitative p16 immunostaining and
+directly measured by use of HPV-specific chromogenic in situ hybridization and
+polymerase chain reaction. Automated quantitative fluorescent
+immunohistochemistry was conducted to measure epithelial and stromal expression
+of carbonic anhydrase IX (CAIX) and glucose transporter 1 (GLUT1).
+RESULTS: High stromal CAIX expression was associated with significantly reduced
+overall survival (p = 0.03) in patients with p16-negative tumors.
+CONCLUSIONS: This is the first study to use quantitative immunohistochemistry to 
+examine endogenous markers of hypoxia stratified by tumor p16/HPV status.
+Assessment of CAIX expression in p16-negative HNSCC could identify patients with 
+the least favorable prognosis and inform therapeutic strategies.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2010.11.059 
+PMID: 21300470  [Indexed for MEDLINE]

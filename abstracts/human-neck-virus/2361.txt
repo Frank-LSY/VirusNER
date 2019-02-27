@@ -1,0 +1,30 @@
+
+
+2361. Otolaryngol Clin North Am. 2017 Aug;50(4):755-764. doi:
+10.1016/j.otc.2017.03.011. Epub 2017 May 17.
+
+Advances in Radiation Oncology: What to Consider.
+
+Hegde JV(1), Chen AM(1), Chin RK(2).
+
+Author information: 
+(1)Department of Radiation Oncology, University of California, Los Angeles, David
+Geffen School of Medicine, 200 UCLA Medical Plaza, Suite B265, Los Angeles, CA
+90095, USA.
+(2)Department of Radiation Oncology, University of California, Los Angeles, David
+Geffen School of Medicine, 200 UCLA Medical Plaza, Suite B265, Los Angeles, CA
+90095, USA. Electronic address: rkchin@mednet.ucla.edu.
+
+Treatment of squamous cell carcinoma of the head and neck is rapidly evolving due
+to changing patient populations, an emphasis on quality of life-related outcomes,
+and advances in radiotherapy concepts and techniques to meet these new demands.
+This review includes recent and ongoing studies that are potentially practice
+changing, including improvements in intensity-modulated radiotherapy planning,
+the use of deintensified regimens in the human papilloma virus-related setting,
+and adjuvant therapy after transoral robotic surgery. Additionally, recent
+studies of modern proton therapy are reviewed.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.otc.2017.03.011 
+PMID: 28527523  [Indexed for MEDLINE]

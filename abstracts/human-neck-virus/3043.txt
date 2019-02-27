@@ -1,0 +1,46 @@
+
+
+3043. Mediators Inflamm. 2016;2016:9343460. doi: 10.1155/2016/9343460. Epub 2016 Aug
+28.
+
+Inflammation-Related DNA Damage and Cancer Stem Cell Markers in Nasopharyngeal
+Carcinoma.
+
+Wang S(1), Ma N(2), Zhao W(3), Midorikawa K(3), Kawanishi S(4), Hiraku Y(3),
+Oikawa S(3), Zhang Z(5), Huang G(5), Murata M(3).
+
+Author information: 
+(1)Department of Environmental and Molecular Medicine, Mie University Graduate
+School of Medicine, Tsu, Mie, Japan; Department of Otolaryngology Head and Neck
+Surgery, First Affiliated Hospital of Guangxi Medical University, Nanning, China.
+(2)Faculty of Nursing Science, Suzuka University of Medical Science, Suzuka, Mie,
+Japan.
+(3)Department of Environmental and Molecular Medicine, Mie University Graduate
+School of Medicine, Tsu, Mie, Japan.
+(4)Faculty of Pharmaceutical Sciences, Suzuka University of Medical Science,
+Suzuka, Mie, Japan.
+(5)Department of Otolaryngology Head and Neck Surgery, First Affiliated Hospital 
+of Guangxi Medical University, Nanning, China.
+
+Nitrative and oxidative DNA damage plays an important role in
+inflammation-related carcinogenesis. To investigate the involvement of stem cells
+in Epstein-Barr virus infection-related nasopharyngeal carcinoma (NPC), we used
+double immunofluorescence staining to examine several cancer stem/progenitor cell
+markers (CD44v6, CD24, and ALDH1A1) in NPC tissues and NPC cell lines. We also
+measured 8-nitroguanine formation as an indicator of inflammation-related DNA
+lesions. The staining intensity of 8-nitroguanine was significantly higher in
+cancer cells and inflammatory cells in the stroma of NPC tissues than in chronic 
+nasopharyngitis tissues. Expression levels of CD44v6 and ALDH1A1 were
+significantly increased in cancer cells of primary NPC specimens in comparison to
+chronic nasopharyngitis tissues. Similarly, more intense staining of CD44v6 and
+ALDH1A1 was detected in an NPC cell line than in an immortalized nasopharyngeal
+epithelial cell line. In the case of CD24 staining, there was no significant
+difference between NPC and chronic nasopharyngitis tissues. 8-Nitroguanine was
+detected in both CD44v6- and ALDH1A1-positive stem cells in NPC tissues. In
+conclusion, CD44v6 and ALDH1A1 are candidate stem cell markers for NPC, and the
+increased formation of DNA lesions by inflammation may result in the mutation of 
+stem cells, leading to tumor development in NPC.
+
+DOI: 10.1155/2016/9343460 
+PMCID: PMC5018333
+PMID: 27647953  [Indexed for MEDLINE]

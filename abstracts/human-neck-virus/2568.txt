@@ -1,0 +1,52 @@
+
+
+2568. Int J Radiat Oncol Biol Phys. 2018 Mar 1;100(3):647-651. doi:
+10.1016/j.ijrobp.2017.10.045. Epub 2017 Nov 6.
+
+Functional Outcomes After De-escalated Chemoradiation Therapy for Human
+Papillomavirus-Positive Oropharyngeal Cancer: Secondary Analysis of a Phase 2
+Trial.
+
+Hegde JV(1), Shaverdian N(1), Felix C(1), Wang PC(1), Veruttipong D(1), Hsu S(1),
+Riess JW(2), Rao SD(3), Daly ME(3), Chen AM(4).
+
+Author information: 
+(1)Department of Radiation Oncology, David Geffen School of Medicine, University 
+of California, Los Angeles, Los Angeles, California.
+(2)Division of Hematology and Oncology, Department of Internal Medicine, School
+of Medicine, University of California, Davis, Sacramento, California.
+(3)Department of Radiation Oncology, School of Medicine, University of
+California, Davis, Sacramento, California.
+(4)Department of Radiation Oncology, David Geffen School of Medicine, University 
+of California, Los Angeles, Los Angeles, California. Electronic address:
+achen5@kumc.edu.
+
+PURPOSE: To analyze functional outcomes for patients treated on a phase 2 trial
+of de-escalated chemoradiation therapy for human papillomavirus-positive
+oropharyngeal cancer.
+METHODS AND MATERIALS: Patient eligibility included p16-positive, stage III or IV
+oropharyngeal squamous cell carcinoma and a Zubrod performance status of 0 to 1. 
+Treatment was induction chemotherapy with paclitaxel, 175 mg/m2, and carboplatin,
+area under the curve (AUC) of 6 mg/ml/min, for 2 cycles every 21 days, followed
+by concurrent paclitaxel, 30 mg/m2, every 7 days with dose-reduced radiation
+therapy of 54 or 60 Gy. Trends in body weight and body mass index (BMI) were
+analyzed with gastrostomy tube and narcotic use rates. Functional outcomes were
+assessed using the University of Washington Quality of Life Scale and the
+Functional Assessment of Cancer Therapy-Head and Neck Scale.
+RESULTS: Forty-five patients were registered, of whom 40 were evaluable. Only 1
+patient had a BMI deemed unhealthy at the completion of treatment. For the 15
+patients (38%) with a normal BMI (18-25 kg/m2) before treatment, recovery back to
+baseline occurred at approximately 18 months (average BMI, 23.2 kg/m2 vs
+22.3 kg/m2; P=.09). In 2 patients (5%), gastrostomy tubes were placed during
+treatment. No patient was enteral feeding tube-dependent at 6 months after
+treatment. Ninety-five percent of patients tolerated a normal regular diet at
+last follow-up.
+CONCLUSIONS: De-escalated chemoradiation therapy may improve functional outcomes 
+as indicated by the relatively low incidence of gastrostomy tube placement and
+long-term dysphagia. In patients with a normal BMI prior to chemoradiation
+therapy, BMI recovered to baseline levels.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2017.10.045 
+PMID: 29246721  [Indexed for MEDLINE]

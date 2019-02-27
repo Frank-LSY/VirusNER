@@ -1,0 +1,46 @@
+
+
+868. Eur Arch Otorhinolaryngol. 2016 Feb;273(2):295-303. doi:
+10.1007/s00405-014-3345-3. Epub 2014 Oct 26.
+
+Is there a higher prevalence of human papillomavirus infection in Chinese
+laryngeal cancer patients? A systematic review and meta-analysis.
+
+Zhang C(1)(2), Deng Z(3)(4), Chen Y(5), Suzuki M(4), Xie M(6).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery Zhujiang Hospital,
+Southern Medical University, Guangzhou, 510063, China. echo_zcl1314@sina.com.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, University of the
+Ryukyus, Okinawa, Japan. echo_zcl1314@sina.com.
+(3)Department of Otorhinolaryngology Head and Neck Surgery Zhujiang Hospital,
+Southern Medical University, Guangzhou, 510063, China.
+(4)Department of Otorhinolaryngology Head and Neck Surgery, University of the
+Ryukyus, Okinawa, Japan.
+(5)Chinese Evidence-Based Medicine Center West China Hospital, Sichuan
+University, Chengdu, China.
+(6)Department of Otorhinolaryngology Head and Neck Surgery Zhujiang Hospital,
+Southern Medical University, Guangzhou, 510063, China. min_qiang_x@hotmail.com.
+
+Accumulating evidence suggests that persistent human papillomavirus (HPV)
+infection is closely related to the risk of certain types of head and neck
+squamous cell carcinoma types, including laryngeal cancer (LC). Some reports
+indicated a higher HPV prevalence in Chinese LC patients, which remains to be
+established due to small study sample sizes. The aim of this study was to
+estimate the HPV infection rate in Chinese LC patients and assess the LC risk
+conferred by high-risk subtype HPV infection by meta-analysis. We searched
+MEDLINE, the Embase Database, Chinese National Knowledge Infrastructure, Wanfang 
+Database, and VIP Database for studies published in either English or Chinese up 
+to October 2013, and systematically reviewed 28 original research articles that
+met the inclusion criteria. Both the HPV infection rate in the LC group (all 28
+studies) and the LC risk from high-risk HPV infection (a subgroup of 12
+case-control studies) were analyzed by R 3.0 software. Overall HPV, HPV-16/18,
+and HPV-6/11 infection rates were 32 % (95 % CI 22-44 %), 30 % (95 % CI 24-37 %),
+and 12 % (95 % CI 9-17 %), respectively. There was a strong association between
+high-risk HPV-16/18 infection and LC (P < 0.01; OR = 8.07, 95 % CI 5.67-11.48).
+Our research indicates that there is a higher HPV prevalence in Chinese LC
+patients compared to LC patients outside of China and that HPV infection
+significantly increases LC risk.
+
+DOI: 10.1007/s00405-014-3345-3 
+PMID: 25344867  [Indexed for MEDLINE]

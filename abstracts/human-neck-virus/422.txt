@@ -1,0 +1,44 @@
+
+
+422. Oral Dis. 2018 Mar;24(1-2):210-214. doi: 10.1111/odi.12732.
+
+Human papillomavirus load in benign HPV-associated oral lesions from HIV/AIDS
+individuals.
+
+Camacho-Aguilar S(1), Ramírez-Amador V(1), Rosendo-Chalma P(2), Guido-Jiménez
+M(2), García-Carrancá A(2), Anaya-Saavedra G(1).
+
+Author information: 
+(1)Oral Pathology and Medicine Postgraduate Program, Universidad Autónoma
+Metropolitana, Mexico City, Mexico.
+(2)Biomedical Research Unit, Instituto Nacional de Cancerología (INCan)/Instituto
+de Investigaciones Biomédicas, Universidad Nacional Autónoma de México, México
+City, Mexico.
+
+BACKGROUND: Although HPV emerged as a crucial carcinogenic and prognostic
+biomarker in head and neck cancer, and considering the increase in HPV-associated
+oral lesions (HPV-OLs) in HIV individuals, molecular information about HPV-OLs is
+scarce; thus, our aim was to determine viral loads in HPV-OLs from HIV/AIDS
+individuals.
+METHODS: HIV/AIDS subjects with HPV-OL were included in this cross-sectional
+study. Following informed consent, biopsies were obtained. HPV detection and
+typing were carried out by PCR and sequencing (MY09/11, GP5+/6+). HPV-13 and
+HPV-32 loads were determined by a high-resolution melting assay. For statistical 
+analysis, X2 , Fisher's exact, and Mann-Whitney U tests were applied, using SPSS 
+software (v.23).
+RESULTS: Twenty-nine HIV subjects (median age 38 years, 93% males) were included.
+Most were AIDS individuals (72.4%) under HAART (89.7%). Twenty-two (75.9%)
+participants had more than one HPV-OL (four with florid presentations), mostly
+multifocal epithelial hyperplasia (62%), being HPV-13 (26%) and HPV-32 (31%) the 
+most frequent types. HPV load was higher in individuals with multiple HPV-OLs
+than in solitary lesions (4.9 vs. 3.2 Log10 copies/ml, p = .090) and in HPV-32+
+than in HPV-13+ (8.3 vs. 6.4 Log10 copies/ml, p = .014).
+CONCLUSIONS: Multiple HPV-OLs showed high HPV loads, possibly indicating
+transcriptional activity of the virus; however, in the HIV setting, the
+individual and local immunological response could be the key process.
+
+© 2018 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd. All rights
+reserved.
+
+DOI: 10.1111/odi.12732 
+PMID: 29480634  [Indexed for MEDLINE]

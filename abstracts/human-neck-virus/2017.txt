@@ -1,0 +1,41 @@
+
+
+2017. Laryngoscope. 2010 Mar;120(3):504-10. doi: 10.1002/lary.20745.
+
+Characterization of human papillomavirus type 11-specific immune responses in a
+preclinical model.
+
+Peng S(1), Best SR, Hung CF, Loyo M, Lyford-Pike S, Flint PW, Tunkel DE, Saunders
+JR, Wu TC, Pai SI.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Baltimore, Maryland 21287,
+USA.
+
+OBJECTIVES/HYPOTHESIS: Human papillomavirus (HPV) types 6 and 11 are associated
+with recurrent respiratory papillomatosis (RRP). Although a prophylactic vaccine 
+has been developed that protects against HPV infection, a therapeutic vaccine is 
+still needed for those patients infected with and/or suffering from persistent
+disease. Therefore, we developed a novel, therapeutic DNA vaccine targeting
+HPV-11 and characterized the in vivo immunologic responses generated against
+HPV-11 E6 and E7 after DNA vaccination in a preclinical model.
+METHODS: We generated a DNA vaccine that encodes the HPV-11 E6 and E7 genes in a 
+pcDNA3 backbone plasmid. We then vaccinated C57BL/6 mice with the
+pcDNA3-HPV11-E6E7 DNA plasmid. Splenocytes were harvested from these vaccinated
+animals and were incubated with overlapping peptides spanning either the HPV-11
+E6 or E7 protein. The frequency of interferon-gamma-releasing CD8(+) T cell
+responses was then analyzed by flow cytometry.
+RESULTS: Vaccinated mice with the HPV11-E6E7 DNA generated strong CD8(+) T cell
+responses against the E6(aa44-51) peptide. We determined that the epitope is
+presented by the MHC class I H2-K(b) molecule. No significant E7 peptide-specific
+T cell responses were observed.
+CONCLUSIONS: We developed a novel DNA vaccine that targets the E6 gene of HPV-11.
+Characterization of the immunologic responses elicited by this DNA vaccine
+reveals that the E6(aa44-51) peptide contains the most immunogenic region for the
+HPV-11 viral type. Knowledge of this specific T cell epitope and generation of a 
+RRP preclinical model will allow for the development and evaluation of novel
+vaccine strategies targeting the RRP patient population.
+
+DOI: 10.1002/lary.20745 
+PMCID: PMC2908018
+PMID: 20025042  [Indexed for MEDLINE]

@@ -1,0 +1,28 @@
+
+
+44. Virus Res. 2005 Aug;111(2):175-93.
+
+Poliovirus and poliomyelitis: a tale of guts, brains, and an accidental event.
+
+Mueller S(1), Wimmer E, Cello J.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, NY 11794, USA.
+
+Nearly 100 years after its discovery poliovirus remains one of most thoroughly
+studied and best understood virus models for the molecular virologist. While
+poliovirus has been of vital importance for our insight into picornavirus biology
+at the cellular and biochemical level, it is ironic to note that, due to the
+early success in defeating poliomyelitis in the developed world through
+vaccination, many of the basic aspects of poliovirus pathogenesis remain poorly
+understood. This is chiefly due to the lack of an adequate and affordable animal 
+model, save of old world monkeys. Fundamental questions, such as the identity of 
+the target cells during the enteric phase of infection, or mechanisms of systemic
+spread are still unanswered. This review will attempt to summarize our current
+knowledge of the molecular biology of poliovirus, its pathogenesis, as well as
+recent advances in the areas of cell and tissue tropism and mechanisms of central
+nervous system invasion.
+
+DOI: 10.1016/j.virusres.2005.04.008 
+PMID: 15885840  [Indexed for MEDLINE]

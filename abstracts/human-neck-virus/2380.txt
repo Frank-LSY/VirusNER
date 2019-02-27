@@ -1,0 +1,33 @@
+
+
+2380. HNO. 2015 Sep;63(9):606-11. doi: 10.1007/s00106-015-0053-2.
+
+[The most important study results concerning nonsurgical primary treatment of
+locally advanced head and neck cancer: Highlights of the ASCO Meeting 2015].
+
+[Article in German]
+
+Gliese A(1), Busch CJ, Knecht R.
+
+Author information: 
+(1)Klinik und Poliklinik für Hals-, Nasen- und Ohrenheilkunde,
+Kopf-Hals-Chirurgie und Onkologie, Universitäres Cancer Center Hamburg,
+Universitätsklinikum Hamburg-Eppendorf, Martinistr. 52, 20246, Hamburg,
+Deutschland.
+
+At the Annual Meeting of the American Society of Clinical Oncology (ASCO) 2015,
+results of current trials dealing with nonsurgical primary treatment of locally
+advanced head and neck cancer were presented. Regarding concomitant
+chemoradiotherapy (CRT), studies focused on the dosage and sequence of cisplatin 
+administration are currently particularly featured. Amongst these, a study on
+dosage reduction in human papilloma virus (HPV)-positive patients was presented. 
+Other investigations addressed substances as alternatives for cisplatin,
+particularly carboplatin and targeted therapeutic agents. The comparison of
+concomitant and sequential CRT (induction chemotherapy (ICT) prior to CRT) is
+still one of the main topics. In addition, studies modifying the ICT regimen or
+combining subsequent radiotherapy (RT) with the epidermal growth factor receptor 
+(EGFR) antibody cetuximab were presented. A selection of the most important
+trials are summarized in this article.
+
+DOI: 10.1007/s00106-015-0053-2 
+PMID: 26303521  [Indexed for MEDLINE]

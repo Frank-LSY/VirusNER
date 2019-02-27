@@ -1,0 +1,26 @@
+
+
+785. Otolaryngol Clin North Am. 2012 Aug;45(4):765-77. doi: 10.1016/j.otc.2012.04.001.
+Epub 2012 May 24.
+
+Detection of human papillomavirus in clinical samples.
+
+Westra WH(1).
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+MD, USA. wwestra@jhmi.edu
+
+The confirmation of human papillomavirus (HPV) as a causative agent for a subset 
+of squamous cell carcinomas of the head and neck has resulted in a growing
+expectation for HPV testing in head and neck cancers. An increasing understanding
+of HPV-related tumorigenesis has informed this evaluation process in a manner
+that is moving wide scale, indiscriminant, and nonstandardized testing toward a
+more directed, clinically relevant, and standardized approach. This review
+addresses the current state of HPV detection and focuses on the importance,
+appropriate time, and need for HPV testing.
+
+Copyright © 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.otc.2012.04.001 
+PMID: 22793851  [Indexed for MEDLINE]

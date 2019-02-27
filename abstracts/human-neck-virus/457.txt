@@ -1,0 +1,57 @@
+
+
+457. Zhonghua Fu Chan Ke Za Zhi. 2018 Jul 25;53(7):471-480. doi:
+10.3760/cma.j.issn.0529-567x.2018.07.006.
+
+[Primary study on the relationship between high-risk HPV infection and vaginal
+cervical microbiota].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Zhang Z(1), Zhang D, Xiao BB, Zhang R, Bai HH, Dong HY, Bi H, Liu ZH.
+
+Author information: 
+(1)Department of Obstetrics and Gynecology, Peking University First Hospital,
+Beijing 100034, China.
+
+Objective: To understand characteristics of vaginal cervical microbiota in
+high-risk HPV (hrHPV) infected women and to uncover the relationship between
+hrHPV infection and vaginal cervical microbiota. Methods: All participants were
+randomly selected from Peking University First Hospital from September to October
+of 2017, including 5 subjects of control group, 5 cases of HPV16/18 group, 5
+cases of other hrHPV infected group and 3 cases of cervical squamous carcinoma
+group. All subjects were required to fill in a questionnaire, and cervical and
+vaginal discharges were separately collected for microscopic examination and new 
+generation sequencing targeting the variable region (V3-V4) of bacterial 16S rRNA
+gene. Results: Vaginal microbiota analysis: (1) 6 major phylum were found in
+vaginal microbiota:Firmicutes, Bacteroidetes, Fusobacteria, Actinobacteria,
+Tenericutes and Proteobacteria. Firmicutes contributed to the majority of normal 
+vaginal flora, Bacteroidetes and Fusobacteria increased in hrHPV infected ones,
+while Fusobacteria showed significant difference in cervical carcinoma group. (2)
+Lactobacillus occupied most of normal vaginal flora while genus like Gardnella,
+Prevotella, Atopobium, Megasphaera and Sneathia increased in hrHPV infected
+subjects, Sneathia showed significant difference in cervical carcinoma group. (3)
+No significant difference had been calculated in Alpha diversity of four groups
+(P=0.073) . Cervical microbiota analysis: (1) Microbial diversity of cervical
+microbiota was higher than that of vaginal microbiota. (2) Significant difference
+had been found in Alpha diversity of four groups (P=0.046) . (3) Proteobacteria
+in normal cervical flora was much more than that in vagina, and Proteobacteria
+increased significantly in hrHPV infected cervical discharge. (3) Chlamydia
+increased significantly in cervical carcinoma group. Conclusions: The diversity
+of cervical microbiota is higher than that of vaginal microbiota. Change in
+cervical microbiota is more obvious than that of vagina in hrHPV infected
+subjects. Fusobacteria-Sneathia and Chlamydia significantly increase in cervical 
+carcinoma group. Proteobacteria might relate to hrHPV infection.
+
+Publisher: 目的： 了解高危型HPV感染妇女阴道菌群及子宫颈菌群的情况，探讨高危型HPV感染与阴道菌群及子宫颈菌群的关系。 方法：
+选取2017年9月至10月北京大学第一医院妇产科就诊的患者（对照组5例，HPV16/18组5例，HPV其他高危型组5例，子宫颈癌组3例），填写调查问卷、行阴道及子
+宫颈分泌物微生态检测，同时使用新一代测序技术扩增细菌16S rRNA基因V3~V4高变区行菌群分析。 结果：
+阴道菌群分析结果：（1）阴道菌群主要有6个菌门：厚壁菌门、放线菌门、拟杆菌门、变形菌门、梭菌门及软壁菌门，正常阴道菌群以厚壁菌门为主，高危型HPV感染者拟杆菌门、
+梭菌门增多，子宫颈癌组梭菌门显著增多；（2）正常阴道菌群在属水平以乳杆菌属为主，高危型HPV感染者乳杆菌减少，加德纳菌属、普雷沃菌属、阿托波菌属、巨球菌属及纤毛菌
+属增多，子宫颈癌组纤毛菌属显著增多；（3）高危型HPV感染后阴道菌群多样性增加，但4组阴道菌群Alpha多样性无显著性差异（P=0.073）。子宫颈菌群分析结果：
+（1）子宫颈菌群多样性高于阴道菌群；（2）高危型HPV感染者子宫颈菌群多样性明显增加，4组子宫颈菌群Alpha多样性有显著性差异（P=0.046）；（3）对照组子
+宫颈菌群较阴道菌群变形菌门增加，HPV感染后子宫颈变形菌门明显增加；（4）衣原体感染在子宫颈癌组明显增加。 结论：
+子宫颈菌群多样性高于阴道菌群；高危型HPV感染者子宫颈菌群变化较阴道菌群更明显；梭菌门-纤毛菌属及衣原体与子宫颈癌相关，子宫颈变形菌门可能与高危型HPV感染相关。
+.
+DOI: 10.3760/cma.j.issn.0529-567x.2018.07.006 
+PMID: 30078257  [Indexed for MEDLINE]

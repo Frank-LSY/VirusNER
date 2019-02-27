@@ -1,0 +1,51 @@
+
+
+2083. Cancer. 2016 Apr 15;122(8):1201-8. doi: 10.1002/cncr.29901. Epub 2016 Feb 16.
+
+p16-positive lymph node metastases from cutaneous head and neck squamous cell
+carcinoma: No association with high-risk human papillomavirus or prognosis and
+implications for the workup of the unknown primary.
+
+McDowell LJ(1), Young RJ(2), Johnston ML(1), Tan TJ(1), Kleid S(3), Liu CS(1),
+Bressel M(4), Estall V(1)(5), Rischin D(5)(6), Solomon B(2)(5)(6), Corry J(1)(5).
+
+Author information: 
+(1)Division of Radiation Oncology and Cancer Imaging, Peter MacCallum Cancer
+Centre, Melbourne, Australia.
+(2)Research Division, Peter MacCallum Cancer Centre, Melbourne, Australia.
+(3)Division of Surgical Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Australia.
+(4)Centre for Biostatistics and Clinical Trials, Peter MacCallum Cancer Centre,
+Melbourne, Australia.
+(5)University of Melbourne, Parkville, Australia.
+(6)Department of Medical Oncology, Peter MacCallum Cancer Centre, Melbourne,
+Australia.
+
+BACKGROUND: The incidence of p16 overexpression and the role of human
+papillomavirus (HPV) in cutaneous head and neck squamous cell carcinoma (cHNSCC) 
+are unclear.
+METHODS: One hundred forty-three patients with cHNSCC lymph node metastases
+involving the parotid gland were evaluated for p16 expression by
+immunohistochemistry. The detection of 18 high-risk HPV subtypes was performed
+with HPV RNA in situ hybridization for a subset of 59 patients. The results were 
+correlated with clinicopathological features and outcomes.
+RESULTS: The median follow-up time was 5.3 years. No differences were observed in
+clinicopathological factors with respect to the p16 status. p16 was positive,
+weak, and negative in 45 (31%), 21 (15%), and 77 cases (54%), respectively. No
+high-risk HPV subtypes were identified, regardless of the p16 status. The p16
+status was not prognostic for overall (hazard ratio, 1.08; 95% confidence
+interval [CI], 0.85-1.36; P = .528), cancer-specific (hazard ratio, 1.12; 95% CI,
+0.77-1.64; P = .542), or progression-free survival (hazard ratio, 1.03; 95% CI,
+0.83-1.29; P = .783). Distant metastasis-free survival, freedom from locoregional
+failure, and freedom from local failure were also not significantly associated
+with the p16 status.
+CONCLUSIONS: p16 positivity is common but not prognostic in cHNSCC lymph node
+metastases. High-risk HPV subtypes are not associated with p16 positivity and do 
+not appear to play a role in this disease. HPV testing, in addition to the p16
+status in the unknown primary setting, may provide additional information for
+determining a putative primary site.
+
+© 2016 American Cancer Society.
+
+DOI: 10.1002/cncr.29901 
+PMID: 26881928  [Indexed for MEDLINE]

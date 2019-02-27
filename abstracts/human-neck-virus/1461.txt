@@ -1,0 +1,62 @@
+
+Conflict of interest statement: The authors have no conflicts of interest with
+the subject matter or materials discussed in this manuscript.
+
+
+1461. J Pathol. 2017 Nov;243(3):354-365. doi: 10.1002/path.4953. Epub 2017 Oct 6.
+
+Comprehensive T-cell immunophenotyping and next-generation sequencing of human
+papillomavirus (HPV)-positive and HPV-negative head and neck squamous cell
+carcinomas.
+
+Poropatich K(1), Fontanarosa J(2), Swaminathan S(3), Dittmann D(1), Chen S(4),
+Samant S(2), Zhang B(4).
+
+Author information: 
+(1)Department of Pathology, Northwestern University Feinberg School of Medicine
+Chicago, IL, USA.
+(2)Department of Otolaryngology, Northwestern University, Feinberg Medical
+School, Chicago, IL, USA.
+(3)Robert H. Lurie Comprehensive Cancer Center, Department of Medicine - Division
+of Rheumatology, Northwestern University Feinberg School of Medicine, Chicago,
+IL, USA.
+(4)Robert H. Lurie Comprehensive Cancer Center, Department of Medicine - Division
+of Hematology/Oncology, Northwestern University Feinberg School of Medicine,
+Chicago, IL, USA.
+
+The success of programmed cell death 1 (PD-1) inhibition in achieving a clinical 
+response in a subset of head and neck squamous cell carcinoma (HNSCC) patients
+emphasizes the need to better understand the immunobiology of HNSCC.
+Immunophenotyping was performed for 30 HCSCC patients [16 human papillomavirus
+(HPV)-positive; 14 HPV-negative] on matched tissue from the primary tumour site, 
+locally metastatic cervical lymph nodes (LNs), uninvolved local cervical LNs, and
+peripheral blood. CD4+ and CD8+ T-cell lymphocytes obtained from tissue were
+analysed for expression levels of the inhibitory receptors PD-1, TIM-3 and
+CTLA-4. Next-generation sequencing of the T-cell receptor (TCR) β chain was
+performed on patients (n = 9) to determine receptor repertoire diversity and for 
+clonality analysis. HPV-negative HNSCC patients, particularly those with stage IV
+disease, had significantly higher proportions of CD8+ T cells expressing CTLA-4
+in tumour tissue (P = 0.0013) and in peripheral blood (P = 0.0344) than
+HPV-positive patients, as well as higher expression levels of TIM-3+ PD-1+ CD8+ T
+cells (P = 0.0072) than controls. For all patients, PD-1 expression on CD8+ T
+cells - particularly in HPV-negative HNSCC cases - strongly correlated (r = 0.63,
+P = 0.013) with tumour size at the primary site. The top CD8+ TCR clones from
+tumour tissue significantly overlapped with circulating peripheral blood TCR
+clones (r = 0.946), and HPV-positive patients had frequently expanded TCR clones 
+that were more hydrophobic - and potentially more immunogenic - than those from
+HPV-negative patients. Collectively, our findings demonstrate, for the first
+time, that high-stage HPV-negative HNSCC patients with primary tumours at
+different sites in the head and neck have elevated peripheral CTLA-4+ CD8+ T-cell
+levels, that tumour-familiar CD8+ T cells are detectable in peripheral blood from
+HNSCC patients, and that TCRs from HPV-positive HNSCC patients potentially
+recognize distinctly immunogenic cognate antigens. However, our findings are
+preliminary, and need to be further confirmed in a larger patient cohort; also,
+how these factors affect patient response to immunotherapy needs to be
+determined. Copyright © 2017 Pathological Society of Great Britain and Ireland.
+Published by John Wiley & Sons, Ltd.
+
+Copyright © 2017 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+DOI: 10.1002/path.4953 
+PMID: 28771750  [Indexed for MEDLINE]

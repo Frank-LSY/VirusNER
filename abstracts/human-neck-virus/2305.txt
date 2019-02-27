@@ -1,0 +1,34 @@
+
+
+2305. Semin Oncol. 2017 Oct;44(5):323-329. doi: 10.1053/j.seminoncol.2018.01.010. Epub 
+2018 Feb 9.
+
+Surveillance imaging following treatment of head and neck cancer.
+
+Zhao X(1), Rao S(2).
+
+Author information: 
+(1)Department of Radiation Oncology, University of California, Davis, Sacramento,
+CA. Electronic address: jazhao@ucdavis.edu.
+(2)Department of Radiation Oncology, University of California, Davis, Sacramento,
+CA.
+
+Post-treatment surveillance is an important component in the treatment of head
+and neck cancers, especially as the proportion of human papilloma virus-positive 
+cancers increases. Early detection of recurrences or second malignancies can
+increase success and minimize the toxicity of salvage treatment. Unfortunately,
+there are no consensus guidelines on the frequency and modality of post-treatment
+imaging. Computed tomography, ultrasound, magnetic resonance imaging and positron
+emission tomography-computed tomography (PET-CT) all have unique advantages and
+disadvantages when used as surveillance imaging. There is evidence that PET-CT
+may be the most sensitive of these modalities, but further research is needed to 
+show an improvement in patient outcomes. Institutions will benefit most from a
+surveillance plan that is consistent and tailored to the individualized needs of 
+their patients. This review focuses on the available evidence for different
+imaging modalities and general guidelines for developing an institution-specific 
+practice pattern.
+
+Copyright © 2018 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.seminoncol.2018.01.010 
+PMID: 29580434  [Indexed for MEDLINE]

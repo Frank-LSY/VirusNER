@@ -1,0 +1,35 @@
+
+
+638. Lab Invest. 2018 Feb;98(2):258-268. doi: 10.1038/labinvest.2017.112. Epub 2017
+Oct 16.
+
+Oncogenic Epstein-Barr virus recruits Nm23-H1 to regulate chromatin modifiers.
+
+Pandey S(1)(2), Robertson ES(1)(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, The Tumor Virology
+Program, Abramson Cancer Center, Perelman School of Medicine at the University of
+Pennsylvania, Philadelphia, PA, USA.
+(2)Department of Microbiology, Perelman School of Medicine at the University of
+Pennsylvania, Philadelphia, PA, USA.
+
+In cancer progression, metastasis is a major cause of poor survival of patients
+and can be targeted for therapeutic interventions. The first discovered
+metastatic-suppressor Nm23-H1 possesses nucleoside diphosphate kinase, histidine 
+kinase, and DNase activity as a broad-spectrum enzyme. Recent advances in cancer 
+metastasis have opened new ways for the development of therapeutic molecular
+approaches. In this review, we provide a summary of the current understanding of 
+Nm23/NDPKs in the context of viral oncogenesis. We also focused on
+Nm23-H1-mediated cellular events with an emphasis on chromatin modifications. How
+Nm23-H1 modulates the activities of chromatin modifiers through interaction with 
+Epstein-Barr virus-encoded oncogenic antigens and related crosstalks are
+discussed in the context of other oncogenic viruses. We also described the
+current understanding of the cellular and viral interactions of Nm23-H1 and their
+reference to transcription regulation and metastasis. Further, we summarized the 
+recent therapeutic approaches targeting Nm23 and its potential links to pathways 
+that can be exploited by oncogenic viruses.
+
+DOI: 10.1038/labinvest.2017.112 
+PMCID: PMC6053075
+PMID: 29035376  [Indexed for MEDLINE]

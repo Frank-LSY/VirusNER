@@ -1,0 +1,57 @@
+
+
+270. Nucleic Acids Res. 2015 Jan;43(Database issue):D887-92. doi: 10.1093/nar/gku1074.
+Epub 2014 Oct 29.
+
+Dr.VIS v2.0: an updated database of human disease-related viral integration sites
+in the era of high-throughput deep sequencing.
+
+Yang X(1), Li M(2), Liu Q(3), Zhang Y(4), Qian J(1), Wan X(1), Wang A(1), Zhang
+H(1), Zhu C(1), Lu X(1), Mao Y(1), Sang X(1), Zhao H(5), Zhao Y(6), Zhang X(7).
+
+Author information: 
+(1)Department of Liver Surgery, Peking Union Medical College Hospital, Chinese
+Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC),
+Beijing, China.
+(2)Key Lab of Intelligent Information Processing of Chinese Academy of Sciences
+(CAS), Institute of Computing Technology, CAS, Beijing, China University of
+Chinese Academy of Sciences, Beijing, China.
+(3)School of Life Sciences and Technology, Tongji University, Shanghai, China.
+(4)Otolaryngology Head and Neck Surgery Department, Cancer Hospital, Chinese
+Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC),
+Beijing, China.
+(5)Department of Liver Surgery, Peking Union Medical College Hospital, Chinese
+Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC),
+Beijing, China zhaoht@pumch.cn.
+(6)Department of Liver Surgery, Peking Union Medical College Hospital, Chinese
+Academy of Medical Sciences and Peking Union Medical College (CAMS & PUMC),
+Beijing, China Key Lab of Intelligent Information Processing of Chinese Academy
+of Sciences (CAS), Institute of Computing Technology, CAS, Beijing, China
+biozy@ict.ac.cn.
+(7)School of Life Sciences and Technology, Tongji University, Shanghai, China
+xyzhang@tongji.edu.cn.
+
+Dr.VIS is a database of human disease-related viral integration sites (VIS). The 
+number of VIS has grown rapidly since Dr.VIS was first released in 2011, and
+there is growing recognition of the important role that viral integration plays
+in the development of malignancies. The updated database version, Dr.VIS v2.0
+(http://www.bioinfo.org/drvis or bminfor.tongji.edu.cn/drvis_v2), represents 25
+diseases, covers 3340 integration sites of eight oncogenic viruses in human
+chromosomes and provides more accurate information about VIS from high-throughput
+deep sequencing results obtained mainly after 2012. Data of VISes for three newly
+identified oncogenic viruses for 14 related diseases have been added to this 2015
+update, which has a 5-fold increase of VISes compared to Dr.VIS v1.0. Dr.VIS v2.0
+has 2244 precise integration sites, 867 integration regions and 551 junction
+sequences. A total of 2295 integration sites are located near 1730 involved
+genes. Of the VISes, 1153 are detected in the exons or introns of genes, with 294
+located up to 5 kb and a further 112 located up to 10 kb away. As viral
+integration may alter chromosome stability and gene expression levels,
+characterizing VISes will contribute toward the discovery of novel oncogenes,
+tumor suppressor genes and tumor-associated pathways.
+
+© The Author(s) 2014. Published by Oxford University Press on behalf of Nucleic
+Acids Research.
+
+DOI: 10.1093/nar/gku1074 
+PMCID: PMC4383912
+PMID: 25355513  [Indexed for MEDLINE]

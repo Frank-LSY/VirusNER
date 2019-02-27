@@ -1,0 +1,62 @@
+
+
+2271. PLoS One. 2015 Aug 6;10(8):e0135074. doi: 10.1371/journal.pone.0135074.
+eCollection 2015.
+
+Genome-Wide Loss of Heterozygosity and DNA Copy Number Aberration in HPV-Negative
+Oral Squamous Cell Carcinoma and Their Associations with Disease-Specific
+Survival.
+
+Chen C(1), Zhang Y(2), Loomis MM(3), Upton MP(4), Lohavanichbutr P(3), Houck
+JR(3), Doody DR(3), Mendez E(5), Futran N(6), Schwartz SM(7), Wang P(8).
+
+Author information: 
+(1)Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson
+Cancer Research Center, Seattle, Washington, United States of America; Department
+of Otolaryngology-Head and Neck Surgery, University of Washington, Seattle,
+Washington, United States of America; Department of Epidemiology, University of
+Washington, Seattle, Washington, United States of America.
+(2)Program in Biostatistics and Biomathematics, Division of Public Health
+Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington, United
+States of America.
+(3)Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson
+Cancer Research Center, Seattle, Washington, United States of America.
+(4)Department of Pathology, University of Washington, Seattle, Washington, United
+States of America.
+(5)Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson
+Cancer Research Center, Seattle, Washington, United States of America; Department
+of Otolaryngology-Head and Neck Surgery, University of Washington, Seattle,
+Washington, United States of America; Clinical Research Division, Fred Hutchinson
+Cancer Research Center, Seattle, Washington, United States of America.
+(6)Department of Otolaryngology-Head and Neck Surgery, University of Washington, 
+Seattle, Washington, United States of America.
+(7)Program in Epidemiology, Division of Public Health Sciences, Fred Hutchinson
+Cancer Research Center, Seattle, Washington, United States of America; Department
+of Epidemiology, University of Washington, Seattle, Washington, United States of 
+America.
+(8)Program in Biostatistics and Biomathematics, Division of Public Health
+Sciences, Fred Hutchinson Cancer Research Center, Seattle, Washington, United
+States of America; Department of Genetics and Genomics Sciences, Mt. Sinai School
+of Medicine, New York, New York, United States of America.
+
+Oral squamous cell cancer of the oral cavity and oropharynx (OSCC) is associated 
+with high case-fatality. For reasons that are largely unknown, patients with the 
+same clinical and pathologic staging have heterogeneous response to treatment and
+different probability of recurrence and survival, with patients with Human
+Papillomavirus (HPV)-positive oropharyngeal tumors having the most favorable
+survival. To gain insight into the complexity of OSCC and to identify potential
+chromosomal changes that may be associated with OSCC mortality, we used Affymtrix
+6.0 SNP arrays to examine paired DNA from peripheral blood and tumor cell
+populations isolated by laser capture microdissection to assess genome-wide loss 
+of heterozygosity (LOH) and DNA copy number aberration (CNA) and their
+associations with risk factors, tumor characteristics, and oral cancer-specific
+mortality among 75 patients with HPV-negative OSCC. We found a highly
+heterogeneous and complex genomic landscape of HPV-negative tumors, and
+identified regions in 4q, 8p, 9p and 11q that seem to play an important role in
+oral cancer biology and survival from this disease. If confirmed, these findings 
+could assist in designing personalized treatment or in the creation of models to 
+predict survival in patients with HPV-negative OSCC.
+
+DOI: 10.1371/journal.pone.0135074 
+PMCID: PMC4527746
+PMID: 26247464  [Indexed for MEDLINE]

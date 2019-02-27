@@ -1,0 +1,33 @@
+
+
+2244. Ann Oncol. 2012 Sep;23 Suppl 10:x173-7.
+
+Treatment choice for locally advanced head and neck cancers on the basis of risk 
+factors: biological risk factors.
+
+Braakhuis BJ(1), Brakenhoff RH, Leemans CR.
+
+Author information: 
+(1)Department of Otolaryngology/Head-Neck Surgery, VU University Medical Center, 
+Amsterdam, The Netherlands. bjm.braakhuis@vumc.nl
+
+Patients with locally advanced head and neck squamous cell carcinoma often
+experience relapse, the cause of poor survival statistics. Relapse occurs
+following the three main types of treatment, surgery with or without
+post-operative (chemo)radiotherapy, or chemoradiation (containing cisplatin).
+Cancer relapse can result from (i) outgrowth of residual tumour cells, sometimes 
+with a number too small to be detected by routine histopathology or (ii)
+development of another carcinoma in a field of pre-neoplastic cells that has
+remained after treatment of the primary carcinoma. At this moment, clinical
+staging is not enough to identify patients who will develop relapse and who need 
+tailored treatment. This review describes the latest knowledge of mechanisms of
+cancer relapse, addresses the biomarkers of potential interest detectable in the 
+tissue of the tumour or its surgical margins and discusses three biomarkers,
+human papillomavirus, TP53 and epidermal growth receptor in more detail. Once a
+marker panel has been established, treatment should be focussed on the patients
+at risk of relapse by improved tailoring of existing treatment modalities. Also, 
+the implementation of more targeting therapies based on the characteristics of
+the discovered markers should lead to better survival rates.
+
+DOI: 10.1093/annonc/mds299 
+PMID: 22987957  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+683. Int J Pediatr Otorhinolaryngol. 2017 Nov;102:119-122. doi:
+10.1016/j.ijporl.2017.04.017. Epub 2017 Apr 12.
+
+HLA-DRB1 and HLA-DQB1 alleles in Chinese Han patients with Juvenile-Onset
+recurrent respiratory papillomatosis.
+
+Zhao J(1), Wang G(2), Wang G(1), Wang H(1), Wang S(1), Tai J(1), Tang L(1), Gui
+J(2), Zhang J(3), Ni X(4).
+
+Author information: 
+(1)Beijing Key Laboratory for Pediatric Diseases of Otolaryngology, Head and Neck
+Surgery, Beijing Pediatric Research Institute, Beijing Children's Hospital,
+Capital Medical University, Beijing, 100045, China; Department of
+Otorhinolaryngology, Head and Neck Surgery, Beijing Children's Hospital, Capital 
+Medical University, Beijing, 100045, China.
+(2)Key Laboratory of Major Diseases in Children by Ministry of Education, Beijing
+Pediatric Research Institute, Beijing Children's Hospital, Capital Medical
+University, Beijing, 100045, China.
+(3)Beijing Key Laboratory for Pediatric Diseases of Otolaryngology, Head and Neck
+Surgery, Beijing Pediatric Research Institute, Beijing Children's Hospital,
+Capital Medical University, Beijing, 100045, China; Department of
+Otorhinolaryngology, Head and Neck Surgery, Beijing Children's Hospital, Capital 
+Medical University, Beijing, 100045, China. Electronic address: stzhangj@263.net.
+(4)Beijing Key Laboratory for Pediatric Diseases of Otolaryngology, Head and Neck
+Surgery, Beijing Pediatric Research Institute, Beijing Children's Hospital,
+Capital Medical University, Beijing, 100045, China; Department of
+Otorhinolaryngology, Head and Neck Surgery, Beijing Children's Hospital, Capital 
+Medical University, Beijing, 100045, China. Electronic address: nixin@bch.com.cn.
+
+Juvenile-Onset recurrent respiratory papillomatosis (JORRP) is a rare benign
+neoplasm of the respiratory mucosa caused by human papilloma virus. Previous
+studies on the possible associations between HLA alleles and JORRP have shown
+various results in different ethnic groups. The present study aims to investigate
+the association between JORRP and HLA class II DRB1and DQB1 alleles in Chinese
+Han children. We found that the frequencies of HLA-DRB1*03:01 (pc = 0.0378,
+OR = 4.8) and HLA-DQB1*02:01 (pc = 0.021, OR = 4.8) alleles were significantly
+higher in patients with JORRP than in controls. In addition, HLA-DRB1*03:01
+allele significantly correlated with aggressive JORRP (r = 0.467, p = 0.009).
+This was the first study on the HLA alleles in Chinese Han patients with JORRP.
+Future studies are required to further elucidate the correlation of HLA class II 
+alleles and susceptibility to JORRP.
+
+Copyright © 2017. Published by Elsevier B.V.
+
+DOI: 10.1016/j.ijporl.2017.04.017 
+PMID: 29106857  [Indexed for MEDLINE]

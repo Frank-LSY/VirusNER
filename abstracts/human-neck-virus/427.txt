@@ -1,0 +1,39 @@
+
+
+427. J Clin Virol. 2009 Nov;46(3):234-7. doi: 10.1016/j.jcv.2009.08.010. Epub 2009 Sep
+6.
+
+Human bocavirus and rhino-enteroviruses in childhood otitis media with effusion.
+
+Rezes S(1), Söderlund-Venermo M, Roivainen M, Kemppainen K, Szabó Z, Sziklai I,
+Pitkäranta A.
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, Health Science
+Centre, University of Debrecen, 98 Nagyerdei krt., Debrecen, Hungary.
+szrezes@gmail.hu
+
+BACKGROUND: Viral respiratory infections play an important role in the
+pathogenesis of otitis media with effusion (OME) in children. The most common
+human rhinoviruses (HRVs) have been detected in middle ear effusions (MEE), but
+there is only limited data available about the closely related human
+enteroviruses (HEVs). The newly discovered human bocavirus (HBoV) has not,
+however, been identified in MEE of OME children.
+OBJECTIVES: The aim of our study was to determine the presence of HBoV and
+HRV/HEV and the rate of coinfection in a set of MEE samples collected from OME
+children.
+STUDY DESIGN: Seventy-five MEE samples from 54 children with no acute respiratory
+symptoms were studied with reverse transcription polymerase chain reaction
+(RT-PCR) for detection of HRV/HEV and quantitative PCR for detection of HBoV.
+RESULTS: Twenty-six (35%) of 75 MEE samples were positive for viral nucleic acid,
+22 (29%) for HEV, 10 (13%) for HRV and 2 (3%) for HBoV. There was no
+statistically significant difference between mucoid and serous effusions in the
+rate of virus detection. Forty-three percent of bilateral cases showed a
+contra-lateral difference in viral finding.
+CONCLUSIONS: Our results suggest that these common respiratory viruses can be
+associated with OME in children. Whether these viruses are causative etiologic
+factors of MEE persistence or merely remnants of previous infections is not
+known.
+
+DOI: 10.1016/j.jcv.2009.08.010 
+PMID: 19736042  [Indexed for MEDLINE]

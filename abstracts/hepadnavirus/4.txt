@@ -1,0 +1,44 @@
+
+Conflict of interest statement: Conflict-of-interest statement: The authors
+declare that they have no conflict of interest.
+
+
+4. Clin Chem Lab Med. 2018 Mar 28;56(4):634-641. doi: 10.1515/cclm-2017-0701.
+
+Evaluation of the Aptima HBV Quant assay vs. the COBAS TaqMan HBV test using the 
+high pure system for the quantitation of HBV DNA in plasma and serum samples.
+
+Schalasta G(1), Börner A(2), Speicher A(2), Enders M(2).
+
+Author information: 
+(1)Prof Gisela Enders and Kollegen, MVZ GbR Rosenbergstr. 85, 70193 Stuttgart,
+Germany, Phone: +0711 6357 140, Fax: +0711 6357 148.
+(2)Prof Gisela Enders and Kollegen, MVZ GbR, Stuttgart, Germany.
+
+BACKGROUND: Proper management of patients with chronic hepatitis B virus (HBV)
+infection requires monitoring of plasma or serum HBV DNA levels using a highly
+sensitive nucleic acid amplification test. Because commercially available assays 
+differ in performance, we compared herein the performance of the Hologic Aptima
+HBV Quant assay (Aptima) to that of the Roche Cobas TaqMan HBV test for use with 
+the high pure system (HPS/CTM).
+METHODS: Assay performance was assessed using HBV reference panels as well as
+plasma and serum samples from chronically HBV-infected patients. Method
+correlation, analytical sensitivity, precision/reproducibility, linearity, bias
+and influence of genotype were evaluated. Data analysis was performed using
+linear regression, Deming correlation analysis and Bland-Altman analysis.
+RESULTS: Agreement between the assays for the two reference panels was good, with
+a difference in assay values vs. target <0.5 log. Qualitative assay results for
+159 clinical samples showed good concordance (88.1%; κ=0.75; 95% confidence
+interval: 0.651-0.845). For the 106 samples quantitated by both assays, viral
+load results were highly correlated (R=0.92) and differed on average by 0.09 log,
+with 95.3% of the samples being within the 95% limit of agreement of the assays. 
+Linearity for viral loads 1-7 log was excellent for both assays (R2>0.98). The
+two assays had similar bias and precision across the different genotypes tested
+at low viral loads (25-1000 IU/mL).
+CONCLUSIONS: Aptima has a performance comparable with that of HPS/CTM, making it 
+suitable for use for HBV infection monitoring. Aptima runs on a fully automated
+platform (the Panther system) and therefore offers a significantly improved
+workflow compared with HPS/CTM.
+
+DOI: 10.1515/cclm-2017-0701 
+PMID: 29197859  [Indexed for MEDLINE]

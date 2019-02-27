@@ -1,0 +1,43 @@
+
+
+1501. Cancer. 2013 Jul 1;119(13):2419-26. doi: 10.1002/cncr.27993. Epub 2013 Apr 10.
+
+Modifiable risk behaviors in patients with head and neck cancer.
+
+Sivasithamparam J(1), Visk CA, Cohen EE, King AC.
+
+Author information: 
+(1)Department of Psychiatry and Behavioral Neuroscience, University of Chicago,
+Chicago, Illinois 60637, USA.
+
+BACKGROUND: Use of tobacco products, excessive alcohol consumption, and high-risk
+sexual behaviors increase the risk of developing head and neck cancer and impacts
+treatment effectiveness after diagnosis. This study examined smoking and
+engagement in other modifiable behavioral risk factors and human papillomavirus
+(HPV) status in patients with head and neck cancer in order to facilitate
+identification and foster development of targeted interventions in high-risk
+patients.
+METHODS: Participants were 102 patients with head and neck cancer at a large
+urban cancer center who completed a self-report background and health
+questionnaire and provided a saliva sample for determination of the long-acting
+nicotine metabolite cotinine.
+RESULTS: Compared with former and never-smokers, current smokers were less
+educated, less likely to be married or living with a partner, and consumed more
+alcohol. Cotinine analysis indicated that 4 of 16 (25%) patients who denied
+past-month cigarette use misrepresented their true smoking status. Of patients
+with oropharyngeal cancer, 74% were confirmed as HPV-positive, and compared with 
+HPV-negative patients, they were younger, more likely to be married/partnered and
+of Caucasian race, and reported more past vaginal and oral sexual partners. Only 
+one-third of HPV-positive patients were aware of their HPV disease status.
+CONCLUSIONS: Cigarette smoking is associated with engagement in other modifiable 
+risk factors in patients with head and neck cancer. Self-report measures of
+smoking may not accurately depict true smoking status. HPV-positive cancer
+patients were more likely to endorse a history of multiple sexual partners.
+Regular screening and targeted interventions for these distinct risk factors are 
+warranted.
+
+Copyright © 2013 American Cancer Society.
+
+DOI: 10.1002/cncr.27993 
+PMCID: PMC3687000
+PMID: 23575663  [Indexed for MEDLINE]

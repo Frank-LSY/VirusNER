@@ -1,0 +1,52 @@
+
+
+1696. Mol Cancer Ther. 2017 Sep;16(9):1922-1933. doi: 10.1158/1535-7163.MCT-17-0071.
+Epub 2017 May 18.
+
+Herpes Simplex Virus Glycoprotein D Targets a Specific Dendritic Cell Subset and 
+Improves the Performance of Vaccines to Human Papillomavirus-Associated Tumors.
+
+Porchia BFMM(1), Moreno ACR(1), Ramos RN(2), Diniz MO(1), de Andrade LHTM(1),
+Rosa DS(3), Barbuto JAM(2), Boscardin SB(4), Ferreira LCS(5).
+
+Author information: 
+(1)Department of Microbiology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil.
+(2)Department of Immunology, Institute of Biomedical Sciences, University of São 
+Paulo, São Paulo, Brazil.
+(3)Department of Microbiology, Immunology and Parasitology, Federal University of
+São Paulo-UNIFESP, São Paulo, Brazil.
+(4)Department of Parasitology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil.
+(5)Department of Microbiology, Institute of Biomedical Sciences, University of
+São Paulo, São Paulo, Brazil. lcsf@usp.br.
+
+Cervical cancer is a major public health problem and one of the leading causes of
+cancer deaths in women. Virtually all cases of cervical cancer, as well as a
+growing share of anal and head/neck tumors, are associated with human
+papillomavirus (HPV) infection. Despite the effectiveness, the available
+prophylactic vaccines do not benefit women with cervical lesions or cancer.
+Therefore, the search of new immunotherapeutic approaches to treat HPV-induced
+tumors is still a priority. The present study characterizes a therapeutic
+antitumor vaccine based on the genetic fusion of the Herpes simplex virus-1
+(HSV-1) glycoprotein D (gD) with the E7 oncoprotein from HPV-16 (gDE7). Two
+subcutaneous doses of gDE7, admixed with poly (I:C), conferred complete and
+long-lasting therapeutic antitumor protection on mice previously challenged with 
+tumor cells expressing the HPV-16 oncoproteins. The vaccine induced
+multifunctional E7-specific CD8+ T cells with cytotoxic activity and effector
+memory phenotype (CD44+ CD62Llow). In addition, gDE7 admixed with poly (I:C)
+vaccination controlled the expansion of tumor-induced regulatory T cells and
+myeloid-derived suppressor cells. More importantly, gDE7 activated mouse CD11c+
+CD8α+ and human BDCA3+ dendritic cells (DC), specialized in antigen
+cross-presentation to CD8+ T cells, under in vitro conditions. These results
+indicated that the activation of a specific DC population, mediated by gD,
+improved the antigen-specific immune responses and the therapeutic performance
+induced by antitumor vaccines. These results open perspectives for the clinical
+testing of gDE7-based vaccines under the concept of active immunization as a tool
+for the therapeutic control of cancer. Mol Cancer Ther; 16(9); 1922-33. ©2017
+AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/1535-7163.MCT-17-0071 
+PMID: 28522585  [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+
+
+7. MBio. 2016 Feb 9;7(1):e02025-15. doi: 10.1128/mBio.02025-15.
+
+Host RNA Packaging by Retroviruses: A Newly Synthesized Story.
+
+Eckwahl MJ(1), Telesnitsky A(2), Wolin SL(3).
+
+Author information: 
+(1)Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut,
+USA.
+(2)Department of Microbiology and Immunology, University of Michigan, Ann Arbor, 
+Michigan, USA.
+(3)Department of Cell Biology, Yale School of Medicine, New Haven, Connecticut,
+USA Department of Molecular Biophysics and Biochemistry, Yale School of Medicine,
+New Haven, Connecticut, USA sandra.wolin@yale.edu.
+
+A fascinating aspect of retroviruses is their tendency to nonrandomly incorporate
+host cell RNAs into virions. In addition to the specific tRNAs that prime reverse
+transcription, all examined retroviruses selectively package multiple host cell
+noncoding RNAs (ncRNAs). Many of these ncRNAs appear to be encapsidated shortly
+after synthesis, before assembling with their normal protein partners.
+Remarkably, although some packaged ncRNAs, such as pre-tRNAs and the spliceosomal
+U6 small nuclear RNA (snRNA), were believed to reside exclusively within
+mammalian nuclei, it was demonstrated recently that the model retrovirus murine
+leukemia virus (MLV) packages these ncRNAs from a novel pathway in which unneeded
+nascent ncRNAs are exported to the cytoplasm for degradation. The finding that
+retroviruses package forms of ncRNAs that are rare in cells suggests several
+hypotheses for how these RNAs could assist retrovirus assembly and infectivity.
+Moreover, recent experiments in several laboratories have identified additional
+ways in which cellular ncRNAs may contribute to the retrovirus life cycle. This
+review focuses on the ncRNAs that are packaged by retroviruses and the ways in
+which both encapsidated ncRNAs and other cellular ncRNAs may contribute to
+retrovirus replication.
+
+Copyright © 2016 Eckwahl et al.
+
+DOI: 10.1128/mBio.02025-15 
+PMCID: PMC4752605
+PMID: 26861021  [Indexed for MEDLINE]

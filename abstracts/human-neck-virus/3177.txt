@@ -1,0 +1,66 @@
+
+
+3177. J Bone Miner Res. 2016 Sep;31(9):1774-82. doi: 10.1002/jbmr.2842. Epub 2016 May
+9.
+
+Idiopathic Acquired Osteosclerosis in a Middle-Aged Woman With Systemic Lupus
+Erythematosus.
+
+Guañabens N(1), Mumm S(2)(3), Gifre L(1), Ruiz-Gaspà S(1), Demertzis JL(4),
+Stolina M(5), Novack DV(2)(6), Whyte MP(2)(3).
+
+Author information: 
+(1)Metabolic Bone Diseases Unit, Department of Rheumatology, Hospital Clinic,
+CIBERehd, IDIBAPS, University of Barcelona, Barcelona, Spain.
+(2)Division of Bone and Mineral Diseases, Department of Internal Medicine,
+Washington University School of Medicine at Barnes-Jewish Hospital, St. Louis,
+MO, USA.
+(3)Center for Metabolic Bone Disease and Molecular Research, Shriners Hospital
+for Children, St. Louis, MO, USA.
+(4)Musculoskeletal Disease Section, Mallinckrodt Institute of Radiology at
+Barnes-Jewish Hospital, St. Louis, MO, USA.
+(5)Department of Metabolic Disorders, Amgen Inc., Thousand Oaks, CA, USA.
+(6)Department of Pathology, Washington University School of Medicine at
+Barnes-Jewish Hospital, St. Louis, MO, USA.
+
+Widely distributed osteosclerosis is an unusual radiographic finding with
+multiple causes. A 42-year-old premenopausal Spanish woman gradually acquired
+dense bone diffusely affecting her axial skeleton and focally affecting her
+proximal long bones. Systemic lupus erythematosus (SLE) diagnosed in adolescence 
+had been well controlled. She had not fractured or received antiresorptive
+therapy, and she was hepatitis C virus antibody negative. Family members had low 
+bone mass. Lumbar spine bone mineral density (BMD) measured by dual-photon
+absorptiometry (DPA) at age 17 years, while receiving glucocorticoids, was 79%
+the average value of age-matched controls. From ages 30 to 37 years, dual-energy 
+X-ray absorptiometry (DXA) BMD Z-scores steadily increased in her lumbar spine
+from +3.8 to +7.9, and in her femoral neck from -1.4 to -0.7. Serum calcium and
+phosphorus levels were consistently normal, 25-hydroxyvitamin D (25OHD)
+<20 ng/mL, and parathyroid hormone (PTH) sometimes slightly increased. Her
+reduced estimated glomerular filtration rate (eGFR) was 38 to 55 mL/min.
+Hypocalciuria likely reflected positive mineral balance. During increasing BMD,
+turnover markers (serum bone-specific alkaline phosphatase [ALP], procollagen
+type 1 N propeptide [P1NP], osteocalcin [OCN], and carboxy-terminal cross-linking
+telopeptide of type 1 collagen [CTx], and urinary amino-terminal cross-linking
+telopeptide of type 1 collagen [NTx and CTx]) were 1.6- to 2.8-fold above the
+reference limits. Those of bone formation seemed increased more than those of
+resorption. FGF-23 was slightly elevated, perhaps from kidney disease. Serum
+osteoprotegerin (OPG) and TGFβ1 levels were normal, but sclerostin (SOST) and
+receptor activator of nuclear factor kappa-B ligand (RANKL) were elevated. Serum 
+multiplex biomarker profiling confirmed a high level of SOST and RANKL, whereas
+Dickkopf-1 (DKK-1) seemed low. Matrix metalloproteinases-3 (MMP-3) and -7 (MMP-7)
+were elevated. Iliac crest biopsy revealed tetracycline labels, no distinction
+between thick trabeculae and cortical bone, absence of peritrabecular fibrosis,
+few osteoclasts, and no mastocytosis. Then, for the past 3 years, BMD Z-scores
+steadily decreased. Skeletal fluorosis, mastocytosis, myelofibrosis, hepatitis
+C-associated osteosclerosis, multiple myeloma, and aberrant phosphate homeostasis
+did not explain her osteosclerosis. Mutation analysis of the LRP5, LRP4, SOST,
+and osteopetrosis genes was negative. Microarray showed no notable copy number
+variation. Perhaps her osteosclerosis reflected an interval of
+autoimmune-mediated resistance to SOST and/or RANKL. © 2016 American Society for 
+Bone and Mineral Research.
+
+© 2016 American Society for Bone and Mineral Research.
+
+DOI: 10.1002/jbmr.2842 
+PMCID: PMC5010446
+PMID: 27005479  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+1835. Mod Pathol. 2011 Oct;24(10):1295-305. doi: 10.1038/modpathol.2011.91. Epub 2011
+May 13.
+
+A comparison of clinically utilized human papillomavirus detection methods in
+head and neck cancer.
+
+Schlecht NF(1), Brandwein-Gensler M, Nuovo GJ, Li M, Dunne A, Kawachi N, Smith
+RV, Burk RD, Prystowsky MB.
+
+Author information: 
+(1)Department of Epidemiology and Population Health, Albert Einstein College of
+Medicine, Bronx, NY, USA. nicolas.schlecht@einstein.yu.edu
+
+Detection of human papillomavirus (HPV) in head and neck cancer has therapeutic
+implications. In situ hybridization and immunohistochemistry for p16 are used by 
+surgical pathologists. We compared the sensitivity and specificity of three
+popular commercial tests for HPV detection in head and neck squamous cell
+carcinomas with a 'gold standard' HPV PCR assay. A total of 110 prospectively
+collected, formalin-fixed tumor specimens were compiled onto tissue microarrays
+and tested for HPV DNA by in situ hybridization with two probe sets, a
+biotinylated probe for high-risk (HR) HPV types 16/18 (Dako, CA, USA) and a probe
+cocktail for 16/18, plus 10 additional HR types (Ventana, AZ, USA). The p16(INK4)
+expression was also assessed using a Pharmingen immunohistochemistry antibody (BD
+Biosciences, CA, USA). Tissue microarrays were stained and scored at expert
+laboratories. HPV DNA was detected by MY09/11-PCR, using Gold AmpliTaq and
+dot-blot hybridization on matched-fresh frozen specimens in a research
+laboratory. HPV 16 E6 and E7-RNA expression was also measured using RT-PCR. Test 
+performance was assessed by a receiver operating characteristic analysis. HR-HPV 
+DNA types 16, 18 and 35 were detected by MY-PCR in 28% of tumors, with the
+majority (97%) testing positive for type 16. Compared with MY-PCR, the
+sensitivity and specificity for HR-HPV DNA detection with Dako in situ
+hybridization was 21% (95% confidence interval (CI): 7-42) and 100% (95% CI:
+93-100), respectively. Corresponding test results by Ventana in situ
+hybridization were 59% (95% CI: 39-78) and 58% (95% CI: 45-71), respectively. The
+p16 immunohistochemistry performed better overall than Dako (P=0.042) and Ventana
+(P=0.055), with a sensitivity of 52% (95% CI: 32-71) and specificity of 93% (95% 
+CI: 84-98). Compared with a gold standard HPV-PCR assay, HPV detection by in situ
+hybridization was less accurate for head and neck squamous cell carcinoma on
+tissue microarrays than p16 immunohistochemistry. Further testing is warranted
+before these assays should be recommended for clinical HPV detection.
+
+DOI: 10.1038/modpathol.2011.91 
+PMCID: PMC3157570
+PMID: 21572401  [Indexed for MEDLINE]

@@ -1,0 +1,44 @@
+
+
+3052. Clin Otolaryngol. 2009 Aug;34(4):322-7. doi: 10.1111/j.1749-4486.2009.01952.x.
+
+A retrospective cohort study of nasopharyngeal adenocarcinoma: a rare
+histological type of nasopharyngeal cancer.
+
+Guo ZM(1), Liu WW, He JH.
+
+Author information: 
+(1)Department of Head and Neck Surgery, Cancer Center of Sun Yat-Sen University, 
+Guangzhou, China.
+
+OBJECTIVES: The purpose of this study was to investigate the clinical
+manifestations, Epstein-Barr virus (EBV) serology, and treatment outcome of
+patients with nasopharyngeal adenocarcinoma (NPAC).
+DESIGN: A retrospective study of clinical data from consecutive patients with
+NPAC identified between 1964 and 2000.
+SETTING: A tertiary cancer center in China.
+PARTICIPANTS: Forty-eight patients diagnosed with NPAC.
+MAIN OUTCOME MEASURES: Crosstabs and chi-square test were conducted to study the 
+association of positive VCA-IgA levels among different pathological types of
+NPAC, and also to compare the proportions of local control rates in patients
+treated with different modalities. The survival rate was calculated using the
+Kaplan-Meier method, and the Log Rank test was used to compare the survival rates
+considering different factors. To balance the distribution bias, a multivariate
+COX model survival analysis was also performed.
+RESULTS: Of the 48 NPAC patients identified, 45% presented with cervical
+metastasis. Pathologically, 58% of NPAC cases were common type and 42% were
+salivary gland type. The positive rate for the EBV antibody VCA-IgA in all
+patients was 53% and only 24% in the salivary gland type of NPAC. The overall
+local control rate and the 5-year disease-free survival rates were 87% and 65%
+respectively. Patients treated with surgery plus radiotherapy (RT) had a
+significantly higher 5-year disease-free survival rate than patients receiving RT
+alone (89%versus 75% respectively) (P = 0.039). Multivariate analysis confirmed
+that treatment modality was the significant factor influencing patient survival
+(P = 0.027) and the pathological type was not a factor predicting survival.
+CONCLUSIONS: Nasopharyngeal adenocarcinoma is a distinct entity in all types of
+nasopharyngeal carcinoma and EBV serology has limited value in its diagnosis. The
+combination of surgery and RT should be considered for treatment of early lesions
+of NPAC.
+
+DOI: 10.1111/j.1749-4486.2009.01952.x 
+PMID: 19673979  [Indexed for MEDLINE]

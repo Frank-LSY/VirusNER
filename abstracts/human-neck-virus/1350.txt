@@ -1,0 +1,49 @@
+
+
+1350. JCI Insight. 2016 Oct 20;1(17):e89829.
+
+The head and neck cancer immune landscape and its immunotherapeutic implications.
+
+Mandal R(1), Şenbabaoğlu Y(2), Desrichard A(3), Havel JJ(3), Dalin MG(3), Riaz
+N(4), Lee KW(3), Ganly I(5), Hakimi AA(6), Chan TA(7), Morris LG(1).
+
+Author information: 
+(1)Human Oncology and Pathogenesis Program,; Head and Neck Service, Department of
+Surgery,; Immunogenomics and Precision Oncology Platform.
+(2)Ludwig Collaborative/Swim Across America Laboratory, Immunology Program and
+Department of Medicine.
+(3)Human Oncology and Pathogenesis Program,; Immunogenomics and Precision
+Oncology Platform.
+(4)Immunogenomics and Precision Oncology Platform,; Department of Radiation
+Oncology.
+(5)Head and Neck Service, Department of Surgery.
+(6)Urology Service, Department of Surgery, Memorial Sloan Kettering Cancer
+Center, New York, New York, USA.
+(7)Human Oncology and Pathogenesis Program,; Immunogenomics and Precision
+Oncology Platform,; Department of Radiation Oncology.
+
+Recent clinical trials have demonstrated a clear survival advantage in advanced
+head and neck squamous cell carcinoma (HNSCC) patients treated with immune
+checkpoint blockade. These emerging results reveal that HNSCC is one of the most 
+promising frontiers for immunotherapy research. However, further progress in head
+and neck immuno-oncology will require a detailed understanding of the immune
+infiltrative landscape found in these tumors. We leveraged transcriptome data
+from 280 tumors profiled by The Cancer Genome Atlas (TCGA) to comprehensively
+characterize the immune landscape of HNSCC in order to develop a rationale for
+immunotherapeutic strategies in HNSCC and guide clinical investigation. We find
+that both HPV+ and HPV- HNSCC tumors are among the most highly immune-infiltrated
+cancer types. Strikingly, HNSCC had the highest median Treg/CD8+ T cell ratio and
+the highest levels of CD56dim NK cell infiltration, in our pan-cancer analysis of
+the most immune-infiltrated tumors. CD8+ T cell infiltration and CD56dim NK cell 
+infiltration each correlated with superior survival in HNSCC. Tumors harboring
+genetic smoking signatures had lower immune infiltration and were associated with
+poorer survival, suggesting these patients may benefit from immune agonist
+therapy. These findings illuminate the immune landscape of HPV+ and HPV- HNSCC.
+Additionally, this landscape provides a potentially novel rationale for
+investigation of agents targeting modulators of Tregs (e.g., CTLA-4, GITR, ICOS, 
+IDO, and VEGFA) and NK cells (e.g., KIR, TIGIT, and 4-1BB) as adjuncts to
+anti-PD-1 in the treatment of advanced HNSCC.
+
+DOI: 10.1172/jci.insight.89829 
+PMCID: PMC5070962
+PMID: 27777979  [Indexed for MEDLINE]

@@ -1,0 +1,32 @@
+
+
+19. Annu Rev Virol. 2017 Sep 29;4(1):261-285. doi:
+10.1146/annurev-virology-101416-041646. Epub 2017 Jul 17.
+
+The Molecular Basis for Human Immunodeficiency Virus Latency.
+
+Mbonye U(1), Karn J(1).
+
+Author information: 
+(1)Department of Molecular Biology and Microbiology, Case Western Reserve
+University School of Medicine, Cleveland, Ohio 44106; email:
+jonathan.karn@case.edu.
+
+Although potent combination antiretroviral therapy can effectively block viral
+replication in the host, human immunodeficiency virus (HIV) persists due to the
+existence of latent but replication-competent proviruses residing primarily in a 
+very small population of resting memory CD4+ T cells. Viral latency is
+established when the expression of the autoregulatory viral trans-activating
+factor Tat is reduced to subthreshold levels. The absence of Tat reduces HIV
+transcription and protein production to levels that make the host cell invisible 
+to the immune system and refractory to antiretroviral treatment. Key host cell
+mechanisms that drive HIV into latency are sequestration of transcription
+initiation factors, establishment of epigenetic barriers inactivating the
+proviral promoter, and blockage of the assembly of the host elongation factor
+P-TEFb. This comprehensive understanding of the molecular control of HIV
+transcription is leading to the development of optimized combinatorial
+reactivation and immune surveillance strategies designed to purge the latent
+viral reservoir.
+
+DOI: 10.1146/annurev-virology-101416-041646 
+PMID: 28715973  [Indexed for MEDLINE]

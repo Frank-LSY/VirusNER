@@ -1,0 +1,46 @@
+
+
+1081. Int J Radiat Oncol Biol Phys. 2014 May 1;89(1):38-48. doi:
+10.1016/j.ijrobp.2013.09.034.
+
+Genetic susceptibility to head and neck squamous cell carcinoma.
+
+Lacko M(1), Braakhuis BJ(2), Sturgis EM(3), Boedeker CC(4), Suárez C(5), Rinaldo 
+A(6), Ferlito A(6), Takes RP(7).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Maastricht University
+Medical Center, Maastricht, The Netherlands.
+(2)Department of Otolaryngology-Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands.
+(3)Department of Head and Neck Surgery and Department of Epidemiology, The
+University of Texas MD Anderson Cancer Center, Houston, Texas.
+(4)Department of Otorhinolaryngology-Head and Neck Surgery,
+Albert-Ludwigs-University, Freiburg, Germany and Department of
+Otorhinolaryngology - Head and Neck Surgery, HELIOS Hanseklinikum Stralsund,
+Stralsund, Germany.
+(5)Department of Otolaryngology, Hospital Universitario Central de Asturias,
+Oviedo, Spain; Instituto Universitario de Oncología del Principado de Asturias,
+Oviedo, Spain.
+(6)ENT Clinic, University of Udine, Udine, Italy.
+(7)Department of Otolaryngology-Head and Neck Surgery, Radboud University
+Nijmegen Medical Center, Nijmegen, The Netherlands. Electronic address:
+robert.takes@radboudumc.nl.
+
+Head-and-neck squamous cell carcinoma (HNSCC) is the sixth most common cancer
+worldwide, and its incidence is growing. Although environmental carcinogens and
+carcinogenic viruses are the main etiologic factors, genetic predisposition
+obviously plays a risk-modulating role, given that not all individuals exposed to
+these carcinogens experience the disease. This review highlights some aspects of 
+genetic susceptibility to HNSCC: among others, genetic polymorphisms in
+biotransformation enzymes, DNA repair pathway, apoptotic pathway, human
+papillomavirus-related pathways, mitochondrial polymorphisms, and polymorphism
+related to the bilirubin-metabolized pathway. Furthermore, epigenetic variations,
+familial forms of HNSCC, functional assays for HNSCC risk assessment, and the
+implications and perspectives of research on genetic susceptibility in HNSCC are 
+discussed.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2013.09.034 
+PMID: 24725688  [Indexed for MEDLINE]

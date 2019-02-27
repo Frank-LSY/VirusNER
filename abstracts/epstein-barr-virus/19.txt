@@ -1,0 +1,36 @@
+
+
+19. J Med Microbiol. 2016 Nov;65(11):1243-1252. doi: 10.1099/jmm.0.000352. Epub 2016 
+Sep 12.
+
+Analysis of Epstein-Barr virus and cellular gene expression during the early
+phases of Epstein-Barr virus lytic induction.
+
+Auburn H(1), Zuckerman M(1), Smith M(1).
+
+Author information: 
+(1)1​Department of Virology, South London Specialist Virology Centre, King's
+College NHS Foundation Trust, Denmark Hill, London SE5 9RS, UK.
+
+In order to develop novel host/pathogen real-time PCR assays for routine
+diagnostic use, early gene expression patterns from both Epstein-Barr virus (EBV)
+and Raji cells were examined after inducing the lytic life cycle using
+12-O-tetradecanoyl-13-phorbol ester and sodium butyrate. Real-time PCR identified
+several highly induced (>90-fold) EBV lytic genes over a 48 h time course during 
+the lytic induction phase. Latent genes were induced at low levels during this
+phase. The cellular response to lytic viral replication is poorly understood.
+Whole human genome microarray analysis identified 113 cellular genes regulated
+twofold or more by EBV, including 63 upregulated and 46 downregulated genes, over
+a 24 h time course post-induction. The most upregulated gene was CHI3L1, a
+chitinase-3-like 1 protein (18.1-fold; P<0.0084), and the most downregulated gene
+was TYMS, a thymidylate synthetase (-7.6-fold). Gene Ontology enrichment analysis
+using MetaCore software revealed cell cycle (core), cell cycle (role of
+anaphase-promoting complex) in cell cycle regulation) and lymphatic diseases as
+the most significantly represented biological network processes, canonical
+pathways and disease biomarkers, respectively. Chemotaxis, DNA damage and
+inflammation (IL-4 signalling) together with lymphoproliferative disorders and
+non-Hodgkin's lymphoma were significantly represented biological processes and
+disease biomarkers.
+
+DOI: 10.1099/jmm.0.000352 
+PMID: 27625030  [Indexed for MEDLINE]

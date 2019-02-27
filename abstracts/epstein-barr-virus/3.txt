@@ -1,0 +1,32 @@
+
+
+3. Viruses. 2017 Nov 16;9(11). pii: E341. doi: 10.3390/v9110341.
+
+Epstein-Barr Virus Hijacks DNA Damage Response Transducers to Orchestrate Its
+Life Cycle.
+
+Hau PM(1), Tsao SW(2).
+
+Author information: 
+(1)Department of Anatomical and Cellular Pathology, Faculty of Medicine, The
+Chinese University of Hong Kong, Hong Kong, China. tomhau@cuhk.edu.hk.
+(2)School of Biomedical Science, Li Ka Shing Faculty of Medicine, The University 
+of Hong Kong, Hong Kong, China. gswtsao@hku.hk.
+
+The Epstein-Barr virus (EBV) is a ubiquitous virus that infects most of the human
+population. EBV infection is associated with multiple human cancers, including
+Burkitt's lymphoma, Hodgkin's lymphoma, a subset of gastric carcinomas, and
+almost all undifferentiated non-keratinizing nasopharyngeal carcinoma. Intensive 
+research has shown that EBV triggers a DNA damage response (DDR) during primary
+infection and lytic reactivation. The EBV-encoded viral proteins have been
+implicated in deregulating the DDR signaling pathways. The consequences of DDR
+inactivation lead to genomic instability and promote cellular transformation.
+This review summarizes the current understanding of the relationship between EBV 
+infection and the DDR transducers, including ATM (ataxia telangiectasia mutated),
+ATR (ATM and Rad3-related), and DNA-PK (DNA-dependent protein kinase), and
+discusses how EBV manipulates the DDR signaling pathways to complete the
+replication process of viral DNA during lytic reactivation.
+
+DOI: 10.3390/v9110341 
+PMCID: PMC5707548
+PMID: 29144413  [Indexed for MEDLINE]

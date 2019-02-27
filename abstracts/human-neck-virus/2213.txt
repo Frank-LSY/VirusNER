@@ -1,0 +1,58 @@
+
+
+2213. Ann Surg Oncol. 2015 Dec;22(13):4411-21. doi: 10.1245/s10434-015-4525-0. Epub
+2015 Mar 24.
+
+Detailed Analysis of Clinicopathologic Factors Demonstrate Distinct Difference in
+Outcome and Prognostic Factors Between Surgically Treated HPV-Positive and
+Negative Oropharyngeal Cancer.
+
+Iyer NG(1)(2), Dogan S(3), Palmer F(4), Rahmati R(5), Nixon IJ(4), Lee N(6),
+Patel SG(4), Shah JP(4), Ganly I(4).
+
+Author information: 
+(1)Department of Head and Neck Surgery, Memorial Sloan Kettering Cancer Center,
+New York, NY, USA. ganlyi@mskcc.org.
+(2)Singhealth/Duke-NUS Head and Neck Centre, National Cancer Centre, Singapore,
+Singapore. ganlyi@mskcc.org.
+(3)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY,
+USA.
+(4)Department of Head and Neck Surgery, Memorial Sloan Kettering Cancer Center,
+New York, NY, USA.
+(5)Department of Otolaryngology-Head and Neck Surgery, Columbia University
+Medical Center, New York, NY, USA.
+(6)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+
+BACKGROUND: Oropharyngeal cancers (OPC) secondary to human papillomavirus (HPV)
+infections likely represent a completely different disease compared with
+conventional head and neck cancers. Our objective was to analyze a surgically
+treated cohort to determine predictors of outcome in HPV-positive versus
+HPV-negative patients.
+METHODS: HPV positivity was inferred based on p16-immunohistochemistry. Data was 
+available for 201 patients with OPC treated with surgical resection with/without 
+adjuvant radiotherapy between 1985 and 2005. Subsite distribution was: 66 (33 %) 
+tonsil, 46 (23 %) soft palate, and 89 (44 %) tongue base. Patients were
+classified into low-, intermediate-, and high-risk groups based on p16 status and
+smoking history. Outcomes stratified by p16 status and risk groups were
+determined by the Kaplan-Meier method. Factors predictive of outcome were
+determined by univariate and multivariate analyses.
+RESULTS: In this cohort, 30 % had locally advanced disease (pT3/T4) and 71 % had 
+nodal metastasis. The 5-year overall (OS), disease-specific, and recurrence-free 
+survival rates were 60, 76, and 66 %, respectively. There were 22 % low-, 34 %
+intermediate-, and 44 % high-risk patients. Patients who were p16-positive had
+better survival compared with p16-negative (OS, 74 vs. 44 %; p < .001).
+Similarly, low-risk group patients had a better survival compared with
+intermediate- and high-risk groups (OS, 76, 68, 45 %, respectively, p < .001).
+Independent predictors of survival in p16-negative patients included margin
+status, lymphovascular invasion, pN status, and extracapsular spread. In
+contrast, none of these were predictive in p16-positive patients.
+CONCLUSIONS: Surgically treated patients with p16-positive OPC have superior
+survival compared with p16-negative patients. Outcomes in p16-positive and
+p16-negative OPC are determined by different prognostic factors supporting the
+notion that these are very different diseases. These should be incorporated into 
+future clinical trials design.
+
+DOI: 10.1245/s10434-015-4525-0 
+PMCID: PMC4986601
+PMID: 25801358  [Indexed for MEDLINE]

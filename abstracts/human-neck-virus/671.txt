@@ -1,0 +1,45 @@
+
+
+671. Mutat Res Rev Mutat Res. 2017 Apr - Jun;772:51-66. doi:
+10.1016/j.mrrev.2016.06.005. Epub 2016 Jun 22.
+
+Clinical relevance and implications of HPV-induced neoplasia in different
+anatomical locations.
+
+Prigge ES(1), von Knebel Doeberitz M(1), Reuschenbach M(2).
+
+Author information: 
+(1)Department of Applied Tumor Biology, Institute of Pathology, University of
+Heidelberg, and Clinical Cooperation Unit Applied Tumor Biology, German Cancer
+Research Center (DKFZ), Heidelberg, Germany.
+(2)Department of Applied Tumor Biology, Institute of Pathology, University of
+Heidelberg, and Clinical Cooperation Unit Applied Tumor Biology, German Cancer
+Research Center (DKFZ), Heidelberg, Germany. Electronic address:
+miriam.reuschenbach@med.uni-heidelberg.de.
+
+Human papillomaviruses (HPV) are widespread DNA viruses that can infect
+epithelial cells of the skin and mucosa. Most HPV infections remain clinically
+unapparent and clear spontaneously. In few cases, however, HPV infections persist
+and can cause benign and malignant neoplasms at different anatomic locations.
+Malignant HPV-induced neoplasms are caused by distinct types of HPV (oncogenic or
+high-risk (HR) HPV types) and present in the anogenital (anus, penis, uterine
+cervix, vagina and vulva) and head and neck (particularly oropharynx) region. In 
+the anogenital region defined precancerous stages precede invasive cancer. In the
+head and neck region there is clear evidence only for the invasive stage of
+HPV-induced neoplasia. In early infection stages the HPV oncogenes (E6/E7) are
+under tight control in the basal and parabasal cell layers. In more advanced
+precancerous stages increased expression of the HPV oncogenes E6 and E7 occurs
+(transforming infection) that may result in transformation of these cells. The
+defined carcinogenesis in the anogenital tract enables cancer early detection,
+particularly at the uterine cervix where cytologic and molecular tests contribute
+to early diagnosis and treatment at a non-invasive stage. Up to now, the
+treatment of HPV-related precancerous stages (high-grade intraepithelial
+neoplasia) and cancer is not specifically targeting molecular characteristics of 
+the virus. This article reviews the current state and new developments in
+epidemiology, prevention, diagnosis and treatment of HPV-associated neoplasia in 
+various anatomic locations.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.mrrev.2016.06.005 
+PMID: 28528690  [Indexed for MEDLINE]

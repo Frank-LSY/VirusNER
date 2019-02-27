@@ -1,0 +1,45 @@
+
+
+845. J Voice. 2017 Jul;31(4):504.e35-504.e40. doi: 10.1016/j.jvoice.2016.11.012. Epub 
+2016 Dec 13.
+
+Human Papillomavirus Infection Status of Various Laryngeal Diseases in Japan: A
+Comprehensive Study.
+
+Matsuzaki H(1), Makiyama K(2), Suzuki H(2), Hirai R(2), Oshima T(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Nihon University Hospital,
+Tokyo, Japan. Electronic address: matuzaki.hiroumi@nihon-u.ac.jp.
+(2)Department of Otolaryngology-Head and Neck Surgery, Nihon University Hospital,
+Tokyo, Japan.
+
+OBJECTIVE: The aim of our study was to clarify the human papillomavirus (HPV)
+infection status of various laryngeal diseases in Tokyo, Japan.
+STUDY DESIGN: This is a retrospective study.
+METHODS: A total of 144 patients who underwent surgical resection for various
+laryngeal lesions were enrolled in this study. These subjects were categorized
+into four groups based on lesion type: non-neoplastic, 44; precancerous, 29;
+cancer, 35; and papilloma, 36. To determine the rate of HPV infection, laryngeal 
+secretions and resected tissue from our study participants were examined by
+liquid-phase hybridization (LPH) and consensus primer-directed polymerase chain
+reaction (PCR).
+RESULTS: The LPH for low-risk HPV was applied to all 144 patients, and that for
+high-risk HPV was additionally applied to 121 of the 144 patients. The PCR was
+applied to 94 of the 144 patients. The LPH detected low-risk HPV-DNA in 23
+patients (1 cancer and 22 papillomas) and high-risk HPV-DNA in 3 patients (1
+cancer and 2 papillomas). The PCR detected HPV-6 and HPV-11 in the papilloma
+group, whereas it detected HPV-31 in one patient with laryngeal cancer and one
+patient with precancerous lesion. Both the LPH and the PCR revealed the HPV
+infection rate in the non-neoplastic group to be 0%.
+CONCLUSIONS: Although we found no significant difference in the HPV-DNA positive 
+rates of laryngeal cancer and precancerous lesions in the non-neoplastic group,
+the positive rates were significantly smaller in this group than in the papilloma
+group. In the Tokyo area, HPV had little or no association with laryngeal cancer,
+precancerous lesions, and non-neoplastic lesions in the larynx.
+
+Copyright © 2017 The Voice Foundation. Published by Elsevier Inc. All rights
+reserved.
+
+DOI: 10.1016/j.jvoice.2016.11.012 
+PMID: 27986378  [Indexed for MEDLINE]

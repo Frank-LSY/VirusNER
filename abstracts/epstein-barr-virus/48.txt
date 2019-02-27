@@ -1,0 +1,36 @@
+
+
+48. Bull NYU Hosp Jt Dis. 2006;64(1-2):45-50.
+
+Epstein-Barr virus infection induces lupus autoimmunity.
+
+Harley JB(1), James JA.
+
+Author information: 
+(1)Departments of Medicineand Pathology, University of Oklahoma Health Sciences
+Center, Oklahoma City, Oklahoma, USA.
+
+Systemic lupus erythematosus (SLE or lupus) is a systemic autoimmune disease
+characterized by a constellation of varied clinical presentations, although the
+nearly universal presence of autoantibodies is a salient unifying feature.
+Ongoing research efforts focus on understanding the complex combination of
+genetic and environmental factors that lead to SLE in select individuals. Our
+previous work has demonstrated that years before diagnosis abnormal autoantibody 
+responses are present in the sera of patients who will subsequently develop lupus
+and, further, that the initial targets of two of these key responses (anti-Sm B' 
+and anti-60 kD Ro alone) have been identified for some patients. Indeed, our
+results suggest that the first lupus-specific autoantibodies arise from
+particular antibodies directed against Epstein-Barr virus Nuclear Antigen-1
+(EBNA-1) and that infection with Epstein-Barr virus (EBV) is an environmental
+risk factor for lupus. The predicted sequence of events is normal immunity,
+followed by Epstein- Barr virus infection, the generation of anti-EBNA-1
+antibodies, then followed by those particular anti-EBNA-1 antibodies that also
+bind lupus-specific autoantigens (Sm or Ro), followed by the development of more 
+complex autoimmune responses, and, finally, culminating in clinical disease.
+Studies from others and those underway suggest that lupus patients have unusual
+immune responses to Epstein-Barr virus. In aggregate, these results are
+consistent with an immune response against Epstein-Barr virus being important in 
+at least some patients for the initiation of lupus autoimmunity.
+
+
+PMID: 17121489  [Indexed for MEDLINE]

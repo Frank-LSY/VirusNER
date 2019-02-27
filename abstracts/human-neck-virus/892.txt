@@ -1,0 +1,41 @@
+
+
+892. Cancer. 2012 Aug 15;118(16):3882-92. doi: 10.1002/cncr.26718. Epub 2012 Jan 26.
+
+Exploring biomarkers in head and neck cancer.
+
+Langer CJ(1).
+
+Author information: 
+(1)Abramson Cancer Center, University of Pennsylvania, Philadelphia,
+Pennsylvania, USA. corey.langer@uphs.upenn.edu
+
+Erratum in
+    Cancer. 2012 Dec 1;118(23):6014.
+
+Personalized medicine based on predictive markers linked to drug response, it is 
+hoped, will lead to improvements in outcomes and avoidance of unnecessary
+treatment in squamous cell carcinoma of the head and neck (SCCHN). Recent
+research has shown that expression of ERCC1 may predict resistance to treatment
+with platinum agents. Future testing for this marker may help select the optimal 
+type of chemotherapy. Infection with human papillomavirus (HPV) is associated
+with less aggressive disease and better prognosis in locally advanced SCCHN
+treated with chemoradiation or radiation alone; HPV-positive patients may
+ultimately benefit from less intensive, less toxic therapy. K-RAS mutations,
+occurring in about 40% of colorectal cancers and associated with lack of benefit 
+from epidermal growth factor receptor (EGFR) antibodies in this disease, are
+found in <5% of SCCHN patients, making routine testing for K-RAS mutations
+unwarranted at this time. Virtually all head and neck tumors overexpress EGFR,
+which limits the usefulness of EGFR expression as a marker for treatment
+selection. Although the incidence of EGFR tyrosine kinase domain mutations is
+very rare, a better understanding of the role of EGFR mutations, expression,
+amplification, and downstream effects in SCCHN may help define the role of EGFR
+in this setting. These observations caution against extrapolating results
+obtained with biomarkers in other types of cancer to SCCHN. Validation of each
+biomarker in the context of SCCHN clinical trials will be required before a
+specific marker can be incorporated into daily practice.
+
+Copyright © 2012 American Cancer Society.
+
+DOI: 10.1002/cncr.26718 
+PMID: 22281752  [Indexed for MEDLINE]

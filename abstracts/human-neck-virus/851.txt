@@ -1,0 +1,37 @@
+
+
+851. Cancer Gene Ther. 2009 Mar;16(3):246-55. doi: 10.1038/cgt.2008.76. Epub 2008 Oct 
+10.
+
+Therapy of head and neck squamous cell carcinoma with replicative adenovirus
+expressing tissue inhibitor of metalloproteinase-2 and chemoradiation.
+
+McNally LR(1), Rosenthal EL, Zhang W, Buchsbaum DJ.
+
+Author information: 
+(1)Division of Radiation Biology, Department of Radiation Oncology, University of
+Alabama at Birmingham, Birmingham, AL 35294-6832, USA.
+
+Recent studies have demonstrated the efficacy of targeted therapy combined with
+radiotherapy in head and neck squamous cell carcinoma (HNSCC). We hypothesized
+that a combination treatment including a replicating adenovirus armed with tissue
+inhibitor of metalloproteinase-2 (TIMP-2), radiation and Cisplatin will augment
+treatment response and reduce tumor growth in vivo of HNSCC xenografts. Both
+single-agent (TIMP-2 virus, radiation and Cisplatin) and the combination
+therapies were evaluated in vitro and in vivo. The efficacy of both single-agent 
+and combination therapies in vivo was determined by monitoring tumor growth and
+immunohistochemistry. Treatment with replicative Ad-TIMP-2 virus and radiation
+decreased cell viability in vitro and resulted in an additional antiangiogenic
+response in vivo. Tumor response rates to treatment with replicative Ad-TIMP-2,
+radiation, Cisplatin or combination therapies ranged from limited inhibition of
+tumor growth of the single-agent therapy to a statistically significant additive 
+antitumor response with the combination therapies. Replicative
+Ad-TIMP-2+radiation+Cisplatin in the SCC1 nude mice demonstrated the greatest
+response rates in tumor growth and angiogenesis. Combination of Ad-TIMP-2 gene
+therapy with radiation and the triple treatment group resulted in an augmented
+therapeutic response. This is the first report of the potential benefits of
+combining radiation and MMP inhibitor treatment.
+
+DOI: 10.1038/cgt.2008.76 
+PMCID: PMC2713186
+PMID: 18846112  [Indexed for MEDLINE]

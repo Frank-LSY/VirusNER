@@ -1,0 +1,68 @@
+
+Conflict of interest statement: statement All authors declared no conflicts of
+interest.
+
+
+1659. J Biol Regul Homeost Agents. 2018 Jan-Feb;32(2 Suppl. 1):73-79.
+
+HPV acting on E-cadherin, p53 and p16: literature review.
+
+Ottria L(#)(1), Candotto V(#)(2), Cura F(3), Baggi L(4), Arcuri C(4), Nardone
+M(5), Gaudio RM(3), Gatto R(6), Spadari F(7), Carinci F(8).
+
+Author information: 
+(1)Dental School, Tor Vergata University, Rome, Italy.
+(2)Department of Biomedical, Surgical and Dental Sciences, University of Milan,
+Milan, Italy.
+(3)Department of Medical Sciences, University of Ferrara, Ferrara, Italy.
+(4)Department of Clinical Sciences and Translational Medicine, University of Tor 
+Vergata, Rome, Italy.
+(5)Ministry of Health, Rome, Italy.
+(6)Department of Life, Health and Environmental Sciences, School of Dentistry,
+University of LAquila, LAquila, Italy.
+(7)Department of Medicine and Surgery, University of Milano Bicocca, Monza,
+Italy.
+(8)Department of Morphology, Surgery and Experimental Medicine, University of
+Ferrara, Ferrara, Italy.
+(#)Contributed equally
+
+In addition to tobacco and alcohol consumption, the two main risk factors for
+oral squamous cell carcinoma (OSCC), recent studies have revealed infections with
+human papilloma virus (HPV) as an additional risk factor for OSCC development. In
+the field of head and neck malignancies, the prevalence of HPV infections in
+oropharyngeal cancer (OC) ranges in different studies up to 84%. While HPV
+infection is discussed as an independent risk factor in this region, its
+distinguished role in carcinogenesis of tumours localized to the oral cavity
+remains uncertain. A systematic literature search was performed using PubMed,
+Cochrane library, Science Direct, and the Internet search, with language
+restricted to English. The search included published studies which dealt with
+detection methods of HPV-related oral and oropharyngeal cancers and biomolecular 
+studies, particularly regarding the compromising of p53 p16 and e-cadherins. P53
+Tumour suppressor protein p53 has several functions that are related to
+maintaining genomic stability and inhibiting cell proliferation in response to
+DNA damage. For preventing neoplasia to occur, the most important of these
+functions are cessation of cell growth and induction of either apoptosis or
+senescence. P16 is a cellular protein involved in cell cycle regulation. It is a 
+cyclin-dependent kinase 4 (CDK4) inhibitor, and is integral to Rb mediated
+regulation of G1-S phase of the cell cycle. P16 is expressed at a very low level 
+in normal cell as Rb inhibits transcription of p16. Various detection methods
+ranging from immunohistochemistry (IHC) to molecular techniques have been used to
+determine the HPV status of HNSCC. E-cadherin, a 120 kDa Type I classical
+cadherin, is expressed primarily on epithelial cells. It is found on the surface 
+of keratinocytesand Langerhans cells (LC) and E-cadherin mediated adhesion
+between these cell types is required for LC retention in the epidermis. It is
+also an important tumour suppressor protein: its loss or inactivation is
+associated with epithelial-to-mesenchymal transition (EMT), a process involving
+dedifferentiation, infiltration and metastasis of tumours. Oral carcinogenesis is
+a multi-factorial process involving socioeconomic, environmental and microbial
+factors leading to multistep changes. Smoking and tobacco exposure seems to
+modify the survival and recurrence of HPV positive tumours and should be
+considered in future trials for risk stratification of HPV positive patients. HPV
+associated oropharynx cancer represents a distinct clinical and biologic entity
+with many unresolved issues that will be investigated in future translational,
+clinical research. We need to further explore and understand why the disease
+occurs predominantly in males, and whether the natural history of oral HPV
+infection differences in men and women.
+
+
+PMID: 29460521  [Indexed for MEDLINE]

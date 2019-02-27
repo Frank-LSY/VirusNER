@@ -1,0 +1,52 @@
+
+
+1895. PLoS One. 2017 Jul 7;12(7):e0180779. doi: 10.1371/journal.pone.0180779.
+eCollection 2017.
+
+Cystic nodal metastasis in patients with oropharyngeal squamous cell carcinoma
+receiving chemoradiotherapy: Relationship with human papillomavirus status and
+failure patterns.
+
+Huang YH(1), Yeh CH(2)(3), Cheng NM(2)(4), Lin CY(5), Wang HM(6), Ko SF(3), Toh
+CH(2)(3), Yen TC(2)(4), Liao CT(7), Ng SH(2)(3).
+
+Author information: 
+(1)Department of Radiology, Taipei Medical University, Shuang-Ho Hospital,
+Taipei, Taiwan.
+(2)Molecular Imaging Center, Chang Gung Memorial Hospital, Linkou, Taiwan.
+(3)Department of Diagnostic Radiology, Chang Gung Memorial Hospital, Chang Gung
+University, Kueishan, Taoyuan, Taiwan.
+(4)Department of Nuclear Medicine, Chang Gung Memorial Hospital, Chang Gung
+University, Kueishan, Taoyuan, Taiwan.
+(5)Department of Radiation Oncology, Chang Gung Memorial Hospital, Chang Gung
+University, Kueishan, Taoyuan, Taiwan.
+(6)Department of Medical Oncology, Chang Gung Memorial Hospital, Chang Gung
+University, Kueishan, Taoyuan, Taiwan.
+(7)Department of Otorhinolaryngology, Head and Neck Surgery, Chang Gung Memorial 
+Hospital, Chang Gung University, Kueishan, Taoyuan, Taiwan.
+
+OBJECTIVES: We investigated the relationships of cystic nodal metastasis, human
+papillomavirus (HPV) status, and treatment failure patterns in patients with
+oropharyngeal squamous cell carcinoma (OPSCC) treated with chemoradiotherapy.
+METHODS: We retrospectively reviewed pretreatment MRI and clinical courses of
+patients with OPSCC whose tumors were tested for HPV-induced p16 expression via
+immunohistochemistry and who completed chemoradiotherapy. Cervical cystic nodal
+metastasis and necrotic nodal metastasis were classified on MRI.
+RESULTS: Of 98 patients eligible for analysis, 33 were p16-positive. Cystic nodal
+metastasis was significantly more prevalent in p16-positive than in p16-negative 
+patients (39.4% versus 18.5%, respectively; p = 0.025). Necrotic nodal metastasis
+was significantly more prevalent in p16-negative than in p16-positive patients
+(73.8% versus 51.5%, respectively; p = 0.027). On multivariate analysis, necrotic
+nodal metastasis (odds ratio [OR] = 7.310, p = 0.011) was an independent
+predictor of regional failure, while advanced nodal stage (OR = 4.119, p = 0.022)
+and cystic nodal metastases (OR = 0.087, p = 0.026) were independent positive and
+negative predictors of distant failure, respectively.
+CONCLUSIONS: Cervical cystic and necrotic nodal metastases are associated with
+HPV-induced p16-positive and p16-negative OPSCC, respectively. Patients with
+necrotic nodal metastasis at presentation have an increased risk of regional
+failure. Distant failure is directly and inversely correlated with advanced nodal
+stage and cystic nodal metastasis, respectively.
+
+DOI: 10.1371/journal.pone.0180779 
+PMCID: PMC5501618
+PMID: 28686646  [Indexed for MEDLINE]

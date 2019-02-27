@@ -1,0 +1,55 @@
+
+
+937. Mol Cancer Res. 2018 Jan;16(1):90-102. doi: 10.1158/1541-7786.MCR-17-0153. Epub
+2017 Sep 19.
+
+HPV Integration in HNSCC Correlates with Survival Outcomes, Immune Response
+Signatures, and Candidate Drivers.
+
+Koneva LA(1), Zhang Y(1), Virani S(1)(2), Hall PB(1), McHugh JB(3), Chepeha
+DB(4), Wolf GT(4), Carey TE(4), Rozek LS(5)(4), Sartor MA(6).
+
+Author information: 
+(1)Department of Computational Medicine and Bioinformatics, University of
+Michigan, Ann Arbor, Michigan.
+(2)Department of Environmental Health Sciences, University of Michigan, Ann
+Arbor, Michigan.
+(3)Department of Pathology, University of Michigan, Ann Arbor, Michigan.
+(4)Department of Otolaryngology/Head and Neck Surgery, University of Michigan,
+Ann Arbor, Michigan.
+(5)Department of Environmental Health Sciences, University of Michigan, Ann
+Arbor, Michigan. sartorma@umich.edu rozekl@umich.edu.
+(6)Department of Computational Medicine and Bioinformatics, University of
+Michigan, Ann Arbor, Michigan. sartorma@umich.edu rozekl@umich.edu.
+
+The incidence of human papillomavirus (HPV)-related oropharynx cancer has
+steadily increased over the past two decades and now represents a majority of
+oropharyngeal cancer cases. Integration of the HPV genome into the host genome is
+a common event during carcinogenesis that has clinically relevant effects if the 
+viral early genes are transcribed. Understanding the impact of HPV integration on
+clinical outcomes of head and neck squamous cell carcinoma (HNSCC) is critical
+for implementing deescalated treatment approaches for HPV+ HNSCC patients. RNA
+sequencing (RNA-seq) data from HNSCC tumors (n = 84) were used to identify and
+characterize expressed integration events, which were overrepresented near known 
+head and neck, lung, and urogenital cancer genes. Five genes were recurrent,
+including CD274 (PD-L1) A significant number of genes detected to have
+integration events were found to interact with Tp63, ETS, and/or FOX1A. Patients 
+with no detected integration had better survival than integration-positive and
+HPV- patients. Furthermore, integration-negative tumors were characterized by
+strongly heightened signatures for immune cells, including CD4+, CD3+,
+regulatory, CD8+ T cells, NK cells, and B cells, compared with
+integration-positive tumors. Finally, genes with elevated expression in
+integration-negative specimens were strongly enriched with immune-related gene
+ontology terms, while upregulated genes in integration-positive tumors were
+enriched for keratinization, RNA metabolism, and translation.Implications: These 
+findings demonstrate the clinical relevancy of expressed HPV integration, which
+is characterized by a change in immune response and/or aberrant expression of the
+integration-harboring cancer-related genes, and suggest strong natural selection 
+for tumor cells with expressed integration events in key carcinogenic genes. Mol 
+Cancer Res; 16(1); 90-102. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/1541-7786.MCR-17-0153 
+PMCID: PMC5752568
+PMID: 28928286  [Indexed for MEDLINE]

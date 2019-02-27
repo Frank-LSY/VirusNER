@@ -1,0 +1,46 @@
+
+
+2285. Laryngoscope. 2018 Aug;128(8):1867-1873. doi: 10.1002/lary.27038. Epub 2017 Dec
+15.
+
+The diagnostic pathway of oropharyngeal squamous cell carcinoma in a large U.S.
+healthcare system.
+
+Gilde J(1), Song B(1), Masroor F(1), Darbinian JA(1), Ritterman Weintraub ML(1), 
+Salazar J(1), Yang E(1), Gurushanthaiah D(1), Wang KH(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Kaiser Permanente Oakland 
+Medical Center, Oakland, California, U.S.A.
+
+OBJECTIVE: To examine the current diagnostic pathway of oropharyngeal squamous
+cell carcinoma (OPSCC) and identify factors associated with time to diagnosis.
+METHODS: Retrospective cohort study of patients with OPSCC in an integrated
+healthcare system from January 1, 2013, to December 31, 2013. Patient
+demographics, tobacco and alcohol use, chief complaint, tumor stage, human
+papilloma virus (HPV) status, physician factors (diagnosis, antibiotic
+prescription, performance of endoscopic exam, biopsy), and time intervals were
+examined. Time variations by patient characteristics and physician practice were 
+assessed.
+RESULTS: We identified 152 patients with OPSCC. Of those, 90% had stage III to IV
+disease. The cohort was largely male (85%), white (79%), with HPV-positive tumors
+(84%). Most common chief complaints were neck mass (52%) and sore throat (20%).
+Among those with neck a mass, 94% had HPV-positive tumors. Prescription of
+antibiotics was associated with longer time to first otolaryngology evaluation.
+Median time from symptom onset to first primary care physician (PCP) contact was 
+3.0 weeks; from PCP to otolaryngologist was 1.1 weeks, and from otolaryngologist 
+to tissue diagnosis was 0.4 weeks. At the first otolaryngology visit, 82%
+underwent in-office flexible endoscopy and 58% had same-day biopsy, resulting in 
+rapid time to tissue diagnosis. Diagnostic time intervals did not differ by HPV
+status.
+CONCLUSION: The overall diagnostic process was efficient, although initial
+antibiotic treatment resulted in longer time to first otolaryngology visit. Tumor
+HPV status was associated with presenting findings but not time to diagnosis. The
+variation in diagnostic delay time and impact on survival outcomes is unknown and
+merits further investigation.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 1867-1873, 2018.
+
+© 2017 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.27038 
+PMID: 29243258  [Indexed for MEDLINE]

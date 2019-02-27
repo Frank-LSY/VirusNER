@@ -1,0 +1,30 @@
+
+
+2842. Trends Biochem Sci. 2011 Apr;36(4):199-210. doi: 10.1016/j.tibs.2010.09.004. Epub
+2010 Oct 26.
+
+Divergent pathways lead to ESCRT-III-catalyzed membrane fission.
+
+Peel S(1), Macheboeuf P, Martinelli N, Weissenhorn W.
+
+Author information: 
+(1)Department of Biochemistry, School of Medical Sciences, University Walk,
+University of Bristol, Bristol BS8 1TD, UK.
+
+Endosomal sorting complexes required for transport (ESCRT) have been implicated
+in topologically similar but diverse cellular and pathological processes
+including multivesicular body (MVB) biogenesis, cytokinesis and enveloped virus
+budding. Although receptor sorting at the endosomal membrane producing MVBs
+employs the regulated assembly of ESCRT-0 followed by ESCRT-I, -II, -III and the 
+vacuolar protein sorting (VPS)4 complex, other ESCRT-catalyzed processes require 
+only a subset of complexes which commonly includes ESCRT-III and VPS4. Recent
+progress has shed light on the pathway of ESCRT assembly and highlights the
+separation of tasks of different ESCRT complexes and associated partners. The
+emerging picture suggests that among all ESCRT-catalyzed processes, divergent
+pathways lead to ESCRT-III assembly within the neck of a budding structure
+catalyzing membrane fission.
+
+Copyright © 2010 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.tibs.2010.09.004 
+PMID: 21030261  [Indexed for MEDLINE]

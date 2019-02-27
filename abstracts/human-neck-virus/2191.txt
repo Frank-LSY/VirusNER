@@ -1,0 +1,35 @@
+
+
+2191. Acta Otolaryngol. 2016;136(1):87-94. doi: 10.3109/00016489.2015.1082192. Epub
+2015 Sep 18.
+
+High mobility group box 1 (HMGB1) is upregulated by the Epstein-Barr virus
+infection and promotes the proliferation of human nasopharyngeal carcinoma cells.
+
+Zhu X(1), Sun L(2), Wang Y(2).
+
+Author information: 
+(1)a Department of Otolaryngology, Head & Neck Surgery , China-Japan Union
+Hospital, Jilin University , Changchun , PR China and.
+(2)b Department of Otolaryngology, Head & Neck Surgery , First Hospital of Jilin 
+University , Changchun , PR China.
+
+CONCLUSION: The current study confirmed the significant high mobility group box 1
+(HMGB1) was promoted in human nasopharyngeal carcinoma (NPC) tissues by
+Epstein-Barr virus (EBV) infection, in association with the malignant status of
+NPC, and promoted the proliferation NPC cells RAGE-dependently.
+OBJECTIVES: The present study was to examine the association of HMGB1
+over-expression in human NPC with the EBV-positivity and to determine the
+regulatory role of HMGB1 on the proliferation of NPC cells in vitro.
+METHODS: Real-time PCR and Western blotting were utilized to examine the HMGB1
+expression. EBV infection in CNE-2 cells was performed to investigate the HMGB1
+promotion by EBV infection. RNA interference technology was utilized for the RAGE
+knockout.
+RESULTS: It was demonstrated that HMGB1 was significantly higher in both mRNA and
+protein levels in the EBV-positive NPC tissues, in marked association with the
+malignant status of NPC, and with the LMP1 DNA level in EBV-positive NPC samples.
+In addition, the MTT assay, growth curve, and the colony forming assay confirmed 
+the promotion by HMGB1 to the proliferation of CNE-2 cells, depending on RAGE.
+
+DOI: 10.3109/00016489.2015.1082192 
+PMID: 26382001  [Indexed for MEDLINE]

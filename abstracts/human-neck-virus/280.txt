@@ -1,0 +1,38 @@
+
+
+280. Acta Otolaryngol. 2017 Jul;137(7):773-777. doi: 10.1080/00016489.2016.1274426.
+Epub 2017 Jan 17.
+
+Usefulness of human papillomavirus detection in oral rinse as a biomarker of
+oropharyngeal cancer.
+
+Yoshida H(1), Murono S(1)(2), Ueno T(1), Nakanishi Y(1), Tsuji A(3), Hatano M(1),
+Endo K(1), Kondo S(1), Sugimoto H(1), Wakisaka N(1), Yoshizaki T(1).
+
+Author information: 
+(1)a Department of Otolaryngology-Head and Neck Surgery , Kanazawa University ,
+Kanazawa , Japan.
+(2)b Department of Otolaryngology , Fukushima Medical University , Fukushima ,
+Japan.
+(3)c Department of Otolaryngology , Toyama City Hospital , Toyama , Japan.
+
+CONCLUSION: The detection of human papillomavirus (HPV)-DNA in oral rinse with
+auto-nested GP5+/GP6 + PCR is useful as a biomarker of oropharyngeal cancer.
+BACKGROUND: This study aimed to determine the usefulness of oral rinse to detect 
+HPV-DNA as a biomarker of HPV-positive oropharyngeal cancer (OPC).
+PATIENTS AND METHODS: One hundred and ten patients with various head and neck
+diseases, including 19 patients with OPC, were enrolled. Oral rinse and tonsillar
+swab were collected, and auto-nested GP5+/GP6 + PCR for HPV-DNA was performed.
+For oropharyngeal cancer, p16 immunostaining was also conducted.
+RESULTS: The rate of HPV-DNA detection in both oral rinse and tonsillar swab was 
+significantly higher in OPC compared with non-OPC upper respiratory tract cancer 
+and non-cancer diseases. HPV-DNA was detected in oral rinse in nine out of 12
+p16-positive OPC cases, while none of the p16-negative OPC cases demonstrated
+detectable HPV-DNA. All p16-positive cases were also positive for HPV-DNA in
+tumor tissue. Based on p16 immunostaining, the sensitivity and specificity of
+HPV-DNA detection in oral rinse were 75% and 100%, respectively. Among eight of
+nine evaluable OPC cases positive for HPV-DNA in oral rinse at diagnosis, HPV-DNA
+was undetectable in oral rinse in seven cases after treatment.
+
+DOI: 10.1080/00016489.2016.1274426 
+PMID: 28093931  [Indexed for MEDLINE]

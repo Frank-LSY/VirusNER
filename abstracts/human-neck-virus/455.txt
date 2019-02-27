@@ -1,0 +1,37 @@
+
+
+455. Int J Cancer. 2012 Apr 15;130(8):1726-32. doi: 10.1002/ijc.26185. Epub 2011 Aug
+5.
+
+High-risk human papillomavirus in oral squamous cell carcinoma of young patients.
+
+Kaminagakura E(1), Villa LL, Andreoli MA, Sobrinho JS, Vartanian JG, Soares FA,
+Nishimoto IN, Rocha R, Kowalski LP.
+
+Author information: 
+(1)Department of Head and Neck Surgery and Otorhinolaryngology, A.C. Camargo
+Hospital, São Paulo, Brazil.
+
+The aim of this study was to investigate a possible relation between oral
+squamous cell carcinoma (SCC), the presence of high-risk human papillomavirus
+(HR-HPV) DNA and p16 expression in young patients. Paraffin-embedded tumor blocks
+from 47 oral SCC of young (≤40-year old) patients were evaluated. The presence of
+HPV DNA in tumor specimens was analyzed by polymerase chain reaction (PCR) using 
+GP5+/GP6+ generic primers (L1 region) followed by dot blot hybridization for HPV 
+typing. When necessary, the HPV16 positivity was confirmed by PCR HPV16
+E7-specific primers. Cases involving young patients were compared with 67 oral
+SCC from patients ≥50-year old (controls). Demographic and clinical data were
+collected to analyze patient outcomes. p16(ink4) expression was evaluated by
+immunostaining of tissue microarrays. HPV16 was detected in 22 (19.2%) cases; 15 
+(68.2%) young and 7 (31.8%) control patients, a statistically significant
+difference (p = 0.01). In 1 (1.7%) young group specimen, HPV DNA 16 and 18 was
+detected. p16 expression was observed in 11 (25.6%) cases from the young group
+and in 11 (19.6%) controls (p = 0.48). Association between HPV and p16 was
+verified, and it was statistically significant (p = 0.002). The higher prevalence
+of high-risk HPV types, especially HPV16, may be a contributing factor to oral
+carcinogenesis in younger individuals.
+
+Copyright © 2011 UICC.
+
+DOI: 10.1002/ijc.26185 
+PMID: 21618514  [Indexed for MEDLINE]

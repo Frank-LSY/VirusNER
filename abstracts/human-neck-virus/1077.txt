@@ -1,0 +1,35 @@
+
+
+1077. Head Neck. 2016 Apr;38 Suppl 1:E1301-4. doi: 10.1002/hed.24216. Epub 2015 Sep 23.
+
+Use of transoral nasopharyngeal brush biopsy for Epstein-Barr virus DNA detection
+of local recurrence of nasopharyngeal carcinoma after radiotherapy.
+
+Lam JW(1), Chan JY(1), Ho WK(1), Tsang RK(1).
+
+Author information: 
+(1)Division of Otorhinolaryngology - Head and Neck Surgery, Department of
+Surgery, The University of Hong Kong, Queen Mary Hospital, Hong Kong, China.
+
+BACKGROUND: The purpose of this study was to evaluate the use of transoral
+nasopharyngeal brush biopsies and quantitative polymerase chain reaction (qPCR)
+Epstein-Barr virus (EBV) DNA detection system in surveillance of local recurrence
+of nasopharyngeal carcinoma (NPC).
+METHODS: A prospective cohort study was performed to compare the nasopharyngeal
+epithelial EBV DNA levels of patients with recurrent NPC and the control group of
+postirradiated patients with NPC disease in remission.
+RESULTS: Fourteen patients with recurrent NPC and 15 postirradiated patients in
+disease remission were recruited for transoral brush biopsies. There was a
+statistically significant difference between the mean EBV detection level (EDL)
+of the recurrence group (EDL = 2.38) and the control group (EDL = 0.17;
+p < .0001). There was no significant correlation between the EDL and the
+recurrence of T classification disease.
+CONCLUSION: The transoral brush biopsy and qPCR EBV DNA detection system may
+provide an additional surveillance strategy for recurrence of NPC. Further study 
+is required to validate its sensitivity, specificity, and cost-effectiveness. ©
+2015 Wiley Periodicals, Inc. Head Neck 38: E1301-E1304, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24216 
+PMID: 26394721  [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+
+
+560. APMIS. 2010 Jun;118(6-7):510-9. doi: 10.1111/j.1600-0463.2010.02624.x.
+
+The role of human papillomavirus in head and neck cancer.
+
+Lajer CB(1), von Buchwald C.
+
+Author information: 
+(1)Department of Oto-rhino-laryngology, Head and Neck Surgery, Rigshospitalet,
+University of Copenhagen, Denmark. christel.lajer@rh.regionh.dk
+
+Over the last 20 years, there has been increasing awareness of a subset of
+squamous cell carcinomas of the head and neck (HNSCC), i.e. HPV-positive HNSCC.
+These cancers seem to differ somewhat from HPV-negative HNSCC. Patients with
+HPV-positive HNSCC tend to be younger and have a lower intake of tobacco and
+alcohol. Distinct molecular profiles separate them from HPV-negative cancers and 
+show similarities with HPV-positive cervical SCC. There is evidence that
+HPV-positive HNSCC is a sexually transmitted disease. Patients with HPV-positive 
+HNSCC are often diagnosed at a late stage with large cystic lymph nodes in the
+neck. HPV-positive HNSCC show an affinity for the oropharynx, especially the
+tonsils and the base of the tongue, and tend to show low differentiation
+histopathologically. There is a better prognosis regardless of the treatment
+regimen for HPV-positive HNSCC compared with HPV-negative HNSCC, and this seems
+to be related to the immune system. Whether the new vaccines for HPV will protect
+not only against cervical cancer but also against HPV-positive HNSCC remains
+unknown.
+
+DOI: 10.1111/j.1600-0463.2010.02624.x 
+PMID: 20553531  [Indexed for MEDLINE]

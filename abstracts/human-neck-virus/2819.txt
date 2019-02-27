@@ -1,0 +1,51 @@
+
+
+2819. Med Oral Patol Oral Cir Bucal. 2014 Jul 1;19(4):e377-85.
+
+Histopathologic risk factors in oral and oropharyngeal squamous cell carcinoma
+variants: an update with special reference to HPV-related carcinomas.
+
+El-Mofty SK(1).
+
+Author information: 
+(1)Campus Box 8118, Washington University School of Medicine, Department of
+Pathology and Immunology, 660 South Euclid Avenue, St Louis, MO. 63110, USA,
+elmofty@wustl.edu.
+
+Accurate identification of the microscopic risk factors of oral and oropharyngeal
+(OP) squamous cell carcinomas (SCC) and their morphologic variants is of at most 
+importance, as these generally determine treatment modalities, prognosis and
+overall patient outcome. The great majority of oral and oropharyngeal squamous
+cell carcinomas are microscopically described as kerartinizing squamous cell
+carcinoma (KSCC). They bear certain resemblance to keratinizing stratified
+squamous epithelium. Tobacco habits and excessive consumption of alcoholic
+beverages have been considered to be the main etiologic agents in these
+carcinomas. The tumors occurred in older patients more commonly affected the oral
+tongue and floor of the mouth with well established morphologic risk factors
+including tumor grade, pattern of invasion and perineural involvement. Within the
+last 30 years however, the advent and expanding prevalence of high risk human
+papillomavirus (HPV) as an important etiologic agent for head and neck squamous
+cell carcinoma, particularly in the OP, has resulted in a significant change in
+the established morphologic criteria for risk assessment. The majority of HPV
+relate carcinomas of the OP are nonkeratinizing squamous cell carcinoma (NKSCC). 
+These tumors are found to be more responsive to treatment with a favorable
+patient outcome and good prognosis. Consequently, alterations in treatment
+protocols aimed at de-escalation are currently being evaluated. More recently,
+other morphologic variants that are HPV positive are reported with increasing
+frequency in the OP and other head and neck sites. As a result, several clinical 
+and pathologic questions have emerged. Importantly, whether the virus is
+biologically active in these tumors and involved in their pathogenesis, and
+second, what are the clinical implications with regard to patient management and 
+outcome in the HPV-related variants. Examples of HPV-related squamous cell
+carcinoma variants that will be addressed here are: basaloid squamous cell
+carcinoma (BSCC), undifferentiated carcinoma (UCa), papillary squamous carcinoma 
+(PSCC) and small cell carcinoma. Some studies have suggested favorable prognosis 
+in some variants, analogous to that of the (NKSCC), while others showed poorer
+outcome. So far the number of studies on this subject is limited and the number
+of cases evaluated in each investigation is few. Because of that, it is prudent
+at this stage, not to alter management protocols as a result of identification of
+HPV in these variants and to await additional information.
+
+
+PMCID: PMC4119314
+PMID: 24880454  [Indexed for MEDLINE]

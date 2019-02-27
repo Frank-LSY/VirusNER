@@ -1,0 +1,49 @@
+
+
+1842. Head Neck. 2016 Apr;38(4):529-35. doi: 10.1002/hed.23920. Epub 2015 May 26.
+
+Interaction of quantitative (18)F-FDG-PET-CT imaging parameters and human
+papillomavirus status in oropharyngeal squamous cell carcinoma.
+
+Schouten CS(1), Hakim S(1), Boellaard R(2), Bloemena E(3)(4), Doornaert PA(5),
+Witte BI(6), Braakhuis BJ(1), Brakenhoff RH(1), Leemans CR(1), Hoekstra OS(2), de
+Bree R(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands.
+(2)Department of Radiology and Nuclear Medicine, VU University Medical Center,
+Amsterdam, The Netherlands.
+(3)Department of Oral and Maxillofacial Surgery/Oral Pathology, VU University
+Medical Center/Academic Center for Dentistry Amsterdam (ACTA), Amsterdam, The
+Netherlands.
+(4)Department of Pathology, VU University Medical Center, Amsterdam, The
+Netherlands.
+(5)Department of Radiation Oncology, VU University Medical Center, Amsterdam, The
+Netherlands.
+(6)Department of Epidemiology and Biostatistics, VU University Medical Center,
+Amsterdam, The Netherlands.
+
+BACKGROUND: Patients with human papillomavirus (HPV)-positive oropharyngeal
+squamous cell carcinoma (SCC) have a better survival than with HPV-negative
+oropharyngeal SCC. An (18) F-fluorodeoxyglucose positron emission tomography-CT
+((18) F-FDG-PET-CT) may also provide prognostic information. We evaluated
+glycolytic characteristics in HPV-negative and HPV-positive oropharyngeal SCC.
+METHODS: Forty-four patients underwent pretreatment (18) F-FDG-PET-CT.
+Standardized uptake values (SUVs) and metabolic active tumor volumes (MATVs) were
+determined for primary tumors. HPV status was determined with p16 immunostaining,
+followed by high-risk HPV DNA detection on the positive cases.
+RESULTS: Twenty-seven patients were HPV-positive (61.4%). Median MATV was 2.8 mL 
+(range = 1.6-5.1 mL) for HPV-positive and 6.0 mL (range = 4.4-18.7 mL) for
+HPV-negative tumors (p < .001). SUV values are volume dependent (partial volume
+effect), therefore, MATV was included as covariate in multivariate analysis. In
+this multivariate analysis, the maximum SUV in HPV-positive tumors was 3.9 units 
+lower than in HPV-negative tumors (p = .01).
+CONCLUSION: The (18) F-FDG-PET-CT parameters are lower in HPV-positive than in
+HPV-negative patients. Low pretreatment SUV values in HPV-positive oropharyngeal 
+SCC may be at least partly explained by HPV-induced tumor changes.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23920 
+PMID: 25352335  [Indexed for MEDLINE]

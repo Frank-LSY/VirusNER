@@ -1,0 +1,62 @@
+
+
+2489. Mol Cancer Res. 2017 Feb;15(2):179-188. doi: 10.1158/1541-7786.MCR-16-0255. Epub 
+2016 Nov 29.
+
+High-Risk HPV, Biomarkers, and Outcome in Matched Cohorts of Head and Neck Cancer
+Patients Positive and Negative for HIV.
+
+Walline HM(1)(2), Carey TE(3), Goudsmit CM(1), Bellile EL(4), D'Souza G(5),
+Peterson LA(6), McHugh JB(7), Pai SI(8), Lee JJ(9), Shin DM(10), Ferris RL(11);
+HNC SPORE HIV supplement consortium.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Michigan,
+Ann Arbor, Michigan.
+(2)Cancer Biology Training Program, University of Michigan, Ann Arbor, Michigan.
+(3)Department of Otolaryngology-Head and Neck Surgery, University of Michigan,
+Ann Arbor, Michigan. Careyte@umich.edu.
+(4)Biostatistics Core, Comprehensive Cancer Center, University of Michigan, Ann
+Arbor, Michigan.
+(5)Department of Epidemiology, School of Public Health, Johns Hopkins University,
+Baltimore, Maryland.
+(6)Head and Neck SPORE, University of Michigan Cancer Center, Ann Arbor,
+Michigan.
+(7)Department of Pathology, University of Michigan, Ann Arbor, Michigan.
+(8)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University, 
+Baltimore, Maryland.
+(9)Department of Biostatistics, MD Anderson Cancer Center, Houston, Texas.
+(10)Department of Medicine, Medical Oncology Winship Cancer Center, Emory
+University, Atlanta, Georgia.
+(11)Department of Otolaryngology-Head and Neck Surgery, University of Pittsburgh,
+Pittsburgh, Pennsylvania.
+
+In this study, high-risk HPV (hrHPV) incidence, prognostic biomarkers, and
+outcome were assessed in HIV-positive (case) and HIV-negative (control) patients 
+with head and neck squamous cell cancer (HNSCC). HIV-positive cases were matched 
+to controls by tumor site, sex, and age at cancer diagnosis. A tissue microarray 
+(TMA) was constructed and DNA isolated from tumor tissue. MultiPlex-PCR
+MassArray, L1-PCR, and in situ hybridization were used to assess hrHPV. TMA
+sections were stained for p16ink4a, TP53, RB, CCND1, EGFR, and scored for
+intensity and proportion of positive tumor cells. The HNSCC cohort included 41
+HIV-positive cases and 41 HIV-negative controls. Tumors from 11 of 40 (28%)
+cases, and 10 of 41 (24%) controls contained hrHPV. p16 expression, indicative of
+E7 oncogene activity, was present in 10 of 11 HPV-positive cases and 7 of 10
+HPV-positive controls. Low p16 and high TP53 expression in some HPV-positive
+tumors suggested HPV-independent tumorigenesis. Survival did not differ in cases 
+and controls. RB expression was significantly associated with poor survival (P = 
+0.01). High TP53 expression exhibited a trend for poorer survival (P = 0.12), but
+among cases, association with poor survival reached statistical significance (P =
+0.04). The proportion of HPV-positive tumors was similar, but the heterogeneity
+of HPV types was higher in the HIV-positive cases than in HIV-negative controls. 
+High RB expression predicted poor survival, and high TP53 expression was
+associated with poorer survival in the HIV-positive cases but not HIV-negative
+controls.IMPLICATIONS: HIV infection did not increase risk of death from HNSCC,
+and HPV-positive tumors continued to be associated with a significantly improved 
+survival, independent of HIV status. Mol Cancer Res; 15(2); 179-88. ©2016 AACR.
+
+©2016 American Association for Cancer Research.
+
+DOI: 10.1158/1541-7786.MCR-16-0255 
+PMCID: PMC5290187
+PMID: 27899422  [Indexed for MEDLINE]

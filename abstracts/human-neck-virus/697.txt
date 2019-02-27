@@ -1,0 +1,33 @@
+
+
+697. Hum Gene Ther Methods. 2015 Dec;26(6):193-6. doi: 10.1089/hgtb.2015.100. Epub
+2015 Nov 6.
+
+Human Myoblast and Mesenchymal Stem Cell Interactions Visualized by
+Videomicroscopy.
+
+Black AB(1), Dahlenburg H(1), Pepper K(1), Nacey C(1), Pontow S(1), Kuhn MA(2),
+Belafsky PC(2), Nolta JA(1).
+
+Author information: 
+(1)1 Stem Cell Program, Department Internal Medicine, University of
+California-Davis , Sacramento, California.
+(2)2 Department of Otolaryngology-Head and Neck Surgery, University of
+California-Davis , Sacramento, California.
+
+Muscle-derived progenitor cell (myoblast) therapy has promise for the treatment
+of denervated, weakened, and fibrotic muscle. The best methods for injecting
+myoblasts to promote fusion and retention have yet to be determined, however.
+Mesenchymal stem/stromal cells have also been reported to have beneficial effects
+in restoring damaged tissue, through increasing vascularization and reducing
+inflammation. The interactions between human primary skeletal myoblasts and bone 
+marrow-derived mesenchymal stem/stromal cells were examined using time-lapse
+images put into video format. Of interest, there is a high degree of cell-to-cell
+interaction with microparticles transferring between both cell types, and
+formation of nanotubules to bridge cytoplasmic contents between the two types of 
+cell. This model provides an in vitro platform for examining mechanisms for
+cell-to-cell interaction preceding myoblast fusion.
+
+DOI: 10.1089/hgtb.2015.100 
+PMCID: PMC4677538
+PMID: 26544924  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+43. J Pathol. 2015 Jan;235(2):323-33. doi: 10.1002/path.4448.
+
+The role of Epstein-Barr virus in epithelial malignancies.
+
+Tsao SW(1), Tsang CM, To KF, Lo KW.
+
+Author information: 
+(1)Department of Anatomy and Centre for Cancer Research, Li Ka Shing Faculty of
+Medicine, University of Hong Kong, Hong Kong SAR.
+
+The close association of Epstein-Barr virus (EBV) infection with non-keratinizing
+nasopharyngeal carcinomas and a subset of gastric carcinomas suggests that EBV
+infection is a crucial event in these cancers. The difficulties encountered in
+infecting and transforming primary epithelial cells in experimental systems
+suggest that the role of EBV in epithelial malignancies is complex and
+multifactorial in nature. Genetic alterations in the premalignant epithelium may 
+support the establishment of latent EBV infection, which is believed to be an
+initiation event. Oncogenic properties have been reported in multiple EBV latent 
+genes. The BamH1 A rightwards transcripts (BARTs) and the BART-encoded microRNAs 
+(miR-BARTs) are highly expressed in EBV-associated epithelial malignancies and
+may induce malignant transformation. However, enhanced proliferation may not be
+the crucial function of EBV infection in epithelial malignancies, at least in the
+early stages of cancer development. EBV-encoded gene products may confer
+anti-apoptotic properties and promote the survival of infected premalignant
+epithelial cells harbouring genetic alterations. Multiple EBV-encoded microRNAs
+have been reported to have immune evasion functions. Genetic alterations in host 
+cells, as well as inflammatory stroma, could modulate the expression of EBV genes
+and alter the growth properties of infected premalignant epithelial cells,
+encouraging their selection during carcinogenesis.
+
+© 2014 The Authors. The Journal of Pathology published by John Wiley & Sons Ltd
+on behalf of Pathological Society of Great Britain and Ireland.
+
+DOI: 10.1002/path.4448 
+PMCID: PMC4280676
+PMID: 25251730  [Indexed for MEDLINE]

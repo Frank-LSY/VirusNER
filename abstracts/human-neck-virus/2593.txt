@@ -1,0 +1,47 @@
+
+
+2593. Diagn Pathol. 2015 Sep 17;10:170. doi: 10.1186/s13000-015-0405-y.
+
+Unusual coexistence of extramedullary plasmacytoma and nasopharyngeal carcinoma
+in nasopharynx.
+
+Du RC(1), Li HN(2), Huang W(1), Tian XY(3), Li Z(4).
+
+Author information: 
+(1)Department of Pathology, Yue-bei People's Hospital, 133, Hui-min Road (South),
+Shaoguan, 512026, China.
+(2)Department of Pathology, The First People's Hospital of Shaoguan City, 3,
+Dongdi Road (South), Shaoguan, 512000, China.
+(3)School of Chinese Medicine, Hong Kong Baptist University, 7, Baptist
+University Road, Kowloon Tong, Hong Kong, China.
+(4)Department of Pathology, The First Affiliated Hospital, Sun Yat-sen
+university, 58, Zhongshan Road II, Guangzhou, 510080, China.
+lizhi@mail.sysu.edu.cn.
+
+Nasopharyngeal carcinoma (NPC) is an EBV-associated malignant tumor of
+nasopharynx. As extremely rare condition, the second primary cancer of
+nasopharynx can occur in NPC patients synchronously or subsequently.
+Extramedullary plasmacytoma (EMP) is a rare tumor and commonly originates in the 
+head and neck region. However, there is no report to describe a collision tumor
+of NPC and EMP occurring in the same nasopharyngeal mass. We report here an
+unusual case of synchronous coexistence of NPC and EMP occurring in the
+nasopharynx of an old male patient. A 63-year-old male patient presented with a
+3-month history of right-sided nasal obstruction and recently intermittent
+epistaxis without enlargement of cervical lymph nodes. The solitary mass of
+nasopharynx was found by radiological and nasopharyngeal examination.
+Histologically, the mass contained two separated portions and displayed typically
+histological features of NPC and EMP, respectively. In EMP portion, the tumor was
+composed of monomorphic plasmacytoid-appearing cells with immuno-positive to
+CD79a, CD138, CD38, MUM-1 and CD56, but lack immunoreactivity to pan-CK
+(AE1/AE3), CD20, CD21 and EBERs. In NPC portion, the tumor cells formed
+irregular-shaped islands with diffusely immuno-positive to pan-CK (AE1/AE3), EMA 
+and EBERs, but lack expressions of lymphoplasmacytic markers. A diagnosis of
+simultaneous occurrence of EMP and NPC in nasopharynx was made. There was no
+evidence of tumor recurrence or metastasis 18-month follow-up after radiotherapy.
+To our knowledge, it may be the first case of coexistence of EMP and NPC
+synchronously. In addition, the histological differential diagnosis and relevant 
+potential mechanism of this unusual collision tumor were also discussed.
+
+DOI: 10.1186/s13000-015-0405-y 
+PMCID: PMC4574147
+PMID: 26376733  [Indexed for MEDLINE]

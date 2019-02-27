@@ -1,0 +1,54 @@
+
+
+647. Viruses. 2016 Jun 22;8(6). pii: E175. doi: 10.3390/v8060175.
+
+DNA Damage Reduces the Quality, but Not the Quantity of Human Papillomavirus 16
+E1 and E2 DNA Replication.
+
+Bristol ML(1), Wang X(2), Smith NW(3), Son MP(4), Evans MR(5), Morgan IM(6)(7).
+
+Author information: 
+(1)VCU Philips Institute for Oral Health Research, Department of Oral and
+Craniofacial Molecular Biology, Virginia Commonwealth University School of
+Dentistry, Richmond, VA 23298, USA. mlbristol@vcu.edu.
+(2)VCU Philips Institute for Oral Health Research, Department of Oral and
+Craniofacial Molecular Biology, Virginia Commonwealth University School of
+Dentistry, Richmond, VA 23298, USA. xwang@vcu.edu.
+(3)VCU Philips Institute for Oral Health Research, Department of Oral and
+Craniofacial Molecular Biology, Virginia Commonwealth University School of
+Dentistry, Richmond, VA 23298, USA. smithnw2@mymail.vcu.edu.
+(4)VCU Philips Institute for Oral Health Research, Department of Oral and
+Craniofacial Molecular Biology, Virginia Commonwealth University School of
+Dentistry, Richmond, VA 23298, USA. paekm@vcu.edu.
+(5)VCU Philips Institute for Oral Health Research, Department of Oral and
+Craniofacial Molecular Biology, Virginia Commonwealth University School of
+Dentistry, Richmond, VA 23298, USA. evansmr2@vcu.edu.
+(6)VCU Philips Institute for Oral Health Research, Department of Oral and
+Craniofacial Molecular Biology, Virginia Commonwealth University School of
+Dentistry, Richmond, VA 23298, USA. immorgan@vcu.edu.
+(7)VCU Massey Cancer Center, Richmond, VA 23298, USA. immorgan@vcu.edu.
+
+Human papillomaviruses (HPVs) are causative agents in almost all cervical
+carcinomas. HPVs are also causative agents in head and neck cancer, the cases of 
+which are increasing rapidly. Viral replication activates the DNA damage response
+(DDR) pathway; associated proteins are recruited to replication foci, and this
+pathway may serve to allow for viral genome amplification. Likewise, HPV genome
+double-strand breaks (DSBs) could be produced during replication and could lead
+to linearization and viral integration. Many studies have shown that viral
+integration into the host genome results in unregulated expression of the viral
+oncogenes, E6 and E7, promoting HPV-induced carcinogenesis. Previously, we have
+demonstrated that DNA-damaging agents, such as etoposide, or knocking down viral 
+replication partner proteins, such as topoisomerase II β binding protein I
+(TopBP1), does not reduce the level of DNA replication. Here, we investigated
+whether these treatments alter the quality of DNA replication by HPV16 E1 and E2.
+We confirm that knockdown of TopBP1 or treatment with etoposide does not reduce
+total levels of E1/E2-mediated DNA replication; however, the quality of
+replication is significantly reduced. The results demonstrate that E1 and E2
+continue to replicate under genomically-stressed conditions and that this
+replication is mutagenic. This mutagenesis would promote the formation of
+substrates for integration of the viral genome into that of the host, a hallmark 
+of cervical cancer.
+
+DOI: 10.3390/v8060175 
+PMCID: PMC4926195
+PMID: 27338449  [Indexed for MEDLINE]

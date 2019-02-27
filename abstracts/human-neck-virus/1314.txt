@@ -1,0 +1,61 @@
+
+
+1314. Cancer. 2017 Apr 1;123(7):1156-1165. doi: 10.1002/cncr.30564. Epub 2017 Feb 14.
+
+Significant changes in sexual behavior after a diagnosis of human
+papillomavirus-positive and human papillomavirus-negative oral cancer.
+
+Taberna M(1)(2)(3), Inglehart RC(4), Pickard RK(5), Fakhry C(6), Agrawal A(7),
+Katz ML(8)(9), Gillison ML(5).
+
+Author information: 
+(1)Department of Medical Oncology, Catalan Institute of Oncology, Bellvitge
+Biomedical Research Institute, L'Hospitalet de Llobregat, Barcelona, Spain.
+(2)Cancer Epidemiology Research Program, Catalan Institute of Oncology, Bellvitge
+Biomedical Research Institute, L'Hospitalet de Llobregat, Barcelona, Spain.
+(3)Department of Medicine, University of Barcelona, Barcelona, Spain.
+(4)Medical Scientist Training Program, The Ohio State University College of
+Medicine, Columbus, Ohio.
+(5)Department of Medicine, The Ohio State University, Columbus, Ohio.
+(6)Department of Otolaryngology, Head and Neck Surgery, Johns Hopkins School of
+Medicine, Johns Hopkins Outpatient Center, Baltimore, Maryland.
+(7)Department of Otolaryngology, Head and Neck Surgery, The Ohio State
+University, Columbus, Ohio.
+(8)Division of Cancer Prevention and Control, Department of Internal Medicine,
+College of Medicine, The Ohio State University, Columbus, Ohio.
+(9)Division of Health Behavior and Health Promotion, College of Public Health,
+The Ohio State University, Columbus, Ohio.
+
+BACKGROUND: Sexual behavior and oral human papillomavirus (HPV) infection are
+risk factors for oral squamous cell carcinoma (OSCC). The effects of OSCC
+diagnosis and treatment on subsequent relationship stress and sexual behavior are
+unknown.
+METHODS: Incident cases of HPV-positive or HPV-negative OSCC in patients who had 
+a partnered relationship and partners of patients with oropharyngeal cancer were 
+eligible for a study in which surveys were administered at diagnosis and at the
+6-month follow-up time point to assess relationship distress, HPV transmission
+and concerns about health consequences, and sexual behavior. The frequency
+distributions of responses, stratified by tumor HPV status, were compared at
+baseline and follow-up.
+RESULTS: In total, 262 patients with OSCC and 81 partners were enrolled. Among
+the patients, 142 (54.2%) had HPV-positive OSCC, and 120 (45.8%) had HPV-negative
+OSCC. Relationship distress was infrequently reported, and 69% of patients felt
+that their relationship had strengthened since the cancer diagnosis. Both
+HPV-positive patients (25%) and their partners (14%) reported feelings of guilt
+or responsibility for the diagnosis of an HPV-caused cancer. Concern over sexual,
+but not nonsexual, HPV transmission to partners was reported by 50%. Significant 
+declines in the frequency of vaginal and oral sexual behaviors were reported at
+follow-up, regardless of tumor HPV status. From baseline to 6 months, significant
+increases in abstinence from vaginal sex (from 10% to 34%; P < .01) and oral sex 
+(from 25% to 80%; P < .01) were reported.
+CONCLUSIONS: Diagnosis and treatment of OSCC are associated with significant
+declines in the frequency of vaginal and oral sex, regardless of tumor HPV
+status. Sexual behavior is an important quality-of-life outcome to assess within 
+clinical trials. [See related editorial on pages 000-000, this issue.] Cancer
+2017. © 2017 American Cancer Society. Cancer 2017;123:1156-1165. © 2016 American 
+Cancer Society.
+
+© 2017 American Cancer Society.
+
+DOI: 10.1002/cncr.30564 
+PMID: 28195638  [Indexed for MEDLINE]

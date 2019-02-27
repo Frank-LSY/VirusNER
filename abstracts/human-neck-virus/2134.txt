@@ -1,0 +1,41 @@
+
+
+2134. Am J Rhinol Allergy. 2013 Jan;27(1):e17-21. doi: 10.2500/ajra.2013.27.3863.
+
+Changes of histamine receptors and CC chemokines in nasal epithelial cells and
+fibroblasts after respiratory syncytial virus infection.
+
+Jung SY(1), Shin SY, Eun YG, Kim SW, Cho JS.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, School of Medicine,
+Kyung Hee University, Seoul, Korea.
+
+BACKGROUND: Respiratory syncytial virus (RSV) is reported as the most influential
+factor that triggers hyperreactivity of the airway and causes asthma in infants
+and children. However, the mechanisms remain to be elucidated. The study
+evaluated the changes in the levels of four types of histamine receptor (HR) and 
+CC chemokines, such as eotaxin and regulated on activation, normal T cell
+expressed and presumably secreted (RANTES), in nasal epithelial cells and
+fibroblasts after RSV infection.
+METHODS: Nasal cavity mucosa attained from 20 patients who had undergone inferior
+turbinoplasty were cleaned by normal saline mixed with gentamicin. Each sample
+was divided in half. One-half was used for incubation of epithelial cells, and
+the other half was used for culturing fibroblasts. The levels of HR 1 (H1R), 2
+(H2R), 3 (H3R), 4 (H4R), eotaxin, and RANTES were measured by real-time
+polymerase chain reaction 0, 12, and 36 hours after infection with RSV.
+RESULTS: H1R was significantly increased at 12 and 36 hours compared with 0 hours
+in both cell types. The level of H2R was significantly increased in epithelial
+cells from 0 to 36 and 12 to 36 hours and in fibroblasts from 0 to 12 and 0 to 36
+hours. There were significant increases of H3R level in fibroblasts from 0 to 12 
+and 0 to 36 hours, and of H4R in epithelial cells and fibroblasts from 0 to 12
+and 0 to 36 hours. Eotaxin and RANTES were also significantly increased in both
+epithelial cells and fibroblasts from 0 to 12 and 0 to 36 hours.
+CONCLUSION: RSV infection increases the levels of all four HRs, especially H1R
+and H2R, as well as the levels of eotaxin and RANTES in nasal epithelial cells
+and fibroblasts. These findings suggest that RSV infection might cause
+respiratory tract hyperreactivity by increasing the content of HRs and CC
+chemokines.
+
+DOI: 10.2500/ajra.2013.27.3863 
+PMID: 23406591  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+
+2967. Kansenshogaku Zasshi. 2012 Nov;86(6):768-72.
+
+[A case of descending necrotizing mediastinitis caused by infection with
+Streptococcus agalactiae in a patient with diabetes mellitus].
+
+[Article in Japanese]
+
+Yoshii Y(1), Shimizu K, Watanabe S, Takagi M, Kuwano K.
+
+Author information: 
+(1)Department of Respiratory Medicine, The Jikei University Kashiwa Hospital.
+
+We report a case with an atypical presentation of descending necrotizing
+mediastinitis (DNM). A 47-year-old woman with a medical history of untreated type
+2 diabetes mellitus and influenza type A virus infection 2 weeks prior to
+admission was referred to our hospital complaining of right cervical pain and
+right upper limb swelling. A chest enhanced computed tomographic (CT) scan showed
+a ring-enhanced mass-like shadow extending from the right sternomastoid muscle
+down to the right upper mediastinum, compressing the right subclavicular vein. We
+diagnosed the patient as having DNM based on a physical examination and the CT
+findings. Because the abscess extended from deep in the neck to the upper
+mediastinum and right upper pleural space, emergent abscess debridement and
+drainage was required. After hospitalization, antibiotics (Ampicillin/Sulbactam
+12 g/day) were also administered based on Gram-stain findings from the drainage
+fluid, which showed Gram-positive cocci resembling a string of beads. A culture
+of the drainage fluid identified Streptococcus agalactiae. Aggressive abscess
+drainage and early antibiotic therapy resulted in a favorable response. She was
+discharged without complications on the 33rd hospital day. DNM is well known as a
+rare but lethal disease. In this case, the presence of diabetes mellitus and
+post-influenza infection might have been risk factors for a serious S. agalactiae
+infection. Early aggressive therapy and adequate drainage are recommended for
+patients with DNM.
+
+
+PMID: 23367853  [Indexed for MEDLINE]

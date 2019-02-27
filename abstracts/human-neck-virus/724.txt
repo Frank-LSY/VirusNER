@@ -1,0 +1,41 @@
+
+
+724. Appl Microbiol Biotechnol. 2018 May;102(10):4339-4343. doi:
+10.1007/s00253-018-8956-y. Epub 2018 Mar 30.
+
+Duox2-induced innate immune responses in the respiratory epithelium and
+intranasal delivery of Duox2 DNA using polymer that mediates immunization.
+
+Jeon YJ(1), Kim HJ(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Seoul National
+University Hospital, Seoul National University College of Medicine, 103,
+Daehak-ro, Jongno-gu, Seoul, South Korea.
+(2)Department of Otorhinolaryngology-Head and Neck Surgery, Seoul National
+University Hospital, Seoul National University College of Medicine, 103,
+Daehak-ro, Jongno-gu, Seoul, South Korea. hyunjerry@snu.ac.kr.
+
+Respiratory mucosa especially nasal epithelium is well known as the first-line
+barrier of air-borne pathogens. High levels of reactive oxygen species (ROS) are 
+detected in in vitro cultured human epithelial cells and in vivo lung. With
+identification of NADPH oxidase (Nox) system of respiratory epithelium, the
+antimicrobial role of ROS has been studied. Duox2 is the most abundant Nox
+isoform and produces the regulated amount of ROS in respiratory epithelium.
+Duox2-derived ROS are involved in antiviral innate immune responses but more
+studies are needed to verify the mechanism. In respiratory epithelium,
+Duox2-derived ROS is critical for recognition of virus through families retinoic 
+acid-inducible gene-I (RIG-I) and melanoma differentiation-associated protein 5
+(MDA5) at the early stage of antiviral innate immune responses. Various secreted 
+interferons (IFNs) play essential roles for antiviral host defense by downstream 
+cell signaling, and transcription of IFN-stimulated genes is started to suppress 
+viral replication. Type I and type III IFNs are verified more responsible for
+influenza A virus (IAV) infection in respiratory epithelium and Duox2 is required
+to regulate IFN-related immune responses. Transient overexpression of Duox2 using
+cationic polymer polyethylenimine (PEI) induces secretion of type I and type III 
+IFNs and significantly attenuated IAV replication in respiratory epithelium.
+Here, we discuss Duox2-mediated antiviral innate immune responses and the role of
+Duox2 as a mucosal vaccine to resist respiratory viral infection.
+
+DOI: 10.1007/s00253-018-8956-y 
+PMID: 29600494  [Indexed for MEDLINE]

@@ -1,0 +1,58 @@
+
+
+1282. Cancer Res. 2017 Dec 1;77(23):6538-6550. doi: 10.1158/0008-5472.CAN-17-0833. Epub
+2017 Sep 25.
+
+Integrated Analysis of Whole-Genome ChIP-Seq and RNA-Seq Data of Primary Head and
+Neck Tumor Samples Associates HPV Integration Sites with Open Chromatin Marks.
+
+Kelley DZ(1), Flam EL(1), Izumchenko E(1), Danilova LV(2)(3), Wulf HA(1), Guo
+T(1), Singman DA(1), Afsari B(2), Skaist AM(2), Considine M(2), Welch JA(4)(5),
+Stavrovskaya E(6)(7), Bishop JA(5), Westra WH(5), Khan Z(1), Koch WM(1),
+Sidransky D(1), Wheelan SJ(2), Califano JA(8)(9), Favorov AV(2)(3)(10), Fertig
+EJ(2), Gaykalova DA(11).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(2)Department of Oncology, The Sidney Kimmel Comprehensive Cancer Center, Johns
+Hopkins University School of Medicine, Baltimore, Maryland.
+(3)Laboratory of Systems Biology and Computational Genetics, Vavilov Institute of
+General Genetics, Russian Academy of Sciences, Moscow, Russia.
+(4)McKusick-Nathans Institute of Genetic Medicine, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(5)Department of Pathology, Johns Hopkins Medical School of Medicine, Baltimore, 
+Maryland.
+(6)Department of Bioengineering and Bioinformatics, Moscow State University,
+Moscow, Russia.
+(7)Institute for Information Transmission Problems, RAS, Moscow, Russia.
+(8)Head and Neck Cancer Center, Moores Cancer Center, University of California,
+San Diego, La Jolla, California.
+(9)Division of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+University of California, San Diego, La Jolla, California.
+(10)Laboratory of Bioinformatics, Research Institute of Genetics and Selection of
+Industrial Microorganisms, Moscow, Russia.
+(11)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University 
+School of Medicine, Baltimore, Maryland. dgaykal1@jhmi.edu.
+
+Chromatin alterations mediate mutations and gene expression changes in cancer.
+Chromatin immunoprecipitation followed by sequencing (ChIP-Seq) has been utilized
+to study genome-wide chromatin structure in human cancer cell lines, yet numerous
+technical challenges limit comparable analyses in primary tumors. Here we have
+developed a new whole-genome analytic pipeline to optimize ChIP-Seq protocols on 
+patient-derived xenografts from human papillomavirus-related (HPV+) head and neck
+squamous cell carcinoma (HNSCC) samples. We further associated chromatin
+aberrations with gene expression changes from a larger cohort of the tumor and
+normal samples with RNA-Seq data. We detect differential histone enrichment
+associated with tumor-specific gene expression variation, sites of HPV
+integration in the human genome, and HPV-associated histone enrichment sites
+upstream of cancer driver genes, which play central roles in cancer-associated
+pathways. These comprehensive analyses enable unprecedented characterization of
+the complex network of molecular changes resulting from chromatin alterations
+that drive HPV-related tumorigenesis. Cancer Res; 77(23); 6538-50. ©2017 AACR.
+
+©2017 American Association for Cancer Research.
+
+DOI: 10.1158/0008-5472.CAN-17-0833 
+PMCID: PMC6029614
+PMID: 28947419  [Indexed for MEDLINE]

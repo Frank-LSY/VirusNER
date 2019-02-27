@@ -1,0 +1,40 @@
+
+
+2159. J Gene Med. 2010 Apr;12(4):365-76. doi: 10.1002/jgm.1447.
+
+Adenovirus retargeting to surface expressed antigens on oral mucosa.
+
+van Zeeburg HJ(1), van Beusechem VW, Huizenga A, Haisma HJ, Korokhov N, Gibbs S, 
+Leemans CR, Brakenhoff RH.
+
+Author information: 
+(1)Department of Otolaryngology/Head-Neck Surgery, Section Tumor Biology, VU
+University Medical Centre, Amsterdam, The Netherlands.
+
+BACKGROUND: Head and neck squamous cell carcinomas develop in preneoplastic
+mucosal fields that can extend over several centimeters in diameter. Most of
+these fields are microscopically recognized as dysplasias. These fields are often
+not adequately treated and might cause local relapse. Previous investigations
+demonstrated that mouthwash therapy with oncolytic adenoviruses appears to be a
+good option for the treatment of these fields, although, at present, with limited
+efficacy.
+METHODS: Immunohistochemistry on normal and preneoplastic mucosa was applied to
+determine the expression levels of the coxsackie adenoviral receptor (CAR) and a 
+few surface antigens that might allow retargeting: Ly-6D, CD44v6 and K928.
+Monoclonal antibodies directed against these surface antigens were used for
+retargeting of adenoviruses in model experiments with organotypic cultures of
+mucosal epithelium. A bispecific single chain antibody was constructed against
+both the adenoviral knob and Ly-6D.
+RESULTS: Immunohistochemical staining revealed that CAR is present only at a low 
+level in the basal layers of the oral mucosa of both normal and dysplastic
+lesions. By contrast, Ly-6D, CD44v6 and K928 were abundantly expressed and Ly-6D 
+even on the most superficial layers. Monoclonal antibodies against Ly-6D and
+CD44v6 were shown to enhance infection in an organotypic cell culture by one log.
+Based on these observations, we constructed a bispecific single chain antibody
+against Ly-6D and adenovirus fiber knob, and showed that this engineered molecule
+allows efficient CAR-independent infection.
+CONCLUSIONS: Retargeting of oncolytic adenovirus to other surface molecules might
+improve the efficacy of virotherapy of preneoplastic fields in the oral mucosa.
+
+DOI: 10.1002/jgm.1447 
+PMID: 20373331  [Indexed for MEDLINE]

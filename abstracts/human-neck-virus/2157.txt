@@ -1,0 +1,48 @@
+
+
+2157. Mol Oncol. 2013 Aug;7(4):776-90. doi: 10.1016/j.molonc.2013.03.004. Epub 2013 Apr
+4.
+
+A patient tumor transplant model of squamous cell cancer identifies PI3K
+inhibitors as candidate therapeutics in defined molecular bins.
+
+Keysar SB(1), Astling DP, Anderson RT, Vogler BW, Bowles DW, Morton JJ, Paylor
+JJ, Glogowska MJ, Le PN, Eagles-Soukup JR, Kako SL, Takimoto SM, Sehrt DB,
+Umpierrez A, Pittman MA, Macfadden SM, Helber RM, Peterson S, Hausman DF, Said S,
+Leem TH, Goddard JA, Arcaroli JJ, Messersmith WA, Robinson WA, Hirsch FR,
+Varella-Garcia M, Raben D, Wang XJ, Song JI, Tan AC, Jimeno A.
+
+Author information: 
+(1)Division of Medical Oncology, Department of Medicine, University of Colorado
+School of Medicine (UCSOM), Aurora, CO 80045, United States.
+
+Targeted therapy development in head and neck squamous cell carcinoma (HNSCC) is 
+challenging given the rarity of activating mutations. Additionally, HNSCC
+incidence is increasing related to human papillomavirus (HPV). We sought to
+develop an in vivo model derived from patients reflecting the evolving HNSCC
+epidemiologic landscape, and use it to identify new therapies. Primary and
+relapsed tumors from HNSCC patients, both HPV+ and HPV-, were implanted on mice, 
+giving rise to 25 strains. Resulting xenografts were characterized by detecting
+key mutations, measuring protein expression by IHC and gene expression/pathway
+analysis by mRNA-sequencing. Drug efficacy studies were run with representative
+xenografts using the approved drug cetuximab as well as the new PI3K inhibitor
+PX-866. Tumors maintained their original morphology, genetic profiles and drug
+susceptibilities through serial passaging. The genetic makeup of these tumors was
+consistent with known frequencies of TP53, PI3KCA, NOTCH1 and NOTCH2 mutations.
+Because the EGFR inhibitor cetuximab is a standard HNSCC therapy, we tested its
+efficacy and observed a wide spectrum of efficacy. Cetuximab-resistant strains
+had higher PI3K/Akt pathway gene expression and protein activation than
+cetuximab-sensitive strains. The PI3K inhibitor PX-866 had anti-tumor efficacy in
+HNSCC models with PIK3CA alterations. Finally, PI3K inhibition was effective in
+two cases with NOTCH1 inactivating mutations. In summary, we have developed an
+HNSCC model covering its clinical spectrum whose major genetic alterations and
+susceptibility to anticancer agents represent contemporary HNSCC. This model
+enables to prospectively test therapeutic-oriented hypotheses leading to
+personalized medicine.
+
+Copyright © 2013 Federation of European Biochemical Societies. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.molonc.2013.03.004 
+PMCID: PMC3760013
+PMID: 23607916  [Indexed for MEDLINE]

@@ -1,0 +1,59 @@
+
+
+2572. Int J Cancer. 2016 Jan 1;138(1):98-109. doi: 10.1002/ijc.29691. Epub 2015 Aug 28.
+
+Phylogenetic analysis of multiple FISH markers in oral tongue squamous cell
+carcinoma suggests that a diverse distribution of copy number changes is
+associated with poor prognosis.
+
+Wangsa D(1)(2), Chowdhury SA(3)(4), Ryott M(5), Gertz EM(6), Elmberger G(7), Auer
+G(2), Åvall Lundqvist E(2)(8), Küffer S(9), Ströbel P(9), Schäffer AA(6),
+Schwartz R(4)(10), Munck-Wikland E(11), Ried T(1), Heselmeyer-Haddad K(1).
+
+Author information: 
+(1)Genetics Branch, Center For Cancer Research, National Cancer Institute,
+National Institutes of Health, Bethesda, MD.
+(2)Department of Oncology-Pathology, Karolinska Institutet, Karolinska University
+Hospital, Stockholm, Sweden.
+(3)Joint Carnegie Mellon/University of Pittsburgh Ph.D. Program In Computational 
+Biology, Carnegie Mellon University, Pittsburgh, PA.
+(4)Computational Biology Department, Carnegie Mellon University, Pittsburgh, PA.
+(5)Department of Otorhinolaryngology, Sophiahemmet Hospital, Stockholm, Sweden.
+(6)Computational Biology Branch, National Center For Biotechnology Information,
+National Institutes of Health, Bethesda, MD.
+(7)Department of Laboratory Medicine, Pathology, Örebro University Hospital,
+Örebro, Sweden.
+(8)Department of Oncology And Department Of Clinical And Experimental Medicine,
+Linköping University, Linköping, Sweden.
+(9)Institute of Pathology, University Medical Center Göttingen, Göttingen,
+Germany.
+(10)Department of Biological Sciences, Carnegie Mellon University, Pittsburgh,
+PA.
+(11)Department of Oto-Rhino-Laryngology, Head And Neck Surgery, Karolinska
+University Hospital and Department of Clinical Science, Intervention and
+Technology, Karolinska Institutet, Stockholm, Sweden.
+
+Oral tongue squamous cell carcinoma (OTSCC) is associated with poor prognosis. To
+improve prognostication, we analyzed four gene probes (TERC, CCND1, EGFR and
+TP53) and the centromere probe CEP4 as a marker of chromosomal instability, using
+fluorescence in situ hybridization (FISH) in single cells from the tumors of
+sixty-five OTSCC patients (Stage I, n = 15; Stage II, n = 30; Stage III, n = 7;
+Stage IV, n = 13). Unsupervised hierarchical clustering of the FISH data
+distinguished three clusters related to smoking status. Copy number increases of 
+all five markers were found to be correlated to non-smoking habits, while smokers
+in this cohort had low-level copy number gains. Using the phylogenetic modeling
+software FISHtrees, we constructed models of tumor progression for each patient
+based on the four gene probes. Then, we derived test statistics on the models
+that are significant predictors of disease-free and overall survival, independent
+of tumor stage and smoking status in multivariate analysis. The patients whose
+tumors were modeled as progressing by a more diverse distribution of copy number 
+changes across the four genes have poorer prognosis. This is consistent with the 
+view that multiple genetic pathways need to become deregulated in order for
+cancer to progress.
+
+Published 2015. This article is a U.S. Government work and is in the public
+domain in the USA.
+
+DOI: 10.1002/ijc.29691 
+PMCID: PMC4823771
+PMID: 26175310  [Indexed for MEDLINE]

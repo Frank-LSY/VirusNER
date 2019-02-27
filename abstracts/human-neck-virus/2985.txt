@@ -1,0 +1,52 @@
+
+
+2985. Virus Res. 2018 Sep 2;256:1-5. doi: 10.1016/j.virusres.2018.07.017. Epub 2018 Jul
+24.
+
+Epstein-Barr virus infection associated with pepsinogens and Helicobacter pylori 
+infection in patients with gastric cancer.
+
+Su X(1), Ye Z(2), Wang Z(3), Long Y(2), Qiu M(4), He C(5).
+
+Author information: 
+(1)Department of Head and Neck, Sun Yat-Sen University Cancer Center, State Key
+Laboratory of Oncology in South China, Collaborative Innovation Center for Cancer
+Medicine, China.
+(2)Department of Molecular Diagnostics, Sun Yat-Sen University Cancer Center,
+State Key Laboratory of Oncology in South China, Collaborative Innovation Center 
+for Cancer Medicine, Guangzhou, China.
+(3)Tumor Etiology and Screening Department of Cancer Institute and General
+Surgery, The First Affiliated Hospital of China Medical University, Key
+Laboratory of Cancer Etiology and Prevention of China Medical University,
+Liaoning Provincial Education Department, Shenyang, Liaoning, China.
+(4)Department of Medical Oncology, Sun Yat-Sen University Cancer Center, State
+Key Laboratory of Oncology in South China, Collaborative Innovation Center for
+Cancer Medicine, 651 Dongfeng Road East, Guangzhou, Guangdong 510060, China.
+Electronic address: qiumzh@sysucc.org.cn.
+(5)Department of Molecular Diagnostics, Sun Yat-Sen University Cancer Center,
+State Key Laboratory of Oncology in South China, Collaborative Innovation Center 
+for Cancer Medicine, Guangzhou, China. Electronic address: hecy@sysucc.org.cn.
+
+BACKGROUND: There is no study reporting the influence of the Epstein-Barr virus
+(EBV) infection on the biomarkers of gastric function like pepsinogen (PG) I and 
+II in patients with gastric cancer, and the relationship between the infection of
+EBV and Helicobacter pylori (HP) is unclear. This study focused on these issues.
+METHODS: In this study, we detected the serum levels of PGI, PGII, anti-HP
+(immunoglobulin G) IgG antibodies and EBV DNA load in a total of 189 gastric
+cancer patients confirmed to be EBV positive or negative in tissue using in situ 
+hybridization of EBV-encoded small RNAs (EBERs).
+RESULTS: Compared to 123 EBV negative gastric cancer patients, the 66 patients
+infected with EBV exhibited significant higher levels of PGI and PGI/II ratio and
+meanwhile, had remarkably lower levels of anti-HP IgG. The prevalence of HP
+infection in EBV positive patients was 13.6%, and 52.8% in EBV negative patients.
+In subsequent analysis concerning the EBV DNA load, the patients were divided
+into two groups by a cutoff value of 1000 copies/ml. The EBV DNA load showed
+highly consistent association with PGI, PGI/II ratio and HP.
+CONCLUSIONS: EBV infection in situ increased the serum levels of PGI and ratio of
+PGI/PGII in gastric cancer patients. Moreover, the EBV infection exclusively
+exists with HP infection in the patients with gastric cancer.
+
+Copyright © 2018 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2018.07.017 
+PMID: 30053417  [Indexed for MEDLINE]

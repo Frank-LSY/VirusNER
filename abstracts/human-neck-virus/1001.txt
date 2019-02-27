@@ -1,0 +1,45 @@
+
+
+1001. J Oral Pathol Med. 2014 Apr;43(4):245-9. doi: 10.1111/jop.12128. Epub 2013 Dec
+26.
+
+Investigation of p16(INK4a) as a prognostic biomarker in oral epithelial
+dysplasia.
+
+Nankivell P(1), Williams H, Webster K, Pearson D, High A, MacLennan K, Senguven
+B, McConkey C, Rabbitts P, Mehanna H.
+
+Author information: 
+(1)Institute of Head and Neck Studies and Education (InHANSE), Birmingham, UK;
+University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK; University 
+Hospital Coventry and Warwickshire, Coventry, UK.
+
+BACKGROUND: Human papilloma virus is a risk factor for oropharyngeal cancer.
+Evidence for a similar aetiological role in the development of oral dysplasia or 
+its transformation to oral cancer is not as clear. Meta-analyses estimate the
+prevalence of high-risk human papilloma virus (HPV) serotypes to be three times
+higher in pre-malignant lesions and cancer than in normal oral mucosa. However,
+this does not imply a causal relationship. Conflicting results are reported from 
+the few studies examining the prognostic significance of HPV positivity in the
+development of oral cancer. We aimed to examine the ability of p16(INK4a) protein
+expression, a surrogate marker of HPV infection, to predict malignant progression
+in a large cohort of oral dysplasia patients.
+METHODS: One hundred forty eight oral dysplasia cases underwent
+immunohistochemical analysis using a monoclonal antibody against p16(INK4a) .
+Clinical factors were also collated on each case. Slides were double scored
+independently by two trained observers. Univariate analyses using both logistic
+and Cox regression models were performed.
+RESULTS: Thirty nine of 148 cases progressed to cancer. Ten of 148 cases (7%)
+were p16(INK4a) positive. High grade of dysplasia (P = 0.0002) and lesion
+morphology (P = 0.03) were found to be prognostic of malignant progression.
+p16(INK4a) score was not prognostic in this cohort (P = 0.29). This did not
+change with a time to event analysis (P = 0.24).
+CONCLUSION: Few studies have assessed the aetiological role of HPV in cancer
+development from dysplastic lesions. Our study, using one of the largest cohorts 
+of oral dysplasia, demonstrated a low rate of p16(INK4a) positivity and was
+unable to confirm a prognostic ability for this biomarker.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12128 
+PMID: 24372672  [Indexed for MEDLINE]

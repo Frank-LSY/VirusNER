@@ -1,0 +1,43 @@
+
+
+2441. Mol Med Rep. 2016 Jan;13(1):379-85. doi: 10.3892/mmr.2015.4537. Epub 2015 Nov 9.
+
+MicroRNA‑566 modulates vascular endothelial growth factor by targeting Von
+Hippel‑Landau in human glioblastoma in vitro and in vivo.
+
+Xiao B(1), Zhou X(1), Ye M(2), Lv S(2), Wu M(2), Liao C(2), Han L(3), Kang C(3), 
+Zhu X(2).
+
+Author information: 
+(1)Department of Maxillary Facial and Otorhinolaryngology Head & Neck Surgery,
+Tianjin Medical University Cancer Institute & Hospital, National Clinical
+Research Center for Cancer, Tianjin Key Laboratory of Cancer Prevention and
+Therapy, Tianjin 300060, P.R. China.
+(2)Department of Neurosurgery, Second Affiliated Hospital of Nanchang University,
+Nanchang, Jiangxi 330006, P.R. China.
+(3)Department of Neurosurgery, Tianjin Medical University General Hospital,
+Laboratory of Neuro‑Oncology, Tianjin 300052, P.R. China.
+
+MicroRNAs (miRNAs) are able to function as either oncogenes or tumor suppressor
+genes in tumorigenesis, and have been proposed as novel targets for anticancer
+treatment. It has previously been suggested that miRNAs have important roles in
+the initiation and progression of glioblastoma; however, the effects of miR‑566
+in glioblastoma are currently unclear. The present study aimed to demonstrate
+that miR-566 can modulate vascular endothelial growth factor (VEGF) by targeting 
+Von Hippel‑Lindau (VHL) in glioblastoma in vitro and in vivo by inhibiting the
+expression of miR-566. Glioblastoma is a highly vascularized tumor, which
+exhibits increased expression of angiogenic factors, including VEGF, which are
+crucial in the process of glioblastoma angiogenesis. Existing research has
+demonstrated that VHL is a tumor suppressor gene that is associated with various 
+tumors. In addition, VHL is able to regulate the expression of VEGF by promoting 
+the degradation of hypoxia‑inducible factor‑1α via ubiquitination. It has been
+predicted, using bioinformatics, that the VHL gene is regulated by miR‑566.
+Therefore, the present study hypothesized that miR‑566 may regulate VEGF
+expression by targeting VHL during the angiogenic process of glioblastoma
+multiforme. The results of the present study demonstrated that inhibition of
+miR‑566 expression increases the expression levels of VHL, decreases the
+expression levels of VEGF, and inhibits the invasive and migratory abilities of
+glioblastoma. In addition, VHL was identified as a functional target of miR‑566.
+
+DOI: 10.3892/mmr.2015.4537 
+PMID: 26572705  [Indexed for MEDLINE]

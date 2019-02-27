@@ -1,0 +1,56 @@
+
+
+2869. Eur Arch Otorhinolaryngol. 2015 Dec;272(12):3635-43. doi:
+10.1007/s00405-014-3425-4. Epub 2014 Dec 7.
+
+Toxic inner ear lesion following otitis media with effusion: a comparative
+CT-study regarding the morphology of the inner ear.
+
+Wilhelm T(1), Stelzer T(2), Wiegand S(3), Güldner C(3), Teymoortash A(3), Günzel 
+T(4), Hagen R(5).
+
+Author information: 
+(1)Department of Otolaryngology, Head, Neck and Facial Plastic Surgery, Kliniken 
+Leipziger Land, Klinikum Borna, Rudolf-Virchow-Str. 2, 04552, Borna, Germany.
+thomas.wilhelm@kliniken-leipziger-land.de.
+(2)Department of Otolaryngology, Head, Neck and Facial Plastic Surgery, Kliniken 
+Leipziger Land, Klinikum Borna, Rudolf-Virchow-Str. 2, 04552, Borna, Germany.
+(3)Department of Otolaryngology, Head and Neck Surgery, Philipps-University,
+Marburg, Germany.
+(4)Department of Otolaryngology, Head and Neck Surgery, Borromäus Hospital, Leer,
+Germany.
+(5)Department of Otolaryngology and Facial Plastic Surgery,
+Julius-Maximilians-University, Würzburg, Germany.
+
+Viral infections of the upper respiratory airways can lead to a delayed viral
+otitis media (VOM) caused by a diffusion of viruses/virus particles through the
+round window membrane and resulting in sensorineural hearing loss. The treatment 
+of choice is immediate paracentesis, evacuation of all fluids from the middle ear
+cavity, and haemorrheological infusions. However, in some cases, persistent
+symptoms may be an indication for a surgical approach using mastoidectomy. In
+high-resolution computed tomography, an extended small-sized pneumatisation of
+the mastoid cells with complete shading was found in these non-responsive cases. 
+Therefore, a direct means of inner ear affliction through weak parts of the
+labyrinthine bone may be hypothesised. Patients suffering from a toxic inner ear 
+lesion (TIEL) following a common cold, treated over a 10-year period in a
+Tertiary Care Centre (N = 52, 57 ears), were identified and the morphological
+characteristics of the temporal bones of affected patients were examined by means
+of high-resolution computed tomography (hrCT). The findings were compared with a 
+matched control group of 64 normal ears (CONT). Measurements included the grade
+of pneumatisation, distances within the temporal bones and Hounsfield units (HU) 
+at defined anatomical structures. In the TIEL group, we found a small-sized
+pneumatisation in 79.4 % and a medium-sized pneumatisation in 10.9 %, thus
+differing from the CONT group and the literature data. Thickness of the bone wall
+of the lateral semicircular canal (LSC) and distances within the aditus ad antrum
+were significantly reduced in the TIEL group. HU's were markedly lower in the
+TIEL group at the precochlea, the LSC, and dorsolateral to the promentia of the
+LSC. There was a correlation between the HU's at the prominentia of the LSC and
+the hearing loss (p = 0.002). Persisting interosseous globuli, as described in
+1897 by Paul Manasse, form an osseochondral network within the otic capsule and
+may be responsible for a direct means of toxic inner ear infection. The
+CT-morphometric results support this thesis. In the group of these patients
+(TIEL) a CT-scan and in non-responders to conservative treatment a surgical
+approach by mastoidectomy is recommended.
+
+DOI: 10.1007/s00405-014-3425-4 
+PMID: 25481029  [Indexed for MEDLINE]

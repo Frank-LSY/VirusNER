@@ -1,0 +1,33 @@
+
+
+853. New Microbiol. 2013 Apr;36(2):133-44. Epub 2013 Mar 31.
+
+Human papillomavirus tumor-infiltrating T-regulatory lymphocytes and P53 codon 72
+polymorphisms correlate with clinical staging and prognosis of oropharyngeal
+cancer.
+
+Rittà M(1), Landolfo V, Mazibrada J, De Andrea M, Dell'Oste V, Caneparo V,
+Peretti A, Giordano C, Pecorari G, Garzaro M, Landolfo S.
+
+Author information: 
+(1)Department of Public Health and Microbiology, Turin Medical School, Turin,
+Italy.
+
+The association between human papillomavirus (HPV) DNA positivity, p53 codon 72
+polymorphisms, and the type of leukocyte infiltration in head and neck squamous
+cell carcinomas (HNSCC) and their combined impact upon patient survival is poorly
+investigated. For this reason, leukocyte infiltration profile and p53 codon 72
+polymorphisms were assessed in freshly removed HNSCC specimens (N=71 patients).
+HPV detection was performed by nested-PCR followed by DNA sequencing. Viral loads
+were determined by quantitative RT-PCR. The choice to investigate fresh instead
+of archive paraffin-embedded specimens was privileged to avoid possible artifacts
+due to sample processing. HPV DNA was detected in 14% of cases. Oropharyngeal
+carcinomas were the most frequently associated with the presence of HPV16 DNA
+(41%) and were associated with p53 Pro/Pro or Pro/Arg polymorphisms. In
+HPV16-positive oropharyngeal carcinomas increased infiltrations of CD3+ and
+FoxP3+ T-cells correlated with higher HPV16 copy numbers. The presence of HPV may
+trigger a stronger immune response and may be considered a reliable marker for
+clinical staging and a more favorable prognosis of oropharyngeal carcinoma.
+
+
+PMID: 23686119  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+2180. Nat Commun. 2018 Jul 16;9(1):2732. doi: 10.1038/s41467-018-04572-3.
+
+In vivo screening identifies GATAD2B as a metastasis driver in KRAS-driven lung
+cancer.
+
+Grzeskowiak CL(1), Kundu ST(2), Mo X(3), Ivanov AA(3), Zagorodna O(1), Lu H(1),
+Chapple RH(1), Tsang YH(1), Moreno D(1), Mosqueda M(4), Eterovic K(4), Fradette
+JJ(2), Ahmad S(2), Chen F(5), Chong Z(6), Chen K(6), Creighton CJ(5)(6)(7), Fu
+H(3), Mills GB(4), Gibbons DL(8)(9), Scott KL(1).
+
+Author information: 
+(1)Department of Molecular and Human Genetics, Baylor College of Medicine,
+Houston, TX, 77030, USA.
+(2)Department of Thoracic/Head and Neck Medical Oncology, The University of Texas
+MD Anderson Cancer Center, Houston, TX, 77030, USA.
+(3)Department of Pharmacology and Emory Chemical Biology Discovery Center, Emory 
+University School of Medicine, Atlanta, GA, 30322, USA.
+(4)Department of Systems Biology, University of Texas MD Anderson Cancer Center, 
+Houston, TX, 77030, USA.
+(5)Dan L. Duncan Cancer Center, Baylor College of Medicine, Houston, TX, 77030,
+USA.
+(6)Department of Bioinformatics and Computational Biology, The University of
+Texas MD Anderson Cancer Center, Houston, TX, 77030, USA.
+(7)Department of Medicine, Baylor College of Medicine, Houston, TX, 77030, USA.
+(8)Department of Thoracic/Head and Neck Medical Oncology, The University of Texas
+MD Anderson Cancer Center, Houston, TX, 77030, USA. dlgibbon@mdanderson.org.
+(9)Department of Molecular and Cellular Oncology, University of Texas MD Anderson
+Cancer Center, Houston, 77030, USA. dlgibbon@mdanderson.org.
+
+Genetic aberrations driving pro-oncogenic and pro-metastatic activity remain an
+elusive target in the quest of precision oncology. To identify such drivers, we
+use an animal model of KRAS-mutant lung adenocarcinoma to perform an in vivo
+functional screen of 217 genetic aberrations selected from lung cancer genomics
+datasets. We identify 28 genes whose expression promoted tumor metastasis to the 
+lung in mice. We employ two tools for examining the KRAS-dependence of genes
+identified from our screen: 1) a human lung cell model containing a regulatable
+mutant KRAS allele and 2) a lentiviral system permitting co-expression of
+DNA-barcoded cDNAs with Cre recombinase to activate a mutant KRAS allele in the
+lungs of mice. Mechanistic evaluation of one gene, GATAD2B, illuminates its role 
+as a dual activity gene, promoting both pro-tumorigenic and pro-metastatic
+activities in KRAS-mutant lung cancer through interaction with c-MYC and
+hyperactivation of the c-MYC pathway.
+
+DOI: 10.1038/s41467-018-04572-3 
+PMCID: PMC6048166
+PMID: 30013058  [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+
+
+1805. Head Neck. 2013 Jul;35(7):1048-55. doi: 10.1002/hed.22950. Epub 2012 Sep 20.
+
+Prognostic biomarkers of survival in oropharyngeal squamous cell carcinoma:
+systematic review and meta-analysis.
+
+Rainsbury JW(1), Ahmed W, Williams HK, Roberts S, Paleri V, Mehanna H.
+
+Author information: 
+(1)Institute of Head and Neck Studies and Education (InHANSE), University
+Hospital, Coventry, United Kingdom.
+
+BACKGROUND: Human papillomavirus (HPV) positivity improves prognosis in patients 
+with oropharyngeal squamous cell carcinoma (OPSCC). Combining HPV status with
+other biomarkers may improve its prognostic power.
+METHODS: The approach was a literature search for longitudinal studies of
+biomarkers in OPSCC, with systematic review and meta-analysis.
+RESULTS: In all, 3130 articles were identified; 32 satisfied the inclusion and
+exclusion criteria. On meta-analysis, there was a significant overall survival
+(OS) benefit for patients with HPV positive and p16 positive tumors. There was
+some evidence of improved OS of OPSCC patients with raised bcl2; amplification of
+11q3 and loss of 16q genes; and low c-met, ki67, IMD, PLK, FHIT, nuclear
+surviving, or nuclear cyclin D1. However, none of these was suitable for
+meta-analysis.
+CONCLUSION: Survival from OPSCC is associated with several biomarkers, which
+constitute potential targets for research into improving the prognostic power of 
+HPV in OPSCC. Larger trials are needed, with standardization of cut-points and
+adherence to consensus reporting guidelines.
+
+Copyright © 2012 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.22950 
+PMID: 22997051  [Indexed for MEDLINE]

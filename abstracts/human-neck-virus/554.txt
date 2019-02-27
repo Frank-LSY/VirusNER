@@ -1,0 +1,35 @@
+
+
+554. Oral Dis. 2015 Apr;21(3):349-54. doi: 10.1111/odi.12286. Epub 2014 Sep 18.
+
+Detection of human papillomavirus in the oral cavities of persons with Fanconi
+anemia.
+
+Winer RL(1), Huang CE, Cherne S, Stern JE, Butsch Kovacic MS, Mehta PA, Sauter
+SL, Galloway DA, Katzenellenbogen RA.
+
+Author information: 
+(1)Department of Epidemiology, University of Washington, Seattle, WA, USA.
+
+OBJECTIVE: We conducted a cross-sectional study to describe the prevalence and
+correlates of type-specific human papillomavirus (HPV) DNA in the oral cavities
+of persons with Fanconi anemia.
+MATERIALS AND METHODS: Oral swabs were collected from 67 participants with
+Fanconi anemia and tested for 27 HPV genotypes using polymerase chain
+reaction-based methods.
+RESULTS: Participants were a mean of 18.6 (standard deviation, 10.0) years of age
+(range 4-47 years). The prevalence of oral HPV infection was 7.5%, and the
+prevalence of high-risk HPV infection was 6.0%. HPV type 16 was not detected in
+any samples. Prevalence was higher in adults than in children (13.3% vs 2.7% in
+those ≥18 vs <18 years of age). Among adults, prevalence was higher in males than
+in females (25.0% vs 9.1%, respectively).
+CONCLUSIONS: Prevalence of oral HPV infection in persons with Fanconi anemia was 
+comparable to estimates from other studies in the general population. However, in
+contrast to previous studies, we did not identify HPV type 16 (the type found in 
+most HPV-related head and neck cancers) in any participants.
+
+© 2014 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/odi.12286 
+PMCID: PMC4344428
+PMID: 25158861  [Indexed for MEDLINE]

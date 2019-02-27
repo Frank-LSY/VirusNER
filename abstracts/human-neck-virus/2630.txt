@@ -1,0 +1,36 @@
+
+
+2630. Am J Dermatopathol. 2014 Sep;36(9):e163-6. doi: 10.1097/DAD.0000000000000094.
+
+Primary cutaneous adenoid cystic carcinoma of the scalp with p16 expression: a
+case report and review of the literature.
+
+Morrison AO(1), Gardner JM, Goldsmith SM, Parker DC.
+
+Author information: 
+(1)Departments of *Pathology and Laboratory Medicine, and †Dermatology, Emory
+University, Atlanta, GA; and ‡Department of Pathology, University of Arkansas for
+Medical Sciences, Little Rock, AR.
+
+INTRODUCTION: Adenoid cystic carcinoma (ACC) is a rare carcinoma that typically
+arises in salivary glands but can also occur in other sites including skin.
+Primary salivary ACC is a locally aggressive tumor characterized by local
+recurrence and late metastasis. Primary cutaneous ACC is found predominately on
+the scalp and is more indolent than salivary ACC; and, despite a high incidence
+of local recurrence, metastases are exceedingly rare.
+METHODS: A 62-year-old white male presented with a 6-mm mobile, blue-tinted
+nodule on the left mid scalp unchanged for several years.
+RESULTS: The histopathological findings of an excisional biopsy were diagnostic
+for a primary cutaneous ACC. Immunohistochemistry demonstrated focal positivity
+for p16.
+CONCLUSIONS: Primary cutaneous ACC is a rare malignancy that should be considered
+in the differential diagnosis of adnexal neoplasms and, when occurring on the
+head and neck, must be distinguished from cutaneous involvement by salivary ACC. 
+The majority of reported salivary ACC with p16 protein expression were not
+positive for high-risk human papilloma virus by in situ hybridization.
+Immunostaining for p16 has previously been reported in salivary gland ACC. This
+is the first report in the English literature of p16 immunoexpression in primary 
+cutaneous ACC.
+
+DOI: 10.1097/DAD.0000000000000094 
+PMID: 25062259  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+302. Ann Diagn Pathol. 2015 Oct;19(5):306-9. doi: 10.1016/j.anndiagpath.2015.06.006.
+Epub 2015 Jun 25.
+
+Gnathic and peripheral ameloblastomas lack human papillomavirus DNA.
+
+Verduin L(1), Bishop J(2), Mills SE(3).
+
+Author information: 
+(1)Department of Pathology, University of Virginia Health System,
+Charlottesville, VA. Electronic address: LV5F@virginia.edu.
+(2)Department of Pathology, Johns Hopkins Hospital, Baltimore, Maryland.
+Electronic address: jbishop@jhmi.edu.
+(3)Department of Pathology, University of Virginia Health System,
+Charlottesville, VA. Electronic address: SEM2R@virginia.edu.
+
+Human papillomavirus (HPV) has been associated with a variety of head and neck
+neoplasms, including squamous cell carcinomas and Schneiderian papillomas.
+Ameloblastomas can arise from either the gnathic bones or peripheral soft
+tissues. Peripheral sinonasal ameloblastomas share clinical features with
+Schneiderian papillomas. A small number of reports have described detection of
+HPV DNA within ameloblastomas. However, Most of these cases was reported in the
+1990s, used the polymerase chain reaction technique, and only examined gnathic
+tumors. The current study was designed to determine whether low- or high-risk HPV
+DNA could be detected in gnathic or peripheral ameloblastomas using in situ
+hybridization. Twenty-nine examples of gnathic osseous and peripheral head and
+neck ameloblastomas were obtained from the authors' archives (University of
+Virginia and the Johns Hopkins Hospital). High-risk HPV DNA was not detected in
+any of the 29 tumors analyzed. Low-risk HPV DNA was identified in only 1 tumor,
+which was peripheral in origin, and from an immunocompromised patient. We believe
+that the HPV in this case represents a background "passenger" infection. This
+study demonstrates that HPV of either high- or low-risk subtypes is unlikely to
+play a role in the pathogenesis of sinonasal ameloblastomas.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anndiagpath.2015.06.006 
+PMID: 26190154  [Indexed for MEDLINE]

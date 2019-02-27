@@ -1,0 +1,30 @@
+
+
+1833. Adv Genet. 2016;93:1-56. doi: 10.1016/bs.adgen.2015.12.001. Epub 2016 Feb 9.
+
+The Genomics, Epigenomics, and Transcriptomics of HPV-Associated Oropharyngeal
+Cancer--Understanding the Basis of a Rapidly Evolving Disease.
+
+Lechner M(1), Fenton TR(2).
+
+Author information: 
+(1)Head and Neck Centre, University College London Hospital, London, UK; UCL
+Cancer Institute, University College London, London, United Kingdom.
+(2)UCL Cancer Institute, University College London, London, United Kingdom.
+
+Human papillomavirus (HPV) has been shown to represent a major independent risk
+factor for head and neck squamous cell cancer, in particular for oropharyngeal
+carcinoma. This type of cancer is rapidly evolving in the Western world, with
+rising trends particularly in the young, and represents a distinct
+epidemiological, clinical, and molecular entity. It is the aim of this review to 
+give a detailed description of genomic, epigenomic, transcriptomic, and
+posttranscriptional changes that underlie the phenotype of this deadly disease.
+The review will also link these changes and examine what is known about the
+interactions between the host genome and viral genome, and investigate changes
+specific for the viral genome. These data are then integrated into an updated
+model of HPV-induced head and neck carcinogenesis.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/bs.adgen.2015.12.001 
+PMID: 26915269  [Indexed for MEDLINE]

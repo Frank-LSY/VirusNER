@@ -1,0 +1,38 @@
+
+
+3081. Am Soc Clin Oncol Educ Book. 2015:e519-26. doi: 10.14694/EdBook_AM.2015.35.e519.
+
+Merkel cell carcinoma: emerging biology, current approaches, and future
+directions.
+
+Tothill R(1), Estall V(1), Rischin D(1).
+
+Author information: 
+(1)From the Division of Research, Peter MacCallum Cancer Centre, and the Sir
+Peter MacCallum Department of Oncology, University of Melbourne, Melbourne,
+Australia; Department of Radiation Oncology and Skin and Melanoma Tumour Stream, 
+Peter MacCallum Cancer Centre, and the Department of Pathology, University of
+Melbourne, Melbourne, Australia; Division of Cancer Medicine, and Head and Neck
+Tumour Stream, Peter MacCallum Cancer Centre, the Sir Peter MacCallum Department 
+of Oncology and Department of Medicine, University of Melbourne, Melbourne,
+Australia.
+
+Merkel cell carcinoma (MCC) is an aggressive neuroendocrine cutaneous cancer that
+predominantly occurs in patients who are older, and is associated with a high
+rate of distant failure and mortality. Current management strategies that
+incorporate surgery and radiotherapy achieve high rates of locoregional control, 
+but distant failure rates remain problematic, highlighting the need for new
+effective systemic therapies. Chemotherapy can achieve high response rates of
+limited duration in the metastatic setting, but its role in definitive management
+remains unproven. Recent developments in our knowledge about the biology of MCC
+have led to the identification of new potential therapeutic targets and
+treatments. A key finding has been the discovery that a human polyomavirus may be
+a causative agent. However, emerging data suggests that MCC may actually be two
+distinct entities, viral-associated and viral-negative MCC, which is likely to
+have implications for the management of MCC in the future and for the development
+of new treatments. In this review, we discuss recent discoveries about the
+biology of MCC, current approaches to management, and new therapeutic strategies 
+that are being investigated.
+
+DOI: 10.14694/EdBook_AM.2015.35.e519 
+PMID: 25993218  [Indexed for MEDLINE]

@@ -1,0 +1,58 @@
+
+
+2232. Eur Arch Otorhinolaryngol. 2016 Oct;273(10):2877-94. doi:
+10.1007/s00405-015-3771-x. Epub 2015 Oct 13.
+
+Management of locally advanced HPV-related oropharyngeal squamous cell carcinoma:
+where are we?
+
+Samuels SE(1), Eisbruch A(1), Beitler JJ(2), Corry J(3), Bradford CR(4), Saba
+NF(5), van den Brekel MW(6), Smee R(7), Strojan P(8), Suárez C(9)(10), Mendenhall
+WM(11), Takes RP(12), Rodrigo JP(9)(10), Haigentz M Jr(13), Rapidis AD(14),
+Rinaldo A(15), Ferlito A(16).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Michigan, Ann Arbor, MI, USA.
+(2)Departments of Radiation Oncology, Otolaryngology and Medical Oncology, Emory 
+University School of Medicine, Atlanta, GA, USA.
+(3)Division of Radiation Oncology, Peter MacCallum Cancer Centre, Melbourne, VIC,
+Australia.
+(4)Department of Otolaryngology-Head and Neck Surgery, University of Michigan,
+Ann Arbor, MI, USA.
+(5)Department of Hematology and Medical Oncology, The Winship Cancer Institute of
+Emory University, Atlanta, GA, USA.
+(6)Department of Head and Neck Surgery and Oncology, Netherlands Cancer
+Institute, Antoni van Leeuwenhoek Hospital, Amsterdam, The Netherlands.
+(7)Department of Radiation Oncology, The Prince of Wales Cancer Centre, Sydney,
+NSW, Australia.
+(8)Department of Radiation Oncology, Institute of Oncology, Ljubljana, Slovenia.
+(9)Department of Otolaryngology, Hospital Universitario Central de Asturias,
+Oviedo, Spain.
+(10)Instituto Universitario de Oncología del Principado de Asturias, Universidad 
+de Oviedo, Oviedo, Spain.
+(11)Department of Radiation Oncology, University of Florida, Gainesville, FL,
+USA.
+(12)Department of Otolaryngology-Head and Neck Surgery, Radboud University
+Medical Center, Nijmegen, The Netherlands.
+(13)Division of Oncology, Department of Medicine, Albert Einstein College of
+Medicine, Montefiore Medical Center, Bronx, NY, USA.
+(14)Department of Head and Neck Surgery, Greek Anticancer Institute, Saint Savvas
+Hospital, Athens, Greece.
+(15)University of Udine School of Medicine, Udine, Italy.
+(16)Coordinator of the International Head and Neck Scientific Group, Padua,
+Italy. a.ferlito@uniud.it.
+
+HPV-related (HPV+) oropharyngeal cancer (OPC) has a better prognosis compared to 
+HPV unrelated (HPV-) OPC. This review summarizes and discusses several of the
+controversies regarding the management of HPV+ OPC, including the mechanism of
+its treatment sensitivity, modern surgical techniques, chemotherapy regimens, and
+treatment de-intensification protocols. We also discuss and reconsider potential 
+adverse prognostic factors such as tumor EGFR expression, tumor hypoxia, and
+patient smoking history, as well as the significance of retropharyngeal
+adenopathy. Finally, we discuss elective nodal treatment of uninvolved lymph node
+stations. While this review does not exhaust all controversies related to the
+management of HPV+ OPC, it aims to highlight some of the most clinically relevant
+ones.
+
+DOI: 10.1007/s00405-015-3771-x 
+PMID: 26463714  [Indexed for MEDLINE]

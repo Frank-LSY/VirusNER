@@ -1,0 +1,44 @@
+
+
+2780. Cancer Sci. 2014 Jan;105(1):72-80. doi: 10.1111/cas.12315. Epub 2013 Dec 1.
+
+Novel anti-tumor mechanism of galanin receptor type 2 in head and neck squamous
+cell carcinoma cells.
+
+Uehara T(1), Kanazawa T, Mizukami H, Uchibori R, Tsukahara T, Urabe M, Kume A,
+Misawa K, Carey TE, Suzuki M, Ichimura K, Ozawa K.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Graduate School of
+Medicine, University of the Ryukyus, Nishihara, Japan; Division of Genetic
+Therapeutics, Center for Molecular Medicine, Jichi Medical University,
+Shimotsuke, Japan; Department of Otolaryngology, Head and Neck Surgery, Jichi
+Medical University School of Medicine, Shimotsuke, Japan.
+
+Galanin and its receptors, GALR1 and GALR2, are known tumor suppressors and
+potential therapeutic targets in head and neck squamous cell carcinoma (HNSCC).
+Previously, we demonstrated that, in GALR1-expressing HNSCC cells, the addition
+of galanin suppressed tumor proliferation via upregulation of ERK1/2 and
+cyclin-dependent kinase inhibitors, whereas, in GALR2-expressing cells, the
+addition of galanin not only suppressed proliferation, but also induced
+apoptosis. In this study, we first transduced HEp-2 and KB cell lines using a
+recombinant adeno-associated virus (rAAV)-green fluorescent protein (GFP) vector 
+and confirmed a high GFP expression rate (>90%) in both cell lines at the
+standard vector dose. Next, we demonstrated that GALR2 expression in the presence
+of galanin suppressed cell viability to 40-60% after 72 h in both cell lines.
+Additionally, the annexin V-positive rate and sub-G0/G1 phase population were
+significantly elevated in HEp-2 cells (mock vs GALR2: 12.3 vs 25.0% (P < 0.01)
+and 9.1 vs 32.0% (P < 0.05), respectively) after 48 h. These changes were also
+observed in KB cells, although to a lesser extent. Furthermore, in HEp-2 cells,
+GALR2-mediated apoptosis was caspase-independent, involving downregulation of
+ERK1/2, followed by induction of the pro-apoptotic Bcl-2 protein, Bim. These
+results illustrate that transient GALR2 expression in the presence of galanin
+induces apoptosis via diverse pathways and serves as a platform for suicide gene 
+therapy against HNSCC.
+
+© 2013 The Authors. Cancer Science published by Wiley Publishing Asia Pty Ltd on 
+behalf of Japanese Cancer Association.
+
+DOI: 10.1111/cas.12315 
+PMCID: PMC4317884
+PMID: 24168112  [Indexed for MEDLINE]

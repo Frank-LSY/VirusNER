@@ -1,0 +1,35 @@
+
+
+2682. Sci Rep. 2014 Aug 20;4:6098. doi: 10.1038/srep06098.
+
+Regulation of HPV16 E6 and MCL1 by SF3B1 inhibitor in head and neck cancer cells.
+
+Gao Y(1), Trivedi S(2), Ferris RL(2), Koide K(1).
+
+Author information: 
+(1)Department of Chemistry, University of Pittsburgh, 219 Parkman Avenue,
+Pittsburgh, Pennsylvania 15260, USA.
+(2)University of Pittsburgh Cancer institute, Pittsburgh, Pennsylvania 15213,
+USA.
+
+ABT-737 inhibits the anti-apoptotic proteins B-cell lymphoma 2 (BCL-2) and
+BCL-X(L). Meayamycin B switches the splicing pattern of myeloid cell leukemia
+factor 1 (MCL1) pre-mRNA. Specifically, inhibition of splicing factor 3B subunit 
+1 (SF3B1) with meayamycin B promotes the generation of the proapoptotic, short
+splicing variant (MCL1-S) and diminishes the antiapoptotic, long variant
+(MCL1-L). This action was previously associated with the cytotoxicity of
+meayamycin B in non-small cell lung carcinoma cell lines. ABT-737 induced
+apoptosis in response to an ablation of MCL1-L by meayamycin B. In this study, we
+further exploited this synergistic combination in head and neck squamous cell
+carcinoma (HNSCC), up to 90% of which overexpress MCL1 and BCL-X(L). In a panel
+of seven HNSCC cell lines, the combination of meayamycin B and ABT-737 rapidly
+triggered a Bax/Bak-mediated apoptosis that overcame the resistance from
+HPV16-positive HNSCC against each agent alone. Both RT-PCR and Western blotting
+showed that meayamycin B up-regulated MCL1-S and down-regulated MCL1-L.
+Significantly, we discovered that SF3B1 was involved in the splicing of oncogenic
+HPV16 E6 to produce non-oncogenic HPV16 E6*, indicating that SF3B1 may inhibit
+HPV16-induced tumorigenesis.
+
+DOI: 10.1038/srep06098 
+PMCID: PMC4138523
+PMID: 25139387  [Indexed for MEDLINE]

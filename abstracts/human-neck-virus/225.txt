@@ -1,0 +1,26 @@
+
+
+225. MBio. 2014 Apr 29;5(3):e01015-14. doi: 10.1128/mBio.01015-14.
+
+Polymicrobial infection and bacterium-mediated epigenetic modification of DNA
+tumor viruses contribute to pathogenesis.
+
+Doolittle JM, Webster-Cyriaque J.
+
+ABSTRACT The human body plays host to a wide variety of microbes, commensal and
+pathogenic. In addition to interacting with their host, different microbes, such 
+as bacteria and viruses, interact with each other, sometimes in ways that
+exacerbate disease. In particular, gene expression of a number of viruses,
+including Kaposi's sarcoma-associated herpesvirus (KSHV), Epstein-Barr virus
+(EBV), and human immunodeficiency virus (HIV), is known to be regulated by
+epigenetic modifications induced by bacteria. These viruses establish latent
+infection in their host cells and can be reactivated by bacterial products. Viral
+reactivation has been suggested to contribute to periodontal disease and AIDS. In
+addition, bacterium-virus interactions may play a role in cancers, such as
+Kaposi's sarcoma, gastric cancer, and head and neck cancer. It is important to
+consider the effects of coexisting bacterial infections when studying viral
+diseases in vivo.
+
+DOI: 10.1128/mBio.01015-14 
+PMCID: PMC4010825
+PMID: 24781742  [Indexed for MEDLINE]

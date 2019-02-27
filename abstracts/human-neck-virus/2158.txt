@@ -1,0 +1,53 @@
+
+
+2158. Oral Oncol. 2017 Jun;69:80-83. doi: 10.1016/j.oraloncology.2017.04.010. Epub 2017
+Apr 21.
+
+Oncological outcome following de-intensification of treatment for stage I and II 
+HPV negative oropharyngeal cancers with transoral robotic surgery (TORS): A
+prospective trial.
+
+Dabas S(1), Gupta K(2), Ranjan R(3), Sharma AK(4), Shukla H(5), Dinesh A(6).
+
+Author information: 
+(1)Department of Surgical Oncology, Rajiv Gandhi Cancer Institute and Research
+Centre, New Delhi, India. Electronic address: surenderdabas318@yahoo.co.in.
+(2)Department of Surgical Oncology, Rajiv Gandhi Cancer Institute and Research
+Centre, New Delhi, India. Electronic address: guptakaran86@gmail.com.
+(3)Department of Surgical Oncology, Rajiv Gandhi Cancer Institute and Research
+Centre, New Delhi, India. Electronic address: ireetesh.ranjan@gmail.com.
+(4)Department of Surgical Oncology, Rajiv Gandhi Cancer Institute and Research
+Centre, New Delhi, India. Electronic address: drash12@gmail.com.
+(5)Department of Surgical Oncology, Rajiv Gandhi Cancer Institute and Research
+Centre, New Delhi, India. Electronic address: dr.himashushukla@gmail.com.
+(6)Department of Surgical Oncology, Rajiv Gandhi Cancer Institute and Research
+Centre, New Delhi, India. Electronic address: anant.dinesh@gmail.com.
+
+OBJECTIVE: This prospective study aimed to see long-term oncological outcome of
+Transoral Robotic Surgery as single modality treatment for cT1-T2 N0 HPV negative
+oropharyngeal malignancies.
+METHOD: From March 2013 to October 2015, 57 patients with early stage
+oropharyngeal carcinoma underwent Transoral robotic surgery (TORS) with neck
+dissection using daVinci® Surgical system. Patients were evaluated for disease
+free survival, overall survival, locoregional and distant metastasis.
+RESULTS: 57 patients (48 males and 9 females) underwent TORS for early stage
+oropharyngeal carcinoma. All patients underwent ipsilateral neck dissection and
+12 patients underwent bilateral neck dissection. 49 patients with final
+histopathology suggestive of stage I and II disease did not received any adjuvant
+treatment. Mean age at presentation was 59.4years (37-88years). Most common site 
+of involvement was the base of tongue (BOT) in 31 (54.8%) patients. Twenty-four
+(42.1%) patients were cT1 and 33 (57.9%) were cT2 at presentation. During
+follow-up, 2 (4.2%) patients recurred locoreginally and 1 (2.1%) patient had
+distant metastasis. Two patients expired due to causes other than malignancy.
+Forty-three (89.6%) patients were disease free on an average follow-up of
+29months with an overall survival of 93.8% at mean follow-up of 29months.
+CONCLUSION: Transoral Robotic Surgery as a single modality treatment is a good
+option for cure in HPV negative early resectable oropharyngeal malignancies which
+are relatively unresponsive to radiation. TORS can be used to de-intensify the
+treatment of early stage oropharyngeal carcinoma and thus avoid the early and
+late toxicities associated with Radiotherapy/Chemoradiotherapy.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2017.04.010 
+PMID: 28559025  [Indexed for MEDLINE]

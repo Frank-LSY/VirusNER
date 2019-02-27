@@ -1,0 +1,52 @@
+
+
+1824. Pathology. 2017 Aug;49(5):494-498. doi: 10.1016/j.pathol.2017.04.002. Epub 2017
+Jun 26.
+
+p16 expression in cutaneous squamous cell carcinoma of the head and neck is not
+associated with integration of high risk HPV DNA or prognosis.
+
+Satgunaseelan L(1), Chia N(2), Suh H(2), Virk S(2), Ashford B(3), Lum T(1),
+Ranson M(4), Clark J(5), Gupta R(6).
+
+Author information: 
+(1)Department of Tissue Pathology and Diagnostic Oncology, Royal Prince Alfred
+Hospital, Sydney, Australia.
+(2)University of New South Wales, Sydney, Australia.
+(3)University of Wollongong, Wollongong, Australia; Illawarra Health and Medical 
+Research Institute, Wollongong, Australia; Illawarra Shoalhaven Local Health
+District, Wollongong, Australia; Sydney Head and Neck Cancer Institute, Chris
+O'Brien Lifehouse, Sydney, Australia.
+(4)University of Wollongong, Wollongong, Australia; Illawarra Health and Medical 
+Research Institute, Wollongong, Australia.
+(5)Sydney Head and Neck Cancer Institute, Chris O'Brien Lifehouse, Sydney,
+Australia; Central Clinical School, University of Sydney, Sydney, NSW, Australia.
+(6)Department of Tissue Pathology and Diagnostic Oncology, Royal Prince Alfred
+Hospital, Sydney, Australia; Central Clinical School, University of Sydney,
+Sydney, NSW, Australia. Electronic address: Ruta.Gupta@sswahs.nsw.gov.au.
+
+Head and neck cutaneous squamous cell carcinoma (HNcSCC) can present with
+cervical metastases without an obvious primary. Immunohistochemistry for p16 is
+established as a surrogate marker of human papillomavirus (HPV) in oropharyngeal 
+cancer. p16 expression in HNcSCC needs to be elucidated to determine its utility 
+in predicting the primary site. The aim of this study was to evaluate the rate of
+p16 expression in HNcSCC and its association with prognostic factors and
+survival. p16 immunohistochemistry was performed on 166 patients with high risk
+HNcSCC (2000-2013) following histopathology review. Chromogenic in situ
+hybridisation (CISH) for HPV was performed. Fifty-three (31.9%) cases showed
+strong, diffuse nuclear and cytoplasmic p16 expression including 14 (41%)
+non-metastatic and 39 (29.5%) metastatic tumours (p=0.21). HPV CISH was negative 
+in all cases. p16 expression significantly increased with poorer differentiation 
+(p=0.033), but was not associated with size (p=0.30), depth of invasion (p=0.94),
+lymphovascular invasion (p=0.31), perineural invasion (p=0.69), keratinisation
+(p=0.99), number of involved nodes (p=0.64), extranodal extension (p=0.59) or
+survival. Nearly 32% of HNcSCCs, particularly poorly differentiated HNcSCCs, show
+p16 expression. A primary HNcSCC should be considered in p16 positive neck node
+metastases in regions with high prevalence of HNcSCC. p16 expression is not
+associated with improved survival in HNcSCC.
+
+Copyright © 2017 Royal College of Pathologists of Australasia. Published by
+Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.pathol.2017.04.002 
+PMID: 28663082  [Indexed for MEDLINE]

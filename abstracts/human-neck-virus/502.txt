@@ -1,0 +1,41 @@
+
+
+502. Oncogene. 2017 Mar 23;36(12):1687-1697. doi: 10.1038/onc.2016.335. Epub 2016 Oct 
+3.
+
+APOBEC3A associates with human papillomavirus genome integration in oropharyngeal
+cancers.
+
+Kondo S(1), Wakae K(2), Wakisaka N(1), Nakanishi Y(1), Ishikawa K(1), Komori
+T(1), Moriyama-Kita M(1), Endo K(1), Murono S(1), Wang Z(2)(3), Kitamura K(2),
+Nishiyama T(4), Yamaguchi K(5), Shigenobu S(5), Muramatsu M(2), Yoshizaki T(1).
+
+Author information: 
+(1)Division of Otolaryngology-Head and Neck Surgery, Graduate School of Medical
+Science, Kanazawa University, Kanazawa, Japan.
+(2)Department of Molecular Genetics, Graduate School of Medical Science, Kanazawa
+University, Kanazawa, Japan.
+(3)Division of Medical Oncology, Affiliated Zhongshan Hospital of Dalian
+University, Dalian, China.
+(4)Advanced Science Research Center, Kanazawa University, Kanazawa, Japan.
+(5)Functional Genomic Facility, National Institute of Basic Biology, Myodaiji,
+Okazaki, Japan.
+
+The prevalence of human papillomavirus (HPV)-related oropharyngeal cancers has
+been increasing in developed countries. We recently demonstrated that members of 
+the apolipoprotein B mRNA-editing catalytic polypeptide 3 (APOBEC3, A3) family,
+which are antiviral factors, can induce hypermutation of HPV DNA in vitro. In the
+present study, we found numerous C-to-T and G-to-A hypermutations in the HPV16
+genome in oropharyngeal cancer (OPC) biopsy samples using differential DNA
+denaturation PCR and next-generation sequencing. A3s were more abundantly
+expressed in HPV16-positive OPCs than in HPV-negative, as assessed using
+immunohistochemistry and reverse transcription quantitative PCR. In addition,
+interferons upregulated A3s in an HPV16-positive OPC cell line. Furthermore,
+quantitative PCR analysis of HPV DNA suggests that APOBEC3A (A3A) expression is
+strongly correlated with the integration of HPV DNA. These results suggest that
+HPV16 infection may upregulate A3A expression, thereby increasing the chance of
+viral DNA integration. The role of A3A in HPV-induced carcinogenesis is
+discussed.
+
+DOI: 10.1038/onc.2016.335 
+PMID: 27694899  [Indexed for MEDLINE]

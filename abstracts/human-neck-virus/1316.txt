@@ -1,0 +1,36 @@
+
+
+1316. Head Neck. 2016 Mar;38(3):380-6. doi: 10.1002/hed.23915. Epub 2015 Jun 30.
+
+Impact of human papillomavirus and smoking on survival outcomes after transoral
+robotic surgery.
+
+Stucken CL(1), de Almeida JR(1), Sikora AG(1)(2), Tong CC(1), Genden EM(1)(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Icahn School of Medicine
+at Mount Sinai, New York, New York.
+(2)The Tisch Cancer Institute, Icahn School of Medicine at Mount Sinai, New York,
+New York.
+
+BACKGROUND: The purpose of this study was to evaluate oncologic outcomes of head 
+and neck squamous cell carcinoma (HNSCC) treated with transoral robotic surgery
+(TORS) based on human papillomavirus (HPV) and smoking risk factors.
+METHODS: Fifty-five patients with HNSCC treated with TORS, neck dissection, +/-
+adjuvant chemotherapy, and/or radiation therapy were retrospectively analyzed
+based on HPV and smoking status.
+RESULTS: Smokers and nonsmokers had locoregional control rates of 96.3% and 94.4%
+(p = .66) and progression-free survival rates 83% and 94.1% (p = .09),
+respectively. HPV-negative and HPV-positive patients had locoregional control
+rates of 87.1% and 100% (p = .03) and progression-free survival rates of 74.2%
+and 95.2% (p = .01), respectively. Locoregional control rates for HPV-negative
+smokers, HPV-negative nonsmokers, HPV-positive smokers, and HPV-positive
+nonsmokers were 90.9%, 80.0%, 100%, and 100% (p = .18), whereas progression-free 
+survival rates were 72.2%, 80.0%, 92.3%, and 100% (p = .04), respectively.
+CONCLUSION: HPV status may be more important than smoking status in determining
+the risk of disease recurrence and death in patients treated with TORS.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23915 
+PMID: 25351893  [Indexed for MEDLINE]

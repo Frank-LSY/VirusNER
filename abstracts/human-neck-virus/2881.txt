@@ -1,0 +1,39 @@
+
+
+2881. Sichuan Da Xue Xue Bao Yi Xue Ban. 2018 May;49(3):347-351.
+
+[Expression and Regulatory Effect of miR-30b on Dynamin in Cochlear Hair Cells].
+
+[Article in Chinese]
+
+Li Y(1), Tang XL(1), Yu F(1), Li HJ(1), Yuan W(1).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery,Southwest Hospital,Third
+Military Medical University,Chongqing 400038,China.
+
+OBJECTIVE: To determine the expression of miR-30b in hair cells of mice,and its
+regulatory effect on the target gene DNM1 and expression of Dynamin,the key
+protein of synaptic endocytosis in inner hair cells.
+METHODS: The basilar membrane of cochlear in adult C57 mice was obtained. The
+expression of miR-30b in the hair cells was detected by in situ hybridization.
+Luciferase vector was constructed and transfected into 293T cells with miR-30b.
+Changes in luciferase activity were measured to verify whether DNM1 was the
+target gene of miR-30b. Adeno-associated virus carrying miR-30b were
+micro-injected into cochlear via the round window membrane. mRNA expressions of
+DNM1 and miR-30b were detected by RT-PCR 14 days later. The expression of Dynamin
+was detected by Western blot.
+RESULTS: miR-30b expressed in the inner and outer hair cells scattered in the
+region of the nucleus and cytoplasm. miR-30b reduced luciferase activity from the
+reporter vector containing DNM11 (P<0.05),but not in its mutants. Increased
+expressions of miR-30b and decreased mRNA expressions of DNM1 and Dynamin were
+observed following transfection of AAV-miR-30b.
+CONCLUSION: miR-30b expresses in inner and outer hair cells,which is consistent
+with the morphological orientation of dynamin. miR-30b inhibits the expression of
+Dynamin by targeting DNM11 gene.
+
+Copyright© by Editorial Board of Journal of Sichuan University (Medical Science
+Edition).
+
+
+PMID: 30014632  [Indexed for MEDLINE]

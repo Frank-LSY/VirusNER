@@ -1,0 +1,58 @@
+
+
+247. J Clin Virol. 2016 Sep;82:159-165. doi: 10.1016/j.jcv.2016.07.019. Epub 2016 Jul 
+28.
+
+Beta-HPV types in patients with head and neck pathology and in healthy subjects.
+
+Sabol I(1), Smahelova J(2), Klozar J(3), Mravak-Stipetic M(4), Gheit T(5),
+Tommasino M(5), Grce M(6), Tachezy R(7).
+
+Author information: 
+(1)Department of Immunology, Institute of Hematology and Blood Transfusion,
+Prague, Czech Republic; Department of Molecular Medicine, Ruđer Bošković
+Institute, Zagreb, Croatia.
+(2)Department of Genetics and Microbiology, Faculty of Science, Charles
+University in Prague, Czech Republic.
+(3)Department of Otorhinolaryngology and Head and Neck Surgery, First Faculty of 
+Medicine, Charles University in Prague, Motol University Hospital, Prague, Czech 
+Republic.
+(4)Department of Oral Medicine, School of Dental Medicine, University of Zagreb, 
+Zagreb, Croatia.
+(5)Infections and Cancer Biology Group, International Agency for Research on
+Cancer - World Health Organization, Lyon, France.
+(6)Department of Molecular Medicine, Ruđer Bošković Institute, Zagreb, Croatia.
+(7)Department of Genetics and Microbiology, Faculty of Science, Charles
+University in Prague, Czech Republic. Electronic address: Ruth.Tachezy@uhkt.cz.
+
+BACKGROUND: Human papillomaviruses (HPV) are a heterogeneous group of viruses
+classified into five genera. The beta-HPV type (beta-PV) infection is very common
+but mostly asymptomatic in immunocompetent individuals. However, beta-PVs play a 
+role in Epidermodysplasia verruciformis and possibly in non-melanoma skin cancer.
+Head and neck cancer (HNC) is a common cancer type worldwide and high-risk
+alpha-PV involvement in HNC has been extensively studied but beta-PV types have
+rarely been the focus of such studies.
+OBJECTIVES: To evaluate the prevalence of beta-PV types in HNC, subjects with
+non-malignant or potentially pre-malignant oral lesions, and healthy controls.
+STUDY DESIGN: The frequency of different beta-PVs in samples from oral (n=35) and
+oropharyngeal (n=35) cancer patients, gender- and age-matched healthy controls
+(n=70), and subjects with various non-malignant or potentially pre-malignant oral
+lesions (n=102) was assessed by a highly sensitive, bead-based, multiplex
+genotyping assay.
+RESULTS: Overall, 54.8% of all tested samples contained at least one beta-PV
+type. Even though the correlation between types found in lavage and tissue
+specimens from cancer patients was low, there was a large statistically
+significant difference between oropharyngeal cancer patients and matched controls
+for HPV5 (P=0.003; OR=15.58) and between both oral (P=0.026; OR=5.7) and
+oropharyngeal cancer patients (P=0.002; OR=25.5) and controls for HPV122. In
+addition, there was no correlation between the prevalence of alpha and beta-PVs
+in the study patients.
+CONCLUSION: The study provides new data on the prevalence of beta-PVs in HNC.
+HPV5 was found significantly associated with HNC as already observed by other
+studies. Additionally, the significant association of HPV122 with HNC might
+warrant further study as this type has not been extensively studied so far.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2016.07.019 
+PMID: 27500365  [Indexed for MEDLINE]

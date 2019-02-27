@@ -1,0 +1,48 @@
+
+
+2044. Int J Mol Sci. 2017 Dec 19;18(12). pii: E2752. doi: 10.3390/ijms18122752.
+
+Coinfection with Epstein-Barr Virus (EBV), Human Papilloma Virus (HPV) and
+Polyoma BK Virus (BKPyV) in Laryngeal, Oropharyngeal and Oral Cavity Cancer.
+
+Drop B(1), Strycharz-Dudziak M(2), Kliszczewska E(3), Polz-Dacewicz M(4).
+
+Author information: 
+(1)Department of Information Technology and Medical Statistics, Medical
+University of Lublin, 20-059 Lublin, Poland. bartlomiej.drop@umlub.pl.
+(2)Chair and Department of Conservative Dentistry with Endodontics, Medical
+University of Lublin, 20-059 Lublin, Poland.
+malgorzata.strycharz-dudziak@umlub.pl.
+(3)Department of Virology, Medical University of Lublin, 20-059 Lublin, Poland.
+ewakliszczewska@gmail.com.
+(4)Department of Virology, Medical University of Lublin, 20-059 Lublin, Poland.
+m.polz@umlub.pl.
+
+Most research providing evidence for the role of oncogenic viruses in head and
+neck squamous cell carcinoma (SCC) development is focused on one type of virus
+without analyzing possible interactions between two or more types of viruses. The
+aim of this study was to analyse the prevalence of co-infection with human
+papillomavirus (HPV), Epstein-Barr virus (EBV) and polyoma BK virus (BKPyV) in
+oral, oropharyngeal and laryngeal squamous cell carcinomas in Polish patients.
+The correlations between viral infection, SCC, demographic parameters, evidence
+of metastases and grading were also investigated. Fresh-frozen tumour tissue
+samples were collected from 146 patients with laryngeal, oropharyngeal and oral
+cancer. After DNA extraction, the DNA of the studied viruses was detected using
+polymerase chain rection (PCR) assay. Males (87.7%) with a history of smoking
+(70.6%) and alcohol abuse (59.6%) prevailed in the studied group. Histological
+type G2 was recognized in 64.4% cases. The patients were most frequently
+diagnosed with T2 stage (36.3%) and with N1 stage (45.8%). Infection with at
+least two viruses was detected in 56.2% of patients. In this group, co-infection 
+with HPV/EBV was identified in 34.1% of cases, EBV/BKV in 23.2%, HPV/BKV in
+22.0%, and HPV/EBV/BKV in 20.7%. No difference of multiple infection in different
+locations of cancer was observed. The prevalence of poorly differentiated tumours
+(G3) was more frequent in co-infection with all three viruses than EBV or BKV
+alone. A significant correlation was observed between tumour dimensions (T) and
+lymph-node involvement (N) in co-infected patients compared to single infection. 
+Further studies are necessary to clarify whether co-infection plays an important 
+role in the initiation and/or progression of oncogenic transformation of oral,
+oropharyngeal and laryngeal epithelial cells.
+
+DOI: 10.3390/ijms18122752 
+PMCID: PMC5751351
+PMID: 29257122  [Indexed for MEDLINE]

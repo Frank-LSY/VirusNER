@@ -1,0 +1,47 @@
+
+
+1317. Cancer Cytopathol. 2014 Feb;122(2):96-103. doi: 10.1002/cncy.21375. Epub 2013 Dec
+11.
+
+Cervista HPV assays for fine-needle aspiration specimens are a valid option for
+human papillomavirus testing in patients with oropharyngeal carcinoma.
+
+Guo M(1), Khanna A, Dhillon J, Patel SJ, Feng J, Williams MD, Bell DM, Gong Y,
+Katz RL, Sturgis EM, Staerkel GA.
+
+Author information: 
+(1)Department of Pathology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas.
+
+Comment in
+    Cancer Cytopathol. 2014 Feb;122(2):92-5.
+
+BACKGROUND: The objectives of this study were to evaluate the validity of
+Cervista human papillomavirus (HPV) assays in head and neck fine-needle
+aspiration (FNA) specimens from patients with head and neck squamous carcinomas
+and to verify that the Cervista assay in FNA specimens is a valid option for
+determining HPV status in patients with oropharyngeal carcinomas.
+METHODS: The authors retrospectively retrieved 64 head and neck FNA specimens
+from patients who had head and neck squamous carcinoma. The specimens were tested
+for HPV types 16 and 18 (HPV16/18) and for high-risk (HR) HPV DNA using the
+Cervista HPV16/18 and HPV HR assays, respectively. The results from those assays 
+were compared with the results from polymerase chain reaction (PCR)-based HPV
+assays in the same tissues and with the results from HPV in situ hybridization
+assays/p16 immunostaining in the corresponding primary tumors.
+RESULTS: In total, 64 FNA specimens were analyzed. The Cervista HPV16/18 and/or
+HPV HR assays were positive in 48 of 64 specimens (75%), and there was a
+predominance of HPV16 (42 of 48 specimens; 88%). In the 49 specimens that had
+PCR-based test results, overall agreement with Cervista assay results was 96% (47
+of 49 specimens; κ = 0.883). In the 49 specimens that had PCR-based HPV16/18
+genotyping results, overall agreement with the Cervista HPV16/18 results was 94% 
+(46 of 49 specimens; κ = 0.847). In the 36 primary carcinoma specimens that had
+valid HPV in situ hybridization/p16 immunostaining results, overall agreement
+with the Cervista assay results was 92% (33 of 36 specimens; κ = 0.679).
+CONCLUSIONS: Cervista HPV16/18 and Cervista HPV HR testing of head and neck FNA
+specimens is a valid option for determining HPV16/18 status in patients with
+oropharyngeal carcinoma.
+
+© 2013 American Cancer Society.
+
+DOI: 10.1002/cncy.21375 
+PMID: 24339259  [Indexed for MEDLINE]

@@ -1,0 +1,51 @@
+
+
+1845. Oral Oncol. 2016 Sep;60:118-24. doi: 10.1016/j.oraloncology.2016.07.006. Epub
+2016 Jul 21.
+
+Outcomes after surgical salvage for recurrent oropharyngeal squamous cell
+carcinoma.
+
+Sweeny L(1), Rosenthal EL(2), Clemons L(1), Stevens TM(3), Cook McIntosh ER(3),
+Carroll WR(4).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, University of Alabama at
+Birmingham, Birmingham, AL, United States.
+(2)Department of Otolaryngology - Head and Neck Surgery, Stanford University,
+Stanford, CA, United States.
+(3)Department of Pathology, University of Alabama at Birmingham, Birmingham, AL, 
+United States.
+(4)Department of Otolaryngology - Head and Neck Surgery, University of Alabama at
+Birmingham, Birmingham, AL, United States. Electronic address:
+wcarroll@uabmc.edu.
+
+OBJECTIVE: Compare human papillomavirus (HPV) status and outcomes in patients
+undergoing salvage surgical resection for a recurrent oropharyngeal squamous cell
+carcinoma (OPSCC).
+METHODS: Case series with chart review (2005-2013).
+RESULTS: Sixty-nine patients were identified who underwent salvage surgical
+resection for a recurrent OPSCC after primary radiation therapy. There was no
+difference in the incidence of HPV negative (52%; n=36) and HPV positive (48%;
+n=33) tumors. The mean time from completion of radiation therapy to salvage
+surgery was 2.4years. At the time of salvage operation, there was no correlation 
+with HPV status, as assessed by p16 immunohistochemistry, and lymph node
+metastases (p=0.21), T classification (p=0.22), tracheostomy dependence (p=0.59),
+gastrostomy tube dependence (p=0.82), or duration from radiation therapy
+(p=0.63). The majority of patients were either current or former tobacco users
+(75%) and of the HPV positive patients, 66% were tobacco users. Development of a 
+new recurrence after salvage surgical resection occurred in 33% of patients
+(n=26), with a higher incidence in patients with HPV negative disease (52%,
+n=17/33; p=0.05). The overall 2- and 5-year survival rates were 0.47 and 0.23.
+There was no difference in overall survival rates when stratified by HPV status
+or tobacco use. Decreased overall 5-year survival rates did correlate with
+cervical lymph node metastases (p=0.01), advanced tumor stage (p=0.04) and
+dependence on gastrostomy tube postoperatively (p=0.04).
+CONCLUSIONS: This study found cervical lymph node metastases, clinical stage, and
+dependence on gastrostomy tube for nutrition to have the greatest impact on
+overall survival for patients with recurrent OPSCC.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.07.006 
+PMID: 27531882  [Indexed for MEDLINE]

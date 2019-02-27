@@ -1,0 +1,35 @@
+
+
+2700. World Neurosurg. 2016 Jun;90:703.e1-703.e3. doi: 10.1016/j.wneu.2016.02.082. Epub
+2016 Feb 27.
+
+Isolated Cerebellar Spindle Cell Pseudotumor Caused by Mycobacterium
+Avium-Intracellulare Complex in a Patient without AIDS.
+
+Lim MS(1), Bermingham N(2), O'Broin C(3), Khalil A(4), Keohane C(2), Lim C(4).
+
+Author information: 
+(1)Department of Neurosurgery, Cork University Hospital, Cork, Ireland.
+Electronic address: mingsheng.lim@gmail.com.
+(2)Department of Neuropathology, Cork University Hospital, Cork, Ireland.
+(3)Department of Infectious Diseases, Cork University Hospital, Cork, Ireland.
+(4)Department of Neurosurgery, Cork University Hospital, Cork, Ireland.
+
+BACKGROUND: Spindle cell pseudotumors are formed by histiocytes in response to
+infection by Mycobacterium avium-intracellulare complex (MAC) and are rare in
+patients without AIDS.
+CASE DESCRIPTION: A 66-year-old man presented with neck pain, ataxia, and a
+history of sarcoidosis. A cerebellar lesion was identified on magnetic resonance 
+imaging and surgically excised. Histopathology revealed this to be a spindle cell
+pseudotumor and MAC was isolated by bacterial culture of cerebrospinal fluid.
+Hematology revealed cluster of differentiation 4 lymphocytopenia but human
+immunodeficiency virus serology was negative. The patient was commenced on
+antimicrobial treatment that included a macrolide and remained well at 1 year
+follow-up.
+CONCLUSIONS: This rare presentation of isolated intracranial MAC was treated with
+surgical excision and antimicrobials with a good outcome.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2016.02.082 
+PMID: 26926796  [Indexed for MEDLINE]

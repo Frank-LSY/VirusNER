@@ -1,0 +1,37 @@
+
+
+23. Viruses. 2017 Jun 21;9(6). pii: E156. doi: 10.3390/v9060156.
+
+The Role of cccDNA in HBV Maintenance.
+
+Allweiss L(1), Dandri M(2)(3).
+
+Author information: 
+(1)I. Department of Internal Medicine, Center for Internal Medicine, University
+Medical Center Hamburg-Eppendorf, Martinistr. 52, D-20246 Hamburg, Germany.
+l.allweiss@uke.de.
+(2)I. Department of Internal Medicine, Center for Internal Medicine, University
+Medical Center Hamburg-Eppendorf, Martinistr. 52, D-20246 Hamburg, Germany.
+m.dandri@uke.de.
+(3)German Center for Infection Research (DZIF), Hamburg-Lübeck-Borstel Site,
+Germany. m.dandri@uke.de.
+
+Chronic hepatitis B virus (HBV) infection continues to be a major health burden
+worldwide; it can cause various degrees of liver damage and is strongly
+associated with the development of liver cirrhosis and hepatocellular carcinoma. 
+The molecular mechanisms determining HBV persistence are not fully understood,
+but these appear to be multifactorial and the unique replication strategy
+employed by HBV enables its maintenance in infected hepatocytes. Both the
+stability of the HBV genome, which forms a stable minichromosome, the covalently 
+closed circular DNA (cccDNA) in the hepatocyte nucleus, and the inability of the 
+immune system to resolve chronic HBV infection are believed to be key mechanisms 
+of HBV chronicity. Since a true cure of HBV requires clearance of intranuclear
+cccDNA from infected hepatocytes, understanding the mechanisms involved in cccDNA
+biogenesis, regulation and stability is mandatory to achieve HBV eradication.
+This review will summarize the state of knowledge on these mechanisms including
+the impact of current treatments on the cccDNA stability and activity. We will
+focus on events challenging cccDNA persistence in dividing hepatocytes.
+
+DOI: 10.3390/v9060156 
+PMCID: PMC5490831
+PMID: 28635668  [Indexed for MEDLINE]

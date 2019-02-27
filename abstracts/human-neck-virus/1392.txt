@@ -1,0 +1,46 @@
+
+
+1392. Eur Arch Otorhinolaryngol. 2016 Jul;273(7):1933-42. doi:
+10.1007/s00405-016-3953-1. Epub 2016 Mar 9.
+
+Oral HPV prevalence in women positive for cervical HPV infection and their sexual
+partners: a German screening study.
+
+Uken RB(1), Brummer O(2), von Schubert-Bayer C(3), Brodegger T(4), Teudt IU(5).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, Asklepios Klinik Hamburg 
+Altona, Paul-Ehrlich-Strasse 1, 22763, Hamburg, Germany.
+(2)Tagesklinik Altonaer Strasse, Private Gynaecology Praxis, Hamburg, Germany.
+(3)Department of Gynaecology, Obstetrics and Dysplasia Centre, Asklepios Klinik
+Hamburg Altona, Hamburg, Germany.
+(4)Department of Molecular Genetics, MEDILYS Laborgesellschaft mbH, c/o,
+Asklepios Klinik Hamburg Altona, Hamburg, Germany.
+(5)Department of Otolaryngology, Head and Neck Surgery, Asklepios Klinik Hamburg 
+Altona, Paul-Ehrlich-Strasse 1, 22763, Hamburg, Germany. ingoteudt@web.de.
+
+The incidence of human papillomavirus (HPV) associated oropharyngeal squamous
+cell cancer (OSCC) is on the rise. With the HPV-positive uterine cervix as a
+reservoir, HPV-positive OSCC is discussed as a sexually transmitted disease.
+Mechanisms of HPV transmission to the oral cavity are poorly understood. To gain 
+more insight into HPV-transmission routes, cervically HPV-positive women and
+their sexual partners are screened for oral HPV infection. Women with cervical
+dysplasia underwent HPV testing of the uterine cervix and tonsillar region via
+brush test. In addition, sexual partners received oral HPV testing. Tonsillar
+brush tests of patients admitted for routine surgery served as the control group.
+The HPV-PCR (Roche Linear Array Kit) was used to differentiate 37 HPV types. All 
+participants completed a risk-factor questionnaire focusing on sexual habits. 101
+women were tested HPV-positive at the cervix. Only 3/101 (3 %) were tested
+HPV-positive in the oropharynx. In 60/101 (60 %) women the sexual partner could
+be tested for oral HPV infection: testing was positive in 3/60 (5 %). No oral HPV
+was detected in the control group. The risk-factor questionnaire revealed
+significant differences between the female study- and control group in terms of
+age at first sexual intercourse and smoking habits. The limited data suggest that
+among sexual partners in Germany, HPV transmission to the oropharynx by
+oral-genital sex or by autoinoculation is a rare and unlikely event with low HPV 
+concordance. Another explanation for the low oral prevalence could be an
+independent clearance of HPV from the oropharyngeal site compared to cervix uteri
+or at different time intervals.
+
+DOI: 10.1007/s00405-016-3953-1 
+PMID: 26961518  [Indexed for MEDLINE]

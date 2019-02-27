@@ -1,0 +1,41 @@
+
+
+40. J Natl Cancer Inst. 2015 Dec 9;107(12):djv344. doi: 10.1093/jnci/djv344. Print
+2015 Dec.
+
+HPV-Associated Head and Neck Cancer.
+
+Vokes EE(1), Agrawal N(2), Seiwert TY(2).
+
+Author information: 
+(1)Section of Hematology-Oncology, Department of Medicine (EEV, TYS), Section of 
+Otolaryngology and Head and Neck Surgery, Department of Surgery (NA), and The
+University of Chicago Comprehensive Cancer Center (EEV, TYS), The University of
+Chicago, Chicago, IL. evokes@medicine.bsd.uchicago.edu.
+(2)Section of Hematology-Oncology, Department of Medicine (EEV, TYS), Section of 
+Otolaryngology and Head and Neck Surgery, Department of Surgery (NA), and The
+University of Chicago Comprehensive Cancer Center (EEV, TYS), The University of
+Chicago, Chicago, IL.
+
+Comment on
+    J Natl Cancer Inst. 2008 Feb 20;100(4):261-9.
+
+Over the last two decades, it has been recognized that head and neck cancers,
+primarily in the oropharynx, can be a distinct entity that is causally related to
+human papilloma virus (HPV). Fakhry et al. established in 2008 that such tumors
+have a strikingly better prognosis with improved responsiveness to chemotherapy
+as well as chemoradiotherapy and favorable survival rates. Since then, new
+studies have contributed to our increased understanding of this new entity,
+ranging from a detailed understanding of the genetic fingerprint and risk
+modifiers such as smoking to successful early attempts to personalize therapy
+with de-escalation in the definitive intent treatment setting and specific
+evaluation of targeted therapies in this patient population. This Commentary
+seeks to summarize the state of the art of our understanding of HPV-associated
+head and neck cancers that has emerged since the publication of seminal findings 
+by Fakhry et al.
+
+© The Author 2015. Published by Oxford University Press. All rights reserved. For
+Permissions, please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/jnci/djv344 
+PMID: 26656751  [Indexed for MEDLINE]

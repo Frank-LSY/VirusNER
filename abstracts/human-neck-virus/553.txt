@@ -1,0 +1,56 @@
+
+
+553. Br J Cancer. 2015 Jun 30;113(1):131-4. doi: 10.1038/bjc.2015.198. Epub 2015 Jun
+4.
+
+Increasing incidence of base of tongue cancers from 2000 to 2010 due to HPV: the 
+largest demographic study of 210 Danish patients.
+
+Garnaes E(1), Kiss K(2), Andersen L(3), Therkildsen MH(2), Franzmann MB(4),
+Filtenborg-Barnkob B(5), Hoegdall E(6), Lajer CB(1), Andersen E(7), Specht L(8), 
+Joenson L(9), Frederiksen K(10), Friis-Hansen L(9), Nielsen FC(9), Kjaer SK(11), 
+Norrild B(12), von Buchwald C(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery and Audiology,
+Rigshospitalet, University of Copenhagen, Copenhagen, Denmark.
+(2)Department of Pathology, Rigshospitalet, University of Copenhagen, Copenhagen,
+Denmark.
+(3)Department of Pathology, Roskilde Hospital, Roskilde, Denmark.
+(4)Department of Pathology, Hvidovre Hospital, Hvidovre, Denmark.
+(5)Department of Pathology, Naestved/Slagelse Hospital, Region of Zealand,
+Denmark.
+(6)Department of Pathology, Herlev Hospital, University of Copenhagen,
+Copenhagen, Denmark.
+(7)Department of Oncology, Herlev Hospital, University of Copenhagen, Copenhagen,
+Denmark.
+(8)Department of Oncology, Rigshospitalet, University of Copenhagen, Copenhagen, 
+Denmark.
+(9)Center for Genomic Medicine, Rigshospitalet, University of Copenhagen,
+Copenhagen, Denmark.
+(10)Department of Statistics, Bioinformatics and Registry, Danish Cancer Society 
+Research Center, Copenhagen, Denmark.
+(11)Department of Virus, Lifestyle and Genes, Danish Cancer Society Research
+Center and Department of Gynaecology, Rigshospitalet, University of Copenhagen,
+Copenhagen, Denmark.
+(12)Institute of Cellular and Molecular Medicine, Panum Institute, University of 
+Copenhagen, Copenhagen, Denmark.
+
+BACKGROUND: We assessed the development in the number of new base of tongue
+squamous-cell carcinoma (BSCC) cases per year in eastern Denmark from 2000 to
+2010 and whether HPV may explain any observable increased incidence.
+METHODS: We performed HPV DNA PCR and p16 immunohistochemistry analysis for all
+(n=210) BSCCs registered in the Danish Head and Neck Cancer Group (DAHANCA) and
+the Danish Pathology Data Bank, and genotyped all HPV-positive specimens with
+amplicon-based next-generation sequencing.
+RESULTS: The overall crude incidence of BSCCs increased significantly (5.4% per
+year) during the study period. This was explained by a significant increase in
+the number of HPV-positive BSCCs (8.1% per year), whereas the number of
+HPV-negative BSCCs did not increase significantly. The overall HPV prevalence was
+51%, with HPV16 as the predominant HPV type.
+CONCLUSIONS: The increased number of HPV-positive BSCCs may explain the
+increasing incidence of BSCCs in eastern Denmark, 2000-2010.
+
+DOI: 10.1038/bjc.2015.198 
+PMCID: PMC4647522
+PMID: 26042932  [Indexed for MEDLINE]

@@ -1,0 +1,33 @@
+
+
+1041. Oncol Rep. 2009 Nov;22(5):1039-43.
+
+Use of telomelysin (OBP-301) in mouse xenografts of human head and neck cancer.
+
+Nakajima O(1), Ichimaru D, Urata Y, Fujiwara T, Horibe T, Kohno M, Kawakami K.
+
+Author information: 
+(1)Department of Pharmacoepidemiology, Graduate School of Medicine and Public
+Health, Kyoto University, Kyoto 606-8501, Japan.
+
+We previously reported that telomerase-specific replication-component
+adenovirous, Telomelysin (OBP-301) has cytotoxic activity to the YCUT892,
+KCCT873, KCCT891, KCCL871, YCUM862, HN12, and KCCOR891 cell lines in vitro, and
+investigated the association between cytotoxic activity and adenoviral receptor
+expression. In this study, we evaluated the most appropriate way to administer
+telomelysin (OBP-301) in the treatment of squamous cell carcinoma of the head and
+neck (SCCHN), and assessed the effect of OBP-301 in large subcutaneous KCCT873
+human SCCHN tumors in immunodeficient mice. We also compared antitumor responses 
+following three intratumoral (i.t.) injections of OBP-301 given daily, every 2
+days or weekly. To investigate the mechanism of the antitumor effect, we
+evaluated cellular infiltration in treated tumors. OBP-301 showed remarkable
+antitumor activity against large KCCT873 tumors, and three treatment schedules
+produced similar antitumor effects. The weekly regimen also significantly reduced
+the growth of large tumors. Immunochemistry revealed that macrophages, but not
+natural killer cells, were responsible for tumor regression. A regimen of three
+weekly injections of OBP-301 has remarkable antitumor effects against large
+KCCT873 tumors. These results may provide a new platform for treating patients
+with localized SCCHN.
+
+
+PMID: 19787218  [Indexed for MEDLINE]

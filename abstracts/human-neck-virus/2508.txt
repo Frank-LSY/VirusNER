@@ -1,0 +1,28 @@
+
+
+2508. Expert Rev Anticancer Ther. 2010 Sep;10(9):1471-84. doi: 10.1586/era.10.115.
+
+Molecular biology of squamous cell carcinoma of the head and neck: relevance and 
+therapeutic implications.
+
+Schmitz S(1), Machiels JP.
+
+Author information: 
+(1)Centre du Cancer, Department of Medical Oncology, Clinique de Cancérologie
+Cervico-Maxillo-Faciale, Cliniques Universitaires Saint-Luc, Université
+Catholique de Louvain, Brussels, Belgium. sandra.schmitz@uclouvain.be
+
+More than 90% of all head and neck cancers are squamous cell carcinoma. Despite
+advances in the management of patients with this disease, the survival rate has
+not been significantly improved. Several mechanisms of carcinogenesis have been
+elucidated and molecular targeted agents seem to be promising therapeutic tools. 
+Cetuximab, a monoclonal antibody inhibitor of the EGF receptor, improves survival
+rates in association with radiotherapy in advanced squamous cell carcinoma of the
+head and neck (SCCHN) or in palliative disease, and is nowadays the only targeted
+agent approved in this indication. Other targeted agents are also clinically
+relevant to the treatment of different malignancies, including SCCHN. This
+article focuses on the major molecular pathways implicated in SCCHN
+carcinogenesis and provides an overview of their therapeutic implications.
+
+DOI: 10.1586/era.10.115 
+PMID: 20836682  [Indexed for MEDLINE]

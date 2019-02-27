@@ -1,0 +1,35 @@
+
+
+2485. Oncol Rep. 2013 May;29(5):1777-84. doi: 10.3892/or.2013.2340. Epub 2013 Mar 11.
+
+ALDH1-positive cancer stem-like cells are enriched in nodal metastases of
+oropharyngeal squamous cell carcinoma independent of HPV status.
+
+Qian X(1), Wagner S, Ma C, Klussmann JP, Hummel M, Kaufmann AM, Albers AE.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery,
+Charité-Universitätsmedizin Berlin, Campus Benjamin Franklin, Berlin, Germany.
+
+Oropharyngeal squamous cell carcinoma (OSCC) is caused by high-risk (HR) human
+papillomavirus (HPV) or alcohol and tobacco abuse. Aldehyde dehydrogenase 1
+(ALDH1) is a confirmed marker for cancer stem-like cells (CSCs) of OSCC
+responsible for therapy resistance, recurrence and metastasis. Associations
+between HR-HPV/p16, CSC frequency and clinicopathological parameters in patients 
+with metastatic OSCC were investigated. In the present study, HPV genotypes and
+expression of ALDH1 and p16 was analyzed in 40 paired OSCC and metastases. A
+significant correlation between ALDH1 positivity with lower primary tumor
+differentiation grade (P=0.009) and higher nodal status (P=0.015) was noted.
+Compared to primary tumors, the proportion of ALDH1-expressing cells was
+significantly increased in metastases (P=0.012), while significantly fewer
+ALDH1-expressing cells were found in HR-HPV-DNA⁺/p16⁺ primary tumors (P=0.038)
+compared to HR-HPV-DNA⁻/p16⁻ primary tumors. Metastases showed no difference.
+ALDH1⁺ CSCs are detectable in OSCC and metastases. ALDH1 high-grade OSCC exhibits
+a more aggressive phenotype characterized by higher nodal classification and
+lower differentiation. This suggests a subpopulation contained in the
+ALDH1-positive OSCC cell pool able to complete the metastatic cascade and
+subsequently enriching in metastasis independent of tumor etiology and ALDH1
+content.
+
+DOI: 10.3892/or.2013.2340 
+PMID: 23483187  [Indexed for MEDLINE]

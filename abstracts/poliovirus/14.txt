@@ -1,0 +1,48 @@
+
+
+14. Cell Host Microbe. 2016 Apr 13;19(4):493-503. doi: 10.1016/j.chom.2016.03.009.
+
+RNA Recombination Enhances Adaptability and Is Required for Virus Spread and
+Virulence.
+
+Xiao Y(1), Rouzine IM(2), Bianco S(3), Acevedo A(1), Goldstein EF(1), Farkov
+M(4), Brodsky L(4), Andino R(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA 94158, USA.
+(2)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA 94158, USA; Department of Pharmaceutical Chemistry, 
+University of California, San Francisco, San Francisco, CA 94158, USA.
+(3)Department of Industrial and Applied Genomics, Accelerated Discovery Lab, IBM 
+Almaden Research Center, 650 Harry Road, San Jose, CA 95120-6099, USA.
+(4)Tauber Bioinformatics Research Center and Department of Evolutionary and
+Environmental Biology, University of Haifa, Mount Carmel, Haifa 31905, Israel.
+(5)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA 94158, USA. Electronic address:
+raul.andino@ucsf.edu.
+
+Erratum in
+    Cell Host Microbe. 2017 Sep 13;22(3):420.
+
+Mutation and recombination are central processes driving microbial evolution. A
+high mutation rate fuels adaptation but also generates deleterious mutations.
+Recombination between two different genomes may resolve this paradox, alleviating
+effects of clonal interference and purging deleterious mutations. Here we
+demonstrate that recombination significantly accelerates adaptation and evolution
+during acute virus infection. We identified a poliovirus recombination
+determinant within the virus polymerase, mutation of which reduces recombination 
+rates without altering replication fidelity. By generating a panel of variants
+with distinct mutation rates and recombination ability, we demonstrate that
+recombination is essential to enrich the population in beneficial mutations and
+purge it from deleterious mutations. The concerted activities of mutation and
+recombination are key to virus spread and virulence in infected animals. These
+findings inform a mathematical model to demonstrate that poliovirus adapts most
+rapidly at an optimal mutation rate determined by the trade-off between selection
+and accumulation of detrimental mutations.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2016.03.009 
+PMCID: PMC4840895
+PMID: 27078068  [Indexed for MEDLINE]

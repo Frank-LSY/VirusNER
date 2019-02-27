@@ -1,0 +1,31 @@
+
+
+26. J Matern Fetal Neonatal Med. 2015;28(17):2096-9. doi:
+10.3109/14767058.2014.979147. Epub 2014 Nov 14.
+
+Circulating type 1 vaccine-derived poliovirus may evolve under the pressure of
+adenosine deaminases acting on RNA.
+
+Liu Y(1), Ma T(1), Liu J(1), Zhao X(1), Cheng Z(1), Guo H(1), Xu R(1), Wang S(1).
+
+Author information: 
+(1)a College of Veterinary Medicine, Research Center for Animal Disease Control
+Engineering Shandong Province , Shandong Agricultural University , Tai`an ,
+China.
+
+Poliovirus, the causative agent of poliomyelitis, is a human enterovirus and
+member of the Picornaviridae family. An effective live-attenuated poliovirus
+vaccine strain (Sabin 1) has been developed and has protected humans from polio. 
+However, a few cases of vaccine virulence reversion have been documented in
+several countries. For instance, circulating type 1 vaccine-derived poliovirus is
+a highly pathogenic poliovirus that evolved from an avirulent strain, but the
+mechanism by which vaccine strains undergo reversion remains unclear. In this
+study, vaccine strains exhibited A to G/U to C and G to A/C to U hypermutations
+in the reversed evolution of Sabin 1. Furthermore, the mutation ratios of U to C 
+and C to U were higher than those of other mutation types. Dinucleotide editing
+context was then analyzed. Results showed that A to G and U to C mutations
+exhibited preferences similar to adenosine deaminases acting on RNA (ADAR).
+Hence, ADARs may participate in poliovirus vaccine evolution.
+
+DOI: 10.3109/14767058.2014.979147 
+PMID: 25330844  [Indexed for MEDLINE]

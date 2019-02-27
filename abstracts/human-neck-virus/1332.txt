@@ -1,0 +1,51 @@
+
+
+1332. Head Neck. 2016 Apr;38 Suppl 1:E805-14. doi: 10.1002/hed.24105. Epub 2015 Jul 15.
+
+Matted nodes: High distant-metastasis risk and a potential indication for
+intensification of systemic therapy in human papillomavirus-related oropharyngeal
+cancer.
+
+Vainshtein JM(1), Spector ME(2), Ibrahim M(3), Bradford CR(3), Wolf GT(2),
+Stenmark MH(1), Worden FP(4), McHugh JB(5), Prince ME(2), Carey T(2), Chepeha
+DB(2), Eisbruch A(1).
+
+Author information: 
+(1)Department of Radiation Oncology, University of Michigan, Ann Arbor, Michigan.
+(2)Department of Otolaryngology - Head and Neck Surgery, University of Michigan, 
+Ann Arbor, Michigan.
+(3)Department of Radiology, University of Michigan, Ann Arbor, Michigan.
+(4)Division of Hematology Oncology, Department of Internal Medicine, University
+of Michigan, Ann Arbor, Michigan.
+(5)Department of Pathology, University of Michigan, Ann Arbor, Michigan.
+
+BACKGROUND: The purpose of this study was to determine whether matted nodes
+uniquely identify patients with human papillomavirus (HPV)-positive oropharyngeal
+cancer at disproportionately high distant failure risk who may benefit from
+intensified systemic therapy.
+METHODS: One hundred seventy-eight patients with stage III/IV HPV-positive
+oropharyngeal cancer who completed definitive chemoradiotherapy were stratified
+by risk group (low-risk = T1-3/N0-2c/<10 pack-years; intermediate-risk =
+T1-3/N0-2c/≥10 pack-years; and high-risk = T4 or N3). Prognostic impact of matted
+nodes was assessed.
+RESULTS: At the 52-month median follow-up, event rates with and without matted
+nodes were: locoregional failure: 23.3% versus 12.8% (p = .16), distant failure: 
+50.0% versus 1.4% (p < .01), any failure: 73.3% versus 14.2% (p < .01);
+cause-specific mortality: 56.7% versus 5.4% (p < .01), and death: 56.7% versus
+13.5% (p < .01). In multivariate analyses, including risk group and individual
+risk factors, matted nodes were the strongest predictor for all endpoints except 
+locoregional failure. Among patients without matted nodes, risk-group
+discriminated locoregional failure (at 3 years: low-risk = 2.0%;
+intermediate-risk = 14.4%; and high-risk = 24.2%; p < .01), but not distant
+failure (low-risk = 0.0%; intermediate-risk = 2.1%; and high-risk = 3.8%; p =
+.53).
+CONCLUSION: Matted nodes portended dramatically increased distant failure and
+death risks in HPV-positive oropharyngeal cancer, identifying a candidate
+population for consideration of chemo-intensification. © 2015 Wiley Periodicals, 
+Inc. Head Neck 38: E805-E814, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24105 
+PMCID: PMC4624049
+PMID: 25914344  [Indexed for MEDLINE]

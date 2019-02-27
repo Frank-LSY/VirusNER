@@ -1,0 +1,33 @@
+
+
+3185. J Leukoc Biol. 2013 Oct;94(4):769-77. doi: 10.1189/jlb.0313142. Epub 2013 Aug 2.
+
+High glucose enhances HIV entry into T cells through upregulation of CXCR4.
+
+Lan X(1), Cheng K, Chandel N, Lederman R, Jhaveri A, Husain M, Malhotra A,
+Singhal PC.
+
+Author information: 
+(1)1.North Shore University Hospital, 100 Community Drive, Great Neck, NY 11021; 
+E-mail psinghal@nshs.edu.
+
+It is well known that patients with HIV are prone to diabetes mellitus because of
+the side effects of HARRT. However, whether high glucose affects the HIV
+infection of T cells is not clear. Recent studies have shown that upregulation of
+GLUT-1 renders T cells susceptible to HIV infection. We hypothesized that
+hyperglycemia has the potential to increase HIV infection by enhancing its entry 
+into immune cells. The effect of high glucose on HIV entry into T cells (Jurkat
+cells and PBMCs) and the mechanisms involved were investigated. High glucose
+significantly enhanced HIV entry, which was associated with increased T-cell
+expression of CXCR4. However, T cells with silenced HIF-1α displayed attenuated
+expression of CXCR4, whereas T cells with silenced CXCR4 showed decreased HIV
+entry in a high-glucose milieu. On the one hand, high glucose stimulated T-cell
+ROS generation, and H(2)O(2) at low concentrations enhanced the entry of HIV into
+T cells. On the other hand, inhibition of ROS not only attenuated
+high-glucose-mediated T-cell expression of CXCR4 and HIF-1α but also mitigated
+T-cell HIV entry in a high-glucose milieu. In our study, high glucose enhanced
+HIV entry into T cells by increasing expression of CXCR4 and HIF-1α.
+
+DOI: 10.1189/jlb.0313142 
+PMCID: PMC3774843
+PMID: 23911867  [Indexed for MEDLINE]

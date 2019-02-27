@@ -1,0 +1,47 @@
+
+
+2047. Diagn Pathol. 2013 Jun 19;8:100. doi: 10.1186/1746-1596-8-100.
+
+Acute EBV infection masquerading as "In-situ Follicular Lymphoma": a pitfall in
+the differential diagnosis of this entity.
+
+Gru AA(1), Kreisel F, Duncavage E, Nguyen TT, Hassan A, Frater JL.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, 660 S, Euclid Avenue, Box 8118, St, Louis, MO 63110, USA.
+jfrater@path.wustl.edu.
+
+We present the case of a 30 year-old man who was referred for evaluation of
+diffuse lymphadenopathy. Six weeks prior, he noticed darkening of his urine
+associated with pale stools, nausea and an eventual 30 lb weight loss within a
+month. The initial laboratory findings showed elevation of the liver enzymes. A
+CT scan showed mesenteric and periaortic lymphadenopathy with the largest lymph
+node measuring 2.8 cm. Other laboratory results were otherwise unremarkable
+(including a normal LDH) with the exception of positive serum antibodies against 
+Epstein-Barr virus (EBV) associated antigens (IgM+ and IgG+). An excisional
+biopsy of 4 of the small neck lymph nodes showed a normal architecture with
+prominent follicles and an intact capsule. But, by immunohistochemistry two of
+the follicles showed aberrant coexpression of BCL-2, in addition to CD10 and
+BCL-6. In-situ hybridization for early Epstein-Barr virus mRNA (EBER) and
+immunohistochemistry for latent membrane protein-1 (LMP-1) stained both scattered
+positive cells, as well as BCL-2 positive B-cells. Although an original diagnosis
+of in-situ follicular lymphoma was favored at an outside facility, additional
+interphase fluorescence in situ hybridization (FISH) studies for
+t(14;18);(IGH-BCL2) rearrangement (performed on the BCL-2 + follicles
+microdissected from the tissue block; Abott probe dual colour fusion) and
+molecular studies (IGH gene rearrangement by PCR, also performed on the
+microdissected follicles) were negative. Serologic studies (positive EBV
+antibodies) and immunostains in conjunction with the molecular studies confirmed 
+the reactive nature of the changes. Our case also shows direct immunopathogenic
+evidence of BCL-2 expression among the EBV-infected cells, which has to our
+knowledge not been previously documented in vivo. A diagnosis of EBV infection
+should, therefore, be considered when confronted with BCL-2 expression in
+germinal centers, particularly in younger individuals, as the diagnosis of FLIS
+may lead to extensive and invasive haematologic work-ups.VIRTUAL SLIDES: The
+virtual slide(s) for this article can be found here:
+http://www.diagnosticpathology.diagnomx.eu/vs/1323656318940068.
+
+DOI: 10.1186/1746-1596-8-100 
+PMCID: PMC3874606
+PMID: 23782909  [Indexed for MEDLINE]

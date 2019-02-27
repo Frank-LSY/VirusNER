@@ -1,0 +1,42 @@
+
+
+2037. Otol Neurotol. 2013 Sep;34(7):e82-7. doi: 10.1097/MAO.0b013e318289844c.
+
+Microbiologic findings in acute facial palsy in children.
+
+Kanerva M(1), Nissinen J, Moilanen K, Mäki M, Lahdenne P, Pitkäranta A.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, University of
+Helsinki, Helsinki University Central Hospital, Helsinki, Finland.
+mervi.kanerva@gmail.com
+
+OBJECTIVE: Microbiologic causes of facial palsy in children were investigated.
+STUDY DESIGN: Prospective clinical study.
+SETTING: Tertiary referral center.
+PATIENTS: Forty-six children aged 0 to 16 years with peripheral facial palsy.
+INTERVENTIONS: Paired serum samples and cerebrospinal fluid were tested to find
+indications of microbes associated with facial palsy. The microbes tested were
+herpes simplex virus 1 and 2, varicella-zoster virus, human herpesvirus-6,
+Mycoplasma pneumoniae, Borrelia burgdorferi, influenza A and B virus, picorna,
+cytomegalovirus, parainfluenza virus, respiratory syncytial virus, coxsackie B5
+virus, adenovirus, and enterovirus, Chlamydia psittaci, and Toxoplasma gondii.
+Besides the routine tests in clinical practice, serum and cerebrospinal fluid
+samples were tested with a highly sensitive microarray assay for DNA of herpes
+simplex virus 1 and 2; human herpes virus 6A, 6B, and 7; Epstein-Barr virus,
+cytomegalovirus, and varicella zoster virus.
+RESULTS: Incidence for facial palsy was 8.6/100,000/children/year. Cause was
+highly plausible in 67% and probable in an additional 11% of cases. Borrelia
+burgdorferi caused facial palsy in 14 patients (30%), varicella zoster virus in 5
+(11%) (one with concomitant adenovirus), influenza A in 3 (6%), herpes simplex
+virus 1 in 2 (4%) (one with concomitant enterovirus), otitis media in 2 (4%), and
+human herpesvirus 6 in 2 (4%). Mycoplasma pneumoniae, neurofibromatosis, and
+neonatal age facial palsy affected 1 child (2%) each.
+CONCLUSION: Microbiologic etiology association of pediatric facial palsy could
+frequently be confirmed. Borreliosis was the single most common cause; hence,
+cerebrospinal fluid sampling is recommended for all pediatric cases in endemic
+areas. Varicella zoster virus accounted for 11% of the cases, being the second
+most common factor.
+
+DOI: 10.1097/MAO.0b013e318289844c 
+PMID: 23657208  [Indexed for MEDLINE]

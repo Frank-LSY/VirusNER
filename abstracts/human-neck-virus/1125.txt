@@ -1,0 +1,43 @@
+
+
+1125. Int J Cancer. 2014 Oct 1;135(7):1653-61. doi: 10.1002/ijc.28811. Epub 2014 Mar 7.
+
+High-risk HPV types and head and neck cancer.
+
+Michaud DS(1), Langevin SM, Eliot M, Nelson HH, Pawlita M, McClean MD, Kelsey KT.
+
+Author information: 
+(1)Department of Epidemiology, Brown School of Public Health, Brown University,
+Providence, RI; Department of Epidemiology and Biostatistics, School of Public
+Health, Imperial College London, London, United Kingdom.
+
+Comment in
+    Int J Cancer. 2015 Jan 15;136(2):491-2.
+
+Although HPV16 has been strongly implicated in oropharyngeal carcinogenesis, the 
+role of other high-risk HPV types in the etiology of head and neck cancer remains
+unclear. To date, few data exist addressing the nature of the association between
+antibodies to oncogenic proteins of non-HPV16 HPVs in relation to head and neck
+cancer. We examined the relationship between multiple HPV types (HPV6, 11, 16,
+18, 31, 33, 45, 52, 58) and head and neck squamous cell carcinoma (HNSCC) in a
+large population-based case-control study (1069 cases and 1107 controls).
+Serological measures for HPV types included antibodies to L1, E6 and/or E7. In a 
+secondary analysis, we excluded HPV16 seropositive subjects to examine
+independent associations with other high-risk HPVs. All analyses were adjusted
+for age, race, sex, education, smoking and alcohol consumption. Statistically
+significant associations were observed for HPV16, 18, 33 and 52 and risk of HNSCC
+after mutually adjusting for HPV types. Among HPV16 seronegative subjects,
+elevated risks of HNSCC were observed for HPV18 E6 (OR = 4.19, 95% CI =
+1.26-14.0), HPV33 E6 (OR = 7.96, 95% CI = 1.56-40.5) and HPV52 E7 (OR = 3.40, 95%
+CI = 1.16-9.99). When examined by tumor type, associations with HPV18 and HPV33
+remained statistically significant for oropharyngeal cancer, and HPV52 was
+associated with oral cancer. In addition, magnitude of associations for HNSCC
+increased markedly with increasing number of seropositive high-risk HPV
+infections. High-risk HPV types, other than HPV16, are likely to be involved in
+the etiology of HNSCC.
+
+© 2014 UICC.
+
+DOI: 10.1002/ijc.28811 
+PMCID: PMC4107082
+PMID: 24615247  [Indexed for MEDLINE]

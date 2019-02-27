@@ -1,0 +1,51 @@
+
+
+2005. Cell Death Dis. 2014 Oct 23;5:e1489. doi: 10.1038/cddis.2014.455.
+
+Bortezomib sensitises TRAIL-resistant HPV-positive head and neck cancer cells to 
+TRAIL through a caspase-dependent, E6-independent mechanism.
+
+Bullenkamp J(1), Raulf N(1), Ayaz B(2), Walczak H(3), Kulms D(4), Odell E(2),
+Thavaraj S(2), Tavassoli M(1).
+
+Author information: 
+(1)Department of Molecular Oncology, King's College London, Guy's Campus, Hodgkin
+Building, London SE1 1UL, UK.
+(2)Department of Oral Pathology, King's College London, Guy's Campus, Dental
+Institute, London SE1 9RT, UK.
+(3)Centre for Cell Death, Cancer and Inflammation (CCCI), UCL Cancer Institute,
+72 Huntley Street, London WC1E 6BT, UK.
+(4)Experimental Dermatology, Department of Dermatology, TU Dresden, Dresden
+01307, Germany.
+
+Human papillomavirus (HPV) is causative for a new and increasing form of head and
+neck squamous cell carcinomas (HNSCCs). Although localised HPV-positive cancers
+have a favourable response to radio-chemotherapy (RT/CT), the impact of HPV in
+advanced or metastatic HNSCC remains to be defined and targeted therapeutics need
+to be tested for cancers resistant to RT/CT. To this end, we investigated the
+sensitivity of HPV-positive and -negative HNSCC cell lines to TRAIL (tumour
+necrosis factor-related apoptosis-inducing ligand), which induces tumour
+cell-specific apoptosis in various cancer types. A clear correlation was observed
+between HPV positivity and resistance to TRAIL compared with HPV-negative head
+and neck cancer cell lines. All TRAIL-resistant HPV-positive cell lines tested
+were sensitised to TRAIL-induced cell death by treatment with bortezomib, a
+clinically approved proteasome inhibitor. Bortezomib-mediated sensitisation to
+TRAIL was associated with enhanced activation of caspase-8, -9 and -3, elevated
+membrane expression levels of TRAIL-R2, cytochrome c release and G2/M arrest.
+Knockdown of caspase-8 significantly blocked cell death induced by the
+combination therapy, whereas the BH3-only protein Bid was not required for
+induction of apoptosis. XIAP depletion increased the sensitivity of both
+HPV-positive and -negative cells to TRAIL alone or in combination with
+bortezomib. In contrast, restoration of p53 following E6 knockdown in
+HPV-positive cells had no effect on their sensitivity to either single or
+combination therapy, suggesting a p53-independent pathway for the observed
+response. In summary, bortezomib-mediated proteasome inhibition sensitises
+previously resistant HPV-positive HNSCC cells to TRAIL-induced cell death through
+a mechanism involving both the extrinsic and intrinsic pathways of apoptosis. The
+cooperative effect of these two targeted anticancer agents therefore represents a
+promising treatment strategy for RT/CT-resistant HPV-associated head and neck
+cancers.
+
+DOI: 10.1038/cddis.2014.455 
+PMCID: PMC4649534
+PMID: 25341043  [Indexed for MEDLINE]

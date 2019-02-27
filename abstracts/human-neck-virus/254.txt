@@ -1,0 +1,45 @@
+
+
+254. Eur Arch Otorhinolaryngol. 2017 Nov;274(11):4003-4010. doi:
+10.1007/s00405-017-4748-8. Epub 2017 Sep 20.
+
+Human papillomavirus in oropharyngeal squamous cell carcinoma in South-Eastern
+Norway: prevalence, genotype, and survival.
+
+Fossum GH(1), Lie AK(2)(3), Jebsen P(2), Sandlie LE(2)(4), Mork J(5).
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Oslo University
+Hospital, Nydalen, PO Box 4650, 0424, Oslo, Norway.
+(2)Department of Pathology, Oslo University Hospital, Nydalen, PO Box 4650, 0424,
+Oslo, Norway.
+(3)Department of Pathology, Kalnes Hospital, Kalnesveien 300, 1714, Grålum,
+Norway.
+(4)Roche Diagnostics Norway, Etterstad, PO Box 6610, 0607, Oslo, Norway.
+(5)Department of Otorhinolaryngology-Head and Neck Surgery, Oslo University
+Hospital, Nydalen, PO Box 4650, 0424, Oslo, Norway. jmork@ous-hf.no.
+
+The objectives of this study were to assess the prevalence of high-risk human
+papillomavirus (HR HPV) and survival in all oropharyngeal cancer (OPSCC) patients
+in a Norwegian population cohort in 2010-2011. Clinical data were retrieved from 
+hospital records. Biopsies from 166 patients were tested for the presence of HR
+HPV by qualitative polymerase chain reaction (qPCR). p16 immunohistochemistry was
+performed in 138 cases. Survival was compared between groups of patients with
+tumors positive for HPV16 and other HR HPV genotypes, and patients with HPV
+negative tumors. HR HPV was detected in 127 out of 166 cases (77%). HPV16 was the
+most prevalent genotype (n = 108), followed by HPV33 (n = 12), HPV18 (n = 3), and
+HPV31/35/56/59 (n = 1). There was a robust and significant association between
+p16 and HR HPV status. (Chi square 70.8; p < 0.0001). Among p16-positive/HR
+HPV-positive cases, the distribution of HPV16 and other HR HPV types was not
+significantly different [91% (88/97) versus 82% (14/17); p = 0.30]. HR
+HPV-negative patients had reduced overall survival compared to HR HPV-positive
+patients [hazard ratio 0.30; 95% confidence interval (CI) 0.16-0.56, p < 0.001]. 
+Non-HPV16 HR HPV-positive patients had significantly poorer overall survival than
+HPV16-positive patients (hazard ratio 0.35; 95% CI 0.14-0.85, p = 0.02).
+Prevalence of HR HPV in OPSCC in Norway is high, and similar to the level
+reported in recent years from other countries in Northern Europe and in North
+America. HPV genotyping may be valuable in future risk-stratification algorithms 
+for treatment of patients with HPV-positive OPSCC.
+
+DOI: 10.1007/s00405-017-4748-8 
+PMID: 28933005  [Indexed for MEDLINE]

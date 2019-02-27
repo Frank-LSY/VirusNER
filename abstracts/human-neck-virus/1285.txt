@@ -1,0 +1,47 @@
+
+
+1285. Oral Oncol. 2012 Oct;48(10):1051-1057. doi: 10.1016/j.oraloncology.2012.05.001.
+Epub 2012 Jun 2.
+
+Impact of age on acute toxicity induced by bio- or chemo-radiotherapy in patients
+with head and neck cancer.
+
+Merlano MC(1), Monteverde M(2), Colantonio I(3), Denaro N(4), Lo Nigro C(2),
+Natoli G(3), Giurlanda F(5), Numico G(6), Russi E(7).
+
+Author information: 
+(1)Dept. of Medical Oncology, S. Croce General Hospital, Cuneo, Italy. Electronic
+address: mcmerlano@gmail.com.
+(2)Dept. of Medical Oncology, Translational Oncology Lab, S. Croce General
+Hospital, Cuneo, Italy.
+(3)Dept. of Medical Oncology, S. Croce General Hospital, Cuneo, Italy.
+(4)Dept. of Medical Oncology, S. Croce General Hospital, Cuneo, Italy; Dept. of
+Human Pathology, Messina University, Italy.
+(5)Dept. of Medical Oncology, Clinical Trials Office, S. Croce General Hospital, 
+Cuneo, Italy.
+(6)Dept. of Medical Oncology, Aosta General Hospital, Aosta, Italy.
+(7)Dept. of Radiation Therapy, S. Croce General Hospital, Cuneo, Italy.
+
+INTRODUCTION: The purpose of this study is to retrospectively analyze acute
+toxicity encountered in young and old patients treated with chemo-radiation or
+bio-radiation at the S. Croce General Hospital between 1997 and 2008, in daily
+clinical practice.
+MATERIAL AND METHODS: Three hundred and seventeen patients were allocated into
+two groups according to age (cut-off 65 years). The two groups were compared in
+terms of treatment related toxicities, treatment activity and efficacy. Epidermal
+Growth factor receptor (EGFr), Human papillomavirus (HPV) and p53 status were
+also considered.
+RESULTS: As expected, overall survival was significantly worse in elderly
+patients (p=0.005), but response rate, including complete response rate, was
+similar between the two age groups, as were most of the side effects analyzed.
+However, infections (p=0.011) and in particular pneumonias (p=0.002) were
+significantly more represented in elderly patients.
+CONCLUSION: Elderly patients treated with chemo-radiation or bio-radiation in our
+centre had a higher risk of infection and in particular, pneumonia. These data
+suggest a more careful follow-up, but age alone does not justify their exclusion 
+from treatment.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2012.05.001 
+PMID: 22658677  [Indexed for MEDLINE]

@@ -1,0 +1,25 @@
+
+
+1182. J Dent Res. 2009 Apr;88(4):300-6. doi: 10.1177/0022034509333371.
+
+Human papillomavirus and head and neck squamous cell carcinoma: recent evidence
+and clinical implications.
+
+Hennessey PT(1), Westra WH, Califano JA.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins Medical
+Institutions, 601 N. Caroline Street, 6th Floor, Baltimore, MD 21287-0910, USA.
+
+Over the past 20 years, high-risk human papilloma-virus (HPV) infection has been 
+established as a risk factor for developing head and neck squamous cell
+carcinoma, independent of tobacco and alcohol use. In particular, HPV is strongly
+associated with the development of oropharyngeal cancer and a small minority of
+oral cavity cancers. In this review, we summarize what is currently known about
+the biology of HPV, the mechanisms by which it effects malignant transformation, 
+and the potential impact of HPV status on the clinical management of persons with
+head and neck cancer.
+
+DOI: 10.1177/0022034509333371 
+PMCID: PMC3317947
+PMID: 19407148  [Indexed for MEDLINE]

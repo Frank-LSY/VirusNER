@@ -1,0 +1,40 @@
+
+
+56. Asian Pac J Cancer Prev. 2015;16(16):7077-84.
+
+Do Human Papilloma Viruses Play Any Role in Oral Squamous Cell Carcinoma in North
+Indians?
+
+Singh V(1), Husain N, Akhtar N, Kumar V, Tewari S, Mishra S, Misra S, Khan MY.
+
+Author information: 
+(1)Department of Pathology, Dr. Ram Manohar Lohia Institute of Medical Sciences, 
+Lucknow, UP, India E-mail : drnuzhathusain@hotmail.com.
+
+BACKGROUND: Oral squamous cell carcinoma (OSCC) is the most prevalent malignancy 
+among males in India. While tobacco and alcohol are main aetiological factors,
+human papilloma virus (HPV) presence has surprisingly increased in head and neck 
+Squamous Cell Carcinoma (HNSCC) in the past two decade but its frequency in OSCCS
+is still uncertain. We aim to explore the frequency of HPV and its major
+genotypes in North Indian patients and their association with clinicopathological
+and histopathological features and p16 expression pattern.
+MATERIALS AND METHODS: The study group comprised 250 histologically proven cases 
+of OSCC. HPV was detected by real time PCR in tumor biopsy specimens and
+confirmed by conventional PCR with PGMY09/ PGMY11 primers. Genotyping for
+high-risk types 16/ 18 was conducted by type specific PCR. p16 expression was
+assessed by immunohistochemsitry.
+RESULTS: HPV presence was confirmed in 23/250 (9.2%) OSCC cases, of which 30.4%
+had HPV 16 infection, 17.4%were positive for HPV 18 and 26.1% had co-infections. 
+HPV presence was significantly associated with male gender (p=0.02) and habit of 
+pan masala chewing (p=0.01). HPV positive cases also had a history of tobacco
+consumption in 91.3% cases. p16 over expression was observed in 39.1% of HPV
+positive cases but this was not significantly different from negative cases
+(p=0.54).
+CONCLUSIONS: The frequency of HPV in OSCC is low in North-India and majority of
+cases are associated with a tobacco habit. It appears that tobacco shows a
+confounding effect in HPV positive cases and use of p16 protein as a reliable
+marker to assess the potential etiological role of HPV in OSCC in our population 
+is not suggested.
+
+
+PMID: 26514493  [Indexed for MEDLINE]

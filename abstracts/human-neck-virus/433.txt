@@ -1,0 +1,57 @@
+
+
+433. PLoS One. 2013 Dec 23;8(12):e82740. doi: 10.1371/journal.pone.0082740.
+eCollection 2013.
+
+Protection against H5N1 highly pathogenic avian and pandemic (H1N1) 2009
+influenza virus infection in cynomolgus monkeys by an inactivated H5N1 whole
+particle vaccine.
+
+Nakayama M(1), Shichinohe S(2), Itoh Y(1), Ishigaki H(1), Kitano M(1), Arikata
+M(3), Pham VL(1), Ishida H(1), Kitagawa N(1), Okamatsu M(2), Sakoda Y(2),
+Ichikawa T(2), Tsuchiya H(4), Nakamura S(4), Le QM(5), Ito M(6), Kawaoka Y(7),
+Kida H(8), Ogasawara K(1).
+
+Author information: 
+(1)Division of Pathology and Disease Regulation, Department of Pathology, Shiga
+University of Medical Science, Otsu, Japan.
+(2)Laboratory of Microbiology, Department of Disease Control, Graduate School of 
+Veterinary Medicine, Hokkaido University, Sapporo, Japan.
+(3)Division of Pathology and Disease Regulation, Department of Pathology, Shiga
+University of Medical Science, Otsu, Japan ; Department of
+Otorhinolaryngology-Head and Neck Surgery, Shiga University of Medical Science,
+Otsu, Japan.
+(4)Research Center for Animal Life Science, Shiga University of Medical Science, 
+Otsu, Japan.
+(5)National Institute of Hygiene and Epidemiology, Hanoi, Vietnam.
+(6)Division of Virology, Department of Microbiology and Immunology, Institute of 
+Medical Science, University of Tokyo, Tokyo, Japan.
+(7)Division of Virology, Department of Microbiology and Immunology, Institute of 
+Medical Science, University of Tokyo, Tokyo, Japan ; Department of
+Pathobiological Sciences, University of Wisconsin-Madison, Madison, Wisconsin,
+United States of America.
+(8)Laboratory of Microbiology, Department of Disease Control, Graduate School of 
+Veterinary Medicine, Hokkaido University, Sapporo, Japan ; Research Center for
+Zoonosis Control, Hokkaido University, Sapporo, Japan.
+
+H5N1 highly pathogenic avian influenza virus (HPAIV) infection has been reported 
+in poultry and humans with expanding clade designations. Therefore, a vaccine
+that induces immunity against a broad spectrum of H5N1 viruses is preferable for 
+pandemic preparedness. We established a second H5N1 vaccine candidate,
+A/duck/Hokkaido/Vac-3/2007 (Vac-3), in our virus library and examined the
+efficacy of inactivated whole particles of this strain against two clades of H5N1
+HPAIV strains that caused severe morbidity in cynomolgus macaques. Virus
+propagation in vaccinated macaques infected with either of the H5N1 HPAIV strains
+was prevented compared with that in unvaccinated macaques. This vaccine also
+prevented propagation of a pandemic (H1N1) 2009 virus in macaques. In the
+vaccinated macaques, neutralization activity, which was mainly shown by
+anti-hemagglutinin antibody, against H5N1 HPAIVs in plasma was detected, but that
+against H1N1 virus was not detected. However, neuraminidase inhibition activity
+in plasma and T-lymphocyte responses in lymph nodes against H1N1 virus were
+detected. Therefore, cross-clade and heterosubtypic protective immunity in
+macaques consisted of humoral and cellular immunity induced by vaccination with
+Vac-3.
+
+DOI: 10.1371/journal.pone.0082740 
+PMCID: PMC3871535
+PMID: 24376571  [Indexed for MEDLINE]

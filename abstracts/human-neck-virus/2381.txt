@@ -1,0 +1,43 @@
+
+
+2381. J Craniomaxillofac Surg. 2014 Oct;42(7):1322-8. doi: 10.1016/j.jcms.2014.03.018. 
+Epub 2014 Apr 2.
+
+Influence of epidermal growth factor receptor expression on the cetuximab and
+panitumumab response rates of head and neck carcinoma cells.
+
+Hartmann S(1), Seher A(2), Brands RC(2), Linz C(2), Lessner G(3), Böhm H(2),
+Kübler AC(2), Müller-Richter UD(2).
+
+Author information: 
+(1)Department of Oral and Maxillofacial Plastic Surgery (Head: A. C. Kübler),
+University Hospital Würzburg, Pleicherwall 2, 97070 Würzburg, Germany. Electronic
+address: hartmann_s2@ukw.de.
+(2)Department of Oral and Maxillofacial Plastic Surgery (Head: A. C. Kübler),
+University Hospital Würzburg, Pleicherwall 2, 97070 Würzburg, Germany.
+(3)Institute of Pathology (Head: A. Rosenwald), University Würzburg,
+Josef-Schneider-Straße 2, 97080 Würzburg, Germany.
+
+OBJECTIVES: To examine the impact of epidermal growth factor receptor (EGFR)
+expression level on the efficacy of monoclonal antibodies against the EGFR.
+METHODS: In four human head and neck carcinoma cell lines, epidermal growth
+factor expression was knocked down by lentiviral RNA interference. Next, the
+efficacies of cetuximab and panitumumab at concentrations of 4, 40, and 400 μg/ml
+were measured by real time cell analysis for a 48-h duration. Finally, the
+different response rates to the drugs were statistically analyzed.
+RESULTS: The lentiviral EGFR knockdown efficiency ranged from 18 to 54 % across
+all of the cell lines. All original cell lines exhibited rather poor or inverse
+responses with regard to EGFR-AB treatment. In contrast, inhibiting EGFR
+expression in the same cell lines yielded statistically significant better
+responses to cetuximab or panitumumab treatment.
+CONCLUSIONS: The cell lines used in this study responded poorly to cetuximab and 
+panitumumab. Better anti-EGFR treatment efficacy was related to lower EGFR
+expression in head and neck cancer cell lines. These findings might influence the
+selection of patients to receive cetuximab and panitumumab treatment for head and
+neck cancer.
+
+Copyright © 2014 European Association for Cranio-Maxillo-Facial Surgery.
+Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jcms.2014.03.018 
+PMID: 24780353  [Indexed for MEDLINE]

@@ -1,0 +1,54 @@
+
+
+2002. Cancer Immunol Res. 2016 Oct;4(10):823-834. Epub 2016 Aug 2.
+
+Therapeutic HPV Cancer Vaccine Targeted to CD40 Elicits Effective CD8+ T-cell
+Immunity.
+
+Yin W(1), Duluc D(2), Joo H(1), Xue Y(2), Gu C(1), Wang Z(2), Wang L(2),
+Ouedraogo R(2), Oxford L(3), Clark A(4), Parikh F(5), Kim-Schulze S(6),
+Thompson-Snipes L(1), Lee SY(7), Beauregard C(2), Woo JH(8), Zurawski S(2),
+Sikora AG(5), Zurawski G(1), Oh S(9).
+
+Author information: 
+(1)Baylor Institute for Immunology Research, Dallas, Texas. Institute of
+Biomedical Studies, Baylor University, Waco, Texas.
+(2)Baylor Institute for Immunology Research, Dallas, Texas.
+(3)Division of Head and Neck Surgery, Texas Oncology, Baylor University Medical
+Center, Dallas, Texas.
+(4)Department of Otolaryngology, Stanford School of Medicine, Palo Alto,
+California.
+(5)Bobby R. Alford Department of Otolaryngology-Head and Neck Surgery, Baylor
+College of Medicine, Houston, Texas.
+(6)Department of Medicine, Mount Sinai School of Medicine, New York, New York.
+(7)Department of Pathology, School of Medicine, Pusan National University,
+Yangsan, Gyeongsangnam-do, Republic of Korea.
+(8)Cancer Research Institute, Baylor Scott and White Health, Temple, Texas.
+(9)Baylor Institute for Immunology Research, Dallas, Texas. Institute of
+Biomedical Studies, Baylor University, Waco, Texas. sangkono@baylorhealth.edu.
+
+Human papillomavirus (HPV), particularly HPV16 and HPV18, can cause cancers in
+diverse anatomical sites, including the anogenital and oropharyngeal (throat)
+regions. Therefore, development of safe and clinically effective therapeutic
+vaccines is an important goal. Herein, we show that a recombinant fusion protein 
+of a humanized antibody to CD40 fused to HPV16.E6/7 (αCD40-HPV16.E6/7) can evoke 
+HPV16.E6/7-specific CD8+ and CD4+ T-cell responses in head-and-neck cancer
+patients in vitro and in human CD40 transgenic (hCD40Tg) mice in vivo The
+combination of αCD40-HPV16.E6/7 and poly(I:C) efficiently primed
+HPV16.E6/7-specific T cells, particularly CD8+ T cells, in hCD40Tg mice.
+Inclusion of montanide enhanced HPV16.E6/7-specific CD4+, but not CD8+, T-cell
+responses. Poly(I:C) plus αCD40-HPV16.E6/7 was sufficient to mount both
+preventative and therapeutic immunity against TC-1 tumors in hCD40Tg mice,
+significantly increasing the frequency of HPV16-specific CD8+ CTLs in the tumors,
+but not in peripheral blood. In line with this, tumor volume inversely correlated
+with the frequency of HPV16.E6/7-specific CD8+ T cells in tumors, but not in
+blood. These data suggest that CD40-targeting vaccines for HPV-associated
+malignancies can provide a highly immunogenic platform with a strong likelihood
+of clinical benefit. Data from this study offer strong support for the
+development of CD40-targeting vaccines for other cancers in the future. Cancer
+Immunol Res; 4(10); 823-34. ©2016 AACR.
+
+©2016 American Association for Cancer Research.
+
+DOI: 10.1158/2326-6066.CIR-16-0128 
+PMID: 27485136  [Indexed for MEDLINE]

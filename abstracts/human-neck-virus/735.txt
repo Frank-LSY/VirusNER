@@ -1,0 +1,41 @@
+
+
+735. Br J Cancer. 2013 Mar 5;108(4):859-65. doi: 10.1038/bjc.2013.43. Epub 2013 Feb 5.
+
+Combined treatment of the experimental human papilloma virus-16-positive cervical
+and head and neck cancers with cisplatin and radioimmunotherapy targeting viral
+E6 oncoprotein.
+
+Harris M(1), Wang XG, Jiang Z, Phaeton R, Koba W, Goldberg GL, Casadevall A,
+Dadachova E.
+
+Author information: 
+(1)Department of Radiology, Albert Einstein College of Medicine, 1695A
+Eastchester Road, Bronx, NY 10461, USA.
+
+BACKGROUND: Human papilloma virus (HPV) is implicated in >99% of cervical cancers
+and ∼40% of head and neck squamous cell carcinoma (HNSCC). We previously targeted
+E6 oncogene with (188)Rhenium-labelled monoclonal antibody (mAb) C1P5 to HPV16 E6
+in cervical cancer and HNSCC. Intranuclear E6 can be accessed by mAbs in
+non-viable cells with leaky membranes. As radioimmunotherapy (RIT) efficacy
+depends on the availability of target protein-we hypothesised that pretreatment
+with cisplatin will kill some tumour cells and increase E6 availability for RIT.
+METHODS: Mice with subcutaneous HPV16+ cervical (CasKi) and HNSCC (2A3) tumours
+were pretreated with 0-7.5 mg kg(-1) per day cisplatin for 3 days followed by
+(188)Re-C1P5 and biodistribution was performed 24 h later. For RIT, the animals
+were treated with: 5 mg kg(-1) per day cisplatin for 3 days; or 5 mg kg(-1) per
+day cisplatin for 3 days followed 200 or 400μCi (188)Re-C1P5 mAb; or 200 or
+400μCi (188)Re-C1P5 mAb; or left untreated, and observed for tumour growth for 24
+days.
+RESULTS: Pretreatment with cisplatin increased the uptake of (188)Re-C1P5 in the 
+tumours 2.5 to 3.5-fold and caused significant retardation in tumour growth for
+CasKi and 2A3 tumours in both RIT alone and cisplatin, and RIT groups in
+comparison with the untreated control and cisplatin alone groups (P<0.05). The
+combined treatment was more effective than either modality alone (P<0.05).
+CONCLUSION: Our study demonstrates that preceding RIT targeting E6 oncogene with 
+chemotherapy is effective in suppressing tumour growth in mouse models of HPV16+ 
+cancers.
+
+DOI: 10.1038/bjc.2013.43 
+PMCID: PMC3590678
+PMID: 23385729  [Indexed for MEDLINE]

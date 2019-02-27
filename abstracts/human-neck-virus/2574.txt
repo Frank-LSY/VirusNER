@@ -1,0 +1,29 @@
+
+
+2574. Int J Oncol. 2009 Nov;35(5):983-8.
+
+Does the expression of HPV16/18 E6/E7 in head and neck squamous cell carcinomas
+relate to their clinicopathological characteristics?
+
+Yamakawa-Kakuta Y(1), Kawamata H, Doi Y, Fujimori T, Imai Y.
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, Dokkyo Medical University School
+of Medicine, Mibu, Shimotsuga, Tochigi 321-0293, Japan.
+
+Human papilloma virus (HPV) has been recently proposed to be implicated in the
+development of head and neck squamous cell carcinoma (HNSCC) in patients without 
+cancer risk. We examined the expression of HPV16/18 E6/E7 in 71 cases of HNSCCs
+and investigated abnormalities of the p53 gene in 62 of these 71 cases.
+Expression of HPV16 E6/E7 was observed in 11 of the 71 cases (15.5%), while
+expression of HPV18 E6/E7 was not observed in any of the cases. Most of the HPV16
+E6/E7-positive cases were histopathologically characterized by their verrucous or
+papillary structure and koilocytosis of the adjacent mucosa. There was no clear
+relationship between expression of HPV16 E6/E7 and tumor stage, prognosis or the 
+positive rate of p53 abnormality. These results suggest that approximately 15% of
+HNSCCs are caused by HPV16 infection and the subsequent constitutive expression
+of E6 and E7, and that some HPV-initiated tumors lose their original
+characteristics during tumor progression.
+
+
+PMID: 19787251  [Indexed for MEDLINE]

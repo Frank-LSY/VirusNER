@@ -1,0 +1,40 @@
+
+
+757. Nat Rev Clin Oncol. 2015 Jan;12(1):11-26. doi: 10.1038/nrclinonc.2014.192. Epub
+2014 Nov 18.
+
+Emerging biomarkers in head and neck cancer in the era of genomics.
+
+Kang H(1), Kiess A(2), Chung CH(3).
+
+Author information: 
+(1)Department of Oncology, Johns Hopkins University School of Medicine, Johns
+Hopkins Medical Institutions, 1650 Orleans Street, CRB-1 Room 344, Baltimore, MD 
+21287-0013, USA.
+(2)Department of Radiation Oncology, Johns Hopkins University School of Medicine,
+Johns Hopkins Medical Institutions, 1650 Orleans Street, CRB-1 Room 344,
+Baltimore, MD 21287-0013, USA.
+(3)1] Department of Oncology, Johns Hopkins University School of Medicine, Johns 
+Hopkins Medical Institutions, 1650 Orleans Street, CRB-1 Room 344, Baltimore, MD 
+21287-0013, USA. [2] Department of Otolaryngology-Head and Neck Surgery, Johns
+Hopkins University School of Medicine, Johns Hopkins Medical Institutions, 1650
+Orleans Street, CRB-1 Room 344, Baltimore, MD 21287-0013, USA.
+
+Head and neck cancer (HNC) broadly includes carcinomas arising from the mucosal
+epithelia of the head and neck region as well as various cell types of salivary
+glands and the thyroid. As reflected by the multiple sites and histologies of
+HNC, the molecular characteristics and clinical outcomes of this disease vary
+widely. In this Review, we focus on established and emerging biomarkers that are 
+most relevant to nasopharyngeal carcinoma and head and neck squamous-cell
+carcinoma (HNSCC), which includes primary sites in the oral cavity, oropharynx,
+hypopharynx and larynx. Applications and limitations of currently established
+biomarkers are discussed along with examples of successful biomarker development.
+For emerging biomarkers, preclinical or retrospective data are also described in 
+the context of recently completed comprehensive molecular analyses of HNSCC,
+which provide a broad genetic landscape and molecular classification beyond
+histology and clinical characteristics. We will highlight the ongoing effort that
+will see a shift from prognostic to predictive biomarker development in HNC with 
+the goal of delivering individualized cancer therapy.
+
+DOI: 10.1038/nrclinonc.2014.192 
+PMID: 25403939  [Indexed for MEDLINE]

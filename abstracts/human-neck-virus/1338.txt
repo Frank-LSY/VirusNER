@@ -1,0 +1,36 @@
+
+
+1338. Rev Med Chil. 2013 Jul;141(7):917-21. doi: 10.4067/S0034-98872013000700012.
+
+[Acute hepatitis due to infectious mononucleosis in a 21-year-old-man].
+
+[Article in Spanish]
+
+Modesto Dos Santos V(1), Da Costa Arruda Z Jr(1), De Farias Polcheira M(1), Da
+Silva De Souza DW(1), Rodrigues Oliveira Santos AM(1), Santos Corrêa Da Costa
+M(2).
+
+Author information: 
+(1)Catholic University Medical Course, Brasilia, DF, Brazil.
+(2)Internal Medicine Department, Armed Forces Hospital, Brasilia, DF, Brazil.
+
+A 21-year-old mole was admitted because of fever, fatigue, headache, pharyngitis,
+abdominal pain, loss of appetite, vomiting and dark urine for three days. The
+patient denied recent use of medicines or any other drug. His physical
+examination disclosed jaundice, hepato-splenomegaly, whitish-yellow covered
+tonsils, bilateral anterior and posterior cervical lymph node enlargement
+associated with edema on the face and neck. Routine blood tests detected
+abnormalities in serum bilirubins and liver enzymes (total bilirubin: 14.5 mg/dl,
+direct-reacting bilirubin: 12.9 mg/dl, AST: 697 U/l, ALT: 619 U/l, alkaline
+phosphatases: 260 U/l, and GGT: 413 U/l). Serological tests showed negative
+results for viral hepatitis, cytomegalovirus, HIV-1 and HIV-2, and toxoplasmosis 
+markers, while serology for recent infection by EBV was positive (IgM: 70 and 29 
+U/ml; EBV IgG: 25 and 156 U/ml). Although infrequently, EBV infection can cause
+acute hepatitis with accentuated cholestatic jaundice (5% of cases), which may
+constitute an additional diagnostic challenge for primary care physicians. The
+patient improved with supportive management and was discharged after 12 days.
+This case study might contribute to increase the suspicion index about acute
+hepatitis related to EBV.
+
+DOI: 10.4067/S0034-98872013000700012 
+PMID: 24356741  [Indexed for MEDLINE]

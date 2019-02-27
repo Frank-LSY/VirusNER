@@ -1,0 +1,27 @@
+
+
+8. Methods Mol Biol. 2016;1382:107-14. doi: 10.1007/978-1-4939-3271-9_8.
+
+Lentivirus Production and Purification.
+
+Benskey MJ(1), Manfredsson FP(2).
+
+Author information: 
+(1)Department of Translational Science and Molecular Medicine, Michigan State
+University, 333 Bostwick Avenue NE, Grand Rapids, MI, 49503-2532, USA.
+Matthew.Benskey@hc.msu.edu.
+(2)Translational Science and Molecular Medicine, Michigan State University, 333
+Bostwick Avenue NE, Grand Rapids, MI, 49503-2532, USA.
+
+Lentiviral (LV) vectors offer unique advantages over other gene delivery systems,
+namely the ability to integrate transgenes into the genome of both dividing and
+nondividing cells. Detailed herein is a simple protocol for the production LV
+vectors, describing the triple transfection of an LV transfer vector and LV
+helper plasmids into HEK-293 cells, and the subsequent purification of virions
+from the cellular media. The current protocol is versatile, and can be easily
+modified to fit the specific needs of the researcher in order to produce
+relatively high-titer LV vectors which can be used to transduce a wide variety of
+cells both in vitro and in vivo.
+
+DOI: 10.1007/978-1-4939-3271-9_8 
+PMID: 26611582  [Indexed for MEDLINE]

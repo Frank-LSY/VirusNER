@@ -1,0 +1,38 @@
+
+
+2642. Virology. 2014 Jun;458-459:83-92. doi: 10.1016/j.virol.2014.04.016. Epub 2014 May
+8.
+
+DC-SIGN plays a stronger role than DCIR in mediating HIV-1 capture and transfer.
+
+Jin W(1), Li C(1), Du T(2), Hu K(2), Huang X(1), Hu Q(3).
+
+Author information: 
+(1)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences, 44 Xiaohongshan Zhongqu, Wuhan 430071, China; University of Chinese 
+Academy of Sciences, Beijing 100049, China.
+(2)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences, 44 Xiaohongshan Zhongqu, Wuhan 430071, China.
+(3)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences, 44 Xiaohongshan Zhongqu, Wuhan 430071, China; Center for Infection
+and Immunity, St George׳s University of London, London SW17 0RE, UK. Electronic
+address: qhu@wh.iov.cn.
+
+The C-type lectin receptors (CLRs) expressed on dendritic cells (DCs), in
+particular DC-SIGN and DCIR, likely play an important role in HIV-1 early
+infection. Here, we systematically compared the capture and transfer capability
+of DC-SIGN and DCIR using a wide range of HIV-1 isolates. Our results indicated
+that DC-SIGN plays a stronger role than DCIR in DC-mediated HIV-1 capture and
+transfer. This was further strengthened by the data from transient and stable
+transfectants, showing that DC-SIGN had better capability, compared with DCIR in 
+HIV-1 capture and transfer. Following constructing and analyzing a series of
+soluble DC-SIGN and DCIR truncates and chimeras, we demonstrated that the neck
+domain, but not the CRD, renders DC-SIGN higher binding affinity to gp120 likely 
+via the formation of tetramerization. Our findings provide insights into
+CLR-mediated HIV-1 capture and transfer, highlighting potential targets for
+intervention strategies against gp120-CLR interactions.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2014.04.016 
+PMID: 24928041  [Indexed for MEDLINE]

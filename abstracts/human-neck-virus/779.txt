@@ -1,0 +1,49 @@
+
+
+779. Ann Oncol. 2017 May 1;28(5):1105-1110. doi: 10.1093/annonc/mdx027.
+
+HPV16 DNA and integration in normal and malignant epithelium: implications for
+the etiology of laryngeal squamous cell carcinoma.
+
+Chen X(1), Gao L(1), Sturgis EM(2), Liang Z(3), Zhu Y(1), Xia X(1), Zhu X(1),
+Chen X(1), Li G(2), Gao Z(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Peking Union Medical
+College Hospital, Peking Union Medical College and Chinese Academy of Medical
+Sciences, Beijing, China.
+(2)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, USA.
+(3)Department of Pathology, Peking Union Medical College Hospital, Peking Union
+Medical College and Chinese Academy of Medical Sciences, Beijing, China.
+
+Background: Molecular evidence suggests that human papillomavirus (HPV) has a
+role in the etiology of oropharyngeal squamous cell carcinoma. However, the role 
+of HPV in laryngeal squamous cell carcinoma (LSCC) is unclear.
+Patients and methods: We conducted a case-control study using tumor tissue
+specimens from 300 LSCC patients and vocal cord polyp specimens from 300
+cancer-free controls. HPV genotype, HPV16 viral load and viral integration
+status, and p16 expression were determined.
+Results: The prevalence of HPV (all types) was higher in cases than controls [21 
+(7.0%) versus 10 (3.3%), adjusted odds ratio (aOR) 2.37, 95% CI 1.08-5.21]. The
+prevalence of HPV16 was higher in cases than controls [20 (6.7%) versus 8 (2.7%),
+aOR 2.84, 95% CI 1.21-6.68]. The risk of LSCC associated with HPV16 DNA
+positivity was even higher in patients aged 55 years or younger (aOR 3.52, 95% CI
+1.07-11.54), males (aOR 4.74, 95% CI 1.33-16.90), never-smokers (aOR 5.57, 95% CI
+1.41-22.10), and never-drinkers (aOR 3.72, 95% CI 1.09-12.72). HPV DNA was partly
+or fully integrated in all 20 HPV16-positive cases but was episomal in all 8
+HPV16-positive controls; however, the HPV16-positive cases and controls had
+similar viral loads (P = 0.28). P16 immunostaining was positive in 31 of the 300 
+cases (10.3%) and negative in all 300 controls.
+Conclusion: These results suggest that prior infection with HPV16 may play a role
+in the etiology of some LSCC. This larger case-control study will offer for the
+first time the possibility to address in depth the understanding of a
+tissue-specific role of HPV in laryngeal carcinogenesis. Further studies with
+larger samples are needed to confirm these findings.
+
+© The Author 2017. Published by Oxford University Press on behalf of the European
+Society for Medical Oncology.
+
+DOI: 10.1093/annonc/mdx027 
+PMCID: PMC5406756
+PMID: 28327951  [Indexed for MEDLINE]

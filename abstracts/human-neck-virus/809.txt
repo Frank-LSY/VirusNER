@@ -1,0 +1,29 @@
+
+
+809. Cancer Lett. 2010 Dec 18;299(1):29-36. doi: 10.1016/j.canlet.2010.07.021. Epub
+2010 Aug 21.
+
+MicroRNA-10b induced by Epstein-Barr virus-encoded latent membrane protein-1
+promotes the metastasis of human nasopharyngeal carcinoma cells.
+
+Li G(1), Wu Z, Peng Y, Liu X, Lu J, Wang L, Pan Q, He ML, Li XP.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Nanfang Hospital, Southern
+Medical University, Guangzhou 510515, China.
+
+MicroRNA-10b (miR-10b) has been reported to facilitate the metastasis of breast
+cancer. However, little is known about the role of miR-10b in the metastasis of
+nasopharyngeal carcinoma (NPC). Here, we show that high levels of miR-10b
+expression in Epstein-Barr virus (EBV)-positive latent membrane protein-1
+(LMP1)-expressing NPC cells, and its expression is down-regulated by silencing
+LMP1 or Twist. Induction of miR-10b over-expression in LMP1-silent C666-1 cells
+promoted significant wound healing and transmembrane invasiveness in vitro. More 
+importantly, miR-10b over-expression promoted the metastasis of NPC and
+accelerated the death of tumor-bearing nude mice. These findings strongly suggest
+that miR-10b positively regulates the metastasis of NPC.
+
+Copyright © 2010 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.canlet.2010.07.021 
+PMID: 20732742  [Indexed for MEDLINE]

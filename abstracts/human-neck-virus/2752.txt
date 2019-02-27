@@ -1,0 +1,47 @@
+
+
+2752. Strahlenther Onkol. 2014 Jan;190(1):68-74. doi: 10.1007/s00066-013-0368-4. Epub
+2013 Jul 18.
+
+Fibroblast growth factor 2 is of prognostic value for patients with locally
+advanced squamous cell carcinoma of the head and neck.
+
+Rades D(1), Seibold ND, Gebhard MP, Noack F, Bruchhage KL, Schild SE.
+
+Author information: 
+(1)Department of Radiation Oncology, University of Lübeck, Ratzeburger Allee 160,
+23538, Lübeck, Germany, rades.dirk@gmx.net.
+
+Erratum in
+    Strahlenther Onkol. 2014 Mar;190(3):323. Bruchhage, K L [added].
+
+BACKGROUND AND PURPOSE: Patients with locally advanced SCCHN have a poor
+prognosis. This study investigated the prognostic value of the tumor cell
+expression of the fibroblast growth factor 2 (FGF-2) in patients treated with
+surgery followed by radiotherapy.
+PATIENTS AND METHODS: The impact of FGF-2-expression and 11 additional potential 
+prognostic factors on loco-regional control (LRC), metastases-free survival
+(MFS), and overall survival (OS) was retrospectively evaluated in 146 patients.
+Additional factors included age, gender, performance status, pre-radiotherapy
+hemoglobin levels, tumor site, histologic grade, T-category, N-category, human
+papilloma virus (HPV) status, extent of resection, and chemotherapy. Univariate
+analyses were performed with the Kaplan-Meier method and the log-rank test,
+multivariate analyses with the Cox proportional hazard model.
+RESULTS: On multivariate analysis, improved LRC was significantly associated with
+FGF-2-negativity [risk ratio (RR): 7.33; 95%-confidence interval (CI):
+2.88-19.05; p<0.001], lower T-category (RR: 2.42; 95%-CI: 1.47-4.33; p<0.001),
+lower N-category (RR: 12.36; 95%-CI: 3.48-78.91; p<0.001), and pre-radiotherapy
+hemoglobin levels ≥ 12 g/dl (RR: 4.18; 95%-CI: 1.73-10.53; p=0.002). No factor
+was significantly associated with improved MFS. Lower T-category showed a trend
+(RR: 1.59; 95%-CI: 0.97-2.82; p=0.069). Better OS was significantly associated
+with FGF-2-negativity (RR: 5.10; 2.22-11.80; p<0.001), lower T-category (RR:
+2.17; 95%-CI: 1.38-3.68; p < 0.001), lower N-category (RR: 3.86; 95%-CI:
+1.60-10.85; p=0.002), and pre-radiotherapy hemoglobin levels ≥ 12 g/dl (RR: 3.20;
+95%-CI: 1.46-7.30; p=0.004). HPV-positivity showed a trend (RR: 2.36; 95%-CI:
+n.a.; p=0.054).
+CONCLUSIONS: Tumor cell expression of FGF-2 proved to be an independent
+prognostic factor for LRC and OS. This factor can help personalize treatment and 
+stratify patients in future trials.
+
+DOI: 10.1007/s00066-013-0368-4 
+PMID: 23861152  [Indexed for MEDLINE]

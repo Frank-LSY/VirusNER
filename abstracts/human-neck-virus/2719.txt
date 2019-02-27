@@ -1,0 +1,44 @@
+
+
+2719. Clin Cancer Res. 2013 May 1;19(9):2528-40. doi: 10.1158/1078-0432.CCR-12-3047.
+Epub 2013 Feb 26.
+
+Clinical correlates of promoter hypermethylation of four target genes in head and
+neck cancer: a cooperative group correlative study.
+
+Roh JL(1), Wang XV, Manola J, Sidransky D, Forastiere AA, Koch WM.
+
+Author information: 
+(1)Departments of Otolaryngology-Head, Johns Hopkins School of Medicine,
+Baltimore, Maryland 21287, USA.
+
+PURPOSE: Promoter hypermethylation is a well-documented mechanism for
+tumor-specific alteration of suppressor gene activity in human malignancy
+including head and neck cancer (HNC). The abrogation of specific suppressor gene 
+activity may influence tumor behavior and clinical outcome. In this study we
+examined methylation of DCC, KIF1A, EDNRB, and p16(INK4a) in a large cohort of
+HNC patients from Eastern Cooperative Group (ECOG) 4393/Radiation Therapy
+Oncology Group (RTOG) 9614 to identify clinical correlates of methylation of
+these genes.
+EXPERIMENTAL DESIGN: Methylation was assessed by quantitative
+methylation-specific PCR in DNA from tumor specimens and was considered as a
+continuous and a binary variable. Clinical data including demographics, stage,
+risk factor exposure, treatment, and outcome were collected by ECOG and RTOG.
+Methylation status was also correlated with mutation of TP53 (previously
+reported) and human papilloma virus status.
+RESULTS: Methylation results were available for 368 cases, 353 of which also have
+p53 mutation status. At least one methylation event was present in all tumors. In
+multivariate analysis of the entire cohort, methylation of p16 was associated
+with decreased survival (HR = 1.008; P = 0.045). However, in tumors with
+disruptive TP53 mutation (poor prognostic group), the additional presence of
+methylation of p16 was protective (P = 0.019 considering p16 methylation as a
+continuous variable).
+CONCLUSION: Methylation of tumor-related genes contributes to the biological
+behavior of HNC and influences overall survival in conjunction with other known
+prognostic molecular events.
+
+©2013 AACR.
+
+DOI: 10.1158/1078-0432.CCR-12-3047 
+PMCID: PMC3642232
+PMID: 23444219  [Indexed for MEDLINE]

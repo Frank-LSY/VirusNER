@@ -1,0 +1,59 @@
+
+
+1205. Oncotarget. 2017 Jul 18;8(29):47780-47789. doi: 10.18632/oncotarget.17822.
+
+Circulating pre-treatment Epstein-Barr virus DNA as prognostic factor in
+locally-advanced nasopharyngeal cancer in a non-endemic area.
+
+Alfieri S(1), Iacovelli NA(2), Marceglia S(3), Lasorsa I(3), Resteghini C(1),
+Taverna F(4), Mazzocchi A(4), Orlandi E(2), Guzzo M(5), Bianchi R(5), Fanti D(6),
+Pala L(7), Racca S(8), Dvir R(8), Quattrone P(9), Gloghini A(9), Volpi CC(9),
+Granata R(1), Bergamini C(1), Locati L(1), Licitra L(1)(10), Bossi P(1).
+
+Author information: 
+(1)Department of Medical Oncology 3, Fondazione IRCCS Istituto Nazionale dei
+Tumori, Milan, Italy.
+(2)Department of Radiation Oncology, Fondazione IRCCS Istituto Nazionale dei
+Tumori, Milan, Italy.
+(3)Department of Engineering and Architecture, University of Trieste, Trieste,
+Italy.
+(4)Laboratory of Immunohematology & Transfusion Medicine, Fondazione IRCCS
+Istituto Nazionale dei Tumori, Milan, Italy.
+(5)Department of Head and Neck Surgery, Fondazione IRCCS Istituto Nazionale dei
+Tumori, Milan, Italy.
+(6)Laboratory of Clinical Chemistry and Microbiology, ASST Grande Ospedale
+Metropolitano Niguarda, Milan, Italy.
+(7)Department of Medical Oncology of Melanoma and Sarcoma, Istituto Europeo di
+Oncologia, Milan, Italy.
+(8)Laboratory of Clinical Microbiology & Virology, San Raffaele IRCCS Hospital,
+Milan, Italy.
+(9)Department of Pathology, Fondazione IRCCS Istituto Nazionale dei Tumori,
+Milan, Italy.
+(10)Department of Medical Oncology 3, University of Milan, Milan, Italy.
+
+The prognostic value of pre-treatment Epstein-Barr Virus (EBV) DNA viral load for
+non-endemic, locally-advanced, EBV-related nasopharyngeal cancer (NPC) patients
+is yet to be defined. All patients with EBV encoded RNA (EBER)-positive NPC
+treated at our Institution from 2005 to 2014 with chemotherapy (CT) concurrent
+with radiation (RT) +/- induction chemotherapy (ICT) were retrospectively
+reviewed. Pre-treatment baseline plasma EBV DNA (b-EBV DNA) viral load was
+detected and quantified by PCR. Median b-EBV DNA value was correlated to
+potential influencing factors by univariate analysis. Significant variables were 
+then extrapolated and included in a multivariate linear regression model. The
+same variables, including b-EBV DNA, were correlated with Disease Free Survival
+(DFS) and Overall Survival (OS) by univariate and multivariate analysis.A total
+of 130 locally-advanced EBER positive NPC patients were evaluated. Overall, b-EBV
+DNA was detected in 103 patients (79.2%). Median viral load was 554 copies/mL
+(range 50-151075), and was positively correlated with T stage (p=0.002), N3a-b vs
+N0-1-2 stage (p=0.048), type of treatment (ICT followed by CTRT, p=0.006) and
+locoregional and/or distant disease recurrence (p=0.034). In the overall
+population, DFS and OS were significantly longer in patients with pre-treatment
+negative EBV DNA than in positive subjects at the multivariate analysis.Negative 
+b-EBV DNA can be considered as prognostic biomarker of longer DFS and OS in NPC
+in non-endemic areas. This finding needs confirmation in larger prospective
+series, with standardized and inter-laboratory harmonized method of plasma EBV
+DNA quantification.
+
+DOI: 10.18632/oncotarget.17822 
+PMCID: PMC5564604
+PMID: 28562354  [Indexed for MEDLINE]

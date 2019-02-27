@@ -1,0 +1,29 @@
+
+
+2907. Cancer Lett. 2012 Dec 30;326(2):155-60. doi: 10.1016/j.canlet.2012.07.033. Epub
+2012 Aug 4.
+
+Targeting Jab1/CSN5 in nasopharyngeal carcinoma.
+
+Pan Y(1), Claret FX.
+
+Author information: 
+(1)Department of Systems Biology, The University of Texas, MD Anderson Cancer
+Center, Houston, TX 77030, USA.
+
+Nasopharyngeal carcinoma (NPC) is an Epstein-Barr virus-associated head and neck 
+cancer that is most common in eastern Asia. Epstein-Barr virus infection,
+environmental factors, and genetic susceptibility play important roles in NPC
+pathogenesis. Jab1/CSN5 is a multifunctional protein that participates in
+affecting integrin signaling, controlling cell proliferation and apoptosis, and
+regulating genomic instability and DNA repair. Correlation of Jab1/CSN5
+overexpression with poor prognosis for NPC provides evidence that it is involved 
+in the tumorigenic process. In this review, we highlight recent advances in
+studies of the oncogenic role of Jab1/CSN5 in NPC and its potential as a
+therapeutic target for this cancer.
+
+Published by Elsevier Ireland Ltd.
+
+DOI: 10.1016/j.canlet.2012.07.033 
+PMCID: PMC3474602
+PMID: 22867945  [Indexed for MEDLINE]

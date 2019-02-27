@@ -1,0 +1,31 @@
+
+
+1119. Exp Oncol. 2014 Sep;36(3):215-6.
+
+Human papilloma virus and nasopharyngeal carcinoma: pathology, prognosis,
+recurrence and mortality of the disease.
+
+Atighechi S(1), Ahmadpour Baghdadabad MR(1), Mirvakili SA(1), Sheikhha MH(2),
+Baradaranfar MH(1), Dadgarnia MH(1), Behniafard N(1).
+
+Author information: 
+(1)Otorhinolaryngology Research Center, Shahid Sadoughi University of Medical
+Sciences, Yazd 8915887857, Iran.
+(2)Research and Clinical Center for Infertility, Shahid Sadoughi University of
+Medical Sciences, Yazd 8915887857, Iran.
+
+BACKGROUND: One of the malignant tumors among head and neck cancers is
+nasopharyngeal carcinoma. Many studies consider human papilloma virus (HPV) as a 
+cause for nasopharyngeal carcinoma.
+METHODS: 41 paraffin-wax-embedded block samples were examined to detect HPV DNA
+and its subtype's presence by polymerase chain reaction. The recurrence,
+prognosis and survival were evaluated for an average of 48 months.
+RESULTS: HPV DNA was positive in 9 patients (22%). The overall recurrence rate
+was 75% in HPV negative patients and 11% in HPV positive ones. The mortality rate
+in HPV negative and positive patients was 37.5% and 0%, respectively.
+CONCLUSION: HPV type 18 and 16 were the most common subtypes. Also, it can be
+implied that patients which are HPV positive had better prognosis and also less
+recurrence.
+
+
+PMID: 25265358  [Indexed for MEDLINE]

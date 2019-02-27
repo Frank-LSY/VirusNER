@@ -1,0 +1,53 @@
+
+
+2767. Br J Cancer. 2015 Jan 6;112(1):32-8. doi: 10.1038/bjc.2014.553. Epub 2014 Dec 4.
+
+A phase II trial of induction chemotherapy and chemo-IMRT for head and neck
+squamous cell cancers at risk of bilateral nodal spread: the application of a
+bilateral superficial lobe parotid-sparing IMRT technique and treatment outcomes.
+
+Miah AB(1), Schick U(1), Bhide SA(2), Guerrero-Urbano MT(2), Clark CH(3), Bidmead
+AM(3), Bodla S(4), Del Rosario L(1), Thway K(5), Wilson P(6), Newbold KL(1),
+Harrington KJ(2), Nutting CM(2).
+
+Author information: 
+(1)Head and Neck Unit, The Royal Marsden NHS Foundation Trust, London (and
+Surrey), UK.
+(2)1] Head and Neck Unit, The Royal Marsden NHS Foundation Trust, London (and
+Surrey), UK [2] The Institute of Cancer Research, London, UK.
+(3)1] The Institute of Cancer Research, London, UK [2] Department of Physics, The
+Royal Marsden NHS Foundation Trust, London, UK.
+(4)Department of Statistics, The Royal Marsden NHS Foundation Trust, London, UK.
+(5)Department of Histopathology, The Royal Marsden NHS Foundation Trust, London, 
+UK.
+(6)Department of Histopathology, St George's Healthcare, London, UK.
+
+PURPOSE: To determine the feasibility of induction chemotherapy and chemo-IMRT in
+head and neck squamous cell cancers at risk of bilateral nodal spread (midline
+tumours) and to evaluate whether bilateral superficial lobe parotid-sparing IMRT 
+can reduce the incidence of ⩾G2 subjective xerostomia.
+METHODS: Patients with midline tumours were enrolled to a phase II trial to
+receive induction platinum/5-fluorouracil and concomitant platinum with combined 
+superficial lobe parotid-sparing IMRT. The primary site and involved nodal levels
+received 65 Gy in 30 fractions (f) and at risk nodal levels, 54 Gy/30f. Incidence
+of ⩾G2 subjective xerostomia was defined as the primary endpoint. Secondary
+endpoints included incidences of acute and late toxicities and survival outcomes 
+dependent on human papilloma virus (HPV) status.
+RESULTS: One hundred and twenty patients with midline cancers completed treatment
+between December 2005 and May 2010 with median follow-up of 50 months. Incidences
+of ⩾G2 acute toxicities were: dysphagia 75%; xerostomia 65%; mucositis 86%; pain 
+83%; and fatigue 64%. At 12 months, ⩾G2 subjective xerostomia was observed in 21%
+(17% in HPV +ve). Two-year loco-regional progression-free survival (PFS) was
+90.7% (95% CI: 85.2-96.2). According to HPV status, there was a significant
+difference for 2-year loco-regional PFS, 76.8% (HPV-negative) vs 98.6%
+(HPV-positive), P=0.001. 2-year overall survival was 93% for HPV-positive
+compared with 52% for HPV-negative cases, P<0.001.
+CONCLUSIONS: Sequential chemotherapy/chemo-IMRT for midline tumours is feasible, 
+with excellent survival outcomes. At 1 year, 21% experience ⩾G2 subjective
+xerostomia. Two-year survival outcomes differ significantly between HPV-positive 
+and HPV-negative disease, suggesting development of different treatment schedules
+for the different disease entities.
+
+DOI: 10.1038/bjc.2014.553 
+PMCID: PMC4453605
+PMID: 25474250  [Indexed for MEDLINE]

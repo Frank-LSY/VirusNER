@@ -1,0 +1,55 @@
+
+
+1967. Am J Hum Genet. 2016 Jun 2;98(6):1101-1113. doi: 10.1016/j.ajhg.2016.03.028. Epub
+2016 May 26.
+
+RNA Interference Prevents Autosomal-Dominant Hearing Loss.
+
+Shibata SB(1), Ranum PT(2), Moteki H(3), Pan B(4), Goodwin AT(5), Goodman SS(6), 
+Abbas PJ(6), Holt JR(4), Smith RJH(7).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, Carver College of
+Medicine, University of Iowa, Iowa City, IA 52242, USA; Molecular Otolaryngology 
+and Renal Research Laboratories, Carver College of Medicine, University of Iowa, 
+Iowa City, IA 52242, USA.
+(2)Molecular Otolaryngology and Renal Research Laboratories, Carver College of
+Medicine, University of Iowa, Iowa City, IA 52242, USA; Interdisciplinary
+Graduate Program in Molecular & Cellular Biology, Graduate College, University of
+Iowa, Iowa City, IA 52242, USA.
+(3)Molecular Otolaryngology and Renal Research Laboratories, Carver College of
+Medicine, University of Iowa, Iowa City, IA 52242, USA; Department of
+Otorhinolaryngology, Shinshu University School of Medicine, Matsumoto, Nagano
+3908621, Japan.
+(4)Department of Otolaryngology, F.M. Kirby Neurobiology Center, Boston
+Children's Hospital and Harvard Medical School, Boston, MA 02115, USA.
+(5)Molecular Otolaryngology and Renal Research Laboratories, Carver College of
+Medicine, University of Iowa, Iowa City, IA 52242, USA.
+(6)Department of Communication Sciences and Disorders, College of Liberal Arts
+and Sciences, University of Iowa, Iowa City, IA 52242, USA.
+(7)Department of Otolaryngology - Head and Neck Surgery, Carver College of
+Medicine, University of Iowa, Iowa City, IA 52242, USA; Molecular Otolaryngology 
+and Renal Research Laboratories, Carver College of Medicine, University of Iowa, 
+Iowa City, IA 52242, USA; Interdisciplinary Graduate Program in Molecular &
+Cellular Biology, Graduate College, University of Iowa, Iowa City, IA 52242, USA;
+Iowa Institute of Human Genetics, Carver College of Medicine, University of Iowa,
+Iowa City, IA 52242, USA. Electronic address: richard-smith@uiowa.edu.
+
+Hearing impairment is the most common sensory deficit. It is frequently caused by
+the expression of an allele carrying a single dominant missense mutation. Herein,
+we show that a single intracochlear injection of an artificial microRNA carried
+in a viral vector can slow progression of hearing loss for up to 35 weeks in the 
+Beethoven mouse, a murine model of non-syndromic human deafness caused by a
+dominant gain-of-function mutation in Tmc1 (transmembrane channel-like 1). This
+outcome is noteworthy because it demonstrates the feasibility of
+RNA-interference-mediated suppression of an endogenous deafness-causing allele to
+slow progression of hearing loss. Given that most autosomal-dominant
+non-syndromic hearing loss in humans is caused by this mechanism of action,
+microRNA-based therapeutics might be broadly applicable as a therapy for this
+type of deafness.
+
+Copyright © 2016 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ajhg.2016.03.028 
+PMCID: PMC4908151
+PMID: 27236922  [Indexed for MEDLINE]

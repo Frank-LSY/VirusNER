@@ -1,0 +1,44 @@
+
+
+42. J Pathol. 2016 Jan;238(2):166-79. doi: 10.1002/path.4656. Epub 2015 Dec 10.
+
+Model systems of human papillomavirus-associated disease.
+
+Doorbar J(1).
+
+Author information: 
+(1)Department of Pathology, University of Cambridge, Tennis Court Road,
+Cambridge, UK.
+
+Human papillomaviruses (HPVs) cause a range of serious diseases, including the
+vast majority of cervical cancers, most anal cancers and around half of head and 
+neck cancers. They are also responsible for troublesome benign epithelial
+lesions, including genital warts and laryngeal papillomas, and in some
+individuals HPVs lead to recurrent respiratory papillomatosis and other
+difficult-to-manage diseases. As a result, there is a great need for model
+systems that accurately mimic papillomavirus infections in humans. This is
+complicated by the diverse variety of HPVs, which now number over 200 types, and 
+the different strategies they have evolved to persist in the population. The most
+well-developed models involve the culture of HPV-containing keratinocytes in
+organotypic raft culture, an approach which appears to accurately mimic the life 
+cycle of several of the high-risk cancer-associated HPV types. Included amongst
+these are HPV16 and 18, which cause the majority of cervical cancers. The
+low-risk HPV types persist less well in tissue-culture models, and our ability to
+study the productive life cycle of these viruses is more limited. Although
+ongoing research is likely to improve this situation, animal models of
+papillomavirus disease can provide considerable basic information as to how
+lesions form, regress and can be controlled by the immune system. The best
+studied are cottontail rabbit papillomavirus, rabbit oral papillomavirus and,
+more recently, mouse papillomavirus (MmuPV), the last of which is providing
+exciting new insights into viral tropisms and immune control. In addition,
+transgenic models of disease have helped us to understand the consequences of
+persistent viral gene expression and the importance of co-factors such as
+hormones and UV irradiation in the development of neoplasia and cancer. It is
+hoped that such disease models will eventually lead us to better understanding
+and better treatments for human disease.
+
+Copyright © 2015 Pathological Society of Great Britain and Ireland. Published by 
+John Wiley & Sons, Ltd.
+
+DOI: 10.1002/path.4656 
+PMID: 26456009  [Indexed for MEDLINE]

@@ -1,0 +1,43 @@
+
+
+1331. Ann Oncol. 2014 Mar;25(3):694-9. doi: 10.1093/annonc/mdu004. Epub 2014 Feb 7.
+
+Treatment-related outcome of oropharyngeal cancer patients differentiated by HPV 
+dictated risk profile: a tertiary cancer centre series analysis.
+
+Bossi P(1), Orlandi E, Miceli R, Perrone F, Guzzo M, Mariani L, Granata R, Locati
+L, Fallai C, Cortelazzi B, Pilotti S, Scaramellini G, Gloghini A, Licitra L.
+
+Author information: 
+(1)Head and Neck Cancer Medical Oncology Unit.
+
+BACKGROUND: To date, no treatment modality has been identified as more effective 
+for oropharyngeal cancer (OPC), and no predictive factors are known to guide
+treatment decision for this disease. This retrospective study evaluates the
+differential effects of diverse treatment options for OPC according to patient
+risk profiles.
+PATIENTS AND METHODS: We considered two series of locally advanced squamous cell 
+OPC patients treated with either surgery followed by radiotherapy (surgical
+series) or chemoradiation (CRT) with/without induction docetaxel, cisplatin and
+5-fluorouracil (TPF) chemotherapy (CRT series). Smoking habits, tumor p16
+expression/human papillomavirus (HPV) status and T and N stage were analyzed to
+stratify the patients according to Ang's risk profile (low, intermediate and high
+risk). Overall survival (OS) and disease-free survival were calculated with the
+Kaplan-Meier method.
+RESULTS: Globally, 171 patients were considered, 56 in surgical and 115 in CRT
+series. Patients were stratified in low- (20% of surgical and CRT groups),
+intermediate- (23% and 41%) and high-risk (57% and 39%) groups. In the surgical
+series, 5-year OS was 54.5%, 46.9% and 40.0% in low, intermediate and high Ang's 
+risk profiles, respectively, whereas in the CRT series those were 100%, 78.9% and
+46.7%, respectively. In the multivariable analyses, adjusting for inhomogeneity
+between the treatment group, the CRT effect was significantly higher in the low- 
+and intermediate-risk groups (P-value for the interaction treatment risk group = 
+0.034 in the OS analysis).
+CONCLUSIONS: In this retrospective analysis, low- and intermediate-risk OPC
+patients had a better survival when treated with CRT compared with open surgery
+followed by radiation therapy. These data suggest that different treatment
+approaches might be essential in determining outcome results.
+
+DOI: 10.1093/annonc/mdu004 
+PMCID: PMC4433530
+PMID: 24510315  [Indexed for MEDLINE]

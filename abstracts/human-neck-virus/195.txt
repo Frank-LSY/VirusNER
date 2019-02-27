@@ -1,0 +1,32 @@
+
+
+195. Semin Diagn Pathol. 2015 Jul;32(4):250-7. doi: 10.1053/j.semdp.2014.12.006. Epub 
+2014 Dec 19.
+
+The role of cytology in the era of HPV-related head and neck carcinoma.
+
+Roy-Chowdhuri S(1), Krishnamurthy S(2).
+
+Author information: 
+(1)Department of Pathology, The University of Texas MD Anderson Cancer Center,
+1515 Holcombe Blvd, Box 053, Houston, TX 77030-4095.
+(2)Department of Pathology, The University of Texas MD Anderson Cancer Center,
+1515 Holcombe Blvd, Box 053, Houston, TX 77030-4095. Electronic address:
+skrishna@mdanderson.org.
+
+Enlarged neck lymph nodes are very often subject to fine needle aspiration biopsy
+to detect metastatic disease in patients with suspected or proven squamous cell
+carcinoma in head and neck region. Cytology specimens of metastatic carcinoma in 
+such patients are routinely evaluated for human papilloma virus (HPV) to identify
+patients with HPV-related head and neck squamous cell carcinoma. Different types 
+of cytology specimens including smears, cytospins, cell blocks and aspirated
+material in the rinse can all be used for different types of HPV testing such as 
+immunohistochemistry for p16, HPV-in situ hybridization, and HPV-Polymerase chain
+reaction. There is currently no consensus regarding the testing of high-risk HPV 
+in cytology specimens. The establishment of standardized HPV testing of cytology 
+specimens is of utmost importance and is eagerly awaited.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1053/j.semdp.2014.12.006 
+PMID: 25638437  [Indexed for MEDLINE]

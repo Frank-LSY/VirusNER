@@ -1,0 +1,66 @@
+
+
+2794. Int J Cancer. 2016 Apr 15;138(8):1959-70. doi: 10.1002/ijc.29946. Epub 2015 Dec
+21.
+
+Novel highly specific anti-periostin antibodies uncover the functional importance
+of the fascilin 1-1 domain and highlight preferential expression of periostin in 
+aggressive breast cancer.
+
+Field S(1)(2), Uyttenhove C(3)(4), Stroobant V(3), Cheou P(4), Donckers D(4),
+Coutelier JP(4), Simpson PT(5)(6)(7), Cummings MC(5)(7)(8), Saunus JM(5)(6), Reid
+LE(5)(6), Kutasovic JR(5)(6), McNicol AM(5)(7), Kim BR(9)(10), Kim JH(9)(10)(11),
+Lakhani SR(5)(7)(8), Neville AM(12), Van Snick J(3)(4), Jat PS(2)(13).
+
+Author information: 
+(1)University of Oxford Branch, Ludwig Cancer Research, Oxford, United Kingdom.
+(2)Department of Neurodegenerative Disease, UCL Institute of Neurology, Queen
+Square, London, United Kingdom.
+(3)Ludwig Cancer Research, Brussels Branch, Brussels, Belgium.
+(4)de Duve Institute, Université Catholique De Louvain, Brussels, Belgium.
+(5)The University of Queensland, UQ Centre for Clinical Research, Herston,
+Brisbane, Australia.
+(6)Cancer Genetics Laboratory, QIMR Berghofer Medical Research Institute,
+Queensland, Herston, Australia.
+(7)The University of Queensland, School of Medicine, Discipline of Molecular &
+Cellular Pathology, Herston, Brisbane, Australia.
+(8)Pathology Queensland, The Royal Brisbane & Women's Hospital, Brisbane,
+Australia.
+(9)Medical Research Centre for Ischemic Tissue Regeneration, School of Medicine, 
+Pusan National University, Yangsan, Gyeongsangnam-do, Republic of Korea.
+(10)Department of Physiology, School of Medicine, Pusan National University,
+Yangsan, Gyeongsangnam-do, Republic of Korea.
+(11)Research Institute of Convergence Biomedical Science and Technology, Pusan
+National University Yangsan Hospital, Yangsan, Gyeongsangnam-do, Republic of
+Korea.
+(12)Ludwig Cancer Research, New York, NY.
+(13)MRC Prion Unit, UCL Institute of Neurology, Queen Square, London, United
+Kingdom.
+
+Periostin (POSTN), a secreted homodimeric protein that binds integrins αvβ3,
+αvβ5, and α6β4, was originally found to be expressed in fetal tissues and in the 
+adult upon injury particularly bone fractures due to its role in remodelling and 
+repair. Recently it was found to be over-expressed in human breast cancer and a
+variety of other tumour types including head and neck squamous cell carcinoma,
+where its overexpression correlates with increased tumour invasion. Progress in
+studying its functional role in tumour pathogenesis has been hampered by the
+paucity of antibodies for its specific and sensitive detection. It has proven
+very difficult to obtain monoclonal antibodies (mAbs) against this highly
+conserved protein but we report here that combining infection of mice with
+lactate dehydrogenase elevating virus (LDV), a B cell activating arterivirus,
+with conjugation of human POSTN to ovalbumin as an immunogenic carrier, enabled
+us to develop six mAbs recognizing both human and mouse POSTN and inhibiting its 
+binding to αvβ3 integrin. Two of the mAbs, MPB4B1 and MPC5B4, were tested and
+found to inhibit POSTN-induced migration of human endothelial colony forming
+cells. All six mAbs recognized amino acids 136-51 (APSNEAWDNLDSDIRR) within the
+POSTN fascilin (FAS) 1-1 domain revealing the functional importance of this
+motif; this was further highlighted by the ability of aa 136-151 peptide to
+inhibit integrin-mediated cell migration. Immunohistochemistry using MPC5B4,
+indicated that breast tumour cell POSTN expression was a strong prognostic
+indicator, along with tumour size, lymph node, and human epidermal growth factor 
+receptor 2 (HER2) status.
+
+© 2015 UICC.
+
+DOI: 10.1002/ijc.29946 
+PMID: 26619948  [Indexed for MEDLINE]

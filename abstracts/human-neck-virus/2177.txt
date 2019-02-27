@@ -1,0 +1,56 @@
+
+Conflict of interest statement: PJFS, RDMS and CJLMM have minority stake in
+Self-Screen B.V., a spin-off company of VU University Medical Center Amsterdam.
+PJFS has been on the speaker's bureau of Roche, Abbott, Gen-Probe, Qiagen and
+Seegene. He is consultant for Crucell Holland B.V. CJLMM has participated in the 
+sponsored speaker's bureau of Merck, GSK, Qiagen, Menarini, Seegene, and Roche,
+and served occasionally on the scientific advisory board of GSK, Qiagen, Merck,
+and Roche. CJLMM has occasionally been a consultant for Qiagen and Genticel and
+is a minority shareholder of Diassay B.V. Formerly CJLMM was a minority
+shareholder of Delphi Biosciences. All other authors have no conflicts of
+interest to declare.
+
+
+2177. Medicine (Baltimore). 2015 Dec;94(50):e2187. doi: 10.1097/MD.0000000000002187.
+
+Genomic Copy Number Variations Characterize the Prognosis of Both P16-Positive
+and P16-Negative Oropharyngeal Squamous Cell Carcinoma After Curative Resection.
+
+Rhie A(1), Park WS, Choi MK, Kim JH, Ryu J, Ryu CH, Kim JI, Jung YS.
+
+Author information: 
+(1)From the Department of Biomedical Science, Department of Biochemistry and
+Molecular Biology, Genomic Medicine Institute (GMI), Medical Research Center,
+Seoul National University, Seoul (AR, J-IIK); Department of Pathology, Center for
+Specific Organs Cancer, Hematologic Malignancy Branch, National Cancer Center,
+Goyang, Gyeonggi (WSP, MKC); and Department of Otolaryngology-Head and Neck
+Surgery, Graduate School of Cancer Science and Policy, Specific Organs Cancer
+Branch, National Cancer Center, Goyang, Gyeonggi, Korea (J-HK, JR, CHR, Y-SJ).
+
+Recently increasing high-risk HPV+ OSCC exhibits unique clinical and molecular
+characteristics compared to HPV-unrelated (HPV-) counterpart. Genomic copy number
+variations (CNVs), unique in HPV+ OSCCs, and their role for the prognosis
+prediction remains poorly studied. Here, we analyzed the distinct genomic copy
+number variations (CNVs) in human papillomavirus-related (HPV+) oropharyngeal
+squamous cell carcinoma (OSCC) and their role as a prognosticator after curative 
+resection. For 58 consecutive, Korean OSCC patients that underwent surgery-based 
+treatment with median 10 years of follow-up, HPV-related markers, and genome-wide
+CNV analysis were analyzed. Clinical associations between the CNV profile and
+survival analyses were followed. p16 expression predicted the overall survival
+(OS) (hazard ratio [HR] = 0.27, confidence interval [CI]: 0.39-0.80, P = 0.0006) 
+better than HPV L1 PCR (HR = 0.83, CI: 0.66-1.29, P = 0.64), smoking, or other
+variables. Although the overall number of CNVs was not significantly different,
+30 loci showed unique CNV patterns between the p16+ and p16- groups. A region
+containing PRDM2 was amplified only in the p16+ group, whereas EGFR and 11q13.3
+showed increased amplification in p16- counterpart. Loss of a locus containing
+FGF18 led to a worse, but gain of region including CDK10 and RAD18 led to better 
+overall survival (OS) in all OSCC patients. Meanwhile, subgroup analysis of p16+ 
+OSCC revealed that amplification of regions harboring HRAS and loss of locus
+bearing KDR led to better OS. p16+ OSCC exhibit distinct CNV patterns compared
+with p16- counterpart. Specific patterns of CNVs predict better survival,
+especially in p16+ OSCC. This might allow better insights of the outcome after
+curative resection for HPV+ and HPV- OSCC.
+
+DOI: 10.1097/MD.0000000000002187 
+PMCID: PMC5058900
+PMID: 26683928  [Indexed for MEDLINE]

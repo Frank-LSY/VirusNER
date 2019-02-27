@@ -1,0 +1,44 @@
+
+
+1883. Eur J Cancer. 2013 May;49(7):1609-18. doi: 10.1016/j.ejca.2012.11.023. Epub 2012 
+Dec 19.
+
+Randomised Phase II study of oral lapatinib combined with chemoradiotherapy in
+patients with advanced squamous cell carcinoma of the head and neck: rationale
+for future randomised trials in human papilloma virus-negative disease.
+
+Harrington K(1), Berrier A, Robinson M, Remenar E, Housset M, de Mendoza FH,
+Fayette J, Mehanna H, El-Hariry I, Compton N, Franklin N, Biswas-Baldwin N, Lau
+M, Legenne P, Kumar R.
+
+Author information: 
+(1)Royal Marsden Hospital, London, UK. kevin.harrington@icr.ac.uk
+
+BACKGROUND: This randomised Phase II study assessed the activity and safety of
+concurrent chemoradiotherapy (CRT) and lapatinib followed by maintenance
+treatment in locally advanced, unresected stage III/IVA/IVB head and neck cancer.
+PATIENTS AND METHODS: Patients were randomised 1:1 to concurrent CRT and placebo 
+followed by placebo or concurrent CRT and lapatinib followed by lapatinib.
+Treatment continued until disease progression or study withdrawal. Primary
+end-point was complete response rate (CRR) by independent review 6 months
+post-CRT.
+RESULTS: Sixty-seven patients (median age 56 years; 97% Eastern Cooperative
+Oncology Group performance status ≤1; 82% stage IV) were recruited. CRT dose
+intensities were unaffected by lapatinib: median radiation dose 70 Gy (lapatinib,
+placebo), duration 49 (lapatinib) and 50 days (placebo); median cisplatin dose
+260 mg/m(2) (lapatinib) and 280 mg/m(2) (placebo). Lapatinib combined with CRT
+was well-tolerated. Grade 3/4 toxicities during CRT were balanced between arms,
+with the exception of an excess of grade 3 diarrhoea (6% versus 0%) and rash (9% 
+versus 3%) and two grade 4 cardiac events in the lapatinib arm. CRR at 6 months
+post-CRT was 53% with lapatinib versus 36% with placebo in the intent-to-treat
+population. The progression-free survival (PFS) and overall survival rates at 18 
+months were 55% versus 41% and 68% versus 57% for the lapatinib and placebo arms,
+respectively. The difference between study arms was greatest in p16-negative
+disease (median PFS >20.4 months [lapatinib] versus 10.9 [placebo]).
+CONCLUSION: Lapatinib combined with CRT is well-tolerated with numeric increases 
+in CRR at 6 months post-CRT and median PFS in p16-negative disease.
+
+Copyright © 2012 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.ejca.2012.11.023 
+PMID: 23265705  [Indexed for MEDLINE]

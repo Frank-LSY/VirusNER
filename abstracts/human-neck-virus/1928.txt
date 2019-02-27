@@ -1,0 +1,52 @@
+
+
+1928. Laryngoscope. 2018 Jun;128(6):1379-1385. doi: 10.1002/lary.26965. Epub 2017 Oct
+31.
+
+A matched comparison of human papillomavirus-induced squamous cancer of unknown
+primary with early oropharynx cancer.
+
+Ross RB(1), Koyfman SA(2), Reddy CA(2), Houston N(2), Geiger JL(3), Woody NM(2), 
+Joshi NP(2), Greskovich JF Jr(2), Burkey BB(4), Scharpf J(4), Lamarre ED(4),
+Prendes B(4), Lorenz RR(4), Adelstein DJ(3), Ward MC(2).
+
+Author information: 
+(1)Case Western Reserve University School of Medicine, Cleveland, Ohio.
+(2)Department of Radiation Oncology, Taussig Cancer Institute, Cleveland Clinic, 
+Cleveland, Ohio.
+(3)Department of Hematology and Medical Oncology, Taussig Cancer Institute,
+Cleveland Clinic, Cleveland, Ohio.
+(4)Department of Otolaryngology-Head and Neck Surgery, Head and Neck Institute,
+Cleveland Clinic, Cleveland, Ohio, U.S.A.
+
+OBJECTIVES/HYPOTHESIS: Patients with human papillomavirus (HPV)-induced cancer of
+unknown primary (CUP) are generally excluded from clinical trials, despite
+surgical series reporting detection rates of occult oropharynx primaries of >80%.
+We performed a matched-pair analysis to compare outcomes between T0N1-3M0 HPV+
+CUP and T1-2N1-3M0 HPV+ oropharynx known primary (OPX).
+STUDY DESIGN: Retrospective cohort study at a single institution.
+METHODS: Patients with early T stage, node positive HPV+ OPX or CUP treated with 
+curative intent between 1998 and 2016 were identified. For a subgroup of CUP
+patients with an unknown HPV status, we imputed HPV status and included patients 
+with a >80% probability of being HPV+. Cohorts were matched based on patient
+demographics using a nearest neighbor propensity technique. After matching,
+patients were grouped according to either a favorable or unfavorable risk
+stratification designations per current NRG Oncology clinical trial enrollment
+criteria. Disease-free survival (DFS) and overall survival (OS) were calculated
+using Kaplan-Meier analysis.
+RESULTS: Of 298 patients with T1-2N1-3 OPX, 48 were matched to 48 HPV+ CUP
+patients (32 with confirmed and 16 imputed HPV status). Median follow-up for CUP 
+(34.1 months) and OPX (27.8 months) patients were similar (P = .23).There were no
+significant differences between the CUP and OPX groups for 3-year DFS (89% vs.
+85%, P = .44), and 3-year OS (91% vs. 91%, P = .11), respectively.
+CONCLUSIONS: Patients with T0N+M0 HPV-induced CUP have similar survival outcomes 
+to matched patients with T1-2N+M0 HPV+ OPX. These patients can reasonably be
+included in clinical trials investigating the role of treatment deintensification
+and risk stratified similar to patients with early-stage known primary OPX
+cancer.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 128:1379-1385, 2018.
+
+© 2017 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.26965 
+PMID: 29086413  [Indexed for MEDLINE]

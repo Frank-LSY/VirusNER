@@ -1,0 +1,42 @@
+
+
+2343. Int J Radiat Oncol Biol Phys. 2011 Jan 1;79(1):60-4. doi:
+10.1016/j.ijrobp.2009.10.042. Epub 2010 Apr 10.
+
+Primary radiation therapy for head-and-neck cancer in the setting of human
+immunodeficiency virus.
+
+Klein EA(1), Guiou M, Farwell DG, Luu Q, Lau DH, Stuart K, Vaughan A, Vijayakumar
+S, Chen AM.
+
+Author information: 
+(1)Department of Radiation Oncology, University of California Davis Cancer
+Center, Sacramento, CA, USA.
+
+PURPOSE: To analyze outcomes after radiation therapy for head-and-neck cancer
+among a cohort of patients with human immunodeficiency virus (HIV).
+METHODS AND MATERIALS: The medical records of 12 patients with serologic evidence
+of HIV who subsequently underwent radiation therapy to a median dose of 68 Gy
+(range, 64-72 Gy) for newly diagnosed squamous cell carcinoma of the head and
+neck were reviewed. Six patients (50%) received concurrent chemotherapy.
+Intensity-modulated radiotherapy was used in 6 cases (50%). All patients had a
+Karnofsky performance status of 80 or 90. Nine patients (75%) were receiving
+antiretroviral therapies at the time of treatment, and the median CD4 count was
+460 (range, 266-800). Toxicity was graded according to the Radiation Therapy
+Oncology Group / European Organization for the Treatment of Cancer toxicity
+criteria.
+RESULTS: The 3-year estimates of overall survival and local-regional control were
+78% and 92%, respectively. Acute Grade 3+ toxicity occurred in 7 patients (58%), 
+the most common being confluent mucositis (5 patients) and moist skin
+desquamation (4 patients). Two patients experienced greater than 10% weight loss,
+and none experienced more than 15% weight loss from baseline. Five patients (42%)
+experienced treatment breaks in excess of 10 cumulative days, although none
+required hospitalization. There were no treatment-related fatalities.
+CONCLUSIONS: Radiation therapy for head-and-neck cancer seems to be relatively
+well tolerated among appropriately selected patients with HIV. The observed rates
+of toxicity were comparable to historical controls without HIV.
+
+Copyright © 2011 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2009.10.042 
+PMID: 20385454  [Indexed for MEDLINE]

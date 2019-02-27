@@ -1,0 +1,43 @@
+
+
+1463. Arch Otolaryngol Head Neck Surg. 2012 Aug;138(8):732-9. doi:
+10.1001/archoto.2012.1558.
+
+Frequent mutations in TP53 and CDKN2A found by next-generation sequencing of head
+and neck cancer cell lines.
+
+Nichols AC(1), Yoo J, Palma DA, Fung K, Franklin JH, Koropatnick J, Mymryk JS,
+Batada NN, Barrett JW.
+
+Author information: 
+(1)Departmentof Otolaryngology–Head and Neck Surgery, VictoriaHospital, London
+Health Science Centre, Room B3-431A, 800 Commissioners Rd E, London,ONN6A
+5W9,Canada (Anthony.Nichols@lhsc.on.ca).
+
+OBJECTIVE: To conduct high-throughput mutational analysis in 6 commonly used head
+and neck cancer cell lines. Comprehensive mutation analysis of primary head and
+neck squamous cell carcinoma (HNSCC) tumors has recently been reported, and
+mutations in the NOTCH receptors, TP53 and CDKN2A, were key findings. Established
+cell lines are valuable tools to study cancer in vitro. Similar high-throughput
+mutational analysis of head and neck cancer cell lines is necessary to confirm
+their mutational profile.
+DESIGN: DNA was extracted from American Type Culture Collection (ATCC) cell lines
+Cal27, Detroit562, FaDu, SCC4, SCC15, and SCC25. Cell line identity was confirmed
+by short tandem repeat (STR) analysis, and human papillomavirus (HPV) infection
+status was assessed by real-time polymerase chain reaction. A total of 535
+cancer-associated genes were sequenced through a limited exome capture on the
+Illumina HiSeq system.
+SETTING: London Regional Cancer Program.
+RESULTS: The identity of the 6 cell lines was confirmed by STR analysis, and all 
+lines tested negative for HPV infection. We achieved an average of 129-fold
+coverage with paired-end 100 base-pair reads. Sequencing revealed an average of
+38 damaging mutations in each cell line (range, 30-45). The TP53 mutations,
+predicted to confer loss of function, were noted in all cell lines, and damaging 
+CDKN2A mutations were found in all lines except SCC15.
+CONCLUSIONS: High-throughput sequencing of head and neck cancer cell lines
+revealed similar mutations to those observed in primary tumors. Thus, these lines
+reflect the tumor biology of HNSCC and can serve as valuable models to study
+HNSCC in vitro.
+
+DOI: 10.1001/archoto.2012.1558 
+PMID: 22911296  [Indexed for MEDLINE]

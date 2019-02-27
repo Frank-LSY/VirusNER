@@ -1,0 +1,72 @@
+
+
+2540. Cancer Res. 2015 Oct 1;75(19):4211-23. doi: 10.1158/0008-5472.CAN-15-1107. Epub
+2015 Aug 21.
+
+Identification of P450 Oxidoreductase as a Major Determinant of Sensitivity to
+Hypoxia-Activated Prodrugs.
+
+Hunter FW(1), Young RJ(2), Shalev Z(3), Vellanki RN(3), Wang J(1), Gu Y(4), Joshi
+N(1), Sreebhavan S(1), Weinreb I(3), Goldstein DP(5), Moffat J(6), Ketela T(7),
+Brown KR(7), Koritzinsky M(8), Solomon B(9), Rischin D(10), Wilson WR(1), Wouters
+BG(11).
+
+Author information: 
+(1)Auckland Cancer Society Research Centre, Faculty of Medical and Health
+Sciences, University of Auckland, Auckland, New Zealand.
+(2)Research Division, Peter MacCallum Cancer Centre, East Melbourne, Victoria,
+Australia. Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Parkville, Victoria, Australia.
+(3)Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+Canada.
+(4)Auckland Cancer Society Research Centre, Faculty of Medical and Health
+Sciences, University of Auckland, Auckland, New Zealand. AnQual Laboratories,
+School of Pharmacy, Faculty of Medical and Health Sciences, University of
+Auckland, Auckland, New Zealand.
+(5)Department of Otolaryngology-Head and Neck Surgery, University of Toronto,
+Toronto, Ontario, Canada.
+(6)Department of Radiation Oncology, University of Toronto, Toronto, Ontario,
+Canada.
+(7)Donnelly Centre and Banting and Best Department of Medical Research,
+University of Toronto, Toronto, Ontario, Canada.
+(8)Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario, 
+Canada. Department of Radiation Oncology, University of Toronto, Toronto,
+Ontario, Canada. Institute of Medical Science, University of Toronto, Toronto,
+Ontario, Canada.
+(9)Research Division, Peter MacCallum Cancer Centre, East Melbourne, Victoria,
+Australia. Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Parkville, Victoria, Australia. Department of Medical Oncology, Peter MacCallum
+Cancer Centre, East Melbourne, Victoria, Australia.
+(10)Sir Peter MacCallum Department of Oncology, University of Melbourne,
+Parkville, Victoria, Australia. Department of Medical Oncology, Peter MacCallum
+Cancer Centre, East Melbourne, Victoria, Australia.
+(11)Princess Margaret Cancer Centre, University Health Network, Toronto, Ontario,
+Canada. Department of Radiation Oncology, University of Toronto, Toronto,
+Ontario, Canada. Department of Medical Biophysics, University of Toronto,
+Toronto, Ontario, Canada. Ontario Institute for Cancer Research, Toronto,
+Ontario, Canada. bwouters@uhnresearch.ca.
+
+Hypoxia is a prevalent feature of many tumors contributing to disease progression
+and treatment resistance, and therefore constitutes an attractive therapeutic
+target. Several hypoxia-activated prodrugs (HAP) have been developed, including
+the phase III candidate TH-302 (evofosfamide) and the preclinical agent SN30000, 
+which is an optimized analogue of the well-studied HAP tirapazamine. Experience
+with this therapeutic class highlights an urgent need to identify biomarkers of
+HAP sensitivity, including enzymes responsible for prodrug activation during
+hypoxia. Using genome-scale shRNA screens and a high-representation library
+enriched for oxidoreductases, we identified the flavoprotein P450 (cytochrome)
+oxidoreductase (POR) as the predominant determinant of sensitivity to SN30000 in 
+three different genetic backgrounds. No other genes consistently modified SN30000
+sensitivity, even within a POR-negative background. Knockdown or genetic knockout
+of POR reduced SN30000 reductive metabolism and clonogenic cell death and
+similarly reduced sensitivity to TH-302 under hypoxia. A retrospective evaluation
+of head and neck squamous cell carcinomas showed heterogeneous POR expression and
+suggested a possible relationship between human papillomavirus status and HAP
+sensitivity. Taken together, our study identifies POR as a potential predictive
+biomarker of HAP sensitivity that should be explored during the clinical
+development of SN30000, TH-302, and other hypoxia-directed agents.
+
+©2015 American Association for Cancer Research.
+
+DOI: 10.1158/0008-5472.CAN-15-1107 
+PMID: 26297733  [Indexed for MEDLINE]

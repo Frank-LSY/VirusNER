@@ -1,0 +1,37 @@
+
+
+2882. J Cutan Med Surg. 2009 Sep-Oct;13(5):257-61.
+
+Skin and soft tissue abscess: 1 year's experience.
+
+Nalmas S, Bishburg E, Shah M, Chan T.
+
+BACKGROUND: The incidence of skin and soft tissue abscesses (SSTAs) has increased
+owing to the emergence of community-acquired methicillin-resistant Staphylococcus
+aureus (CA-MRSA). Some of these patients are treated as outpatients (OPs) and
+some as inpatients (IPs).
+OBJECTIVE: To review the microbiology and clinical features of SSTAs and the
+clinical parameters that may have influenced clinicians to treat patients as IPs.
+METHODS: The study was conducted in a 673-bed teaching hospital between January
+and December 2005. A retrospective chart review of patients identified from a
+microbiology culture log was conducted. Data were collected for demographics,
+underlying disease, SSTA number and site, recurrence rates, and clinical
+presentation.
+RESULTS: One hundred thirty-eight patients were identified; 76 (55%) were female,
+with a mean age of 42 years (range 18-80 years); 76 (55.5%) had no underlying
+disease, 27 (19.6%) had diabetes, 20 (14.5%) had human immunodeficiency virus
+(HIV) infection, and 13 (9.4%) were intravenous drug users. Common SSTA sites
+involved were the perineal area (43; 31.2%), upper extremities (35; 25.4%), lower
+extremities (19; 13.8%), head and neck (14; 10.1%), chest (13; 9.4%), and abdomen
+(8; 5.8%).
+CONCLUSIONS: CA-MRSA was the most commonly isolated organism overall and in
+patients treated as OPs. The decision to treat SSTA patients as IPs seems to be
+influenced by SSTA number and site and the presence of fever at presentation.
+SSTA number and site (variables that led to the decision to treat patients as
+IPs) were confirmed by demonstrating statistical significance in the analysis
+between the IP and OP groups, but the other determinant of admission, the
+presence of fever at presentation, was based on chart review statements and not
+confirmed by statistical analysis between the IP and OP groups.
+
+DOI: 10.2310/7750.2009.08073 
+PMID: 19769834  [Indexed for MEDLINE]

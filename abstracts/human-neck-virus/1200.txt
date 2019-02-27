@@ -1,0 +1,58 @@
+
+
+1200. Virology. 2015 Nov;485:460-6. doi: 10.1016/j.virol.2015.08.017. Epub 2015 Sep 7.
+
+Detection of hypermutated human papillomavirus type 16 genome by Next-Generation 
+Sequencing.
+
+Wakae K(1), Aoyama S(2), Wang Z(3), Kitamura K(1), Liu G(1), Monjurul AM(1),
+Koura M(1), Imayasu M(1), Sakamoto N(1), Nakamura M(4), Kyo S(5), Kondo S(6),
+Fujiwara H(4), Yoshizaki T(6), Kukimoto I(7), Yamaguchi K(8), Shigenobu S(8),
+Nishiyama T(9), Muramatsu M(10).
+
+Author information: 
+(1)Department of Molecular Genetics, Kanazawa University Graduate School of
+Medical Science, Kanazawa, Ishikawa 920-8640, Japan.
+(2)Department of Molecular Genetics, Kanazawa University Graduate School of
+Medical Science, Kanazawa, Ishikawa 920-8640, Japan; Tokyo Medical and Dental
+University Hospital Faculty of Medicine, Tokyo 113-8510, Japan.
+(3)Department of Molecular Genetics, Kanazawa University Graduate School of
+Medical Science, Kanazawa, Ishikawa 920-8640, Japan; Division of Medical
+Oncology, Affiliated Zhongshan Hospital of Dalian University, 116001, China.
+(4)Department of Obstetrics and Gynecology, Kanazawa University Graduate School
+of Medical Science, Kanazawa, Ishikawa 920-8640, Japan.
+(5)Department of Obstetrics and Gynecology, Kanazawa University Graduate School
+of Medical Science, Kanazawa, Ishikawa 920-8640, Japan; Department of Obstetrics 
+and Gynecology, Shimane University Faculty of Medicine, Izumo, Shimane 693-8501, 
+Japan.
+(6)Division of Otorhinolaryngology and Head and Neck Surgery, Kanazawa University
+Graduate School of Medical Science, Kanazawa, Ishikawa 920-8640, Japan.
+(7)Pathogen Genomics Center, National Institute of Infectious Diseases, 4-7-1
+Gakuen, Musashi-murayama, Tokyo 208-0011, Japan.
+(8)Functional Genomic Facility, National Institute of Basic Biology, Nishigonaka 
+38, Myodaiji, Okazaki, Aichi 444-8585, Japan.
+(9)Advanced Science Research Center, Kanazawa University, Kanazawa, Ishikawa
+920-8640, Japan. Electronic address: tomoakin@staff.kanazawa-u.ac.jp.
+(10)Department of Molecular Genetics, Kanazawa University Graduate School of
+Medical Science, Kanazawa, Ishikawa 920-8640, Japan. Electronic address:
+muramatu@med.kanazawa-u.ac.jp.
+
+Human papillomavirus type 16 (HPV16) is a major cause of cervical cancer. We
+previously demonstrated that C-to-T and G-to-A hypermutations accumulated in the 
+HPV16 genome by APOBEC3 expression in vitro. To investigate in vivo
+characteristics of hypermutation, differential DNA denaturation-PCR (3D-PCR) was 
+performed using three clinical specimens obtained from HPV16-positive cervical
+dysplasia, and detected hypermutation from two out of three specimens. One sample
+accumulating hypermutations in both E2 and the long control region (LCR) was
+further subjected to Next-Generation Sequencing, revealing that hypermutations
+spread across the LCR and all early genes. Notably, hypermutation was more
+frequently observed in the LCR, which contains a viral replication origin and the
+early promoter. APOBEC3 expressed abundantly in an HPV16-positive cervix,
+suggesting that single-stranded DNA exposed during viral replication and
+transcription may be efficient targets for deamination. The results further
+strengthen a role of APOBEC3 in introducing HPV16 hypermutation in vivo.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.08.017 
+PMID: 26356796  [Indexed for MEDLINE]

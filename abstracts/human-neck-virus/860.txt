@@ -1,0 +1,27 @@
+
+
+860. Cancer Lett. 2010 Feb 28;288(2):149-55. doi: 10.1016/j.canlet.2009.06.026. Epub
+2009 Jul 22.
+
+HPV-induced oropharyngeal cancer, immune response and response to therapy.
+
+Vu HL(1), Sikora AG, Fu S, Kao J.
+
+Author information: 
+(1)Department of Radiation Oncology, Mount Sinai School of Medicine, New York,
+NY, United States.
+
+Approximately 25% of head and neck squamous cell carcinoma (HNSCC) worldwide are 
+associated with high-risk human papillomaviruses (HPV). HPV-positive HNSCCs have 
+a more favorable outcome and greater response to therapy. While chronic HPV
+infection allows for the evolution of immune evasion mechanisms, viral antigens
+can still elicit an immune response. Moreover, a robust lymphocytic response is
+associated with better prognosis in a variety of tumor types including head and
+neck cancer. This article outlines several mechanisms whereby the observed
+improved response of HPV-positive tumors to radiotherapy may be related to
+enhancement of the immune response following radiotherapy.
+
+2009 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.canlet.2009.06.026 
+PMID: 19628331  [Indexed for MEDLINE]

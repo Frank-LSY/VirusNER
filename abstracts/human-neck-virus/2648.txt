@@ -1,0 +1,36 @@
+
+
+2648. Cancer Causes Control. 2010 Sep;21(9):1369-78. doi: 10.1007/s10552-010-9564-z.
+Epub 2010 Apr 17.
+
+Tobacco and alcohol use increases the risk of both HPV-associated and
+HPV-independent head and neck cancers.
+
+Smith EM(1), Rubenstein LM, Haugen TH, Hamsikova E, Turek LP.
+
+Author information: 
+(1)Department of Epidemiology, College of Public Health, University of Iowa, Iowa
+City, IA 52242, USA. elaine-smith@uiowa.edu
+
+Tobacco, alcohol, and human papillomavirus (HPV) are major risk factors for head 
+and neck cancer (HNC), but it is unclear whether there are two distinct HNC risk 
+groups, one associated with HPV and the other with tobacco/alcohol. Because
+HPV-positive HNC are clinically distinct from HPV-negative cases in treatment
+response and with more favorable prognoses, determining whether these differences
+result from infection alone or in association with other HNC risk factors is
+important for developing future therapeutic strategies. Incident cases of HNC (n 
+= 201) and age-gender frequency-matched controls (n = 324) were recruited to
+assess anti-HPV VLP (virus like particles) antibodies 16, 18, 31, and 33.
+Multivariate logistic regression and stratified analyses were used to calculate
+adjusted odds ratios (OR). HPV-seronegative and seropositive/heavy tobacco users 
+had similar increased adjusted risks of HNC (HPV-seronegative OR = 2.6, 1.4-5.0; 
+HPV-seropositive OR = 2.3, 1.1-4.8), as did HPV-seronegative (OR = 4.3, 2.1-9.1) 
+versus HPV-seropositive/heavy alcohol users (OR = 3.9, 1.6-9.4). Similar
+HPV/tobacco/alcohol risk profiles also were seen in oropharyngeal and oral cavity
+tumor sites. Our finding that tobacco/alcohol use increased the risk of HNC in
+both HPV-seropositive and HPV-seronegative individuals is consistent with the
+observation that HPV infection is not a sufficient cause of HNC but requires the 
+accumulation of additional cellular changes.
+
+DOI: 10.1007/s10552-010-9564-z 
+PMID: 20401530  [Indexed for MEDLINE]

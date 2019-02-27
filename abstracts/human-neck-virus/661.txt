@@ -1,0 +1,75 @@
+
+
+661. Acta Otorhinolaryngol Ital. 2013 Feb;33(1):9-15.
+
+Head and neck cancer. An aetiopathogenetic study of non-endemic
+lymphoepithelioma.
+
+Casco FG(1), Ríos MJ, DE Miguel M, González T, Moreno Fernández AM, Galera-Ruiz
+H, González-Cámpora R, Drut R, Bacchi C, Galera-Davidson H.
+
+Author information: 
+(1)Servicio de Anatomía Patológica, Hospital Infantil del Niño Jesús, Madrid,
+Spain.
+
+An aetiopathogenetic analysis of non-endemic nasopharyngeal carcinoma (NPC) in
+European and Southern American patient groups was performed. Specifically, the
+study sought to determine the proportion of Epstein-Barr Virus (EBV)-positive
+tumour cells in NPC patients in two very different populations (Europe and South 
+America) in areas not associated with a high incidence of NPC. Clinical data
+(age, sex and onset of clinical disease) were also analyzed. A total of 50 NPC
+samples, 24 from a European hospital (EH) and 26 from two South American
+hospitals (SAH), were included. Nuclear staining for Epstein-Barr virus-encoded
+small RNA (EBER) was performed by in situ hybridization (ISH). Latent membrane
+protein 1 (LMP1) expression was measured by immunohistochemical (IHC) analysis. A
+higher incidence of NPC was observed in patients > 40 years of age in EH; in SAH,
+by contrast, the incidence was higher in patients aged ≤ 40 years. Cervical lymph
+node metastasis was detected in 31 patients (of whom 84.6% were from SAH). A
+total of 72% of samples were EBERpositive; the incidence of EBER positivity was
+greater in type 3 NPCs. EBV was detected in a large proportion of epithelial
+cells in samples from both EH and SAH (75% vs. 69.2%, respectively). An
+association was found between EBER detection in lymphocytes and patient origin (p
+= 0.0001). LMP1 expression was detected in 64% of patients. ISH for the detection
+of EBER is the most sensitive technique for demonstrating EBV in tumour tissue.
+The incidence of EBV was not significantly greater in either of the study
+populations, but was significantly higher in patients with type 3 NPC. Definitive
+histological diagnosis of NPC was reached earlier in EH than in SAH, where
+metastases were more frequently diagnosed, suggesting that the disease had
+reached a more advanced stage by the time treatment was started.
+
+Publisher: Scopo del nostro studio è stato confrontare i risultati dell'analisi
+eziopatogenetica sul carcinoma nasofaringeo non endemico (NPC) in pazienti
+europei e del Sud America ed in particolare determinare l'incidenza di cellule
+tumorali positive per Epstein-Barr Virus (EBV) nelle due diverse popolazioni.
+Sono stati inoltre analizzati i dati clinici (età, sesso e caratteristiche
+dell'insorgenza della malattia) al fine di evidenziare analogie e differenze nel 
+confronto con i dati abitualmente rilevati nelle ampie casistiche disponibili.
+Sono stati analizzati un totale di 50 casi di NPC: 24 da ospedali europei e 26 da
+ospedali Sud Americani. La marcatura nucleare dell'RNA codificato
+dall'Epstain-Barr virus è stata ottenuta mediante ibridizzazione in situ.
+L'espressione della proteina latente di membrana (LMP1), è stata invece misurata 
+mediante analisi immunoistochimica. Nei pazienti europei è stata osservata
+un'incidenza più alta di NPC nei casi di età superiore a 40 anni, nei pazienti
+del Sud America, invece, l'incidenza era maggiore nei casi di età
+inferiore/uguale a 40 anni di età. In 31 pazienti sono state riscontrate
+metastasi latero-cervicali linfonodali (di cui l'84.6% provenivano dal Sud
+America). Il 72% dei campioni è risultato positivo alla marcatura nucleare
+dell'RNA codificato dall'Epstain-Barr virus, con un'incidenza più alta nei casi
+di NPC di tipo 3. L'EBV è stato rilevato nella gran parte delle cellule
+epiteliali dei campioni provenienti sia dagli ospedali europei che sud americani 
+(75% vs. 69.2%). Una correlazione statisticamente significativa è stata
+riscontrata fra la positività alla marcatura nucleare dell'RNA codificato
+dall'Epstain-Barr virus e le origini del paziente (p = 0.0001). L'espressione
+della LMP1 è stata rilevata nel 64% dei pazienti. In conclusione la detezione
+della marcatura nucleare dell'RNA codificato dall'Epstain Barr Virus mediante
+ibridizzazione è la metodica più sensibile per dimostrare la presenza di EBV nei 
+campioni tumorali. In nessuna delle popolazioni studiate si è osservata una
+incidenza più alta, statisticamente significativa, di EBV, evidenziata, invece,
+nei pazienti con NPC di tipo 3. La diagnosi istologica definitiva è stata
+raggiunta prima negli ospedali Europei piuttosto che in quelli sud americani, nei
+quali alla diagnosi erano più frequentemente presenti metastasi laterocervicali, 
+indicative di uno stadio tumorale più avanzato al momento dell'inizio del
+trattamento.
+
+PMCID: PMC3631815
+PMID: 23620634  [Indexed for MEDLINE]

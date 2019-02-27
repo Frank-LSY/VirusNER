@@ -1,0 +1,33 @@
+
+
+1970. HNO. 2012 Nov;60(11):968-73. doi: 10.1007/s00106-012-2552-8.
+
+[Public awareness of human papilloma virus infection in the head and neck area:
+an appeal for precision in diagnostics and for public health awareness].
+
+[Article in German]
+
+Hoffmann M(1), Hoffmann AS, Tribius S.
+
+Author information: 
+(1)Klinik für Hals-, Nasen-, Ohrenheilkunde, Kopf- und Halschirurgie,
+Christian-Albrechts-Universität zu Kiel, Arnold-Heller-Str. 3, Haus 27, 24105,
+Kiel, Deutschland. mhoffmann@hno.uni-kiel.de
+
+Infection with human papilloma virus (HPV) has been associated with head and neck
+carcinomas. Experts in HPV-positive carcinomas consider these carcinomas to be a 
+new entity, because it has been shown that treatment outcome is excellent with
+significantly longer overall survival dependent of therapy. Despite this, in
+Germany public awareness of this development is rather low. A strategy for
+prophylactic vaccination against HPV-associated diseases has been available since
+2007 but only to reduce the incidence of cervical cancer for girls between 12 and
+17 years of age. There is an ongoing debate in Germany about the efficacy and
+safety of HPV vaccination. The results of epidemiological research in the USA
+which show that vaccination in young males is valuable are still not accepted in 
+Germany. This article discusses the scientific and public awareness regarding
+this topic and calls for precision in diagnostics and public health awareness in 
+order to establish a fertile ground for prevention and optimal treatment of
+HPV-associated diseases.
+
+DOI: 10.1007/s00106-012-2552-8 
+PMID: 23114543  [Indexed for MEDLINE]

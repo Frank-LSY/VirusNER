@@ -1,0 +1,39 @@
+
+
+1469. Sex Transm Dis. 2017 Mar;44(3):166-172. doi: 10.1097/OLQ.0000000000000563.
+
+Prevalence of and Risk Factors for Oral Human Papillomavirus Infection With
+Multiple Genotypes in the United States.
+
+Bui TC(1), Tran LT, Thai TN, Shete SS, Vidrine DJ, Sturgis EM.
+
+Author information: 
+(1)From the *Department of Family and Preventative Medicine, The University of
+Oklahoma Health Sciences Center, Oklahoma City, OK; †Department of Epidemiology, 
+School of Public Health, The University of Texas Health Science Center at
+Houston, Houston, TX; ‡Department of Epidemiology and Biostatistics, College of
+Public Health, The University of Georgia, Athens, GA; § Division of Quantitative 
+Sciences, Department of Biostatistics, and ¶ Division of Surgery, Department of
+Head and Neck Surgery, The University of Texas MD Anderson Cancer Center,
+Houston, TX.
+
+BACKGROUND: This study investigated the prevalence of and risk factors for oral
+human papillomavirus (HPV) infection with multiple genotypes in the United
+States.
+METHODS: Data were from the nationally representative 2009-2012 National Health
+and Nutrition Examination Survey. This analysis comprised 9257 participants for
+whom data on oral HPV (37 genotypes) and associated risk factors were available.
+RESULTS: The weighted prevalence of multitype (2-6 types) oral HPV infection was 
+1.5% (2.5% for men, 0.4% for women) in the whole sample and 19.7% (22.0% for men,
+12.1% for women) in those who had any type of oral HPV positivity. Most multitype
+oral HPV cases (83.8%) harbored one or more oncogenic types. In the adjusted
+multinominal logistic regression model, being male (relative risk ratio [RRR] =
+3.69; 95% confidence interval [CI], 1.57-8.65), being a current cigarette smoker 
+(RRR = 2.57; 95% CI, 1.23-5.36), and having a new sex partner in the past year
+(RRR = 2.10; 95% CI, 1.03-4.28) were associated with an increased risk of
+multitype oral HPV infection over single-type HPV infection.
+CONCLUSIONS: Men, smokers, and those who had new sexual partners were at a
+significantly higher risk for multitype oral HPV infection.
+
+DOI: 10.1097/OLQ.0000000000000563 
+PMID: 28178115  [Indexed for MEDLINE]

@@ -1,0 +1,53 @@
+
+
+2371. Anticancer Res. 2014 Jul;34(7):3365-70.
+
+A combined lymphokine-activated killer (LAK) cell immunotherapy and
+adenovirus-p53 gene therapy for head and neck squamous cell carcinoma.
+
+Saito H(1), Ando S(2), Morishita N(1), Lee KM(3), Dator D(4), Dy D(5), Shigemura 
+K(6), Adhim Z(7), Nibu K(7), Fujisawa M(7), Shirakawa T(8).
+
+Author information: 
+(1)Divison of Translational Research for Biologics, Department of Internal
+Medicine, Kobe University Graduate School of Medicine, Kobe, Japan.
+(2)Department of International Health, Kobe University Graduate School of Health 
+Sciences, Kobe, Japan.
+(3)Department of Biochemistry, Korea University College of Medicine, Seoul,
+Republic of Korea.
+(4)Department of Urology, National Kidney and Transplantation Institute, Quezon
+City, Philippines.
+(5)St. Luke's Medical Center, Global City, Philippines.
+(6)Division of Urology, Department of Surgery, Kobe University Graduate School of
+Medicine, Kobe, Japan.
+(7)Department of Otolaryngology-Head and Neck Surgery, Kobe University Graduate
+School of Medicine, Kobe, Japan.
+(8)Divison of Translational Research for Biologics, Department of Internal
+Medicine, Kobe University Graduate School of Medicine, Kobe, Japan Department of 
+International Health, Kobe University Graduate School of Health Sciences, Kobe,
+Japan Division of Urology, Department of Surgery, Kobe University Graduate School
+of Medicine, Kobe, Japan toshiro@med.kobe-u.ac.jp.
+
+BACKGROUND: The antitumor activity of lymphokine activated killer (LAK) cells
+immunotherapy is not always effective in all patients, especially when used
+alone. In this study, we investigated the in vitro antitumor activities of a
+combination of LAK immunotherapy and gene therapy employing an adenovirus
+carrying the p53 gene (Ad-p53) in human head and neck squamous cell carcinoma.
+MATERIALS AND METHODS: The in vitro cytotoxicity of LAK cells was tested in H891 
+cells infected with or without Ad-p53, and the mRNA expression levels of natural 
+killer group 2D ligands (UL16 binding protein (ULBP) 1 to 5) and tumor necrosis
+factor (TNF-α) in these cells were measured by real-time reverse transcription
+polymerase chain reaction.
+RESULTS: Ad-p53 infection increased the cytotoxicity of LAK cells against H891
+cells, and also increased the mRNA expression levels of the ULBPs in H891 cells
+and TNF-α in the LAK cells.
+CONCLUSION: The antitumor activities of LAK cells in H891 cells were enhanced by 
+Ad-p53.
+CONCLUSION: The combinational therapy of LAK immunotherapy and Ad-p53 gene
+therapy may represent a new paradigm for the treatment of head and neck cancer.
+
+Copyright© 2014 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 24982341  [Indexed for MEDLINE]

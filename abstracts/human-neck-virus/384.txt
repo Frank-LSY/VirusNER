@@ -1,0 +1,46 @@
+
+
+384. PLoS One. 2012;7(11):e49699. doi: 10.1371/journal.pone.0049699. Epub 2012 Nov 21.
+
+Economic burden of human papillomavirus-related diseases in Italy.
+
+Baio G(1), Capone A, Marcellusi A, Mennini FS, Favato G.
+
+Author information: 
+(1)Department of Statistical Science, University College London, London, United
+Kingdom.
+
+Erratum in
+    PLoS One. 2013;8(9). doi:10.1371/annotation/39ddb7a9-3e7e-4544-a226-2e2b872a5116.
+
+INTRODUCTION: Human papilloma virus (HPV) genotypes 6, 11, 16, and 18 impose a
+substantial burden of direct costs on the Italian National Health Service that
+has never been quantified fully. The main objective of the present study was to
+address this gap: (1) by estimating the total direct medical costs associated
+with nine major HPV-related diseases, namely invasive cervical cancer, cervical
+dysplasia, cancer of the vulva, vagina, anus, penis, and head and neck,
+anogenital warts, and recurrent respiratory papillomatosis, and (2) by providing 
+an aggregate measure of the total economic burden attributable to HPV 6, 11, 16, 
+and 18 infection.
+METHODS: For each of the nine conditions, we used available Italian secondary
+data to estimate the lifetime cost per case, the number of incident cases of each
+disease, the total economic burden, and the relative prevalence of HPV types 6,
+11, 16, and 18, in order to estimate the aggregate fraction of the total economic
+burden attributable to HPV infection.
+RESULTS: The total direct costs (expressed in 2011 Euro) associated with the
+annual incident cases of the nine HPV-related conditions included in the analysis
+were estimated to be €528.6 million, with a plausible range of €480.1-686.2
+million. The fraction attributable to HPV 6, 11, 16, and 18 was €291.0 (range
+€274.5-315.7 million), accounting for approximately 55% of the total annual
+burden of HPV-related disease in Italy.
+CONCLUSIONS: The results provided a plausible estimate of the significant
+economic burden imposed by the most prevalent HPV-related diseases on the Italian
+welfare system. The fraction of the total direct lifetime costs attributable to
+HPV 6, 11, 16, and 18 infections, and the economic burden of noncervical
+HPV-related diseases carried by men, were found to be cost drivers relevant to
+the making of informed decisions about future investments in programmes of HPV
+prevention.
+
+DOI: 10.1371/journal.pone.0049699 
+PMCID: PMC3504125
+PMID: 23185412  [Indexed for MEDLINE]

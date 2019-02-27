@@ -1,0 +1,50 @@
+
+
+1876. Int Forum Allergy Rhinol. 2018 Mar;8(3):406-414. doi: 10.1002/alr.22046. Epub
+2017 Dec 14.
+
+Bacteriophage effectively kills multidrug resistant Staphylococcus aureus
+clinical isolates from chronic rhinosinusitis patients.
+
+Zhang G(1)(2), Zhao Y(1)(3), Paramasivan S(1), Richter K(1), Morales S(4),
+Wormald PJ(1), Vreugde S(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head & Neck Surgery, Adelaide University,
+Adelaide, SA, Australia.
+(2)Department of Otolaryngology-Head and Neck Surgery, Tianjin First Center
+Hospital, Tianjin, China.
+(3)Department of Otolaryngology, Head and Neck Surgery, The Second Hospital of
+Jilin University, Changchun, China.
+(4)AmpliPhi Australia, Brookvale, NSW, Australia.
+
+BACKGROUND: Bacteriophage (phage) therapy has been proposed as an alternative to 
+antibiotics. Phages have been shown to kill antibiotic resistant Staphylococcus
+aureus strains; however, it is unknown whether stress-induced antibiotic
+tolerance affects S. aureus susceptibility to phages. Our objective was to
+determine the effectiveness of 2 phages currently in clinical development,
+against antibiotic-resistant and induced antibiotic-tolerant clinical S. aureus
+isolates.
+METHODS: Antibiotic tolerant S. aureus strains were induced by incubation with
+increasing concentrations of gentamicin, mupirocin, and ciprofloxacin over time
+and their susceptibility to 2 clinically relevant phages (Sa83 and Sa87) was
+assessed. In addition, phage susceptibility was tested in relation to the
+antibiotic sensitivity of 65 clinical S. aureus isolates, harvested from the
+sinonasal cavities of chronic rhinosinusitis (CRS) patients. Phage sensitivity
+was assessed using a plaque spot assay and by measuring optical density values to
+observe planktonic S. aureus growth in the presence of the phage. Alamar Blue
+assays were used to assess biofilm viability after phage treatment.
+RESULTS: Frequency of antibiotic resistance amongst clinical S. aureus isolates
+was 90.7% (59/65) with 13 of 65 (20.0%) identified as multidrug-resistant.
+Tolerance to gentamicin, mupirocin, and ciprofloxacin was rapidly induced by
+incubation with increasing concentrations of respective antibiotics. There was no
+significant difference in phage sensitivity between antibiotic-sensitive and
+resistant/tolerant S. aureus clinical isolates in planktonic and biofilm form.
+CONCLUSION: Clinical S. aureus isolates from CRS patients have a high (20%)
+incidence of multidrug resistance. Antibiotic resistance or tolerance did not
+affect phage susceptibility of those isolates.
+
+© 2017 ARS-AAOA, LLC.
+
+DOI: 10.1002/alr.22046 
+PMID: 29240296  [Indexed for MEDLINE]

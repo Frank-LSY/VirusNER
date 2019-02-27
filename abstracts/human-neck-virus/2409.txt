@@ -1,0 +1,39 @@
+
+
+2409. Head Neck Oncol. 2010 Feb 22;2:5. doi: 10.1186/1758-3284-2-5.
+
+Establishment and characterization of a novel head and neck squamous cell
+carcinoma cell line USC-HN1.
+
+Liebertz DJ(1), Lechner MG, Masood R, Sinha UK, Han J, Puri RK, Correa AJ,
+Epstein AL.
+
+Author information: 
+(1)Department of Pathology, Keck School of Medicine of the University of Southern
+California, Los Angeles, CA 90033, USA.
+
+BACKGROUND: Head and neck squamous cell carcinoma (HNSCC) is an aggressive and
+lethal malignancy. Publically available cell lines are mostly of lingual origin, 
+or have not been carefully characterized. Detailed characterization of novel
+HNSCC cell lines is needed in order to provide researchers a concrete keystone on
+which to build their investigations.
+METHODS: The USC-HN1 cell line was established from a primary maxillary HNSCC
+biopsy explant in tissue culture. The immortalized cells were then further
+characterized by heterotransplantation in Nude mice; immunohistochemical staining
+for relevant HNSCC biomarkers; flow cytometry for surface markers; cytogenetic
+karyotypic analysis; human papillomavirus and Epstein-Barr virus screening;
+qRT-PCR for oncogene and cytokine analysis; investigation of activated, cleaved
+Notch1 levels; and detailed 35,000 gene microarray analysis.
+RESULTS: Characterization experiments confirmed the human HNSCC origin of
+USC-HN1, including a phenotype similar to the original tumor. Viral screening
+revealed no HPV or EBV infection, while western blotting displayed significant
+upregulation of activated, cleaved Notch1.
+CONCLUSIONS: USC-HN1, a novel immortalized cell line has been derived from a
+maxillary HNSCC. Characterization studies have shown that the cell line is of
+HNSCC origin and displays many of the same markers previously reported in the
+literature. USC-HN1 is available for public research and will further the
+investigation of HNSCC and the development of new therapeutic modalities.
+
+DOI: 10.1186/1758-3284-2-5 
+PMCID: PMC2841166
+PMID: 20175927  [Indexed for MEDLINE]

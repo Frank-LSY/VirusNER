@@ -1,0 +1,38 @@
+
+
+473. Anticancer Res. 2010 Apr;30(4):1233-8.
+
+The screening of viral risk factors in tongue and pharyngolaryngeal squamous
+carcinoma.
+
+Zheng Y(1), Xia P, Zheng HC, Takahashi H, Masuda S, Takano Y.
+
+Author information: 
+(1)Department of Diagnostic Pathology, Graduate School of Medicine and
+Pharmaceutical Science, University of Toyama, Toyama, Japan.
+
+BACKGROUND: The oral cavity and pharyngolarynx is readily open to the
+environment, which provides a good atmosphere to viral infection and subsequently
+links to the local carcinogenesis. The aim of this study is to clarify the viral 
+risk factors for tongue and pharyngolaryngeal squamous carcinomas and the
+oncogenic role of DNA viruses.
+MATERIALS AND METHODS: Tongue, pharyngeal and laryngeal carcinomas, and
+corresponding non-neoplastic mucosa (NNM) were collected and subjected to
+microdissection and DNA extraction with integrity detected by beta-globin
+polymerase chain reaction(PCR). Additionally, we examined genomic DNA copies of
+Epstein-Barr virus (EBV), human papilloma virus (HPV) 16 and 18, and John
+Cunningham virus (JCV) by real-time PCR with a comparison of the
+clinicopathological features of the tumors.
+RESULTS: All the extracted DNA samples showed good integrity. Compared with NNM, 
+EBV and HPV16 copies were higher in the three kinds of head and neck carcinoma
+respectively (p<0.05). The same situation was also observed in tongue and
+pharyngeal carcinoma for HPV18, and pharyngeal carcinoma for JCV (p<0.05). There 
+were fewer EBV copies in tongue than pharyngeal and laryngeal carcinoma (p<0.05).
+Pharyngeal carcinoma had a higher HPV16 copy number than tongue and laryngeal
+carcinoma (p<0.05). Moderately differentiated carcinoma of the head and neck had 
+more EBV copies than well-differentiated (p<0.05).
+CONCLUSION: The viruses studied here might play an important role in the
+carcinogenesis of tongue and pharyngolaryngeal squamous carcinomas.
+
+
+PMID: 20530433  [Indexed for MEDLINE]

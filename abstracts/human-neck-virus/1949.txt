@@ -1,0 +1,41 @@
+
+
+1949. Ann Diagn Pathol. 2012 Apr;16(2):91-9. doi: 10.1016/j.anndiagpath.2011.09.002.
+Epub 2011 Dec 23.
+
+Is p16 immunohistochemistry a more cost-effective method for identification of
+human papilloma virus-associated head and neck squamous cell carcinoma?
+
+Thomas J(1), Primeaux T.
+
+Author information: 
+(1)Department of Pathology, Louisiana State University Health Sciences Center,
+Shreveport, 71130, USA. jtho19@lsuhsc.edu
+
+Tobacco and alcohol use are established risk factors for head and neck squamous
+cell carcinoma (HNSCC). However, patients with a unique subset of human papilloma
+virus (HPV)-associated HNSCC have been documented to have a better survival
+outcome. These tumors occur more frequently in the tonsils and oropharyngeal
+sites, among younger patients, higher socioeconomic group, and those exposed to
+more sexual partners and oral sex compared with HPV-negative HNSCC. Although
+tobacco- and alcohol-related HNSCCs appear to be on the decline, tonsillar and
+oropharyngeal HPV-associated tumors seem to be on the rise, and their prevalence 
+varies widely in published reports, ranging from 20% to 60%. Human papilloma
+virus detection methods in tumor tissue vary and include polymerase chain
+reaction, in situ hybridization (ISH) technique for HPV DNA, and E6/E7 messenger 
+RNA, with p16 immunohistochemistry (IHC) as a surrogate marker. The sensitivity
+and specificity of the different methods used are likely contributory factors to 
+this wide variation. This study compares the p16 IHC staining patterns in HNSCC
+and laryngeal papillomas and assesses the concordance of p16 and high-risk
+HPV-ISH to determine the usefulness of p16 as a first-line marker. Using an
+objective criterion of diffuse intense confluent staining pattern as definite
+positive (akin to the 3+ of HER2/neu in breast cancer) and focal scattered
+staining pattern as equivocal reaction requiring confirmatory HPV assay, p16 IHC 
+expression shows good concordance with high-risk HPV-ISH and can be used as a
+first-line marker. We propose p16 overexpression as a suitable surrogate and
+screening marker, with high potential of impacting the standard of care.
+
+Copyright Â© 2012 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.anndiagpath.2011.09.002 
+PMID: 22197546  [Indexed for MEDLINE]

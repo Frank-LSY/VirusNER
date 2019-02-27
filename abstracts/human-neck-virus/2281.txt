@@ -1,0 +1,31 @@
+
+
+2281. Oncotarget. 2016 May 10;7(19):28262-72. doi: 10.18632/oncotarget.8596.
+
+Gene therapy for colorectal cancer using adenovirus-mediated full-length
+antibody, cetuximab.
+
+Xing M(1), Wang X(1), Chi Y(1), Zhou D(1).
+
+Author information: 
+(1)Vaccine Research Center, Key Laboratory of Molecular Virology and Immunology, 
+Institut Pasteur of Shanghai, Chinese Academy of Science, Shanghai, China.
+
+Cetuximab is a chimeric monoclonal antibody, approved to treat patients with
+metastatic colorectal cancer (mCRC), head and neck squamous cell carcinoma
+(HNSCC), non-small-cell lung cancer (NSCLC) for years. It functions by blocking
+the epidermal growth factor receptor (EGFR) from receiving signals or interacting
+with other proteins. Although the demand for cetuximab for the treatment of
+cancer patients in clinics is increasing, the complicated techniques involved and
+its high cost limit its wide applications. Here, a new, cheaper form of cetuximab
+was generated for cancer gene therapy. This was achieved by cloning the
+full-length cetuximab antibody into two serotypes of adenoviral vectors, termed
+as AdC68-CTB and Hu5-CTB. In vivo studies showed that a single dose of AdC68-CTB 
+or Hu5-CTB induced sustained cetuximab expression and dramatically suppressed
+tumor growth in NCI-H508- or DiFi-inoculated nude mice. In conclusion, gene
+therapy using adenovirus expressing full-length cetuximab could be a novel
+alternative method for the effective treatment of colorectal cancer.
+
+DOI: 10.18632/oncotarget.8596 
+PMCID: PMC5053725
+PMID: 27058423  [Indexed for MEDLINE]

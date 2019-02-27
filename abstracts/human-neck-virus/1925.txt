@@ -1,0 +1,50 @@
+
+
+1925. Pract Radiat Oncol. 2017 Sep - Oct;7(5):e317-e321. doi:
+10.1016/j.prro.2017.02.004. Epub 2017 Feb 16.
+
+The risk of level IB nodal involvement in oropharynx cancer: Guidance for
+submandibular gland sparing irradiation.
+
+Lee NCJ(1), Kelly JR(1), Park HS(1), Yarbrough WG(2), Burtness BA(3), Husain
+ZA(4).
+
+Author information: 
+(1)Department of Therapeutic Radiology, Yale School of Medicine, New Haven,
+Connecticut.
+(2)Section of Otolaryngology, Department of Surgery, Yale School of Medicine, New
+Haven, Connecticut; Department of Pathology, Yale School of Medicine, New Haven, 
+Connecticut.
+(3)Section of Medical Oncology, Department of Internal Medicine, Yale School of
+Medicine, New Haven, Connecticut.
+(4)Department of Therapeutic Radiology, Yale School of Medicine, New Haven,
+Connecticut. Electronic address: zain.husain@yale.edu.
+
+PURPOSE: Xerostomia remains a common side effect of head and neck irradiation.
+Conflicting data exist regarding the likelihood of level IB involvement for
+patients with oropharyngeal squamous cell cancer (OPSCC), and data are limited on
+this risk in patients with human papillomavirus-positive disease. This study
+examined surgically treated OPSCC to determine the risk of pathologic level IB
+nodal involvement and to identify a cohort of patients in whom ipsilateral level 
+IB radiation therapy may be safely omitted.
+METHODS AND MATERIALS: A total of 102 submandibular nodal dissections were
+identified (92 ipsilateral and 10 contralateral) in 92 patients from 2010 to 2016
+in those undergoing primary surgical treatment and dissection of ipsilateral
+level IB lymph nodes. Radiographically positive cases were excluded.
+Retrospective chart review was used for data collection, and the rate of
+pathologic level IB involvement was determined.
+RESULTS: The ipsilateral level IB nodal station had negative imaging and
+pathologically positive nodes at rates of 4.3% in OPSCC and 5.3% in human
+papillomavirus-positive OPSCC. Positive node burden in the ipsilateral neck at
+stations other than IB appeared to correlate with the risk of pathologic positive
+IB (pIB+) nodes: 50% of pathologically IB-negative patients had 2 or more
+positive nodes versus 75% of pIB+ patients who had 4 or more positive nodes.
+CONCLUSIONS: Our data indicate a low risk of pathologic level IB involvement in
+early-stage OPSCC. High positive node burden in stations near level IB may be
+associated with a higher chance of pathologic level IB involvement.
+
+Copyright © 2017 American Society for Radiation Oncology. Published by Elsevier
+Inc. All rights reserved.
+
+DOI: 10.1016/j.prro.2017.02.004 
+PMID: 28356201  [Indexed for MEDLINE]

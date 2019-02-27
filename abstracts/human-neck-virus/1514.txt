@@ -1,0 +1,47 @@
+
+
+1514. Cancer Cytopathol. 2015 Apr;123(4):219-29. doi: 10.1002/cncy.21512. Epub 2014 Dec
+29.
+
+Combination of p16(INK4a) /Ki67 immunocytology and HPV polymerase chain reaction 
+for the noninvasive analysis of HPV involvement in head and neck cancer.
+
+Linxweiler M(1), Bochen F, Wemmert S, Lerner C, Hasenfus A, Bohle RM, Al-Kadah B,
+Takacs ZF, Smola S, Schick B.
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Saarland University 
+Medical Center, Homburg/Saar, Germany.
+
+Comment in
+    Cancer Cytopathol. 2015 Jun;123(6):382-3.
+    Cancer Cytopathol. 2015 Jun;123(6):382-3.
+
+BACKGROUND: High-risk human papillomavirus (HPV) infection has been identified as
+a relevant risk for the development of head and neck squamous cell carcinomas
+(HNSCCs). As HPV status has also gained a role as a prognostic and predictive
+biomarker for this entity, there is a growing demand for valid HPV testing in
+HNSCC patients
+METHODS: Liquid-based cytological smears from 45 HNSCC and 20 control patients
+were collected and used for simultaneous immunocytochemical p16(INK4a) /Ki67
+staining using a CINtec PLUS kit after the presence of tumor cells was verified
+in a Papanicolaou-stained slide. The same cytological suspension was used for the
+detection of HPV DNA by specific polymerase chain reaction (PCR).
+RESULTS: Tumor cells were detected in the swab material of 44 HNSCC patients
+corresponding to a sensitivity of 98% (44 of 45). PCR analysis revealed the
+presence of HPV DNA in the cytological suspension of 13 patients (13 of 65, 20%) 
+with simultaneous p16(INK4a) /Ki67 expression by the tumor cells in 11 of these
+HPV DNA-positive samples (11 of 13, 85%) - a staining pattern that is strongly
+associated with a carcinogenic HPV infection.
+CONCLUSIONS: A simultaneous immunocytochemical detection of p16(INK4a) and Ki67
+can reliably be performed on liquid-based cytological smears from HNSCC patients 
+using a CINtec PLUS kit. In addition, the same cytological material can be used
+for the detection of HPV DNA by specific PCR. The combined results of both
+techniques enable better discrimination between latent and carcinogenic HPV
+infections as well as HPV-negative cases and thus can provide information on the 
+prognosis of HNSCC patients and facilitate therapeutic decisions.
+
+© 2014 American Cancer Society.
+
+DOI: 10.1002/cncy.21512 
+PMID: 25557267  [Indexed for MEDLINE]

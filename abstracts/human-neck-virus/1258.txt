@@ -1,0 +1,39 @@
+
+
+1258. Am J Med Sci. 2015 Feb;349(2):145-50. doi: 10.1097/MAJ.0000000000000373.
+
+Activation of the interleukin-34 inflammatory pathway in response to influenza A 
+virus infection.
+
+Yu G(1), Bing Y, Zhu S, Li W, Xia L, Li Y, Liu Z.
+
+Author information: 
+(1)Department of General Surgery (GY, YB, SZ, ZL), Research Center of Digestive
+Diseases, Zhongnan Hospital of Wuhan University, Wuhan, China; Department of Head
+and Neck Surgery (WL), Hubei Cancer Hospital, Wuhan, China; Department of
+Internal Medicine Oncology (LX), Huangshi Central Hospital, Huangshi, China; and 
+Department of Orthopedic (YL), Taihe Hospital, Hubei University of Medicine,
+Shiyan, China.
+
+Interleukin 34 (IL-34) is a newly recognized cytokine that functions similarly to
+macrophage colony-stimulating factor. This study investigated the mechanism by
+which IL-34 is produced in response to exogenous pathogen infections in humans.
+The results showed that the IL-34 levels were higher in the serum and peripheral 
+blood mononuclear cells (PBMCs) from 155 influenza A virus (IAV)-infected
+patients than in those from 145 healthy individuals. The expression level of
+IL-34 in IAV-infected PBMCs was blocked by IL-22-specific siRNA. This result
+indicated that IL-34 was induced by IL-22 in the inflammatory cascade. The mRNA
+and protein expression levels of IL-22 activated by IAV infection were
+significantly inhibited by IL-34 overexpression but induced by IL-34-specific
+siRNA. Thus, a feedback system most likely exists between IL-34 and IL-22. The
+IL-22 expression in T helper type 17 (Th17) cells of PBMCs was higher than IL-34 
+expression in Th17 cells of PBMCs, and there was IL-34 expression in IL-22+ Th17 
+cells. This result showed that the production of IL-22 and IL-34 is both from the
+same and different subset of cells, which indicated that the regulatory mechanism
+of IL-22/IL-34 is through the autocrine or paracrine systems. In conclusion,
+IL-34 is induced by IL-22 in the inflammatory cascade in response to IAV
+infection. Therefore, IL-34 is a promising target for the screening of
+anti-inflammatory medicines.
+
+DOI: 10.1097/MAJ.0000000000000373 
+PMID: 25415279  [Indexed for MEDLINE]

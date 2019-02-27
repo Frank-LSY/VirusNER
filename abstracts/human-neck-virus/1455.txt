@@ -1,0 +1,40 @@
+
+
+1455. Br J Cancer. 2014 Sep 23;111(7):1448-53. doi: 10.1038/bjc.2014.414. Epub 2014 Jul
+24.
+
+Associations between human papillomavirus and history of cancer among U.S. adults
+in the National Health and Nutrition Examination Survey (2003-2010).
+
+Liu B(1), Taioli E(1).
+
+Author information: 
+(1)Department of Population Health and the Feinstein Institute, Hofstra North
+Shore-LIJ School of Medicine, 175 Community Drive, Rm 203, Great Neck, NY 11021, 
+USA.
+
+BACKGROUND: Human papillomavirus (HPV) is an infectious agent that has been
+associated with human cancer. We have updated the U.S. population sero-prevalence
+using a large National Health and Nutrition Examination Survey (NHANES) sample of
+adults from 2003 to 2010, and have analysed the associations between HPV
+seropositivity and self-reported history of cancer.
+METHODS: Four cross-sectional cycles (2003-2004, 2005-2006, 2007-2008, and
+2009-2010) were used, for a total of 12 759 participants who had both cancer
+history and HPV serum information.
+RESULTS: The sero-prevalences of HPV types 6, 11, 16, and 18 were 15.0%, 4.8%,
+11.5%, and 4.1%, respectively. Females had significantly higher HPV prevalence
+than males (P<0.05) for all subtypes. Positive associations between HPV 16/18
+seropositivity and lifetime history of any cancer (adjusted odds
+ratio-ORadj=1.68; 95% CI: 1.35, 2.01), history of any of eight selected cancers
+(ORadj=2.63; 95% CI: 1.78, 3.90), lung cancer (ORadj=5.14; 95% CI: 1.29, 20.44), 
+and cervical cancer (ORadj=2.55; 95% CI: 1.63, 3.98) were observed.
+CONCLUSIONS: The finding of significant associations between HPV 16/18
+seropositivity and lifetime history of cancer adds epidemiological evidence to
+the carcinogenicity potential of HPV 16 and 18 in other tissues. With increasing 
+coverage of the HPV vaccine in the U.S., future NHANES data and sample collection
+may allow further detailed evaluation of the population impact of the HPV
+vaccination on cancer prevention.
+
+DOI: 10.1038/bjc.2014.414 
+PMCID: PMC4183846
+PMID: 25058348  [Indexed for MEDLINE]

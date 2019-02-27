@@ -1,0 +1,33 @@
+
+
+183. J R Soc Med. 2013 Aug;106(8):310-4. doi: 10.1177/0141076813494196. Epub 2013 Jul 
+3.
+
+Live viruses to treat cancer.
+
+Donnelly O(1), Harrington K, Melcher A, Pandha H.
+
+Author information: 
+(1)Targeted and Biological Therapies Group, Leeds Institute of Molecular
+Medicine, Wellcome Trust Brenner Building, St James's University Hospital, Leeds 
+LS9 7TF.
+
+Viruses that selectively replicate in cancer cells, leading to the death of the
+cell, are being studied for their potential as cancer therapies. Some of these
+viruses are naturally occurring but cause little if any illness in humans; others
+have been engineered to make them specifically able to kill cancer cells while
+sparing normal cells. These oncolytic viruses may be selective for cancer cells
+because viral receptors are over-expressed on the surface of cancer cells or
+because antiviral pathways are distorted in cancer cells. Additionally, when
+oncolytic viruses kill cancer cells, it can stimulate an antitumour immune
+response from the host that can enhance efficacy. Numerous early phase trials of 
+at least six oncolytic viruses have been reported with no evidence of concerning 
+toxicity either as single agents or in combination with chemotherapies and
+radiotherapy. Three oncolytic viruses have reached randomized testing in cancer
+patients; reolysin in head and neck cancer and JX594 in hepatocellular cancers,
+while results from the first-phase III trial of T-vec in metastatic melanoma are 
+expected shortly.
+
+DOI: 10.1177/0141076813494196 
+PMCID: PMC3725859
+PMID: 23824333  [Indexed for MEDLINE]

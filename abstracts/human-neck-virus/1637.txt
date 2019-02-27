@@ -1,0 +1,21 @@
+
+
+1637. Ann Oncol. 2014 Aug;25(8):1667-8. doi: 10.1093/annonc/mdu194. Epub 2014 May 29.
+
+Controversies and role of HPV16 in recurrent/metastatic squamous cell cancers of 
+the head and neck.
+
+Misiukiewicz K(1), Bonomi M(2), Demicco E(3), Posner M(4).
+
+Author information: 
+(1)Department of Medicine, Division of Hematology and Medical Oncology, The Tisch
+Cancer Institute at Mount Sinai Hospital, New York
+krzysztof.misiukiewicz@mssm.edu.
+(2)Department of Medicine, Division of Hematology and Medical Oncology, Wake
+Forest Baptist Medical Center, Winston-Salem.
+(3)Department of Pathology, Mount Sinai Hospital, New York, USA.
+(4)Department of Medicine, Division of Hematology and Medical Oncology, The Tisch
+Cancer Institute at Mount Sinai Hospital, New York.
+
+DOI: 10.1093/annonc/mdu194 
+PMID: 24875798  [Indexed for MEDLINE]

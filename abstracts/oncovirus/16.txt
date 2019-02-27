@@ -1,0 +1,36 @@
+
+
+16. Virology. 2015 May;479-480:297-309. doi: 10.1016/j.virol.2015.01.017. Epub 2015
+Feb 11.
+
+Studies of retroviral infection in humanized mice.
+
+Marsden MD(1), Zack JA(2).
+
+Author information: 
+(1)Department of Medicine, Division of Hematology and Oncology, University of
+California, Los Angeles, CA 90095, USA.
+(2)Department of Medicine, Division of Hematology and Oncology, University of
+California, Los Angeles, CA 90095, USA; Department of Microbiology, Immunology,
+and Molecular Genetics, University of California, Los Angeles, CA 90095, USA.
+Electronic address: jzack@ucla.edu.
+
+Many important aspects of human retroviral infections cannot be fully evaluated
+using only in vitro systems or unmodified animal models. An alternative approach 
+involves the use of humanized mice, which consist of immunodeficient mice that
+have been transplanted with human cells and/or tissues. Certain humanized mouse
+models can support robust infection with human retroviruses including different
+strains of human immunodeficiency virus (HIV) and human T cell leukemia virus
+(HTLV). These models have provided wide-ranging insights into retroviral biology,
+including detailed information on primary infection, in vivo replication and
+pathogenesis, latent/persistent reservoir formation, and novel therapeutic
+interventions. Here we describe the humanized mouse models that are most commonly
+utilized to study retroviral infections, and outline some of the important
+discoveries that these models have produced during several decades of intensive
+research.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.01.017 
+PMCID: PMC4424058
+PMID: 25680625  [Indexed for MEDLINE]

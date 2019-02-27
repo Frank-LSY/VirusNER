@@ -1,0 +1,43 @@
+
+
+403. Virol J. 2013 Nov 12;10:334. doi: 10.1186/1743-422X-10-334.
+
+Evidence of the causal role of human papillomavirus type 58 in an oropharyngeal
+carcinoma.
+
+Baboci L, Boscolo-Rizzo P, Holzinger D, Bertorelle R, Biasini L, Michel A,
+Schmitt M, Spinato G, Bussani R, Alemany L, Tirelli G, Da Mosto MC, Del Mistro
+A(1), Pawlita M.
+
+Author information: 
+(1)Veneto Institute of Oncology IOV - IRCCS, Immunology and Molecular Oncology
+Unit, Via Gattamelata, 64, Padua 35128-I, Italy. annarosa.delmistro@ioveneto.it.
+
+Persistent human papillomavirus infection (HPV) is recognized as an important
+etiologic factor for a subset of head and neck squamous cell carcinomas (SCC),
+especially those arising from the oropharynx. Whereas HPV16 accounts for the
+majority of HPV DNA-positive oropharyngeal SCC, infections with other mucosal
+high-risk HPV types are quite rare and biological data demonstrating their causal
+involvement are insufficient. Here we present the first case of an oropharyngeal 
+SCC driven by HPV type 58. A 69-year-old Caucasian woman presented with an
+enlarged and firm left tonsil. A computed tomography scan showed a left tonsillar
+mass, extending to the soft palate and the glossotonsillar sulcus. The patient
+underwent extended radical tonsillectomy and ipsilateral selective neck
+dissection. Pathology confirmed an infiltrating, poorly differentiated SCC of the
+left tonsil with node metastasis (pT2N1). Adjuvant external beam radiation
+therapy (60 Grays (Gy)) was administered. After 1 year of follow-up, the patient 
+is well with no evidence of cancer recurrence. HPV analyses of the tumor tissue
+by BSGP5+/6+ -PCR/MPG, targeting 51 mucosal HPV types, showed single positivity
+for HPV type 58. Presence of HPV58 E6*I RNA demonstrated biological activity of
+the virus in the tumor tissue, and presence of serum antibodies to HPV58
+oncoproteins E6 and E7 indicated presence of an HPV58-driven cancer.
+Overexpression of cellular protein p16INK4a and reduced expression of pRb, two
+cellular markers for HPV-induced cell transformation, were observed. Exons 4-10
+of TP53 showed no mutations or polymorphisms. The presence of HPV58 as single HPV
+infection in combination with a broad variety of direct and indirect markers of
+HPV transformation provides comprehensive evidence that this oropharyngeal SCC
+was driven by HPV58.
+
+DOI: 10.1186/1743-422X-10-334 
+PMCID: PMC3842782
+PMID: 24220072  [Indexed for MEDLINE]

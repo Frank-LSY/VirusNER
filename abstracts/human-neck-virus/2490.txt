@@ -1,0 +1,43 @@
+
+
+2490. Semin Radiat Oncol. 2012 Apr;22(2):108-18. doi: 10.1016/j.semradonc.2011.12.002.
+
+Predicting recurrence after radiotherapy in head and neck cancer.
+
+Begg AC(1).
+
+Author information: 
+(1)The Netherlands Cancer Institute, Amsterdam, The Netherlands. a.begg@nki.nl
+
+Head and neck squamous cell carcinoma (HNSCC) is the sixth most common cancer
+worldwide. Radiotherapy is a mainstay of treatment, either alone for early stage 
+tumors or combined with chemotherapy for late stage tumors. An overall 5-year
+survival rate of around 50% for HNSCC demonstrates that treatment is often
+unsuccessful. Prediction of outcome is, therefore, aimed at sparing patients from
+ineffective and toxic treatments on the one hand, and indicating more successful 
+treatment modalities on the other. Both functional and genetic assays have been
+developed to predict intrinsic radiosensitivity, hypoxia, and repopulation rate. 
+Few, however, have shown consistent correlations with outcome across multiple
+studies. Messenger RNA and microRNA profiling show promise for predicting
+hypoxia, whereas epidermal growth factor receptor expression combined with other 
+measures of tumor differentiation grade shows promise for predicting repopulation
+rate. Intrinsic radiosensitivity assays have not proven useful to date, although 
+development of repair protein foci assays indicates promise from preclinical
+studies. Assays for cancer stem cell content have shown promise in several
+clinical studies. In addition, 2 assays showing robustness as predictors for
+outcome in HNSCC are human papilloma virus status and epidermal growth factor
+receptor expression. Neither these nor stem cell assays, however, can as yet
+reliably indicate alternative and better treatments for poor prognosis patients. 
+It would be of great value to have assays that predict the benefit for an
+individual from combining new molecularly targeted agents with radiotherapy to
+increase response, in particular those that exploit tumor mutations to provide
+tumor specificity. Predictive assays are being developed for detecting defects in
+repair pathways for single- and double-strand DNA breaks, which should allow
+selection of drugs targeting the appropriate backup pathway, thus exploiting the 
+concept of synthetic lethality. This is one of the most promising areas for
+prediction, both currently and in the future.
+
+Copyright Â© 2012. Published by Elsevier Inc.
+
+DOI: 10.1016/j.semradonc.2011.12.002 
+PMID: 22385918  [Indexed for MEDLINE]

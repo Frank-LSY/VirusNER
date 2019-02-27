@@ -1,0 +1,2026 @@
+
+1. MMWR Morb Mortal Wkly Rep. 2018 Oct 26;67(42):1189-1194. doi:
+10.15585/mmwr.mm6742a5.
+
+Update on Vaccine-Derived Polioviruses - Worldwide, January 2017-June 2018.
+
+Jorba J, Diop OM, Iber J, Henderson E, Zhao K, Sutter RW, Wassilak SGF, Burns CC.
+
+Since the Global Polio Eradication Initiative was launched in 1988 (1), the
+number of polio cases worldwide has declined by >99.99%. Among the three wild
+poliovirus (WPV) serotypes, only type 1 (WPV1) has been detected since 2012. This
+decline is attributable primarily to use of the live, attenuated oral poliovirus 
+vaccine (OPV) in national routine immunization schedules and mass vaccination
+campaigns. The success and safety record of OPV use is offset by the rare
+emergence of genetically divergent vaccine-derived polioviruses (VDPVs), whose
+genetic drift from the parental OPV strains indicates prolonged replication or
+circulation (2). Circulating VDPVs (cVDPVs) can emerge in areas with low
+immunization coverage and can cause outbreaks of paralytic polio. In addition,
+immunodeficiency-associated VDPVs (iVDPVs) can emerge in persons with primary
+immunodeficiencies and can replicate and be excreted for years. This report
+presents data on VDPVs detected during January 2017-June 2018 and updates
+previous VDPV summaries (3). During this reporting period, new cVDPV outbreaks
+were detected in five countries. Fourteen newly identified persons in nine
+countries were found to excrete iVDPVs. Ambiguous VDPVs (aVDPVs), isolates that
+cannot be classified definitively, were found among immunocompetent persons and
+environmental samples in seven countries.
+
+DOI: 10.15585/mmwr.mm6742a5 
+PMCID: PMC6290814
+PMID: 30359342  [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors have completed and submitted the
+ICMJE form for disclosure of potential conflicts of interest. No potential
+conflicts of interest were disclosed.
+
+
+2. PLoS Pathog. 2018 Sep 19;14(9):e1007304. doi: 10.1371/journal.ppat.1007304.
+eCollection 2018 Sep.
+
+Crystal structure of a soluble fragment of poliovirus 2CATPase.
+
+Guan H(1), Tian J(1), Zhang C(1), Qin B(1), Cui S(1).
+
+Author information: 
+(1)MOH key Laboratory of Systems Biology of Pathogens, Institute of Pathogen
+Biology, Chinese Academy of Medical Sciences & Peking Union Medical College,
+Beijing, China.
+
+Poliovirus (PV) 2CATPase is the most studied 2C protein in the Picornaviridae
+family. It is involved in RNA replication, encapsidation and uncoating and many
+inhibitors have been found that target PV 2CATPase. Despite numerous
+investigations to characterize its functions, a high-resolution structure of PV
+2C has not yet been determined. We report here the crystal structure of a soluble
+fragment of PV 2CATPase to 2.55Å, containing an ATPase domain, a zinc finger and 
+a C-terminal helical domain but missing the N-terminal domain. The ATPase domain 
+shares the common structural features with EV71 2C and other Superfamily 3
+helicases. The C-terminal cysteine-rich motif folds into a CCCC type zinc finger 
+in which four cysteine ligands and several auxiliary residues assist in zinc
+binding. By comparing with the known zinc finger fold groups, we found the zinc
+finger of 2C proteins belong to a new fold group, which we denote the
+"Enterovirus 2C-like" group. The C-terminus of PV 2CATPase forms an amphipathic
+helix that occupies a hydrophobic pocket located on an adjacent PV 2CATPase in
+the crystal lattice. The C-terminus mediated PV 2C-2C interaction promotes
+self-oligomerization, most likely hexamerization, which is fundamental to the
+ATPase activity of 2C. The zinc finger is the most structurally diverse feature
+in 2C proteins. Available structural and virological data suggest that the zinc
+finger of 2C might confer the specificity of interaction with other proteins. We 
+built a hexameric ring model of PV 2CATPase and visualized the previously
+identified functional motifs and drug-resistant sites, thus providing a structure
+framework for antiviral drug development.
+
+DOI: 10.1371/journal.ppat.1007304 
+PMCID: PMC6166989
+PMID: 30231078  [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing
+interests exist.
+
+
+3. Jpn J Infect Dis. 2018 Nov 22;71(6):442-447. doi: 10.7883/yoken.JJID.2017.338.
+Epub 2018 Jul 31.
+
+Poliovirus Detection and Genetic Characteristic from Sewage in Heilongjiang
+Province from 2013 to 2016.
+
+Ma Y(1), Wang X(1), Zhou X(1), Lv P(1), Wang H(1), Song J(1), Song C(1), Sun
+Z(1).
+
+Author information: 
+(1)Institute of Planned Immunity, Heilongjiang Center for Disease Control and
+Prevention.
+
+By monitoring the sewage system in Heilongjiang province from 2013 to 2016, this 
+study aimed to analyze the epidemiological tendency and genetic mutation of
+poliovirus (PV) found in the environment in order to setup a warning system for
+vaccine-derived poliovirus (VDPV) and the spread of wild poliovirus. In this
+study, we collected 139 sewage samples from 8 regions in Heilongjiang province.
+Poliovirus was identified from 72 samples, and the positivity rate was 51%. A
+total of 263 PV strains were isolated, including 22 strains of type 1 PV, 104
+strains of type 2 PV, and 137 strains of type 3 PV. As a result of intratypic
+differentiation, using real-time PCR and nucleotide sequencing, 3 type 1
+pre-VDPV, one type 2 VDPV, and 2 type 3 pre-VDPV strains were isolated.
+Interestingly, one type 1 strain with 5 nucleotide deletions and one type 3
+recombinant on VP1 were isolated. By continuously monitoring the poliovirus in
+the environment, we aimed to recognize the VDPV or wild poliovirus with high
+neurovirulence from large-scale circulation and set up a warning system to avoid 
+morbidity and virus transmission.
+
+DOI: 10.7883/yoken.JJID.2017.338 
+PMID: 30068885  [Indexed for MEDLINE]
+
+
+4. J Med Virol. 2017 Dec;89(12):2075-2083. doi: 10.1002/jmv.24909. Epub 2017 Aug 29.
+
+A safe and reliable neutralization assay based on pseudovirus to measure
+neutralizing antibody titer against poliovirus.
+
+Liu S(1), Song D(1), Bai H(1), Lu W(1), Dai X(1), Hao C(1), Zhang Z(1), Guo H(1),
+Zhang Y(1), Li X(1).
+
+Author information: 
+(1)National Vaccine and Serum Institute, Beijing, China.
+
+With the promotion of inactivated poliomyelitis vaccine (IPV) and live attenuated
+oral poliomyelitis vaccine (OPV), the global reported cases of poliomyelitis have
+reduced sharply from 0.35 million in 1988 to 74 in 2015. The Polio Eradication & 
+Endgame Strategic Plan published by WHO in 2013 included the strategy of
+implementation of poliovirus safe handling and containment measures to minimize
+the risks of facility-associated reintroduction of virus into the polio-free
+community to prevent the re-import of poliovirus. Toward this strategy, we
+produced replication-incompetent pseudovirus of poliovirus type 1, 2, 3
+attenuated strains by constructing poliovirus capsid expression vectors and
+poliovirus replicon then transfecting HEK293T cells and developed a
+pseudovirus-based neutralization assay (pNA) to determine neutralizing antibody
+titer which is more secure, time-saving and reliable than conventional
+neutralization assay (cNA). By using anti-poliovirus rat serum, we demonstrated
+excellent correlation between neutralizing antibody titers measured by cNA and
+pNA. It was concluded that pNA can be a potential alternative to replace cNA as a
+safe and time-saving system for titer determination after live poliovirus's
+safekeeping.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24909 
+PMID: 28786502  [Indexed for MEDLINE]
+
+
+5. Food Environ Virol. 2017 Dec;9(4):361-382. doi: 10.1007/s12560-017-9314-4. Epub
+2017 Jul 7.
+
+Insights from a Systematic Search for Information on Designs, Costs, and
+Effectiveness of Poliovirus Environmental Surveillance Systems.
+
+Duintjer Tebbens RJ(1), Zimmermann M(2), Pallansch MA(3), Thompson KM(2).
+
+Author information: 
+(1)Kid Risk, Inc, 10524 Moss Park Rd., Ste. 204-364, Orlando, FL, 32832, USA.
+rdt@kidrisk.org.
+(2)Kid Risk, Inc, 10524 Moss Park Rd., Ste. 204-364, Orlando, FL, 32832, USA.
+(3)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, 30333, USA.
+
+Poliovirus surveillance plays a critical role in achieving and certifying
+eradication and will play a key role in the polio endgame. Environmental
+surveillance can provide an opportunity to detect circulating polioviruses prior 
+to the observation of any acute flaccid paralysis cases. We completed a
+systematic review of peer-reviewed publications on environmental surveillance for
+polio including the search terms "environmental surveillance" or "sewage," and
+"polio," "poliovirus," or "poliomyelitis," and compared characteristics of the
+resulting studies. The review included 146 studies representing 101 environmental
+surveillance activities from 48 countries published between 1975 and 2016.
+Studies reported taking samples from sewage treatment facilities, surface waters,
+and various other environmental sources, although they generally did not present 
+sufficient details to thoroughly evaluate the sewage systems and catchment areas.
+When reported, catchment areas varied from 50 to over 7.3 million people (median 
+of 500,000 for the 25% of activities that reported catchment areas, notably with 
+60% of the studies not reporting this information and 16% reporting insufficient 
+information to estimate the catchment area population size). While numerous
+studies reported the ability of environmental surveillance to detect polioviruses
+in the absence of clinical cases, the review revealed very limited information
+about the costs and limited information to support quantitative population
+effectiveness of conducting environmental surveillance. This review motivates
+future studies to better characterize poliovirus environmental surveillance
+systems and the potential value of information that they may provide in the polio
+endgame.
+
+DOI: 10.1007/s12560-017-9314-4 
+PMID: 28687986  [Indexed for MEDLINE]
+
+
+6. Virus Res. 2017 Jun 15;238:179-182. doi: 10.1016/j.virusres.2017.06.017. Epub
+2017 Jun 30.
+
+Isolation and characterization of a highly evolved type 3 vaccine-derived
+poliovirus in China.
+
+Zhang X(1), Qin C(1), Li W(1), Zheng Z(2), Wang H(2), Cui Z(3).
+
+Author information: 
+(1)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences, Wuhan 430071, China.
+(2)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences, Wuhan 430071, China; Key Laboratory of Special Pathogens and
+Biosafety, Center for Emerging Infectious Diseases, Wuhan Institute of Virology, 
+Chinese Academy of Sciences, Wuhan 430071, China.
+(3)State Key Laboratory of Virology, Wuhan Institute of Virology, Chinese Academy
+of Sciences, Wuhan 430071, China. Electronic address: czq@wh.iov.cn.
+
+In this study, we report the identification and characterization of a highly
+evolved type 3 vaccine-derived poliovirus (VDPV) strain designated as WIV14,
+isolated in 2014 from a 4-year-old child suspected of having an enteroviral
+infection in China. Complete genome sequence of WIV14 revealed multiple
+nucleotide substitutions when compared with the attenuated poliovirus (PV) Sabin 
+3, including the reversion of three major attenuation sites to wild type. From
+the nucleotide divergence for the P1/capsid region, we estimated that the
+evolution time of WIV14 was more than 7 years, indicating the possible long time 
+of replication. WIV14 strain seemed to have differences in biological
+characteristics compared with attenuated PV strains, such as being
+non-temperature-sensitive and producing large plaques. The current isolation of a
+highly divergent type 3 VDPV gives an idea of the risk of emergent VDPV strains, 
+and emphasizes the importance of maintaining high vaccination coverage and herd
+immunity against PVs in China.
+
+Copyright © 2017 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2017.06.017 
+PMID: 28669764  [Indexed for MEDLINE]
+
+
+7. Biologicals. 2017 Jul;48:92-100. doi: 10.1016/j.biologicals.2017.05.001. Epub
+2017 May 23.
+
+Scientific consultation on the safety and containment of new poliovirus strains
+for vaccine production, clinical/regulatory testing and research. Report of a
+meeting held at NIBSC, Potters Bar, Hertfordshire, UK, 6/7th July 2016.
+
+Minor PD(1), Lane B(2), Mimms S(2), Bar P(2).
+
+Author information: 
+(1)Head, Division of Virology, Hertfordshire, EN6 3QG, United Kingdom. Electronic
+address: Philip.Minor@nibsc.org.
+(2)National Institute of Biological Standardisation and Control /MHRA,
+Hertfordshire, EN6 3QG, United Kingdom.
+
+When poliomyelitis is totally eradicated from the natural world containment will 
+be vital to prevent its re-emergence. The matter has become pressing as type 2
+component of oral polio vaccine was completely withdrawn by May 2016 as wild ty[e
+2 was declared eradicated. Work on polioviruses must be contained in accordance
+with GAPIII (the third version of the Global Action Plan of WHO). Some activities
+will be essential for years after eradication. Vaccine production and control,
+surveillance and supportive applied and academic research must all continue. Most
+laboratories do not currently comply with GAPIII and could not do so in the short
+term without disruption of essential activities including vaccine supply. The
+development and use of safer strains is raised in GAPIII and the meeting
+considered the strains available and the uses to which they could be put to
+facilitate compliance with the aims of GAPIII.
+
+Crown Copyright © 2017. Published by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biologicals.2017.05.001 
+PMID: 28549939  [Indexed for MEDLINE]
+
+
+8. J Clin Microbiol. 2017 Jul;55(7):2162-2171. doi: 10.1128/JCM.00144-17. Epub 2017 
+May 3.
+
+Detection of Emerging Vaccine-Related Polioviruses by Deep Sequencing.
+
+Sahoo MK(1), Holubar M(2), Huang C(3), Mohamed-Hadley A(1), Liu Y(1), Waggoner
+JJ(2), Troy SB(4), Garcia-Garcia L(5), Ferreyra-Reyes L(5), Maldonado Y(3),
+Pinsky BA(6)(2).
+
+Author information: 
+(1)Department of Pathology, Stanford University School of Medicine, Stanford,
+California, USA.
+(2)Department of Medicine, Division of Infectious Diseases and Geographic
+Medicine, Stanford University School of Medicine, Stanford, California, USA.
+(3)Department of Pediatrics, Division of Infectious Diseases, Stanford University
+School of Medicine, Stanford, California, USA.
+(4)Eastern Virginia Medical School, Norfolk, Virginia, USA.
+(5)Instituto Nacional de Salud Pública, Cuernavaca, Morelos, Mexico.
+(6)Department of Pathology, Stanford University School of Medicine, Stanford,
+California, USA bpinsky@stanford.edu.
+
+Oral poliovirus vaccine can mutate to regain neurovirulence. To date, evaluation 
+of these mutations has been performed primarily on culture-enriched isolates by
+using conventional Sanger sequencing. We therefore developed a
+culture-independent, deep-sequencing method targeting the 5' untranslated region 
+(UTR) and P1 genomic region to characterize vaccine-related poliovirus variants. 
+Error analysis of the deep-sequencing method demonstrated reliable detection of
+poliovirus mutations at levels of <1%, depending on read depth. Sequencing of
+viral nucleic acids from the stool of vaccinated, asymptomatic children and their
+close contacts collected during a prospective cohort study in Veracruz, Mexico,
+revealed no vaccine-derived polioviruses. This was expected given that the
+longest duration between sequenced sample collection and the end of the most
+recent national immunization week was 66 days. However, we identified many
+low-level variants (<5%) distributed across the 5' UTR and P1 genomic region in
+all three Sabin serotypes, as well as vaccine-related viruses with multiple
+canonical mutations associated with phenotypic reversion present at high levels
+(>90%). These results suggest that monitoring emerging vaccine-related poliovirus
+variants by deep sequencing may aid in the poliovirus endgame and efforts to
+ensure global polio eradication.
+
+Copyright © 2017 Sahoo et al.
+
+DOI: 10.1128/JCM.00144-17 
+PMCID: PMC5483918
+PMID: 28468861  [Indexed for MEDLINE]
+
+
+9. J Virol Methods. 2017 Aug;246:75-80. doi: 10.1016/j.jviromet.2017.04.016. Epub
+2017 Apr 26.
+
+Quantifying low-frequency revertants in oral poliovirus vaccine using next
+generation sequencing.
+
+Sarcey E(1), Serres A(2), Tindy F(3), Chareyre A(4), Ng S(5), Nicolas M(6),
+Vetter E(7), Bonnevay T(8), Abachin E(9), Mallet L(10).
+
+Author information: 
+(1)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Eric.Sarcey@sanofi.com.
+(2)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Aurelie.Serres@sanofi.com.
+(3)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Fabrice.Tindy@sanofi.com.
+(4)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Audrey.Chareyre@sanofi.com.
+(5)Sanofi Pasteur, Microbiology & Virology Platform, Department of Analytical
+Research & Development North America, 1755 Steeles Avenue West, Toronto, Ontario 
+M2R 3T4, Canada. Electronic address: Siemon.Ng@sanofi.com.
+(6)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Marine.Nicolas@sanofi.com.
+(7)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Emmanuelle.Vetter@sanofi.com.
+(8)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Thierry.Bonnevay@sanofi.com.
+(9)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Eric.Abachin@sanofi.com.
+(10)Sanofi Pasteur, Analytical Research and Development Department EU, Campus
+Mérieux-1541, Avenue Marcel Mérieux, 69280, Marcy L'Etoile, France. Electronic
+address: Laurent.Mallet@sanofi.com.
+
+Spontaneous reversion to neurovirulence of live attenuated oral poliovirus
+vaccine (OPV) serotype 3 (chiefly involving the n.472U>C mutation), must be
+monitored during production to ensure vaccine safety and consistency. Mutant
+analysis by polymerase chain reaction and restriction enzyme cleavage (MAPREC)
+has long been endorsed by the World Health Organization as the preferred in vitro
+test for this purpose; however, it requires radiolabeling, which is no longer
+supported by many laboratories. We evaluated the performance and suitability of
+next generation sequencing (NGS) as an alternative to MAPREC. The linearity of
+NGS was demonstrated at revertant concentrations equivalent to the study range of
+0.25%-1.5%. NGS repeatability and intermediate precision were comparable across
+all tested samples, and NGS was highly reproducible, irrespective of sequencing
+platform or analysis software used. NGS was performed on OPV serotype 3 working
+seed lots and monovalent bulks (n=21) that were previously tested using MAPREC,
+and which covered the representative range of vaccine production. Percentages of 
+472-C revertants identified by NGS and MAPREC were comparable and highly
+correlated (r≥0.80), with a Pearson correlation coefficient of 0.95585
+(p<0.0001). NGS demonstrated statistically equivalent performance to that of
+MAPREC for quantifying low-frequency OPV serotype 3 revertants, and offers a
+valid alternative to MAPREC.
+
+Copyright © 2017 The Authors. Published by Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jviromet.2017.04.016 
+PMID: 28456668  [Indexed for MEDLINE]
+
+
+10. MBio. 2017 Mar 14;8(2). pii: e02020-16. doi: 10.1128/mBio.02020-16.
+
+Plaques Formed by Mutagenized Viral Populations Have Elevated Coinfection
+Frequencies.
+
+Aguilera ER(1), Erickson AK(1), Jesudhasan PR(1), Robinson CM(1), Pfeiffer JK(2).
+
+Author information: 
+(1)Department of Microbiology, University of Texas Southwestern Medical Center,
+Dallas, Texas, USA.
+(2)Department of Microbiology, University of Texas Southwestern Medical Center,
+Dallas, Texas, USA Julie.Pfeiffer@UTSouthwestern.edu.
+
+Comment in
+    MBio. 2017 Aug 8;8(4):null.
+    MBio. 2017 Aug 8;8(4):null.
+
+The plaque assay is a common technique used to measure virus concentrations and
+is based upon the principle that each plaque represents a single infectious unit.
+As such, the number of plaques is expected to correlate linearly with the virus
+dilution plated, and each plaque should be formed by a single founder virus.
+Here, we examined whether more than one virus can contribute to plaque formation.
+By using genetic and phenotypic assays with genetically marked polioviruses, we
+found that multiple parental viruses are present in 5 to 7% of plaques, even at
+an extremely low multiplicity of infection. We demonstrated through visual and
+biophysical assays that, like many viral stocks, our viral stocks contain both
+single particles and aggregates. These data suggest that aggregated virions are
+capable of inducing coinfection and chimeric plaque formation. In fact, inducing 
+virion aggregation via exposure to low pH increased coinfection in a flow
+cytometry-based assay. We hypothesized that plaques generated by viruses with
+high mutation loads may have higher coinfection frequencies due to processes
+restoring fitness, such as complementation and recombination. Indeed, we found
+that coinfection frequency correlated with mutation load, with 17% chimeric
+plaque formation for heavily mutagenized viruses. Importantly, the frequency of
+chimeric plaques may be underestimated by up to threefold, since coinfection with
+the same parental virus cannot be scored in our assay. This work indicates that
+more than one virus can contribute to plaque formation and that coinfection may
+assist plaque formation in situations where the amount of genome damage is
+high.IMPORTANCE One of the most common methods to quantify viruses is the plaque 
+assay, where it is generally presumed that each plaque represents a single
+infectious virus. Using genetically marked polioviruses, we demonstrate that a
+plaque can contain more than one parental virus, likely due to aggregates within 
+virus stocks that induce coinfection of a cell. A relatively small number of
+plaques are the products of coinfection for our standard virus stocks. However,
+mutagenized virus stocks with increased genome damage give rise to a higher
+amount of plaques that are chimeric. These results suggest that coinfection may
+aid plaque formation of viruses with genome damage, possibly due to processes
+such as complementation and recombination. Overall, our results suggest that the 
+relationship between viral dilution and plaque number may not be linear,
+particularly for mutagenized viral populations.
+
+Copyright © 2017 Aguilera et al.
+
+DOI: 10.1128/mBio.02020-16 
+PMCID: PMC5350468
+PMID: 28292984  [Indexed for MEDLINE]
+
+
+11. J Clin Microbiol. 2017 Feb;55(2):606-615. doi: 10.1128/JCM.02121-16. Epub 2016
+Dec 7.
+
+High-Throughput Next-Generation Sequencing of Polioviruses.
+
+Montmayeur AM(1), Ng TF(2), Schmidt A(3), Zhao K(4), Magaña L(5), Iber J(4),
+Castro CJ(5), Chen Q(4), Henderson E(4), Ramos E(1), Shaw J(4), Tatusov RL(1),
+Dybdahl-Sissoko N(4), Endegue-Zanga MC(6), Adeniji JA(7), Oberste MS(4), Burns
+CC(4).
+
+Author information: 
+(1)CSRA International, Atlanta, Georgia, USA.
+(2)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, Georgia, USA ylz9@cdc.gov.
+(3)IHRC, Atlanta, Georgia, USA.
+(4)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, Georgia, USA.
+(5)Oak Ridge Institute for Science and Education, Oak Ridge, Tennessee, USA.
+(6)Centre Pasteur du Cameroon, Yaoundé, Cameroon.
+(7)Department of Virology, College of Medicine, University of Ibadan, Ibadan,
+Nigeria.
+
+The poliovirus (PV) is currently targeted for worldwide eradication and
+containment. Sanger-based sequencing of the viral protein 1 (VP1) capsid region
+is currently the standard method for PV surveillance. However, the whole-genome
+sequence is sometimes needed for higher resolution global surveillance. In this
+study, we optimized whole-genome sequencing protocols for poliovirus isolates and
+FTA cards using next-generation sequencing (NGS), aiming for high sequence
+coverage, efficiency, and throughput. We found that DNase treatment of poliovirus
+RNA followed by random reverse transcription (RT), amplification, and the use of 
+the Nextera XT DNA library preparation kit produced significantly better results 
+than other preparations. The average viral reads per total reads, a measurement
+of efficiency, was as high as 84.2% ± 15.6%. PV genomes covering >99 to 100% of
+the reference length were obtained and validated with Sanger sequencing. A total 
+of 52 PV genomes were generated, multiplexing as many as 64 samples in a single
+Illumina MiSeq run. This high-throughput, sequence-independent NGS approach
+facilitated the detection of a diverse range of PVs, especially for those in
+vaccine-derived polioviruses (VDPV), circulating VDPV, or
+immunodeficiency-related VDPV. In contrast to results from previous studies on
+other viruses, our results showed that filtration and nuclease treatment did not 
+discernibly increase the sequencing efficiency of PV isolates. However, DNase
+treatment after nucleic acid extraction to remove host DNA significantly improved
+the sequencing results. This NGS method has been successfully implemented to
+generate PV genomes for molecular epidemiology of the most recent PV isolates.
+Additionally, the ability to obtain full PV genomes from FTA cards will aid in
+facilitating global poliovirus surveillance.
+
+Copyright © 2017 American Society for Microbiology.
+
+DOI: 10.1128/JCM.02121-16 
+PMCID: PMC5277531
+PMID: 27927929  [Indexed for MEDLINE]
+
+
+12. Biologicals. 2016 Nov;44(6):581-587. doi: 10.1016/j.biologicals.2016.08.005. Epub
+2016 Oct 5.
+
+Development of inactivated poliovirus vaccine from Sabin strains: A progress
+report.
+
+Okayasu H(1), Sein C(2), Hamidi A(3), Bakker WA(3), Sutter RW(2).
+
+Author information: 
+(1)Research and Product Development Team, Polio Eradication Department, The World
+Health Organization, Geneva, Switzerland. Electronic address: okayasuh@who.int.
+(2)Research and Product Development Team, Polio Eradication Department, The World
+Health Organization, Geneva, Switzerland.
+(3)Institute for Translational Vaccinology, Intravacc, Bilthoven, The
+Netherlands.
+
+The Global Polio Eradication Initiative (GPEI) has seen significant progress
+since it began in 1988, largely due to the worldwide use of oral poliovirus
+vaccine (OPV). In order to achieve polio eradication the global cessation of OPV 
+is necessary because OPV contains live attenuated poliovirus, which in rare
+circumstances could re-gain wild poliovirus (WPV) characteristics with potential 
+to establish transmission. The GPEI endgame strategy for the period 2013-2018
+recommends the globally synchronised sequential cessation of the Sabin strains
+contained in the OPV, starting with type 2 Sabin. The withdrawal of Sabin type 2 
+took place in April 2016, with the introduction of at least one dose of
+inactivated poliovirus vaccine (IPV) as a risk mitigation strategy. The
+introduction of IPV into 126 countries since 2013 has required a rapid scale-up
+of IPV production by the two manufacturers supplying the global public sector
+market. This scale-up has been fraught with challenges, resulting in reductions
+of 40-50% of initial supply commitments. Consequently, 22 countries will not be
+supplied until 2018, and another 23 countries will experience serious stock-outs.
+In the last decade repeated calls-for-action were made to the global community to
+invigorate their vision and investment in developing "new poliovirus vaccines"
+including the development of IPV from less-virulent strains, such as Sabin-IPV
+(S-IPV). The conventional Salk-IPV production is limited to high-income
+industrialized-country manufacturers due to the containment requirements (i.e.,
+high sanitation, low force-of-poliovirus-infection, and high population
+immunity). The use of Sabin strains in the production of S-IPV carries a lower
+biosafety risk, and was determined to be suitable for production in developing
+countries, expanding the manufacturing base and making IPV more affordable and
+accessible in the long term. Significant progress in the S-IPV has been made
+since 2006. S-IPV is now licensed as S-IPV in Japan and as standalone S-IPV in
+China, demonstrating the feasibility of this vaccine. In addition, production
+process improvements can further reduce the cost of production. The latter are
+critical to the economic success of this vaccine in the global market. We
+summarize the progress made to date in S-IPV technology, the scientific data and 
+economic evidence in support of S-IPV development.
+
+Copyright © 2016 International Alliance for Biological Standardization. Published
+by Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.biologicals.2016.08.005 
+PMID: 27720268  [Indexed for MEDLINE]
+
+
+13. Bing Du Xue Bao. 2016 Jul;32(4):459-64.
+
+[Complete Genome Characterization of Vaccine-derived Polioviruses Isolated in
+Yunnan,China].
+
+[Article in Chinese]
+
+Tang J, Zhang J, Li K, Tian B, Zhao Z, Ding Z.
+
+To explore the genomic characterization of 4vaccine-derived
+poliovirus(VDPV)strains isolated from 2acute flaccid paralysis(AFP)cases in
+Yunnan Province in 2010 and 2012,respectively,the complete genome sequences of
+the 4strains were determined. Sequence analysis revealed that the complete genome
+length of the type Ⅱ and type Ⅰ VDPV was 7439nt and 7441 nt, respectively.
+Nucleotide and amino acid sequence similarities of type II VDPV were 95.4% and
+97.7%,respectively,and type I VDPV were93.9% and 97.9%,respectively as compared
+with those of Sabin strains. Nucleotide substitutions were found at two important
+attenuation sites (nt 481 and nt in type Ⅱ VDPV, and three important attenuation 
+sites(nt480,nt2795 and nt6203)in type I VDPV. Type 2 and type 1VDPV strains had
+1.0% and2.3% divergence with Sabin strains, respectively. Similarity plot
+analysis showed multiple recombination events in the genome of the 4strains,which
+showed that the recombination was common and complex. Analysis of the
+characteristics of VDPVs on molecular level could provide valuable information on
+evolutionary dynamics and lay foundation for developing scientific and feasible
+strategy to control VDPV.
+
+
+PMID: 29981280  [Indexed for MEDLINE]
+
+
+14. Cell Host Microbe. 2016 Apr 13;19(4):493-503. doi: 10.1016/j.chom.2016.03.009.
+
+RNA Recombination Enhances Adaptability and Is Required for Virus Spread and
+Virulence.
+
+Xiao Y(1), Rouzine IM(2), Bianco S(3), Acevedo A(1), Goldstein EF(1), Farkov
+M(4), Brodsky L(4), Andino R(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA 94158, USA.
+(2)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA 94158, USA; Department of Pharmaceutical Chemistry, 
+University of California, San Francisco, San Francisco, CA 94158, USA.
+(3)Department of Industrial and Applied Genomics, Accelerated Discovery Lab, IBM 
+Almaden Research Center, 650 Harry Road, San Jose, CA 95120-6099, USA.
+(4)Tauber Bioinformatics Research Center and Department of Evolutionary and
+Environmental Biology, University of Haifa, Mount Carmel, Haifa 31905, Israel.
+(5)Department of Microbiology and Immunology, University of California, San
+Francisco, San Francisco, CA 94158, USA. Electronic address:
+raul.andino@ucsf.edu.
+
+Erratum in
+    Cell Host Microbe. 2017 Sep 13;22(3):420.
+
+Mutation and recombination are central processes driving microbial evolution. A
+high mutation rate fuels adaptation but also generates deleterious mutations.
+Recombination between two different genomes may resolve this paradox, alleviating
+effects of clonal interference and purging deleterious mutations. Here we
+demonstrate that recombination significantly accelerates adaptation and evolution
+during acute virus infection. We identified a poliovirus recombination
+determinant within the virus polymerase, mutation of which reduces recombination 
+rates without altering replication fidelity. By generating a panel of variants
+with distinct mutation rates and recombination ability, we demonstrate that
+recombination is essential to enrich the population in beneficial mutations and
+purge it from deleterious mutations. The concerted activities of mutation and
+recombination are key to virus spread and virulence in infected animals. These
+findings inform a mathematical model to demonstrate that poliovirus adapts most
+rapidly at an optimal mutation rate determined by the trade-off between selection
+and accumulation of detrimental mutations.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.chom.2016.03.009 
+PMCID: PMC4840895
+PMID: 27078068  [Indexed for MEDLINE]
+
+
+15. Methods Mol Biol. 2016;1387:325-38. doi: 10.1007/978-1-4939-3292-4_17.
+
+Identification and Analysis of Antiviral Compounds Against Poliovirus.
+
+Leyssen P(1), Franco D(1), Tijsma A(1), Lacroix C(1), De Palma A(1), Neyts J(2).
+
+Author information: 
+(1)KU Leuven - University of Leuven, Department of Microbiology and Immunology,
+Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy,
+Minderbroedersstraat 10, 3000, Leuven, Belgium.
+(2)KU Leuven - University of Leuven, Department of Microbiology and Immunology,
+Rega Institute for Medical Research, Laboratory of Virology and Chemotherapy,
+Minderbroedersstraat 10, 3000, Leuven, Belgium. johan.neyts@rega.kuleuven.be.
+
+The Global Polio Eradication Initiative, launched in 1988, had as its goal the
+eradication of polio worldwide by the year 2000 through large-scale vaccinations 
+campaigns with the live attenuated oral PV vaccine (OPV) (Griffiths et al.,
+Biologicals 34:73-74, 2006). Despite substantial progress, polio remains endemic 
+in several countries and new imported cases are reported on a regular basis (
+http://www.polioeradication.org/casecount.asp ).It was recognized by the
+poliovirus research community that developing antivirals against poliovirus would
+be invaluable in the post-OPV era. Here, we describe three methods essential for 
+the identification of selective inhibitors of poliovirus replication and for
+determining their mode of action by time-of-drug-addition studies as well as by
+the isolation of compound-resistant poliovirus variants.
+
+DOI: 10.1007/978-1-4939-3292-4_17 
+PMID: 26983743  [Indexed for MEDLINE]
+
+
+16. Methods Mol Biol. 2016;1387:177-212. doi: 10.1007/978-1-4939-3292-4_9.
+
+Molecular Properties of Poliovirus Isolates: Nucleotide Sequence Analysis, Typing
+by PCR and Real-Time RT-PCR.
+
+Burns CC(1), Kilpatrick DR(2), Iber JC(2), Chen Q(2), Kew OM(2).
+
+Author information: 
+(1)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, National
+Center for Immunization and Respiratory Disease, Centers for Disease Control and 
+Prevention, 1600 Clifton Rd., NE MS G-10, Atlanta, GA, 30333, USA.
+cburns@cdc.gov.
+(2)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, National
+Center for Immunizationand Respiratory Disease, Centers for Disease Control and
+Prevention, Atlanta, GA, USA.
+
+Virologic surveillance is essential to the success of the World Health
+Organization initiative to eradicate poliomyelitis. Molecular methods have been
+used to detect polioviruses in tissue culture isolates derived from stool samples
+obtained through surveillance for acute flaccid paralysis. This chapter describes
+the use of realtime PCR assays to identify and serotype polioviruses. In
+particular, a degenerate, inosine-containing, panpoliovirus (panPV) PCR primer
+set is used to distinguish polioviruses from NPEVs. The high degree of nucleotide
+sequence diversity among polioviruses presents a challenge to the systematic
+design of nucleic acid-based reagents. To accommodate the wide variability and
+rapid evolution of poliovirus genomes, degenerate codon positions on the template
+were matched to mixed-base or deoxyinosine residues on both the primers and the
+TaqMan™ probes. Additional assays distinguish between Sabin vaccine strains and
+non-Sabin strains. This chapter also describes the use of generic poliovirus
+specific primers, along with degenerate and inosine-containing primers, for
+routine VP1 sequencing of poliovirus isolates. These primers, along with
+nondegenerate serotype-specific Sabin primers, can also be used to sequence
+individual polioviruses in mixtures.
+
+DOI: 10.1007/978-1-4939-3292-4_9 
+PMID: 26983735  [Indexed for MEDLINE]
+
+
+17. Viruses. 2016 Feb 4;8(2). pii: E39. doi: 10.3390/v8020039.
+
+Generation of Recombinant Polioviruses Harboring RNA Affinity Tags in the 5' and 
+3' Noncoding Regions of Genomic RNAs.
+
+Flather D(1), Cathcart AL(2)(3), Cruz C(4), Baggs E(5), Ngo T(6), Gershon PD(7), 
+Semler BL(8).
+
+Author information: 
+(1)Department of Microbiology and Molecular Genetics, School of Medicine,
+University of California, Irvine, CA 92697, USA. dflather@uci.edu.
+(2)Department of Microbiology and Molecular Genetics, School of Medicine,
+University of California, Irvine, CA 92697, USA. andrea.cathcart@gilead.com.
+(3)Present address: Gilead Sciences, Inc., Foster City, CA 94404, USA.
+andrea.cathcart@gilead.com.
+(4)Department of Microbiology and Molecular Genetics, School of Medicine,
+University of California, Irvine, CA 92697, USA. cruzc3@uci.edu.
+(5)Department of Microbiology and Molecular Genetics, School of Medicine,
+University of California, Irvine, CA 92697, USA. ebaggs@uci.edu.
+(6)Department of Molecular Biology and Biochemistry, University of California,
+Irvine, CA 92697, USA. tngo5@uci.edu.
+(7)Department of Molecular Biology and Biochemistry, University of California,
+Irvine, CA 92697, USA. pgershon@uci.edu.
+(8)Department of Microbiology and Molecular Genetics, School of Medicine,
+University of California, Irvine, CA 92697, USA. blsemler@uci.edu.
+
+Despite being intensely studied for more than 50 years, a complete understanding 
+of the enterovirus replication cycle remains elusive. Specifically, only a
+handful of cellular proteins have been shown to be involved in the RNA
+replication cycle of these viruses. In an effort to isolate and identify
+additional cellular proteins that function in enteroviral RNA replication, we
+have generated multiple recombinant polioviruses containing RNA affinity tags
+within the 3' or 5' noncoding region of the genome. These recombinant viruses
+retained RNA affinity sequences within the genome while remaining viable and
+infectious over multiple passages in cell culture. Further characterization of
+these viruses demonstrated that viral protein production and growth kinetics were
+unchanged or only slightly altered relative to wild type poliovirus. However,
+attempts to isolate these genetically-tagged viral genomes from infected cells
+have been hindered by high levels of co-purification of nonspecific proteins and 
+the limited matrix-binding efficiency of RNA affinity sequences. Regardless,
+these recombinant viruses represent a step toward more thorough characterization 
+of enterovirus ribonucleoprotein complexes involved in RNA replication.
+
+DOI: 10.3390/v8020039 
+PMCID: PMC4776194
+PMID: 26861382  [Indexed for MEDLINE]
+
+
+18. Clin Infect Dis. 2016 Jan 15;62(2):190-198. doi: 10.1093/cid/civ831. Epub 2015
+Sep 28.
+
+Genomic Surveillance Elucidates Persistent Wild Poliovirus Transmission During
+2013-2015 in Major Reservoir Areas of Pakistan.
+
+Alam MM(1), Sharif S(1), Shaukat S(1), Angez M(1), Khurshid A(1), Rehman L(1),
+Zaidi SSZ(1).
+
+Author information: 
+(1)Department of Virology, National Institute of Health, Chak Shahzad, Islamabad,
+Pakistan.
+
+Comment in
+    Clin Infect Dis. 2016 Jan 15;62(2):199.
+
+BACKGROUND: Despite tremendous efforts in the fight against polio, Pakistan bears
+the highest proportion of poliomyelitis cases among the 3 endemic countries
+including Afghanistan and Nigeria. Apart from insecurity and inaccessibility
+challenges, the substantial shift of unimmunized children from North Waziristan
+due to recent military operations was presumed to favor the widespread poliovirus
+infection in Pakistan.
+METHODS: To better understand the current epidemiological situation, we analyzed 
+the virologic data of wild poliovirus type 1 (WPV1) strains detected in Pakistan 
+during 2013-2015.
+RESULTS: Five genetic clusters (A-E) were identified with at least 5% nucleotide 
+divergence in the viral protein 1 (VP1) coding region. Peshawar, Quetta, and
+Karachi were found to be the major endemic foci where multiple discrete genetic
+lineages of WPV1 were detected. Phylogenetic analysis suggests that wild
+poliovirus strains from endemic regions were genetically distant (with 5%-15% VP1
+nucleotide divergence) from those detected in North Waziristan cases, excluding
+the possibility of a recent progenitor of WPV1 instigating single-source
+transmission across the country. Orphan lineages detected in Rawalpindi, Lahore, 
+Hyderabad, Sukkur, and Jacobabad revealed silent transmission and the need for
+vigilant surveillance. Sustenance of analogous genetic lineages over a period of 
+3 years highlights multiple unimmunized foci present to maintain viral genetic
+diversity.
+CONCLUSIONS: Our findings are inconsistent with the hypothesis that impoverished 
+populations from North Waziristan serve as a possible determinant of widespread
+poliomyelitis infection in Pakistan and further emphasize the need to scale-up
+clinical and environmental surveillance as well as immunization activities.
+
+© The Author 2015. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail
+journals.permissions@oup.com.
+
+DOI: 10.1093/cid/civ831 
+PMID: 26417032  [Indexed for MEDLINE]
+
+
+19. PLoS One. 2015 Aug 28;10(8):e0135765. doi: 10.1371/journal.pone.0135765.
+eCollection 2015.
+
+Has Wild Poliovirus Been Eliminated from Nigeria?
+
+Famulare M(1).
+
+Author information: 
+(1)Institute for Disease Modeling, Bellevue, WA, United States of America.
+
+Wild poliovirus type 3 (WPV3) has not been seen anywhere since the last case of
+WPV3-associated paralysis in Nigeria in November 2012. At the time of writing,
+the most recent case of wild poliovirus type 1 (WPV1) in Nigeria occurred in July
+2014, and WPV1 has not been seen in Africa since a case in Somalia in August
+2014. No cases associated with circulating vaccine-derived type 2 poliovirus
+(cVDPV2) have been detected in Nigeria since November 2014. Has WPV1 been
+eliminated from Africa? Has WPV3 been eradicated globally? Has Nigeria
+interrupted cVDPV2 transmission? These questions are difficult because polio
+surveillance is based on paralysis and paralysis only occurs in a small fraction 
+of infections. This report provides estimates for the probabilities of poliovirus
+elimination in Nigeria given available data as of March 31, 2015. It is based on 
+a model of disease transmission that is built from historical polio incidence
+rates and is designed to represent the uncertainties in transmission dynamics and
+poliovirus detection that are fundamental to interpreting long time periods
+without cases. The model estimates that, as of March 31, 2015, the probability of
+WPV1 elimination in Nigeria is 84%, and that if WPV1 has not been eliminated, a
+new case will be detected with 99% probability by the end of 2015. The
+probability of WPV3 elimination (and thus global eradication) is > 99%. However, 
+it is unlikely that the ongoing transmission of cVDPV2 has been interrupted; the 
+probability of cVDPV2 elimination rises to 83% if no new cases are detected by
+April 2016.
+
+DOI: 10.1371/journal.pone.0135765 
+PMCID: PMC4552877
+PMID: 26317401  [Indexed for MEDLINE]
+
+
+20. Curr Opin Virol. 2015 Aug;13:81-5. doi: 10.1016/j.coviro.2015.05.007. Epub 2015
+Jun 12.
+
+Cytotoxic and immunogenic mechanisms of recombinant oncolytic poliovirus.
+
+Brown MC(1), Gromeier M(2).
+
+Author information: 
+(1)Department of Molecular Genetics & Microbiology, Duke University Medical
+Center, Box 3020, Research Drive, Durham, NC 27710, USA; Department of
+Neurosurgery, Duke University Medical Center, Box 3020, Research Drive, Durham,
+NC 27710, USA.
+(2)Department of Molecular Genetics & Microbiology, Duke University Medical
+Center, Box 3020, Research Drive, Durham, NC 27710, USA; Department of
+Neurosurgery, Duke University Medical Center, Box 3020, Research Drive, Durham,
+NC 27710, USA. Electronic address: grome001@mc.duke.edu.
+
+An oncolytic virus (OV) based on poliovirus (PV), the highly attenuated
+polio/rhinovirus recombinant PVSRIPO, may deliver targeted inflammatory cancer
+cell killing; a principle that is showing promise in clinical trials for
+recurrent glioblastoma (GBM). The two decisive factors in PVSRIPO anti-tumor
+efficacy are selective cytotoxicity and its in situ immunogenic imprint. While
+our work is focused on what constitutes PVSRIPO cancer cytotoxicity, we are also 
+studying how this engenders host immune responses that are vital to tumor
+regression. We hypothesize that PVSRIPO cytotoxicity and immunogenicity are
+inextricably linked in essential, complimentary roles that define the
+anti-neoplastic response. Herein we delineate mechanisms we unraveled to decipher
+the basis for PVSRIPO cytotoxicity and its immunotherapeutic potential.
+
+Copyright © 2015 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.coviro.2015.05.007 
+PMCID: PMC4550519
+PMID: 26083317  [Indexed for MEDLINE]
+
+
+21. Virology. 2015 May;479-480:444-9. doi: 10.1016/j.virol.2015.03.044. Epub 2015 Apr
+15.
+
+Escape of non-enveloped virus from intact cells.
+
+Bird SW(1), Kirkegaard K(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, United States.
+(2)Department of Microbiology and Immunology, Stanford University School of
+Medicine, Stanford, CA 94305, United States; Department of Genetics, Stanford
+University School of Medicine, Stanford, CA 94305, United States. Electronic
+address: karlak@stanford.edu.
+
+How do viruses spread from cell to cell? Enveloped viruses acquire their
+surrounding membranes by budding. If a newly enveloped virus has budded through
+the plasma membrane, it finds itself outside the cell immediately. If it has
+budded through the bounding membrane of an internal compartment such as the ER,
+the virus finds itself in the lumen, from which it can exit the cell via the
+conventional secretion pathway. Thus, although some enveloped viruses destroy the
+cells they infect, there is no topological need to do so. On the other hand,
+naked viruses such as poliovirus lack an external membrane. They are
+protein-nucleic acid complexes within the cytoplasm or nucleus of the infected
+cell, like a ribosome, a spliceosome or an aggregate of Huntingtin protein. The
+simplest way for such a particle to pass through the single lipid bilayer that
+separates it from the outside of the cell would be to violate the integrity of
+that bilayer. Thus, it is not surprising that the primary mode of exit for
+non-enveloped viruses is cell lysis. However, more complex exit strategies are
+possible, such as the creation of new compartments whose complex topologies allow
+the exit of cytoplasm and its contents without violating the integrity of the
+cell. Here we will discuss the non-lytic spread of poliovirus and recent
+observations of such compartments during viral infection with several different
+picornaviruses.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2015.03.044 
+PMCID: PMC4440412
+PMID: 25890822  [Indexed for MEDLINE]
+
+
+22. Virology. 2015 Aug;482:28-31. doi: 10.1016/j.virol.2015.03.005. Epub 2015 Mar 30.
+
+Effect of time at temperature on wild poliovirus titers in stool specimens.
+
+Walker AT(1), Williams AJ(2), Gary HE Jr(2), Pallansch MA(3), Wassilak SG(2),
+Oberste MS(3).
+
+Author information: 
+(1)Global Immunization Division, Center for Global Health, Centers for Disease
+Control and Prevention (CDC), USA. Electronic address: atwalker@cdc.gov.
+(2)Global Immunization Division, Center for Global Health, Centers for Disease
+Control and Prevention (CDC), USA.
+(3)Division of Viral Diseases, National Center for Immunization and Respiratory
+Diseases, CDC, USA.
+
+BACKGROUND: The effect of transport temperature on the viability of poliovirus in
+stool specimens from paralyzed cases has not been tested. Quality assurance of
+programmatic indicators will be necessary in the final phase of polio
+eradication.
+OBJECTIVE: To estimate the effect of time at elevated temperatures on wild
+poliovirus titers in stool specimens.
+METHODS: We exposed aliquots of pooled wild poliovirus type 1 specimens to
+elevated temperatures (27 °C, 31 °C, and 35 °C) for varying time periods up to 14
+days. We determined the virus titer of these aliquots and created decay curves at
+each temperature to estimate the relationship between time at temperature and
+virus titer.
+RESULTS: We found significantly different slopes of decay at each temperature.
+The negative slopes increased as the temperature increased.
+CONCLUSIONS: While poliovirus in stool remains relatively stable at moderately
+elevated temperature, transport at higher temperatures could impact sample
+integrity and virus isolation results.
+
+Published by Elsevier Inc.
+
+DOI: 10.1016/j.virol.2015.03.005 
+PMCID: PMC4620922
+PMID: 25817402  [Indexed for MEDLINE]
+
+
+23. J Virol. 2015 Apr;89(8):4143-57. doi: 10.1128/JVI.03101-14. Epub 2015 Jan 28.
+
+Nectin-like interactions between poliovirus and its receptor trigger
+conformational changes associated with cell entry.
+
+Strauss M(1), Filman DJ(1), Belnap DM(2), Cheng N(3), Noel RT(4), Hogle JM(5).
+
+Author information: 
+(1)Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical
+School, Boston, Massachusetts, USA.
+(2)Laboratory of Structural Biology Research, National Institute of Arthritis and
+Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda,
+Maryland, USA Department of Chemistry and Biochemistry, Brigham Young University,
+Provo, Utah, USA Departments of Biology and Biochemistry, University of Utah,
+Salt Lake City, Utah, USA.
+(3)Laboratory of Structural Biology Research, National Institute of Arthritis and
+Musculoskeletal and Skin Diseases, National Institutes of Health, Bethesda,
+Maryland, USA.
+(4)Department of Chemistry and Biochemistry, Brigham Young University, Provo,
+Utah, USA.
+(5)Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical
+School, Boston, Massachusetts, USA james_hogle@hms.harvard.edu.
+
+Poliovirus infection is initiated by attachment to a receptor on the cell surface
+called Pvr or CD155. At physiological temperatures, the receptor catalyzes an
+irreversible expansion of the virus to form an expanded form of the capsid called
+the 135S particle. This expansion results in the externalization of the
+myristoylated capsid protein VP4 and the N-terminal extension of the capsid
+protein VP1, both of which become inserted into the cell membrane. Structures of 
+the expanded forms of poliovirus and of several related viruses have recently
+been reported. However, until now, it has been unclear how receptor binding
+triggers viral expansion at physiological temperature. Here, we report poliovirus
+in complex with an enzymatically partially deglycosylated form of the 3-domain
+ectodomain of Pvr at a 4-Å resolution, as determined by cryo-electron microscopy.
+The interaction of the receptor with the virus in this structure is reminiscent
+of the interactions of Pvr with its natural ligands. At a low temperature, the
+receptor induces very few changes in the structure of the virus, with the largest
+changes occurring within the footprint of the receptor, and in a loop of the
+internal protein VP4. Changes in the vicinity of the receptor include the
+displacement of a natural lipid ligand (called "pocket factor"), demonstrating
+that the loss of this ligand, alone, is not sufficient to induce particle
+expansion. Finally, analogies with naturally occurring ligand binding in the
+nectin family suggest which specific structural rearrangements in the
+virus-receptor complex could help to trigger the irreversible expansion of the
+capsid.IMPORTANCE: The cell-surface receptor (Pvr) catalyzes a large structural
+change in the virus that exposes membrane-binding protein chains. We fitted known
+atomic models of the virus and Pvr into three-dimensional experimental maps of
+the receptor-virus complex. The molecular interactions we see between poliovirus 
+and its receptor are reminiscent of the nectin family, by involving the burying
+of otherwise-exposed hydrophobic groups. Importantly, poliovirus expansion is
+regulated by the binding of a lipid molecule within the viral capsid. We show
+that receptor binding either causes this molecule to be expelled or requires it, 
+but that its loss is not sufficient to trigger irreversible expansion. Based on
+our model, we propose testable hypotheses to explain how the viral shell becomes 
+destabilized, leading to RNA uncoating. These findings give us a better
+understanding of how poliovirus has evolved to exploit a natural process of its
+host to penetrate the membrane barrier.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.03101-14 
+PMCID: PMC4442392
+PMID: 25631086  [Indexed for MEDLINE]
+
+
+24. Clin Infect Dis. 2015 Apr 1;60(7):1057-64. doi: 10.1093/cid/ciu1136. Epub 2014
+Dec 30.
+
+Genetic analysis and characterization of wild poliovirus type 1 during sustained 
+transmission in a population with >95% vaccine coverage, Israel 2013.
+
+Shulman LM(1), Martin J(2), Sofer D(1), Burns CC(3), Manor Y(1), Hindiyeh M(1),
+Gavrilin E(4), Wilton T(2), Moran-Gilad J(5), Gamzo R(5), Mendelson E(1), Grotto 
+I(5); GPI (Genotype–Phenotype Identification) Group; GPI Genotype-Phenotype
+Identification Group.
+
+Collaborators: Chen Q, Dybdahl-Sissoko N, Iber J, Mandelbaum M, Oberste S,
+Penaranda S, Rogers S, Agabiev I, Alfandari J, Azar R, Halmut T, Indenbaum V,
+Mandelbaum M, Michaeli M, Mor O, Perepliotchikov Y, Rom D, Silberstein I, Weil M,
+Anis E, Kaliner E, Kopel E, Singer-Shepherd R, Dunn G, Li L, Pfeifer D.
+
+Author information: 
+(1)Public Health Services, Israel Ministry of Health, Central Virology
+Laboratory, Sheba Medical Center, Tel Hashomer, Israel.
+(2)Division of Virology, National Institute for Biological Standards and Control,
+Hertfordshire, United Kingdom.
+(3)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, Centers 
+for Disease Control and Prevention, Atlanta, Georgia.
+(4)World Health Organization EUROPE, Regional Polio Laboratory Network,
+Copenhagen, Denmark.
+(5)Ministry of Health, Jerusalem, Israel.
+
+Comment in
+    Clin Infect Dis. 2015 Apr 1;60(7):1065-7.
+
+BACKGROUND: Israel has >95% polio vaccine coverage with the last 9 birth cohorts 
+immunized exclusively with inactivated polio vaccine (IPV). Using acute flaccid
+paralysis and routine, monthly countrywide environmental surveillance, no wild
+poliovirus circulation was detected between 1989 and February 2013, after which
+wild type 1 polioviruses South Asia genotype (WPV1-SOAS) have persistently
+circulated in southern Israel and intermittently in other areas without any
+paralytic cases as determined by intensified surveillance of environmental and
+human samples. We aimed to characterize antigenic and neurovirulence properties
+of WPV1-SOAS silently circulating in a highly vaccinated population.
+METHODS: WPV1-SOAS capsid genes from environmental and stool surveillance
+isolates were sequenced, their neurovirulence was determined using transgenic
+mouse expressing the human poliovirus receptor (Tg21-PVR) mice, and their
+antigenicity was characterized by in vitro neutralization using human sera,
+epitope-specific monoclonal murine anti-oral poliovirus vaccine (OPV) antibodies,
+and sera from IPV-immunized rats and mice.
+RESULTS: WPV1 amino acid sequences in neutralizing epitopes varied from Sabin 1
+and Mahoney, with little variation among WPV1 isolates. Neutralization by
+monoclonal antibodies against 3 of 4 OPV epitopes was lost. Three-fold lower
+geometric mean titers (Z = -4.018; P < .001, Wilcoxon signed-rank test) against
+WPV1 than against Mahoney in human serum correlated with 4- to 6-fold lower
+neutralization titers in serum from IPV-immunized rats and mice. WPV1-SOAS
+isolates were neurovirulent (50% intramuscular paralytic dose in Tg21-PVR mice:
+log10(7.0)). IPV-immunized mice were protected against WPV1-induced paralysis.
+CONCLUSIONS: Phenotypic and antigenic profile changes of WPV1-SOAS may have
+contributed to the intense silent transmission, whereas the reduced
+neurovirulence may have contributed to the absence of paralytic cases in the
+background of high population immunity.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/cid/ciu1136 
+PMID: 25550350  [Indexed for MEDLINE]
+
+
+25. J Clin Virol. 2015 Jan;62:80-3. doi: 10.1016/j.jcv.2014.11.027. Epub 2014 Nov 29.
+
+Circulating vaccine-derived polioviruses in the Extreme North region of Cameroon.
+
+Endegue-Zanga MC(1), Sadeuh-Mba SA(1), Iber J(2), Burns C(2), Nimpa-Mengouo M(3),
+Demanou M(1), Vernet G(1), Etoa FX(4), Njouom R(5).
+
+Author information: 
+(1)Centre Pasteur of Cameroon, P.O. Box 1274, Yaoundé, Cameroon.
+(2)Division of Viral and Rickettsial Diseases, Centers for Disease Control and
+Prevention, Atlanta, GA, USA.
+(3)WHO Cameroon Country Office, P.O. Box 155, Yaoundé, Cameroon.
+(4)The University of Yaoundé I, P.O. Box 337, Yaoundé, Cameroon.
+(5)Centre Pasteur of Cameroon, P.O. Box 1274, Yaoundé, Cameroon. Electronic
+address: njouom@pasteur-yaounde.org.
+
+BACKGROUND: The World Health Organization (WHO) poliovirus eradication program
+includes careful surveillance of acute-flaccid paralysis (AFP) and mass and
+routine immunization with oral polio vaccine (OPV). In populations with low
+vaccine coverage, the live-attenuated Sabin strains, OPV types 1, 2 and 3, can
+evolve into virulent vaccine-derived polioviruses (VDPVs) and circulate in the
+community. Until recently, circulating VDPVs (cVDPVs) had not been reported in
+Cameroon despite the fact that VDPV2 outbreaks have occurred in nearby countries.
+OBJECTIVES: This study aimed to characterize virus isolates from four AFP
+patients infected with cVDPV2 in the Extreme North region of Cameroon in 2013.
+STUDY DESIGN: The complete VP1 region of the four VDPV strains was sequenced and 
+the relationships with cVDPVs from neighboring countries were investigated.
+RESULTS: All four patients were infected by cVDPV2 strains showing 1.2-2.0%
+nucleotide difference compared to the reference Sabin 2 VP1 sequence.
+Phylogenetic analysis indicated that the VDPV strains were genetically linked to 
+cVDPV2 lineages of the recent Chad cVDPV2 outbreak.
+CONCLUSIONS: The circulation of pathogenic VDPVs suggests that there are
+localized immunization gaps in some districts like Makary, Mada and Kolofata in
+Cameroon. To avoid poliomyelitis outbreaks in Cameroon, especially in the
+districts close to neighboring countries with ongoing cVDPV outbreaks, high polio
+vaccine coverage is essential.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2014.11.027 
+PMID: 25542478  [Indexed for MEDLINE]
+
+
+26. J Matern Fetal Neonatal Med. 2015;28(17):2096-9. doi:
+10.3109/14767058.2014.979147. Epub 2014 Nov 14.
+
+Circulating type 1 vaccine-derived poliovirus may evolve under the pressure of
+adenosine deaminases acting on RNA.
+
+Liu Y(1), Ma T(1), Liu J(1), Zhao X(1), Cheng Z(1), Guo H(1), Xu R(1), Wang S(1).
+
+Author information: 
+(1)a College of Veterinary Medicine, Research Center for Animal Disease Control
+Engineering Shandong Province , Shandong Agricultural University , Tai`an ,
+China.
+
+Poliovirus, the causative agent of poliomyelitis, is a human enterovirus and
+member of the Picornaviridae family. An effective live-attenuated poliovirus
+vaccine strain (Sabin 1) has been developed and has protected humans from polio. 
+However, a few cases of vaccine virulence reversion have been documented in
+several countries. For instance, circulating type 1 vaccine-derived poliovirus is
+a highly pathogenic poliovirus that evolved from an avirulent strain, but the
+mechanism by which vaccine strains undergo reversion remains unclear. In this
+study, vaccine strains exhibited A to G/U to C and G to A/C to U hypermutations
+in the reversed evolution of Sabin 1. Furthermore, the mutation ratios of U to C 
+and C to U were higher than those of other mutation types. Dinucleotide editing
+context was then analyzed. Results showed that A to G and U to C mutations
+exhibited preferences similar to adenosine deaminases acting on RNA (ADAR).
+Hence, ADARs may participate in poliovirus vaccine evolution.
+
+DOI: 10.3109/14767058.2014.979147 
+PMID: 25330844  [Indexed for MEDLINE]
+
+
+27. J Infect Dis. 2014 Nov 1;210 Suppl 1:S353-60. doi: 10.1093/infdis/jiu069.
+
+Outbreak of type 1 wild poliovirus infection in adults, Namibia, 2006.
+
+Yusuf N(1), de Wee R(2), Foster N(2), Watkins MA(3), Tiruneh D(4), Chauvin C(5), 
+Bossarte R(3), Mandlhate C(4), Jack A(1), Gumede N(6), Mawela A(6), Burns CC(7), 
+Pallansch MA(7), Allies T(2), Rainey J(3), Mataruse N(1), Nshimirimana D(8).
+
+Author information: 
+(1)World Health Organization (WHO) Intercountry Program Office, Harare, Zimbabwe.
+(2)Ministry of Health and Social Services.
+(3)Global Immunization Division, Center for Global Health.
+(4)WHO Country Office, Windhoek, Namibia.
+(5)WHO Headquarters, Geneva, Switzerland.
+(6)National Institute for Communicable Disease, National Health Laboratory
+Service, Johannesburg, South Africa.
+(7)Division of Viral Diseases, National Center for Immunization and Respiratory
+Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia.
+(8)WHO Regional Office for Africa, Brazzaville, Republic of Congo.
+
+A paralytic poliomyelitis outbreak occurred in Namibia in 2006, almost
+exclusively among adults. Nineteen cases were virologically confirmed as due to
+wild poliovirus type 1 (WPV1), and 26 were classified as polio compatible. Eleven
+deaths occurred among confirmed and compatible cases (24%). Of the confirmed
+cases, 97% were aged 15-45 years, 89% were male, and 71% lived in settlement
+areas in Windhoek. The virus was genetically related to a virus detected in 2005 
+in Angola, which had been imported earlier from India. The outbreak is likely due
+to immunity gaps among adults who were inadequately vaccinated during childhood. 
+This outbreak underscores the ongoing risks posed by poliovirus importations, the
+importance of maintaining strong acute flaccid paralysis surveillance even in
+adults, and the need to maintain high population immunity to avoid polio
+outbreaks in the preeradication period and outbreaks due to vaccine-derived
+polioviruses in the posteradication era.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiu069 
+PMID: 25316855  [Indexed for MEDLINE]
+
+
+28. J Infect Dis. 2014 Nov 1;210 Suppl 1:S324-32. doi: 10.1093/infdis/jiu160.
+
+Detection of multiple cocirculating wild poliovirus type 1 lineages through
+environmental surveillance: impact and progress during 2011-2013 in Pakistan.
+
+Alam MM(1), Shaukat S(1), Sharif S(1), Angez M(1), Khurshid A(1), Malik F(1),
+Rehman L(1), Zaidi SS(1).
+
+Author information: 
+(1)WHO Regional Reference Laboratory for Polio Eradication Initiative, Department
+of Virology, National Institute of Health, Chak Shahzad, Islamabad, Pakistan.
+
+BACKGROUND: The environmental surveillance has proven to be a useful tool to
+identify poliovirus circulation in different countries and was started in
+Pakistan during July 2009 to support the acute flaccid paralysis (AFP)
+surveillance system.
+METHODS: Sewage samples were collected from 27 environmental sampling (ENV) sites
+and processed for poliovirus isolation through 2-phase separation method.
+Poliovirus isolates were identified as Sabin-like or wild type through real-time 
+polymerase chain reaction (PCR). Wild-type strains were subjected to VP1 gene
+sequencing and phylogenetic analysis performed using MEGA 5.0.
+RESULTS: During 2011-2013, a total of 668 samples were collected from 4 provinces
+that resulted in 40% of samples positive for wild poliovirus type-1 (WPV-1). None
+of the samples were positive for WPV-3. The areas with high frequency of WPV-1
+detection were Karachi-Gadap (69%), Peshawar (82%), and Rawalpindi (65%), whereas
+the samples from Quetta and Sukkur remained negative for WPV during 2013.
+Phylogenetic analysis revealed 3 major clusters with multiple poliovirus lineages
+circulating across different country areas as well as in bordering areas of
+Afghanistan.
+CONCLUSIONS: Environmental surveillance in Pakistan has been proven to be a
+powerful tool to detect WPV circulation in the absence of poliomyelitis cases in 
+many communities. Our findings emphasize the need to continue and expand such
+surveillance activities to other high-risk areas in the country.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America. All rights reserved. For Permissions,
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jiu160 
+PMID: 25316851  [Indexed for MEDLINE]
+
+
+29. J Infect Dis. 2014 Nov 1;210 Suppl 1:S315-23. doi: 10.1093/infdis/jiu183.
+
+Detection of vaccine-derived polioviruses in Mexico using environmental
+surveillance.
+
+Esteves-Jaramillo A(1), Estívariz CF(2), Peñaranda S(3), Richardson VL(1), Reyna 
+J(1), Coronel DL(1), Carrión V(4), Landaverde JM(4), Wassilak SG(2),
+Pérez-Sánchez EE(5), López-Martínez I(5), Burns CC(3), Pallansch MA(3).
+
+Author information: 
+(1)Centro Nacional para la Salud de la Infancia y Adolescencia, México DF.
+(2)Global Immunization Division, Center for Global Health, Centers for Disease
+Control and Prevention.
+(3)Division of Viral Diseases, National Center for Immunization and Respiratory
+Diseases, Centers for Disease Control and Prevention, Atlanta, Georgia.
+(4)Pan American Health Organization, Washington, District of Columbia.
+(5)Instituto de Diagnóstico y Referencia Epidemiológico, México DF.
+
+BACKGROUND: Early detection and control of vaccine-derived poliovirus (VDPV)
+emergences are essential to secure the gains of polio eradication.
+METHODS: Serial sewage samples were collected in 4 towns of Mexico before,
+throughout, and after the May 2010 oral poliovirus vaccine (OPV) mass
+immunization campaign. Isolation and molecular analysis of polioviruses from
+sewage specimens monitored the duration of vaccine-related strains in the
+environment and emergence of vaccine-derived polioviruses in a population
+partially immunized with inactivated poliovirus vaccine (IPV).
+RESULTS: Sabin strains were identified up to 5-8 weeks after the campaign in all 
+towns; in Aguascalientes, 1 Sabin 3 was isolated 16 weeks after the campaign,
+following 7 weeks with no Sabin strains detected. In Tuxtla Gutiérrez, type 2
+VDPV was isolated from 4 samples collected before and during the campaign, and
+type 1 VDPV from 1 sample collected 19 weeks afterward. During 2009-2010,
+coverage in 4 OPV campaigns conducted averaged only 57% and surveillance for
+acute flaccid paralysis (AFP) was suboptimal (AFP rate<1 per 100,000
+population<15 years of age) in Tuxtla Gutierrez.
+CONCLUSIONS: VDPVs may emerge and spread in settings with inadequate coverage
+with IPV/OPV vaccination. Environmental surveillance can facilitate early
+detection in these settings.
+
+Published by Oxford University Press on behalf of the Infectious Diseases Society
+of America 2014. This work is written by (a) US Government employee(s) and is in 
+the public domain in the US.
+
+DOI: 10.1093/infdis/jiu183 
+PMID: 25316850  [Indexed for MEDLINE]
+
+
+30. J Infect Dis. 2014 Nov 1;210 Suppl 1:S283-93. doi: 10.1093/infdis/jiu295.
+
+Vaccine-derived polioviruses.
+
+Burns CC(1), Diop OM(2), Sutter RW(2), Kew OM(1).
+
+Author information: 
+(1)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, Georgia.
+(2)World Health Organization, Geneva, Switzerland.
+
+The attenuated oral poliovirus vaccine (OPV) has many properties favoring its use
+in polio eradication: ease of administration, efficient induction of intestinal
+immunity, induction of durable humoral immunity, and low cost. Despite these
+advantages, OPV has the disadvantage of genetic instability, resulting in rare
+and sporadic cases of vaccine-associated paralytic poliomyelitis (VAPP) and the
+emergence of genetically divergent vaccine-derived polioviruses (VDPVs). Whereas 
+VAPP is an adverse event following exposure to OPV, VDPVs are polioviruses whose 
+genetic properties indicate prolonged replication or transmission. Three
+categories of VDPVs are recognized: (1) circulating VDPVs (cVDPVs) from outbreaks
+in settings of low OPV coverage, (2) immunodeficiency-associated VDPVs (iVDPVs)
+from individuals with primary immunodeficiencies, and (3) ambiguous VDPVs
+(aVDPVs), which cannot be definitively assigned to either of the first 2
+categories. Because most VDPVs are type 2, the World Health Organization's plans 
+call for coordinated worldwide replacement of trivalent OPV with bivalent OPV
+containing poliovirus types 1 and 3.
+
+Published by Oxford University Press on behalf of the Infectious Diseases Society
+of America 2014. This work is written by (a) US Government employee(s) and is in 
+the public domain in the US.
+
+DOI: 10.1093/infdis/jiu295 
+PMID: 25316847  [Indexed for MEDLINE]
+
+
+31. J Med Microbiol. 2014 Dec;63(Pt 12):1724-31. doi: 10.1099/jmm.0.081992-0. Epub
+2014 Sep 26.
+
+Bioinformatics analysis and genetic diversity of the poliovirus.
+
+Liu Y(1), Ma T(1), Liu J(2), Zhao X(1), Cheng Z(1), Guo H(1), Wang S(1), Xu R(1).
+
+Author information: 
+(1)College of Veterinary Medicine, Research Center for Animal Disease Control
+Engineering Shandong Province, Shandong Agricultural University, Tai'an 271018,
+PR China.
+(2)College of Veterinary Medicine, Research Center for Animal Disease Control
+Engineering Shandong Province, Shandong Agricultural University, Tai'an 271018,
+PR China Liujz@sdau.edu.cn vetliujz@163.com.
+
+Poliomyelitis, a disease which can manifest as muscle paralysis, is caused by the
+poliovirus, which is a human enterovirus and member of the family Picornaviridae 
+that usually transmits by the faecal-oral route. The viruses of the OPV (oral
+poliovirus attenuated-live vaccine) strains can mutate in the human intestine
+during replication and some of these mutations can lead to the recovery of
+serious neurovirulence. Informatics research of the poliovirus genome can be used
+to explain further the characteristics of this virus. In this study, sequences
+from 100 poliovirus isolates were acquired from GenBank. To determine the
+evolutionary relationship between the strains, we compared and analysed the
+sequences of the complete poliovirus genome and the VP1 region. The reconstructed
+phylogenetic trees for the complete sequences and the VP1 sequences were both
+divided into two branches, indicating that the genetic relationships of the whole
+poliovirus genome and the VP1 sequences are very similar. This branching
+indicates that the virulence and pathogenicity of poliomyelitis may be associated
+with the VP1 region. Sequence alignment of the VP1 region revealed numerous
+mutation sites in which mutation rates of >30 % were detected. In a group of
+strains recorded in the USA, mutation sites and mutation types were the same and 
+this may be associated with their distribution in the evolutionary tree and their
+genetic relationship. In conclusion, the genetic evolutionary relationships of
+poliovirus isolate sequences are determined to a great extent by the VP1 protein,
+and poliovirus strains located on the same branch of the phylogenetic tree
+contain the same mutation spots and mutation types. Hence, the genetic
+characteristics of the VP1 region in the poliovirus genome should be analysed to 
+identify the transmission route of poliovirus and provide the basis of viral
+immunity development.
+
+© 2014 The Authors.
+
+DOI: 10.1099/jmm.0.081992-0 
+PMID: 25261065  [Indexed for MEDLINE]
+
+
+32. PLoS One. 2014 Sep 17;9(9):e107697. doi: 10.1371/journal.pone.0107697.
+eCollection 2014.
+
+Molecular characterization and phylogenetic relationship of wild type 1
+poliovirus strains circulating across Pakistan and Afghanistan bordering areas
+during 2010-2012.
+
+Shaukat S(1), Angez M(1), Alam MM(1), Sharif S(1), Khurshid A(1), Malik F(1),
+Rehman L(1), Zaidi SS(1).
+
+Author information: 
+(1)Department of Virology, National Institute of Health, Chak Shahzad, Islamabad,
+Pakistan.
+
+Pakistan and Afghanistan share a long uncontrolled border with extensive
+population movement on both sides. Wild poliovirus transmission has never been
+interrupted in this block due to war against terrorism, poor public health
+infrastructure, misconceptions about polio vaccines and inadequate immunization
+activities. All these issues complicate the eradication operations and reinforce 
+the complexity of wiping out poliomyelitis from this region. This study
+illustrates the origins and routes of cross-border wild poliovirus type 1 (WPV1) 
+transmission during 2010-2012 between Pakistan and Afghanistan. Sequence analyses
+were conducted based on complete VP1 capsid protein sequences for WPV1 study
+strains to determine the origin of poliovirus genetic lineages and their
+evolutionary relationships. Phylogenetic tree was constructed from VP1 gene
+sequences applying Maximum Likelihood method using Kimura 2- parameter model in
+MEGA program v 5.0. A total of 72 (14.3%) out of 502 wild-type 1 polioviruses
+were found circulating in border areas of both countries during 2010-2012.
+Molecular phylogenetic analysis classified these strains in to two sub-genotypes 
+with four clusters and 18 lineages. Genetic data confirmed that the most of WPV1 
+lineages (12; 66.6%) were transmitted from Pakistan to Afghanistan. However, the 
+genetic diversity was significantly reduced during 2012 as most of the lineages
+were completely eliminated. In conclusion, Pakistan-Afghanistan block has emerged
+as a single poliovirus reservoir sharing the multiple poliovirus lineages due to 
+uncontrolled movement of people across the borders between two countries. If it
+is neglected, it can jeopardize the extensive global efforts done so-far to
+eradicate the poliovirus infection. Our data will be helpful to devise the
+preventive strategies for effective control of wild poliovirus transmission in
+this region.
+
+DOI: 10.1371/journal.pone.0107697 
+PMCID: PMC4168008
+PMID: 25229826  [Indexed for MEDLINE]
+
+
+33. J Virol. 2014 Oct;88(20):11955-64. doi: 10.1128/JVI.01809-14. Epub 2014 Aug 6.
+
+Effect of formaldehyde inactivation on poliovirus.
+
+Wilton T(1), Dunn G(2), Eastwood D(3), Minor PD(2), Martin J(2).
+
+Author information: 
+(1)Division of Virology, National Institute for Biological Standards and Control,
+Potters Bar, Hertfordshire, United Kingdom thomas.wilton@nibsc.org.
+(2)Division of Virology, National Institute for Biological Standards and Control,
+Potters Bar, Hertfordshire, United Kingdom.
+(3)Division of Biotherapeutics, National Institute for Biological Standards and
+Control, Potters Bar, Hertfordshire, United Kingdom.
+
+Erratum in
+    J Virol. 2014 Dec;88(23):13928.
+
+Inactivated polio vaccines, which have been used in many countries for more than 
+50 years, are produced by treating live poliovirus (PV) with formaldehyde.
+However, the molecular mechanisms underlying virus inactivation are not well
+understood. Infection by PV is initiated by virus binding to specific cell
+receptors, which results in viral particles undergoing sequential conformational 
+changes that generate altered structural forms (135S and 80S particles) and leads
+to virus cell entry. We have analyzed the ability of inactivated PV to bind to
+the human poliovirus receptor (hPVR) using various techniques such as
+ultracentrifugation, fluorescence-activated cell sorting flow cytometry and
+real-time reverse transcription-PCR (RT-PCR). The results showed that although
+retaining the ability to bind to hPVR, inactivated PV bound less efficiently in
+comparison to live PV. We also found that inactivated PV showed resistance to
+structural conversion in vitro, as judged by measuring changes in antigenicity,
+the ability to bind to hPVR, and viral RNA release at high temperature.
+Furthermore, viral RNA from inactivated PV was shown to be modified, since cDNA
+yields obtained by RT-PCR amplification were severely reduced and no infectious
+virus was recovered after RNA transfection into susceptible cells. Importance:
+This study represents a novel insight into the molecular mechanisms responsible
+for poliovirus inactivation. We show that inactivation with formaldehyde has an
+effect on early steps of viral replication as it reduces the ability of PV to
+bind to hPVR, decreases the sensitivity of PV to convert to 135S particles, and
+abolishes the infectivity of its viral RNA. These changes are likely responsible 
+for the loss of infectivity shown by PV following inactivation. Techniques used
+in this study represent new approaches for the characterization of inactivated PV
+products and could be useful in developing improved methods for the production
+and quality control testing of inactivated polio vaccines. Measuring the
+antigenicity, capsid stability, and RNA integrity of inactivated PV samples could
+help establishing the optimal balance between the loss of infectivity and the
+preservation of virus antigenicity during inactivation.
+
+Copyright © 2014, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.01809-14 
+PMCID: PMC4178759
+PMID: 25100844  [Indexed for MEDLINE]
+
+
+34. J Infect Dis. 2014 Sep 15;210(6):853-64. doi: 10.1093/infdis/jiu182. Epub 2014
+Mar 31.
+
+Influence of enteric infections on response to oral poliovirus vaccine: a
+systematic review and meta-analysis.
+
+Parker EP(1), Kampmann B(2), Kang G(3), Grassly NC(1).
+
+Author information: 
+(1)Department of Infectious Disease Epidemiology.
+(2)Department of Paediatrics, St Mary's Campus, Imperial College London, United
+Kingdom MRC Unit, The Gambia, Fajara.
+(3)Division of Gastrointestinal Sciences, Christian Medical College, Vellore,
+India.
+
+BACKGROUND: The impaired immunogenicity of oral poliovirus vaccine (OPV) in
+low-income countries has been apparent since the early field trials of this
+vaccine. Infection with enteropathogens at the time of vaccination may contribute
+to this phenomenon. However, the relative influence of these infections on OPV
+performance remains uncertain.
+METHODS: We conducted a systematic review to examine the impact of concurrent
+enteric infections on OPV response. Using random-effects models, we assessed the 
+effects of nonpolio enteroviruses (NPEVs) and diarrhea on the odds of
+seroconversion and/or vaccine virus shedding.
+RESULTS: We identified 25 trials in which OPV outcomes were compared according to
+the presence or absence of enteric infections, the majority of which (n = 17)
+reported only on NPEVs. Concurrent NPEVs significantly reduced the odds of
+per-dose seroconversion for type 1 poliovirus (odds ratio [OR] 0.44, 95%
+confidence interval 0.23-0.84), but not type 2 (OR 0.53 [0.19-1.46]) or type 3
+(OR 0.56 [0.27-1.12]). A similar reduction, significant for type 1 poliovirus (OR
+0.50 [0.28-0.89]), was observed in the odds of vaccine virus shedding among
+NPEV-infected individuals. Concurrent diarrhea significantly inhibited per-dose
+seroconversion overall (OR 0.61 [0.38-0.87]).
+CONCLUSIONS: Our findings are consistent with an inhibitory effect of concurrent 
+enteric infections on OPV response.
+
+© The Author 2014. Published by Oxford University Press on behalf of the
+Infectious Diseases Society of America.
+
+DOI: 10.1093/infdis/jiu182 
+PMCID: PMC4136801
+PMID: 24688069  [Indexed for MEDLINE]
+
+
+35. Pharm Pat Anal. 2012 Nov;1(5):589-99. doi: 10.4155/ppa.12.70.
+
+Innovative IPV from attenuated Sabin poliovirus or newly designed alternative
+seed strains.
+
+Hamidi A(1), Bakker WA.
+
+Author information: 
+(1)National Institute for Public Health & the Environment (RIVM), Centre for
+Infectious Disease Control (CIb), Vaccinology unit, P.O. Box 1, 3720 BA
+Bilthoven, The Netherlands.
+
+This article gives an overview of the patent literature related to innovative
+inactivated polio vaccine (i-IPV) based on using Sabin poliovirus strains and
+newly developed alternative recombinant poliovirus strains. This innovative
+approach for IPV manufacturing is considered to attribute to the requirement for 
+affordable IPV in the post-polio-eradication era, which is on the horizon.
+Although IPV is a well-established vaccine, the number of patent applications in 
+this field was seen to have significantly increased in the past decade.
+Currently, regular IPV appears to be too expensive for universal use. Future
+affordability may be achieved by using alternative cell lines, alternative virus 
+seed strains, improved and optimized processes, dose sparing, or the use of
+adjuvants. A relatively short-term option to achieve cost-price reduction is to
+work on regular IPV, using wild-type poliovirus strains, or on Sabin-IPV, based
+on using attenuated poliovirus strains. This price reduction can be achieved by
+introducing efficiency in processing. There are also multiple opportunities to
+work on dose sparing, for example, by using adjuvants or fractional doses.
+Renewed interest in this field was clearly reflected in the number and diversity 
+of patent applications. In a later stage, several innovative approaches may
+become even more attractive, for example the use of recombinant virus strains or 
+even a totally synthetic vaccine. Currently, such work is mainly carried out by
+research institutes and universities and therefore clinical data are not
+available.
+
+DOI: 10.4155/ppa.12.70 
+PMID: 24236927  [Indexed for MEDLINE]
+
+
+36. J Virol Methods. 2014 Jan;195:148-55. doi: 10.1016/j.jviromet.2013.10.004. Epub
+2013 Oct 14.
+
+Development of real-time PCR to detect oral vaccine-like poliovirus and its
+application to environmental surveillance.
+
+Iwai-Itamochi M(1), Yoshida H, Obara-Nagoya M, Horimoto E, Kurata T, Takizawa T.
+
+Author information: 
+(1)Department of Virology, Toyama Institute of Health, 17-1 Nakataikoyama, Imizu 
+City, Toyama 939-0363, Japan.
+
+In order to perform environmental surveillance to track oral poliovirus
+vaccine-like poliovirus sensitively and conveniently, real-time PCR was developed
+and applied to a raw sewage concentrate. The real-time PCR method detected
+0.01-0.1 TCID50 of 3 serotypes of Sabin strain specifically. The method also
+detected the corresponding serotypes of oral poliovirus vaccine-like poliovirus
+specifically, but detected neither wild poliovirus, except Mahoney for type 1 and
+Saukett for type 3, nor other enteric viruses, as far as examined. When real-time
+PCR was applied to environmental surveillance, the overall agreement rates
+between real-time PCR and the cell culture were 83.3% for all serotypes. Since
+real-time PCR has the advantages of rapid detection of viruses and minimum
+requirement of sampling volume as compared with ordinary cell culture, it is
+suitable to monitor oral poliovirus vaccine-like poliovirus in the environment,
+especially in areas where an oral vaccine is being replaced by an inactivated
+vaccine.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jviromet.2013.10.004 
+PMID: 24134937  [Indexed for MEDLINE]
+
+
+37. J Med Virol. 2014 Jul;86(7):1243-8. doi: 10.1002/jmv.23803. Epub 2013 Oct 12.
+
+Genetic analysis of poliovirus strains isolated from sewage in Poland.
+
+Kuryk Ł(1), Wieczorek M, Diedrich S, Böttcher S, Witek A, Litwińska B.
+
+Author information: 
+(1)Department of Virology, National Institute of Public Health-National Institute
+of Hygiene, Warsaw, Poland.
+
+The study describes genetic characterization of poliovirus (PV) strains isolated 
+from sewage samples in Poland. The analyses were performed for the detection of
+any putative polio revertants and recombinants in three genomic regions by
+sequencing analysis. Thirty-six strains were analyzed. The analyzed strains were 
+identified by neutralization assay as 7 strains of serotype P1, 10 strains of
+serotype P2, and 19 strains of serotype P3. Sewage isolates were sequenced in
+5'UTR, VP1, and 3D genomic regions. All detected PVs were classified as vaccine
+strains on the basis of VP1 sequence. Mutational differences in the VP1 sequences
+of isolated viruses ranged from 0.0% to 0.4%, indicating a limited replication
+period. The genetic analysis of the 3D region showed that some strains have
+recombinant genomes. Nine strains were found as dipartite recombinants (seven
+strains--S3/S2, one strain--S2/S1, one strain--S3/S1), while one strain was found
+as tripartite recombinant (S3/S2/S1). No recombinants with non-PV enteroviruses
+were identified. None of wild-type PVs or vaccine-derived polioviruses (VDPVs)
+were detected. This study showed the absence of wild or VDPV circulation in the
+country and demonstrated the usefulness of environmental surveillance in addition
+to acute flaccid paralysis (AFP) surveillance in support of polio eradication
+initiatives.
+
+© 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.23803 
+PMID: 24123142  [Indexed for MEDLINE]
+
+
+38. Curr Protoc Microbiol. 2013;Chapter 15:Unit 15H.1. doi:
+10.1002/9780471729259.mc15h01s29.
+
+Poliovirus: generation, quantification, propagation, purification, and storage.
+
+Burrill CP(1), Strings VR, Andino R.
+
+Author information: 
+(1)Department of Microbiology and Immunology, University of California, San
+Francisco, California, USA.
+
+Poliovirus (PV) is the prototypical picornavirus. It is a non-enveloped RNA virus
+with a small (~7.5-kb) genome of positive polarity. It has long served as a model
+to study RNA virus biology, pathogenesis, and evolution. cDNA clones of several
+strains are available, and infectious virus can be produced by the transfection
+of in vitro transcribed viral genomes into an appropriate host cell. PV infects
+many human and non-human primate cell lines including HeLa and HeLa S3 cells, and
+can grow to high titer in culture. Protocols for the production, propagation,
+quantification, and purification of PV are presented.
+
+© 2013 by John Wiley & Sons, Inc.
+
+DOI: 10.1002/9780471729259.mc15h01s29 
+PMCID: PMC4826561
+PMID: 23686830  [Indexed for MEDLINE]
+
+
+39. Risk Anal. 2013 Apr;33(4):703-49. doi: 10.1111/risa.12044. Epub 2013 Mar 22.
+
+Characterizing poliovirus transmission and evolution: insights from modeling
+experiences with wild and vaccine-related polioviruses.
+
+Duintjer Tebbens RJ(1), Pallansch MA, Kalkowska DA, Wassilak SG, Cochi SL,
+Thompson KM.
+
+Author information: 
+(1)Kid Risk, Inc., 10524 Moss Park Rd., Ste. 204-364, Orlando, FL 32832, USA.
+rdt@kidrisk.org
+
+With national and global health policymakers facing numerous complex decisions
+related to achieving and maintaining polio eradication, we expanded our
+previously developed dynamic poliovirus transmission model using information from
+an expert literature review process and including additional immunity states and 
+the evolution of oral poliovirus vaccine (OPV). The model explicitly considers
+serotype differences and distinguishes fecal-oral and oropharyngeal transmission.
+We evaluated the model by simulating diverse historical experiences with
+polioviruses, including one country that eliminated wild poliovirus using both
+OPV and inactivated poliovirus vaccine (IPV) (USA), three importation outbreaks
+of wild poliovirus (Albania, the Netherlands, Tajikistan), one situation in which
+no circulating vaccine-derived polioviruses (cVDPVs) emerge despite annual OPV
+use and cessation (Cuba), three cVDPV outbreaks (Haiti, Madura Island in
+Indonesia, northern Nigeria), one area of current endemic circulation of all
+three serotypes (northern Nigeria), and one area with recent endemic circulation 
+and subsequent elimination of multiple serotypes (northern India). We find that
+when sufficient information about the conditions exists, the model can reproduce 
+the general behavior of poliovirus transmission and outbreaks while maintaining
+consistency in the generic model inputs. The assumption of spatially homogeneous 
+mixing remains a significant limitation that affects the performance of the
+differential equation-based model when significant heterogeneities in immunity
+and mixing may exist. Further studies on OPV virus evolution and improved
+understanding of the mechanisms of mixing and transmission may help to better
+characterize poliovirus transmission in populations. Broad application of the
+model promises to offer insights in the context of global and national policy and
+economic models.
+
+© 2013 Society for Risk Analysis.
+
+DOI: 10.1111/risa.12044 
+PMID: 23521018  [Indexed for MEDLINE]
+
+
+40. Antiviral Res. 2013 May;98(2):186-91. doi: 10.1016/j.antiviral.2013.03.003. Epub 
+2013 Mar 13.
+
+Anti-poliovirus activity of protease inhibitor AG-7404, and assessment of in
+vitro activity in combination with antiviral capsid inhibitor compounds.
+
+Rhoden E(1), Liu HM, Wang-Chern SW, Oberste MS.
+
+Author information: 
+(1)Polio and Picornavirus Laboratory Branch, Division of Viral Diseases, Centers 
+for Disease Control and Prevention, Atlanta, GA, USA. erhoden@cdc.gov
+
+Erratum in
+    Antiviral Res. 2013 Sep;99(3):436.
+
+The National Research Council has recommended that at least one, preferably two, 
+polio antiviral drugs be developed as a supplement to the tools currently
+available for control of polio outbreaks post-eradication. The primary
+application of such drugs is expected to be the resolution of chronic poliovirus 
+excretion in persons with primary immunodeficiency disorders. We have assessed
+the in vitro activity of AG-7404 (also known as "compound 1"), an inhibitor of
+picornaviral 3C protease, against a large panel of programmatically important
+poliovirus strains and its activity in combination with two poliovirus capsid
+inhibitors, V-073 and BTA798. AG-7404 was active against all viruses in this
+panel, with EC50 values ranging from 0.080 to 0.674 μM. Similarly, BTA798 was
+active against all viruses in this panel, with EC50 values ranging from 0.003 to 
+0.591μM. By comparison, values for V-073 were 0.003-0.126 μM. BTA798 was active
+against V-073-resistant variants with an alanine to valine change in VP3 at
+position 24. However, BTA798 was inactive against the V-073-resistant strains
+with amino acid substitutions at VP1 amino acids 194 (equivalent to 192 in type
+3) and 236. As expected from its different mechanism of action, AG-7404 was fully
+active against all V-073-resistant variants, with EC₅₀ values ranging from 0.218 
+to 0.819 μM, compared to values of 0.202-0.407 μM for the V-073-susceptible
+parental strains. In vitro drug combination experiments demonstrated synergy
+between AG-7404 and either V-073 or BTA798, whereas the combination of the two
+capsid inhibitors acted additively.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.antiviral.2013.03.003 
+PMID: 23499651  [Indexed for MEDLINE]
+
+
+41. J Virol Methods. 2013 Apr;189(1):7-14. doi: 10.1016/j.jviromet.2012.12.015. Epub 
+2013 Jan 7.
+
+Quantitative one-step RT-PCR assay for rapid and sensitive identification and
+titration of polioviruses in clinical specimens.
+
+Laassri M(1), Dipiazza A, Bidzhieva B, Zagorodnyaya T, Chumakov K.
+
+Author information: 
+(1)Center for Biologics Evaluation and Research, US Food and Drug Administration,
+1401 Rockville Pike, HFM 470, Rockville, MD 20852-1448, USA.
+majid.laassri@fda.hhs.gov
+
+Rapid identification and quantitation of polioviruses in clinical specimens is
+important for surveillance and analysis of virus shedding by vaccine recipients, 
+which could be used to assess the level of mucosal immunity. A quantitative one
+step RT-PCR was developed for identification and titration of all three
+poliovirus serotypes. The assay could be an alternative to the traditional
+procedure based on cell culture isolation and subsequent determination of
+poliovirus serotype and virus titration. The method is based on quantitative PCR 
+performed with reverse transcription reaction in the same tube. The multiplex
+assay that quantifies all three serotypes of poliovirus was found to be highly
+specific, sensitive, and takes only one day to complete.
+
+Published by Elsevier B.V.
+
+DOI: 10.1016/j.jviromet.2012.12.015 
+PMID: 23305817  [Indexed for MEDLINE]
+
+
+42. Annu Rev Microbiol. 2011;65:583-609. doi: 10.1146/annurev-micro-090110-102957.
+
+Synthetic poliovirus and other designer viruses: what have we learned from them?
+
+Wimmer E(1), Paul AV.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, New York 11790, USA. ewimmer@ms.cc.sunysb.edu
+
+Owing to known genome sequences, modern strategies of DNA synthesis have made it 
+possible to recreate in principle all known viruses independent of natural
+templates. We describe the first synthesis of a virus (poliovirus) in 2002 that
+was accomplished outside living cells. We comment on the reaction of laypeople
+and scientists to the work, which shaped the response to de novo syntheses of
+other viruses. We discuss those viruses that have been synthesized since 2002,
+among them viruses whose precise genome sequence had to be established by
+painstakingly stitching together pieces of sequence information, and viruses
+involved in zoonosis. Synthesizing viral genomes provides a powerful tool for
+studying gene function and the pathogenic potential of these organisms. It also
+allows modification of viral genomes to an extent hitherto unthinkable. Recoding 
+of poliovirus and influenza virus to develop new vaccine candidates and
+refactoring the phage T7 DNA genome are discussed as examples.
+
+DOI: 10.1146/annurev-micro-090110-102957 
+PMID: 21756105  [Indexed for MEDLINE]
+
+
+43. Rev Med Virol. 2010 Nov;20(6):358-71. doi: 10.1002/rmv.663.
+
+Mechanisms of genetic variation in polioviruses.
+
+Savolainen-Kopra C(1), Blomqvist S.
+
+Author information: 
+(1)National Institute for Health and Welfare (THL), Department of Infectious
+Disease Surveillance and Control, Unit of Intestinal Viruses, Helsinki, Finland. 
+carita.savolainen-kopra@thl.fi
+
+Polioviruses, as with all RNA viruses, are in a constant process of evolution
+driven by different mechanisms. With multiple mechanisms for genetic variability,
+they are successful conformists, adapting to changes in their habitat. The
+evolution of polioviruses may occur with generation of point mutations followed
+by genetic drift and selection. The mutation rate of polioviruses based on
+several studies is approximately 3 × 10(-2) mutations/synonymous site/year in the
+gene encoding viral protein 1. Genetic variation in polioviruses may also be
+increased by sharing of genetic data of two different poliovirus lineages by
+means of homologous recombination. According to the current view, recombination
+is considered usually to occur by strand-switching, but a non-replicative model
+has also been described. In recombination, polioviruses may either gain a set of 
+advantageous mutations selected and fixed in previous generations of the parental
+viruses or get rid of deleterious ones. The prerequisites and constraints of the 
+evolution mechanisms will be discussed. Furthermore, consequences of poliovirus
+evolution will be reviewed in the light of observations made on currently
+circulating polioviruses. We will also describe how polioviruses strike back: as 
+wild type polioviruses approach eradication, vaccine derived strains increase
+their occurrence and genetic variability.
+
+2010 John Wiley & Sons, Ltd.
+
+DOI: 10.1002/rmv.663 
+PMID: 20949639  [Indexed for MEDLINE]
+
+
+44. Virus Res. 2005 Aug;111(2):175-93.
+
+Poliovirus and poliomyelitis: a tale of guts, brains, and an accidental event.
+
+Mueller S(1), Wimmer E, Cello J.
+
+Author information: 
+(1)Department of Molecular Genetics and Microbiology, Stony Brook University,
+Stony Brook, NY 11794, USA.
+
+Nearly 100 years after its discovery poliovirus remains one of most thoroughly
+studied and best understood virus models for the molecular virologist. While
+poliovirus has been of vital importance for our insight into picornavirus biology
+at the cellular and biochemical level, it is ironic to note that, due to the
+early success in defeating poliomyelitis in the developed world through
+vaccination, many of the basic aspects of poliovirus pathogenesis remain poorly
+understood. This is chiefly due to the lack of an adequate and affordable animal 
+model, save of old world monkeys. Fundamental questions, such as the identity of 
+the target cells during the enteric phase of infection, or mechanisms of systemic
+spread are still unanswered. This review will attempt to summarize our current
+knowledge of the molecular biology of poliovirus, its pathogenesis, as well as
+recent advances in the areas of cell and tissue tropism and mechanisms of central
+nervous system invasion.
+
+DOI: 10.1016/j.virusres.2005.04.008 
+PMID: 15885840  [Indexed for MEDLINE]
+
+
+45. J Virol. 2003 Jun;77(11):6541-5.
+
+Excretion of wild-type and vaccine-derived poliovirus in the feces of poliovirus 
+receptor-transgenic mice.
+
+Boot HJ(1), Kasteel DT, Buisman AM, Kimman TG.
+
+Author information: 
+(1)Laboratory for Vaccine-Preventable Diseases, National Institute for Public
+Health and the Environment (RIVM), P.O. Box 1, 3720 BA Bilthoven, The
+Netherlands. Hein.Boot@RIVM.NL
+
+The emergence of circulating vaccine-derived poliovirus (cVDPV) strains in
+suboptimally vaccinated populations is a serious threat to the global poliovirus 
+eradication. The genetic determinants for the transmissibility phenotype of
+polioviruses, and in particularly of cVDPV strains, are currently unknown. Here
+we describe the fecal excretion of wild-type poliovirus, oral polio vaccine, and 
+cVDPV (Hispaniola) strains after intraperitoneal injection in poliovirus
+receptor-transgenic mice. Both the pattern and the level of fecal excretion of
+the cVDPV strains resemble those of wild-type poliovirus type 1. In contrast,
+very little poliovirus was present in the feces after oral polio vaccine
+administration. This mouse model will be helpful in elucidating the genetic
+determinants for the high fecal-oral transmission phenotype of cVDPV strains.
+
+
+PMCID: PMC155012
+PMID: 12743311  [Indexed for MEDLINE]
+
+
+46. Proc Natl Acad Sci U S A. 2000 Jan 4;97(1):79-84.
+
+Interaction of the poliovirus receptor with poliovirus.
+
+He Y(1), Bowman VD, Mueller S, Bator CM, Bella J, Peng X, Baker TS, Wimmer E,
+Kuhn RJ, Rossmann MG.
+
+Author information: 
+(1)Department of Biological Sciences, Purdue University, West Lafayette, IN
+47907-1392, USA.
+
+The structure of the extracellular, three-domain poliovirus receptor (CD155)
+complexed with poliovirus (serotype 1) has been determined to 22-A resolution by 
+means of cryo-electron microscopy and three-dimensional image-reconstruction
+techniques. Density corresponding to the receptor was isolated in a difference
+electron density map and fitted with known structures, homologous to those of the
+three individual CD155 Ig-like domains. The fit was confirmed by the location of 
+carbohydrate moieties in the CD155 glycoprotein, the conserved properties of
+elbow angles in the structures of cell surface molecules with Ig-like folds, and 
+the concordance with prior results of CD155 and poliovirus mutagenesis. CD155
+binds in the poliovirus "canyon" and has a footprint similar to that of the
+intercellular adhesion molecule-1 receptor on human rhinoviruses. However, the
+orientation of the long, slender CD155 molecule relative to the poliovirus
+surface is quite different from the orientation of intercellular adhesion
+molecule-1 on rhinoviruses. In addition, the residues that provide specificity of
+recognition differ for the two receptors. The principal feature of receptor
+binding common to these two picornaviruses is the site in the canyon at which
+binding occurs. This site may be a trigger for initiation of the subsequent
+uncoating step required for viral infection.
+
+
+PMCID: PMC26619
+PMID: 10618374  [Indexed for MEDLINE]
+
+
+47. Biologicals. 1993 Dec;21(4):379-84.
+
+Evolution and polymorphism of poliovirus genomes.
+
+Crainic R(1), Kew O.
+
+Author information: 
+(1)Institut Pasteur, Paris, France.
+
+The three poliovirus serotypes are very stable. Breakthrough of the serotype
+barrier has never been observed in the natural evolution of poliovirus. This
+serotype stability contrasts with the high level of genomic and phenotypic
+variability that occurs within the bounds of serotype. The efficient control of
+poliomyelitis by immunization is based upon type-specific immunity and serotype
+stability. The development of attenuated strains by Albert Sabin was possible
+because of the high variability of poliovirus genomes. The three Sabin strains,
+one for each serotype, were selected as variants of non-attenuated wild
+polioviruses, and each represents a unique poliovirus genotype. A consequence of 
+poliovirus variability is the polymorphic character of its genome. This
+polymorphism makes possible the identification of poliovirus genotypes upon which
+studies on poliovirus evolution, virologic surveillance, and poliomyelitis
+diagnostics are based. The antigenic and genomic peculiarities of the Sabin
+strains are used to distinguish them from wild polioviruses among field isolates.
+The mechanisms of poliovirus variation and their significance to the evolution of
+both wild and vaccine poliovirus strains are the subjects of this article. The
+natural evolution of polioviruses is discussed in the context of the global
+initiative to eradicate poliomyelitis, which relies on the worldwide use of
+Sabin's vaccine.
+
+DOI: 10.1006/biol.1993.1099 
+PMID: 8024754  [Indexed for MEDLINE]
+
+
+48. Biologicals. 1993 Dec;21(4):305-9.
+
+The discovery of the enteroviruses and the classification of poliovirus among
+them.
+
+Melnick JL(1).
+
+Author information: 
+(1)Division of Molecular Virology, Baylor College of Medicine, Houston, Texas.
+
+The history of the enteroviruses is described, and how poliovirus came to be
+recognized as the prototype species of the genus, a subdivision of the family
+Picornaviridae. Albert Sabin was one of the main contributors. He isolated
+several enterovirus types and established them as causative agents of human
+disease. The enteroviruses were discovered only after new methods were introduced
+for working with viruses. They are now recognized as constituting one of the
+genera of the picornavirus family. Pico-rna-virus stands for viruses which are
+small (pico), and have an RNA genome. The enterovirus genus includes the
+polioviruses, the coxsackieviruses and the echoviruses of humans, plus a number
+of enteroviruses of lower animals (e.g., monkeys, cattle, pigs, mice). Over 100
+serotypes are now recognized, the first having been the polioviruses.
+
+DOI: 10.1006/biol.1993.1088 
+PMID: 8024744  [Indexed for MEDLINE]
+
+
+49. Bioessays. 1989 Nov;11(5):128-32.
+
+Poliovirus translation: a paradigm for a novel initiation mechanism.
+
+Sonenberg N, Pelletier J.
+
+All eukaryotic cellular mRNAs, and most viral mRNAs, are blocked at their 5' ends
+with a cap structure (m7GpppX, where X is any nucleotide). Poliovirus, along with
+a small number of other animal and plant viral mRNAs, does not contain a 5' cap
+structure. Since the cap structure functions to facilitate ribosome binding to
+mRNA, translation of polio-virus must proceed by a cap-independent mechanism.
+Consistent with this, recent studies have shown that ribosomes can bind to an
+internal region within the long 5' noncoding sequence of poliovirus RNA. Possible
+mechanisms for cap-independent translation are discussed. Cap-independent
+translation of poliovirus RNA is of major importance to the mechanism of shut-off
+of host protein synthesis after infection. Moreover, it is likely to play a role 
+in determining poliovirus neurovirulence and attenuation.
+
+DOI: 10.1002/bies.950110504 
+PMID: 2556117  [Indexed for MEDLINE]
+
+
+50. J Virol Methods. 1987 Oct;18(1):25-36.
+
+Intratypic differentiation of poliovirus strains by enzyme-linked immunosorbent
+assay (ELISA): poliovirus type 2 and poliovirus type 3.
+
+Glikmann G(1), Pedersen M, Petersen I.
+
+Author information: 
+(1)Ornithosis Department, Statens Seruminstitut, Copenhagen, Denmark.
+
+A double-antibody sandwich ELISA was developed for the detection of antigenic
+differences between wild and vaccine-derived strains of poliovirus type 2 and
+poliovirus type 3. Antibodies were prepared in rabbits by immunization with
+purified antigens of vaccine strains (type 2: Sabin P712, and type 3: Sabin Leon)
+and wild type strains (type 2: MEF, and type 3: Pool 30). Immunoblotting analysis
+of all antisera demonstrated that the IgG antibodies raised in rabbits have
+specificity towards the main structural proteins (Vp1, Vp2 and Vp3) of
+poliovirus. IgG fractions were purified from antisera by affinity chromatography,
+on a protein A-activated Sepharose 4B column. Purified IgG antibodies were used
+for coating of microtest plates (catching antibodies). The same reagents labelled
+with horseradish peroxidase were used as conjugates, after cross-adsorption with 
+antigens of the same type heterologous virus strains (strain-specific
+conjugates). 29 poliovirus type 2 strains and 73 poliovirus type 3 strains
+isolated from clinical samples, were differentiated intratypically, as
+vaccine-derived or wild types, no intermediate strains were found and all samples
+tested fell in two distinct (vaccine/wild) categories. As little as 40 ng of
+poliovirus antigens was detected in stool samples from healthy children or from
+polio patients cultivated in monkey kidney tissue cultures. Preparation of strain
+specific conjugates did not require large amounts of poliovirus antigens. The
+developed ELISA, which is economic and capable of (1) detection of low amounts of
+poliovirus antigens in cultivated clinical samples, and (2) intratypic
+differentiation of poliovirus antigens as either vaccine-derived or wild type, is
+therefore well suited for large scale screening of poliovirus isolates.
+
+
+PMID: 2826518  [Indexed for MEDLINE]
+

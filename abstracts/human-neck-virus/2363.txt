@@ -1,0 +1,41 @@
+
+
+2363. J Med Case Rep. 2017 May 13;11(1):134. doi: 10.1186/s13256-017-1297-0.
+
+Early neurosyphilis presenting with facial palsy and an oral ulcer in a patient
+who is human immunodeficiency virus positive: a case report.
+
+Njiru E(1), Abdulkadir J(1), Kamuren Z(2), Kigen G(3).
+
+Author information: 
+(1)Department of Internal Medicine, Moi University School of Medicine, P.O. Box
+4606, 30100, Eldoret, Kenya.
+(2)Department of Pharmacology and Toxicology, Moi University School of Medicine, 
+P.O. Box 4606, 30100, Eldoret, Kenya.
+(3)Department of Pharmacology and Toxicology, Moi University School of Medicine, 
+P.O. Box 4606, 30100, Eldoret, Kenya. kigengfk@gmail.com.
+
+BACKGROUND: Neurosyphilis is the tertiary stage of Treponema pallidum infection
+that involves the central nervous system, which occurs within days or weeks after
+an initial syphilis infection, especially in immunocompromised patients. The
+diagnosis of neurosyphilis is quite challenging as it is uncommon and often
+presents with obscure symptoms since any organ system may be involved.
+CASE PRESENTATION: We describe a case of a 40-year-old African man who is human
+immunodeficiency virus positive with early neurosyphilis who presented with a
+stiff neck, headache, confusion, restlessness, and a left-sided chest pain; he
+did not respond to an empiric treatment of ceftriaxone and fluconazole for
+meningitis, and tramadol for headache. Ten days after admission, he developed
+generalized tonic-clonic convulsions; on examination he had ipsilateral facial
+nerve palsy and an oral ulcer, and responded well to benzathine penicillin
+treatment.
+CONCLUSIONS: Laboratory diagnosis of neurosyphilis is challenging because to date
+there is no single laboratory test which is considered sensitive enough for
+diagnosis of the disease, especially in resource-limited settings. Clinical
+judgment is still an important part of diagnosis; and neurosyphilis should be
+considered a diagnostic differential in patients with Human Immunodeficiency
+Virus presenting with central nervous system involvement and in other high-risk
+patients.
+
+DOI: 10.1186/s13256-017-1297-0 
+PMCID: PMC5429523
+PMID: 28499407  [Indexed for MEDLINE]

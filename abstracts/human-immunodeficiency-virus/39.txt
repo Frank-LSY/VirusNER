@@ -1,0 +1,47 @@
+
+
+39. J Med Virol. 2017 Feb;89(2):257-266. doi: 10.1002/jmv.24641. Epub 2016 Aug 9.
+
+Molecular epidemiology of co-infection with hepatitis B virus and human
+immunodeficiency virus (HIV) among adult patients in Harare, Zimbabwe.
+
+Baudi I(1), Iijima S(1), Chin'ombe N(2), Mtapuri-Zinyowera S(3), Murakami S(1),
+Isogawa M(1), Hachiya A(4), Iwatani Y(4), Tanaka Y(1).
+
+Author information: 
+(1)Department of Virology and Liver Unit, Nagoya City University Graduate School 
+of Medical Sciences, Nagoya, Japan.
+(2)Department of Medical Microbiology, College of Health Sciences, University of 
+Zimbabwe, Harare, Zimbabwe.
+(3)National Microbiology Reference Laboratory, Ministry of Health and Child
+Welfare, Harare, Zimbabwe.
+(4)National Hospital Organization Nagoya Medical Center, Nagoya, Japan.
+
+The objective of this study was to determine the prevalence of co-infection with 
+hepatitis B virus (HBV) and human immunodeficiency virus (HIV) and the genetic
+characteristics of both viruses among pre-HIV-treatment patients in Harare,
+Zimbabwe. This cross-sectional survey involved 176 remnant plasma samples
+collected from consenting HIV patients (median age 35 [18-74]) between June and
+September 2014. HBV seromarkers were determined by high-sensitivity
+chemiluminescence assays. Molecular evolutionary analyses were conducted on the
+basal core promoter/precore (BCP/PC) and S regions of HBV, as well as part of the
+HIV pol region. Of the 176 participants (65.7% female), 19 (10.8%) were positive 
+for HBsAg (median 0.033 IU/ml (IQR 0.01-415). The HBsAg incidence was higher in
+men than women (P = 0.009). HBsAg-positive subjects had lower median CD4 counts
+(P = 0.016). HBV DNA was detectable in 12 HBsAg-positive samples (median 3.36 log
+cp/ml (2.86-4.51), seven being amplified and sequenced. All isolates were
+subgenotype A1 without HBV drug resistance mutations but each had at least one
+BCP/PC mutation. PreS deletion mutants and small S antigen variants M133I/T and
+D144G were identified. Of the 164 HIV isolates successfully genotyped, 163
+(99.4%) were HIV-1 subtype C and only one was HIV-1 subtype F1. Sixteen (9.8%)
+had at least one drug resistance mutation, predominantly non-nucleoside reverse
+transcriptase inhibitor-related mutations, observed mostly among female
+participants. This study shows that co-infection with HBV is present among HIV
+patients enrolling into HIV care in Zimbabwe, suggesting that HBV screening and
+monitoring programmes be strengthened in this context. J. Med. Virol. 89:257-266,
+2017. © 2016 Wiley Periodicals, Inc.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jmv.24641 
+PMID: 27458715  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+1887. J Clin Oncol. 2009 Apr 20;27(12):1992-8. doi: 10.1200/JCO.2008.20.2853. Epub 2009
+Mar 16.
+
+Effect of HPV-associated p16INK4A expression on response to radiotherapy and
+survival in squamous cell carcinoma of the head and neck.
+
+Lassen P(1), Eriksen JG, Hamilton-Dutoit S, Tramm T, Alsner J, Overgaard J.
+
+Author information: 
+(1)Department of Experimental Clinical Oncology, Aarhus University Hospital,
+Noerrebrogade 44, DK-8000 Aarhus C, Denmark. pernille@oncology.dk
+
+PURPOSE: A subset of head and neck cancers is associated with the human
+papillomavirus (HPV). Viral infection is closely correlated with expression of
+p16(INK4A) in these tumors. We evaluated p16(INK4A) as a prognostic marker of
+treatment response and survival in a well-defined and prospectively collected
+cohort of patients treated solely with conventional radiotherapy in the Danish
+Head and Neck Cancer Group (DAHANCA) 5 trial.
+PATIENTS AND METHODS: Immunohistochemical expression of p16(INK4A) was analyzed
+in pretreatment paraffin-embedded tumor blocks from 156 patients treated with
+conventional primary radiotherapy alone. The influence of p16(INK4A) status on
+locoregional tumor control, disease-specific survival, and overall survival after
+radiotherapy was evaluated.
+RESULTS: p16(INK4A) positivity was found in 35 tumors (22%). Tumor-positivity for
+p16(INK4A) was significantly correlated with improved locoregional tumor control 
+(5-year actuarial values 58% v 28%; P = .0005), improved disease-specific
+survival (72% v 34%; P = .0006), and improved overall survival (62% v 26%; P =
+.0003). In multivariate analysis, p16(INK4A) remained a strong independent
+prognostic factor for locoregional failure (hazard ratio [HR], 0.35; 95% CI, 0.19
+to 0.64), disease-specific death (HR, 0.36; 95% CI, 0.20 to 0.64), and overall
+death (HR, 0.44; 95% CI, 0.28 to 0.68).
+CONCLUSION: Expression of p16(INK4A) has a major impact on treatment response and
+survival in patients with head and neck cancer treated with conventional
+radiotherapy.
+
+DOI: 10.1200/JCO.2008.20.2853 
+PMID: 19289615  [Indexed for MEDLINE]

@@ -1,0 +1,66 @@
+
+
+1513. Chin J Cancer. 2016 Aug 15;35(1):78. doi: 10.1186/s40880-016-0130-2.
+
+Subtype distribution and long-term titer fluctuation patterns of serum
+anti-Epstein-Barr virus antibodies in a non-nasopharyngeal carcinoma population
+from an endemic area in South China: a cohort study.
+
+Du JL(1)(2)(3)(4), Chen SH(1)(2)(3), Huang QH(5), Xie SH(1)(2), Ye YF(1)(2)(3),
+Gao R(1)(2)(3), Guo J(1)(2)(3), Yang MJ(1)(2), Liu Q(1)(2), Hong MH(6)(7)(8), Cao
+SM(9)(10).
+
+Author information: 
+(1)State Key Laboratory of Oncology in South China, Collaborative Innovation
+Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou,
+510060, Guangdong, P. R. China.
+(2)Department of Cancer Prevention Research, Sun Yat-sen University Cancer
+Center, Guangzhou, 510060, Guangdong, P. R. China.
+(3)School of Public Health, Sun Yat-sen University, Guangzhou, 510080, Guangdong,
+P. R. China.
+(4)School of Public Health, Guangdong Medical University, Dongguan, 523808,
+Guangdong, P. R. China.
+(5)Sihui Cancer Institute, Sihui, 526200, Guangdong, P. R. China.
+(6)State Key Laboratory of Oncology in South China, Collaborative Innovation
+Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou,
+510060, Guangdong, P. R. China. hongmh@sysucc.org.cn.
+(7)Department of Cancer Prevention Research, Sun Yat-sen University Cancer
+Center, Guangzhou, 510060, Guangdong, P. R. China. hongmh@sysucc.org.cn.
+(8)Department of Clinical Trial Center, Sun Yat-sen University Cancer Center,
+Guangzhou, 510060, Guangdong, P. R. China. hongmh@sysucc.org.cn.
+(9)State Key Laboratory of Oncology in South China, Collaborative Innovation
+Center for Cancer Medicine, Sun Yat-sen University Cancer Center, Guangzhou,
+510060, Guangdong, P. R. China. caosm@sysucc.org.cn.
+(10)Department of Cancer Prevention Research, Sun Yat-sen University Cancer
+Center, Guangzhou, 510060, Guangdong, P. R. China. caosm@sysucc.org.cn.
+
+BACKGROUND: Serum immunoglobulin A antibodies against Epstein-Barr virus (EBV),
+viral capsid antigen (VCA-IgA) and early antigen (EA-IgA), are used to screen for
+nasopharyngeal carcinoma (NPC) in endemic areas. However, their routine use has
+been questioned because of a lack of specificity. This study aimed to determine
+the distributions of different subtypes of antibody and to illustrate how the
+natural variation patterns affect the specificity of screening in non-NPC
+participants.
+METHODS: The distribution of baseline VCA-IgA was analyzed between sexes and
+across 10-year age groups in 18,286 non-NPC participants using Chi square tests. 
+Fluctuations in the VCA-IgA level were assessed in 1056 non-NPC participants with
+at least two retests in the first 5-year period (1987-1992) after the initial
+screening using the Kaplan-Meier method.
+RESULTS: The titers of VCA-IgA increased with age (P < 0.001). Using a previous
+serological definition of high NPC risk, nasopharyngeal endoscopy and/or
+nasopharyngeal biopsy would be recommended in 55.5% of the non-NPC participants
+with an initial VCA-IgA-positive status and in 20.6% with an initial negative
+status during the 5-year follow-up. However, seroconversions were common; 85.2%
+of the participants with a VCA-IgA-positive status at baseline converted to
+negative, and all VCA-IgA-negative participants changed to positive at least once
+during the 5-year follow-up. The EA-IgA status had a high seroconversion
+probability (100%) from positive to negative; however, it had a low probability
+(19.6%) from negative to positive.
+CONCLUSIONS: Age- and sex-specific cutoff titer values for serum anti-EBV
+antibodies as well as their specific titer fluctuation patterns should be
+considered when defining high NPC risk criteria for follow-up diagnostics and
+monitoring.
+
+DOI: 10.1186/s40880-016-0130-2 
+PMCID: PMC4986177
+PMID: 27527073  [Indexed for MEDLINE]

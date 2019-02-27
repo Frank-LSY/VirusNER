@@ -1,0 +1,40 @@
+
+
+2688. Oncotarget. 2017 Jun 20;8(25):41011-41020. doi: 10.18632/oncotarget.17354.
+
+PDCD1 (PD-1) promoter methylation predicts outcome in head and neck squamous cell
+carcinoma patients.
+
+Goltz D(1), Gevensleben H(2), Dietrich J(3), Schroeck F(3), de Vos L(3), Droege
+F(4), Kristiansen G(2), Schroeck A(3), Landsberg J(5), Bootz F(3), Dietrich D(3).
+
+Author information: 
+(1)Institute of Pathology, University Hospital Cologne, Cologne, Germany.
+(2)Institute of Pathology, University Hospital Bonn, Bonn, Germany.
+(3)Department of Otolaryngology, Head and Neck Surgery, University Hospital Bonn,
+Bonn, Germany.
+(4)Ear, Nose and Throat Clinic, University Hospital Essen, Essen, Germany.
+(5)Department of Dermatology and Allergy, University of Bonn, Bonn, Germany.
+
+BACKGROUND: Biomarkers that facilitate the prediction of disease recurrence in
+head and neck squamous cell carcinoma (HNSCC) may enable physicians to
+personalize treatment. In the current study, DNA promoter methylation of
+programmed cell death 1 (PDCD1, PD-1) was evaluated as a prognostic biomarker in 
+HNSCC patients.
+RESULTS: High PDCD1 methylation (mPDCD1) was associated with a significantly
+shorter overall survival after surgical resection in both the discovery (HR =
+2.24 [95%CI: 1.08-4.64], p = 0.029) and the validation cohort (HR = 1.54 [95%CI: 
+1.08-2.21], p = 0.017). In multivariate Cox proportional hazards analysis, PDCD1 
+methylation remained a significant prognostic factor for HNSCC (HR = 2.14 [95%CI:
+1.19-3.84], p = 0.011). Further, mPDCD1 was strongly associated with the human
+papilloma virus (HPV) status.
+MATERIALS AND METHODS: mPDCD1 was assessed retrospectively in a discovery cohort 
+of 120 HNSCC patients treated at the University Hospital of Bonn and a validation
+cohort of 527 HNSCC cases analyzed by The Cancer Genome Atlas Research Network.
+CONCLUSIONS: PDCD1 methylation might aid the identification of HNSCC patients
+potentially benefitting from a radical or alternative treatment, particularly in 
+the context of immunotherapies targeting PD-1/PD-L1.
+
+DOI: 10.18632/oncotarget.17354 
+PMCID: PMC5522222
+PMID: 28487502  [Indexed for MEDLINE]

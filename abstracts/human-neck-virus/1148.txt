@@ -1,0 +1,46 @@
+
+
+1148. Arch Pathol Lab Med. 2016 Aug;140(8):844-8. doi: 10.5858/arpa.2015-0272-OA. Epub 
+2016 Mar 31.
+
+Automated Extraction of Formalin-Fixed, Paraffin-Embedded Tissue for High-Risk
+Human Papillomavirus Testing of Head and Neck Squamous Cell Carcinomas Using the 
+Roche Cobas 4800 System.
+
+Kerr DA, Sweeney B, Arpin RN 3rd, Ring M, Pitman MB, Wilbur DC, Faquin WC(1).
+
+Author information: 
+(1)From the Department of Pathology, Massachusetts General Hospital, Boston; and 
+Harvard Medical School, Boston, Massachusetts. Dr Kerr and Ms Sweeney contributed
+equally as first authors on this manuscript.
+
+CONTEXT: -Testing for high-risk human papillomavirus (HR-HPV) in head and neck
+squamous cell carcinomas (HNSCCs) is important for both prognostication and
+clinical management. Several testing platforms are available for HR-HPV; however,
+effective alternative automated approaches are needed.
+OBJECTIVE: -To assess the performance of the automated Roche cobas 4800 HPV
+real-time polymerase chain reaction-based system on formalin-fixed,
+paraffin-embedded HNSCC specimens and compare results with standard methods of in
+situ hybridization (ISH) and p16 immunohistochemistry.
+DESIGN: -Formalin-fixed, paraffin-embedded samples of HNSCC were collected from
+archival specimens in the Department of Pathology, Massachusetts General Hospital
+(Boston), and prepared using the automated system by deparaffinization and
+dehydration followed by tissue lysis. Samples were integrated into routine
+cervical cytology testing runs by cobas. Corresponding formalin-fixed,
+paraffin-embedded samples were evaluated for HR-HPV by ISH and p16 by
+immunohistochemistry. Discrepant cases were adjudicated by polymerase chain
+reaction.
+RESULTS: -Sixty-two HNSCC samples were analyzed using the automated cobas system,
+ISH, and immunohistochemistry. Fifty-two percent (n = 32 of 62) of
+formalin-fixed, paraffin-embedded tumors were positive for HR-HPV by cobas.
+Eighty-eight percent (n = 28 of 32) of cases were the HPV 16 subtype and 12% (n =
+4 of 32) were other HR-HPV subtypes. Corresponding testing with ISH was
+concordant in 92% (n = 57 of 62) of cases. Compared with the adjudication
+polymerase chain reaction standard, there were 3 false-positive cases by cobas.
+CONCLUSIONS: -Concordance in HNSCC HR-HPV status between cobas and ISH was more
+than 90%. The cobas demonstrated a sensitivity of 100% and a specificity of 91%
+for detection of HR-HPV. Advantages favoring cobas include its automation, cost
+efficiency, objective results, and ease of performance.
+
+DOI: 10.5858/arpa.2015-0272-OA 
+PMID: 27031775  [Indexed for MEDLINE]

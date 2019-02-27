@@ -1,0 +1,47 @@
+
+
+711. Head Neck. 2016 Apr;38 Suppl 1:E1459-66. doi: 10.1002/hed.24258. Epub 2015 Nov
+11.
+
+Prognostic value of p16 expression in Epstein-Barr virus-positive nasopharyngeal 
+carcinomas.
+
+Jiang W(1), Chamberlain PD(1), Garden AS(1), Kim BY(2), Ma D(1), Lo EJ(3), Bell
+D(4), Gunn GB(1), Fuller CD(1), Rosenthal DI(1), Beadle BM(1), Frank SJ(1),
+Morrison WH(1), El-Naggar AK(4), Glisson BS(5), Sturgis EM(3), Phan J(1).
+
+Author information: 
+(1)Department of Radiation Oncology, MD Anderson Cancer Center, University of
+Texas, Houston, Texas.
+(2)Department of Cancer Biology, Neurosurgery, Mayo Clinic, Jacksonville,
+Florida.
+(3)Department of Head and Neck Surgery, MD Anderson Cancer Center, University of 
+Texas, Houston, Texas.
+(4)Department of Pathology, MD Anderson Cancer Center, University of Texas,
+Houston, Texas.
+(5)Department of Thoracic/Head and Neck Medical Oncology, MD Anderson Cancer
+Center, University of Texas, Houston, Texas.
+
+BACKGROUND: Overexpression of p16 is associated with improved outcomes among
+patients with oropharyngeal carcinoma. However, its role in the outcomes of
+patients with nasopharyngeal cancer (NPC) remains unclear.
+METHODS: Eighty-six patients with NPC treated at MD Anderson Cancer Center from
+2000 to 2014 were identified. Epstein-Barr virus (EBV) and human papillomavirus
+(HPV) status were determined by in situ hybridization (ISH) and p16 by
+immunohistochemical staining.
+RESULTS: EBV positivity was associated with extended overall survival (OS;
+median, 95.0 vs 44.9 months; p < .004), progression-free survival (PFS; median,
+80.4 vs 28.1 months; p < .013), and locoregional control (median, 104.4 vs 65.5
+months; p < .043). In patients with EBV-positive tumors, p16 overexpression
+correlated with improved PFS (median, 106.3 vs 27.1 months; p < .02) and
+locoregional control (median, 93.6 vs 64.5 months; p < .02).
+CONCLUSION: P16 overexpression is associated with improved PFS and locoregional
+control in patients with EBV-positive NPC. P16 expression may complement EBV
+status in predicting treatment outcomes for patients with NPC. © 2015 Wiley
+Periodicals, Inc. Head Neck 38: E1459-E1466, 2016.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24258 
+PMCID: PMC5903429
+PMID: 26560893  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+2186. Dtsch Med Wochenschr. 2012 Jan;137(1-2):23-6. doi: 10.1055/s-0031-1292885. Epub
+2011 Dec 16.
+
+[Hepatitis-B reactivation during treatment with tumor necrosis factor-α blocker
+adalimumab in a patient with psoriasis arthritis].
+
+[Article in German]
+
+Kouba M(1), Rudolph SE, Hrdlicka P, Zuber MA.
+
+Author information: 
+(1)Klinik für Innere Medizin und Rheumatologie, Zeisigwaldkliniken Bethanien,
+Chemnitz. matthias_kouba@gmx.at
+
+HISTORY AND ADMISSION FINDINGS: A 66-year-old man with acute fever, myalgia,
+arthralgia, restricted movement and neck stiffness was admitted to our emergency 
+unit. Three weeks earlier treatment with adalimumab, a tumor necrosis
+factor(TNF)-alpha antagonist was started by the patient's dermatologist because
+of a psoriasis vulgaris with associated psoriasis arthritis. All previous
+laboratory tests where without pathological findings.
+INVESTIGATIONS: The imaging procedures showed no pathological findings.
+Transaminase and CRP levels were markedly elevated. Hepatitis serology revealed
+reactivation of a chronic hepatitis B infection, while a combined viral and toxic
+hepatitis was detected by liver biopsy.
+TREATMENT AND COURSE: On the day of admittance acute neurological symptoms
+developed including muscular cramps and dyskinesia. Hypotonia and tachyarrhythmia
+were treated with parenteral infusions and digitoxin. Reactivation of a chronic
+hepatitis B infection with subfulminant liver failure was diagnosed, caused by
+immunosuppressive therapy with adalimumab. The patient was transferred to be
+treated with the antiviral drug entecavir.
+CONCLUSION: The exclusion of acute and/or chronic hepatitis before using
+TNF-alpha antagonists is recommended but in daily routine often ignored. The
+presented case demonstrates the risk of reactivating a chronic hepatitis B during
+therapy with a TNF-alpha antagonist.
+
+© Georg Thieme Verlag KG Stuttgart · New York.
+
+DOI: 10.1055/s-0031-1292885 
+PMID: 22180279  [Indexed for MEDLINE]

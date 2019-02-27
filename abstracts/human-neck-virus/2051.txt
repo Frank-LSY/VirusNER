@@ -1,0 +1,42 @@
+
+
+2051. Cancer. 2013 Jan 1;119(1):81-9. doi: 10.1002/cncr.27727. Epub 2012 Jun 26.
+
+An evolution in demographics, treatment, and outcomes of oropharyngeal cancer at 
+a major cancer center: a staging system in need of repair.
+
+Dahlstrom KR(1), Calzada G, Hanby JD, Garden AS, Glisson BS, Li G, Roberts DB,
+Weber RS, Sturgis EM.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas M. D. Anderson
+Cancer Center, Houston, USA.
+
+BACKGROUND: In this retrospective review, the authors examined
+demographic/clinical characteristics and overall survival in patients with
+squamous cell carcinoma of the oropharynx at a tertiary cancer center, and they
+report the characteristics that influenced any observed survival trends over
+time.
+METHODS: The study included 3891 newly diagnosed, previously untreated patients
+who presented at the authors' institution between 1955 and 2004.
+RESULTS: Over time, patients presented at younger ages and were more likely to
+have base of tongue or tonsil tumors and to be never-smokers or former smokers.
+Patients who were diagnosed between 1995 and 2004 were almost half as likely to
+die as those who were diagnosed before 1995 (hazard ratio, 0.6; 95% confidence
+interval, 0.6-0.8). In both multivariable and recursive partitioning survival
+analyses, the TNM staging system predicted the survival of patients who received 
+treatment before 1995 but did not predict the survival patients treated during
+the period from 1995 to 2004.
+CONCLUSIONS: Survival among patients with squamous cell carcinoma of the
+oropharynx improved substantially over the past 50 years. The main contributing
+factors were changes in clinical characteristics, in particular surrogates for
+positive human papillomavirus status. The current TNM staging system for squamous
+cell carcinoma of the oropharynx is inadequate. The incorporation of human
+papillomavirus status and perhaps smoking status into the TNM system is
+encouraged.
+
+Copyright © 2012 American Cancer Society.
+
+DOI: 10.1002/cncr.27727 
+PMCID: PMC3469778
+PMID: 22736261  [Indexed for MEDLINE]

@@ -1,0 +1,30 @@
+
+
+1156. Head Neck. 2012 Apr;34(4):459-61. doi: 10.1002/hed.21974. Epub 2011 Dec 16.
+
+p16 expression as a surrogate marker for HPV-related oropharyngeal carcinoma: a
+guide for interpretative relevance and consistency.
+
+El-Naggar AK(1), Westra WH.
+
+Author information: 
+(1)Department of Pathology, The University of Texas MD Anderson Cancer Center,
+Houston, Texas, USA. anaggar@mdanderson.org
+
+Recent studies of oropharyngeal carcinoma have reported remarkable correlation
+between integrated human papillomavirus (HPV) viral detection and p16 protein
+overexpression in tumor cells. These findings led to calls for the substitution
+of p16 expression for the more demanding HPV testing in clinical practice. The
+rationale for such practice is largely driven by the simplicity, low cost, and
+the feasibility of the immunohistochemical (IHC) analysis. There are, however,
+several caveats that need to be fully considered. These include the subjective
+nature of IHC evaluation, the variable mechanisms of p16 expression in head and
+neck squamous cell carcinoma, and the lack of scoring and interpretive criteria. 
+This perspective addresses the conceptual and practical issues associated with
+the p16 expression analysis and provides a broad outline for its application and 
+evaluation in patients with oropharyngeal carcinoma.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21974 
+PMID: 22180304  [Indexed for MEDLINE]

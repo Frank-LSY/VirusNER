@@ -1,0 +1,35 @@
+
+
+2618. Expert Opin Drug Saf. 2016 Nov;15(11):1527-1539. Epub 2016 Sep 9.
+
+Safety of drug treatments for head and neck cancer.
+
+Galot R(1), Machiels JP(1).
+
+Author information: 
+(1)a Department of Medical Oncology, Institut Roi Albert II, Cliniques
+universitaires Saint-Luc and Institut de Recherche Clinique et Expérimentale
+(Pole MIRO) , Université catholique de Louvain , Brussels , Belgium.
+
+INTRODUCTION: The treatment of squamous cell carcinoma of the head and the neck
+depends on the disease's stage. In locally-advanced stage disease, multimodal
+treatment strategies, including surgery, radiotherapy and chemotherapy, give the 
+best outcome in terms of overall survival. Those treatments are not without
+negligeable adverse events, which can lead to late debilitating toxicities. In
+recurrent/metastatic disease, not amenable to surgery or radiation therapy,
+palliative chemotherapy is the most appropriate treatment. Areas covered: This
+review aims to provide an overview of the safety of standard drug regimens used
+to treat SCCHN in daily practice, including platinum-based chemoradiation,
+induction chemotherapy, cetuximab and immunotherapy. The toxicities induced by
+single modality radiotherapy, or those resulting from surgery, are not part of
+the discussion. Expert opinion: Toxicities observed with multimodal treatment of 
+SCCHN are the highest we can tolerate in terms of treatment-related mortality,
+morbidity and late consequences. Patients at high risk of developing such
+complications should be identified upfront for optimal prevention and management.
+There is a medical need to identify less toxic regimens without compromising the 
+treatment efficacy, especially for patients with Human Papilloma Virus-induced
+oropharyngeal cancers. Finally, it is crucial in future trials to better
+standardize the scales used to report treatment related adverse events.
+
+DOI: 10.1080/14740338.2016.1227789 
+PMID: 27561463  [Indexed for MEDLINE]

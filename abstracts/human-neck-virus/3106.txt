@@ -1,0 +1,36 @@
+
+
+3106. Gan To Kagaku Ryoho. 2012 Oct;39(10):1551-4.
+
+[Chronic hepatitis C presenting with hepatic involvement by chronic lymphocytic
+leukemia responding to polyethylene glycol interferon-α-2b].
+
+[Article in Japanese]
+
+Hoki T(1), Kuroda H, Ishikawa K, Okagawa Y, Yamada M, Sakurai T, Fujii S, Maeda
+M, Fujita M, Nagashima K, Nojiri S, Joumen W, Kato J.
+
+Author information: 
+(1)Dept. of Gastroenterology and Hematology, Steel Memorial Muroran Hospital,
+Japan.
+
+Hepatic involvement by chronic lymphocytic leukemia(CLL)is common, but rarely
+presents with liver injury. We report a case of chronic hepatitis C(CH-C)in a
+patient who had suffered from liver injury as a result of hepatic involvement by 
+CLL. A 74-year-old man was hospitalized because of an examination confirming him 
+positive for leukocytosis. Computer tomography scan showed mild
+hepatosplenomegaly, lymph node swelling of the neck and axilla, and abdominal
+lymphadenopathy. He was diagnosed as CLL by bone marrow examination. His
+laboratory data revealed hepatis C virus(HCV)antibody-positive, and elevated
+levels of both aminotransferase and HCV-RNA. Liver biopsy demonstrated
+significant CLL involvement of portal areas and a mild T lymphocyte invasion of
+centrilobular and portal areas. After treatment with polyethylene glycol
+interferon (PEG-IFN)-α-2b for CH-C, the CLL count was decreased in both
+peripheral blood and the liver. The hematological response was significantly
+correlated with the disappearance of HCV-RNA. The patient has maintained a
+sustained virological response(SVR)status for the past 9 months after
+PEG-IFN-α-2b administration. Thus, PEG-IFN-α-2b therapy could be effective not
+only for CH-C but also for hepatic involvement of CLL as seen in our patient.
+
+
+PMID: 23064070  [Indexed for MEDLINE]

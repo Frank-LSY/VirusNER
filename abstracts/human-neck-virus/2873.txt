@@ -1,0 +1,40 @@
+
+
+2873. Int J Clin Exp Pathol. 2014 May 15;7(6):3245-54. eCollection 2014.
+
+Concurrent alterations of RAGE, RECK, and MMP9 protein expression are relevant to
+Epstein-Barr virus infection, metastasis, and survival in nasopharyngeal
+carcinoma.
+
+Zhou DN(1), Deng YF(2), Li RH(3), Yin P(1), Ye CS(4).
+
+Author information: 
+(1)Department of Pathology, Zhongshan Hospital, Xiamen University Xiamen 361004, 
+Fujian, China.
+(2)Department of Otolaryngology-Head and Neck Surgery, Zhongshan Hospital, Xiamen
+University Xiamen 361004, Fujian, China ; Department of Otolaryngology-Head and
+Neck Surgery, Union School of Clinical Medicine, Fujian Medical University Fuzhou
+350001, Fujian, China.
+(3)Department of Otolaryngology-Head and Neck Surgery, Union School of Clinical
+Medicine, Fujian Medical University Fuzhou 350001, Fujian, China.
+(4)Department of Otolaryngology-Head and Neck Surgery, Zhongshan Hospital, Xiamen
+University Xiamen 361004, Fujian, China.
+
+This study aimed to concurrently investigate the expressions of receptor for
+advanced glycation end products (RAGE), reversion inducing cysteine-rich protein 
+with Kazal motifs (RECK) and matrix metalloproteinase 9 (MMP9) in nasopharyngeal 
+carcinoma (NPC) and their correlations with clinicopathological properties. Using
+immunohistochemistry, we found that RECK expression was downregulated in NPC
+tissues compared with chronic nasopharyngitis (CNT) tissues, while RAGE and MMP9 
+expressions were upregulated. We further found that RECK expression level was
+inversely correlated with MMP9 expression level in NPC, whereas RAGE expression
+level was positively correlated with MMP9 expression level. Moreover, aberrant
+expressions of these proteins had a positive correlation with the titers of
+EBVCA-IgA, lymphatic metastasis, recurrence and survival. Together, these
+findings suggest that dysregulations of RECK and RAGE expressions may be
+collectively involved in tumor progression of NPC by regulating MMP9 expression
+and that they may be a good prognostic predictors for NPC.
+
+
+PMCID: PMC4097239
+PMID: 25031745  [Indexed for MEDLINE]

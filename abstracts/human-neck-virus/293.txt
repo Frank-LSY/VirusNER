@@ -1,0 +1,59 @@
+
+
+293. Br J Cancer. 2015 Apr 14;112(8):1349-57. doi: 10.1038/bjc.2015.99. Epub 2015 Mar 
+17.
+
+Detection of HPV-associated oropharyngeal tumours in a 16-year cohort: more than 
+meets the eye.
+
+Melchers LJ(1), Mastik MF(2), Samaniego Cameron B(2), van Dijk BA(3), de Bock
+GH(4), van der Laan BF(5), van der Vegt B(2), Speel EJ(6), Roodenburg JL(7),
+Witjes MJ(7), Schuuring E(2).
+
+Author information: 
+(1)1] Department of Oral & Maxillofacial Surgery, University of Groningen,
+University Medical Center Groningen, P.O. Box 30.001, 9700RB Groningen, The
+Netherlands [2] Department of Pathology, University of Groningen, University
+Medical Center Groningen, P.O. Box 30.001, 9700RB Groningen, The Netherlands.
+(2)Department of Pathology, University of Groningen, University Medical Center
+Groningen, P.O. Box 30.001, 9700RB Groningen, The Netherlands.
+(3)1] Department of Research, Comprehensive Cancer Center The Netherlands, P.O.
+Box 19079, 3501 DB Utrecht, The Netherlands [2] Department of Epidemiology,
+University of Groningen, University Medical Center Groningen, P.O. Box 30.001,
+9700RB Groningen, The Netherlands.
+(4)Department of Epidemiology, University of Groningen, University Medical Center
+Groningen, P.O. Box 30.001, 9700RB Groningen, The Netherlands.
+(5)Department of Otorhinolaryngology/Head & Neck surgery, University of
+Groningen, University Medical Center Groningen, P.O. Box 30.001, 9700RB
+Groningen, The Netherlands.
+(6)Department of Pathology, Maastricht University Medical Center, P.O. Box 5800, 
+6202AZ Maastricht, The Netherlands.
+(7)Department of Oral & Maxillofacial Surgery, University of Groningen,
+University Medical Center Groningen, P.O. Box 30.001, 9700RB Groningen, The
+Netherlands.
+
+BACKGROUND: Accurate assessment of the prevalence of the human papilloma virus
+(HPV) in oropharyngeal tumours (OpSCC) is important because HPV-positive OpSCC
+are consistently associated with an improved overall survival. Recently, an
+algorithm has become available that reliably detects clinically relevant HPV in
+tumour tissue, however, no complete cohorts have been tested. The aim was to
+determine the prevalence of active high-risk HPV infection in a complete cohort
+of OpSCC collected over a 16-year period.
+METHODS: Using a triple algorithm of p16 immunohistochemistry, HPV-BRISH and
+HPV-PCR, we assessed the prevalence of active HPV infection in all OpSCC
+diagnosed in our hospital from 1997 to 2012 (n=193) and a random selection of 200
+oral tumours (OSCC).
+RESULTS: Forty-seven OpSCC (24%) were HPVGP PCR-positive; 42 cases were HPV16+, 1
+HPV18+, 3 HPV33+ and 1 HPV35+. Brightfield in situ hybridisation did not identify
+additional HPV-positive cases. Human papilloma virus-associated tumour proportion
+increased from 13% (1997-2004) to 30% (2005-2012). Human papilloma
+virus-positivity was an independent predictor for longer disease-specific
+survival (HR=0.22; 95%CI:0.10-0.47). Only one OSCC was HPV+.
+CONCLUSIONS: In our cohort, the incidence of HPV-associated OpSCC is low but
+increasing rapidly. The strict detection algorithm, analysis of disease-specific 
+survival and the complete cohort, including palliatively treated patients, may
+influence the reported prevalence and prognostic value of HPV in OpSCC.
+
+DOI: 10.1038/bjc.2015.99 
+PMCID: PMC4402463
+PMID: 25867270  [Indexed for MEDLINE]

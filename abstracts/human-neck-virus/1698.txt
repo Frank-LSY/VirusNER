@@ -1,0 +1,54 @@
+
+
+1698. Clin Cancer Res. 2014 May 1;20(9):2300-11. doi: 10.1158/1078-0432.CCR-13-2585.
+Epub 2014 Mar 5.
+
+Reverse-phase protein array profiling of oropharyngeal cancer and significance of
+PIK3CA mutations in HPV-associated head and neck cancer.
+
+Sewell A(1), Brown B, Biktasova A, Mills GB, Lu Y, Tyson DR, Issaeva N, Yarbrough
+WG.
+
+Author information: 
+(1)Authors' Affiliations: Departments of Surgery Division of Otolaryngology and
+Pathology; Yale Cancer Center, Yale University, New Haven, Connecticut;
+Departments of Otolaryngology and Cancer Biology, Vanderbilt University,
+Nashville, Tennessee; and Systems Biology Department, University of Texas MD
+Anderson Cancer Center, Houston, Texas.
+
+PURPOSE: Human papilloma virus (HPV)-associated (HPV+) oropharyngeal squamous
+cell carcinomas (OPSCC) have different molecular and biologic characteristics and
+clinical behavior compared with HPV-negative (HPV-) OPSCC. PIK3CA mutations are
+more common in HPV(+) OPSCC. To define molecular differences and tumor subsets,
+protein expression and phosphorylation were compared between HPV(+) and HPV(-)
+OPSCC and between tumors with and without PIK3CA mutations.
+EXPERIMENTAL DESIGN: Expression of 137 total and phosphorylated proteins was
+evaluated by reverse-phase protein array in 29 HPV(+) and 13 HPV(-) prospectively
+collected OPSCCs. Forty-seven OPSCCs were tested for hotspot-activating mutations
+in PIK3CA and AKT. Activation of PIK3CA downstream targets and sensitivity to
+pathway inhibitors were determined in HPV(+) head and neck cancer cells
+overexpressing wild-type or mutant PIK3CA.
+RESULTS: Analyses revealed 41 differentially expressed proteins between HPV(+)
+and HPV(-) OPSCC categorized into functional groups: DNA repair, cell cycle,
+apoptosis, phosphoinositide 3-kinase (PI3K)/AKT/mTOR, and receptor kinase
+pathways. All queried DNA repair proteins were significantly upregulated in
+HPV(+) samples. A total of 8 of 33 HPV(+) and 0 of 14 HPV(-) tumors contained
+activating PIK3CA mutations. Despite all activating PIK3CA mutations occurring in
+HPV(+) samples, HPV(+) tumors had lower mean levels of activated AKT and
+downstream AKT target phosphorylation. Ectopic expression of mutant PIK3CA in
+HPV(+) cells increased mTOR, but not AKT activity. HPV E6/E7 overexpression
+inhibited AKT phosphorylation in HPV-negative cells. Mutant PIK3CA overexpressing
+cells were more sensitive to a dual PI3K/mTOR inhibitor compared with an AKT
+inhibitor.
+CONCLUSIONS: Protein expression analyses suggest that HPV(+) and HPV(-) OPSCC
+differentially activate DNA repair, cell cycle, apoptosis, PI3K/AKT/mTOR, and
+receptor kinase pathways. PIK3CA mutations are more common in HPV(+) OPSCC and
+are associated with activation of mTOR, but not AKT. These data suggest that
+inhibitors for mTOR may have activity against HPV(+) PIK3CA mutant oropharyngeal 
+cancers.
+
+©2014 AACR.
+
+DOI: 10.1158/1078-0432.CCR-13-2585 
+PMCID: PMC4027970
+PMID: 24599934  [Indexed for MEDLINE]

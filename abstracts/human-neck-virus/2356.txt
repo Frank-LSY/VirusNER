@@ -1,0 +1,51 @@
+
+
+2356. Head Neck Pathol. 2015 Jun;9(2):223-35. doi: 10.1007/s12105-014-0566-0. Epub 2014
+Sep 19.
+
+Mutation and Transcriptional Profiling of Formalin-Fixed Paraffin Embedded
+Specimens as Companion Methods to Immunohistochemistry for Determining
+Therapeutic Targets in Oropharyngeal Squamous Cell Carcinoma (OPSCC): A Pilot of 
+Proof of Principle.
+
+Saba NF(1), Wilson M, Doho G, DaSilva J, Benjamin Isett R, Newman S, Chen ZG,
+Magliocca K, Rossi MR.
+
+Author information: 
+(1)Department of Otolaryngology and Head and Neck Oncology Program, Winship
+Cancer Institute of Emory University, Emory University School of Medicine,
+Atlanta, GA, USA, nfsaba@emory.edu.
+
+The role of molecular methods in the diagnosis of head and neck cancer is rapidly
+evolving and holds great potential for improving outcomes for all patients who
+suffer from this diverse group of malignancies . However, there is considerable
+debate as to the best clinical approaches, particularly for Next Generation
+Sequencing (NGS). The choices of NGS methods such as whole exome, whole genome,
+whole transcriptomes (RNA-Seq) or multiple gene resequencing panels, each have
+strengths and weakness based on data quality, the size of the data, the
+turnaround time for data analysis, and clinical actionability. There have also
+been a variety of gene expression signatures established from microarray studies 
+that correlate with relapse and response to treatment, but none of these methods 
+have been implemented as standard of care for oropharyngeal squamous cell
+carcinoma (OPSCC). Because many genomic methodologies are still far from the
+capabilities of most clinical laboratories, we chose to explore the use of a
+combination of off the shelf targeted mutation analysis and gene expression
+analysis methods to complement standard anatomical pathology methods.
+Specifically, we have used the Ion Torrent AmpliSeq cancer panel in combination
+with the NanoString nCounter Human Cancer Reference Kit on 8 formalin-fixed
+paraffin embedded (FFPE) OPSCC tumor specimens, (4) HPV-positive and (4)
+HPV-negative. Differential expression analysis between HPV-positive and negative 
+groups showed that expression of several genes was highly likely to correlate
+with HPV status. For example, WNT1, PDGFA and OGG1 were all over-expressed in the
+positive group. Our results show the utility of these methods with routine FFPE
+clinical specimens to identify potential therapeutic targets which could be
+readily applied in a clinical trial setting for clinical laboratories lacking the
+instrumentation or bioinformatics infrastructure to support comprehensive
+genomics workflows. To the best of our knowledge, these preliminary experiments
+are among the earliest to combine both mutational and gene expression profiles
+using Ion Torrent and NanoString technologies. This reports serves as a proof of 
+principle methodology in OPSCC.
+
+DOI: 10.1007/s12105-014-0566-0 
+PMCID: PMC4424213
+PMID: 25236499  [Indexed for MEDLINE]

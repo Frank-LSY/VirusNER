@@ -1,0 +1,39 @@
+
+
+2696. Curr Opin Pediatr. 2015 Feb;27(1):110-5. doi: 10.1097/MOP.0000000000000184.
+
+Importance of viruses in acute otitis media.
+
+Nokso-Koivisto J(1), Marom T, Chonmaitree T.
+
+Author information: 
+(1)aDepartment of Otorhinolaryngology, Helsinki University Central Hospital,
+Helsinki, Finland bDepartment of Otolaryngology-Head and Neck Surgery, Edith
+Wolfson Medical Center, Tel Aviv University Sackler School of Medicine, Holon,
+Israel cDivision of Infectious Diseases, Department of Pediatrics, University of 
+Texas Medical Branch, Galveston, Texas, USA.
+
+PURPOSE OF REVIEW: Acute otitis media occurs as a complication of viral upper
+respiratory tract infection. Bacterial otopathogens and respiratory viruses
+interact and play important roles in acute otitis media development. A better
+understanding of viral and bacterial interactions may lead to innovative ways to 
+lessen the burden of this common childhood disease.
+RECENT FINDINGS: There has been increasing evidence that acute otitis media
+occurs during upper respiratory infection, even in the absence of nasopharyngeal 
+bacterial colonization. Among the types of viruses associated with acute otitis
+media, respiratory syncytial virus continues to be the most commonly detected. It
+is still unclear whether viral load plays an important role in acute otitis media
+development, but symptomatic upper respiratory tract infection (as opposed to
+asymptomatic viral infection) is crucial. Widespread use of bacterial and viral
+vaccines in young children, including pneumococcal conjugate and influenza
+vaccines, has led to the reduction in otitis media-related healthcare use between
+2001 and 2011. There has been no new vaccine against respiratory viruses other
+than influenza.
+SUMMARY: Progress has been made toward the reduction of the burden of acute
+otitis media in the last decade. Success in reducing acute otitis media incidence
+will rely mainly on prevention of nasopharyngeal otopathogen colonization, as
+well as reduction in the incidence of viral upper respiratory tract infection.
+
+DOI: 10.1097/MOP.0000000000000184 
+PMCID: PMC4383320
+PMID: 25514574  [Indexed for MEDLINE]

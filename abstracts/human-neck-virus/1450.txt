@@ -1,0 +1,48 @@
+
+
+1450. Cancer. 2012 Apr 1;118(7):1811-7. doi: 10.1002/cncr.26485. Epub 2011 Aug 25.
+
+Novel biomarker panel predicts prognosis in human papillomavirus-negative
+oropharyngeal cancer: an analysis of the TAX 324 trial.
+
+Wu Y(1), Posner MR, Schumaker LM, Nikitakis N, Goloubeva O, Tan M, Lu C, Iqbal S,
+Lorch J, Sarlis NJ, Haddad RI, Cullen KJ.
+
+Author information: 
+(1)Experimental Therapeutics Program, University of Maryland Marlene and Stewart 
+Greenebaum Cancer Center, Baltimore, Maryland 21201, USA.
+
+BACKGROUND: New treatment strategies for locally advanced head and neck squamous 
+cell carcinoma combine induction chemotherapy and chemoradiation. Identifying the
+predictors of outcome in sequentially treated patients is critical for focusing
+therapeutic research. In this analysis, the authors evaluated human
+papillomavirus type 16 (HPV-16) status and the expression levels of a defined set
+of biomarkers to identify predictors of response to this treatment modality.
+METHODS: In total, 114 patients with oropharyngeal cancer (OPC) who were treated 
+on the TAX 324 trial (cisplatin and fluorouracil with or without docetaxel in
+patients with locally advanced head and neck squamous cell carcinoma) had
+pretreatment biopsy specimens that were evaluable for HPV-16 DNA and
+immunohistochemical expression of the following biomarkers: beta-tubulin II
+(βT-II), glutathione S-transferase (GST-π), p53, and B-cell lymphoma 2 (Bcl-2).
+Patients were categorized into risk groups based on their HPV status and
+biomarker expression levels.
+RESULTS: Patients with high-risk OPC were defined by HPV-negative status and
+either elevated expression of βT-II or levels of at least 2 of the other 3
+adverse markers (elevated GST-π, elevated p53, or low Bcl-2). All other
+HPV-negative patients were categorized as moderate risk. In total, 55 patients
+were HPV-positive, and 59 patients were HPV-negative, with 34 were categorized as
+high risk and 25 categorized as moderate risk. The median survival for
+HPV-positive patients was not reached. The median survival was 44.2 months for
+moderate-risk patients (95% confidence interval, 20.9 months to not reached) and 
+12.1 months for high-risk patients (95% confidence interval, 7.5-19.7 months).
+The 24-month survival rate was 89% for HPV-positive patients, 67% for
+moderate-risk patients, and 29% for high-risk patients (P < .0001).
+CONCLUSIONS: The molecular data set in this study readily differentiated between 
+2 distinct groups of patients with locally advanced, HPV-negative OPC. This
+risk-stratification strategy may serve as a guide for treatment selection.
+
+Copyright © 2011 American Cancer Society.
+
+DOI: 10.1002/cncr.26485 
+PMCID: PMC4358790
+PMID: 22009819  [Indexed for MEDLINE]

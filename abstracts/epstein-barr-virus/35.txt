@@ -1,0 +1,29 @@
+
+
+35. Curr Top Microbiol Immunol. 2015;390(Pt 1):45-69. doi:
+10.1007/978-3-319-22822-8_4.
+
+Epstein-Barr Virus Strain Variation.
+
+Farrell PJ(1).
+
+Author information: 
+(1)Section of Virology, Department of Medicine, Imperial College, St Mary's
+Campus, Norfolk Place, London, W2 1PG, UK. p.farrell@imperial.ac.uk.
+
+What is wild-type Epstein-Barr virus and are there genetic differences in EBV
+strains that contribute to some of the EBV-associated diseases? Recent progress
+in DNA sequencing has resulted in many new Epstein-Barr virus (EBV) genome
+sequences becoming available. EBV isolates worldwide can be grouped into type 1
+and type 2, a classification based on the EBNA2 gene sequence. Type 1 transforms 
+human B cells into lymphoblastoid cell lines much more efficiently than type 2
+EBV and molecular mechanisms that may account for this difference in cell
+transformation are now becoming understood. Study of geographic variation of EBV 
+strains independent of the type 1/type 2 classification and systematic
+investigation of the relationship between viral strains, infection and disease
+are now becoming possible. So we should consider more directly whether viral
+sequence variation might play a role in the incidence of some EBV-associated
+diseases.
+
+DOI: 10.1007/978-3-319-22822-8_4 
+PMID: 26424643  [Indexed for MEDLINE]

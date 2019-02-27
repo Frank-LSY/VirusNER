@@ -1,0 +1,107 @@
+
+
+2601. Nature. 2014 Feb 20;506(7488):371-5. doi: 10.1038/nature12881. Epub 2013 Dec 25.
+
+Landscape of genomic alterations in cervical carcinomas.
+
+Ojesina AI(1), Lichtenstein L(2), Freeman SS(3), Pedamallu CS(4),
+Imaz-Rosshandler I(5), Pugh TJ(4), Cherniack AD(3), Ambrogio L(3), Cibulskis
+K(3), Bertelsen B(6), Romero-Cordoba S(5), Treviño V(7), Vazquez-Santillan K(5), 
+Guadarrama AS(5), Wright AA(8), Rosenberg MW(3), Duke F(9), Kaplan B(4), Wang
+R(10), Nickerson E(3), Walline HM(11), Lawrence MS(3), Stewart C(3), Carter
+SL(3), McKenna A(3), Rodriguez-Sanchez IP(12), Espinosa-Castilla M(5), Woie
+K(13), Bjorge L(14), Wik E(14), Halle MK(14), Hoivik EA(14), Krakstad C(14),
+Gabiño NB(5), Gómez-Macías GS(12), Valdez-Chapa LD(12), Garza-Rodríguez ML(12),
+Maytorena G(15), Vazquez J(15), Rodea C(15), Cravioto A(15), Cortes ML(3),
+Greulich H(16), Crum CP(17), Neuberg DS(18), Hidalgo-Miranda A(5), Escareno
+CR(19), Akslen LA(20), Carey TE(21), Vintermyr OK(20), Gabriel SB(3),
+Barrera-Saldaña HA(12), Melendez-Zajgla J(5), Getz G(22), Salvesen HB(23),
+Meyerson M(24).
+
+Author information: 
+(1)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA [2] The Eli and Edythe L. Broad Institute of
+Massachusetts Institute of Technology and Harvard University, Cambridge,
+Massachusetts 02142, USA [3].
+(2)1] The Eli and Edythe L. Broad Institute of Massachusetts Institute of
+Technology and Harvard University, Cambridge, Massachusetts 02142, USA [2].
+(3)The Eli and Edythe L. Broad Institute of Massachusetts Institute of Technology
+and Harvard University, Cambridge, Massachusetts 02142, USA.
+(4)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA [2] The Eli and Edythe L. Broad Institute of
+Massachusetts Institute of Technology and Harvard University, Cambridge,
+Massachusetts 02142, USA.
+(5)Instituto Nacional de Medicina Genomica, Mexico City 14610, Mexico.
+(6)Department of Pathology, Haukeland University Hospital, N5021 Bergen, Norway.
+(7)Tecnológico de Monterrey, Monterrey 64849, Mexico.
+(8)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA [2] Department of Medicine, Brigham and Women's
+Hospital, Boston, Massachusetts 02115, USA.
+(9)Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA.
+(10)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA [2] Department of Thoracic Surgery, Fudan University
+Shanghai Cancer Center, Shanghai 200032, China.
+(11)Cancer Biology Program, Program in the Biomedical Sciences, Rackham Graduate 
+School, University of Michigan, Ann Arbor, Michigan 48109, USA.
+(12)Facultad de Medicina y Hospital Universitario 'Dr. José Eluterio González' de
+la Universidad Autónoma de Nuevo León, Monterrey, Nuevo León 64460, México.
+(13)Department of Obstetrics and Gynecology, Haukeland University Hospital, N5021
+Bergen, Norway.
+(14)1] Department of Obstetrics and Gynecology, Haukeland University Hospital,
+N5021 Bergen, Norway [2] Department of Clinical Science, Centre for Cancer
+Biomarkers, University of Bergen, N5020 Bergen, Norway.
+(15)Instituto Mexicano del Seguro Social, Mexico City 06720, Mexico.
+(16)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA [2] The Eli and Edythe L. Broad Institute of
+Massachusetts Institute of Technology and Harvard University, Cambridge,
+Massachusetts 02142, USA [3] Department of Medicine, Brigham and Women's
+Hospital, Boston, Massachusetts 02115, USA.
+(17)Department of Pathology, Brigham and Women's Hospital, Boston, Massachusetts 
+02115, USA.
+(18)Department of Biostatistics and Computational Biology, Dana-Farber Cancer
+Institute, Boston, Massachusetts 02215, USA.
+(19)1] Instituto Nacional de Medicina Genomica, Mexico City 14610, Mexico [2]
+Claremont Graduate University, Claremont, California 91711, USA.
+(20)1] Department of Pathology, Haukeland University Hospital, N5021 Bergen,
+Norway [2] Centre for Cancer Biomarkers, Department of Clinical Medicine,
+University of Bergen, N5020 Bergen, Norway.
+(21)Head and Neck Oncology Program and Department of Otolaryngology, University
+of Michigan Comprehensive Cancer Center, Ann Arbor, Michigan 38109, USA.
+(22)1] The Eli and Edythe L. Broad Institute of Massachusetts Institute of
+Technology and Harvard University, Cambridge, Massachusetts 02142, USA [2]
+Massachusetts General Hospital Cancer Center and Department of Pathology,
+Massachusetts General Hospital and Harvard Medical School, Boston, Massachusetts 
+02114, USA.
+(23)1] Department of Obstetrics and Gynecology, Haukeland University Hospital,
+N5021 Bergen, Norway [2] Department of Clinical Science, Centre for Cancer
+Biomarkers, University of Bergen, N5020 Bergen, Norway [3].
+(24)1] Department of Medical Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts 02215, USA [2] The Eli and Edythe L. Broad Institute of
+Massachusetts Institute of Technology and Harvard University, Cambridge,
+Massachusetts 02142, USA [3] Department of Pathology, Brigham and Women's
+Hospital, Boston, Massachusetts 02115, USA [4].
+
+Cervical cancer is responsible for 10-15% of cancer-related deaths in women
+worldwide. The aetiological role of infection with high-risk human papilloma
+viruses (HPVs) in cervical carcinomas is well established. Previous studies have 
+also implicated somatic mutations in PIK3CA, PTEN, TP53, STK11 and KRAS as well
+as several copy-number alterations in the pathogenesis of cervical carcinomas.
+Here we report whole-exome sequencing analysis of 115 cervical carcinoma-normal
+paired samples, transcriptome sequencing of 79 cases and whole-genome sequencing 
+of 14 tumour-normal pairs. Previously unknown somatic mutations in 79 primary
+squamous cell carcinomas include recurrent E322K substitutions in the MAPK1 gene 
+(8%), inactivating mutations in the HLA-B gene (9%), and mutations in EP300
+(16%), FBXW7 (15%), NFE2L2 (4%), TP53 (5%) and ERBB2 (6%). We also observe
+somatic ELF3 (13%) and CBFB (8%) mutations in 24 adenocarcinomas. Squamous cell
+carcinomas have higher frequencies of somatic nucleotide substitutions occurring 
+at cytosines preceded by thymines (Tp*C sites) than adenocarcinomas. Gene
+expression levels at HPV integration sites were statistically significantly
+higher in tumours with HPV integration compared with expression of the same genes
+in tumours without viral integration at the same site. These data demonstrate
+several recurrent genomic alterations in cervical carcinomas that suggest new
+strategies to combat this disease.
+
+DOI: 10.1038/nature12881 
+PMCID: PMC4161954
+PMID: 24390348  [Indexed for MEDLINE]

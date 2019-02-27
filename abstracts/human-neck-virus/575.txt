@@ -1,0 +1,47 @@
+
+
+575. Clin Cancer Res. 2013 Feb 15;19(4):855-64. doi: 10.1158/1078-0432.CCR-12-2746.
+Epub 2012 Dec 18.
+
+Development and characterization of HPV-positive and HPV-negative head and neck
+squamous cell carcinoma tumorgrafts.
+
+Kimple RJ(1), Harari PM, Torres AD, Yang RZ, Soriano BJ, Yu M, Armstrong EA,
+Blitzer GC, Smith MA, Lorenz LD, Lee D, Yang DT, McCulloch TM, Hartig GK, Lambert
+PF.
+
+Author information: 
+(1)Department of Human Oncology, University of Wisconsin, Madison, WI 53705, USA.
+rkimple@humonc.wisc.edu
+
+PURPOSE: To develop a clinically relevant model system to study head and neck
+squamous cell carcinoma (HNSCC), we have established and characterized a
+direct-from-patient tumorgraft model of human papillomavirus (HPV)-positive and
+HPV-negative cancers.
+EXPERIMENTAL DESIGN: Patients with newly diagnosed or recurrent HNSCC were
+consented for donation of tumor specimens. Surgically obtained tissue was
+implanted subcutaneously into immunodeficient mice. During subsequent passages,
+both formalin-fixed/paraffin-embedded as well as flash-frozen tissues were
+harvested. Tumors were analyzed for a variety of relevant tumor markers. Tumor
+growth rates and response to radiation, cisplatin, or cetuximab were assessed and
+early passage cell strains were developed for rapid testing of drug sensitivity.
+RESULTS: Tumorgrafts have been established in 22 of 26 patients to date.
+Significant diversity in tumorgraft tumor differentiation was observed with good 
+agreement in degree of differentiation between patient tumor and tumorgraft
+(Kappa 0.72). Six tumorgrafts were HPV-positive on the basis of p16 staining. A
+strong inverse correlation between tumorgraft p16 and p53 or Rb was identified
+(Spearman correlations P = 0.085 and P = 0.002, respectively). Significant growth
+inhibition of representative tumorgrafts was shown with cisplatin, cetuximab, or 
+radiation treatment delivered over a two-week period. Early passage cell strains 
+showed high consistency in response to cancer therapy between tumorgraft and cell
+strain.
+CONCLUSIONS: We have established a robust human tumorgraft model system for
+investigating HPV-positive and HPV-negative HNSCC. These tumorgrafts show strong 
+correlation with the original tumor specimens and provide a powerful resource for
+investigating mechanisms of therapeutic response as well as preclinical testing.
+
+©2012 AACR.
+
+DOI: 10.1158/1078-0432.CCR-12-2746 
+PMCID: PMC3581858
+PMID: 23251001  [Indexed for MEDLINE]

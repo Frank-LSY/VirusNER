@@ -1,0 +1,49 @@
+
+
+1005. PLoS One. 2018 Mar 9;13(3):e0193679. doi: 10.1371/journal.pone.0193679.
+eCollection 2018.
+
+Effect of antiretroviral therapy on bone turnover and bone mineral density in men
+with primary HIV-1 infection.
+
+Vlot MC(1)(2), Grijsen ML(3)(4), Prins JM(3), de Jongh RT(2), de Jonge R(1), den 
+Heijer M(2), Heijboer AC(1)(5).
+
+Author information: 
+(1)Department of Clinical Chemistry, Endocrine Laboratory, VU University Medical 
+Center, Amsterdam, the Netherlands.
+(2)Department of Internal Medicine, Endocrinology, VU University Medical Center, 
+Amsterdam, the Netherlands.
+(3)Department of Internal Medicine, Infectious Diseases, Center for Infection and
+Immunity, Academic Medical Center, Amsterdam, the Netherlands.
+(4)Department of Dermatology, Leiden University Medical Center, Leiden, the
+Netherlands.
+(5)Department of Clinical Chemistry, Endocrine laboratory, Academic Medical
+Center, Amsterdam, the Netherlands.
+
+INTRODUCTION: Previous studies indicate that human immunodeficiency virus
+(HIV)-infection and combination antiretroviral therapy (cART) can affect bone
+turnover. Furthermore, HIV-infected patients have lower bone mineral density
+(BMD) compared to a healthy reference population.
+OBJECTIVE: To evaluate the longitudinal effect of HIV-infection and cART on bone 
+turnover markers (BTMs) and BMD in men with primary HIV-infection (PHI).
+DESIGN, METHODS: Thirty-five PHI-men were divided into two groups, those that
+received cART for the first time (n = 26) versus no-cART (n = 9). Dual-energy
+X-ray absorptiometry (DXA) was performed on femoral neck (FN), total hip (TH) and
+lumbar spine (LS) and BTMs (P1NP, alkaline phosphatase, osteocalcin, ICTP and
+CTX) were measured at baseline and follow-up.
+RESULTS: At baseline, the median CD4+ T-cell count was 455 cells/mm3 (IQR
+320-620) and plasma viral load 5.4 log10 copies/mL (IQR 4.7-6.0) in the cART
+treated group, compared to 630 (IQR 590-910) and 4.8 (IQR 4.2-5.1) in the
+untreated group. The median follow-up time was 60.7 weeks (IQR 24.7-96.0). All
+BTMs, except ICTP, showed a significant increase during cART versus no changes of
+BTMs in the untreated group. FN and TH BMD showed a significant decrease in both 
+groups. LS BMD did not change in both groups.
+CONCLUSION: Bone turnover increased in PHI-men treated with cART which was
+accompanied by a decrease in FN and TH BMD. No increase of bone turnover was seen
+in untreated PHI-men. Our study suggests that cART results in increased bone
+turnover and decreased BMD of the hip in PHI-men.
+
+DOI: 10.1371/journal.pone.0193679 
+PMCID: PMC5844537
+PMID: 29522570  [Indexed for MEDLINE]

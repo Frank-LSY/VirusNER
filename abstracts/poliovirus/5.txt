@@ -1,0 +1,43 @@
+
+
+5. Food Environ Virol. 2017 Dec;9(4):361-382. doi: 10.1007/s12560-017-9314-4. Epub
+2017 Jul 7.
+
+Insights from a Systematic Search for Information on Designs, Costs, and
+Effectiveness of Poliovirus Environmental Surveillance Systems.
+
+Duintjer Tebbens RJ(1), Zimmermann M(2), Pallansch MA(3), Thompson KM(2).
+
+Author information: 
+(1)Kid Risk, Inc, 10524 Moss Park Rd., Ste. 204-364, Orlando, FL, 32832, USA.
+rdt@kidrisk.org.
+(2)Kid Risk, Inc, 10524 Moss Park Rd., Ste. 204-364, Orlando, FL, 32832, USA.
+(3)Division of Viral Diseases, Centers for Disease Control and Prevention,
+Atlanta, GA, 30333, USA.
+
+Poliovirus surveillance plays a critical role in achieving and certifying
+eradication and will play a key role in the polio endgame. Environmental
+surveillance can provide an opportunity to detect circulating polioviruses prior 
+to the observation of any acute flaccid paralysis cases. We completed a
+systematic review of peer-reviewed publications on environmental surveillance for
+polio including the search terms "environmental surveillance" or "sewage," and
+"polio," "poliovirus," or "poliomyelitis," and compared characteristics of the
+resulting studies. The review included 146 studies representing 101 environmental
+surveillance activities from 48 countries published between 1975 and 2016.
+Studies reported taking samples from sewage treatment facilities, surface waters,
+and various other environmental sources, although they generally did not present 
+sufficient details to thoroughly evaluate the sewage systems and catchment areas.
+When reported, catchment areas varied from 50 to over 7.3 million people (median 
+of 500,000 for the 25% of activities that reported catchment areas, notably with 
+60% of the studies not reporting this information and 16% reporting insufficient 
+information to estimate the catchment area population size). While numerous
+studies reported the ability of environmental surveillance to detect polioviruses
+in the absence of clinical cases, the review revealed very limited information
+about the costs and limited information to support quantitative population
+effectiveness of conducting environmental surveillance. This review motivates
+future studies to better characterize poliovirus environmental surveillance
+systems and the potential value of information that they may provide in the polio
+endgame.
+
+DOI: 10.1007/s12560-017-9314-4 
+PMID: 28687986  [Indexed for MEDLINE]

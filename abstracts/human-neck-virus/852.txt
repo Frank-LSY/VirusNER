@@ -1,0 +1,32 @@
+
+
+852. Oncol Rep. 2009 Mar;21(3):809-14.
+
+Human papillomavirus and p53 polymorphism in codon 72 in head and neck squamous
+cell carcinoma.
+
+Hoffmann M(1), Scheunemann D, Fazel A, Görögh T, Kahn T, Gottschlich S.
+
+Author information: 
+(1)Klinik für Hals-, Nasen-, Ohrenheilkunde, Kopf- und Halschirurgie,
+Christian-Albrechts-Universität Kiel, D-24105 Kiel, Germany.
+mhoffmann@hno.uni-kiel.de
+
+The impact of a polymorphism of the wild-type human tumour suppressor gene
+p53(wt) on carcinogenesis is subject of controversy ever since a higher
+susceptibility of p53 to HPV-E6 mediated degradation when encoding for Arginine
+at codon 72 (p53Arg) was first reported. The issue remained unclear because
+various studies investigating this question for different tumour entities and
+different geographical regions demonstrated diverging results. In the present
+study, the HPV status and p53 genotype frequency of 42 head and neck cancers was 
+analysed and compared to results reported in the recent literature. Applying PCR 
+and cycle sequencing techniques, HPV DNA was demonstrated in 12/42 (29%) of the
+cases and the overall distribution of the p53 allele was: 64, 31 and 5% for
+p53Arg, p53Arg/Pro and p53Pro, respectively. There was no statistically
+significant association between HPV status and p53 genotype distribution. The
+results of our study and of the reviewed literature do not support a relevant
+role of the p53 polymorphism in head and neck carcinogenesis, either taken alone 
+or in association with the HPV status.
+
+
+PMID: 19212643  [Indexed for MEDLINE]

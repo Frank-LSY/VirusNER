@@ -1,0 +1,23 @@
+
+
+50. Nat Rev Immunol. 2001 Oct;1(1):75-82.
+
+Epstein-Barr virus: exploiting the immune system.
+
+Thorley-Lawson DA(1).
+
+Author information: 
+(1)Department of Pathology, Tufts University School of Medicine, Boston,
+Massachusetts 02111, USA. david.thorley-lawson@tufts.edu
+
+In vitro, Epstein-Barr virus (EBV) will infect any resting B cell, driving it out
+of the resting state to become an activated proliferating lymphoblast.
+Paradoxically, EBV persists in vivo in a quiescent state in resting memory B
+cells that circulate in the peripheral blood. How does the virus get there, and
+with such specificity for the memory compartment? An explanation comes from the
+idea that two genes encoded by the virus--LMP1 and LMP2A--allow EBV to exploit
+the normal pathways of B-cell differentiation so that the EBV-infected B blast
+can become a resting memory cell.
+
+DOI: 10.1038/35095584 
+PMID: 11905817  [Indexed for MEDLINE]

@@ -1,0 +1,40 @@
+
+
+1198. Tumour Biol. 2012 Apr;33(2):543-50. doi: 10.1007/s13277-011-0295-x. Epub 2012 Jan
+10.
+
+Relationship between p53 overexpression, human papillomavirus infection, and
+lifestyle in Indian patients with head and neck cancers.
+
+Jamaly S(1), Khanehkenari MR, Rao R, Patil G, Thakur S, Ramaswamy P, Ajaikumar
+BS, Sahoo R.
+
+Author information: 
+(1)Department of Applied Genetics, Brindavan College, Bangalore, 560094, India.
+
+Exposure to pollutants in the environment, tobacco and alcohol consumption, poor 
+oral hygiene and opportunistic viral infections are important aetiological
+factors in head and neck cancers. In this study, we evaluate the complex
+interrelationships between these factors and molecular events such as p53
+overexpression in causation of head and neck cancers. Tissue samples from 110
+patients with histopathologically confirmed carcinoma of head and neck were
+analyzed from our tissue biorepository with patient consent. Data pertaining to
+their dietary habits, tobacco and alcohol consumption were abstracted. P53
+overexpression was analysed by immunohistochemistry and HPV (high-risk genotype) 
+were studied by Chromogenic in situ Hybridization using an ultra sensitive DNA
+probe. Chi-square analysis was done to determine relationships between
+proportions of dependent and independent variables. Bivariate relationships were 
+determined between these variables using Spearman's rank correlation. Linear
+regression analysis was used to determine the best predictor variable influencing
+p53 expression. Tobacco consumption especially smoking cigarettes and all forms
+of tobacco consumption put together and HPV infection significantly influenced
+p53 overexpression. Forty-five percent of the studied cohort was positive for
+HPV. Regression analysis showed interaction between tobacco and HPV infection to 
+be a primary predictor (β = 0.31, p = 0.02) for p53 expression. Tobacco in any
+form: chewing, smoking and snuffing, along with HPV infection is significantly
+associated with p53 overexpression. There is a high prevalence of HPV infection
+(45%) in Indian patients suggesting its possible role in the aetiology of head
+and neck cancer.
+
+DOI: 10.1007/s13277-011-0295-x 
+PMID: 22231431  [Indexed for MEDLINE]

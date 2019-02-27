@@ -1,0 +1,43 @@
+
+
+663. Clin Cancer Res. 2011 Dec 1;17(23):7248-64. doi: 10.1158/1078-0432.CCR-11-0690.
+Epub 2011 Aug 25.
+
+Assembly and initial characterization of a panel of 85 genomically validated cell
+lines from diverse head and neck tumor sites.
+
+Zhao M(1), Sano D, Pickering CR, Jasser SA, Henderson YC, Clayman GL, Sturgis EM,
+Ow TJ, Lotan R, Carey TE, Sacks PG, Grandis JR, Sidransky D, Heldin NE, Myers JN.
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, 77030-4009, USA.
+
+PURPOSE: Human cell lines are useful for studying cancer biology and
+preclinically modeling cancer therapy, but can be misidentified and
+cross-contamination is unfortunately common. The purpose of this study was to
+develop a panel of validated head and neck cell lines representing the spectrum
+of tissue sites and histologies that could be used for studying the molecular,
+genetic, and phenotypic diversity of head and neck cancer.
+METHODS: A panel of 122 clinically and phenotypically diverse head and neck cell 
+lines from head and neck squamous cell carcinoma, thyroid cancer, cutaneous
+squamous cell carcinoma, adenoid cystic carcinoma, oral leukoplakia, immortalized
+primary keratinocytes, and normal epithelium was assembled from the collections
+of several individuals and institutions. Authenticity was verified by carrying
+out short tandem repeat analysis. Human papillomavirus (HPV) status and cell
+morphology were also determined.
+RESULTS: Eighty-five of the 122 cell lines had unique genetic profiles. HPV-16
+DNA was detected in 2 cell lines. These 85 cell lines included cell lines from
+the major head and neck primary tumor sites, and close examination shows a wide
+range of in vitro phenotypes.
+CONCLUSIONS: This panel of 85 genomically validated head and neck cell lines
+represents a valuable resource for the head and neck cancer research community
+that can help advance understanding of the disease by providing a standard
+reference for cell lines that can be used for biological as well as preclinical
+studies.
+
+©2011 AACR.
+
+DOI: 10.1158/1078-0432.CCR-11-0690 
+PMCID: PMC3229662
+PMID: 21868764  [Indexed for MEDLINE]

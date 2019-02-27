@@ -1,0 +1,34 @@
+
+
+2442. Int J Radiat Oncol Biol Phys. 2013 Mar 15;85(4):1110-8. doi:
+10.1016/j.ijrobp.2012.08.006. Epub 2012 Sep 14.
+
+Targeted radiosensitization by the Chk1 inhibitor SAR-020106.
+
+Borst GR(1), McLaughlin M, Kyula JN, Neijenhuis S, Khan A, Good J, Zaidi S,
+Powell NG, Meier P, Collins I, Garrett MD, Verheij M, Harrington KJ.
+
+Author information: 
+(1)The Institute of Cancer Research, London, United Kingdom. g.borst@nki.nl
+
+PURPOSE: To explore the activity of a potent Chk1 inhibitor (SAR-020106) in
+combination with radiation.
+METHODS AND MATERIALS: Colony and mechanistic in vitro assays and a xenograft
+in vivo model.
+RESULTS: SAR-020106 suppressed-radiation-induced G2/M arrest and reduced
+clonogenic survival only in p53-deficient tumor cells. SAR-020106 promoted
+mitotic entry following irradiation in all cell lines, but p53-deficient cells
+were likely to undergo apoptosis or become aneuploid, while p53 wild-type cells
+underwent a postmitotic G1 arrest followed by subsequent normal cell cycle
+re-entry. Following combined treatment with SAR-020106 and radiation,
+homologous-recombination-mediated DNA damage repair was inhibited in all cell
+lines. A significant increase in the number of pan-γH2AX-staining apoptotic cells
+was observed only in p53-deficient cell lines. Efficacy was confirmed in vivo in 
+a clinically relevant human head-and-neck cell carcinoma xenograft model.
+CONCLUSION: The Chk1 inhibitor SAR-020106 is a potent radiosensitizer in tumor
+cell lines defective in p53 signaling.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2012.08.006 
+PMID: 22981708  [Indexed for MEDLINE]

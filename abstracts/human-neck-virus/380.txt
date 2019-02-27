@@ -1,0 +1,32 @@
+
+
+380. Anticancer Res. 2014 Feb;34(2):1021-5.
+
+Prevalence and expression of human papillomavirus in 53 patients with oral tongue
+squamous cell carcinoma.
+
+Tsimplaki E(1), Argyri E, Xesfyngi D, Daskalopoulou D, Stravopodis DJ,
+Panotopoulou E.
+
+Author information: 
+(1)St. Savvas Regional Anticancer Oncology Hospital of Athens, 171 Alexandras
+Avenue, 11522 Athens, Greece. epanot@tee.gr.
+
+BACKGROUND/AIM: Human papillomavirus (HPV) infection has been considered a
+potential risk factor for the development of oral tongue squamous cell carcinoma 
+(SCC). The purpose of the present study was to investigate HPV infection and
+high-risk HPV E6/E7 mRNA expression in SCC of the oral tongue in 53 Greek
+patients.
+MATERIALS AND METHODS: Fifty-three biopsies were collected from patients with SCC
+of the oral tongue and tested for HPV DNA and E6/E7 mRNA expression.
+RESULTS: The overall prevalence of HPV DNA was 11.3% (6/53), while high-risk HPV 
+DNA was found in 7.5% (4/53) of SCC of the oral tongue. E6/E7 mRNA expression was
+observed in 9.4% (5/53) samples examined. HPV 16 was the commonest genotype
+identified by both DNA and RNA assays. A total of 28.3% (15/53) of the patients
+were non-smokers and non-drinkers. HPV infection was strongly associated with
+abstinence from tobacco and alcohol (p=0.013).
+CONCLUSION: The presence of high-risk HPV E6/E7 mRNA expression suggests that HPV
+may be implicated in the pathogenesis of SCC of the oral tongue.
+
+
+PMID: 24511049  [Indexed for MEDLINE]

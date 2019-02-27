@@ -1,0 +1,33 @@
+
+
+802. Oncol Res. 2013;20(9):419-25. doi: 10.3727/096504013X13657689383139.
+
+Therapeutic effect of oncolytic adenovirus expressing relaxin in radioresistant
+oral squamous cell carcinoma.
+
+Lee SY(1), Park HR, Rhee J, Park YM, Kim SH.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Chung-Ang University
+College of Medicine, Seoul, Korea.
+
+Radioresistance is one of the main determinants of treatment outcome in oral
+squamous cell carcinoma (OSCC), and treatment of radioresistant OSCC is difficult
+due to cross resistance to other conventional treatments. We aimed to identify
+whether genetically modified oncolytic adenovirus expressing relaxin (RLX), which
+affects collagen metabolism, can effectively inhibit growth of the radioresistant
+OSCC. Therapeutic effect of oncolytic adenovirus was compared between
+radiosensitive and radioresistant OSCC cell lines in vitro and in vivo, and
+spread of adenovirus throughout the tumor mass was verified by
+immunohistochemistry (IHC). Oncolytic adenovirus effectively killed cancer cells 
+and there was no significant difference in the cytotoxic effect between
+radiosensitive and radioresistant OSCC cell lines. In animal experiments, the
+adenovirus significantly reduced the size of tumor, and there was no significant 
+difference between radiosensitive and radioresistant OSCC. In IHC, RLX expressing
+adenovirus showed better proliferation and eliminated collagens more effectively 
+compared to RLX nonexpressing adenovirus. These findings suggested that
+genetically modified oncolytic adenovirus can effectively inhibit growth of the
+radioresistant OSCC and might be a new therapeutic option in radioresistant OSCC.
+
+DOI: 10.3727/096504013X13657689383139 
+PMID: 23924926  [Indexed for MEDLINE]

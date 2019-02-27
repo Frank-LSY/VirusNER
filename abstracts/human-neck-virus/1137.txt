@@ -1,0 +1,67 @@
+
+
+1137. Head Neck. 2016 Apr;38 Suppl 1:E1863-9. doi: 10.1002/hed.24336. Epub 2016 Jan 8.
+
+Geographic variation in human papillomavirus-related oropharyngeal cancer: Data
+from 4 multinational randomized trials.
+
+Mehanna H(1), Franklin N(2), Compton N(3), Robinson M(4), Powell N(5),
+Biswas-Baldwin N(6), Paleri V(7), Hartley A(8), Fresco L(9), Al-Booz H(10), Junor
+E(11), El-Hariry I(12), Roberts S(13), Harrington K(14), Ang KK(15), Dunn J(16), 
+Woodman C(13).
+
+Author information: 
+(1)Institute of Head and Neck Studies and Education (InHANSE), School of Cancer
+Sciences, University of Birmingham, Edgbaston, Birmingham, United Kingdom.
+(2)Roche Products Ltd, Shire Park, Welwyn Garden City, United Kingdom.
+(3)PPD, Granta Park, Great Abington, Cambridge, United Kingdom.
+(4)Centre for Oral Health Research, Newcastle University, Newcastle-upon-Tyne,
+United Kingdom.
+(5)HPV Oncology Group, Institute of Cancer and Genetics, School of Medicine,
+Cardiff University, Cardiff, United Kingdom.
+(6)GSK, Uxbridge, Middlesex, United Kingdom.
+(7)Department of Otolaryngology-Head and Neck Surgery, Newcastle upon Tyne
+Hospitals, NHS Trust, and Northern Institute for Cancer Research, Newcastle
+University, Newcastle upon Tyne, United Kingdom.
+(8)Hall-Edwards Radiotherapy Research Group, Old Queen Elizabeth Hospital,
+Birmingham, United Kingdom.
+(9)Department of Oncology, University Hospitals Coventry and Warwickshire,
+Coventry, United Kingdom.
+(10)Bristol Haematology and Oncology Centre, Bristol, United Kingdom.
+(11)Edinburgh Cancer Centre, Western General Hospital, Edinburgh, United Kingdom.
+(12)Department of Clinical Research, Synta Pharmaceuticals Corp, Lexington,
+Massachusetts.
+(13)School of Cancer Sciences, University of Birmingham, Edgbaston, Birmingham,
+United Kingdom.
+(14)The Institute of Cancer Research, London, United Kingdom.
+(15)Department of Radiation Oncology, The University of Texas MD Anderson Cancer 
+Center, Houston, Texas.
+(16)Warwick Clinical Trials Unit, University of Warwick, Gibbet Hill Campus,
+Coventry, United Kingdom.
+
+BACKGROUND: There are variations in the proportions of head and neck cancers
+caused by the human papillomavirus (HPV) between countries and regions. It is
+unclear if these are true variations or due to different study designs and
+assays.
+METHODS: We tested formalin-fixed paraffin-embedded diagnostic biopsies for p16
+immunohistochemistry and HPV-DNA (by polymerase chain reaction [PCR] and in situ 
+hybridization [ISH]) using validated protocols on samples from 801 patients with 
+head and neck cancer recruited prospectively between 2006 and 2011 in 4
+randomized controlled trials (RCTs).
+RESULTS: Twenty-one percent of patients (170 of 801) showed both HPV-DNA and
+p16-positivity, detected almost exclusively in oropharyngeal cancer (55%; 15 of
+302); and only 1% of the patients (5 of 499) with nonoropharyngeal cancer were
+HPV positive. HPV-positive oropharyngeal cancer differed between Western and
+Eastern Europe (37%, 155 of 422 vs 6%, 8 of 144; p < .0001) and between Western
+Europe and Asia (37% vs 2%; 4 of 217; p < .0001). Other independent determinants 
+of HPV positivity were tumor site and smoking.
+CONCLUSION: This is the first study to establish geographic variability as an
+independent risk factor in HPV-positive oropharyngeal cancer prevalence, with
+higher prevalence in Western Europe. © 2016 The Authors Head & Neck Published by 
+Wiley Periodicals, Inc. Head Neck 38: E1863-E1869, 2016.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24336 
+PMCID: PMC4869674
+PMID: 26749143  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+1. Virus Res. 2017 Mar 2;231:139-147. doi: 10.1016/j.virusres.2016.11.002. Epub 2016
+Nov 5.
+
+The interaction between human papillomavirus and other viruses.
+
+Guidry JT(1), Scott RS(2).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Center for Tumor and Molecular
+Virology, and Feist-Weiller Cancer Center. Louisiana State University Health
+Sciences Center-Shreveport. Shreveport, LA 71103, USA.
+(2)Department of Microbiology and Immunology, Center for Tumor and Molecular
+Virology, and Feist-Weiller Cancer Center. Louisiana State University Health
+Sciences Center-Shreveport. Shreveport, LA 71103, USA. Electronic address:
+rscott1@lsuhsc.edu.
+
+The etiological role of human papillomavirus (HPV) in anogenital tract and head
+and neck cancers is well established. However, only a low percentage of
+HPV-positive women develop cancer, indicating that HPV is necessary but not
+sufficient in carcinogenesis. Several biological and environmental cofactors have
+been implicated in the development of HPV-associated carcinoma that include
+immune status, hormonal changes, parity, dietary habits, tobacco usage, and
+co-infection with other sexually transmissible agents. Such cofactors likely
+contribute to HPV persistent infection through diverse mechanisms related to
+immune control, efficiency of HPV infection, and influences on tumor initiation
+and progression. Conversely, HPV co-infection with other factors may also harbor 
+anti-tumor effects. Here, we review epidemiological and experimental studies
+investigating human immunodeficiency virus (HIV), herpes simplex virus (HSV) 1
+and 2, human cytomegalovirus (HCMV), Epstein-Barr virus (EBV), BK virus (BKV), JC
+virus (JCV), and adeno-associated virus (AAV) as viral cofactors in or
+therapeutic factors against the development of genital and oral HPV-associated
+carcinomas.
+
+Copyright © 2016 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2016.11.002 
+PMCID: PMC5325789
+PMID: 27826043  [Indexed for MEDLINE]

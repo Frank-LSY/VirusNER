@@ -1,0 +1,62 @@
+
+
+2505. Mol Cancer Ther. 2016 Oct;15(10):2486-2497. Epub 2016 Aug 9.
+
+EGFR and RB1 as Dual Biomarkers in HPV-Negative Head and Neck Cancer.
+
+Beck TN(1), Georgopoulos R(2), Shagisultanova EI(3), Sarcu D(2), Handorf EA(4),
+Dubyk C(4), Lango MN(5), Ridge JA(5), Astsaturov I(6), Serebriiskii IG(7),
+Burtness BA(8), Mehra R(6), Golemis EA(9).
+
+Author information: 
+(1)Molecular Therapeutics, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+Molecular and Cell Biology & Genetics Program, Drexel University College of
+Medicine, Philadelphia, Pennsylvania.
+(2)Molecular Therapeutics, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+Department of Otolaryngology Head and Neck Surgery, Temple University School of
+Medicine, Philadelphia, Pennsylvania.
+(3)Breast Cancer Program, University of Colorado, Anschutz Medical Campus,
+Aurora, Colorado.
+(4)Molecular Therapeutics, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+(5)Surgical Oncology, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+(6)Molecular Therapeutics, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+Medical Oncology, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+(7)Molecular Therapeutics, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+Kazan Federal University, Kazan, Russia.
+(8)Developmental Therapeutics, Yale Cancer Center, New Haven, Connecticut.
+(9)Molecular Therapeutics, Fox Chase Cancer Center, Philadelphia, Pennsylvania.
+Molecular and Cell Biology & Genetics Program, Drexel University College of
+Medicine, Philadelphia, Pennsylvania. Erica.Golemis@fccc.edu
+ranee.mehra@fccc.edu.
+
+Clinical decision making for human papillomavirus (HPV)-negative head and neck
+squamous cell carcinoma (HNSCC) is predominantly guided by disease stage and
+anatomic location, with few validated biomarkers. The epidermal growth factor
+receptor (EGFR) is an important therapeutic target, but its value in guiding
+therapeutic decision making remains ambiguous. We integrated analysis of
+clinically annotated tissue microarrays with analysis of data available through
+the TCGA, to investigate the idea that expression signatures involving EGFR,
+proteins regulating EGFR function, and core cell-cycle modulators might serve as 
+prognostic or drug response-predictive biomarkers. This work suggests that
+consideration of the expression of NSDHL and proteins that regulate EGFR
+recycling in combination with EGFR provides a useful prognostic biomarker set. In
+addition, inactivation of the tumor suppressor retinoblastoma 1 (RB1), reflected 
+by CCND1/CDK6-inactivating phosphorylation of RB1 at T356, inversely correlated
+with expression of EGFR in patient HNSCC samples. Moreover, stratification of
+cases with high EGFR by expression levels of CCND1, CDK6, or the
+CCND1/CDK6-regulatory protein p16 (CDKN2A) identified groups with significant
+survival differences. To further explore the relationship between EGFR and
+RB1-associated cell-cycle activity, we evaluated simultaneous inhibition of RB1
+phosphorylation with the CDK4/6 inhibitor palbociclib and of EGFR activity with
+lapatinib or afatinib. These drug combinations had synergistic inhibitory effects
+on the proliferation of HNSCC cells and strikingly limited ERK1/2 phosphorylation
+in contrast to either agent used alone. In summary, combinations of CDK and EGFR 
+inhibitors may be particularly useful in EGFR and pT356RB1-expressing or
+CCND1/CDK6-overexpressing HPV-negative HNSCC. Mol Cancer Ther; 15(10); 2486-97.
+©2016 AACR.
+
+©2016 American Association for Cancer Research.
+
+DOI: 10.1158/1535-7163.MCT-16-0243 
+PMCID: PMC5522587
+PMID: 27507850  [Indexed for MEDLINE]

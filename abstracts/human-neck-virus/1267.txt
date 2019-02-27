@@ -1,0 +1,38 @@
+
+
+1267. APMIS. 2017 Nov;125(11):974-984. doi: 10.1111/apm.12744. Epub 2017 Oct 4.
+
+Architectural patterns of p16 immunohistochemical expression associated with
+cancer immunity and prognosis of head and neck squamous cell carcinoma.
+
+Ryu HJ(1), Kim EK(1), Heo SJ(2), Cho BC(2), Kim HR(2), Yoon SO(1).
+
+Author information: 
+(1)Department of Pathology, Yonsei University College of Medicine, Seoul, Korea.
+(2)Yonsei Cancer Center, Division of Medical Oncology, Yonsei University College 
+of Medicine, Seoul, Korea.
+
+We evaluated the expression patterns of p16, which is used as a surrogate marker 
+of HPV infection in head and neck squamous cell carcinoma (HNSCC), in regard to
+their biological and prognostic implications. p16 expression patterns and
+infiltrated immune cells were analyzed through immunohistochemistry of p16, CD3, 
+CD8, PD-1, FOXP3, and CD163 on surgically resected HNSCCs (n = 393). Patterns of 
+p16 immunoexpression were defined as STRONG (strong, diffuse expression in
+cytoplasm, and nucleus in >70% of tumor cells), MARGINAL (expression restricted
+to tumor margins), MOSAIC (ragged, discontinued expression), NUCLEAR (expression 
+in nuclei only), and ABSENT (no expression). The STRONG pattern was more frequent
+in the oropharynx, and the MARGINAL pattern was noted only in the oral cavity.
+MOSAIC and NUCLEAR patterns were noted at variable sites. No two patterns of p16 
+expression showed the same immune cell composition of CD3+ T cells, CD8+
+cytotoxic T cells, PD-1+ T cells, FOXP3+ regulatory T cells, and CD163+
+macrophages. In overall and disease-free survival analyses, the STRONG pattern
+showed the most favorable prognosis, while the NUCLEAR pattern had the worst
+prognosis. HNSCC anatomical sites, tumor-related immune cell components, and
+patient outcomes were associated with p16 expression patterns. Each architectural
+pattern of p16 expression may be related to different biological and prognostic
+phenotypes.
+
+© 2017 APMIS. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/apm.12744 
+PMID: 28975663  [Indexed for MEDLINE]

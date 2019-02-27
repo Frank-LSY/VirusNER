@@ -1,0 +1,53 @@
+
+
+952. Eur Arch Otorhinolaryngol. 2015 Dec;272(12):3805-14. doi:
+10.1007/s00405-014-3459-7. Epub 2014 Dec 27.
+
+Incidence trends in head and neck squamous cell carcinoma in Slovenia, 1983-2009:
+role of human papillomavirus infection.
+
+Strojan P(1), Zadnik V(2), Šifrer R(3), Lanišnik B(4), Didanović V(5), Jereb
+S(6), Poljak M(7), Kocjan BJ(7), Gale N(8).
+
+Author information: 
+(1)Department of Radiation Oncology, Institute of Oncology, Zaloška 2, 1000,
+Ljubljana, Slovenia. pstrojan@onko-i.si.
+(2)Epidemiology and Cancer Registries, Institute of Oncology Ljubljana,
+Ljubljana, Slovenia.
+(3)University Department of Otorhinolaryngology and Cervicofacial Surgery,
+University Clinical Center Ljubljana, Ljubljana, Slovenia.
+(4)Department of Otorhinolaryngology, Cervical and Maxillofacial Surgery,
+University Clinical Center Maribor, Maribor, Slovenia.
+(5)Department of Maxillofacial and Oral Surgery, University Clinical Center
+Ljubljana, Ljubljana, Slovenia.
+(6)Department of Radiation Oncology, Institute of Oncology, Zaloška 2, 1000,
+Ljubljana, Slovenia.
+(7)Faculty of Medicine, Institute of Microbiology and Immunology, University of
+Ljubljana, Ljubljana, Slovenia.
+(8)Faculty of Medicine, Institute of Pathology, University of Ljubljana,
+Ljubljana, Slovenia.
+
+An increase in the incidence of oropharyngeal squamous cell carcinoma (OPSCC) was
+observed in several population-based registries and has been attributed to human 
+papillomavirus (HPV) infection. In the present study, we aimed to assess the
+contribution of HPV infection to the burden of mucosal head and neck squamous
+cell carcinoma (HNSCC) in Slovenia. For this purpose, data from the nationwide
+Cancer Registry of Slovenia for cases diagnosed between 1983 and 2009 were
+analyzed to determine time trends of age-adjusted incidence rates and survival in
+terms of annual percentage change (APC) for HNSCC in potentially HPV-related and 
+HPV-unrelated sites. In addition, determination of p16 protein, HPV DNA and E6/E7
+mRNA was performed in a cohort of OPSCC patients identified from the prospective 
+database for the years 2007-2008. In total, 2,862 cases of HNSCC in potentially
+HPV-related sites and 7,006 cases in potentially HPV-unrelated sites were
+identified with decreased incidence observed over the time period in both groups 
+(-0.58; 95 % CI -1.28 to -0.13 and -0.90; 95 % CI -1.23 to -0.57). Regardless of 
+the group, incidence trends for both genders showed a significant decrease in men
+and increase in women. In a cohort of 99 OPSCC patients diagnosed between 2007
+and 2008, 20 (20.2 %) patients had HPV positive tumors and exhibited a superior
+outcome compared to HPV-negative patients. In conclusion, results of the
+epidemiologic and histopathologic study confirmed that HPV infection had no major
+impact on the incidence trends in the Slovenian patients with HNSCC and,
+specifically, OPSCC during the studied period.
+
+DOI: 10.1007/s00405-014-3459-7 
+PMID: 25542247  [Indexed for MEDLINE]

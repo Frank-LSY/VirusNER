@@ -1,0 +1,37 @@
+
+
+2069. Ann Oncol. 2010 Oct;21(10):1961-6. doi: 10.1093/annonc/mdq210. Epub 2010 Apr 27.
+
+p16 expression in oropharyngeal cancer: its impact on staging and prognosis
+compared with the conventional clinical staging parameters.
+
+Fischer CA(1), Kampmann M, Zlobec I, Green E, Tornillo L, Lugli A, Wolfensberger 
+M, Terracciano LM.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, University Hospital,
+Petersgraben 4, Basel, Switzerland. cfischer@uhbs.ch
+
+BACKGROUND: Currently, staging of head neck squamous cell carcinoma (HNSCC) is on
+the basis of primary tumor extension (cT), lymph node involvement (cN) and
+distant metastasis (cM). The aim of cancer staging was to improve diagnosis,
+prognosis and to compare outcome results. A new subgroup of oropharyngeal
+squamous cell carcinoma (OPSCC) induced by human papillomavirus (HPV) infection
+is reported to show an increasing incidence. These HPV-positive OPSCC show
+distinct molecular differences, specific p16 overexpression and a significantly
+better prognosis. Therefore, the aim of this study was to evaluate the prognostic
+influence of p16 expression in OPSCC and compare its relevance with the
+established prognostic markers cT and cN classification and the clinical stages
+I-IV.
+PATIENTS AND METHODS: Immunohistochemistry for p16 was carried out on the basis
+of a tissue microarray including 102 OPSCC patients with corresponding
+retrospective clinicopathological and follow-up data.
+RESULTS: p16 is the strongest independent prognostic marker in OPSCC, surpassing 
+the significance of cT and cN classification as well as the clinical stages I-IV.
+Prognosis of p16-positive OPSCC of an advanced stage reached or even exceeded
+prognosis of the next clinically smaller conventionally staged group of tumors.
+CONCLUSION: p16 is the most relevant prognostic marker in OPSCC and should be
+considered for inclusion into the official staging system of HNSCC.
+
+DOI: 10.1093/annonc/mdq210 
+PMID: 20423915  [Indexed for MEDLINE]

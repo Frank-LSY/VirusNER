@@ -1,0 +1,38 @@
+
+
+1741. Head Neck. 2017 Jul;39(7):1392-1398. doi: 10.1002/hed.24767. Epub 2017 Mar 28.
+
+p16INK4a : A surrogate marker of high-risk human papillomavirus infection in
+squamous cell carcinoma of the nasal vestibule.
+
+Vital D(1), Holzmann D(1), Huber GF(1), Soyka MB(1), Moch H(2), Zimmermann DR(2),
+Ikenberg K(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Head and Neck Surgery, Zurich University
+Hospital and University of Zurich, Frauenklinikstrasse 24, CH-8091, Zurich,
+Switzerland.
+(2)Department of Pathology and Molecular Pathology, Zurich University Hospital
+and University of Zurich, Schmelzbergstrasse 12, CH-8091, Zurich, Switzerland.
+
+BACKGROUND: The purpose of this study was to analyze the role of p16INK4a and the
+prevalence of human papillomavirus (HPV) in squamous cell carcinoma (SCC) of the 
+nasal vestibule.
+METHODS: Patients diagnosed from 1995 to 2014 were included in this study.
+Assessment of p16INK4a and HPV-DNA polymerase chain reaction (PCR) was performed 
+and analyzed with respect to baseline, clinicopathological, and outcome
+parameters. The p16INK4a positivity was defined as unequivocal nuclear and
+cytoplasmic staining of ≥70% of the cells, whereas 50%-69% was considered to be a
+"borderline" result.
+RESULTS: There were 46 patients with SCCs of the nasal vestibule, of whom 31
+(67.4%) were available for p16INK4a and 30 (65.2%) for analysis of HPV.
+Expression of p16INK4a was present in 19.4% and showed coincidence with high-risk
+HPV (P < .001). Neither p16INK4a nor HPV-DNA had significant impact on outcome.
+CONCLUSION: Significant immunoreactivity for p16INK4a was present in about
+one-fifth of the samples and figured as a surrogate marker of high-risk HPV
+infection. There was no influence on outcome.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24767 
+PMID: 28371015  [Indexed for MEDLINE]

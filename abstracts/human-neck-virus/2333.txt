@@ -1,0 +1,40 @@
+
+
+2333. Cancer Biol Ther. 2012 May;13(7):575-84. doi: 10.4161/cbt.19772. Epub 2012 May 1.
+
+The chemopreventive and clinically used agent curcumin sensitizes HPV (-) but not
+HPV (+) HNSCC to ionizing radiation, in vitro and in a mouse orthotopic model.
+
+Tuttle S(1), Hertan L, Daurio N, Porter S, Kaushick C, Li D, Myamoto S, Lin A,
+O'Malley BW, Koumenis C.
+
+Author information: 
+(1)Department of Radiation Oncology, Perelman School of Medicine, University of
+Pennsylvania, Philadelphia, PA, USA.
+
+Radiation therapy (RT) plays a critical role in the local-regional control of
+head and neck squamous cell carcinoma (HNSCC). However, the efficacy of RT in
+treating HNSCC is limited by severe normal tissue toxicity, predominantly
+mucositis. One pharmacological approach for increasing the clinical response to
+RT is the use of radiation response modifiers that preferentially sensitize tumor
+cells. Previously we demonstrated that curcumin, a natural plant polyphenol,
+increased the radiation sensitivity of HNSCC cells and that the observed
+sensitization was dependent on curcumin-mediated inhibition of thioredoxin
+reductase 1 (TxnRd1) a key cytosolic regulator of redox-dependent signaling.
+Here, we examined curcumin-induced radiation sensitization in HNSCC cell lines
+with differing HPV status and expressing different levels of TxnRd1, in vitro.
+The intrinsic radiation resistance of the HPV (-) cell lines was significantly
+higher than the HPV (+) cell lines used in our study. Notably, all of the HPV (-)
+cell lines expressed high levels of TxnRd1 and exhibited higher intrinsic
+resistance to RT. While curcumin was effective at increasing the radiation
+response of the resistant HPV (-) cell lines it had no effect on the HPV (+)
+cells. Based on these findings we employed an orthotopic, HPV (-) HNSCC tumor
+model in athymic nude mice to examine the effect of combining curcumin with
+fractionated RT, in vivo. The combination of curcumin feeding and fractionated RT
+had a significant effect on tumor doubling time and overall animal survival. We
+therefore propose that curcumin and RT should be considered as a first line
+treatment of HPV (-) HNSCC.
+
+DOI: 10.4161/cbt.19772 
+PMCID: PMC4727515
+PMID: 22441776  [Indexed for MEDLINE]

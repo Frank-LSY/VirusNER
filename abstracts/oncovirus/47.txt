@@ -1,0 +1,29 @@
+
+
+47. J Virol. 1997 Apr;71(4):3328-31.
+
+Replication-competent chimeric lenti-oncovirus with expanded host cell tropism.
+
+Reiprich S(1), Gundlach BR, Fleckenstein B, Uberla K.
+
+Author information: 
+(1)Institut für Klinische und Molekulare Virologie, Universität
+Erlangen-Nurnberg, Germany.
+
+Baboon bone marrow was grafted into human immunodeficiency virus type 1-infected 
+patients in the course of recent trials for AIDS treatment. Since the baboon
+genome harbors multiple copies of an endogenous oncovirus, chimeric
+lenti-oncoviruses could emerge in the xenotransplant recipient. To analyze the
+potential replication competence of hybrid viruses between different genera of
+retroviruses, we replaced most of the env gene of simian immunodeficiency virus
+with the env gene of an amphotropic murine leukemia virus. The hybrid virus could
+be propagated in human T-cell lines, in peripheral blood mononuclear cells of
+rhesus macaques, and in CD4- B-cell lines. Because of the expanded cell tropism, 
+the hybrid virus might have a selective advantage in comparison to parental
+viruses. Therefore, emerging chimeric viruses may be considered a serious risk of
+xenotransplantation. A note of caution is also suggested for the use of
+pseudotyped lentiviral vectors for human gene therapy.
+
+
+PMCID: PMC191473
+PMID: 9060704  [Indexed for MEDLINE]

@@ -1,0 +1,46 @@
+
+
+1597. J Otolaryngol Head Neck Surg. 2018 Sep 19;47(1):58. doi:
+10.1186/s40463-018-0301-z.
+
+The impact of human papillomavirus (HPV) status on functional outcomes and
+quality of life (QOL) after surgical treatment of oropharyngeal carcinoma with
+free-flap reconstruction.
+
+Marzouki HZ(1), Biron VL(2), Dziegielewski PT(3)(4), Ma A(2), Vaz J(2),
+Constantinescu G(2), Harris J(2), O'Connell D(2), Seikaly H(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, King Abdulaziz University,
+Jeddah, Saudi Arabia. hanimarzouki@gmail.com.
+(2)Division of Otolaryngology-Head and Neck Surgery, Department of Surgery,
+University of Alberta and Alberta Health Services, 1E4.34, WMC 8440 - 112 Street,
+Edmonton, AB, T6G 2B7, Canada.
+(3)Department of Otolaryngology-Head and Neck Surgery, King Abdulaziz University,
+Jeddah, Saudi Arabia.
+(4)Department of Otolaryngology, University of Florida, Florida, USA.
+
+BACKGROUND: To determine the impact of Human Papillomavirus (HPV) status on
+speech, swallowing, and quality of life (QOL) outcomes after surgical treatment
+of oropharyngeal cancer (OPSCC).
+METHODS: A retrospective review of a prospectively collected database of all
+patients with OPSCC diagnosed and treated from 1998 to 2009. Speech, swallowing, 
+and quality of life data were gathered at 3 different evaluation points. HPV
+status was determined using p16 positivity as a surrogate marker. Univariate and 
+multivariate statistical analyses were performed to identify whether p16 status
+is a significant predictor of functional outcome and QOL.
+RESULTS: One hundred twelve patients with OPSCC and known p16 status were treated
+with primary surgery between 1998 and 2009, with mean age of 56 years. Out of
+those patients 63 (56%) were p16 positive. Speech intelligibility remained high
+at 1-year post operation (95.4%). Only 11.5% of the patients required a feeding
+tube at 1 year after surgery to maintain their daily caloric requirements and the
+risk of aspiration after surgery was not significant (p = 0.097). There was no
+statistically or clinically significant difference in speech, swallowing ability,
+swallowing safety and QOL outcomes between p16-positive and negative OPSCC.
+CONCLUSIONS: Surgically treated OPSCC patients demonstrate excellent swallowing
+function and can achieve excellent speech perception. P16 status may not be
+predictive of functional outcomes or QOL in surgically treated OPSCC.
+
+DOI: 10.1186/s40463-018-0301-z 
+PMCID: PMC6146510
+PMID: 30231911  [Indexed for MEDLINE]

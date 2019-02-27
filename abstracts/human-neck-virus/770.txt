@@ -1,0 +1,48 @@
+
+
+770. PLoS One. 2018 Aug 16;13(8):e0200823. doi: 10.1371/journal.pone.0200823.
+eCollection 2018.
+
+Early metabolic 18F-FDG PET/CT response of locally advanced squamous-cell
+carcinoma of head and neck to induction chemotherapy: A prospective pilot study.
+
+Nicolau UR(1), de Jesus VHF(1), Lima ENP(2), Alves MS(1), de Oliveira TB(1),
+Andrade LB(3), Silva VS(1), Bes PC(1), de Paiva TF Jr(1), Calsavara VF(4),
+Guimarães APG(1), Cezana L(1), Barbosa PNVP(2), Porto GCLM(2), Pellizzon ACA(5), 
+de Carvalho GB(6), Kowalski LP(6).
+
+Author information: 
+(1)Medical Oncology Department, A.C. Camargo Cancer Center, São Paulo, SP,
+Brazil.
+(2)Imaging Department, A.C. Camargo Cancer Center, São Paulo, SP, Brazil.
+(3)Pathology Department, A.C. Camargo Cancer Center, São Paulo, SP, Brazil.
+(4)Biostatistics Department, A.C. Camargo Cancer Center, São Paulo, SP, Brazil.
+(5)Radiotherapy Department, A.C. Camargo Cancer Center, São Paulo, SP, Brazil.
+(6)Head and Neck Surgery Department, A.C. Camargo Cancer Center, São Paulo,
+Brazil.
+
+OBJECTIVE: The objective of this study was to assess the clinical value of
+18-fluorodeoxyglucose positron emission tomography/computed tomography (18F-FDG
+PET/CT) after the first cycle of induction chemotherapy (IC) in locally advanced 
+squamous cell carcinoma of the head and neck (LASCCHN).
+METHODS AND FINDINGS: A prospective, single-arm, single center study was
+performed, with patients enrolled between February 2010 and July 2013.Patients (n
+= 49) with stage III/IVA-B LASCCHN who underwent IC with taxanes, cisplatin, and 
+fluorouracil were recruited. Staging procedures included loco-regional and chest 
+imaging, endoscopic examination, and PET/CT scan. On day 14 of the first cycle, a
+second PET/CT scan was performed. Patients with no early increase in regional
+lymph node maximum 18F-FDG standard uptake value (SUV), detected using 18F-FDG
+PET/CT after first IC had better progression-free survival (hazard ratio (HR) =
+0.18, 95%, confidence interval (CI) 0.056-0.585; p = 0.004) and overall survival 
+(HR = 0.14, 95% CI 0.040-0.498; p = 0.002), and were considered responders. In
+this subgroup, patients who achieved a reduction of ≥ 45% maximum primary tumor
+SUV experienced improved progression-free (HR = 0.23, 95% CI 0.062-0.854; p =
+0.028) and overall (HR = 0.11, 95% CI 0.013-0.96; p = 0.046) survival.
+CONCLUSIONS: These results suggest a potential role for early response evaluation
+with PET/CT examination in patients with LASCCHN undergoing IC. Increased
+regional lymph node maximum SUV and insufficient decrease in primary tumor uptake
+predict poorer outcomes.
+
+DOI: 10.1371/journal.pone.0200823 
+PMCID: PMC6095513
+PMID: 30114190  [Indexed for MEDLINE]

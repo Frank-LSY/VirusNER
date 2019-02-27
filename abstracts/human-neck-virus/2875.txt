@@ -1,0 +1,40 @@
+
+
+2875. Diagn Pathol. 2018 Jun 9;13(1):39. doi: 10.1186/s13000-018-0713-0.
+
+EBV-associated lymphoepithelioma-like thyroid carcinoma with favorable outcome:
+case report with cytopathologic and histopathologic study.
+
+Liu CY(1)(2), Huang SH(3).
+
+Author information: 
+(1)Division of Pathology, Sijhih Cathay General Hospital, No.2, Lane 59,
+Jiancheng Road, Sijhih District, New Taipei City, 22174, Taiwan.
+cyl1124@gmail.com.
+(2)College of Medicine, Fu Jen Catholic University, New Taipei City, Taiwan.
+cyl1124@gmail.com.
+(3)Department of Pathology, Cathay General Hospital, Taipei, Taiwan.
+
+BACKGROUND: Lymphoepithelioma-like carcinoma (LELC) is a rare entity among
+thyroid tumors. Based on the limited number of case reports that exist, the
+association of Epstein-Barr virus (EBV) with primary thyroid LELCs seems
+inconsistent.
+CASE PRESENTATION: We present a confusing cytological case of
+lymphoepithelioma-like thyroid carcinoma with expression of EBV. The patient
+presented with a central neck mass and bilateral lymphadenopathy. Fine-needle
+aspiration cytology revealed three-dimensional and syncytial fragments of
+epithelioid cells accompanied by small lymphocytes. The surgical specimen of
+resected thyroid tumor disclosed typical histopathological features of LELC.
+Metastatic papillary carcinoma was also discovered in the metastatic lymph nodes.
+In situ hybridization for EBV-encoded RNA (EBER-ISH) was positive in the tumor
+cells. Negative immunoreactivity for TTF-1, Pax-8, and CD5 was observed. The
+patient is currently undergoing regular follow-up and is 1 year and 10 months
+postresection with no evidence of recurrence.
+CONCLUSIONS: Long-term survival is discussed in relation to this variant of
+thyroid carcinoma, which might differ in behavior from anaplastic carcinoma.
+Further investigation is required to elucidate the clinical significance of EBV
+expression and progression of this unique variant of thyroid carcinoma.
+
+DOI: 10.1186/s13000-018-0713-0 
+PMCID: PMC5994248
+PMID: 29885658  [Indexed for MEDLINE]

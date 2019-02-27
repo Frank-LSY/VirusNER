@@ -1,0 +1,60 @@
+
+
+111. J Virol. 2015 Aug;89(15):7944-54. doi: 10.1128/JVI.00757-15. Epub 2015 May 20.
+
+Interferon Beta and Interferon Alpha 2a Differentially Protect Head and Neck
+Cancer Cells from Vesicular Stomatitis Virus-Induced Oncolysis.
+
+Westcott MM(1), Liu J(2), Rajani K(3), D'Agostino R Jr(4), Lyles DS(3), Porosnicu
+M(5).
+
+Author information: 
+(1)Department of Microbiology and Immunology, Wake Forest School of Medicine,
+Winston-Salem, North Carolina, USA.
+(2)Department of Internal Medicine, Section on Hematology and Oncology, Wake
+Forest School of Medicine, Winston-Salem, North Carolina, USA.
+(3)Department of Biochemistry, Wake Forest School of Medicine, Winston-Salem,
+North Carolina, USA.
+(4)Department of Biostatistical Sciences, Wake Forest School of Medicine,
+Winston-Salem, North Carolina, USA.
+(5)Department of Internal Medicine, Section on Hematology and Oncology, Wake
+Forest School of Medicine, Winston-Salem, North Carolina, USA
+mporosni@wakehealth.edu.
+
+Oncolytic viruses (OV) preferentially kill cancer cells due in part to defects in
+their antiviral responses upon exposure to type I interferons (IFNs). However,
+IFN responsiveness of some tumor cells confers resistance to OV treatment. The
+human type I IFNs include one IFN-β and multiple IFN-α subtypes that share the
+same receptor but are capable of differentially inducing biological responses.
+The role of individual IFN subtypes in promoting tumor cell resistance to OV is
+addressed here. Two human IFNs which have been produced for clinical use, IFN-α2a
+and IFN-β, were compared for activity in protecting human head and neck squamous 
+cell carcinoma (HNSCC) lines from oncolysis by vesicular stomatitis virus (VSV). 
+Susceptibility of HNSCC lines to killing by VSV varied. VSV infection induced
+increased production of IFN-β in resistant HNSCC cells. When added exogenously,
+IFN-β was significantly more effective at protecting HNSCC cells from VSV
+oncolysis than was IFN-α2a. In contrast, normal keratinocytes and endothelial
+cells were protected equivalently by both IFN subtypes. Differential
+responsiveness of tumor cells to IFN-α and -β was further supported by the
+finding that autocrine IFN-β but not IFN-α promoted survival of HNSCC cells
+during persistent VSV infection. Therefore, IFN-α and -β differentially affect
+VSV oncolysis, justifying the evaluation and comparison of IFN subtypes for use
+in combination with VSV therapy. Pairing VSV with IFN-α2a may enhance selectivity
+of oncolytic VSV therapy for HNSCC by inhibiting VSV replication in normal cells 
+without a corresponding inhibition in cancer cells.IMPORTANCE: There has been a
+great deal of progress in the development of oncolytic viruses. However, a major 
+problem is that individual cancers vary in their sensitivity to oncolytic
+viruses. In many cases this is due to differences in their production and
+response to interferons (IFNs). The experiments described here compared the
+responses of head and neck squamous cell carcinoma cell lines to two IFN
+subtypes, IFN-α2a and IFN-β, in protection from oncolytic vesicular stomatitis
+virus. We found that IFN-α2a was significantly less protective for cancer cells
+than was IFN-β, whereas normal cells were equivalently protected by both IFNs.
+These results suggest that from a therapeutic standpoint, selectivity for cancer 
+versus normal cells may be enhanced by pairing VSV with IFN-α2a.
+
+Copyright © 2015, American Society for Microbiology. All Rights Reserved.
+
+DOI: 10.1128/JVI.00757-15 
+PMCID: PMC4505650
+PMID: 25995245  [Indexed for MEDLINE]

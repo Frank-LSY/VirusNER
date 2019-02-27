@@ -1,0 +1,41 @@
+
+
+557. Expert Opin Biol Ther. 2012 Dec;12(12):1669-78. doi:
+10.1517/14712598.2012.745507.
+
+Oncolytic reovirus type 3 (Dearing) as a novel therapy in head and neck cancer.
+
+Kyula JN(1), Roulstone V, Karapanagiotou EM, Melcher AA, Harrington KJ.
+
+Author information: 
+(1)The Institute of Cancer Research, Targeted Therapy Team, Chester Beatty
+Laboratories, London, UK.
+
+Erratum in
+    Expert Opin Biol Ther. 2013 Jan;13(1):147.
+
+INTRODUCTION: Locally advanced head and neck cancer carries a poor prognosis,
+even with standard combination (surgery, radiotherapy, chemotherapy) treatment
+regimens. There is a pressing need for novel therapies with activity against this
+tumour type. Oncolytic reovirus type 3 (Dearing) is preferentially cytotoxic in
+tumour cells with an activated Ras signalling pathway and represents a promising 
+novel therapy with relevance in head and neck cancer.
+AREAS COVERED: In this review, we discuss the pre-clinical and clinical data that
+have underpinned the translational development of oncolytic reovirus thus far. In
+particular, we describe the iterative nature of the research programme through
+initial studies testing single-agent reovirus therapy and on to subsequent work
+in which reovirus has been combined with either radiotherapy or cytotoxic
+chemotherapy. We will trace the process by which oncolytic reovirus has reached
+Phase III evaluation in combination with carboplatin/paclitaxel in patients with 
+platin-refractory, relapsed/metastatic head and neck cancer.
+EXPERT OPINION: Reovirus is a self-amplifying, cancer-selective agent that offers
+huge potential advantages over standard chemotherapy, targeted small molecules or
+monoclonal antibodies. However, it is most likely that reovirus will show
+efficacy and be approved in combination with standard modalities (cytotoxic
+chemotherapy or radiotherapy) or other targeted agents, especially those that
+modulate signal transduction pathways. The next 5 years are critical for the
+development of oncolytic reovirus as an anti-cancer therapy and hinge on the
+ongoing Phase III trial in head and neck cancer and other Phase II programmes.
+
+DOI: 10.1517/14712598.2012.745507 
+PMID: 23140488  [Indexed for MEDLINE]

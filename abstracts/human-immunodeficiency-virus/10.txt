@@ -1,0 +1,44 @@
+
+Conflict of interest statement: The author declares no conflicts of interest.
+
+
+10. J Infect Dis. 2017 Dec 1;216(suppl_9):S829-S833. doi: 10.1093/infdis/jix397.
+
+Next-Generation Human Immunodeficiency Virus Sequencing for Patient Management
+and Drug Resistance Surveillance.
+
+Noguera-Julian M(1)(2)(3), Edgil D(4), Harrigan PR(5), Sandstrom P(6), Godfrey
+C(7), Paredes R(1)(2)(3)(8).
+
+Author information: 
+(1)IrsiCaixa AIDS Research Institute.
+(2)Universitat Autònoma de Barcelona.
+(3)Universitat de Vic-Universitat Central de Catalunya, Spain.
+(4)United States Agency for International Development.
+(5)British Columbia Centre for Excellence in HIV/AIDS, University of British
+Columbia.
+(6)National HIV and Retrovirology Laboratory, JC Wilt Infectious Diseases
+Research Centre, Public Health Agency of Canada, Canada.
+(7)Division of AIDS, National Institute of Allergy and Infectious Diseases,
+National Institutes of Health.
+(8)Infectious Diseases Unit, Hospital Universitari Germans Trias i Pujol, Spain.
+
+High-quality, simplified, and low-cost human immunodeficiency virus (HIV) drug
+resistance tests that are able to provide timely actionable HIV resistance data
+at individual, population, and programmatic levels are needed to confront the
+emerging drug-resistant HIV epidemic. Next-generation sequencing technologies
+embedded in automated cloud-computing analysis environments are ideally suited
+for such endeavor. Whereas NGS can reduce costs over Sanger sequencing, automated
+analysis pipelines make NGS accessible to molecular laboratories regardless of
+the available bioinformatic skills. They can also produce highly structured,
+high-quality data that could be examined by healthcare officials and program
+managers on a real-time basis to allow timely public health action. Here we
+discuss the opportunities and challenges of such an approach.
+
+© The Author 2017. Published by Oxford University Press for the Infectious
+Diseases Society of America. All rights reserved. For permissions, e-mail:
+journals.permissions@oup.com.
+
+DOI: 10.1093/infdis/jix397 
+PMCID: PMC5853595
+PMID: 28968834  [Indexed for MEDLINE]

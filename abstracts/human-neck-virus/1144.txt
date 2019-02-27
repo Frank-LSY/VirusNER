@@ -1,0 +1,26 @@
+
+
+1144. Recent Results Cancer Res. 2017;206:89-100.
+
+HPV-Related Head and Neck Squamous Cell Carcinomas.
+
+Marszałek A(1), Szylberg Ł(2).
+
+Author information: 
+(1)Department of Oncologic Pathology and Prophylactics, Greater Poland Cancer
+Center, Poznan University of Medical Sciences, Poznan, Poland.
+andrzej.marszalek@wco.pl.
+(2)Department of Clinical Pathomorphology, Collegium Medicum in Bydgoszcz,
+Nicolaus Copernicus University in Torun, Torun, Poland.
+
+Since more than 5 years, it becomes evident that there is a new group of patients
+with squamous cell carcinomas of the head and neck area, namely human
+papillomavirus (HPV)-related (caused) tumors. As clinical statistics indicate,
+those patients have better prognosis, even despite more advanced stage compared
+to those with HPV-negative tumors. In fact, as a surrogate of HPV infection for
+clinical studies, an immunohistochemical expression of p16 protein is used. In
+the following chapter, the spectrum of squamous cell carcinomas variants with
+indication of the percentage cases with proved HPV infection will be presented.
+
+DOI: 10.1007/978-3-319-43580-0_6 
+PMID: 27699531  [Indexed for MEDLINE]

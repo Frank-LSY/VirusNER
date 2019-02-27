@@ -1,0 +1,38 @@
+
+
+862. J Laryngol Otol. 2017 Sep;131(9):760-767. doi: 10.1017/S0022215117001098. Epub
+2017 Jul 19.
+
+Human papillomavirus tumour status is not associated with a positive depression
+screen for patients with oropharyngeal cancer.
+
+Qualliotine JR(1), Califano JA(1), Li RJ(1), Gold D(2), Messing B(2), Lee G(2),
+Ha P(1), Fakhry C(1).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery,Johns Hopkins University
+School of Medicine,Baltimore,Maryland,USA.
+(2)Milton J Dance Jr Head and Neck Center, Greater Baltimore Medical
+Center,Maryland,USA.
+
+BACKGROUND: Several risk factors for depression in patients with oropharyngeal
+cancer have been determined. However, it is unknown whether human papillomavirus 
+associated oropharyngeal cancer, which has a distinct clinico-demographic
+profile, modulates this risk.
+METHODS: A retrospective analysis was conducted of patients with oropharyngeal
+cancer. These patients had completed a 10-item depression screening questionnaire
+before receiving treatment for their disease from 2011 to 2014. Associations
+between patient or disease characteristics and depression screening questionnaire
+results were investigated.
+RESULTS: The study comprised 69 patients, 31 (44.9 per cent) of whom screened
+positive for depression. There were no significant differences in distributions
+of clinico-demographic or histopathological characteristics, including human
+papillomavirus tumour status, by depression screen result.
+CONCLUSION: This population has a high risk for depression, but no obvious risk
+factors, including human papillomavirus tumour status, were associated with an
+elevated risk. This inability to risk-stratify patients by clinico-demographic or
+disease characteristics emphasises the importance of regular depression screening
+for all patients in this population.
+
+DOI: 10.1017/S0022215117001098 
+PMID: 28720154  [Indexed for MEDLINE]

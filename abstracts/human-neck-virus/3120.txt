@@ -1,0 +1,51 @@
+
+
+3120. Ann Otol Rhinol Laryngol. 2018 Dec;127(12):974-977. doi:
+10.1177/0003489418803391. Epub 2018 Sep 29.
+
+Low-Grade Papillary Schneiderian Carcinoma of the Sinonasal Cavity and Temporal
+Bone.
+
+Brown CS(1), Abi Hachem R(1), Pendse A(2), Madden JF(2), Francis HW(1).
+
+Author information: 
+(1)1 Division of Head and Neck Surgery & Communication Sciences, Department of
+Surgery, Duke University Medical Center, Durham, NC, USA.
+(2)2 Department of Pathology, Duke University Medical Center, Durham, NC, USA.
+
+OBJECTIVES:: The aim of this study was to further characterize a newly described 
+neoplasm, low-grade papillary Schneiderian carcinoma, occurring simultaneously in
+the sinonasal cavity and mastoid. Additionally, the authors review the only 2
+similar cases within the literature and describe the common clinical features,
+radiographic findings, and pathologic characteristics of this exceptionally rare 
+disease process.
+METHODS:: Chart review for single patient, review of literature.
+RESULTS:: The patient presented with bilateral nasal obstruction. Computed
+tomography revealed a left sinonasal mass with skull base hyperostosis, and
+follow-up magnetic resonance imaging showed a concomitant olfactory groove
+meningioma. Examination showed a bilateral, completely obstructing sinonasal mass
+with skip areas, and biopsy confirmed inverted papilloma (human papilloma virus
+strains 16 and 18 indeterminate). The patient underwent bilateral endoscopic
+sinus surgery, left medial maxillectomy, and left partial nasopharyngectomy.
+Given her multifocal disease, she was advised that she would require additional
+excision, but was lost to follow up. One year later she developed acute left
+facial paralysis. Magnetic resonance imaging demonstrated an enhancing mass in
+the left mastoid with enhancement along the Eustachian tube in addition to her
+known recurrent sinonasal disease. Simultaneous endoscopic sinus surgery and
+mastoidectomy were performed. Polypoid tissue was removed from the nasopharynx,
+mesotympanum, epitympanum, and retrofacial air cells. Immunohistochemistry showed
+that cells stained positive for p63 and dermCK and negative for synaptophysin.
+Morphologically, cells were bland, without classic stromal invasion, retaining
+their smooth, cystic, and papillary features, despite their increased depth
+within the tissue. Upon further review and consultation with an outside
+pathologist, a diagnosis of low-grade papillary Schneiderian carcinoma was made. 
+The patient was referred for radiation therapy and is disease free at 3-month
+follow-up, with return of her facial function.
+CONCLUSIONS:: This case represents the first report of concurrent low-grade
+papillary Schneiderian carcinoma of both the nasal cavity and mastoid. It
+emphasizes the importance of recognizing this new entity through pathologic
+analysis and suspecting it when the clinical course does not follow an expected
+pattern.
+
+DOI: 10.1177/0003489418803391 
+PMID: 30269519  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+1017. Oncol Rep. 2017 Aug;38(2):908-916. doi: 10.3892/or.2017.5720. Epub 2017 Jun 14.
+
+Expression of cell cycle-related proteins in oropharyngeal squamous cell
+carcinoma based on human papilloma virus status.
+
+Tsuchida K(1), Sugai T(1), Uesugi N(1), Ishida K(1), Matsuura K(2), Sato I(3),
+Shiga K(4), Sato H(4).
+
+Author information: 
+(1)Department of Molecular Diagnostic Pathology, School of Medicine, Iwate
+Medical University, Morioka, Iwate 020-8505, Japan.
+(2)Department of Head and Neck Surgery, Miyagi Cancer Center, Natori, Miyagi
+981-1293, Japan.
+(3)Department of Pathology, Miyagi Cancer Center, Natori, Miyagi 981-1293, Japan.
+(4)Department of Otolaryngology-Head and Neck Surgery, School of Medicine, Iwate 
+Medical University, Morioka, Iwate 020-8505, Japan.
+
+The molecular association between human papilloma virus (HPV) and cell
+cycle-related (CCR) proteins is not fully understood in oropharyngeal squamous
+cell carcinoma (OPSCC). Herein, we examined the expression levels of CCRs in
+OPSCCs based on HPV status. In situ hybridization (ISH)- and polymerase chain
+reaction (PCR)-based assays were used to detect HPV status in 98 OPSCCs, and CCRs
+were detected by immunostaining. Of 98 tumors, 47 had HPV-positive tumors by
+either ISH- or PCR-based assays. Concordance analysis between ISH- and PCR-based 
+tests showed a good agreement in OPSCC. Expression of p16 was moderate,
+consistent with HPV positivity as determined by ISH-based analysis. High p53-,
+phospho (p)-Rb-, SKP2-, cyclin D1-, and p-c-myc-positive rates were correlated
+with HPV-negative tumors, whereas high p16- and p27-positive rates were
+associated with HPV-positive tumors. The positive rates for p21 and cyclin A did 
+not differ between HPV-positive and HPV-negative tumors. Finally, Ki-67
+positivity was commonly observed for both types of OPSCCs. Although expression of
+p16 is thought to be a marker of HPV infection, ISH- or PCR-based tests should be
+used for HPV detection. In addition, our results regarding CCRs may be helpful
+for understanding the carcinogenesis of OPSCC.
+
+DOI: 10.3892/or.2017.5720 
+PMID: 28627689  [Indexed for MEDLINE]

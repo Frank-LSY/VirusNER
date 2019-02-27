@@ -1,0 +1,26 @@
+
+
+42. Med Microbiol Immunol. 2010 Aug;199(3):197-207. doi: 10.1007/s00430-010-0158-x.
+Epub 2010 May 6.
+
+Molecular biology of foamy viruses.
+
+Rethwilm A(1).
+
+Author information: 
+(1)Institut für Virologie und Immunbiologie, University of Würzburg, Versbacher
+Str. 7, Würzburg, Germany. virologie@vim.uni-wuerzburg.de
+
+One of the most fascinating areas in retrovirology is the study of foamy viruses 
+(FVs), because these viruses appear to do everything that is common to all other 
+retroviruses differently. FVs have found a completely new way to propagate their 
+genome. And they do this extremely successfully because most of wild non-human
+primates, felines, bovines, equines, and small ruminants are likely to be
+non-pathogenically infected. The success of FVs can also be viewed from a
+different angle, since they replicate very conservatively and do not need to
+shape their genotypic and phenotypic makeup every now and then. The elucidation
+of the underlying basic mechanisms of the FV replication strategy is the topic of
+this review.
+
+DOI: 10.1007/s00430-010-0158-x 
+PMID: 20445989  [Indexed for MEDLINE]

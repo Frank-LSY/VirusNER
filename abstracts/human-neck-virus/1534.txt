@@ -1,0 +1,35 @@
+
+
+1534. Oncol Rep. 2013 Jul;30(1):371-6. doi: 10.3892/or.2013.2415. Epub 2013 Apr 22.
+
+Human papillomavirus predicts the outcome following concomitant chemoradiotherapy
+in patients with head and neck squamous cell carcinomas.
+
+Duray A(1), Descamps G, Decaestecker C, Sirtaine N, Gilles A, Khalifé M,
+Chantrain G, Depuydt CE, Delvenne P, Saussez S.
+
+Author information: 
+(1)Laboratory of Anatomy, Faculty of Medicine and Pharmacy, University of Mons,
+Mons, Belgium.
+
+We investigated the prevalence of human papillomavirus (HPV) in a clinical series
+of 72 patients with head and neck squamous cell carcinoma (HNSCC) using a
+retrospective and prospective study design. The majority of patients were smokers
+and/or drinkers and were treated with concomitant chemoradiotherapy (CCR).
+Furthermore, we assessed the impact of HPV positivity on the response to CCR.
+Paraffin-embedded samples from HNSCC patients (n=72) were evaluated for the
+presence of HPV DNA using both GP5+/GP6+ consensus PCR and type-specific E6/E7
+PCR to detect HPV types 6, 11, 16, 18, 31, 33, 35, 39, 45, 51, 52, 53, 56, 58,
+59, 66, 67 and 68. The type-specific E6/E7 PCR demonstrated that 20 out of 69
+HNSCC patients (29%) presented with high-risk (HR) HPV types and that 5 of the 69
+HNSCC patients (7%) presented with low-risk (LR) HPV types. Using the GP5+/GP6+
+PCR, we observed that the rate of response was statistically lower in the HPV+
+group (P=0.02). Concerning patient outcomes in terms of recurrence and survival, 
+we observed that the prognosis was poorer for HPV+ patients. We showed for the
+first time that patients with HPV+ HNSCC present with a worse prognosis after
+CCR. This observation highlights the need for prospective studies with large
+numbers of patients and a detailed history of tobacco and alcohol consumption
+before validating HPV as a marker of prognosis following CCR.
+
+DOI: 10.3892/or.2013.2415 
+PMID: 23603900  [Indexed for MEDLINE]

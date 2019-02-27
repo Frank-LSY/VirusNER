@@ -1,0 +1,22 @@
+
+
+812. Cancer Invest. 2009 Aug;27(7):781-7. doi: 10.1080/07357900802653456.
+
+Cutaneous human papillomavirus in head and neck squamous cell carcinomas.
+
+Lindel K(1), Helmke B, Simon C, Weber KJ, Debus J, de Villiers EM.
+
+Author information: 
+(1)Department of Radiation Oncology and Radiotherapy, University of Heidelberg,
+Heidelberg, Germany. Katja Lindel@med.uni-heidelberg.de
+
+To evaluate the prevalence and meaning of cutaneous human papillomavirus (HPV)
+types in HNSCC 51 patients were analyzed for the prevalence of cutaneous as well 
+as mucosal HPV. HPV DNA was demonstrated in 18 (35%) of 51 tumors. The majority
+of these HPV types belong to so-called cutaneous HPV types, whereas only HPV 6
+and HPV 16 were from the mucosal HPV types. A possible role for cutaneous HPV
+types as co-factors in the oncogenesis of HNSCC remains to be elucidated and may 
+be relevant for future strategies of cancer prevention.
+
+DOI: 10.1080/07357900802653456 
+PMID: 19513898  [Indexed for MEDLINE]

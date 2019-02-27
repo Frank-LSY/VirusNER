@@ -1,0 +1,36 @@
+
+
+3126. J Med Case Rep. 2018 May 15;12(1):137. doi: 10.1186/s13256-018-1626-y.
+
+Dengue fever complicated with Guillain-Barré syndrome: a case report and review
+of the literature.
+
+Dalugama C(1), Shelton J(2), Ekanayake M(2), Gawarammana IB(2).
+
+Author information: 
+(1)Department of Medicine, University of Peradeniya, Galaha Road, Peradeniya, Sri
+Lanka. chamaradalugama@yahoo.com.
+(2)University Medical Unit, Teaching Hospital, Peradeniya, Sri Lanka.
+
+BACKGROUND: Dengue is an arboviral infection classically presenting with fever,
+arthralgia, headache, and rashes. It is hyperendemic in Sri Lanka and has a major
+impact on health. Neurological complications of dengue fever are rare but have
+been reported in the literature.
+CASE PRESENTATION: A 60-year-old Sri Lankan man presented with a history of
+fever, arthralgia, and generalized malaise of 2 days duration. A diagnosis of
+dengue was confirmed with leukopenia, thrombocytopenia, and positive NS1 antigen 
+done on day 2 without evidence of hemoconcentration. On admission, our patient
+had weakness of the bilateral lower limbs, which progressed in an ascending
+pattern involving both upper limbs and neck muscles, requiring assisted
+ventilation. Electromyography confirmed a demyelinating polyneuropathy and
+cerebrospinal fluid showed albumincytological dissociation. He was treated with
+intravenous immunoglobulins and made an uneventful recovery. Subsequently, his
+immunoglobulin M test result for dengue virus was positive.
+CONCLUSIONS: Guillain-Barré syndrome is a rare but possible neurological sequel
+following dengue fever. In regions where dengue is hyperendemic, screening for
+dengue illness may be important in patients presenting with acute flaccid
+paralysis.
+
+DOI: 10.1186/s13256-018-1626-y 
+PMCID: PMC5952700
+PMID: 29759074  [Indexed for MEDLINE]

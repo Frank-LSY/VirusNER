@@ -1,0 +1,41 @@
+
+
+990. Clin Anat. 2015 Nov;28(8):1002-7. doi: 10.1002/ca.22620. Epub 2015 Sep 9.
+
+Human papillomavirus infection in the oromaxillofacial area: Clinical anatomy and
+histological considerations.
+
+Ilea A(1), Boşca B(2), MiclĂuş V(3), Rus V(3), BĂbţan AM(4), CÂmpian RS(1).
+
+Author information: 
+(1)Department of Oral Rehabilitation, Oral Health and Dental Office Management,
+"Iuliu Haţieganu" University of Medicine and Pharmacy, Oral Health and Dental
+Office Management, Faculty of Dentistry, Cluj-Napoca, Romania.
+(2)Department of Histology, "Iuliu Haţieganu" University of Medicine and
+Pharmacy, Faculty of Medicine, Cluj-Napoca, Romania.
+(3)Department of Histology and Embryology, University of Agricultural Sciences
+and Veterinary Medicine, Faculty of Veterinary Medicine, Cluj-Napoca.
+(4)Department of Oral and Maxillofacial Surgery, Clinical County Hospital
+Cluj-Napoca, "Iuliu Haṭieganu" University of Medicine and Pharmacy, Faculty of
+Dentistry, Cluj-Napoca, Romania.
+
+Clinical manifestations of human papillomavirus (HPV) infection in the head and
+neck can range from benign lesions, which are the most frequent, to malignant
+lesions. The prevalence of head and neck cancer is increasing, despite currently 
+decreasing trends in known risk factors such as smoking and alcohol use. A new
+patient profile has appeared in recent practice: most frequently a middle-aged
+male patient who does not smoke or drink alcohol, is sexually active (possibly
+having multiple partners), and presents with oral or cervicofacial lesions
+requiring diagnosis and treatment. Another risk factor that should be considered 
+in these patients is HPV infection. The association of oral potentially malignant
+disorders (OPMD) with HPV is a challenge for the medical practitioner. The gold
+standard for diagnosis is histopathological examination, which can also yield
+evidence suggesting HPV infection. Determination of the viral genotype provides
+additional data for assessing the oncological risk of an HPV infection. Treatment
+of these patients is aimed at removing the lesions, in association or not with
+antiviral treatment and recurrence control.
+
+© 2015 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ca.22620 
+PMID: 26331491  [Indexed for MEDLINE]

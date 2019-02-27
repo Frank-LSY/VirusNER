@@ -1,0 +1,46 @@
+
+
+2012. AIDS. 2012 Jan 14;26(2):175-84. doi: 10.1097/QAD.0b013e32834ed8c8.
+
+Prevalence of seroconversion symptoms and relationship to set-point viral load:
+findings from a subtype C epidemic, 1995-2009.
+
+Sullivan PS(1), Fideli U, Wall KM, Chomba E, Vwalika C, Kilembe W, Tichacek A,
+Luisi N, Mulenga J, Hunter E, Boeras D, Allen S.
+
+Author information: 
+(1)Emory University Rollins School of Public Health, Atlanta, Georgia 30322, USA.
+pssulli@emory.edu
+
+OBJECTIVE: To describe symptoms, physical examination findings, and set-point
+viral load associated with acute HIV seroconversion in a heterosexual cohort of
+HIV-discordant couples in Zambia.
+DESIGN: We followed HIV serodiscordant couples in Lusaka, Zambia from 1995 to
+2009 with HIV testing of negative partners and symptom inventories 3 monthly, and
+physical examinations annually.
+METHODS: We compared prevalence of self-reported or treated symptoms (malaria
+syndrome, chronic diarrhea, asthenia, night sweats, and oral candidiasis) and
+annual physical examination findings (unilateral or bilateral neck, axillary, or 
+inguinal adenopathy; and dermatosis) in seroconverting vs. HIV-negative or
+HIV-positive intervals, controlling for repeated observations, age, and sex. A
+composite score comprised of significant symptoms and physical examination
+findings predictive of seroconversion vs. HIV-negative intervals was constructed.
+We modeled the relationship between number of symptoms and physical examination
+findings at seroconversion and log set-point viral load using linear regression.
+RESULTS: Two thousand, three hundred and eighty-eight HIV-negative partners were 
+followed for a median of 18 months; 429 seroconversions occurred. Neither
+symptoms nor physical examination findings were reported for most seroconverters.
+Seroconversion was significantly associated with malaria syndrome among
+nondiarrheic patients [adjusted odds ratio (aOR) = 4.0], night sweats (aOR =
+1.4), and bilateral axillary (aOR = 1.6), inguinal (aOR = 2.2), and neck
+(aOR = 2.2) adenopathy relative to HIV-negative intervals. Median number of
+symptoms and findings was positively associated with set-point viral load
+(P < 0.001).
+CONCLUSION: Although most acute and early infections were asymptomatic, malaria
+syndrome was more common and more severe during seroconversion. When present,
+symptoms and physical examination findings were nonspecific and associated with
+higher set-point viremia.
+
+DOI: 10.1097/QAD.0b013e32834ed8c8 
+PMCID: PMC3589587
+PMID: 22089380  [Indexed for MEDLINE]

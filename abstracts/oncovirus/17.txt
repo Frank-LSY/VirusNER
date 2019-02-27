@@ -1,0 +1,43 @@
+
+
+17. Proc Natl Acad Sci U S A. 2015 Jan 13;112(2):464-9. doi: 10.1073/pnas.1414980112.
+Epub 2014 Dec 22.
+
+Pan-vertebrate comparative genomics unmasks retrovirus macroevolution.
+
+Hayward A(1), Cornwallis CK(2), Jern P(1).
+
+Author information: 
+(1)Science for Life Laboratory, Department of Medical Biochemistry and
+Microbiology, Uppsala University, Uppsala, SE-75123, Sweden; and
+Patric.Jern@imbim.uu.se Alexander.Hayward@zoologi.su.se.
+(2)Department of Biology, Lund University, Lund, SE-22362, Sweden.
+
+Although extensive research has demonstrated host-retrovirus microevolutionary
+dynamics, it has been difficult to gain a deeper understanding of the
+macroevolutionary patterns of host-retrovirus interactions. Here we use recent
+technological advances to infer broad patterns in retroviral diversity,
+evolution, and host-virus relationships by using a large-scale phylogenomic
+approach using endogenous retroviruses (ERVs). Retroviruses insert a proviral DNA
+copy into the host cell genome to produce new viruses. ERVs are provirus
+insertions in germline cells that are inherited down the host lineage and
+consequently present a record of past host-viral associations. By mining ERVs
+from 65 host genomes sampled across vertebrate diversity, we uncover a great
+diversity of ERVs, indicating that retroviral sequences are much more prevalent
+and widespread across vertebrates than previously appreciated. The majority of
+ERV clades that we recover do not contain known retroviruses, implying either
+that retroviral lineages are highly transient over evolutionary time or that a
+considerable number of retroviruses remain to be identified. By characterizing
+the distribution of ERVs, we show that no major vertebrate lineage has escaped
+retroviral activity and that retroviruses are extreme host generalists, having an
+unprecedented ability for rampant host switching among distantly related
+vertebrates. In addition, we examine whether the distribution of ERVs can be
+explained by host factors predicted to influence viral transmission and find that
+internal fertilization has a pronounced effect on retroviral colonization of host
+genomes. By capturing the mode and pattern of retroviral evolution and
+contrasting ERV diversity with known retroviral diversity, our study provides a
+cohesive framework to understand host-virus coevolution better.
+
+DOI: 10.1073/pnas.1414980112 
+PMCID: PMC4299219
+PMID: 25535393  [Indexed for MEDLINE]

@@ -1,0 +1,38 @@
+
+
+2573. Acta Otolaryngol. 2014 Aug;134(8):843-51. doi: 10.3109/00016489.2014.890289. Epub
+2014 Jun 16.
+
+High-risk HPV and survival in patients with oral and oropharyngeal squamous cell 
+carcinoma - 5-year follow up of a population-based study.
+
+Annertz K(1), Rosenquist K, Andersson G, Jacobsson H, Hansson BG, Wennerberg J.
+
+Author information: 
+(1)Division of Otorhinolaryngology/Head & Neck Surgery, Department of Clinical
+Sciences, Lund University , Lund.
+
+CONCLUSION: No statistically significant 5-year survival difference was seen in
+patients with oral and oropharyngeal squamous cell carcinoma (OOPSCC) between
+high-risk HPV-positive and -negative groups in this population-based study.
+OBJECTIVES: To see if the formerly observed higher risk for recurrence or second 
+primary tumour (SPT) in high-risk HPV-positive patients with OOPSCC corresponds
+to worse survival.
+METHODS: A total of 128 consecutive, previously untreated patients with OOPSCC,
+who were part of a population-based case-control study in southern Sweden during 
+2000-2004, were included. A mouthwash sample was collected and exfoliated cells
+were collected with cotton-tipped swabs from the tonsillar fossa and the tumour. 
+Specimens were analysed for HPV DNA using nested polymerase chain reaction (PCR).
+Disease-specific survival (DSS) and DSS difference between HPV-negative and
+HPV-positive patients were calculated. The relationship between age, stage,
+high-risk HPV status and DSS was assessed. Oral and oropharyngeal tumours were
+assessed separately.
+RESULTS: Mean DSS in months was 80.7/68.6 (high-risk HPV-negative/high-risk
+HPV-positive) for oral cavity tumours (p = 0.18) and 67.6/78.3 (high-risk
+HPV-negative/high-risk HPV-positive) for oropharyngeal tumours (p = 0.47). For
+oral cavity tumours, age, T status, N status and stage all showed significant
+differences in DSS. For oropharyngeal tumours, no significant difference
+regarding DSS was found.
+
+DOI: 10.3109/00016489.2014.890289 
+PMID: 24930912  [Indexed for MEDLINE]

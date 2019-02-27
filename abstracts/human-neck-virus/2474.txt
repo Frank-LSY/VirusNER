@@ -1,0 +1,42 @@
+
+
+2474. J Otolaryngol Head Neck Surg. 2014 Jan 14;43:2. doi: 10.1186/1916-0216-43-2.
+
+The relationship between survival and socio-economic status for head and neck
+cancer in Canada.
+
+McDonald JT, Johnson-Obaseki S(1), Hwang E, Connell C, Corsten M.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Ottawa/The
+Ottawa Hospital, Suite S-3, 501 Smyth Road, Ottawa, ON K1H 8L6, Canada.
+sjohnsonobaseki@gmail.com.
+
+BACKGROUND: Human papilloma virus (HPV) is emerging as the primary cause for some
+head and neck cancers. The objective of this study was to investigate the
+association between head and neck cancer (HNC) survival and socioeconomic status 
+(SES) in Canada, and to investigate changes in the relationship between HNC
+survival and SES from 1992 to 2005.
+METHODS: Cases were drawn from the Canadian Cancer Registry (1992-2005), and were
+categorized into three subsites: oropharynx, oral cavity, and "other"
+(hypopharynx, larynx, and nasopharynx). Demographic and socioeconomic information
+were extracted from the Canadian Census of Population data for the study period, 
+which included three census years: 1991, 1996 and 2001. We linked cases to income
+quintiles (InQs) according to patients' postal codes.
+RESULTS: Overall survival, without controlling for smoking, for oropharyngeal
+cancer increased dramatically from 1992-2005 in Canada. This increase in survival
+for oropharynx cancer was eliminated by the introduction of controls for smoking.
+Survival for all head and neck cancer subsites was strongly correlated with SES, 
+as measured by income quintile, with lower InQ's having lower survival than
+higher. Lastly, the magnitude of the difference in survival between the highest
+and lowest income quintiles increased significantly over the time period studied 
+for oropharynx cancer, but did not statistically significantly change for oral
+cavity cancer or other head and neck cancers.
+CONCLUSIONS: These data confirm a significant impact of socioeconomic deprivation
+on overall survival for head and neck cancers in Canada, and may provide indirect
+evidence that HPV-positive head and neck cancers are more common in higher
+socioeconomic groups.
+
+DOI: 10.1186/1916-0216-43-2 
+PMCID: PMC3896831
+PMID: 24422754  [Indexed for MEDLINE]

@@ -1,0 +1,35 @@
+
+
+1570. Oral Oncol. 2010 Feb;46(2):100-4. doi: 10.1016/j.oraloncology.2009.11.004. Epub
+2009 Dec 29.
+
+Moderate predictive value of demographic and behavioral characteristics for a
+diagnosis of HPV16-positive and HPV16-negative head and neck cancer.
+
+D'Souza G(1), Zhang HH, D'Souza WD, Meyer RR, Gillison ML.
+
+Author information: 
+(1)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+United States.
+
+Patients with HPV-positive and HPV-negative head and neck squamous cell carcinoma
+(HNSCC) are significantly different with regard to sociodemographic and
+behavioral characteristics that clinicians may use to assume tumor HPV status.
+Machine learning methods were used to evaluate the predictive value of patient
+characteristics and laboratory biomarkers of HPV exposure for a diagnosis of
+HPV16-positive HNSCC compared to in situ hybridization, the current
+gold-standard. Models that used a combination of demographic characteristics such
+as age, tobacco use, gender, and race had only moderate predictive value for
+tumor HPV status among all patients with HNSCC (positive predictive value
+[PPV]=75%, negative predictive value [NPV]=68%) or when limited to oropharynx
+cancer patients (PPV=55%, NPV=65%) and thus included a sizeable number of false
+positive and false negative predictions. Prediction was not improved by the
+addition of other demographic or behavioral factors (sexual behavior, income,
+education) or biomarkers of HPV16 exposure (L1, E6/7 antibodies or DNA in oral
+exfoliated cells). Patient demographic and behavioral characteristics as well as 
+HPV biomarkers are not an accurate substitute for clinical testing of tumor HPV
+status.
+
+DOI: 10.1016/j.oraloncology.2009.11.004 
+PMCID: PMC2818855
+PMID: 20036610  [Indexed for MEDLINE]

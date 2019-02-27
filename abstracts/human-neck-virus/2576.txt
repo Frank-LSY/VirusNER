@@ -1,0 +1,41 @@
+
+
+2576. Clinics (Sao Paulo). 2018 Aug 20;73(suppl 1):e476s. doi:
+10.6061/clinics/2018/e476s.
+
+Improving adenoviral vectors and strategies for prostate cancer gene therapy.
+
+Tamura RE(1), de Luna IV(1), Lana MG(1), Strauss BE(1).
+
+Author information: 
+(1)Laboratório de Vetores Virais, Centro de Investigação Translacional em
+Oncologia, Instituto do Cancer do Estado de Sao Paulo (ICESP), Hospital das
+Clinicas HCFMUSP, Faculdade de Medicina, Universidade de Sao Paulo, Sao Paulo,
+SP, BR.
+
+Gene therapy has been evaluated for the treatment of prostate cancer and includes
+the application of adenoviral vectors encoding a suicide gene or oncolytic
+adenoviruses that may be armed with a functional transgene. In parallel, versions
+of adenoviral vector expressing the p53 gene (Ad-p53) have been tested as
+treatments for head and neck squamous cell carcinoma and non-small cell lung
+cancer. Although Ad-p53 gene therapy has yielded some interesting results when
+applied to prostate cancer, it has not been widely explored, perhaps due to
+current limitations of the approach. To achieve better functionality,
+improvements in the gene transfer system and the therapeutic regimen may be
+required. We have developed adenoviral vectors whose transgene expression is
+controlled by a p53-responsive promoter, which creates a positive feedback
+mechanism when used to drive the expression of p53. Together with improvements
+that permit efficient transduction, this new approach was more effective than the
+use of traditional versions of Ad-p53 in killing prostate cancer cell lines and
+inhibiting tumor progression. Even so, gene therapy is not expected to replace
+traditional chemotherapy but should complement the standard of care. In fact,
+chemotherapy has been shown to assist in viral transduction and transgene
+expression. The cooperation between gene therapy and chemotherapy is expected to 
+effectively kill tumor cells while permitting the use of reduced chemotherapy
+drug concentrations and, thus, lowering side effects. Therefore, the combination 
+of gene therapy and chemotherapy may prove essential for the success of both
+approaches.
+
+DOI: 10.6061/clinics/2018/e476s 
+PMCID: PMC6097088
+PMID: 30133562  [Indexed for MEDLINE]

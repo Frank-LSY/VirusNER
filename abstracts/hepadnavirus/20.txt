@@ -1,0 +1,51 @@
+
+
+20. J Hepatol. 2017 Oct;67(4):847-861. doi: 10.1016/j.jhep.2017.05.008. Epub 2017 Aug
+1.
+
+Hepatitis B cure: From discovery to regulatory approval.
+
+Lok AS(1), Zoulim F(2), Dusheiko G(3), Ghany MG(4).
+
+Author information: 
+(1)Division of Gastroenterology and Hepatology, University of Michigan, Ann
+Arbor, MI, United States. Electronic address: aslok@med.umich.edu.
+(2)Cancer Research Center of Lyon-INSERM U1052, Hospices Civils de Lyon, Lyon
+University, Lyon, France.
+(3)University College London Medical School and Kings College Hospital, London,
+UK.
+(4)Liver Diseases Branch, National Institute of Diabetes and Digestive and Kidney
+Diseases, National Institutes of Health, Bethesda, MD, United States.
+
+The majority of persons currently treated for chronic hepatitis B require
+long-term or lifelong therapy. New inhibitors of hepatitis B virus entry,
+replication, assembly, or secretion and immune modulatory therapies are in
+development. The introduction of these novel compounds for chronic hepatitis B
+necessitates a standardised appraisal of the efficacy and safety of these
+treatments and definitions of new or additional endpoints to inform clinical
+trials. To move the field forward and to expedite the pathway from discovery to
+regulatory approval, a workshop with key stakeholders was held in September 2016 
+to develop a consensus on treatment endpoints to guide the design of clinical
+trials aimed at hepatitis B cure. The consensus reached was that a complete
+sterilising cure, i.e., viral eradication from the host, is unlikely to be
+feasible. Instead, a functional cure characterised by sustained loss of hepatitis
+B surface antigen with or without hepatitis B surface antibody seroconversion,
+which is associated with improved clinical outcomes, in a higher proportion of
+patients than is currently achieved with existing treatments is a feasible goal. 
+Development of standardised assays for novel biomarkers toward better defining
+hepatitis B virus cure should occur in parallel with development of novel
+antiviral and immune modulatory therapies such that approval of new treatments
+can be linked to the approval of new diagnostic assays used to measure efficacy
+or to predict response. Combination of antiviral and immune modulatory therapies 
+will likely be needed to achieve functional hepatitis B virus cure. Limited
+proof-of-concept monotherapy studies to evaluate safety and antiviral activity
+should be conducted prior to proceeding to combination therapies. The safety of
+any new curative therapies will be paramount given the excellent safety of
+currently approved nucleos(t)ide analogues.
+
+Copyright © 2017 American Association for the Study of Liver Diseases, European
+Association for the Study of the Liver. Published by Elsevier B.V. All rights
+reserved.
+
+DOI: 10.1016/j.jhep.2017.05.008 
+PMID: 28778687  [Indexed for MEDLINE]

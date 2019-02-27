@@ -1,0 +1,33 @@
+
+
+1641. Roum Arch Microbiol Immunol. 2010 Jul-Sep;69(3):153-63.
+
+Tracking down of laryngo-pharyngeal metastasis.
+
+Bleotu C(1), Popescu CR, Anton G, Pleşa A, Grigore R, Welt L, Aldea I, Draguşel
+R, Chivu M, Matei G, Cernescu C.
+
+Author information: 
+(1)Stefan S. Nicolau Institute of Virology, 285 Mihai Bravu, 030304, Bucharest,
+Romania. cbleotu@yahoo.com
+
+BACKGROUND: In Romania, the most optimistic statistics give a 5 years survival
+rate in approximately 33% of laryngo-pharyngeal cancer patients. Considering that
+a cell carrying the viral DNA is originating from primary tumor, we have tested
+whether HPV DNA could be detected in the blood cell of patients with laryngeal
+cancer as a marker of disease progression and metastases.
+METHODS: The study was performed on 85 patients (59 +/- 8.7 age) with
+laryngo-pharyngeal cancer. HPV DNA was detected in tumor using nested PCR with
+consensus primers, and also in local lymph nodes and/or blood cells from patients
+HPV positive in primary tumor.
+RESULTS: HPV DNA was detected in 75.29% of analyzed tumours, and all HPV16
+positive samples were confirmed by mRNA E6 expression. 56.3% of patients
+presented HPV DNA in peripheral circulation as confirmed by PCR with E6 HPV16
+specific primers followed by Southern Blot.
+CONCLUSION: Our results sustain that the detection of HPV DNA in blood is a
+"surrogate marker" of metastasis when extension of metastasis cannot be
+estimated, this observation is very important for management of cancer patients
+with laryngopharyngeal localization.
+
+
+PMID: 21434592  [Indexed for MEDLINE]

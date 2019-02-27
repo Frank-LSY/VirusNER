@@ -1,0 +1,45 @@
+
+
+2374. HNO. 2016 Apr;64(4):221-6. doi: 10.1007/s00106-016-0147-5.
+
+[Is (chemo)radiotherapy really the future standard in the treatment of
+oropharyngeal carcinoma?].
+
+[Article in German]
+
+Knecht R(1), Bussmann L(2), Möckelmann N(2), Lörincz BB(2).
+
+Author information: 
+(1)Klinik und Poliklinik für Hals-, Nasen- und Ohrenheilkunde,
+Kopf-Hals-Chirurgie und Onkologie; Kopf-Hals-Tumorzentrum des Universitären
+Cancer Center Hamburg (UCCH), Universitätsklinikum Hamburg-Eppendorf,
+Martinistrasse 52, 20246, Hamburg, Deutschland. r.knecht@uke.de.
+(2)Klinik und Poliklinik für Hals-, Nasen- und Ohrenheilkunde,
+Kopf-Hals-Chirurgie und Onkologie; Kopf-Hals-Tumorzentrum des Universitären
+Cancer Center Hamburg (UCCH), Universitätsklinikum Hamburg-Eppendorf,
+Martinistrasse 52, 20246, Hamburg, Deutschland.
+
+Treatment of patients with oropharyngeal squamous cell carcinoma (OPSCC) requires
+interdisciplinary collaboration. Besides oncologic control, organ and function
+preservation are important priorities. One treatment option is primary
+concomitant chemoradiotherapy (CRT), particularly for locally advanced head and
+neck cancer. Another option is sequential CRT, where induction chemotherapy may
+be followed either by radiation alone or by CRT. An important aspect of these
+modalities is the development of functional sequelae with regards to swallowing
+as a direct consequence of radiogenic fibrosis, as well as tissue ctoxicity
+associated with cisplatin-based chemotherapy. Conventional open surgical
+approaches are being increasingly replaced by transoral surgical modalities with 
+less treatment-related morbidity. As a further, equally important goal of
+appropriately indicated surgery, adjuvant (C)RT may be omitted or the dose
+significantly reduced. The advantages of primary surgery over primary CRT may be 
+less obvious in cases still requiring adjuvant treatment, although not
+necessarily completely eliminated. For patients with human papillomavirus
+(HPV)-driven OPSCC, it is important to note that primary surgery may provide
+comparable or even increased survival benefit. To date, there is no evidence for 
+a clear advantage of primary CRT over primary surgery in this group. In these
+cases, a de-escalated treatment package may be the preferred option. Here, the
+application of radioimmunotherapy as well as a reduced radiation dose may
+minimize long-term treatment-related morbidities.
+
+DOI: 10.1007/s00106-016-0147-5 
+PMID: 26992383  [Indexed for MEDLINE]

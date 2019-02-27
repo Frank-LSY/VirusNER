@@ -1,0 +1,39 @@
+
+Conflict of interest statement: The authors declare that there are no conflicts
+of interest.
+
+
+1607. PLoS One. 2015 Jun 24;10(6):e0130935. doi: 10.1371/journal.pone.0130935.
+eCollection 2015.
+
+Chick Chorioallantoic Membrane Assay: A 3D Animal Model for Study of Human
+Nasopharyngeal Carcinoma.
+
+Xiao X(1), Zhou X(1), Ming H(1), Zhang J(1), Huang G(1), Zhang Z(1), Li P(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head & Neck Surgery, First Affiliated Hospital of
+Guangxi Medical University, Nanning, China.
+(2)Department of Pathology, First Affiliated Hospital of Guangxi Medical
+University, Nanning, China.
+
+Nasopharyngeal carcinoma (NPC) is a highly invasive and metastatic head and neck 
+cancer. However, mechanistic study of the invasion and metastasis of NPC has been
+hampered by the lack of proper in vivo models. We established an in vivo chick
+embryo chorioallantoic membrane (CAM) model to study NPC tumor biology. We found 
+100% micro-tumor formation 3 days after inoculation with NPC cell lines (4/4) or 
+primary tumor biopsy tissue (35/35). The transplanted NPC micro-tumors grew on
+CAMs with extracellular matrix interaction and induced angiogenesis. In addition,
+the CAM model could be used to study the growth of transplanted NPC tumors and
+also several important steps of metastasis, including tumor invasion by detecting
+the extent of basement membrane penetration, tumor angiogenesis by analyzing the 
+area of neo-vessels, and tumor metastasis by quantifying tumor cells in distant
+organs. We established and described a feasible, easy-to-manipulate and reliable 
+CAM model for in vivo study of NPC tumor biology. This model closely simulates
+the clinical features of NPC growth, progression and metastasis and could help
+elucidate the biological mechanisms of the growth pattern and invasion of NPC
+cells and in quantitative assessment of angiogenesis and cell intravasation.
+
+DOI: 10.1371/journal.pone.0130935 
+PMCID: PMC4479447
+PMID: 26107941  [Indexed for MEDLINE]

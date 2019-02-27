@@ -1,0 +1,59 @@
+
+
+300. Virus Res. 2014 Sep 22;190:53-9. doi: 10.1016/j.virusres.2014.07.009. Epub 2014
+Jul 16.
+
+The control of anaplastic thyroid carcinoma cell lines by oncolytic poxviruses.
+
+Mundi N(1), Um S(1), Yoo J(2), Rizzo G(1), Black M(1), Pinto N(1), Palma DA(3),
+Fung K(2), MacNeil D(2), Mymryk JS(4), Barrett JW(5), Nichols AC(6).
+
+Author information: 
+(1)Department of Otolaryngology Head & Neck Surgery, Western University, London, 
+ON, Canada.
+(2)Department of Otolaryngology Head & Neck Surgery, Western University, London, 
+ON, Canada; London Regional Cancer Program, London, ON, Canada; Department of
+Oncology, Western University, London, ON, Canada.
+(3)London Regional Cancer Program, London, ON, Canada; Lawson Health Research
+Institute, London, ON, Canada; Department of Oncology, Western University,
+London, ON, Canada.
+(4)London Regional Cancer Program, London, ON, Canada; Lawson Health Research
+Institute, London, ON, Canada; Department of Oncology, Western University,
+London, ON, Canada; Department of Microbiology and Immunology, Western
+University, London, ON, Canada.
+(5)Department of Otolaryngology Head & Neck Surgery, Western University, London, 
+ON, Canada; London Regional Cancer Program, London, ON, Canada; Lawson Health
+Research Institute, London, ON, Canada. Electronic address:
+John.Barrett@lhsc.on.ca.
+(6)Department of Otolaryngology Head & Neck Surgery, Western University, London, 
+ON, Canada; London Regional Cancer Program, London, ON, Canada; Lawson Health
+Research Institute, London, ON, Canada; Department of Oncology, Western
+University, London, ON, Canada. Electronic address: Anthony.Nichols@lhsc.on.ca.
+
+BACKGROUND AND SIGNIFICANCE: Anaplastic thyroid cancer (ATC) is rare, but its
+clinical presentation is often dramatic and aggressive and is nearly uniformly
+fatal. Oncolytic viral therapy is a potential strategy to improve outcomes for
+patients suffering with this disease.
+METHODS: Seven established ATC cell lines were infected with a panel of
+poxviruses to identify which virus had the most potential as an oncolytic agent. 
+These included myxoma, vaccinia, and tanapox viruses, all modified to express
+green fluorescence protein (GFP). Viral proliferation was assessed by
+fluorescence and viral amplification. The effect on cell line growth was assessed
+by the Presto Blue metabolic assay and a live-dead assay. A replication assay was
+performed to assess the production of infectious progeny. An additional five ATC 
+cell lines were tested using the assays described above for susceptibility to
+vaccinia virus.
+RESULTS: ATC cell lines were differentially susceptible to each virus. Vaccinia
+virus was superior to myxoma and tanapox viruses for the control of anaplastic
+thyroid cancer in vitro. Although subsequent investigation using an expanded
+panel of cell lines revealed differential susceptibility to vaccinia virus,
+effective control of cell proliferation was still achieved using higher titers.
+CONCLUSIONS: Vaccinia virus was the most potent of the tested poxviruses and was 
+highly effective in controlling proliferation and inducing cell death in ATC cell
+lines. The efficacy of these viruses offers hope for improving outcomes for
+patients suffering with ATC.
+
+Copyright © 2014 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.virusres.2014.07.009 
+PMID: 25038405  [Indexed for MEDLINE]

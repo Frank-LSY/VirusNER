@@ -1,0 +1,27 @@
+
+
+448. Ugeskr Laeger. 2012 Feb 13;174(7):413-7.
+
+[HPV infection might play a role in the development of non-melanoma skin cancer
+in immunocompetent individuals].
+
+[Article in Danish]
+
+Birch-Johansen F(1), Norrild B, Olesen AB, Jensen A, Kjær SK.
+
+Author information: 
+(1)Afdeling for Virus, Hormoner og Kræft, Institut for Epidemiologisk
+Kræftforskning, Kræftens Bekæmpelse, Strandboulevarden 49, 2100 København Ø,
+Denmark.
+
+Human papillomavirus (HPV) is necessary for the development of cervical cancer
+and is also involved in vulvar, anus, penis and head and neck cancer. Little is
+known about the role of HPV infection in non-melanoma skin cancer (NMSC). Through
+a systematic review of the literature, we studied the HPV prevalence in
+immunocompetent individuals in relation to NMSC. We found that HPV, including
+multiple HPV types, tended to be more prevalent in NMSC, especially in squamous
+cell carcinoma (SCC) compared to basal cell carcinoma and healthy skin,
+indicating a potential link between HPV and SCC in immunocompetent individuals.
+
+
+PMID: 22331043  [Indexed for MEDLINE]

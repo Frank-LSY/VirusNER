@@ -1,0 +1,78 @@
+
+
+1477. Prev Med. 2016 Sep;90:52-8. doi: 10.1016/j.ypmed.2016.06.041. Epub 2016 Jun 28.
+
+Risk of second primary cancer after a first potentially-human
+papillomavirus-related cancer: A population-based study.
+
+Neumann F(1), Jégu J(2), Mougin C(3), Prétet JL(3), Guizard AV(4), Lapôtre-Ledoux
+B(5), Bara S(6), Bouvier V(7), Colonna M(8), Troussard X(9), Trétarre B(10),
+Grosclaude P(11), Velten M(2), Woronoff AS(12).
+
+Author information: 
+(1)Registre des tumeurs du Doubs et du Territoire de Belfort, University Hospital
+Besançon, F-25000 Besançon, France. Electronic address:
+florent.neumann@hotmail.fr.
+(2)Registre des cancers du Bas-Rhin, Laboratoire d'Épidémiologie et de Santé
+Publique, EA3430, FMTS, University of Strasbourg, F-67085 Strasbourg, France;
+Service de santé publique, University Hospital of Strasbourg, F-67091 Strasbourg,
+France; Francim: Réseau français des registres des cancers, F-31073 Toulouse,
+France.
+(3)University of Franche-Comte, EA 3181, FED4234, LabExLipSTIC
+ANR-11-LABX-0021-FED4234, CIC-1431 F-25000 Besançon, France; University Hospital 
+Besançon, F-25000 Besançon, France.
+(4)Registre général des tumeurs du Calvados, Cancers & Préventions - U 1086
+Inserm, Centre François Baclesse, F-14076, Caen 05, France; Francim: Réseau
+français des registres des cancers, F-31073 Toulouse, France.
+(5)Registre du cancer de la Somme, Service Épidémiologie Hygiène et Santé
+Publique, University Hospital Nord, F-80054 Amiens, France; Francim: Réseau
+français des registres des cancers, F-31073 Toulouse, France.
+(6)Registre des cancers de la Manche, Hospital of Cotentin, F-50102
+Cherbourg-Octeville, France; Francim: Réseau français des registres des cancers, 
+F-31073 Toulouse, France.
+(7)Registre des tumeurs digestives du Calvados, Cancers & Préventions - U 1086
+Inserm, Centre François Baclesse, BP 5026, F-14076, Caen 05, France; Francim:
+Réseau français des registres des cancers, F-31073 Toulouse, France.
+(8)Registre des cancers de l'Isère, University Hospital Grenoble, BP 217,
+F-38043, Grenoble 9, France; Francim: Réseau français des registres des cancers, 
+F-31073 Toulouse, France.
+(9)Registre des hémopathies malignes de Basse-Normandie, Unité Fonctionnelle
+Hospitalo-Universitaire n°0350, University Hospital Caen, F-14033 Caen, France;
+Francim: Réseau français des registres des cancers, F-31073 Toulouse, France.
+(10)Registre des tumeurs de l'Hérault, Centre de Recherche, F-34298, Montpellier 
+5, France; Francim: Réseau français des registres des cancers, F-31073 Toulouse, 
+France.
+(11)Registre des cancers du Tarn, BP 37, F-81001 Albi, France; Francim: Réseau
+français des registres des cancers, F-31073 Toulouse, France.
+(12)Registre des tumeurs du Doubs et du Territoire de Belfort, University
+Hospital Besançon, F-25000 Besançon, France; University of Franche-Comte, EA
+3181, FED4234, LabExLipSTIC ANR-11-LABX-0021-FED4234, CIC-1431 F-25000 Besançon, 
+France; Francim: Réseau français des registres des cancers, F-31073 Toulouse,
+France.
+
+Human papillomaviruses (HPV) are involved in the development of anogenital and
+head and neck cancers. The purpose of this study was to assess the risk of
+developing a second primary cancer (SPC) after a first potentially-HPV-related
+cancer, and to analyze the sites where SPCs most frequently occurred in these
+patients. All patients with a first cancer diagnosed between 1989 and 2004, as
+recorded by 10 French cancer registries, were followed up until December 31,
+2007. Only invasive potentially-HPV-related cancers (namely, cervical, vagina,
+vulva, anal canal, penile, oropharynx, tongue and tonsil) were included.
+Standardized Incidence Ratios (SIRs) were calculated to assess the risk of SPC. A
+multivariate Poisson regression model was used to model SIRs separately by
+gender, adjusted for the characteristics of the first cancer. 10,127 patients
+presented a first potentially-HPV-related cancer. The overall SIR was 2.48 (95%
+CI, 2.34-2.63). The SIR was 3.59 (95% CI, 3.33-3.86) and 1.61 (95% CI, 1.46-1.78)
+in men and women respectively. The relative risk of potentially-HPV-related SPC
+was high among these patients (SIR=13.74; 95% CI, 8.80-20.45 and 6.78; 95% CI,
+4.61-9.63 for men and women, respectively). Women diagnosed in the most recent
+period (2000-2004) showed a 40% increase of their relative risk of SPC as
+compared with women diagnosed between 1989 and 1994 (ratio of SIRs=1.40; 95% CI, 
+1.06-1.85). HPV cancer survivors face an increased risk of SPC, especially second
+cancer. Clinicians may consider this increased risk of developing HPV-related SPC
+during follow-up to improve subsequent cancer prevention in these patients.
+
+Copyright © 2016. Published by Elsevier Inc.
+
+DOI: 10.1016/j.ypmed.2016.06.041 
+PMID: 27370167  [Indexed for MEDLINE]

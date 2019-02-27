@@ -1,0 +1,69 @@
+
+
+2762. Int J Mol Sci. 2015 Dec 18;16(12):30204-22. doi: 10.3390/ijms161226230.
+
+MicroRNA-Target Network Inference and Local Network Enrichment Analysis Identify 
+Two microRNA Clusters with Distinct Functions in Head and Neck Squamous Cell
+Carcinoma.
+
+Sass S(1), Pitea A(2)(3), Unger K(4)(5), Hess J(6)(7), Mueller NS(8), Theis
+FJ(9)(10).
+
+Author information: 
+(1)Institute of Computational Biology, Helmholtz Zentrum München, Ingolstädter
+Landstr. 1, 85764 Neuherberg, Germany. steffen.sass@helmholtz-muenchen.de.
+(2)Institute of Computational Biology, Helmholtz Zentrum München, Ingolstädter
+Landstr. 1, 85764 Neuherberg, Germany. adriana.pitea@helmholtz-muenchen.de.
+(3)Research Unit Radiation Cytogenetics, Helmholtz Zentrum München, Ingolstädter 
+Landstr. 1, 85764 Neuherberg, Germany. adriana.pitea@helmholtz-muenchen.de.
+(4)Research Unit Radiation Cytogenetics, Helmholtz Zentrum München, Ingolstädter 
+Landstr. 1, 85764 Neuherberg, Germany. unger@helmholtz-muenchen.de.
+(5)Clinical Cooperation Group "Personalized Radiotherapy in Head and Neck
+Cancer", Helmholtz Zentrum München, Ingolstädter Landstr. 1, 85764 Neuherberg,
+Germany. unger@helmholtz-muenchen.de.
+(6)Research Unit Radiation Cytogenetics, Helmholtz Zentrum München, Ingolstädter 
+Landstr. 1, 85764 Neuherberg, Germany. julia.hess@helmholtz-muenchen.de.
+(7)Clinical Cooperation Group "Personalized Radiotherapy in Head and Neck
+Cancer", Helmholtz Zentrum München, Ingolstädter Landstr. 1, 85764 Neuherberg,
+Germany. julia.hess@helmholtz-muenchen.de.
+(8)Institute of Computational Biology, Helmholtz Zentrum München, Ingolstädter
+Landstr. 1, 85764 Neuherberg, Germany. nikola.mueller@helmholtz-muenchen.de.
+(9)Institute of Computational Biology, Helmholtz Zentrum München, Ingolstädter
+Landstr. 1, 85764 Neuherberg, Germany. fabian.theis@helmholtz-muenchen.de.
+(10)Department of Mathematics, Technical University of Munich, Boltzmannstr. 3,
+85748 Garching, Germany. fabian.theis@helmholtz-muenchen.de.
+
+MicroRNAs represent ~22 nt long endogenous small RNA molecules that have been
+experimentally shown to regulate gene expression post-transcriptionally. One main
+interest in miRNA research is the investigation of their functional roles, which 
+can typically be accomplished by identification of mi-/mRNA interactions and
+functional annotation of target gene sets. We here present a novel method
+"miRlastic", which infers miRNA-target interactions using transcriptomic data as 
+well as prior knowledge and performs functional annotation of target genes by
+exploiting the local structure of the inferred network. For the network
+inference, we applied linear regression modeling with elastic net regularization 
+on matched microRNA and messenger RNA expression profiling data to perform
+feature selection on prior knowledge from sequence-based target prediction
+resources. The novelty of miRlastic inference originates in predicting
+data-driven intra-transcriptome regulatory relationships through feature
+selection. With synthetic data, we showed that miRlastic outperformed commonly
+used methods and was suitable even for low sample sizes. To gain insight into the
+functional role of miRNAs and to determine joint functional properties of miRNA
+clusters, we introduced a local enrichment analysis procedure. The principle of
+this procedure lies in identifying regions of high functional similarity by
+evaluating the shortest paths between genes in the network. We can finally assign
+functional roles to the miRNAs by taking their regulatory relationships into
+account. We thoroughly evaluated miRlastic on a cohort of head and neck cancer
+(HNSCC) patients provided by The Cancer Genome Atlas. We inferred an mi-/mRNA
+regulatory network for human papilloma virus (HPV)-associated miRNAs in HNSCC.
+The resulting network best enriched for experimentally validated miRNA-target
+interaction, when compared to common methods. Finally, the local enrichment step 
+identified two functional clusters of miRNAs that were predicted to mediate
+HPV-associated dysregulation in HNSCC. Our novel approach was able to
+characterize distinct pathway regulations from matched miRNA and mRNA data. An R 
+package of miRlastic was made available through:
+http://icb.helmholtz-muenchen.de/mirlastic.
+
+DOI: 10.3390/ijms161226230 
+PMCID: PMC4691172
+PMID: 26694379  [Indexed for MEDLINE]

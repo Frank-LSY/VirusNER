@@ -1,0 +1,48 @@
+
+
+2436. Acta Neuropathol. 2013 Oct;126(4):575-94. doi: 10.1007/s00401-013-1165-y. Epub
+2013 Aug 18.
+
+Integrative genetic, epigenetic and pathological analysis of paraganglioma
+reveals complex dysregulation of NOTCH signaling.
+
+Cama A(1), Verginelli F, Lotti LV, Napolitano F, Morgano A, D'Orazio A, Vacca M, 
+Perconti S, Pepe F, Romani F, Vitullo F, di Lella F, Visone R, Mannelli M,
+Neumann HP, Raiconi G, Paties C, Moschetta A, Tagliaferri R, Veronese A, Sanna M,
+Mariani-Costantini R.
+
+Author information: 
+(1)Unit of General Pathology, Aging Research Center (Ce.S.I.), G. d'Annunzio
+University Foundation, Via Colle dell'Ara, 66100, Chieti, Italy.
+
+Head and neck paragangliomas, rare neoplasms of the paraganglia composed of nests
+of neurosecretory and glial cells embedded in vascular stroma, provide a
+remarkable example of organoid tumor architecture. To identify genes and pathways
+commonly deregulated in head and neck paraganglioma, we integrated high-density
+genome-wide copy number variation (CNV) analysis with microRNA and
+immunomorphological studies. Gene-centric CNV analysis of 24 cases identified a
+list of 104 genes most significantly targeted by tumor-associated alterations.
+The "NOTCH signaling pathway" was the most significantly enriched term in the
+list (P = 0.002 after Bonferroni or Benjamini correction). Expression of the
+relevant NOTCH pathway proteins in sustentacular (glial), chief (neuroendocrine) 
+and endothelial cells was confirmed by immunohistochemistry in 47 head and neck
+paraganglioma cases. There were no relationships between level and pattern of
+NOTCH1/JAG2 protein expression and germline mutation status in the SDH genes,
+implicated in paraganglioma predisposition, or the presence/absence of
+immunostaining for SDHB, a surrogate marker of SDH mutations. Interestingly,
+NOTCH upregulation was observed also in cases with no evidence of CNVs at NOTCH
+signaling genes, suggesting altered epigenetic modulation of this pathway. To
+address this issue we performed microarray-based microRNA expression analyses.
+Notably 5 microRNAs (miR-200a,b,c and miR-34b,c), including those most
+downregulated in the tumors, correlated to NOTCH signaling and directly targeted 
+NOTCH1 in in vitro experiments using SH-SY5Y neuroblastoma cells. Furthermore,
+lentiviral transduction of miR-200s and miR-34s in patient-derived primary
+tympano-jugular paraganglioma cell cultures was associated with NOTCH1
+downregulation and increased levels of markers of cell toxicity and cell death.
+Taken together, our results provide an integrated view of common molecular
+alterations associated with head and neck paraganglioma and reveal an essential
+role of NOTCH pathway deregulation in this tumor type.
+
+DOI: 10.1007/s00401-013-1165-y 
+PMCID: PMC3789891
+PMID: 23955600  [Indexed for MEDLINE]

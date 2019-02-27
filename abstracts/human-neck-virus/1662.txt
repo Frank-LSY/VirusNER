@@ -1,0 +1,35 @@
+
+
+1662. Head Neck. 2012 Jan;34(1):10-4. doi: 10.1002/hed.21697. Epub 2011 Mar 24.
+
+High-risk human papillomavirus and cervical lymph node metastasis in patients
+with oropharyngeal cancer.
+
+Joo YH(1), Jung CK, Sun DI, Park JO, Cho KJ, Kim MS.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, College of Medicine, St.
+Mary's Hospital, The Catholic University of Korea, Seoul.
+
+BACKGROUND: The purpose of this study was to determine the role of high-risk
+human papillomavirus (HPV) in lymph node metastasis and the depth of invasion in 
+oropharyngeal cancer.
+METHODS: The study included patients with 90 oral carcinomas and 66 oropharyngeal
+carcinomas. High-risk HPV in situ hybridization was performed to detect HPV
+infection.
+RESULTS: The positive rate of high-risk HPV in situ hybridization was 15.4% (24
+of 156). There was a significant difference in the fraction of positive high-risk
+HPV between oral (6.7%) and oropharyngeal (27.3%) cancers (p < .000). Significant
+correlations were found between positive high-risk HPV and cervical lymph node
+metastasis, tumor depth of invasion in patients with oropharyngeal cancer (p =
+.002, p = .016, respectively). There was a statistically significant association 
+between high-risk HPV positivity and the disease-specific survival in patients
+with oropharyngeal cancer (p = .035).
+CONCLUSION: High-risk HPV infection was significantly related to cervical lymph
+node metastasis and depth of invasion in patients with oropharyngeal cancer. ©
+2011 Wiley Periodicals, Inc. Head Neck, 2012.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21697 
+PMID: 21438064  [Indexed for MEDLINE]

@@ -1,0 +1,47 @@
+
+
+2624. J Clin Oncol. 2010 Sep 20;28(27):4142-8. doi: 10.1200/JCO.2010.29.2904. Epub 2010
+Aug 9.
+
+Prognostic significance of p16INK4A and human papillomavirus in patients with
+oropharyngeal cancer treated on TROG 02.02 phase III trial.
+
+Rischin D(1), Young RJ, Fisher R, Fox SB, Le QT, Peters LJ, Solomon B, Choi J,
+O'Sullivan B, Kenny LM, McArthur GA.
+
+Author information: 
+(1)Department of Medical Oncology, Peter MacCallum Cancer Centre, A'Beckett St,
+Locked Bag No 1, Melbourne 8006, Australia. Danny.Rischin@petermac.org
+
+Comment in
+    J Clin Oncol. 2010 Sep 20;28(27):4103-4.
+
+PURPOSE: To determine the prognostic importance of p16 and human papillomavirus
+(HPV) in patients with oropharyngeal cancer treated on a phase III concurrent
+chemoradiotherapy trial.
+PATIENTS AND METHODS: Patients with stage III or IV head and neck squamous cell
+cancer were randomly assigned to concurrent radiotherapy and cisplatin with or
+without tirapazamine. In this substudy, analyses were restricted to patients with
+oropharyngeal cancer. p16 was detected by immunohistochemistry, and HPV was
+detected by in situ hybridization and polymerase chain reaction.
+RESULTS: Slides were available for p16 assay in 206 of 465 patients, of which 185
+were eligible, and p16 and HPV were evaluable in 172 patients. One hundred six
+(57%) of 185 were p16-positive, and in patients evaluable for both p16 and HPV,
+88 (86%) of 102 p16-positive patients were also HPV-positive. Patients who were
+p16-positive had lower T and higher N categories and better Eastern Cooperative
+Oncology Group (ECOG) performance status. p16-positive tumors compared with
+p16-negative tumors were associated with better 2-year overall survival (91% v
+74%; hazard ratio [HR], 0.36; 95% CI, 0.17 to 0.74; P = .004) and failure-free
+survival (87% v 72%; HR, 0.39; 95% CI, 0.20 to 0.74; P = .003). p16 was a
+significant prognostic factor on multivariable analysis (HR, 0.45; 95% CI, 0.21
+to 0.96; P = .04). p16-positive patients had lower rates of locoregional failure 
+and deaths due to other causes. There was a trend favoring the tirapazamine arm
+for improved locoregional control in p16-negative patients (HR, 0.33; 95% CI,
+0.09 to 1.24; P = .13).
+CONCLUSION: HPV-associated oropharyngeal cancer is a distinct entity with a
+favorable prognosis compared with HPV-negative oropharyngeal cancer when treated 
+with cisplatin-based chemoradiotherapy.
+
+DOI: 10.1200/JCO.2010.29.2904 
+PMCID: PMC2953971
+PMID: 20697079  [Indexed for MEDLINE]

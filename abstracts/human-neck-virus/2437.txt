@@ -1,0 +1,52 @@
+
+
+2437. Blood. 2015 Jul 9;126(2):185-94. doi: 10.1182/blood-2015-01-622704. Epub 2015 May
+29.
+
+High-density preculture of PBMCs restores defective sensitivity of circulating
+CD8 T cells to virus- and tumor-derived antigens.
+
+Wegner J(1), Hackenberg S(2), Scholz CJ(3), Chuvpilo S(4), Tyrsin D(5),
+Matskevich AA(5), Grigoleit GU(6), Stevanović S(7), Hünig T(1).
+
+Author information: 
+(1)Institute for Virology and Immunobiology, Department of Immunology, University
+of Würzburg, Würzburg, Germany;
+(2)Department of Oto-Rhino-Laryngology, Plastic, Aesthetic and Reconstructive
+Head and Neck Surgery, University Hospital of Würzburg, Würzburg, Germany;
+(3)Core Unit Systems Medicine, University of Würzburg, Würzburg, Germany;
+(4)TheraMAB LLC, Würzburg, Germany;
+(5)TheraMAB LLC, Moscow, Russia;
+(6)Department of Internal Medicine II, University Hospital of Würzburg, Würzburg,
+Germany; and.
+(7)Interfaculty Institute for Cell Biology, Department of Immunology, University 
+of Tübingen, Tübingen, Germany.
+
+Peripheral blood mononuclear cells (PBMCs) are the only source of human lymphoid 
+cells routinely available for immunomonitoring of T-cell responses to microbial
+and tumor-associated antigens. However, previous work in mice and humans had
+indicated that CD4 T cells transiently lose antigen sensitivity when cellular
+contacts are lost (eg, by entering the circulation). Using the simple and robust 
+protocol for resetting T cells to original reactivity (RESTORE; ie, preculturing 
+PBMCs for 2 days at a high cell density before initiation of antigenic
+stimulation), we show that CD8 T-cell responses to viral and tumor-associated
+antigens are greatly underestimated in blood, and sometimes even remain
+undetected, if conventional, unprocessed PBMC cultures are used. The latter
+finding is particularly striking with regard to the appearance of Wilms tumor 1
+protein-specific CD8 T-cell responses in leukemia patients after allogeneic bone 
+marrow transplantation. The dramatic increase in antigen sensitivity of
+"restored" CD8 T cells is associated with phosphorylation of proximal T-cell
+receptor signaling components, and with the upregulation of genes involved in
+aerobic glycolysis, thereby increasing T-cell functionality. The RESTORE protocol
+permits a more meaningful monitoring of CD8 memory T-cell responses to viral
+infections and tumors and vaccination success. Furthermore, when generating
+T-cell lines for adoptive T-cell therapy, it avoids the loss of those clones,
+which strictly depend on the primed status conferred by cellular interactions in 
+the tissue context for their initial reactivation by antigen. The data reported
+in this article have been deposited in the Gene Expression Omnibus database
+(accession number GSE63430).
+
+© 2015 by The American Society of Hematology.
+
+DOI: 10.1182/blood-2015-01-622704 
+PMID: 26024876  [Indexed for MEDLINE]

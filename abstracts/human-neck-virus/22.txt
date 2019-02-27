@@ -1,0 +1,40 @@
+
+
+22. Oral Dis. 2016 Jan;22(1):62-8. doi: 10.1111/odi.12382. Epub 2015 Dec 4.
+
+Detection of active human papilloma virus-16 in head and neck cancers of Asian
+North Indian patients.
+
+Sannigrahi MK(1), Singh V(1), Sharma R(2), Panda NK(1), Radotra BD(3), Khullar
+M(2).
+
+Author information: 
+(1)Department of Otolaryngology, Post Graduate Institute of Medical Education and
+Research (PGIMER), Chandigarh, India.
+(2)Department of Experimental Medicine and Biotechnology, PGIMER, Chandigarh,
+India.
+(3)Department of Histopathology, PGIMER, Chandigarh, India.
+
+BACKGROUND: Head and neck cancers (HNC) are one of the most common cancers in
+India. Human papillomavirus (HPV) has been identified as an emerging risk factor 
+for HNC.
+METHODS: The present study was carried out to determine the active form of HPV-16
+using a combination of PCR, viral load determination, HPV-16 E7 mRNA expression, 
+p16, p53, and pRB immuno-histochemistry (IHC).
+RESULTS: A total of 226 HNC patients were enrolled in the present study.
+Sixty-seven (29.7%) of HNC cases were found to be HPV DNA positive. Thirty-two
+(14%) cases were HPV-16 DNA positive and 20 (9%) cases expressed HPV-16 E7 mRNA. 
+HPV-16 mRNA/p16 positive cases had significantly increased viral load and
+integrated HPV-16 DNA. In summary, of total HNC patients, 6% cases were positive 
+for both HPV-16 DNA and p16, and 5% were positive for both E7 mRNA and p16 IHC.
+We observed similar HPV-16 DNA/E7mRNA prevalence in oropharynx and oral cavity
+sites, however, oropharynx SCC had significantly higher viral load.
+CONCLUSION: Our results show low prevalence of active HPV-16 in North Indian HNC 
+patients. HPV-16 E7 mRNA expression correlated with p16 nuclear positivity and
+increased viral load. Therefore, E7 mRNA expression may be used as a good
+surrogate indicator for active form of HPV-16 infection.
+
+© 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/odi.12382 
+PMID: 26475514  [Indexed for MEDLINE]

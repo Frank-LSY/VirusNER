@@ -1,0 +1,60 @@
+
+
+975. Clin Cancer Res. 2017 Apr 1;23(7):1809-1819. doi: 10.1158/1078-0432.CCR-16-1818. 
+Epub 2016 Nov 9.
+
+BAI1 Orchestrates Macrophage Inflammatory Response to HSV Infection-Implications 
+for Oncolytic Viral Therapy.
+
+Bolyard C(1)(2), Meisen WH(1)(2), Banasavadi-Siddegowda Y(1)(2), Hardcastle J(1),
+Yoo JY(1)(2), Wohleb ES(3), Wojton J(1), Yu JG(2)(4), Dubin S(1)(2), Khosla
+M(2)(4), Xu B(2), Smith J(1), Alvarez-Breckenridge C(1)(2), Pow-Anpongkul
+P(1)(2), Pichiorri F(5), Zhang J(2)(6), Old M(2)(4), Zhu D(7), Van Meir EG(7),
+Godbout JP(2)(3), Caligiuri MA(2), Yu J(2), Kaur B(8)(2).
+
+Author information: 
+(1)Department of Neurological Surgery, The Ohio State University College of
+Medicine, Columbus, Ohio.
+(2)The James Comprehensive Cancer Center, The Ohio State University, Columbus,
+Ohio.
+(3)Department of Neuroscience, The Ohio State University Wexner Medical Center,
+Columbus, Ohio.
+(4)Department of Otolaryngology, Head and Neck Surgery, The Ohio State University
+College of Medicine, Columbus, Ohio.
+(5)Department of Hematology, City of Hope Cancer Center, Duarte, California.
+(6)Department of Biomedical Informatics, Center for Biostatistics, The Ohio State
+University College of Medicine, Columbus, Ohio.
+(7)Departments of Neurosurgery and Hematology and Medical Oncology, School of
+Medicine and Winship Cancer Institute, Emory University, Atlanta, Georgia.
+(8)Department of Neurological Surgery, The Ohio State University College of
+Medicine, Columbus, Ohio. Balveen.Kaur@osumc.edu.
+
+Purpose: Brain angiogenesis inhibitor (BAI1) facilitates phagocytosis and
+bacterial pathogen clearance by macrophages; however, its role in viral
+infections is unknown. Here, we examined the role of BAI1, and its N-terminal
+cleavage fragment (Vstat120) in antiviral macrophage responses to oncolytic
+herpes simplex virus (oHSV).Experimental Design: Changes in infiltration and
+activation of monocytic and microglial cells after treatment of glioma-bearing
+mice brains with a control (rHSVQ1) or Vstat120-expressing (RAMBO) oHSV was
+analyzed using flow cytometry. Co-culture of infected glioma cells with
+macrophages or microglia was used to examine antiviral signaling. Cytokine array 
+gene expression and Ingenuity Pathway Analysis (IPA) helped evaluate changes in
+macrophage signaling in response to viral infection. TNFα-blocking antibodies and
+macrophages derived from Bai1-/- mice were used.Results: RAMBO treatment of mice 
+reduced recruitment and activation of macrophages/microglia in mice with brain
+tumors, and showed increased virus replication compared with rHSVQ1. Cytokine
+gene expression array revealed that RAMBO significantly altered the macrophage
+inflammatory response to infected glioma cells via altered secretion of TNFα.
+Furthermore, we showed that BAI1 mediated macrophage TNFα induction in response
+to oHSV therapy. Intracranial inoculation of wild-type/RAMBO virus in Bai1-/- or 
+wild-type non-tumor-bearing mice revealed the safety of this
+approach.Conclusions: We have uncovered a new role for BAI1 in facilitating
+macrophage anti-viral responses. We show that arming oHSV with antiangiogenic
+Vstat120 also shields them from inflammatory macrophage antiviral response,
+without reducing safety. Clin Cancer Res; 23(7); 1809-19. ©2016 AACR.
+
+©2016 American Association for Cancer Research.
+
+DOI: 10.1158/1078-0432.CCR-16-1818 
+PMCID: PMC5380537
+PMID: 27852701  [Indexed for MEDLINE]

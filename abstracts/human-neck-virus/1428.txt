@@ -1,0 +1,42 @@
+
+
+1428. Head Neck. 2017 Apr;39(4):708-715. doi: 10.1002/hed.24673. Epub 2016 Dec 30.
+
+Human papillomavirus status and the relative biological effectiveness of proton
+radiotherapy in head and neck cancer cells.
+
+Wang L(1), Wang X(2), Li Y(2), Han S(1), Zhu J(1), Wang X(1), Molkentine DP(1),
+Blanchard P(3), Yang Y(2), Zhang R(2), Sahoo N(2), Gillin M(2), Zhu XR(2), Zhang 
+X(2), Myers JN(4), Frank SJ(3).
+
+Author information: 
+(1)Department of Experimental Radiation Oncology, The University of Texas MD
+Anderson Cancer Center, Houston, Texas.
+(2)Department of Radiation Physics, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(3)Department of Radiation Oncology, The University of Texas MD Anderson Cancer
+Center, Houston, Texas.
+(4)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, Texas.
+
+BACKGROUND: Human papillomavirus (HPV)-positive oropharyngeal carcinomas response
+better to X-ray therapy (XRT) than HPV-negative disease. Whether HPV status
+influences the sensitivity of head and neck cancer cells to proton therapy or the
+relative biological effectiveness (RBE) of protons versus XRT is unknown.
+METHODS: Clonogenic survival was used to calculate the RBE; immunocytochemical
+analysis and neutral comet assay were used to evaluate unrepaired DNA
+double-strand breaks.
+RESULTS: HPV-positive cells were more sensitive to protons and the unrepaired
+double-strand breaks were more numerous in HPV-positive cells than in
+HPV-negative cells (p < .001). Protons killed more cells than did XRT at all
+fraction sizes (all RBEs > 1.06). Cell line type and radiation fraction size
+influenced the RBE.
+CONCLUSION: HPV-positive cells were more sensitive to protons than HPV-negative
+cells maybe through the effects of HPV on DNA damage and repair. The RBE for
+protons depends more on cell type and fraction size than on HPV status. © 2016
+Wiley Periodicals, Inc. Head Neck 39: 708-715, 2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24673 
+PMID: 28039958  [Indexed for MEDLINE]

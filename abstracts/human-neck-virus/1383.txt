@@ -1,0 +1,83 @@
+
+
+1383. JAMA Oncol. 2015 Oct;1(7):907-15. doi: 10.1001/jamaoncol.2015.2524.
+
+Prognostic Implication of Persistent Human Papillomavirus Type 16 DNA Detection
+in Oral Rinses for Human Papillomavirus-Related Oropharyngeal Carcinoma.
+
+Rettig EM(1), Wentz A(2), Posner MR(3), Gross ND(4), Haddad RI(5), Gillison
+ML(6), Fakhry C(7), Quon H(8), Sikora AG(9), Stott WJ(10), Lorch JH(5), Gourin
+CG(1), Guo Y(6), Xiao W(6), Miles BA(11), Richmon JD(1), Andersen PE(10),
+Misiukiewicz KJ(3), Chung CH(12), Gerber JE(13), Rajan SD(14), D'Souza G(2).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland.
+(2)Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health,
+Baltimore, Maryland.
+(3)Tisch Cancer Institute, Head and Neck Oncology Center, Icahn School of
+Medicine at Mount Sinai Medical Center, New York, New York.
+(4)Division of Surgery, Department of Head and Neck Surgery, University of Texas 
+MD Anderson Cancer Center, Houston.
+(5)Department of Adult Oncology, Dana-Farber Cancer Institute, Boston,
+Massachusetts.
+(6)Viral Oncology Program, Ohio State University Comprehensive Cancer Center,
+Columbus.
+(7)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University
+School of Medicine, Baltimore, Maryland2Department of Epidemiology, Johns Hopkins
+Bloomberg School of Public Health, Baltimore, Maryland.
+(8)Department of Radiation Oncology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+(9)Department of Otolaryngology-Head and Neck Surgery, Baylor College of
+Medicine, Houston, Texas.
+(10)Department of Otolaryngology-Head and Neck Surgery, Oregon Health and Science
+University, Portland, Oregon.
+(11)Department of Otolaryngology, Icahn School of Medicine at Mount Sinai Medical
+Center, New York, New York.
+(12)Department of Otolaryngology-Head and Neck Surgery, Johns Hopkins University 
+School of Medicine, Baltimore, Maryland11Department of Oncology, Johns Hopkins
+University School of Medicine, Baltimore, Maryland.
+(13)Department of International Health, Johns Hopkins Bloomberg School of Public 
+Health, Baltimore, Maryland.
+(14)Louisiana State University School of Medicine, New Orleans.
+
+Comment in
+    JAMA Oncol. 2015 Oct;1(7):915-7.
+
+IMPORTANCE: Human papillomavirus-related oropharyngeal carcinoma (HPV-OPC) is
+increasing in incidence in the United States. Although HPV-OPC has favorable
+prognosis, 10% to 25% of HPV-OPCs recur. Detection of human papillomavirus (HPV) 
+DNA in oral rinses is associated with HPV-OPC, but its potential as a prognostic 
+biomarker is unclear.
+OBJECTIVE: To determine whether HPV DNA detection in oral rinses after treatment 
+for HPV-OPC is associated with recurrence and survival.
+DESIGN, SETTING, AND PARTICIPANTS: Prospective cohort study of patients with
+incident HPV-OPC diagnosed from 2009 to 2013 at 4 academic tertiary referral
+cancer centers in the United States. Oral rinse samples were collected at
+diagnosis and after treatment (9, 12, 18, and 24 months after diagnosis), and
+evaluated for HPV DNA. Among an initial cohort of 157 participants with incident 
+HPV-OPC treated with curative intent, 124 had 1 or more posttreatment oral rinses
+available and were included in this study.
+MAIN OUTCOMES AND MEASURES: Disease-free survival (DFS) and overall survival (OS)
+were estimated by the Kaplan-Meier method, and the association of HPV DNA
+detection in oral rinses with survival was evaluated using Cox regression
+analysis.
+RESULTS: Oral HPV type 16 (HPV16) DNA was common at diagnosis (67 of 124
+participants [54%]). In contrast, oral HPV16 DNA was detected in only 6
+participants after treatment (5%), including 5 with HPV16 DNA also detected at
+diagnosis (persistent oral HPV16 DNA). Two-year DFS and OS were 92% (95% CI,
+94%-100%) and 98% (95% CI, 93%-99%). Persistent oral HPV16 DNA was associated
+with worse DFS (hazard ratio, 29.7 [95% CI, 9.0-98.2]) and OS (hazard ratio, 23.5
+[95% CI, 4.7-116.9]). All 5 participants with persistent oral HPV16 DNA developed
+recurrent disease, 3 with local disease involvement. In contrast, just 9 of 119
+participants (8%) without persistent oral HPV16 DNA developed recurrent disease, 
+only 1 (11%) with local disease involvement. Median (range) time from earliest
+posttreatment oral HPV16 DNA detection to recurrence was 7.0 (3.7-10.9) months.
+CONCLUSIONS AND RELEVANCE: Human papillomavirus type 16 DNA in oral rinses is
+common at diagnosis but rare after treatment for HPV-OPC. Our data suggest that, 
+although infrequent, persistent HPV16 DNA in posttreatment oral rinses is
+associated with poor prognosis and is a potential tool for long-term tumor
+surveillance, perhaps more so for local recurrence.
+
+DOI: 10.1001/jamaoncol.2015.2524 
+PMID: 26226294  [Indexed for MEDLINE]

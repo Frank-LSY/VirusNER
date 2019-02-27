@@ -1,0 +1,42 @@
+
+
+2235. Int J Cancer. 2009 Oct 15;125(8):1884-93. doi: 10.1002/ijc.24567.
+
+STAT3 activation contributes directly to Epstein-Barr virus-mediated invasiveness
+of nasopharyngeal cancer cells in vitro.
+
+Lui VW(1), Wong EY, Ho Y, Hong B, Wong SC, Tao Q, Choi GC, Au TC, Ho K, Yau DM,
+Ma BB, Hui EP, Chan AS, Tsang CM, Tsao SW, Grandis JR, Chan AT.
+
+Author information: 
+(1)Cancer Signaling Laboratory, State Key Laboratory of Oncology in South China, 
+Department of Clinical Oncology, Sir YK Pao Center for Cancer, Hong Kong Cancer
+Institute, The Chinese University of Hong Kong, Shatin, Hong Kong SAR, China.
+
+Nasopharyngeal cancer (NPC) is an Epstein-Barr virus (EBV)-associated head and
+neck cancer prevalent in Asia. Although with reasons not fully understood, the
+intrinsic invasiveness of NPC is believed to be EBV-linked. Recently, EBV was
+found to induce STAT3 activation. Constitutive STAT3 activation correlated with
+advanced clinical staging in NPC. We hypothesized that STAT3 activation by EBV
+directly contributes to the intrinsic invasiveness of NPC cells.
+Phospho-STAT3-Tyr705 was detected in high percentage of NPC tumors (7/10 cases). 
+Using a paired NPC cell line model, HONE-1 and the EBV-infected counterpart,
+HONE-1-EBV, we found that HONE-1-EBV expressed a higher level of
+phospho-STAT3-Tyr705 and was approximately 11-fold more invasive than HONE-1. In 
+HONE-1-EBV, STAT3 siRNA targeting inhibited both spontaneous and serum-induced
+invasion, as well as cell growth. Conversely, activation of STAT3 (by expressing 
+an activated STAT3 mutant, namely STAT3C) in the parental HONE-1, mimicking
+EBV-induced STAT3 activation, significantly enhanced its invasiveness and
+proliferation, which was accompanied by increased expression of markers of
+mesenchymal status, proliferation and anti-apoptosis. Our results demonstrated
+that EBV-induced STAT3 activation is responsible for NPC cell proliferation and
+invasion. This was further confirmed by a small molecule inhibitor of JAK/STAT3, 
+JSI-124. JSI-124 inhibited STAT3 activation in HONE-1-EBV, with subsequent growth
+inhibition, induction of PARP cleavage, abrogation of anchorage-independent
+growth and invasion. We found that EBV-independent activation of STAT3 by a
+growth factor, EGF, also contributed to NPC invasion. In conclusion, EBV-induced 
+STAT3 activation directly contributes to the intrinsic invasiveness of NPC cells 
+and STAT3 targeting may be beneficial in treating aggressive NPC.
+
+DOI: 10.1002/ijc.24567 
+PMID: 19588483  [Indexed for MEDLINE]

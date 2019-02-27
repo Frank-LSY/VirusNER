@@ -1,0 +1,35 @@
+
+
+1989. J Laryngol Otol. 2015 Jan;129(1):86-92. doi: 10.1017/S0022215114003065. Epub 2014
+Dec 8.
+
+Prognostic significance of tumour progression and human papillomavirus in
+advanced tonsillar cancer classified as stage IVa.
+
+Park E(1), Jung KY(1), Kwon SY(1), Woo JS(1), Cho JG(1), Park MW(1), Kim IS(2),
+Kim SJ(2), Baek SK(1).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery,Korea University College 
+of Medicine,Seoul,Korea.
+(2)Department of Pathology,Korea University College of Medicine,Seoul,Korea.
+
+OBJECTIVE: To identify clinical factors that can explain the differences in
+treatment outcome, and examine the value of human papillomavirus infection as a
+prognostic biomarker in stage IVa tonsillar carcinomas.
+METHODS: Fifty-nine patients with tonsillar carcinoma classified as stage IVa
+were retrospectively analysed for survival outcomes according to various clinical
+factors. Human papillomavirus infection was evaluated using a human
+papillomavirus DNA chip test and immunohistochemical staining for p16 and p53.
+RESULTS: Lower disease-free survival rates were associated with increasing local 
+invasiveness and nodal status. Although human papillomavirus positivity and p16
+expression was more common in locally advanced tonsillar carcinomas with advanced
+nodal status, the overall survival rate was better for patients with human
+papillomavirus positive, p16-positive tumours.
+CONCLUSION: The disease-free survival rate may differ according to local tumour
+invasiveness and nodal status, even for stage IVa tonsillar cancers. Human
+papillomavirus infection may be a useful biomarker for predicting treatment
+outcomes for stage VIa tumours.
+
+DOI: 10.1017/S0022215114003065 
+PMID: 25482503  [Indexed for MEDLINE]

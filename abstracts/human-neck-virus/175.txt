@@ -1,0 +1,32 @@
+
+
+175. Otolaryngol Head Neck Surg. 2018 Jan;158(1):158-162. doi:
+10.1177/0194599817733674. Epub 2017 Oct 3.
+
+Absence of Measles Virus Detection from Stapes of Patients with Otosclerosis.
+
+Flores-García ML(1), Colín-Castro CA(2), Hernández-Palestina MS(1),
+Sánchez-Larios R(1), Franco-Cendejas R(2).
+
+Author information: 
+(1)1 Department of Otorhinolaryngology and Head and Neck Surgery, Instituto
+Nacional de Rehabilitación Luis Guillermo Ibarra Ibarra, Mexico City, Mexico.
+(2)2 Infectious Disease Division, Instituto Nacional de Rehabilitación Luis
+Guillermo Ibarra Ibarra, Mexico City, Mexico.
+
+Objective To determine molecularly the presence of measles virus genetic material
+in the stapes of patients with otosclerosis. Study Design A cross-sectional
+study. Setting A tertiary referral hospital. Subjects and Methods Genetic
+material was extracted from the stapes of patients with otosclerosis (n = 93)
+during the period from March 2011 to April 2012. The presence of viral measles
+sequences was evaluated by the real-time reverse transcriptase polymerase chain
+reaction (RT-PCR). The expression of the CD46 gene was determined. Results
+Ninety-three patients were included in the study. No sample was positive for any 
+of 3 measles virus genes (H, N, and F). Measles virus RNA was not detected in any
+sample by real-time RT-PCR. CD46 levels were positive in 3.3% (n = 3) and
+negative in 96.7% (n = 90). Conclusion This study does not support the theory of 
+measles virus as the cause of otosclerosis. It is necessary to do more research
+about other causal theories to clarify its etiology and prevention.
+
+DOI: 10.1177/0194599817733674 
+PMID: 28971731  [Indexed for MEDLINE]

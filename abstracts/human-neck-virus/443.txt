@@ -1,0 +1,34 @@
+
+
+443. J Interferon Cytokine Res. 2011 Feb;31(2):227-36. doi: 10.1089/jir.2010.0055.
+Epub 2010 Sep 28.
+
+Porcine type I interferon rapidly protects swine against challenge with multiple 
+serotypes of foot-and-mouth disease virus.
+
+Dias CC(1), Moraes MP, Segundo FD, de los Santos T, Grubman MJ.
+
+Author information: 
+(1)Plum Island Animal Disease Center, Agricultural Research Service, US
+Department of Agriculture, Greenport, New York 11944, USA.
+
+Foot-and-mouth disease virus (FMDV) causes a highly contagious disease of
+cloven-hoofed animals. Current inactivated vaccines require approximately 7 days 
+to induce protection, but before this time vaccinated animals remain susceptible 
+to disease. Previously, we demonstrated that intramuscular (IM) inoculation of a 
+replication-defective human adenovirus type 5 (Ad5) vector containing a porcine
+interferon α gene (pIFNα) can protect swine challenged 1 day later by intradermal
+(ID) injection with FMDV A24 Cruzeiro from both clinical disease and virus
+replication. To extend these studies to other FMDV serotypes, we demonstrated the
+effectiveness of Ad5-pIFNα against ID challenge with O1 Manisa and Asia-1 and
+against A24 Cruzeiro in a direct contact challenge model. We also showed that an 
+Ad5 vector containing the pIFNβ gene can protect swine against ID challenge with 
+A24 Cruzeiro. Further, IM inoculation of a 10-fold lower dose of Ad5-pIFNα at 4
+sites in the neck compared with 1 site in the hind limb can protect swine against
+ID challenge. These studies demonstrate the ability of Ad5-delivered type I IFN
+to rapidly protect swine against several FMDV serotypes and suggest that various 
+modifications of this approach may enable this strategy to be successfully used
+in other FMD susceptible species.
+
+DOI: 10.1089/jir.2010.0055 
+PMID: 20874428  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+333. J Clin Virol. 2013 Jun;57(2):120-4. doi: 10.1016/j.jcv.2013.02.009. Epub 2013 Mar
+7.
+
+Oropharyngeal cancers: significance of HPV16 detection in neck lymph nodes.
+
+Mirghani H(1), Ferchiou M, Moreau F, Vourexakis Z, Amen F, Breuskin I, Lefèvre M,
+Casiraghi O, Drusch F, Soussan P, Vielh P, St Guily JL.
+
+Author information: 
+(1)Department of Head and Neck, Institut de Cancérologie Gustave Roussy,
+Villejuif, France. mirghani_fr@yahoo.fr
+
+BACKGROUND: An increasing proportion of oropharyngeal squamous cell carcinomas
+(OPSCCs) is associated with human papillomavirus (HPV) type 16 infection. Several
+authors have suggested that HR-HPV DNA could be used as a marker of metastases in
+cervical cancers. Although HPV16 DNA has been detected in neck lymph node (LN)
+metastases of HPV16-positive OPSCC, its significance remains controversial. Does 
+this presence correlate to metastatic involvement or is it just the consequence
+of LN filter function?
+OBJECTIVES: This study aims to analyse the relationship between HPV16 detection
+in neck LNs of HPV16-positive OPSCC and their pathological status.
+STUDY DESIGN: HP16-viral load (VL) was quantified by real-time-polymerase-chain
+reaction in primary tumours and neck LNs, in 11 patients with HPV16-positive
+OPSCC and in three patients with HPV16-negative OPSCC. HPV16 in situ
+hybridisation and p16 immunohistochemistry were performed in all LNs.
+RESULTS: A total of 45 LN levels were assessed. HPV16 DNA was not identified in
+HPV16-negative OPSCC LNs. All metastatic LNs from HPV16-positive OPSCC had a high
+VL and the viral DNA was located within tumoural cells. Among 27 pathologically
+tumour-free LN (PTFLN) levels 16/27 had no detectable VL, whereas the VL was low 
+or medium (<10(5)copies/million cells) in 8/27 and high (>10(5)copies/million
+cells) in 3/27 PTFLN. In the latter group, no metastatic cell was identified and 
+the viral DNA was located in immune cells.
+CONCLUSION: HPV16 detection in LN is explained by its presence within either
+metastatic cells or immune cells. HPV16 detection in PTFLN is not necessarily
+correlated to occult LN metastases.
+
+Copyright © 2013 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jcv.2013.02.009 
+PMID: 23478163  [Indexed for MEDLINE]

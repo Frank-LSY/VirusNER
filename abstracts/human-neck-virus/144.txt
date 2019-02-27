@@ -1,0 +1,28 @@
+
+
+144. Recent Results Cancer Res. 2017;206:113-122.
+
+Variation of HPV Subtypes with Focus on HPV-Infection and Cancer in the Head and 
+Neck Region.
+
+Wichmann G(1).
+
+Author information: 
+(1)ENT-Research Laboratory, Clinic of Otolaryngology, Head and Neck Surgery and
+Department of Head Medicine and Oral Health, University of Leipzig, Liebigstr.
+21, 04103, Leipzig, Germany. gunnar.wichmann@medizin.uni-leipzig.de.
+
+The human papillomavirus (HPV) comprises a heterogeneous group of double-strand
+DNA viruses with variable potential to infect human epithelial cells and trigger 
+neoplastic transformation. Its 8 kb genome encodes proteins required for virus
+replication and self-organized formation of infectious particles but also for
+early proteins E6 and E7 able to trigger neoplastic transformation. E6 and E7 of 
+high-risk (HR) HPV subtypes can bind to p53 or release E2F and abrogate
+replication control. Due to variable amino acid sequence (AAS) in the binding
+sites of E6 and E7 particular HR-HPV variants within subtypes are essentially
+heterogeneous in efficacy triggering neoplastic transformation and cancer
+development. This could explain differences in the clinical course of HPV-driven 
+head and neck cancer.
+
+DOI: 10.1007/978-3-319-43580-0_8 
+PMID: 27699533  [Indexed for MEDLINE]

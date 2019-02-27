@@ -1,0 +1,22 @@
+
+
+1586. Clin Pediatr (Phila). 2010 Mar;49(3):293-6. doi: 10.1177/0009922809360249.
+
+A boy unable to move his arm.
+
+Cantu RM(1), Steele RW.
+
+Author information: 
+(1)Tulane University School of Medicine, New Orleans, LA, USA. rcantu@tulane.edu
+
+An 11-year-old boy presented with inability to move his right arm, back and neck 
+pain, and fever. He had a history of recurrent vesicular rash on his face three
+times over the past two years. Magnetic resonance imaging (MRI) showed diffuse
+expansile cervical cord, leading to a diagnosis of transverse myelitis. After 3
+days of intravenous solumedrol, the patient was discharged, but returned the
+following day with a vesicular rash to the right arm, as well as vomiting,
+malaise and diffuse pruritus.Wright-Giemsa stain of the vesicles revealed herpes 
+group virus and culture was positive for herpes simplex type 1.
+
+DOI: 10.1177/0009922809360249 
+PMID: 20164075  [Indexed for MEDLINE]

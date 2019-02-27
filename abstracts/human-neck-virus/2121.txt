@@ -1,0 +1,46 @@
+
+
+2121. Pathologe. 2016 Jul;37(4):285-92. doi: 10.1007/s00292-016-0173-9.
+
+[Grading of head and neck neoplasms].
+
+[Article in German]
+
+Agaimy A(1), Weichert W(2)(3)(4).
+
+Author information: 
+(1)Pathologisches Institut, Universitätsklinikum Erlangen, Krankenhausstrasse
+8-10, 91054, Erlangen, Deutschland. abbas.agaimy@uk-erlangen.de.
+(2)Institut für Pathologie, Technische Universität München, Ismaninger Straße 22,
+81675, München, Deutschland. wilko.weichert@tum.de.
+(3)Nationales Centrum für Tumorerkrankungen (NCT), Heidelberg, Deutschland.
+wilko.weichert@tum.de.
+(4)Deutsches Konsortium für Translationale Krebsforschung (DKTK), München,
+Deutschland. wilko.weichert@tum.de.
+
+Tumors of the head and neck form a heterogeneous group of benign and malignant
+neoplasms with significant differences in biological behavior and therapeutic
+strategies. Squamous cell carcinomas (SCC) of the larynx, pharynx and oral cavity
+represent the most frequent and, thus, clinically most important malignant
+neoplasms in this anatomical region. Similar to other neoplasms, grading of head 
+and neck malignancies is based on evaluation of the tumor histology usually
+including both architectural and cytological features; however, the current
+consensus grading for head and neck SCC is of limited prognostic and therapeutic 
+value and the reproducibility is low. Therefore, novel grading criteria have been
+proposed that are based on additional parameters, such as the type of tumor
+growth pattern at the invasive front (so-called tumor budding). These novel
+algorithms, however, have not yet been officially endorsed into guidelines.
+Salivary gland (SG) neoplasms, although less frequent, constitute a second
+important pathologically and clinically complex group of tumors at this location.
+In contrast to SCC, grading of these tumors is of high clinical importance. Based
+on the large variety of carcinoma entities of the SG, both entity-specific (e. g.
+mucoepidermoid carcinoma) algorithms but also algorithms, which are solely based 
+on the recognition of a specific carcinoma variant with subsequent automatic
+assignment of the tumor grade (e. g. acinic cell carcinoma and salivary duct
+carcinoma) are in use. In the sinonasal tract, grading is important for
+non-intestinal type adenocarcinoma and esthesioneuroblastoma. In this article the
+most important grading schemes and criteria for head and neck malignancies are
+presented and their prognostic and therapeutic implications are discussed.
+
+DOI: 10.1007/s00292-016-0173-9 
+PMID: 27342593  [Indexed for MEDLINE]

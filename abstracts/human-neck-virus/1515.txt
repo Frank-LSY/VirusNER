@@ -1,0 +1,43 @@
+
+
+1515. Am J Epidemiol. 2015 Jan 1;181(1):40-53. doi: 10.1093/aje/kwu247. Epub 2014 Dec
+4.
+
+Risk factors for acquisition and clearance of oral human papillomavirus infection
+among HIV-infected and HIV-uninfected adults.
+
+Beachler DC, Sugar EA, Margolick JB, Weber KM, Strickler HD, Wiley DJ, Cranston
+RD, Burk RD, Minkoff H, Reddy S, Xiao W, Guo Y, Gillison ML, D'Souza G.
+
+Comment in
+    Cancer Epidemiol. 2016 Aug;43:120.
+    Cancer Epidemiol. 2016 Aug;43:30-4.
+
+Human papillomavirus (HPV) causes the majority of oropharyngeal cancers in the
+United States, yet the risk factors for and natural history of oral HPV infection
+are largely unknown. In 2010-2011, a US-based longitudinal cohort study of 761
+human immunodeficiency virus (HIV)-infected and 469 at-risk HIV-uninfected
+participants from the Multicenter AIDS Cohort Study and the Women's Interagency
+HIV Study was initiated. Semiannually collected oral rinses were evaluated for 37
+HPV genotypes using the Roche LINEAR ARRAY HPV Genotyping Test (Roche Molecular
+Systems, Pleasanton, California), and factors associated with oral HPV incidence 
+and clearance were explored using adjusted Wei-Lin-Weissfeld modeling. Through
+2013, the 2-year cumulative incidence of any type of oral HPV infection was 34%
+in HIV-infected persons and 19% in HIV-uninfected persons. However, many of these
+infections cleared. Seven percent of incident infections and 35% of prevalent
+infections persisted for at least 2 years. After adjustment for other risk
+factors, HIV infection (adjusted hazard ratio = 2.3, 95% confidence interval:
+1.7, 3.2), reduced current CD4 cell count, and increased numbers of oral sex and 
+"rimming" partners increased the risk of incident oral HPV infection, whereas
+male sex, older age, and current smoking increased the risk of oral HPV
+persistence (each P < 0.05). This helps explain the consistent associations
+observed between these factors and prevalent oral HPV infection in previous
+cross-sectional studies.
+
+© The Author 2014. Published by Oxford University Press on behalf of the Johns
+Hopkins Bloomberg School of Public Health. All rights reserved. For permissions, 
+please e-mail: journals.permissions@oup.com.
+
+DOI: 10.1093/aje/kwu247 
+PMCID: PMC4288119
+PMID: 25480823  [Indexed for MEDLINE]

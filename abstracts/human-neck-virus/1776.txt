@@ -1,0 +1,55 @@
+
+
+1776. Int J Radiat Oncol Biol Phys. 2016 Apr 1;94(5):1198-206. doi:
+10.1016/j.ijrobp.2016.01.005. Epub 2016 Jan 14.
+
+Radiation-Induced Dedifferentiation of Head and Neck Cancer Cells Into Cancer
+Stem Cells Depends on Human Papillomavirus Status.
+
+Vlashi E(1), Chen AM(2), Boyrie S(2), Yu G(2), Nguyen A(2), Brower PA(2), Hess
+CB(3), Pajonk F(4).
+
+Author information: 
+(1)Department of Radiation Oncology, David Geffen School of Medicine at UCLA, Los
+Angeles, California; Jonsson Comprehensive Cancer Center at UCLA, Los Angeles,
+California. Electronic address: evlashi@mednet.ucla.edu.
+(2)Department of Radiation Oncology, David Geffen School of Medicine at UCLA, Los
+Angeles, California.
+(3)Department of Radiation Oncology, University of California Davis, Sacramento, 
+California.
+(4)Department of Radiation Oncology, David Geffen School of Medicine at UCLA, Los
+Angeles, California; Jonsson Comprehensive Cancer Center at UCLA, Los Angeles,
+California.
+
+PURPOSE: To test the hypothesis that the radiation response of cancer stem cells 
+(CSCs) in human papillomavirus (HPV)-positive and HPV-negative head and neck
+squamous cell carcinoma (HNSCC) differs and is not reflected in the radiation
+response of the bulk tumor populations, that radiation therapy (RT) can
+dedifferentiate non-stem HNSCC cells into CSCs, and that radiation-induced
+dedifferentiation depends on the HPV status.
+METHODS AND MATERIALS: Records of a cohort of 162 HNSCC patients were reviewed,
+and their outcomes were correlated with their HPV status. Using a panel of
+HPV-positive and HPV-negative HNSCC cell lines expressing a reporter for CSCs, we
+characterized HPV-positive and HPV-negative lines via flow cytometry,
+sphere-forming capacity assays in vitro, and limiting dilution assays in vivo.
+Non-CSCs were treated with different doses of radiation, and the
+dedifferentiation of non-CSCs into CSCs was investigated via flow cytometry and
+quantitative reverse transcription-polymerase chain reaction for re-expression of
+reprogramming factors.
+RESULTS: Patients with HPV-positive tumors have superior overall survival and
+local-regional control. Human papillomavirus-positive HNSCC cell lines have lower
+numbers of CSCs, which inversely correlates with radiosensitivity. Human
+papillomavirus-negative HNSCC cell lines lack hierarchy owing to enhanced
+spontaneous dedifferentiation. Non-CSCs from HPV-negative lines show enhanced
+radiation-induced dedifferentiation compared with HPV-positive lines, and RT
+induced re-expression of Yamanaka reprogramming factors.
+CONCLUSIONS: Supporting the favorable prognosis of HPV-positive HNSCCs, we show
+that (1) HPV-positive HNSCCs have a lower frequency of CSCs; (2) RT can
+dedifferentiate HNSCC cells into CSCs; and (3) radiation-induced
+dedifferentiation depends on the HPV status of the tumor.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.ijrobp.2016.01.005 
+PMCID: PMC4817367
+PMID: 27026319  [Indexed for MEDLINE]

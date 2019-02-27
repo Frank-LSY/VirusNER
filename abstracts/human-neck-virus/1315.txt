@@ -1,0 +1,35 @@
+
+
+1315. Oral Oncol. 2012 May;48(5):383-92. doi: 10.1016/j.oraloncology.2011.12.006. Epub 
+2012 Jan 11.
+
+Ras oncogenes in oral cancer: the past 20 years.
+
+Murugan AK(1), Munirajan AK, Tsuchida N.
+
+Author information: 
+(1)Department of Molecular Cellular Oncology and Microbiology, Tokyo Medical and 
+Dental University, Tokyo, Japan. amuruga1@jhmi.edu
+
+Oral squamous cell carcinoma (OSCC) of head and neck is associated with high
+morbidity and mortality in both Western and Asian countries. Several risk factors
+for the development of oral cancer are very well established, including tobacco
+chewing, betel quid, smoking, alcohol drinking and human papilloma virus (HPV)
+infection. Apart from these risk factors, many genetic factors such as oncogenes,
+tumor suppressor genes and regulatory genes are identified to involve in oral
+carcinogenesis with these risk factors dependent and independent manner. Ras is
+one of the most frequently genetically deregulated oncogene in oral cancer. In
+this review, we analyze the past 22years of literature on genetic alterations
+such as mutations and amplifications of the isoforms of the ras oncogene in oral 
+cancer. Further, we addressed the isoform-specific role of the ras in oral
+carcinogenesis. We also discussed how targeting the Akt and MEK, downstream
+effectors of the PI3K/Akt and MAPK pathways, respectively, would probably pave
+the possible molecular therapeutic target for the ras driven tumorigenesis in
+oral cancer. Analysis of these ras isoforms may critically enlighten specific
+role of a particular ras isoform in oral carcinogenesis, enhance prognosis and
+pave the way for isoform-specific molecular targeted therapy in OSCC.
+
+Copyright © 2011 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2011.12.006 
+PMID: 22240207  [Indexed for MEDLINE]

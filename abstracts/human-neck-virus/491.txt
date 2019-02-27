@@ -1,0 +1,27 @@
+
+
+491. HNO. 2012 May;60(5):404-7. doi: 10.1007/s00106-011-2465-y.
+
+[New aspects of HPV-positive head and neck cancer. Highlights from the 2011 ASCO 
+Congress].
+
+[Article in German]
+
+Kofler B(1), Uecker FC, Muenscher A, Knecht R.
+
+Author information: 
+(1)Klinik und Poliklinik für Hals-, Nasen- und Ohrenheilkunde,
+Universitätsklinikum Hamburg-Eppendorf. b.kofler@uke.uni-hamburg.de
+
+HPV-positive head and neck carcinoma is significantly different than tobacco- and
+alcohol-induced cancer. Between 30% and 50% of oropharyngeal cancers are
+associated with human papillomavirus (HPV). Studies still show an increasing
+incidence. HPV-positive head and neck cancer patients have a better prognosis due
+to a better response to therapy. Especially patients with gene overexpression of 
+immunological proteins in the antigen presentation are suggested to benefit from 
+radiotherapy. A current retrospective study shows better outcomes for patients
+treated with radiotherapy in combination with biological targets compared to
+radiochemotherapy.
+
+DOI: 10.1007/s00106-011-2465-y 
+PMID: 22570004  [Indexed for MEDLINE]

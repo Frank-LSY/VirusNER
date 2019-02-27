@@ -1,0 +1,30 @@
+
+
+2922. Liver Transpl. 2009 Nov;15 Suppl 2:S90-4. doi: 10.1002/lt.21898.
+
+De novo malignancies following liver transplantation: impact and recommendations.
+
+Herrero JI(1).
+
+Author information: 
+(1)Liver Unit, Clinica de la Universidad de Navarra, Pamplona, Spain.
+iherrero@unav.es
+
+1. De novo malignancy is one of the leading causes of late mortality after liver 
+transplantation. 2. The risks of skin cancers and lymphoma are more than 10-fold 
+greater than the risks in an age-matched and sex-matched general population. 3.
+Some types of neoplasia, such as lung, head and neck, and colorectal cancer, are 
+more frequent in liver transplant recipients than in an age-matched and
+sex-matched population. The risks of other frequent malignancies, such as
+prostate and breast cancer, do not seem to be increased. 4. The most important
+risks for posttransplant malignancy are Epstein-Barr virus seronegativity (for
+lymphoma), sun exposure (for skin cancer), smoking, and increasing age. 5.
+Despite the absence of evidence, general recommendations (such as avoidance of
+overimmunosuppression, sunlight protection, and cessation of smoking) should be
+given. Screening protocols may help to detect neoplasia at an early stage of
+disease.
+
+(c) 2009 AASLD.
+
+DOI: 10.1002/lt.21898 
+PMID: 19877025  [Indexed for MEDLINE]

@@ -1,0 +1,41 @@
+
+
+914. Oncologist. 2013;18(2):180-9. doi: 10.1634/theoncologist.2012-0200. Epub 2013 Jan
+23.
+
+A patient-centered approach to counseling patients with head and neck cancer
+undergoing human papillomavirus testing: a clinician's guide.
+
+Chu A(1), Genden E, Posner M, Sikora A.
+
+Author information: 
+(1)Department of Otolaryngology, Tisch Cancer Institute, Icahn School of Medicine
+at Mount Sinai, One Gustave L. Levy Place, Box 1189, New York, New York 10029,
+USA.
+
+The International Agency for Research on Cancer and the National Cancer Institute
+have acknowledged human papillomavirus (HPV)-16 as an independent risk factor for
+oropharyngeal cancer (OPC). HPV-positive oropharyngeal cancer (HPVOPC) is a
+sexually transmitted entity that is on the rise; within the next 10 years, the
+annual number of HPV-associated OPC cases is projected to exceed the annual
+number of cervical cancer cases in the United States. Recognition of HPV status
+in OPC has broad implications beyond the traditional oncological concerns of
+timely diagnosis, accurate staging, and appropriate treatment of cancer patients.
+The National Comprehensive Cancer Network recommends testing the tumor site for
+HPV-status during OPC management; it is likely this will become a standard
+component of care for patients with high-probability tumors of the oropharynx. As
+the practice of HPV testing becomes more common, it behooves providers to be able
+to adequately address the concerns of patients with HPVOPC. Although there are
+currently few relevant studies focusing on this population, existing literature
+on HPV-infected women and patients with cervical cancer strongly supports the
+concept that patients with HPVOPC need education to optimally address concerns
+such as self-blame, guilt, intimacy, and interpersonal relationships. When HPV
+testing is done, it should be accompanied by evidence-driven and patient-centered
+counseling to best minimize negative psychosocial outcomes and ensure optimum
+health promotion. Based on the current state of the literature, this article is
+intended to be a reference for physicians to effectively manage psychosocial
+outcomes when diagnosing patients with HPV-associated OPC.
+
+DOI: 10.1634/theoncologist.2012-0200 
+PMCID: PMC3579602
+PMID: 23345545  [Indexed for MEDLINE]

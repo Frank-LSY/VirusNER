@@ -1,0 +1,33 @@
+
+
+1979. Head Neck. 2014 May;36(5):750-9. doi: 10.1002/hed.23351. Epub 2013 Oct 7.
+
+Predictive value of human papillomavirus in oropharyngeal carcinoma treated with 
+radiotherapy: An updated systematic review and meta-analysis of 30 trials.
+
+Petrelli F(1), Sarti E, Barni S.
+
+Author information: 
+(1)Medical Oncology Unit, Oncology Department, Azienda Ospedaliera Treviglio,
+Piazzale Ospedale 1, 24047, Treviglio (BG), Italy.
+
+BACKGROUND: Human papillomavirus-positive (HPV+) oropharyngeal squamous cell
+carcinoma (OSCC) is emerging as a different subtype of head and neck cancer. The 
+authors conducted a systematic review and meta-analysis to examine the predictive
+role of HPV in patients with OSCC treated with radiotherapy-based modality
+therapy.
+METHODS: The authors performed a PubMed search to identify published trials that 
+evaluated the outcome of HPV+ OSCC treated with radiotherapy. Hazard ratios (HRs)
+were extracted and pooled by using random or fixed effects models. The primary
+endpoints were overall survival (OS), disease-specific survival, (DSS), and
+disease-free survival (DFS).
+RESULTS: Thirty trials were available for HPV analysis. HPV+ status is associated
+with better OS (HR = 0.33; p < .00001), DSS (HR = 0.24; p < .00001), and DFS
+(HR = 0.31; p < .00001).
+CONCLUSION: HPV+ OSCC has a better survival compared to HPV-negative disease when
+treated with radiotherapy-based modality therapy.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23351 
+PMID: 23606404  [Indexed for MEDLINE]

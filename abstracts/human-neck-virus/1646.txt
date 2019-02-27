@@ -1,0 +1,42 @@
+
+
+1646. Head Neck. 2017 Feb;39(2):254-259. doi: 10.1002/hed.24575. Epub 2016 Sep 12.
+
+Mucosal and cutaneous human papillomaviruses in head and neck squamous cell
+papillomas.
+
+Donà MG(1), Pichi B(2), Rollo F(3), Gheit T(4), Laquintana V(3), Covello R(3),
+Pescarmona E(3), Spriano G(2), Pellini R(2), Giuliani M(1), Tommasino M(4),
+Benevolo M(3).
+
+Author information: 
+(1)STI/HIV Unit, San Gallicano Dermatologic Institute, IRCCS, Rome, Italy.
+(2)Otolaryngology Head Neck Surgery Department, Regina Elena National Cancer
+Institute, IRCCS, Rome, Italy.
+(3)Pathology Department, Regina Elena National Cancer Institute, IRCCS, Rome,
+Italy.
+(4)Infections and Cancer Biology Group, International Agency for Research on
+Cancer, Lyon, France.
+
+BACKGROUND: Conflicting data exist regarding the contribution of human
+papillomavirus (HPV) to the development of head and neck squamous cell
+papillomas.
+METHODS: Formalin-fixed paraffin-embedded papillomas were tested for 28 mucosal
+and 79 cutaneous HPVs using polymerase chain reaction (PCR)-based methods.
+RESULTS: Eighty-three papillomas (43 oropharyngeal, 31 oral, 6 laryngeal, and 3
+nasopharyngeal) were analyzed. Twenty-four samples (28.9%) harbored mucosal HPVs:
+3 oropharyngeal (6.9%), 15 oral (48.3%), 4 laryngeal (66.7%), and 2
+nasopharyngeal papillomas (66.7%). Eighty-one cases were also tested for
+cutaneous HPVs, detected in 16 lesions (19.7%): 11 (13.5%) harbored only
+cutaneous types, and 5 (6.2%) were positive for both cutaneous and mucosal HPVs. 
+Among these 81 cases, prevalence of mucosal and/or cutaneous HPV infection was
+43.2%.
+CONCLUSION: HPV DNA detection in a fraction of head and neck papillomas supports 
+the role of HPV in their development. However, other markers need to be
+considered to confirm the association of HPV infection with these lesions. © 2016
+Wiley Periodicals, Inc. Head Neck 39: 254-259, 2017.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24575 
+PMID: 27618734  [Indexed for MEDLINE]

@@ -1,0 +1,39 @@
+
+
+699. Oncotarget. 2016 Nov 22;7(47):76704-76712. doi: 10.18632/oncotarget.12501.
+
+Impact of HPV infection on oral squamous cell carcinoma.
+
+Götz C(1), Drecoll E(2), Straub M(2), Bissinger O(1), Wolff KD(1), Kolk A(1).
+
+Author information: 
+(1)Department of Maxillofacial and Oral Surgery, Technical University Munich,
+81675 München, Germany.
+(2)Department of Pathology, Technical University Munich, 81675 München, Germany.
+
+BACKGROUND: Head and neck squamous cell carcinomas (HNSCC) are often divided by
+their aetiology. Noxae associated collectives are compared with the human
+papilloma virus (HPV)-associated group, whereas different localisations of oral
+(OSCC) and oropharyngeal (OPSCC) squamous cell carcinomas are mostly discussed as
+one single group. Our aim was to show that classification by aetiology is not
+appropriate for OSCC.
+RESULTS: HPV DNA was detected by PCR in 7 (3.47%) patients, and we identified 12 
+(5.94%) positive (+) cases by p16INK4a immunostaining. Only 4 (1.98%) of the
+p16INK4a+ cases were + for HPV using PCR. Our homogenous collective of OSCC
+allowed us to compare HPV+ and HPV negative (-) patients without creating bias
+for tumour localisation, age, gender or tumour stage.
+MATERIALS AND METHODS: After testing OSCC samples for HPV positivity, we compared
+the results of two commonly used HPV detection methods, p16INK4a immunostaining
+and HPV DNA-related PCR, on 202 OSCC patients. HPV subtypes were determined with 
+an HPV LCD Array Kit. Clinicopathological features of the patients were analysed,
+and the disease specific survival rates (DSS) for HPV+ and HPV- patients were
+obtained.
+CONCLUSIONS: p16INK4a immunostaining is a not a reliable HPV detection method for
+OSCC. Positive p16INK4a immunostaining did not agree with + results from PCR of
+HPV DNA. Furthermore, the influence of HPV-related oncogenic transformation in
+OSCC is overestimated. The significance of HPV infection remains clinically
+unclear, and its influence on survival rates is not relevant to OSCC cases.
+
+DOI: 10.18632/oncotarget.12501 
+PMCID: PMC5363542
+PMID: 27732948  [Indexed for MEDLINE]

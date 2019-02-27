@@ -1,0 +1,39 @@
+
+Conflict of interest statement: Competing interests: None declared.
+
+
+2927. Cell Signal. 2014 Dec;26(12):2826-33. doi: 10.1016/j.cellsig.2014.09.001. Epub
+2014 Sep 15.
+
+TMC8 (EVER2) attenuates intracellular signaling by Zn2+ and Ca2+ and suppresses
+activation of Cl- currents.
+
+Sirianant L(1), Ousingsawat J(1), Tian Y(1), Schreiber R(1), Kunzelmann K(2).
+
+Author information: 
+(1)Institut für Physiologie, Universität Regensburg, Universitätsstraße 31,
+D-93053 Regensburg, Germany.
+(2)Institut für Physiologie, Universität Regensburg, Universitätsstraße 31,
+D-93053 Regensburg, Germany. Electronic address: karl.kunzelmann@ur.de.
+
+Eight paralogue members form the family of transmembrane channel-like (TMC)
+proteins that share considerable sequence homology to anoctamin 1 (Ano1,
+TMEM16A). Ano1 is a Ca(2+) activated Cl(-) channel that is related to head and
+neck cancer, often caused by human papilloma virus (HPV) infection. Mutations in 
+TMC 6 and 8 (EVER1, EVER2) cause epidermodysplasia verruciformis. This rare skin 
+disease is characterized by abnormal susceptibility to HPV infection and cancer. 
+We found that in contrast to Ano1 the common paralogues TMC4-TMC8 did not produce
+Ca(2+) activated Cl(-) currents when expressed in HEK293 cells. On the contrary, 
+TMC8 was found to be localized in the endoplasmic reticulum (ER), where it
+inhibited receptor mediated Ca(2+) release, activation of Ano1 and volume
+regulated LRRC8-related Cl(-) currents. Zn(2+) is co-released from the ER
+together with Ca(2+) and thereby further augments Ca(2+) store release. Because
+TMC8 is required to lower cytosolic Zn(2+) concentrations by the Zn(2+)
+transporter ZnT-1, we hypothesize that HPV infections and cancer caused by
+mutations in TMC8 are related to upregulated Zn(2+)/Ca(2+) signaling and
+activation of Ano1.
+
+Copyright © 2014 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.cellsig.2014.09.001 
+PMID: 25220380  [Indexed for MEDLINE]

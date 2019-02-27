@@ -1,0 +1,32 @@
+
+
+1074. Proc Am Thorac Soc. 2011 Mar;8(1):79-89. doi: 10.1513/pats.201006-039RN.
+
+Rhinovirus infections in the upper airway.
+
+Winther B(1).
+
+Author information: 
+(1)University of Virginia Health System, Department of Otolaryngology, Head and
+Neck Surgery, P.O. Box 800713, Charlottesville, VA 22908, USA. bw8b@virginia.edu
+
+The majority of cold and flulike illnesses are caused by human rhinoviruses
+(HRVs). Improved detection of HRV has shown that HRVs are also associated with
+more serious illness, such as exacerbation of asthma, wheezing illnesses in
+children, chronic obstructive pulmonary disease, cardiopulmonary disease, and
+fatal pneumonia in immune-compromised patients. HRV is a major cause of acute
+viral respiratory tract infections in hospitalized children and is among the
+leading causes of childhood mortality worldwide. Detection of the HRV genome by
+reverse transcriptase-polymerase chain reaction and genomic sequencing has
+brought to light a new clade, HRV-C, to the already recognized HRV-A and HRV-B
+clades. The clinical complications related to all rhinovirus infections include
+acute otitis media, acute sinusitis, and acute bronchitis. The enormous public
+health implications from those diseases far overshadow those of the common cold. 
+This article provides an overview of the pathogenesis of rhinovirus infection in 
+the upper airways. Most research has been done in young healthy adults with
+self-limiting experimental and natural rhinovirus infections, and this may set
+the stage for understanding rhinovirus infections in the ear, sinus, and lower
+airways.
+
+DOI: 10.1513/pats.201006-039RN 
+PMID: 21364225  [Indexed for MEDLINE]

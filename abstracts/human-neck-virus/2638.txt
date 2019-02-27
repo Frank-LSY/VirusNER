@@ -1,0 +1,36 @@
+
+
+2638. J Otolaryngol Head Neck Surg. 2017 Mar 15;46(1):21. doi:
+10.1186/s40463-017-0197-z.
+
+Associations of FoxP3 gene polymorphisms with severe recurrent respiratory
+papillomatosis in Korean patients.
+
+Kwon TK(1), Chung EJ(1), Lee N(2), Roh EY(2), Song EY(3).
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Seoul National University 
+College of Medicine, Seoul, South Korea.
+(2)Department of Laboratory Medicine, Seoul National University College of
+Medicine, 101 Daehak-ro, Jongno-gu, Seoul, 03080, South Korea.
+(3)Department of Laboratory Medicine, Seoul National University College of
+Medicine, 101 Daehak-ro, Jongno-gu, Seoul, 03080, South Korea. eysong1@snu.ac.kr.
+
+BACKGROUND: FoxP3 is the most dependable marker for regulatory T cells which play
+a major role in immune tolerance. Foxp3 gene polymorphisms were associated with
+various autoimmune diseases and clearance of viral infections. We studied the
+association of Foxp3 polymorphisms in severe RRP patients.
+METHODS: A total of 30 Korean severe RRP patients and 195 healthy controls were
+enrolled. Foxp3 polymorphisms (rs5902434 del/ATT, rs3761548 C/A, rs3761549 C/T,
+and rs2232365 G/A) were determined by PCR and sequencing.
+RESULTS: Genotype frequencies (GF) of rs5902434 ATT/ATT and rs2232365 GG were
+significantly decreased in female RRP patients than controls (0.0% vs 23.0%, p = 
+0.039, OR = 9.4 for both).
+CONCLUSIONS: We showed that Foxp3 polymorphism of rs5902434 and rs2232365 could
+be an important protective factor in the susceptibility of severe RRP in female
+Koreans. Further studies on larger number of patients and other ethnic groups are
+needed to clarify the association.
+
+DOI: 10.1186/s40463-017-0197-z 
+PMCID: PMC5353865
+PMID: 28298239  [Indexed for MEDLINE]

@@ -1,0 +1,34 @@
+
+
+12. Blood Purif. 2017;44(3):244-250. doi: 10.1159/000478966. Epub 2017 Oct 3.
+
+Prognostic Factors of Human Immunodeficiency Virus-Infected Patients on Chronic
+Hemodialysis.
+
+Laranjinha I(1), João Matias P, Dickson J, Estibeiro H, Boquinhas H, Barata JD.
+
+Author information: 
+(1)Department of Nephrology, Hospital de Santa Cruz, Lisbon, Portugal.
+
+BACKGROUND/AIMS: The number of human immunodeficiency virus (HIV)-infected
+patients on hemodialysis (HD) have increased, and their prognostic factors are
+still poorly clarified. The study aimed to identify factors that can influence
+the survival of HIV-infected patients on HD.
+METHODS: We performed a retrospective cohort study of 44 HIV-infected patients on
+HD.
+RESULTS: A total of 17 patients (39%) died. Median survival on HD was 30.8 months
+and the survival rate at 1 and 5 years was 82.5 and 62.9%, respectively. Male
+(relative risk [RR] 3.1, p = 0.040) and blacks (RR 2.5, p = 0.037) had higher
+risk of death. The patients who died had a shorter duration of HIV infection (p =
+0.028), had a higher viral load (p = 0.044), more opportunistic infections (p =
+0.013), and a lower serum albumin (p = 0.009). Lower serum albumin, nonsexual HIV
+transmission, viral load, opportunistic infections, and usage of catheters were
+associated with lower survival.
+CONCLUSION: Several demographic, viral, and dialysis variables may help to
+predict survival of this population. The intervention in these factors could
+improve their prognosis.
+
+© 2017 S. Karger AG, Basel.
+
+DOI: 10.1159/000478966 
+PMID: 28968598  [Indexed for MEDLINE]

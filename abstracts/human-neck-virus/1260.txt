@@ -1,0 +1,48 @@
+
+
+1260. Eur Arch Otorhinolaryngol. 2016 Oct;273(10):3231-6. doi:
+10.1007/s00405-016-4085-3. Epub 2016 May 17.
+
+Immunological response to quadrivalent HPV vaccine in treatment of recurrent
+respiratory papillomatosis.
+
+Tjon Pian Gi RE(1)(2), San Giorgi MR(1)(2), Pawlita M(3), Michel A(3), van Hemel 
+BM(4), Schuuring EM(4)(2), van den Heuvel ER(5), van der Laan BF(1)(2), Dikkers
+FG(6)(7).
+
+Author information: 
+(1)Department of Otorhinolaryngology/Head and Neck Surgery, University of
+Groningen, University Medical Center Groningen, P.O. Box 30.001, 9700 RB,
+Groningen, The Netherlands.
+(2)Graduate School of Medical Sciences (Cancer Research Center Groningen),
+University of Groningen, Groningen, The Netherlands.
+(3)Division of Molecular Diagnostics of Oncogenic Infections, German Cancer
+Research Center, Heidelberg, Germany.
+(4)Department of Pathology, University of Groningen, University Medical Center
+Groningen, Groningen, The Netherlands.
+(5)Department of Mathematics and Computer Science, Eindhoven University of
+Technology, Eindhoven, The Netherlands.
+(6)Department of Otorhinolaryngology/Head and Neck Surgery, University of
+Groningen, University Medical Center Groningen, P.O. Box 30.001, 9700 RB,
+Groningen, The Netherlands. f.g.dikkers@umcg.nl.
+(7)Graduate School of Medical Sciences (Cancer Research Center Groningen),
+University of Groningen, Groningen, The Netherlands. f.g.dikkers@umcg.nl.
+
+Aim of this study was to explore influence of the quadrivalent HPV vaccine
+(Gardasil(®)) on the immune status of recurrent respiratory papillomatosis (RRP) 
+patients. In retrospective observational study, six RRP patients who received the
+quadrivalent HPV vaccine and whose HPV seroreactivity was measured were included.
+Multiplex HPV Serology was used to determine HPV-specific antibodies pre- and
+post-vaccination. Surgical interventions and patient records were analyzed. Five 
+HPV6 and 1 HPV11 infected patient were included. Mean antibody reactivity against
+the associated HPV type rose from 1125 median fluorescence intensity (MFI)
+pre-vaccination to 4690 MFI post-vaccination (p < 0.001). Median post-vaccination
+follow-up was 4 years. Poisson regression analysis showed that the quadrivalent
+HPV vaccine decreased the incidence rate of surgeries. The immune system of RRP
+patients is able to increase antibody reactivity against the associated HPV type.
+A double blind randomized controlled trial is needed to determine whether this
+immunological increase can cause decrease in number of surgeries.
+
+DOI: 10.1007/s00405-016-4085-3 
+PMCID: PMC5014878
+PMID: 27188508  [Indexed for MEDLINE]

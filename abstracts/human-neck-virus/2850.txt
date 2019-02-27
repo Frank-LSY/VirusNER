@@ -1,0 +1,34 @@
+
+
+2850. Head Neck. 2015 May;37(5):722-6. doi: 10.1002/hed.23664. Epub 2014 Jun 18.
+
+Efficacy of nelfinavir as monotherapy in refractory adenoid cystic carcinoma:
+Results of a phase II clinical trial.
+
+Hoover AC(1), Milhem MM, Anderson CM, Sun W, Smith BJ, Hoffman HT, Buatti JM.
+
+Author information: 
+(1)Department of Radiation Oncology, University of Iowa Hospitals and Clinics,
+Iowa City, Iowa.
+
+BACKGROUND: Adenoid cystic carcinomas (ACCs) are malignant salivary gland tumors 
+noteworthy for high rates of late failure with limited salvage therapy options.
+We have previously shown increased Akt signaling is common in ACC and the human
+immunodeficiency virus (HIV) protease inhibitor nelfinavir (NFV) inhibits in
+vitro tumor growth by suppressing Akt signaling. This phase II trial was
+conducted to determine progression-free survival in response to NFV in patients
+with recurrent/endstage ACC who have failed standard therapies.
+METHODS: Eligible patients had recurrent or end-stage ACC and measureable disease
+per Response Evaluation Criteria in Solid Tumors (RECIST) criteria. NFV was
+provided at 1250 mg twice daily.
+RESULTS: Among 15 trial participants, median progression-free survival was 5.5
+months (lower 95% bound 4.4 months). No patient achieved a RECIST partial or
+complete response to therapy.
+CONCLUSION: NFV monotherapy does not result in a meaningful improvement in
+clinical outcomes among patients with recurrent ACC.
+
+© 2014 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.23664 
+PMCID: PMC4285572
+PMID: 24596143  [Indexed for MEDLINE]

@@ -1,0 +1,62 @@
+
+
+3176. Zhonghua Er Ke Za Zhi. 2014 Jan;52(1):46-50.
+
+[Clinical characteristics and antimicrobial resistance of invasive group A
+β-hemolytic streptococcus infection in children].
+
+[Article in Chinese]
+
+Fan J(1), Dong L(2), Chen Z(1), Bei D(1).
+
+Author information: 
+(1)Department of Pulmonology, Yuying Children's Hospital Affiliated to Wenzhou
+Medical University, Wenzhou 325027, China.
+(2)Department of Pulmonology, Yuying Children's Hospital Affiliated to Wenzhou
+Medical University, Wenzhou 325027, China. Email: donglin@wzhealth.com.
+
+OBJECTIVE: Group A β-hemolytic streptococcus (GAS) or Streptococcus pyogenes may 
+be encountered in diverse clinical situations in children. A rising incidence of 
+invasive group A streptococcus (IGAS) infections has been noted in children in
+the past three decades. The aim of this study was to summarize the clinical
+characteristics and antimicrobial resistance of IGAS in children, and to raise
+the level of diagnosis and treatment of this infection.
+METHOD: The clinical data from 19 cases of IGAS younger than 14 years old seen
+from January 2004 to December 2011 treated in the authors' hospital were
+analyzed. IGAS infections are defined as the isolation of GAS from a normally
+sterile site in patients.
+RESULT: The 19 cases were identified as IGAS infections, among whom 15 were male 
+and 4 were female, and the ratio of them was 3.75. The age ranged from 1 day to
+14 years, with a median age of 4 years. The course of disease was 4 h-10 days.
+The average length of stay was 12.2 days. In 13 cases the episodes of the
+infection occurred in winter and spring. In 18 cases the infection was
+community-acquired. Overall, 10 cases had neck or foot dorsum abscess, four cases
+had purulent peritonitis, and 3 cases were diagnosed as streptococcal toxic shock
+syndrome (STSS) complicated with empyema, pyopneumothorax occurred in 1 case and 
+neonatal septicemia in another. Three cases had an underlying disease, including 
+2 cases wounded in a car accident and 1 case of congenital esophageal atresia and
+tracheoesophageal fistula. Before the isolation of GAS, 5 cases had stayed in
+ICUs, the length of ICU stay was 1-32 days, 4 cases had received intubation and
+mechanical ventilation, the ventilation time was 8 h-24 days, 2 cases had
+received major surgery; 5 cases had other pathogen coinfection, including 4 cases
+of abdominal pus at the same time and Escherichia coli was isolated, and 1 case
+had parainfluenza virus type I coinfection. Peripheral blood leucocyte increased 
+in 18 cases, one case dropped off. The C-reactive protein (CRP) levels increased 
+in all patients, including 16 cases who had 14-160 mg/L, 3 cases had levels
+higher than 160 mg/L. Twenty strains of GAS were isolated from 19 cases' sterile 
+sites, of them 10 strains were isolated from abscess, 4 strains were isolated
+from blood and another 4 from ascites. Two strains were from the same patient at 
+different times of pleural effusion. All 20 strains displayed a full
+susceptibility to cefazolin, levofloxacin and vancomycin, and the rates of
+resistance to both cefotaxime and penicillin were 10.0%. The rates of resistance 
+to erythromycin and clindamycin were 55.0% and 70.0% respectively. Among the
+patients 3 cases were cured, 14 cases improved, and 2 cases died, of whom 1 case 
+died of STSS secondary to multiple organ dysfunction, 1 case died of basic
+disease secondary to multiple organ dysfunction.
+CONCLUSION: Skin and soft tissues were the most common IGAS infection sites in
+children, and IGAS infection also can lead to serious STSS and even can be life
+threatening. Penicillin and cephalosporin are still sensitive for children IGAS
+infections.
+
+
+PMID: 24680408  [Indexed for MEDLINE]

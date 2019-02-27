@@ -1,0 +1,59 @@
+
+
+1351. Oral Oncol. 2015 Sep;51(9):832-8. doi: 10.1016/j.oraloncology.2015.06.005. Epub
+2015 Jun 26.
+
+Socioeconomic characteristics of patients with oropharyngeal carcinoma according 
+to tumor HPV status, patient smoking status, and sexual behavior.
+
+Dahlstrom KR(1), Bell D(2), Hanby D(3), Li G(4), Wang LE(5), Wei Q(6), Williams
+MD(2), Sturgis EM(4).
+
+Author information: 
+(1)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX, United States. Electronic address:
+kdahlstrom@mdanderson.org.
+(2)Department of Pathology, The University of Texas MD Anderson Cancer Center,
+Houston, TX, United States.
+(3)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX, United States; Department of Otolaryngology,
+Louisiana State University Health Sciences Center, New Orleans, LA, United
+States.
+(4)Department of Head and Neck Surgery, The University of Texas MD Anderson
+Cancer Center, Houston, TX, United States; Department of Epidemiology, The
+University of Texas MD Anderson Cancer Center, Houston, TX, United States.
+(5)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, TX, United States.
+(6)Department of Epidemiology, The University of Texas MD Anderson Cancer Center,
+Houston, TX, United States; Department of Medicine, Duke University School of
+Medicine and Duke Cancer Institute, Duke University Medical Center, Durham, NC,
+United States.
+
+OBJECTIVES: Patients with oropharyngeal cancer (OPC) have distinct risk factor
+profiles reflected in the human papillomavirus (HPV) status of their tumor, and
+these profiles may also be influenced by factors related to socioeconomic status 
+(SES). The goal of this study was to describe the socioeconomic characteristics
+of a large cohort of patients with OPC according to HPV status, smoking status,
+and sexual behavior.
+MATERIALS AND METHODS: Patients with OPC prospectively provided information about
+their smoking and alcohol use, socioeconomic characteristics, and sexual
+behaviors. HPV status was determined by a composite of immunohistochemistry for
+p16 expression, HPV in situ hybridization, and PCR assay in 356 patients.
+Standard descriptive statistics and logistic regression were used to compare
+socioeconomic characteristics between patient subgroups.
+RESULTS: Patients with HPV-positive OPC had higher levels of education, income,
+and overall SES. Among patients with HPV-positive OPC, never/light smokers had
+more than 5 times the odds of having at least a bachelor's degree and being in
+the highest level of SES compared with smokers. Patients with HPV-positive OPC
+and those with higher levels of education and SES had higher numbers of lifetime 
+any and oral sex partners, although not all of these differences were
+significant.
+CONCLUSION: Socioeconomic differences among subgroups of OPC patients have
+implications for OPC prevention efforts, including tobacco cessation, behavior
+modification, and vaccination programs.
+
+Copyright © 2015 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2015.06.005 
+PMCID: PMC4532617
+PMID: 26120093  [Indexed for MEDLINE]

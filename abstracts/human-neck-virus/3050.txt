@@ -1,0 +1,45 @@
+
+
+3050. Transplant Proc. 2013 Sep;45(7):2729-32. doi: 10.1016/j.transproceed.2013.07.050.
+
+De novo malignancies following liver transplantation: results from a multicentric
+study in central and southern Italy, 1990-2008.
+
+Ettorre GM(1), Piselli P, Galatioto L, Rendina M, Nudo F, Sforza D, Miglioresi L,
+Fantola G, Cimaglia C, Vennarecci G, Vizzini GB, Di Leo A, Rossi M, Tisone G,
+Zamboni F, Santoro R, Agresta A, Puro V, Serraino D.
+
+Author information: 
+(1)POIT "S.Camillo-Spallanzani", Rome, Itlay.
+
+OBJECTIVE: The objective of this study was to quantify incidence rates (IR) and
+risks of de novo tumors (except nonmelanoma skin cancers) in patients who
+underwent orthotopic liver transplantation (OLT) in central and southern Italy.
+METHODS: Data were collected on 1675 patients (75.5% males) who underwent OLT in 
+six Italian transplantation centers in central and southern Italy (1990-2008).
+The time at risk of cancer (person years [PY]) was computed from OLT to the date 
+of cancer diagnosis, death, or last follow-up, whichever occurred first. The
+number of observed cancer cases were compared with the expected one using data
+from population-based cancer registries. We computed gender- and age-standardized
+incidence ratios (SIRs) and 95% confidence intervals (CIs).
+RESULTS: During 10,104.3 PYs (median follow-up, 5.2 years), 98 patients (5.9% of 
+the total) were diagnosed with a de novo malignancy (for a total of 100
+diagnoses). Twenty-two of these cancers were post-transplantation
+lymphoproliferative disorders (PTLD; 18 non-Hodgkin lymphoma [NHL] and 2
+Hodgkin's lymphoma [HL]), 6 were Kaposi's sarcoma (KS), and 72 were solid tumors 
+(19 head and neck [H&N], 13 lung, 11 colon-rectum, 6 bladder, and 4 melanoma).
+The overall incidence was 9.9 cases/10(3) PYs, with a 1.4-fold significantly
+increased SIR (95% CI, l.2-1.7). Significantly increased SIRs were observed for
+KS (37.3), PTLD (3.9), larynx (5.7), melanoma (3.1), tongue (7.1), and H&N (4.5) 
+cancers.
+CONCLUSIONS: These results confirmed that OLT patients are at greater risk for
+cancer, mainly malignancies either virus-associated or related to pre-existent
+factors (eg, alcohols). These observations point to the need to improve cancer
+surveillance after OLT. The on-going enrollment of patients in the present cohort
+study will help to elucidate the burden of cancer after OLT and better identify
+risk factors associated with its development.
+
+Copyright © 2013 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.transproceed.2013.07.050 
+PMID: 24034034  [Indexed for MEDLINE]

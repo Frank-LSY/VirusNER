@@ -1,0 +1,67 @@
+
+
+1230. J Cancer Res Clin Oncol. 2016 Oct;142(10):2185-96. doi:
+10.1007/s00432-016-2203-7. Epub 2016 Jul 1.
+
+Classical risk factors, but not HPV status, predict survival after
+chemoradiotherapy in advanced head and neck cancer patients.
+
+Descamps G(1), Karaca Y(1), Lechien JR(1), Kindt N(1), Decaestecker C(2),
+Remmelink M(3), Larsimont D(4), Andry G(5), Hassid S(6), Rodriguez A(6), Khalife 
+M(7), Journe F(1)(8), Saussez S(9)(10)(11).
+
+Author information: 
+(1)Laboratory of Anatomy and Cell Biology, Faculty of Medicine and Pharmacy,
+University of Mons, Pentagone 2A, Avenue du Champ de Mars, 6, 7000, Mons,
+Belgium.
+(2)Laboratories of Image, Signal Processing and Acoustics, Ecole polytechnique de
+Bruxelles, Université Libre de Bruxelles (ULB), Brussels, Belgium.
+(3)Department of Pathology, Hôpital Erasme, Université Libre de Bruxelles (ULB), 
+Brussels, Belgium.
+(4)Department of Pathology, Bordet Institute, Université Libre de Bruxelles
+(ULB), Brussels, Belgium.
+(5)Department of Head and Neck Surgery, Bordet Institute, Université Libre de
+Bruxelles (ULB), Brussels, Belgium.
+(6)Department of Oto-Rhino-Laryngology, CHU Saint-Pierre, Université Libre de
+Bruxelles (ULB), Brussels, Belgium.
+(7)Department of Head and Neck Surgery, EpiCURA, Baudour, Belgium.
+(8)Laboratory of Oncology and Experimental Surgery, Bordet Institute, Université 
+Libre de Bruxelles (ULB), Brussels, Belgium.
+(9)Laboratory of Anatomy and Cell Biology, Faculty of Medicine and Pharmacy,
+University of Mons, Pentagone 2A, Avenue du Champ de Mars, 6, 7000, Mons,
+Belgium. sven.saussez@umons.ac.be.
+(10)Department of Oto-Rhino-Laryngology, CHU Saint-Pierre, Université Libre de
+Bruxelles (ULB), Brussels, Belgium. sven.saussez@umons.ac.be.
+(11)Department of Head and Neck Surgery, EpiCURA, Baudour, Belgium.
+sven.saussez@umons.ac.be.
+
+PURPOSE: Despite the advent of concomitant chemoradiotherapy (CCRT), the
+prognosis of advanced head and neck squamous cell carcinoma (HNSCC) patients
+remains particularly poor. Classically, HNSCC, especially oropharyngeal
+carcinomas, associated with human papillomavirus (HPV) exhibits better treatment 
+outcomes than HNSCCs in non-infected patients, eliciting a call for the
+de-escalation of current therapies. To improve the management of HNSCC patients, 
+we aimed to determine the impact of active HPV infection on patient response,
+recurrence and survival after CCRT in a population of heavy tobacco and alcohol
+consumers.
+METHODS: Paraffin-embedded samples from 218 advanced HNSCC patients, mostly
+smokers and/or drinkers treated by CCRT, were tested for the presence of HPV DNA 
+by surrogate type-specific E6/E7 qPCR and p16 immunohistochemistry. Associations 
+between the response to CCRT and patient outcomes according to HPV status and
+clinical data were evaluated by Kaplan-Meier analysis and both univariate and
+multivariate Cox regression.
+RESULTS: Type-specific E6/E7 PCR demonstrated HPV positivity in 20 % of HNSCC.
+Regarding HPV status, we did not find any significant relation with response to
+therapy in terms of progression-free survival or overall survival. However, we
+observed a significantly worse prognosis for consumers of alcohol and tobacco
+compared to nondrinkers (p = 0.003) and non-smokers (p = 0.03). Survival analyses
+also revealed that the outcome is compromised in stage IV patients (p = 0.007)
+and, in particular, for oral cavity, hypopharynx and oropharynx carcinoma
+patients (p = 0.001).
+CONCLUSION: The risk of death from HNSCC significantly increases when patients
+are exposed to tobacco and alcohol during their therapy, regardless of HPV
+status.
+
+DOI: 10.1007/s00432-016-2203-7 
+PMCID: PMC5018052
+PMID: 27370781  [Indexed for MEDLINE]

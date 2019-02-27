@@ -1,0 +1,39 @@
+
+
+837. Rev Salud Publica (Bogota). 2016 Aug;18(4):581-591. doi:
+10.15446/rsap.v18n4.47517.
+
+Epidemiological surveillance of herpes viral encephalitis in Cordoba, Colombia.
+
+Tique V(1), Mattar S(1), Freire M(2), Illian E(2), Camargo F(3), Vergara O(1),
+Moraes-Figueiredo LT(4).
+
+Author information: 
+(1)Universidad de Cordoba, Monteria, Colombia, overgara@correo.unicordoba.edu.co.
+(2)National Institute of Infectious Diseases, Buenos Aires, Argentina,
+mcfreire@anlis.gov.ar.
+(3)Institute for Advanced Medical Technology, Monteria, Colombia.
+(4)University of São Paulo, Brazil.
+
+Objective To establish an epidemiological surveillance of viral herpes
+encephalitis in major hospitals of Monteria, Cordoba. Methods From September 2009
+to December 2011, a descriptive study of cases of viral encephalitis was made in 
+three hospitals in the city of Monteria. Cerebrospinal fluid (CSF) samples from
+118 patients were included in the study. Clinical aspects, as well as
+cytochemical and microbiological analysis (Gram stain and culture) of CSF, were
+used for selecting the patients. Virus detection was performed by using multiplex
+nested PCR for Herpes simplex virus 1 and 2, Epstein Barr virus, Cytomegalovirus 
+and Varicella zoster virus. Results Viral DNA of herpesvirus was detected in the 
+CSFs of 30 (25.4 %) participants, as follows: 22 (18.6 %) Herpes simplex 1 and 2 
+viruses, 4 (3.3 %) Cytomegalovirus and 1 (0.8 %) Varicella zoster virus.
+Co-infections were observed in 3 patients (2.5 %), 1 case by HSV-VZV and 2 cases 
+by CMV/HSV. The clinical manifestations of the patients included: headache (18.6 
+%), fever (14.4 %), asthenia (10.1 %), seizures (9.3 %), vomiting (8.4 %), and
+stiff neck (5.9 %). Thirty percent of the patients also had HIV-AIDS. A case
+fatality rate of 20 % was observed for the patients. Conclusions This paper shows
+that herpesvirus is a cause of infection of the CNS in patients from Cordoba.
+This study contributes to the epidemiology of encephalitis, as well as to patient
+management.
+
+DOI: 10.15446/rsap.v18n4.47517 
+PMID: 28453063  [Indexed for MEDLINE]

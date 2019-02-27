@@ -1,0 +1,44 @@
+
+
+2737. CNS Neurosci Ther. 2013 Aug;19(8):625-31. doi: 10.1111/cns.12135. Epub 2013 Jun
+25.
+
+Comparison of clinical features in patients with persistent and nonpersistent
+cryptococcal meningitis: twelve years of clinical experience in four centers in
+China.
+
+Xu XG(1), Pan WH, Bi XL, Fang W, Chen M, Zhu Y, Zhou J, Zhou N, Pan B, Li M, Liao
+WQ, Qi ZT.
+
+Author information: 
+(1)Shanghai Key Laboratory of Molecular Medical Mycology, PLA Key Laboratory of
+Mycosis, Institute of Dermatology and Mycosis of Changzheng Hospital, Second
+Military Medical University, Shanghai, China.
+
+BACKGROUND AND AIMS: Cryptococcal meningitis (CM) has gradually increased in the 
+recent 20 years in the whole world. Although the mortality decreased
+significantly in recent years, it was still high, especially in patients with
+persistent infection. Therefore, we compare differences of clinical features
+between persistent and nonpersistent CM patients.
+METHODS: We conducted a retrospective review of medical records of patients
+diagnosed with CM from January 2000 to December 2011 in four centers in China,
+including demographic features, underlying diseases, clinical presentations,
+laboratory data, and so on.
+RESULTS: Of 106 CM patients enrolled, 16 were identified as persistent cases.
+Among all variables, persistent CM patients were more like to be human
+immunodeficiency viruses (HIV) infection (P < 0.05), stiff neck (P < 0.01), a
+serum hemoglobin < 90 g/L (P < 0.01), a serum potassium concentration <2.7 mg/L
+(P < 0.01), an intracranial pressure (ICP) >400 mmH2 O (P < 0.01), and a latex
+agglutination cryptococcal antigen titer of cerebrospinal fluid (CSF LACT)
+>1:1024 (P < 0.01) than nonpersistent ones. A multivariate analysis showed that
+HIV infection (OR 7.49), stiff neck (OR 11.7), a serum potassium <2.7 mmol/L (OR 
+9.45), and an ICP >400 mmH2 O (OR 6.83) were closely correlated with persistent
+CM.
+CONCLUSIONS: Although it is difficult to deal with persistent CM nowadays, some
+cases could be predicted early enough in the future, so as to be treated
+appropriately and have relatively good outcomes.
+
+© 2013 John Wiley & Sons Ltd.
+
+DOI: 10.1111/cns.12135 
+PMID: 23795869  [Indexed for MEDLINE]

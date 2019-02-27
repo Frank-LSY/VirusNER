@@ -1,0 +1,33 @@
+
+
+20. Annu Rev Virol. 2017 Sep 29;4(1):309-325. doi:
+10.1146/annurev-virology-101416-041840. Epub 2017 Jul 17.
+
+A Consensus View of ESCRT-Mediated Human Immunodeficiency Virus Type 1
+Abscission.
+
+Lippincott-Schwartz J(1), Freed EO(2), van Engelenburg SB(3).
+
+Author information: 
+(1)Janelia Research Campus, Howard Hughes Medical Institute, Ashburn, Virginia
+20147.
+(2)The Virus-Cell Interaction Section, HIV Dynamics and Replication Program,
+National Cancer Institute, Frederick, Maryland 21701.
+(3)Department of Biological Sciences, University of Denver, Denver, Colorado
+80210; email: schuyler.vanengelenburg@du.edu.
+
+The strong dependence of retroviruses, such as human immunodeficiency virus type 
+1 (HIV-1), on host cell factors is no more apparent than when the endosomal
+sorting complex required for transport (ESCRT) machinery is purposely disengaged.
+The resulting potent inhibition of retrovirus release underscores the importance 
+of understanding fundamental structure-function relationships at the ESCRT-HIV-1 
+interface. Recent studies utilizing advanced imaging technologies have helped
+clarify these relationships, overcoming hurdles to provide a range of potential
+models for ESCRT-mediated virus abscission. Here, we discuss these models in the 
+context of prior work detailing ESCRT machinery and the HIV-1 release process. To
+provide a template for further refinement, we propose a new working model for
+ESCRT-mediated HIV-1 release that reconciles disparate and seemingly conflicting 
+studies.
+
+DOI: 10.1146/annurev-virology-101416-041840 
+PMID: 28715971  [Indexed for MEDLINE]

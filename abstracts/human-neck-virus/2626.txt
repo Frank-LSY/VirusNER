@@ -1,0 +1,43 @@
+
+
+2626. Oncotarget. 2014 Oct 15;5(19):8906-23.
+
+The head and neck cancer cell oncogenome: a platform for the development of
+precision molecular therapies.
+
+Martin D(1), Abba MC(2), Molinolo AA(1), Vitale-Cross L(1), Wang Z(1), Zaida
+M(1), Delic NC(3), Samuels Y(4), Lyons JG(3), Gutkind JS(1).
+
+Author information: 
+(1)Oral and Pharyngeal Cancer Branch, National Institutes of Health, Bethesda,
+USA.
+(2)CINIBA, Facultad de Ciencias Médicas, Universidad Nacional de La Plata, La
+Plata, Argentina.
+(3)Dermatology, University of Sydney, Camperdown, Australia. Cancer Services,
+Royal Prince Alfred Hospital, Camperdown, Australia.
+(4)Department of Molecular Cell Biology, The Weizmann Institute of Science,
+Rehovot, Israel.
+
+The recent elucidation of the genomic landscape of head and neck squamous cell
+carcinoma (HNSCC) has provided a unique opportunity to develop selective cancer
+treatment options. These efforts will require the establishment of relevant HNSCC
+models for preclinical testing. Here, we performed full exome and transcriptome
+sequencing of a large panel of HNSCC-derived cells from different anatomical
+locations and human papillomavirus (HPV) infection status. These cells exhibit
+typical mutations in TP53, FAT1, CDK2NA, CASP8, and NOTCH1, and copy number
+variations (CNVs) and mutations in PIK3CA, HRAS, and PTEN that reflect the
+widespread activation of the PI3K-mTOR pathway. SMAD4 alterations were observed
+that may explain the decreased tumor suppressive effect of TGF-β in HNSCC.
+Surprisingly, we identified HPV+ HNSCC cells harboring TP53 mutations, and
+documented aberrant TP53 expression in a subset of HPV+ HNSCC cases. This
+analysis also revealed that most HNSCC cells harbor multiple mutations and CNVs
+in epigenetic modifiers (e.g., EP300, CREBP, MLL1, MLL2, MLL3, KDM6A, and KDM6B) 
+that may contribute to HNSCC initiation and progression. These
+genetically-defined experimental HNSCC cellular systems, together with the
+identification of novel actionable molecular targets, may now facilitate the
+pre-clinical evaluation of emerging therapeutic agents in tumors exhibiting each 
+precise genomic alteration.
+
+DOI: 10.18632/oncotarget.2417 
+PMCID: PMC4253406
+PMID: 25275298  [Indexed for MEDLINE]

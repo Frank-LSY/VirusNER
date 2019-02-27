@@ -1,0 +1,47 @@
+
+
+369. J Cancer Res Clin Oncol. 2018 Jun;144(6):1129-1141. doi:
+10.1007/s00432-018-2629-1. Epub 2018 Mar 20.
+
+Combinational chromosomal aneuploidies and HPV status for prediction of head and 
+neck squamous cell carcinoma prognosis in biopsies and cytological preparations.
+
+Wemmert S(1), Linxweiler M(2), Lerner C(2), Bochen F(2), Kulas P(2), Linxweiler
+J(3), Smola S(4), Urbschat S(5), Wagenpfeil S(6), Schick B(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology, Saarland University Medical Center,
+Kirrberger Street 100, 66421, Homburg (Saar), Germany. silke.wemmert@uks.eu.
+(2)Department of Otorhinolaryngology, Saarland University Medical Center,
+Kirrberger Street 100, 66421, Homburg (Saar), Germany.
+(3)Department of Urology, Saarland University, Homburg (Saar), Germany.
+(4)Institute of Virology, Saarland University Medical Center, Homburg (Saar),
+Germany.
+(5)Department of Neurosurgery, Saarland University, Homburg (Saar), Germany.
+(6)Institute for Medical Biometry, Epidemiology and Medical Informatics, Saarland
+University, Homburg (Saar), Germany.
+
+PURPOSE: Head and neck squamous cell carcinoma (HNSCC) is one of the most common 
+human cancer types with a very poor prognosis despite improvements in therapeutic
+modalities. The major known risk factors are tobacco use and alcohol consumption 
+or infection with high-risk human papilloma viruses (HPV), especially in
+oropharyngeal tumors. The current management based on the assessment of a variety
+of clinical and pathological parameters does not sufficiently predict outcome.
+METHODS: Chromosomal alterations detected in HNSCCs were characterized by
+metaphase comparative genomic hybridization (CGH) and correlated with clinical
+parameters as well as survival time. Candidate regions were validated by
+quantitative polymerase chain reaction, fluorescence-in situ-hybridization (FISH)
+on dapped tumor tissue and liquid-based cytological smear preparations. In
+addition, HPV status was determined by polymerase chain reaction and simultaneous
+immunocytochemical p16INK4a-Ki67 staining.
+RESULTS: The most frequent DNA copy number gains were observed on chromosome arms
+3q, 8q, 5p, 7q, 12p, and 12q. DNA copy number decreases occurred most frequently 
+at 3p, 17p, 4q, and 5q. FISH analysis verified in part the observed alterations
+by CGH on dapped tissues and was especially able to detect the most frequent DNA 
+copy changes in cytological specimens.
+CONCLUSION: The combination of HPV status and prognostic copy number alteration
+detected by FISH in biopsies or cytological specimens may be an applicable
+protocol for screening head and neck cancer patients prior to therapy.
+
+DOI: 10.1007/s00432-018-2629-1 
+PMID: 29560516  [Indexed for MEDLINE]

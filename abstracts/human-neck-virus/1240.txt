@@ -1,0 +1,35 @@
+
+
+1240. J Oral Pathol Med. 2009 Nov;38(10):759-63. doi: 10.1111/j.1600-0714.2009.00781.x.
+Epub 2009 Apr 28.
+
+MYC gene amplification reveals clinical association with head and neck squamous
+cell carcinoma in Indian patients.
+
+Bhattacharya N(1), Roy A, Roy B, Roychoudhury S, Panda CK.
+
+Author information: 
+(1)Department of Oncogene Regulation, Chittaranjan National Cancer Institute,
+Kolkata, India.
+
+BACKGROUND: Amplification of the MYC gene is reported to be associated with the
+development of head and neck squamous cell carcinoma (HNSCC). This study is
+focused to analyze the correlation between MYC gene amplification and various
+clinicopathological features and outcome in a cohort of 49 dysplastic and 187
+primary head and neck lesions.
+METHODS: MYC gene amplification was assessed by differential polymerase chain
+reaction using primer sets from the MYC gene as target locus and DRD2 gene as the
+control locus.
+RESULT: The MYC gene amplification was detected in a total of 23.7% (56/236) head
+and neck lesions comprising 14.2% (7/49) dysplastic lesions and 26% (49/187)
+HNSCC samples. The clinicopathological association study between MYC gene
+amplification with the different clinical parameters like sex, tumor stage, tumor
+differentiation, lymph node status, tobacco habit and HPV 16/18 status determined
+significant association of MYC amplification with tumor progression (P = 0.009). 
+Kaplan Meier analysis revealed MYC gene has no prognostic significance on
+survival in HNSCC.
+CONCLUSION: In conclusion, our results suggest that MYC gene amplification is
+associated with tumor progression in HNSCC.
+
+DOI: 10.1111/j.1600-0714.2009.00781.x 
+PMID: 19453846  [Indexed for MEDLINE]

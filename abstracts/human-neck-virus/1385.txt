@@ -1,0 +1,52 @@
+
+
+1385. Anticancer Res. 2015 Mar;35(3):1389-99.
+
+Small molecules alter VEGFR and PTEN expression in HPV-positive and -negative
+SCC: new hope for targeted-therapy.
+
+Aderhold C(1), Faber A(2), Umbreit C(2), Chakraborty A(2), Bockmayer A(2), Birk
+R(2), Sommer JU(2), Hörmann K(2), Schultz JD(2).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Mannheim, Germany christoph.aderhold@umm.de.
+(2)Department of Otorhinolaryngology Head and Neck Surgery, University Hospital
+Mannheim, Mannheim, Germany.
+
+BACKGROUND/AIM: Prognosis for patients with head and neck squamous cell carcinoma
+(HNSCC) is poor in most cases and has not improved despite advances in therapy.
+Novel therapeutic approaches are mandatory in order to improve the situation.
+Everolimus, an inhibitor of mammalian target of rapamycin, as well as the
+multi-tyrosine kinase inhibitors sorafenib and sunitinib, has demonstrated a
+substantial therapeutic effect in various types of human cancer with moderate
+side-effects. Expression of vascular endothelial growth factor receptor (VEGFR) 1
+and 2, and of the tumor-suppressor protein phosphatase and tensin homolog deleted
+on chromosome 10 (PTEN) were evaluated in chemonaïve human papillomavirus
+(HPV)-positive and -negative squamous cell carcinoma (SCC) and after exposure to 
+everolimus, sorafenib or sunitinib.
+MATERIALS AND METHODS: p16-positive CERV196 and p16-negative HNSCC 11A and 14C
+cells were incubated with different drug concentrations for 48-192 h. Expression 
+of VEGFR1 and -2 as well as PTEN were determined by enzyme-linked immunosorbent
+assay and was compared to a chemonaïve control.
+RESULTS: VEGFR1 and -2, as well as PTEN, were expressed in all three cell lines. 
+Sunitinib, sorafenib and everolimus significantly reduced the expression of
+VEGFR1 and -2, especially in p16-positive CERV196 cells. Sunitinib appeared to be
+more effective in reducing VEGFR1 and -2 expression than sorafenib and
+everolimus. PTEN levels were remarkably lower in HPV-positive CERV196 cells. PTEN
+expression increased significantly under sunitinib and sorafenib in HNSCC 11A and
+CERV196 cells. Everolimus, on the other hand, led to a significant decrease of
+PTEN expression in these cell lines.
+CONCLUSION: The tested drugs displayed a remarkable anti-angiogenic effect by
+inhibition of VEGFR1 and -2 expression. Sunitinib and sorafenib were able to
+increase PTEN expression, which might induce apoptosis of cancer cells.
+HPV-positive CERV196 cells were characterized by an increased susceptibility to
+these small-molecule drugs. Further studies are imperative to scrutinize HPV
+status-dependent differences in drug response and possible implications for
+future treatment options.
+
+Copyright© 2015 International Institute of Anticancer Research (Dr. John G.
+Delinassios), All rights reserved.
+
+
+PMID: 25750290  [Indexed for MEDLINE]

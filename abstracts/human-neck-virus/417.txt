@@ -1,0 +1,35 @@
+
+
+417. Head Neck. 2012 Feb;34(2):213-8. doi: 10.1002/hed.21714. Epub 2011 Apr 11.
+
+High-risk human papillomavirus in nasopharyngeal carcinoma.
+
+Singhi AD(1), Califano J, Westra WH.
+
+Author information: 
+(1)Department of Pathology, The Johns Hopkins Medical Institutions, Baltimore,
+Maryland, USA.
+
+Comment in
+    Strahlenther Onkol. 2013 Jul;189(7):596-7.
+
+BACKGROUND: Human papillomavirus (HPV), a cause of oropharyngeal carcinoma, has
+also been implicated as an etiologic agent in nasopharyngeal carcinomas.
+METHODS: We performed p16 immunohistochemistry and in situ hybridization for
+Epstein-Barr virus (EBV) and HPV on 45 carcinomas of the nasopharynx.
+RESULTS: Thirty-four (76%) carcinomas were EBV-positive/HPV-negative, 7 (16%)
+were EBV-negative/HPV-negative, and 4 (9%) were EBV-negative/HPV-positive. HPV
+was more likely to be detected in carcinomas from white patients than non-white
+patients (16% vs 0%; p = .03). Of the 3 patients with HPV-positive carcinomas and
+available staging information, all were found to have extension into the
+oropharynx. All HPV-positive carcinomas were p16 positive, but none of the
+HPV-negative carcinomas were p16 positive (p < .001).
+CONCLUSION: HPV can be detected in a subset of carcinomas involving the
+nasopharynx, but many of these may represent extension from an oropharyngeal
+primary. P16 immunohistochemistry is a reliable marker for separating EBV-related
+and HPV-related carcinomas of Waldheyer's ring.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21714 
+PMID: 21484924  [Indexed for MEDLINE]

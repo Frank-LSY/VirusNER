@@ -1,0 +1,43 @@
+
+
+272. Clin Cancer Res. 2009 Apr 1;15(7):2335-43. doi: 10.1158/1078-0432.CCR-08-2690.
+Epub 2009 Mar 24.
+
+Telomerase-specific virotheranostics for human head and neck cancer.
+
+Kurihara Y(1), Watanabe Y, Onimatsu H, Kojima T, Shirota T, Hatori M, Liu D, Kyo 
+S, Mizuguchi H, Urata Y, Shintani S, Fujiwara T.
+
+Author information: 
+(1)Department of Oral and Maxillofacial Surgery, School of Dentistry, Showa
+University, Tokyo, Japan.
+
+PURPOSE: Long-term outcomes of patients with squamous cell carcinoma of the head 
+and neck (SCCHN) remain unsatisfactory despite advances in combination of
+treatment modalities. SCCHN is characterized by locoregional spread and it is
+clinically accessible, making it an attractive target for intratumoral biological
+therapies.
+EXPERIMENTAL DESIGN: OBP-301 is a type 5 adenovirus that contains the replication
+cassette in which the human telomerase reverse transcriptase promoter drives
+expression of the E1 genes. OBP-401 contained the replication cassette and the
+green fluorescent protein (GFP) gene. The antitumor effects of OBP-301 were
+evaluated in vitro by the sodium
+30-[1-(phenylaminocarbonyl)-3,4-tetrazolium]-bis(4-methoxy-6-nitro)benzene
+sulfonic acid hydrate assay and in vivo in an orthotopic xenograft model. Virus
+spread into the lymphatics was also orthotopically assessed by using OBP-401.
+RESULTS: Intratumoral injection of OBP-301 resulted in the shrinkage of human
+SCCHN tumors orthotopically implanted into the tongues of BALB/c nu/nu mice and
+significantly recovered weight loss by enabling oral ingestion. The levels of GFP
+expression following ex vivo infection of OBP-401 may be of value as a positive
+predictive marker for the outcome of telomerase-specific virotherapy. Moreover,
+whole-body fluorescent imaging revealed that intratumorally injected OBP-401
+could visualize the metastatic lymph nodes, indicating the ability of the virus
+to traffic to the regional lymphatic area and to selectively replicate in
+neoplastic lesions, resulting in GFP expression and cell death in metastatic
+lymph nodes.
+CONCLUSIONS: These results illustrate the potential of telomerase-specific
+oncolytic viruses for a novel therapeutic and diagnostic approach, termed
+theranostics, for human SCCHN.
+
+DOI: 10.1158/1078-0432.CCR-08-2690 
+PMID: 19318473  [Indexed for MEDLINE]

@@ -1,0 +1,48 @@
+
+
+31. BMC Res Notes. 2017 Mar 4;10(1):116. doi: 10.1186/s13104-017-2438-7.
+
+An unexpected diagnosis of human immunodeficiency virus-2 infection in an
+overseas visitor: a case report.
+
+Sohail A(1), Van Leer L(2), Holmes N(3)(4).
+
+Author information: 
+(1)Department of Infectious Diseases, Austin Health, 145 Studley Road,
+Heidelberg, VIC, Australia. asohail1@hotmail.com.
+(2)Department of General Medicine, Austin Health, Heidelberg, VIC, Australia.
+(3)Department of Infectious Diseases, Austin Health, 145 Studley Road,
+Heidelberg, VIC, Australia.
+(4)Department of Microbiology and Immunology, University of Melbourne, Melbourne,
+VIC, Australia.
+
+BACKGROUND: Human immunodeficiency virus 2 infection is endemic in West Africa
+but is also found in parts of Europe, North and South America, and India where it
+is thought to have been introduced secondary to migration and commercial trade
+ties. It is less common than Human immunodeficiency virus 1, with differences in 
+pathogenicity, lower rates of transmission, longer asymptomatic period and slower
+progression to acquired immunodeficiency syndrome. Human immunodeficiency virus 2
+is also associated with diagnostic challenges given the lack of commercially
+available diagnostic tests, and management challenges given intrinsic resistance 
+to many anti-retroviral therapies.
+CASE PRESENTATION: We describe a case of a 65 year old South Indian female,
+visiting her family in Australia, who presented with weight loss, pancytopaenia
+and generalised lymphadenopathy on a background of newly diagnosed congestive
+cardiac failure. Multiple investigations were performed to elucidate the cause of
+her presentation, with the eventual unexpected diagnosis of human
+immunodeficiency virus 2. She was commenced on anti-retroviral treatment and made
+a remarkable recovery.
+CONCLUSION: We describe the challenges associated with diagnosis of human
+immunodeficiency virus 2 due to lack of commercially available diagnostics, as
+well as the treatment and management challenges including the fact that human
+immunodeficiency virus 2 is intrinsically resistant to non-nucleoside reverse
+transcriptase inhibitors. Human immunodeficiency virus 2 infection should be
+considered in patients who present with symptoms and signs that do not point
+towards a clear diagnosis, such as unexplained pancytopaenia or lymphadenopathy, 
+and who have risk factors such as being from an endemic area or having had blood 
+transfusions, especially prior to the commencement of blood-borne virus screening
+of blood donors.
+
+DOI: 10.1186/s13104-017-2438-7 
+PMCID: PMC5336689
+PMID: 28259182  [Indexed for MEDLINE]

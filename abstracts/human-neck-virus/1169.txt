@@ -1,0 +1,43 @@
+
+
+1169. Mod Pathol. 2013 Feb;26(2):223-31. doi: 10.1038/modpathol.2012.159. Epub 2012 Sep
+21.
+
+Detection and significance of human papillomavirus, CDKN2A(p16) and CDKN1A(p21)
+expression in squamous cell carcinoma of the larynx.
+
+Chernock RD(1), Wang X, Gao G, Lewis JS Jr, Zhang Q, Thorstad WL, El-Mofty SK.
+
+Author information: 
+(1)Department of Pathology and Immunology, Washington University School of
+Medicine, St Louis, MO 63110, USA.
+
+Although a strong etiologic relationship between human papillomavirus (HPV) and a
+majority of oropharyngeal squamous cell carcinomas has been established, the role
+of HPV in non-oropharyngeal head and neck carcinomas is much less clear. Here, we
+investigated the prevalence and clinicopathologic significance of HPV and its
+reported biomarkers, CDKN2A(p16) and CDKN1A(p21), in laryngeal squamous cell
+carcinomas in patients treated either with primary surgery and postoperative
+radiation or with definitive radiation-based therapy. Nearly all of 76 tumors
+were keratinizing and none displayed the nonkeratinizing morphology that is
+typically associated with HPV infection in the oropharynx. However, CDKN2A(p16)
+immunohistochemistry was positive in 21 cases (28%) and CDKN1A(p21) in 34 (45%). 
+CDKN2A(p16) and CDKN1A(p21) status strongly correlated with each other
+(P=0.0038). Yet, only four cases were HPV positive by DNA in situ hybridization
+or by reverse transcriptase PCR E6/E7 mRNA (all four were CDKN2A(p16) and
+CDKN1A(p21) positive). Unexpectedly, 9 additional tumors out of 20 CDKN2A(p16)
+positive cases harbored high-risk HPV DNA by PCR. For further investigation of
+this unexpected result, in situ hybridization for E6/E7 mRNA was performed on
+these nine cases and all were negative, confirming the absence of
+transcriptionally active virus. Patients with CDKN1A(p21)-positive tumors did
+have better overall survival (69% at 3 years) than those with
+CDKN1A(p21)-negative tumors (51% at 3 years) (P=0.045). There was also a strong
+trend towards better overall survival in the CDKN2A(p16)-positive group
+(P=0.058). Thus, it appears that the role of HPV is more complex in the larynx
+than in the oropharynx, and that CDKN2A(p16) and CDKN1A(p21) expression may not
+reflect HPV-driven tumors in most cases. Because of this, CDKN2A(p16) should not 
+be used as a definitive surrogate marker of HPV-driven tumors in the larynx.
+
+DOI: 10.1038/modpathol.2012.159 
+PMCID: PMC3529982
+PMID: 22996374  [Indexed for MEDLINE]

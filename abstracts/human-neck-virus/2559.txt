@@ -1,0 +1,34 @@
+
+
+2559. Head Neck Oncol. 2010 Aug 2;2:21. doi: 10.1186/1758-3284-2-21.
+
+C-reactive protein levels: a prognostic marker for patients with head and neck
+cancer?
+
+Kruse AL(1), Luebbers HT, Grätz KW.
+
+Author information: 
+(1)Department of Craniomaxillofacial and Oral Surgery, University Hospital
+Zurich, Zurich, Switzerland. astridkruse@gmx.ch
+
+BACKGROUND: Recent advances in understanding complex tumor interactions have led 
+to the discovery of an association between inflammation and cancer, in particular
+for colon and lung cancer, but only a very few have dealt with oral cancer.
+Therefore, the aim of the current study was to investigate the significance of
+preoperative C-reactive protein (CRP) levels as a parameter for development of
+lymph node metastases or recurrence.
+MATERIALS AND METHODS: In 278 patients with oral cancer, preoperative CRP levels 
+were compared with development of recurrence and metastasis.
+RESULTS: In 27 patients from the normal CRP group, and in 21 patients from the
+elevated CRP group, local recurrence was observed. Concerning lymph node
+metastases, 37 patients were in the normal group and 9 patients in the elevated
+CRP group. No significant correlation could be found between elevated CRP levels 
+and metastasis (p = 0.468) or recurrence (p = 0.137).
+CONCLUSION: Our findings do not appear to support a correlation between
+preoperative CRP levels and development of recurrence or metastases. In further
+studies, CRP levels in precancerous lesions and in Human Papilloma Virus (HPV)
+positive patients with oral squamous cell carcinoma (SCC) should be studied.
+
+DOI: 10.1186/1758-3284-2-21 
+PMCID: PMC2921363
+PMID: 20673375  [Indexed for MEDLINE]

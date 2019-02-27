@@ -1,0 +1,38 @@
+
+
+3142. Am J Hematol. 2014 Jan;89(1):25-33. doi: 10.1002/ajh.23570. Epub 2013 Sep 30.
+
+Downregulation of miR-15a due to LMP1 promotes cell proliferation and predicts
+poor prognosis in nasal NK/T-cell lymphoma.
+
+Komabayashi Y(1), Kishibe K, Nagato T, Ueda S, Takahara M, Harabuchi Y.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Asahikawa Medical
+University, Asahikawa, Midorigaoka-higashi 2-1-1-1, Asahikawa, Japan.
+
+Nasal NK/T-cell lymphoma (NNKTL) is an Epstein-Barr virus (EBV)-associated
+malignancy and has distinct clinical and histological features. However, its
+genetic features are hitherto unclear. MicroRNAs (miRNAs) play a crucial role in 
+the pathogenesis of several malignancies via regulating gene expression. In this 
+study, we investigated whether the specific microRNAs were related to the tumor
+behaviors in NNKTL. MiRNA array and Quantitative RT-PCR analyses revealed that
+miR-15a was expressed at a much lower level in NNKTL cells (SNK-1, SNK-6, and
+SNT-8) than in normal peripheral NK cells and EBV-negative NK cell line KHYG-1.
+Quantitative PCR and western blot analyses showed that the expression of MYB and 
+cyclin D1, which are validated targets of miR-15a, was higher in NNKTL cells.
+Transfection of NNKTL cells (SNK-6 and SNT-8) with a miR-15a precursor decreased 
+MYB and cyclin D1 levels, thereby blocking G1/S transition and cell
+proliferation. Knockdown of EBV-encoded latent membrane protein 1 (LMP1)
+significantly increased miR-15a expression in SNK-6 cells. In NNKTL tissues, we
+found that reduced miR-15a expression, which correlated with MYB and cyclin D1
+expression, was associated with poor prognosis of NNKTL patients. These data
+suggest that downregulation of miR-15a, possibly due to LMP1, implicates in the
+pathogenesis of NNKTL by inducing cell proliferation via MYB and cyclin D1. Thus,
+miR-15a could be a potential target for antitumor therapy and a prognostic
+predictor for NNKTL.
+
+Copyright © 2013 Wiley Periodicals, Inc.
+
+DOI: 10.1002/ajh.23570 
+PMID: 23963825  [Indexed for MEDLINE]

@@ -1,0 +1,37 @@
+
+Conflict of interest statement: relevant to this article was not reported.
+
+
+1705. Sci Rep. 2016 Jul 4;6:29057. doi: 10.1038/srep29057.
+
+Application of flat panel OLED display technology for the point-of-care detection
+of circulating cancer biomarkers.
+
+Katchman BA(1), Smith JT(2), Obahiagbon U(3), Kesiraju S(1), Lee YK(2), O'Brien
+B(2), Kaftanoglu K(2), Blain Christen J(3), Anderson KS(1).
+
+Author information: 
+(1)Center for Personalized Diagnostics, Biodesign Institute at Arizona State
+University, Tempe, AZ 85281 USA.
+(2)Flexible Electronics and Display Center at Arizona State University, Tempe, AZ
+85284 USA.
+(3)School of Electrical Engineering at Arizona State University, Tempe, AZ 85281 
+USA.
+
+Point-of-care molecular diagnostics can provide efficient and cost-effective
+medical care, and they have the potential to fundamentally change our approach to
+global health. However, most existing approaches are not scalable to include
+multiple biomarkers. As a solution, we have combined commercial flat panel OLED
+display technology with protein microarray technology to enable high-density
+fluorescent, programmable, multiplexed biorecognition in a compact and disposable
+configuration with clinical-level sensitivity. Our approach leverages advances in
+commercial display technology to reduce pre-functionalized biosensor substrate
+costs to pennies per cm(2). Here, we demonstrate quantitative detection of IgG
+antibodies to multiple viral antigens in patient serum samples with detection
+limits for human IgG in the 10 pg/mL range. We also demonstrate multiplexed
+detection of antibodies to the HPV16 proteins E2, E6, and E7, which are
+circulating biomarkers for cervical as well as head and neck cancers.
+
+DOI: 10.1038/srep29057 
+PMCID: PMC4931450
+PMID: 27374875  [Indexed for MEDLINE]

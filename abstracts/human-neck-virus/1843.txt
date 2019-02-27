@@ -1,0 +1,65 @@
+
+
+1843. Laryngoscope. 2011 Aug;121(8):1718-25. doi: 10.1002/lary.21871.
+
+Association between Epstein-Barr virus seroconversion and immunohistochemical
+changes in tonsils of pediatric solid organ transplant recipients.
+
+Shapiro NL(1), Tang CG, Bhattacharyya N.
+
+Author information: 
+(1)Division of Head and Neck Surgery, Department of Surgery, David Geffen School 
+of Medicine at UCLA, Los Angeles, California 90095, USA. nshapiro@ucla.edu
+
+OBJECTIVES/HYPOTHESIS: Assess whether changes in Epstein-Barr virus (EBV)
+serology status relates to immunohistochemical evidence of active EBV infection
+in tonsillar tissue of pediatric organ transplant recipients. Children who
+seroconvert from EBV seronegative to seropositive status following organ
+transplantation are more likely to develop evidence of active EBV tonsillar
+infection than those who do not seroconvert. Active EBV infection is a potential 
+early precursor of post-transplantation lymphoproliferative disorder (PTLD), a
+life- and/or organ-threatening disease.
+STUDY DESIGN: Retrospective analysis of pathology specimens and EBV serology
+titers of pediatric organ transplant recipients at a tertiary care academic
+medical center.
+METHODS: Immunohistochemical staining of tonsillectomy specimens and analysis of 
+EBV serology titers were performed on 47 post-transplantation children. Eligible 
+patients included those under age 21 years referred for tonsillectomy who had
+undergone solid organ transplantation. Data reviewed included gender, age at
+transplantation, age at tonsillectomy, interval between organ transplantation and
+tonsillectomy, and type of organ transplanted. EBV was detected in tonsil
+specimens by in situ hybridization for EBV-encoded small nuclear RNA (EBV-EBER), 
+an indicator of active EBV infection, and EBV-encoded latent membrane protein
+(EBV-LMP), an indicator of latent EBV infection. Immunohistochemical staining of 
+B-cell clonality was performed for kappa and lambda light chains. EBV serologies 
+pre- and post-transplantation were obtained from electronic medical record data.
+RESULTS: Forty-seven children having tonsillectomy following solid organ
+transplantation were included. Of the 47 patients, 25 (53.5%) were EBV
+seronegative both before transplantation and at the time of tonsillectomy, eight 
+(17.0%) were EBV seronegative prior to transplantation but converted to EBV
+seropositivity in the early (≤ 6 months) post-transplantation period, eight
+(17.0%) were seronegative prior to transplantation but converted to EBV
+seropositive in the late (≥ 6 months) post-transplantation period, and six
+(12.8%) were EBV seropositive prior to transplantation and remained so at the
+time of tonsillectomy. Overall, 20 specimens (42.6%) were positive for EBV-EBER, 
+and three specimens (6.4%) were positive for EBV-LMP. There was significant
+difference in the percentage of EBV-EBER positive specimens among the four groups
+(P = .020). One out of eight (12.5%) of the early seroconversion group had
+specimens showing EBV-EBER, wheras seven out of eight (87.5%) of the late
+seroconversion group had tonsil specimens showing EBV-EBER (P = .005). There was 
+no significant difference in presence of EBV-LMP among the four groups (P =
+.667).
+CONCLUSIONS: Almost one half of post-transplantation children undergoing
+tonsillectomy have evidence of active EBV tonsillar infection, which was more
+likely in children who seroconverted from EBV-seronegative to EBV-seropositive in
+the late post-transplantation period than those who seroconverted in the early
+post-transplantation period. Based on these novel findings, continued
+surveillance of EBV status and adenotonsillar hypertrophy in this population
+should include monitoring of pretransplantation EBV status and timing of
+seroconversion.
+
+Copyright © 2011 The American Laryngological, Rhinological, and Otological
+Society, Inc.
+
+DOI: 10.1002/lary.21871 
+PMID: 21792960  [Indexed for MEDLINE]

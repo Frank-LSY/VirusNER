@@ -1,0 +1,38 @@
+
+
+783. PLoS One. 2009;4(3):e4941. doi: 10.1371/journal.pone.0004941. Epub 2009 Mar 18.
+
+Genome-wide hypomethylation in head and neck cancer is more pronounced in
+HPV-negative tumors and is associated with genomic instability.
+
+Richards KL(1), Zhang B, Baggerly KA, Colella S, Lang JC, Schuller DE, Krahe R.
+
+Author information: 
+(1)Department of Genetics, University of Texas MD Anderson Cancer Center,
+Houston, TX, USA.
+
+Loss of genome-wide methylation is a common feature of cancer, and the degree of 
+hypomethylation has been correlated with genomic instability. Global methylation 
+of repetitive elements possibly arose as a defense mechanism against parasitic
+DNA elements, including retrotransposons and viral pathogens. Given the
+alterations of global methylation in both viral infection and cancer, we examined
+genome-wide methylation levels in head and neck squamous cell carcinoma (HNSCC), 
+a cancer causally associated with human papilloma virus (HPV). We assayed global 
+hypomethylation levels in 26 HNSCC samples, compared with their matched normal
+adjacent tissue, using Pyrosequencing-based methylation assays for LINE repeats. 
+In addition, we examined cell lines derived from a variety of solid tumors for
+LINE and SINE (Alu) repeats. The degree of LINE and Alu hypomethylation varied
+among different cancer cell lines. There was only moderate correlation between
+LINE and Alu methylation levels, with the range of variation in methylation
+levels being greater for the LINE elements. LINE hypomethylation was more
+pronounced in HPV-negative than in HPV-positive tumors. Moreover, genomic
+instability, as measured by genome-wide loss-of-heterozygosity (LOH) single
+nucleotide polymorphism (SNP) analysis, was greater in HNSCC samples with more
+pronounced LINE hypomethylation. Global hypomethylation was variable in HNSCC.
+Its correlation with both HPV status and degree of LOH as a surrogate for genomic
+instability may reflect alternative oncogenic pathways in HPV-positive versus
+HPV-negative tumors.
+
+DOI: 10.1371/journal.pone.0004941 
+PMCID: PMC2654169
+PMID: 19293934  [Indexed for MEDLINE]

@@ -1,0 +1,42 @@
+
+
+2115. Diagn Cytopathol. 2016 Mar;44(3):206-14. doi: 10.1002/dc.23425. Epub 2016 Jan 13.
+
+Metastatic HPV-related head and neck squamous cell carcinoma to the lung and
+mediastinal lymph nodes in aspirated cytology material: A diagnostic pitfall.
+
+Banet N(1), Rooper LM(1), Maleki Z(1).
+
+Author information: 
+(1)Department of Pathology, the Johns Hopkins University School of Medicine,
+Baltimore, Maryland.
+
+BACKGROUND: Although HPV-related head and neck squamous cell carcinoma (HNSCC)
+has good prognosis, a small proportion of patients develop distant metastases and
+have worse outcomes. Such metastases can be particularly difficult to diagnose in
+the lung and mediastinum, where they show extensive morphologic overlap with
+primary pulmonary neoplasms. This case series discusses metastatic HPV-related
+HNSCC in lung and mediastinal fine needle aspiration (FNA) cytology.
+METHODS: The cytopathology archives were searched for lung and mediastinal FNA
+specimens of patients with HNSCC. Specimens were included if either the index FNA
+or the patient's original HNSCC was positive for HPV by DNA in-situ hybridization
+(ISH). Ten such cases were identified. Patient demographics and primary tumor
+details were tabulated from the electronic medical record. All FNA slides and
+stains were reviewed.
+RESULTS: The ten patients (mean age of 58.2 years) included 4 smokers. Smears
+from all cases were hypercellular and hyperchromatic, with focal keratinization
+in 6/10 (60%). Core biopsies and cell blocks showed basaloid morphology with
+variable amounts of necrosis. All ten FNAs were diffusely positive for p16 (100%)
+and 7/9 cases stained (77.8%) were positive for HPV DNA ISH.
+CONCLUSIONS: Metastatic HPV-related HNSCC to the lung and mediastinal lymph nodes
+share the characteristic basaloid, minimally keratinizing morphology seen in
+Primary HNSCC cytology. Poorly differentiated pulmonary squamous cell carcinoma
+and neuroendocrine carcinomas are the primary differentials. Although primary
+lung neoplasms are not HPV-related, p16 positivity can be seen in both squamous
+cell and small cell lung carcinomas. HPV ISH allows definitive diagnosis of
+metastatic HPV-related HNSCC.
+
+© 2016 Wiley Periodicals, Inc.
+
+DOI: 10.1002/dc.23425 
+PMID: 26764038  [Indexed for MEDLINE]

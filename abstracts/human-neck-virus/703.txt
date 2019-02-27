@@ -1,0 +1,52 @@
+
+
+703. Am J Trop Med Hyg. 2016 Apr;94(4):840-3. doi: 10.4269/ajtmh.15-0803. Epub 2016
+Feb 1.
+
+Severe Cutaneous Leishmaniasis in a Human Immunodeficiency Virus Patient
+Coinfected with Leishmania braziliensis and Its Endosymbiotic Virus.
+
+Parmentier L(1), Cusini A(1), Müller N(1), Zangger H(1), Hartley MA(1), Desponds 
+C(1), Castiglioni P(1), Dubach P(1), Ronet C(1), Beverley SM(1), Fasel N(2).
+
+Author information: 
+(1)Department of Dermatology, University Hospital of Bern, Bern, Switzerland;
+Department of Infectious Diseases, University Hospital of Bern, Bern,
+Switzerland; Institute of Parasitology, Vetsuisse Faculty Berne, University of
+Bern, Bern, Switzerland; Department of Biochemistry, University of Lausanne,
+Lausanne, Switzerland; Department of Ear, Neck and Throat, Head and Neck Surgery,
+University Hospital of Bern, Bern, Switzerland; Department of Molecular
+Microbiology, Washington University School of Medicine, St. Louis, Missouri.
+(2)Department of Dermatology, University Hospital of Bern, Bern, Switzerland;
+Department of Infectious Diseases, University Hospital of Bern, Bern,
+Switzerland; Institute of Parasitology, Vetsuisse Faculty Berne, University of
+Bern, Bern, Switzerland; Department of Biochemistry, University of Lausanne,
+Lausanne, Switzerland; Department of Ear, Neck and Throat, Head and Neck Surgery,
+University Hospital of Bern, Bern, Switzerland; Department of Molecular
+Microbiology, Washington University School of Medicine, St. Louis, Missouri
+nicolas.fasel@unil.ch.
+
+Leishmania parasites cause a broad range of disease, with cutaneous afflictions
+being, by far, the most prevalent. Variations in disease severity and symptomatic
+spectrum are mostly associated to parasite species. One risk factor for the
+severity and emergence of leishmaniasis is immunosuppression, usually arising by 
+coinfection of the patient with human immunodeficiency virus (HIV).
+Interestingly, several species of Leishmania have been shown to bear an
+endogenous cytoplasmic dsRNA virus (LRV) of the Totiviridae family, and recently 
+we correlated the presence of LRV1 within Leishmania parasites to an exacerbation
+murine leishmaniasis and with an elevated frequency of drug treatment failures in
+humans. This raises the possibility of further exacerbation of leishmaniasis in
+the presence of both viruses, and here we report a case of cutaneous
+leishmaniasis caused by Leishmania braziliensis bearing LRV1 with aggressive
+pathogenesis in an HIV patient. LRV1 was isolated and partially sequenced from
+skin and nasal lesions. Genetic identity of both sequences reinforced the
+assumption that nasal parasites originate from primary skin lesions.
+Surprisingly, combined antiretroviral therapy did not impact the devolution of
+Leishmania infection. The Leishmania infection was successfully treated through
+administration of liposomal amphotericin B.
+
+© The American Society of Tropical Medicine and Hygiene.
+
+DOI: 10.4269/ajtmh.15-0803 
+PMCID: PMC4824227
+PMID: 26834198  [Indexed for MEDLINE]

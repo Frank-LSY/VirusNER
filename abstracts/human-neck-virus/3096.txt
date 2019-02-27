@@ -1,0 +1,36 @@
+
+
+3096. Am Fam Physician. 2010 Mar 1;81(5):627-34.
+
+Common tongue conditions in primary care.
+
+Reamy BV(1), Derby R, Bunt CW.
+
+Author information: 
+(1)Uniformed Services University of the Health Sciences, 4301 Jones Bridge Rd.,
+Bethesda, MD 20814, USA. breamy@usuhs.mil
+
+Although easily examined, abnormalities of the tongue can present a diagnostic
+and therapeutic dilemma for physicians. Recognition and diagnosis require a
+thorough history, including onset and duration, antecedent symptoms, and tobacco 
+and alcohol use. Examination of tongue morphology and a careful assessment for
+lymphadenopathy are also important. Geographic tongue, fissured tongue, and hairy
+tongue are the most common tongue problems and do not require treatment. Median
+rhomboid glossitis is usually associated with a candidal infection and responds
+to topical antifungals. Atrophic glossitis is often linked to an underlying
+nutritional deficiency of iron, folic acid, vitamin B12, riboflavin, or niacin
+and resolves with correction of the underlying condition. Oral hairy leukoplakia,
+which can be a marker for underlying immunodeficiency, is caused by the
+Epstein-Barr virus and is treated with oral antivirals. Tongue growths usually
+require biopsy to differentiate benign lesions (e.g., granular cell tumors,
+fibromas, lymphoepithelial cysts) from premalignant leukoplakia or squamous cell 
+carcinoma. Burning mouth syndrome often involves the tongue and has responded to 
+treatment with alpha-lipoic acid, clonazepam, and cognitive behavior therapy in
+controlled trials. Several trials have also confirmed the effectiveness of
+surgical division of tongue-tie (ankyloglossia), in the context of optimizing the
+success of breastfeeding compared with education alone. Tongue lesions of unclear
+etiology may require biopsy or referral to an oral and maxillofacial surgeon,
+head and neck surgeon, or a dentist experienced in oral pathology.
+
+
+PMID: 20187599  [Indexed for MEDLINE]

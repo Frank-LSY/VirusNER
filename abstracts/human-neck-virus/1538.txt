@@ -1,0 +1,52 @@
+
+
+1538. J Cancer Res Clin Oncol. 2017 Nov;143(11):2341-2350. doi:
+10.1007/s00432-017-2481-8. Epub 2017 Jul 27.
+
+Prognostic implications of human papillomavirus status for patients with
+non-oropharyngeal head and neck squamous cell carcinomas.
+
+Ko HC(1), Harari PM(1), Sacotte RM(2), Chen S(3), Wieland AM(4), Yu M(3),
+Baschnagel AM(1), Bruce JY(5), Kimple RJ(1), Witek ME(6).
+
+Author information: 
+(1)Department of Human Oncology, University of Wisconsin School of Medicine and
+Public Health, 600 Highland Avenue, Madison, WI, 53792, USA.
+(2)Feinberg School of Medicine, Northwestern University, Chicago, IL, USA.
+(3)Department of Biostatistics and Medical Informatics, University of Wisconsin
+School of Medicine and Public Health, Madison, WI, USA.
+(4)Division of Otolaryngology and Head and Neck Surgery, Department of Surgery,
+University of Wisconsin School of Medicine and Public Health, Madison, WI, USA.
+(5)Section of Hematology Oncology, Department of Medicine, University of
+Wisconsin School of Medicine and Public Health, Madison, WI, USA.
+(6)Department of Human Oncology, University of Wisconsin School of Medicine and
+Public Health, 600 Highland Avenue, Madison, WI, 53792, USA.
+witek@humonc.wisc.edu.
+
+PURPOSE: We examined overall survival in a large cohort of patients with human
+papillomavirus (HPV)-positive and HPV-negative non-oropharyngeal squamous cell
+carcinoma of the head and neck (non-OPSCC).
+METHODS: Patients diagnosed with non-OPSCC and known HPV status were identified
+in the National Cancer Database (NCDB). Multivariate logistic regression was
+applied to examine factors associated with HPV status. Multivariate analysis was 
+utilized to determine factors correlated with overall survival. Propensity
+score-weighted Kaplan-Meier estimation was used to adjust for confounders in
+survival analyses. Multiple imputation method was used for sensitivity analysis.
+RESULTS: We identified 19,993 non-OPSCC patients with 5070 being positive for HPV
+in the NCDB. Median follow-up was 23.5 months. HPV-positive patients were more
+commonly male, white, with a lower comorbidity index score, presenting with
+T-stage <2, and N-stage ≥1. Unadjusted 3-year overall survival was 62% and 80%
+for HPV-negative and HPV-positive patients, respectively (p < 0.0001). On
+multivariate analysis, mortality was reduced for HPV-positive patients with early
+stage (HR = 0.68) and locally advanced disease (HR = 0.46). Adjusted 3-year
+overall survival was 65% for HPV-negative and 76% for HPV-positive patients
+(p < 0.0001). The survival advantage of HPV was maintained in all subsites and
+robust on sensitivity analysis.
+CONCLUSIONS: Patients with HPV-positive non-OPSCC exhibit similar characteristics
+as HPV-positive OPSCC. Overall survival was significantly higher for patients
+with HPV-positive versus HPV-negative non-OPSCC. These data reveal that
+HPV-positive non-OPSCC represent a favorable cohort that warrants recognition in 
+the design of future clinical trial investigation.
+
+DOI: 10.1007/s00432-017-2481-8 
+PMID: 28752235  [Indexed for MEDLINE]

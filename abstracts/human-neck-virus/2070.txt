@@ -1,0 +1,50 @@
+
+
+2070. Virology. 2016 Jul;494:108-18. doi: 10.1016/j.virol.2016.04.016. Epub 2016 Apr
+20.
+
+Susceptibility of human tonsillar epithelial cells to enterovirus 71 with normal 
+cytokine response.
+
+Xie GC(1), Guo NJ(2), Grénman R(3), Wang H(1), Wang Y(4), Vuorenmma M(3), Zhang
+Q(1), Zhang S(1), Li HY(1), Pang LL(5), Li DD(1), Jin M(1), Sun XM(1), Kong
+XY(1), Duan ZJ(6).
+
+Author information: 
+(1)National Institute for Viral Disease Control and Prevention, Chinese Center
+for Disease Control and Prevention, Beijing, China.
+(2)National Institute for Viral Disease Control and Prevention, Chinese Center
+for Disease Control and Prevention, Beijing, China; Hunan Provincial People's
+Hospital, the First affiliated Hospital of Hunan Normal University, Changsha,
+China.
+(3)Department of Otorhinolaryngology-Head and Neck Surgery, Turku University and 
+Turku University Hospital, Turku, Finland.
+(4)National Institute for Viral Disease Control and Prevention, Chinese Center
+for Disease Control and Prevention, Beijing, China; School of Basic Medical
+Sciences, Inner Mongolia Medical University, Hohhot, China.
+(5)National Institute for Viral Disease Control and Prevention, Chinese Center
+for Disease Control and Prevention, Beijing, China; Institute of Microbiology,
+Chinese Academy of Sciences, Beijing, China.
+(6)National Institute for Viral Disease Control and Prevention, Chinese Center
+for Disease Control and Prevention, Beijing, China. Electronic address:
+zhaojund@126.com.
+
+A recent histopathologic study implicated human tonsillar crypt epithelium as an 
+important site for EV71 replication in EV71-caused fatal cases. This study aimed 
+to confirm the susceptibility of human tonsillar epithelium to EV71. Two human
+tonsillar epithelial cell lines (UT-SCC-60A and UT-SCC-60B) were susceptive to
+EV71, and PI3K/AKT, p38, ERK1/2, and JNK1/2 signal pathways were activated.
+Interferon-α, IL-8, IL-1β, IL-6 and IL-12p40 were induced and regulated by
+PI3K/AKT, p38, ERK1/2, and JNK1/2 signal pathways. PI3K/AKT pathway activation
+appeared to suppress the induction of TNF-α, which induced cell survival by
+inhibiting GSK-3β. The activation of NF-κB was observed but inhibited by these
+pathways in EV71 infection. Furthermore, ERK1/2 and JNK1/2 were essential for
+efficient EV71 replication. Human tonsillar epithelial cells support EV71
+replication and display innate antiviral immunity in vitro, indicating that human
+tonsillar epithelial cells may be novel targets for EV71 infection and
+replication in vivo.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.virol.2016.04.016 
+PMID: 27107253  [Indexed for MEDLINE]

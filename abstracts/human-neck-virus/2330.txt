@@ -1,0 +1,44 @@
+
+
+2330. Oral Oncol. 2016 Nov;62:60-71. doi: 10.1016/j.oraloncology.2016.10.003. Epub 2016
+Oct 18.
+
+Extracapsular spread in head and neck squamous cell carcinoma: A systematic
+review and meta-analysis.
+
+Mermod M(1), Tolstonog G(1), Simon C(1), Monnier Y(2).
+
+Author information: 
+(1)Department of Otolaryngology, Head & Neck Surgery, Head & Neck Tumor
+Laboratory, CHUV, University Hospital, Lausanne, Switzerland.
+(2)Department of Otolaryngology, Head & Neck Surgery, Head & Neck Tumor
+Laboratory, CHUV, University Hospital, Lausanne, Switzerland. Electronic address:
+yan.monnier@chuv.ch.
+
+Comment in
+    Oral Oncol. 2017 Mar;66:e1-e2.
+
+Extracapsular spread (ECS) is one of the most important prognostic factors in
+head and neck squamous cell carcinoma (HNSCC). However, despite its major
+clinical relevance, there are still a number of important remaining issues
+regarding this condition. Indeed, standardized diagnostic and grading criteria of
+ECS are still lacking. The imaging modality of choice for its diagnosis is a
+matter of debate. Current research looking at the identification of specific
+biomarkers is ongoing. Recent findings demonstrate a direct correlation between
+the level of extension of ECS and a poor prognosis. Accumulating data show that
+ECS does not carry the same adverse features in human papilloma virus
+(HPV)-positive oropharyngeal squamous cell carcinoma (OPSCC). New treatment
+strategies based on these factors are currently considered to investigate the
+possibility of diminishing the toxicity of chemo-radiotherapy while maintaining
+similar outcomes. The goal of this article was to provide a systematic review of 
+the literature covering all the issues related to ECS. As an additional component
+of the review, meta-analyses were performed on relevant aspects of ECS for which 
+previous quantitative data were outdated or not available. The results of these
+meta-analyses confirm the negative impact of ECS on loco-regional recurrence and 
+distant metastasis. They also demonstrate the absence of a negative impact of ECS
+in HPV-positive OPSCC.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.10.003 
+PMID: 27865373  [Indexed for MEDLINE]

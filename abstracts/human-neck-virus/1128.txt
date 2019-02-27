@@ -1,0 +1,51 @@
+
+
+1128. Oral Oncol. 2016 Sep;60:55-60. doi: 10.1016/j.oraloncology.2016.07.003. Epub 2016
+Jul 7.
+
+Association of pretreatment body mass index and survival in human papillomavirus 
+positive oropharyngeal squamous cell carcinoma.
+
+Albergotti WG(1), Davis KS(2), Abberbock S(3), Bauman JE(4), Ohr J(4), Clump
+DA(5), Heron DE(6), Duvvuri U(7), Kim S(2), Johnson JT(2), Ferris RL(2).
+
+Author information: 
+(1)Department of Otolaryngology - Head and Neck Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, United States. Electronic address:
+albergottiwg@upmc.edu.
+(2)Department of Otolaryngology - Head and Neck Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, United States.
+(3)Biostatistics Facility, University of Pittsburgh Cancer Institute, Pittsburgh,
+PA, United States.
+(4)Division Medical Oncology, Department of Medicine, University of Pittsburgh,
+Pittsburgh, PA, United States.
+(5)Department of Radiation Oncology, University of Pittsburgh Cancer Institute,
+Pittsburgh, PA, United States.
+(6)Department of Otolaryngology - Head and Neck Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, United States; Department of Radiation Oncology, 
+University of Pittsburgh Cancer Institute, Pittsburgh, PA, United States.
+(7)Veterans Affairs Pittsburgh Health System, Pittsburgh, PA, United States;
+Department of Otolaryngology - Head and Neck Surgery, University of Pittsburgh
+Medical Center, Pittsburgh, PA, United States.
+
+BACKGROUND: Pretreatment body mass index (BMI) >25kg/m(2) is a positive
+prognostic factor in patients with head and neck cancer. Previous studies have
+not been adequately stratified by human papilloma virus (HPV) status or subsite. 
+Our objective is to determine prognostic significance of pretreatment BMI on
+overall survival in HPV+ oropharyngeal squamous cell carcinoma (OPSCC).
+METHODS: This is a retrospective review of patients with HPV+ OPSCC treated
+between 8/1/2006 and 8/31/2014. Patients were stratified by BMI status
+(>/<25kg/m(2)). Univariate and multivariate analyses of survival were performed.
+RESULTS: 300 patients met our inclusion/exclusion criteria. Patients with a BMI
+>25kg/m(2) had a longer overall survival (HR=0.49, P=0.01) as well as a longer
+disease-specific survival (HR=0.43, P=0.02). Overall survival remained
+significantly associated with high BMI on multivariate analysis (HR=0.54,
+P=0.04).
+CONCLUSIONS: Pre-treatment normal or underweight BMI status is associated with
+worse overall survival in HPV+ OPSCC.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.07.003 
+PMCID: PMC4991628
+PMID: 27531873  [Indexed for MEDLINE]

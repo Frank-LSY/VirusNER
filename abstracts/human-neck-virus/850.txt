@@ -1,0 +1,28 @@
+
+
+850. Oncology (Williston Park). 2015 Sep;29(9):616-26.
+
+The New Face of Head and Neck Cancer: The HPV Epidemic.
+
+Lewis A, Kang R, Levine A, Maghami E.
+
+Comment in
+    Oncology (Williston Park). 2015 Sep;29(9):628-30.
+
+There has been a significant increase in the incidence of human papillomavirus
+(HPV)-mediated oropharyngeal cancer in the United States. This entity is most
+commonly diagnosed in nonsmoking middle-aged white males. The majority of the
+patients present with asymptomatic, persistent neck masses despite antibiotic
+therapy. An awareness of this condition and a high degree of suspicion is
+necessary for timely diagnosis. HPV-mediated oropharyngeal squamous cell
+carcinomas (HPV-OPSCCs) are unique biologically and clinically, and affected
+patients enjoy better outcomes with existing standard therapies than do patients 
+with OPSCC mediated by tobacco exposure. The p16 protein is usually overexpressed
+in HPV-OPSCC, and its detection on immunohistochemistry is a reliable surrogate
+marker for this disease. In this review, we discuss current paradigms in the
+diagnosis and management of HPV-OPSCC, and we emphasize pertinent research
+questions to investigate going forward, including whether to deintensify
+treatment in these patients.
+
+
+PMID: 26384796  [Indexed for MEDLINE]

@@ -1,0 +1,56 @@
+
+
+2402. Brain Dev. 2016 Feb;38(2):209-16. doi: 10.1016/j.braindev.2015.08.003. Epub 2015 
+Aug 14.
+
+Neurological outcomes in symptomatic congenital cytomegalovirus-infected infants 
+after introduction of newborn urine screening and antiviral treatment.
+
+Nishida K(1), Morioka I(2), Nakamachi Y(3), Kobayashi Y(3), Imanishi T(3), Kawano
+S(3), Iwatani S(1), Koda T(1), Deguchi M(4), Tanimura K(4), Yamashita D(5), Nibu 
+K(5), Funakoshi T(6), Ohashi M(7), Inoue N(8), Iijima K(1), Yamada H(4).
+
+Author information: 
+(1)Department of Pediatrics, Kobe University Hospital, Kobe, Japan.
+(2)Department of Pediatrics, Kobe University Hospital, Kobe, Japan. Electronic
+address: ichim@med.kobe-u.ac.jp.
+(3)Department of Clinical Laboratory, Kobe University Hospital, Kobe, Japan.
+(4)Department of Obstetrics and Gynecology, Kobe University Hospital, Kobe,
+Japan.
+(5)Department of Otolaryngology-Head and Neck Surgery, Kobe University Hospital, 
+Kobe, Japan.
+(6)Department of Obstetrics, Hyogo Prefectural Kobe Children's Hospital, Kobe,
+Japan.
+(7)Nadeshiko Ladies Hospital, Kobe, Japan.
+(8)Department of Microbiology and Immunology, Gifu Pharmaceutical University,
+Gifu, Japan.
+
+BACKGROUND: Newborn screening for urinary cytomegalovirus (CMV) and early
+introduction of antiviral treatment are expected to improve neurological outcomes
+in symptomatic congenital CMV-infected infants. This cohort study prospectively
+evaluated neurological outcomes in symptomatic congenital CMV-infected infants
+following the introduction of hospital-based newborn urinary CMV screening and
+antiviral treatment.
+SUBJECTS/METHODS: Following institutional review board approval and written
+informed consent from their parents, newborns were prospectively screened from
+2009 to 2014 for urinary CMV-DNA by PCR within 1 week after birth at Kobe
+University Hospital and affiliated hospitals. CMV-positive newborns were further 
+examined at Kobe University Hospital, and those diagnosed as symptomatic were
+treated with valganciclovir for 6 weeks plus immunoglobulin. Clinical
+neurological outcomes were evaluated at age ⩾12 months and categorized by the
+presence and severity of neurologic sequelae.
+RESULTS: Urine samples of 6348 newborns were screened, with 32 (0.50%) positive
+for CMV. Of these, 16 were diagnosed with symptomatic infection and 12 received
+antiviral treatment. Four infants developed severe impairment (33%), three
+developed mild impairment (25%), and five developed normally (42%).
+CONCLUSIONS: This is the first Japanese report of neurological assessments in
+infants with symptomatic congenital CMV infection who received early diagnosis
+and antiviral treatment. Urinary screening, resulting in early diagnosis and
+treatment, may yield better neurological outcomes in symptomatic congenital
+CMV-infected infants.
+
+Copyright © 2015 The Japanese Society of Child Neurology. Published by Elsevier
+B.V. All rights reserved.
+
+DOI: 10.1016/j.braindev.2015.08.003 
+PMID: 26282917  [Indexed for MEDLINE]

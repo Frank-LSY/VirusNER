@@ -1,0 +1,37 @@
+
+
+2291. Ir J Med Sci. 2015 Dec;184(4):825-30. doi: 10.1007/s11845-014-1183-3. Epub 2014
+Aug 23.
+
+Oncological and functional outcomes of transoral surgery for the treatment of
+oropharyngeal cancer.
+
+Chauhan P(1), Byrne H(1), Taylor E(2), Sheahan P(3).
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, South Infirmary Victoria 
+University Hospital, Cork, Ireland.
+(2)Department of Speech and Language Therapy, South Infirmary Victoria University
+Hospital, Cork, Ireland.
+(3)Department of Otolaryngology, Head and Neck Surgery, South Infirmary Victoria 
+University Hospital, Cork, Ireland. sheahan.patrick@sivuh.ie.
+
+BACKGROUND: Currently, most cases of oropharyngeal squamous cell carcinoma
+(OPSCC) are treated by chemoradiotherapy. However, serious concerns have arisen
+regarding toxicity and poor functional outcomes. Recently, transoral techniques
+for resection of selected OPSCC have been developed.
+AIMS: To review the outcomes of transoral surgery for OPSCC at our institution.
+METHODS: Retrospective review of 12 patients with OPSCC treated with transoral
+resection. Data on surgical complications, oncological outcomes, and functional
+outcomes were analysed.
+RESULTS: Primary sites were tonsil (9), soft palate (1), base of tongue (1), and 
+posterior pharyngeal wall (1). There were no surgical complications. After the
+mean follow-up of 19 months, there were no local or regional recurrences. Two
+patients (one with synchronous lung cancer) died from distant metastases. No
+patient required gastrostomy tube or had long-term speech or swallowing
+impairments.
+CONCLUSION: Transoral resection is an excellent option for selected patients with
+OPSCC, offering excellent functional and oncological outcomes.
+
+DOI: 10.1007/s11845-014-1183-3 
+PMID: 25149079  [Indexed for MEDLINE]

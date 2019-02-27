@@ -1,0 +1,45 @@
+
+
+2854. J Natl Cancer Inst. 2010 Jan 20;102(2):107-18. doi: 10.1093/jnci/djp456. Epub
+2010 Jan 12.
+
+Paracrine regulation of pancreatic cancer cell invasion by peripheral nerves.
+
+Gil Z(1), Cavel O, Kelly K, Brader P, Rein A, Gao SP, Carlson DL, Shah JP, Fong
+Y, Wong RJ.
+
+Author information: 
+(1)Department of Otolaryngology, Head and Neck Surgery, Tel Aviv Sourasky Medical
+Center, 6 Weizmann St, Tel Aviv, 64239, Israel. gilz@tasmc.health.gov.il
+
+BACKGROUND: The ability of cancer to infiltrate along nerves is a common clinical
+observation in pancreas, head and neck, prostate, breast, and gastrointestinal
+carcinomas. For these tumors, nerves may provide a conduit for local cancer
+progression into the central nervous system. Although neural invasion is
+associated with poor outcome, the mechanism that triggers it is unknown.
+METHODS: We used an in vitro Matrigel dorsal root ganglion and pancreatic cancer 
+cell coculture model to assess the dynamic interactions between nerves and cancer
+cell migration and the role of glial cell-derived neurotrophic factor (GDNF). An 
+in vivo murine sciatic nerve model was used to study how nerve invasion affects
+sciatic nerve function.
+RESULTS: Nerves induced a polarized neurotrophic migration of cancer cells
+(PNMCs) along their axons, which was more efficient than in the absence of nerves
+(migration distance: mean = 187.1 microm, 95% confidence interval [CI] = 148 to
+226 microm vs 14.4 microm, 95% CI = 9.58 to 19.22 microm, difference = 143
+microm; P < .001; n = 20). PNMC was induced by secretion of GDNF, via
+phosphorylation of the RET-Ras-mitogen-activated protein kinase pathway. Nerves
+from mice deficient in GDNF had reduced ability to attract cancer cells (nerve
+invasion index: wild type vs gdnf+/-, mean = 0.76, 95% CI = 0.75 to 0.77 vs 0.43,
+95% CI = 0.42 to 0.44; P < .001; n = 60-66). Tumor specimens excised from
+patients with neuroinvasive pancreatic carcinoma had higher expression of the
+GDNF receptors RET and GRFalpha1 as compared with normal tissue. Finally,
+systemic therapy with pyrazolopyrimidine-1, a tyrosine kinase inhibitor targeting
+the RET pathway, suppressed nerve invasion toward the spinal cord and prevented
+paralysis in mice.
+CONCLUSION: These data provide evidence for paracrine regulation of pancreatic
+cancer invasion by nerves, which may have important implications for potential
+therapy directed against nerve invasion by cancer.
+
+DOI: 10.1093/jnci/djp456 
+PMCID: PMC2911041
+PMID: 20068194  [Indexed for MEDLINE]

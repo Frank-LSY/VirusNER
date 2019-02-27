@@ -1,0 +1,57 @@
+
+
+619. Proteomics. 2016 Sep;16(17):2351-62. doi: 10.1002/pmic.201600098. Epub 2016 Jul
+8.
+
+Interactome analysis of the EV71 5' untranslated region in differentiated
+neuronal cells SH-SY5Y and regulatory role of FBP3 in viral replication.
+
+Huang HI(1)(2)(3)(4), Chang YY(3), Lin JY(3), Kuo RL(1)(2)(3)(4), Liu HP(5), Shih
+SR(1)(2)(3)(6), Wu CC(7)(8)(9)(10).
+
+Author information: 
+(1)Research Center for Emerging Viral Infections, College of Medicine, Chang Gung
+University, Kwei-Shan, Tao-Yuan, Taiwan.
+(2)Department of Medical Biotechnology and Laboratory Science, College of
+Medicine, Chang Gung University, Kwei-Shan, Tao-Yuan, Taiwan.
+(3)Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung
+University, Kwei-Shan, Tao-Yuan, Taiwan.
+(4)Department of Pediatrics, Chang Gung Memorial Hospital, Linkou, Taiwan.
+(5)Department of Veterinary Medicine, National Chung Hsing University, Taichung, 
+Taiwan.
+(6)Clinical Virology Lab, Department of Medical Technology, Chang Gung Memorial
+Hospital, Linkou, Taiwan.
+(7)Department of Medical Biotechnology and Laboratory Science, College of
+Medicine, Chang Gung University, Kwei-Shan, Tao-Yuan, Taiwan.
+luckywu@mail.cgu.edu.tw.
+(8)Graduate Institute of Biomedical Sciences, College of Medicine, Chang Gung
+University, Kwei-Shan, Tao-Yuan, Taiwan. luckywu@mail.cgu.edu.tw.
+(9)Molecular Medicine Research Center, Chang Gung University, Kwei-Shan,
+Tao-Yuan, Taiwan. luckywu@mail.cgu.edu.tw.
+(10)Department of Otolaryngology-Head and Neck Surgery, Chang Gung Memorial
+Hospital, Linkou, Taiwan. luckywu@mail.cgu.edu.tw.
+
+Enterovirus 71 (EV71), a single-stranded RNA virus, is one of the most serious
+neurotropic pathogens in the Asia-Pacific region. Through interactions with host 
+proteins, the 5' untranslated region (5'UTR) of EV71 is important for viral
+replication. To gain a protein profile that interact with the EV71 5'UTR in
+neuronal cells, we performed a biotinylated RNA-protein pull-down assay in
+conjunction with LC-MS/MS analysis. A total of 109 proteins were detected and
+subjected to Database for Annotation, Visualization and Integrated Discovery
+(DAVID) analyses. These proteins were found to be highly correlated with
+biological processes including RNA processing/splicing, epidermal cell
+differentiation, and protein folding. A protein-protein interaction network was
+constructed using the STRING online database to illustrate the interactions of
+those proteins that are mainly involved in RNA processing/splicing or protein
+folding. Moreover, we confirmed that the far-upstream element binding protein 3
+(FBP3) was able to bind to the EV71 5'UTR. The redistribution of FBP3 in
+subcellular compartments was observed after EV71 infection, and the decreased
+expression of FBP3 in host neuronal cells markedly inhibited viral replication.
+Our results reveal various host proteins that potentially interact with the EV71 
+5'UTR in neuronal cells, and we found that FBP3 could serve as a positive
+regulator in host cells.
+
+© 2016 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
+
+DOI: 10.1002/pmic.201600098 
+PMID: 27291656  [Indexed for MEDLINE]

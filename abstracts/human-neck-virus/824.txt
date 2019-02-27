@@ -1,0 +1,50 @@
+
+
+824. ORL J Otorhinolaryngol Relat Spec. 2018;80(2):85-95. doi: 10.1159/000487239. Epub
+2018 Jul 3.
+
+Radiographic Imaging Does Not Reliably Predict Macroscopic Extranodal Extension
+in Human Papilloma Virus-Associated Oropharyngeal Cancer.
+
+Patel MR(1), Hudgins PA(2), Beitler JJ(3), Magliocca KR(4), Griffith CC(4), Liu
+Y(5), Bougnon K(2), El-Deiry M(1), Saba NF(6), Aiken AH(2).
+
+Author information: 
+(1)Department of Otolaryngology, Winship Cancer Institute, Emory University,
+Atlanta, Georgia, USA.
+(2)Department of Radiology and Imaging Sciences, Winship Cancer Institute, Emory 
+University, Atlanta, Georgia, USA.
+(3)Department of Radiation Oncology, Winship Cancer Institute, Emory University, 
+Atlanta, Georgia, USA.
+(4)Department of Pathology, Winship Cancer Institute, Emory University, Atlanta, 
+Georgia, USA.
+(5)Department of Biostatistics and Bioinformatics, Winship Cancer Institute,
+Emory University, Atlanta, Georgia, USA.
+(6)Department of Hematology and Medical Oncology, Winship Cancer Institute, Emory
+University, Atlanta, Georgia, USA.
+
+BACKGROUND: Radiographic concern for lymphatic extranodal extension (ENE) impacts
+upfront management decisions for patients with human papilloma virus (HPV)
+oropharyngeal squamous cell carcinoma (OPSCC). Therefore, we set out to evaluate 
+the accuracy of preoperative contrast-enhanced computed tomography (CECT) to
+predict major ENE (> 2 mm).
+METHODS: Twenty-seven consecutive patients with HPV-associated OPSCC who
+presented at our institutional multidisciplinary tumor board were staged
+radiographically with positron emission tomography (PET/CT) and CECT, and
+underwent primary transoral robotic resection and neck dissection. CECT imaging
+results were correlated with pathologic ENE (pENE).
+RESULTS: CECT specificity for all pENE was 69 and 75% for radiologist 1 and 2,
+respectively. For pENE > 2 mm, the sensitivities were 88 and 100%, but
+specificities were 52.6 and 63.2%. Positive predictive values (PPV) were 43.8 and
+53.3%; negative predictive values were 90.9 and 100%. On logistic regression
+analysis, only size ≥3 cm (OR 4.7-5.4, p < 0.02, 95% CI 1.3-44.0) demonstrated
+significant correlation with major ENE > 2 mm.
+CONCLUSIONS: Preoperative imaging for HPV-associated OPSCC had a PPV for pENE > 2
+mm of 44-55%, based on any interruption in the capsule or invasion into the
+perinodal fat. The PPV is low and equipoise in treatment decision making for
+patients with HPV-associated OPSCC may require other imaging characteristics.
+
+© 2018 S. Karger AG, Basel.
+
+DOI: 10.1159/000487239 
+PMID: 29969771  [Indexed for MEDLINE]

@@ -1,0 +1,49 @@
+
+
+2075. Head Neck. 2017 Oct;39(10):1997-2003. doi: 10.1002/hed.24845. Epub 2017 Jun 22.
+
+Management of proliferative verrucous leukoplakia: Justification for a
+conservative approach.
+
+Borgna SC(1), Clarke PT(2), Schache AG(3)(4), Lowe D(4), Ho MW(3)(5), McCarthy
+CE(3)(6), Adair S(6), Field EA(6), Field JK(3)(6), Holt D(6), Risk JM(3),
+Rajlawat BP(6), Triantafyllou A(7), Shaw RJ(3)(6)(4).
+
+Author information: 
+(1)Royal Brisbane and Women's Hospital Metro North Hospital and Health Service,
+Department of Oral and Maxillofacial Surgery, Brisbane, Queensland, Australia.
+(2)Department of Restorative Dentistry, Central Manchester Foundation Trust,
+Manchester, United Kingdom.
+(3)Mersey Head and Neck Oncology Research Group (MHNORG), Department of Molecular
+and Clinical Cancer Medicine, Institute of Translational Medicine, University of 
+Liverpool, Liverpool, United Kingdom.
+(4)Division of Oral and Maxillofacial Surgery, Aintree University Hospitals NHS
+Foundation Trust, Liverpool, United Kingdom.
+(5)Leeds Teaching Hospitals NHS Trust, Oral and Maxillofacial Surgery, Leeds
+Dental Institute, Leeds, United Kingdom.
+(6)Department of Oral Medicine, Liverpool University Dental Hospital, Liverpool, 
+United Kingdom.
+(7)Pathology Department, Liverpool Clinical Laboratories and School of Dentistry,
+University of Liverpool, Liverpool, United Kingdom.
+
+BACKGROUND: Proliferative verrucous leukoplakia (PVL) is a progressive,
+multifocal, exophytic form of leukoplakia with high rates of malignant
+transformation. The purpose of this study was to evaluate a cohort of patients
+with PVL in a single tertiary referral clinic.
+METHOD: Cases meeting accepted diagnostic criteria were reviewed with regard to
+their pathology, demographic characteristics, management, and outcomes. Human
+papillomavirus (HPV) testing was undertaken on a subset.
+RESULTS: Almost half of the 48 patients with PVL (48%; n = 23) underwent
+malignant transformation after a median 23.4 months. The characteristics of this 
+cohort were similar to those previously described, but management was notably
+more conservative. Conservative management of PVL was used in 92% of our
+patients, but the clinical outcomes seem comparable with previously described
+cohorts in which PVL was predominantly treated by surgical excision. All HPV
+testing was negative.
+CONCLUSION: Aggressive surgical intervention in the premalignant phase of PVL may
+not influence the rate of malignant transformation.
+
+© 2017 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.24845 
+PMID: 28640498  [Indexed for MEDLINE]

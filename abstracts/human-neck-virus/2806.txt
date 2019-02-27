@@ -1,0 +1,37 @@
+
+
+2806. Microbiol Spectr. 2016 Nov;4(6). doi: 10.1128/microbiolspec.TNMI7-0009-2016.
+
+Upper Respiratory Tract Tuberculosis.
+
+Jindal SK(1), Jindal A(2), Agarwal R(1).
+
+Author information: 
+(1)Department of Pulmonary Medicine, Postgraduate Institute of Medical Education 
+& Research, Sector 12, Chandigarh 160012, India.
+(2)Jindal Clinics, Chandigarh 160020, India.
+
+Upper respiratory tract involvement in cases of tuberculosis (TB) of the head and
+neck continues to be described in the most recent reports from several different 
+regions, including some from developed countries. Laryngeal TB is the most common
+of all forms of upper respiratory tract TB (URT-TB). Pulmonary lesions in URT-TB 
+are present in about 20% of adults and about 50 to 60% of children. Systemic
+manifestations are uncommon. URT-TB is especially seen in patients with a variety
+of risk factors, such as the presence of human immunodeficiency virus (HIV)
+infection, diabetes, smoking, alcoholism, drug abuse, malignancies, and use of
+immunosuppressive drugs. Nodules or ulcerative lesions are seen on morphological 
+examination. Endoscopic examination is required for mucosal lesions. Diagnosis of
+TB is suspected on an epidemiological basis in high-prevalence countries or from 
+the failure of a patient to respond to routine treatment. Smear and/or
+histopathological examinations help in establishing the final etiological
+diagnosis. Treatment includes standard anti-TB chemotherapy for at least 6 months
+with four primary drugs during the initial intensive phase of 2 months and two or
+three primary drugs during the remaining maintenance phase of 4 months. Treatment
+is modified on the basis of culture and sensitivity reports in cases of suspected
+drug resistance. Surgical intervention may be required for some patients with
+abscess formation and progressive disease unresponsive to medical therapy. Airway
+obstruction, although rare, even in fulminant cases may require tracheostomy for 
+relief.
+
+DOI: 10.1128/microbiolspec.TNMI7-0009-2016 
+PMID: 27837744  [Indexed for MEDLINE]

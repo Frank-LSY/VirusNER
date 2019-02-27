@@ -1,0 +1,38 @@
+
+
+2010. Radiother Oncol. 2013 Sep;108(3):397-402. doi: 10.1016/j.radonc.2013.06.004. Epub
+2013 Jul 3.
+
+Human papillomaviruses and cancer.
+
+Haedicke J(1), Iftner T.
+
+Author information: 
+(1)Medical Virology, Division of Experimental Virology, University Hospital
+Tübingen, Germany.
+
+Human papillomaviruses (HPV) are small oncogenic DNA viruses of which more than
+200 types have been identified to date. A small subset of these is etiologically 
+linked to the development of anogenital malignancies such as cervical cancer. In 
+addition, recent studies established a causative relationship between these
+high-risk HPV types and tonsillar and oropharyngeal cancer. Clinical management
+of cervical cancer and head and neck squamous cell carcinomas (HNSCCs) is largely
+standardized and involves surgical removal of the tumor tissue as well as
+adjuvant chemoradiation therapy. Notably, the response to therapeutic
+intervention of HPV-positive HNSCCs has been found to be better as compared to
+HPV-negative tumors. Although the existing HPV vaccine is solely licensed for the
+prevention of cervical cancer, it might also have prophylactic potential for the 
+development of high-risk HPV-associated HNSCCs. Another group of viruses, which
+belongs to the beta-HPV subgroup, has been implicated in nonmelanoma skin cancer,
+however, the etiology remains to be established. Treatment of HPV-induced
+nonmelanoma skin cancer is based on local excision. However, topically applied
+immune-modulating substances represent non-surgical alternatives for the
+management of smaller cutaneous tumors. In this review we present the current
+knowledge of the role of HPV in cancer development and discuss clinical
+management options as well as targets for the development of future intervention 
+therapies.
+
+Copyright © 2013 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2013.06.004 
+PMID: 23830197  [Indexed for MEDLINE]

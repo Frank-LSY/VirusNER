@@ -1,0 +1,40 @@
+
+
+3099. Otol Neurotol. 2010 Sep;31(7):1153-6. doi: 10.1097/MAO.0b013e3181eb3259.
+
+Magnetic resonance imaging findings in delayed facial palsy after stapes surgery.
+
+Cohen M(1), Balaker A, Kirsch C, Mendelsohn A, Ishiyama A.
+
+Author information: 
+(1)Division of Head and Neck Surgery, University of California-Los Angeles School
+of Medicine, Los Angeles, California, U.S.A.
+
+OBJECTIVES: 1. To retrospectively review the pathophysiology and radiologic
+features of delayed facial palsy after stapedectomy. 2. To discuss the cause and 
+management strategy of this unusual problem.
+PATIENTS: Four hundred fifty stapedectomies performed between 2001 and 2007 by a 
+single surgeon were retrospectively reviewed. Two patients in this series
+developed a delayed facial palsy postoperatively.
+INTERVENTIONS: Magnetic resonance imaging (MRI) was performed on patients with
+delayed facial palsy after stapedectomy and was repeated as their clinical
+symptoms resolved. The patients were treated medically with oral corticosteroids 
+and antiviral medications.
+MAIN OUTCOME MEASURES: The clinical course and radiographic characteristics on
+MRI of patients with delayed facial palsy are presented.
+RESULTS: Two of 450 patients who underwent stapedectomies (0.4%) during a 7-year 
+period developed the rare complication of delayed facial palsy (postoperative
+Days 12 and 41, respectively). Both patients experienced periauricular pain and
+dysgeusia, followed by rapidly progressive complete facial nerve paralysis. The
+operated ear showed no sign of infection. MRI with gadolinium of the internal
+auditory canal demonstrated enhancement of the labyrinthine portion of the facial
+nerve as seen in Bell's palsy. Both patients were treated with oral
+corticosteroids and antiviral medications. Subsequent imaging revealed decreased 
+enhancement with resolution of facial paralysis.
+CONCLUSION: In the rare complication of delayed facial palsy after stapedectomy, 
+MRI findings support the hypothesis that reactivation of a latent virus is the
+underlying cause. Therefore, delayed facial paralysis after stapedectomy should
+be treated similarly to Bell's palsy with steroid and antiviral medical therapy.
+
+DOI: 10.1097/MAO.0b013e3181eb3259 
+PMID: 20657331  [Indexed for MEDLINE]

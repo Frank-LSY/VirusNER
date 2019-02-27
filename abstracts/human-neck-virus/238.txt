@@ -1,0 +1,30 @@
+
+
+238. Expert Opin Biol Ther. 2009 Mar;9(3):321-9. doi: 10.1517/14712590802715731 .
+
+Telomerase-specific virotherapy for human squamous cell carcinoma.
+
+Fujiwara T(1).
+
+Author information: 
+(1)Okayama University Hospital, Center for Gene and Cell Therapy, 2-5-1
+Shikata-cho, Okayama 700-8558, Japan. toshi_f@md.okayama-u.ac.jp
+
+BACKGROUND: Replication-selective tumor-specific viruses present a novel approach
+for treatment of neoplastic disease. They are designed to induce lysis after
+propagation within the tumor. Human telomerase is active in over 85% of primary
+cancers and its activity correlates closely with human telomerase reverse
+transcriptase (hTERT) expression.
+OBJECTIVES: Oncolytic viruses, Telomelysin and TelomeScan, that combine the
+specificity of hTERT promoter-based expression systems with the lytic efficacy of
+replicative viruses were developed. The goal was to confirm the efficacy of the
+viruses for human squamous cell carcinoma.
+RESULTS/CONCLUSION: Squamous cell carcinoma of the head and neck (SCCHN) is
+characterized by locoregional spread, and is clinically accessible, making it an 
+attractive target for intratumoral virotherapy. The viruses replicated
+efficiently and induced killing in a panel of human cancer cell lines including
+SCCHN cells in vitro and in vivo. These results illustrate the potential of
+telomerase-specific oncolytic viruses for treatment of human SCCHN.
+
+DOI: 10.1517/14712590802715731	 
+PMID: 19216621  [Indexed for MEDLINE]

@@ -1,0 +1,36 @@
+
+
+187. Biomolecules. 2016 Nov 24;6(4). pii: E46.
+
+Epigenetic Impact on EBV Associated B-Cell Lymphomagenesis.
+
+Ghosh Roy S(1), Robertson ES(2), Saha A(3).
+
+Author information: 
+(1)Department of Life Sciences, Presidency University, 86/1, College Street,
+Kolkata 700073, West Bengal, India. shatadru54@gmail.com.
+(2)Department of Otorhinolaryngology-Head and Neck Surgery, and the Tumor
+Virology Program, Abramson Comprehensive Cancer Center, Perelman School of
+Medicine at the University of Pennsylvania, Philadelphia, PA 19104, USA.
+erle@upenn.edu.
+(3)Department of Life Sciences, Presidency University, 86/1, College Street,
+Kolkata 700073, West Bengal, India. abhik.dbs@presiuniv.ac.in.
+
+Epigenetic modifications leading to either transcriptional repression or
+activation, play an indispensable role in the development of human cancers.
+Epidemiological study revealed that approximately 20% of all human cancers are
+associated with tumor viruses. Epstein-Barr virus (EBV), the first human tumor
+virus, demonstrates frequent epigenetic alterations on both viral and host
+genomes in associated cancers-both of epithelial and lymphoid origin. The cell
+type-dependent different EBV latent gene expression patterns appear to be
+determined by the cellular epigenetic machinery and similarly viral oncoproteins 
+recruit epigenetic regulators in order to deregulate the cellular gene expression
+profile resulting in several human cancers. This review elucidates the epigenetic
+consequences of EBV-host interactions during development of multiple EBV-induced 
+B-cell lymphomas, which may lead to the discovery of novel therapeutic
+interventions against EBV-associated B-cell lymphomas by alteration of reversible
+patho-epigenetic markings.
+
+DOI: 10.3390/biom6040046 
+PMCID: PMC5197956
+PMID: 27886133  [Indexed for MEDLINE]

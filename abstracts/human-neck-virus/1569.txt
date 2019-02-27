@@ -1,0 +1,44 @@
+
+
+1569. Cancer. 2013 May 15;119(10):1832-7. doi: 10.1002/cncr.27988. Epub 2013 Feb 19.
+
+Synchronous cancers in patients with head and neck cancer: risks in the era of
+human papillomavirus-associated oropharyngeal cancer.
+
+Jain KS(1), Sikora AG, Baxi SS, Morris LG.
+
+Author information: 
+(1)Head and Neck Service, Department of Surgery, Memorial Sloan-Kettering Cancer 
+Center, New York, NY, USA.
+
+BACKGROUND: Second primary malignancies (SPMs) are the leading cause of death in 
+survivors of head and neck squamous cell carcinoma (HNSCC). Synchronous SPMs are 
+of significant clinical interest because they potentially can be identified by
+screening procedures at the time of diagnosis of the index cancer. Recently,
+human papillomavirus (HPV) has emerged as a distinct risk factor for
+oropharyngeal head and neck squamous cell carcinoma (HNSCC), differing from
+classic tobacco/alcohol-associated HNSCC, suggesting that there also may be
+distinct patterns of synchronous SPMs.
+METHODS: The authors performed a population-based cohort study in 64,673 patients
+in the National Cancer Institute Surveillance, Epidemiology, and End Results
+registry (1979-2008), defining risks of synchronous SPM in patients with HNSCC
+who were diagnosed before and after the emergence of prevalent HPV-associated
+oropharyngeal HNSCC. Excess risk was calculated using standardized incidence
+ratios (SIR) and excess absolute risk per 100 patients.
+RESULTS: Among patients with HNSCC, the SIR of synchronous SPM was 5.0,
+corresponding to 2.62 excess cases per 100 patients. The site with the highest
+excess risk of a second cancer was the head and neck (SIR, 41.4), followed by the
+esophagus (SIR, 21.8), and lung (SIR, 7.4). The risk of synchronous SPM changed
+markedly over time for patients with oropharyngeal HNSCC. In the 1970s and 1980s,
+oropharyngeal cancers carried the highest risk of SPM. Risk began to dramatically
+decline in the 1990s; and currently, oropharyngeal cancers carry the lowest risk 
+of synchronous SPM.
+CONCLUSIONS: The current data are consistent with the etiologic shift of
+oropharyngeal HNSCC, from a primarily tobacco-associated malignancy associated
+with significant field cancerization of the upper aerodigestive mucosa, to a
+malignancy primarily caused by oncogenic human papillomavirus.
+
+Copyright © 2013 American Cancer Society.
+
+DOI: 10.1002/cncr.27988 
+PMID: 23423883  [Indexed for MEDLINE]

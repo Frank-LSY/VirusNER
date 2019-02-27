@@ -1,0 +1,48 @@
+
+
+1584. Am J Surg Pathol. 2014 Jul;38(7):946-55. doi: 10.1097/PAS.0000000000000206.
+
+Epstein-Barr virus-infected cells in IgG4-related lymphadenopathy with comparison
+with extranodal IgG4-related disease.
+
+Takeuchi M(1), Sato Y, Yasui H, Ozawa H, Ohno K, Takata K, Gion Y, Orita Y,
+Tachibana T, Itoh T, Asano N, Nakamura S, Swerdlow SH, Yoshino T.
+
+Author information: 
+(1)Departments of *Pathology ∥Otolaryngology, Head and Neck Surgery, Okayama
+University Graduate School of Medicine, Dentistry, and Pharmaceutical Sciences,
+Okayama ‡Center for Antibody and Vaccine, Research Hospital, The Institute of
+Medical Science, The University of Tokyo, Tokyo §Department of Pathology, Okazaki
+City Hospital, Okazaki ¶Department of Otolaryngology, Himeji Red Cross Hospital, 
+Himeji †Department of Diagnostic Pathology, Kobe University Graduate School of
+Medicine, Kobe Departments of #Clinical Laboratory **Pathology and Laboratory
+Medicine, Nagoya University Hospital, Nagoya, Japan ††Department of Pathology,
+Division of Hematopathology, University of Pittsburgh School of Medicine,
+Pittsburgh, PA.
+
+IgG4-related lymphadenopathy with increased numbers of Epstein-Barr virus
+(EBV)-infected cells has been reported but not fully described. We analyzed 31
+cases of IgG4-related lymphadenopathy and 24 cases of extranodal IgG4-related
+diseases for their possible relationship with EBV. Other types of reactive lymph 
+nodes (22) and angioimmunoblastic T-cell lymphoma (AITL) (10) were also studied
+for comparison. EBV-encoded RNA (EBER) in situ hybridization revealed EBER(+)
+cells in 18 of 31 cases (58%) of IgG4-related lymphadenopathy. Increased EBER(+) 
+cells were found in only 4 of 22 (18.1%) non-IgG4-related reactive lymphoid
+hyperplasia in patients of a similar age (P=0.002) and in only 5 of 24 (21%)
+extranodal IgG4-related biopsies (P=0.006). Interestingly, all patients with
+EBER(+) progressively transformed germinal center-type IgG4-related
+lymphadenopathy had systemic lymphadenopathy and/or extranodal involvement. AITL 
+also is associated with EBV, and IgG4-related lymphadenopathy sometimes mimics
+the morphology of AITL; however, the number of IgG4(+) cells in AITL was
+significantly less than that in IgG4-related lymphadenopathy (P<0.001). Increased
+numbers of regulatory T cells are seen in IgG4-related disease; however, there
+was not a significant difference between the EBER(+) and EBER(-) cases. In
+conclusion, the presence of increased numbers of EBV-infected cells in
+IgG4-related lymphadenopathy, compared with other reactive lymphadenopathy or
+extranodal IgG4-related disease, suggests that there may be a relationship at
+least between nodal IgG4-related disease and EBV. It is important to avoid
+overdiagnosing these cases as malignant lymphomas or EBV-related
+lymphoproliferative disorders.
+
+DOI: 10.1097/PAS.0000000000000206 
+PMID: 24705309  [Indexed for MEDLINE]

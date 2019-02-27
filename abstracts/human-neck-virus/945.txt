@@ -1,0 +1,42 @@
+
+
+945. Cesk Patol. 2013 Jan;49(1):29-34.
+
+[The testing strategy for detection of biologically relevant infection of human
+papillomavirus in head and neck tumors for routine pathological analysis].
+
+[Article in Czech]
+
+Kašpírková J, Ondič O, Cerná K, Skálová A.
+
+There is a subgroup among head and neck squamous cell carcinomas, which is
+etiologically linked to the infection of high-risk human papillomavirus (HPV). In
+recent studies, HPV related squamous cell carcinomas have been placed in a
+separate group because of their different epidemiology, distinctive
+histopathological characteristics, therapeutic response and clinical outcome. The
+reported prevalence of high-risk HPV in head and neck tumors varies in different 
+studies. This fact occurs mainly due to the absence of a widely accepted
+consensus for HPV detection in head and neck malignancies. We present a
+methodological algorithm for detection of biologically relevant HPV infection: a 
+combination of an immunohistochemical staining of the p16 protein - a surrogate
+marker for a transforming HPV infection, and a molecular genetic identification
+of HPV DNA by three different polymerase chain reactions (PCR). The study group
+consisted of 41 patients with a tumor in head and neck region. A verification of 
+detection of biologically relevant HPV infection has been performed in 10
+available samples using an alternative approach, which comprised the detection of
+RNA transcript of HPV by reverse transcription followed by PCR (RT-PCR), and
+further in situ hybridization (ISH) with a commercial high-risk HPV probe. We
+have found a high correlation between HPV DNA detection using triple-PCR approach
+and strong diffuse positivity of the p16 protein (correlation coefficient 0.94)
+and have confirmed the validity of this algorithm. In 94 % of HPV related
+squamous cell carcinomas HPV type 16 was detected. In one case HPV type 33 was
+identified. That is in agreement with earlier published data. A more appropriate 
+alternative method for the detection of biologically relevant- transforming HPV
+infection seems to be RT-PCR, which proved 100 % agreement with the original
+methodological approach of p16 determination and PCR status. Interpretation of
+the ISH has been complicated by frequent nonspecific staining of the sample and
+its routine usage in the diagnostic algorithm of our laboratory is currently not 
+feasible.
+
+
+PMID: 23432073  [Indexed for MEDLINE]

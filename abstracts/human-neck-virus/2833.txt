@@ -1,0 +1,35 @@
+
+
+2833. Ear Nose Throat J. 2014 Mar;93(3):112-5.
+
+Early detection of nasopharyngeal carcinoma using IgA anti-EBNA1 + VCA-p18
+serology assay.
+
+Romdhoni AC(1), Wiqoyah N, Kentjono WA.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Faculty of Medicine
+Airlangga University, Mayjend. Prof. Dr. Moestopo 6-8 St., Surabaya, Indonesia
+60286. romdhoni_ent@yahoo.com.
+
+Nasopharyngeal carcinoma (NPC) is the most common head and neck malignancy in
+Indonesia. Overall, it ranks fourth in males and sixth in females as the most
+prevalent type of cancer in that country. The data show that in the year 2011,
+NPC incidence was considered to be intermediate (6.2/100,000 population per
+year). Through histopathologic examination, about 70 to 80% of these cases were
+found to be type III according to the WHO classificaton. NPC carries an excellent
+prognosis if treated early, but most patients presented with stage III to IV
+disease, which negatively affected the cure rate and increased the mortality
+rate. Epstein-Barr virus (EBV) IgA serology has been established as an effective 
+marker for NPC. Therefore, biologic markers, DNA, and/or antibody-based diagnosis
+is needed to decrease NPC cases. A screening program needs to be developed that
+will identify people at high risk of NPC and those who are in the early stage of 
+the disease. In this study, 20 samples were collected from post-therapy patients.
+An otolaryngologic examination, histopathology of nasopharyngeal tissue, and
+blood testing for serologic markers were performed. IgA anti-EBNA1 + VCA-p18
+enzyme-linked immunosorbent assay showed positive impact as a tool for confirming
+the diagnosis of NPC, but it still has to be combined with other specific
+diagnostic tools for post-therapy monitoring and for determining prognosis.
+
+
+PMID: 24652560  [Indexed for MEDLINE]

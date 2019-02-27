@@ -1,0 +1,37 @@
+
+
+2845. Int J Mol Med. 2013 May;31(5):1262-72. doi: 10.3892/ijmm.2013.1312. Epub 2013 Mar
+20.
+
+Silencing Bmi-1 expression by RNA interference suppresses the growth of laryngeal
+carcinoma cells.
+
+Yao XB(1), Wang XX, Liu H, Zhang SQ, Zhu HL.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, The First Affiliated
+Hospital, School of Medicine, Xi'an Jiaotong University, Xi'an, Shaanxi 710061,
+P.R. China. xiaobaoyaocn@126.com
+
+The aim of this study was to investigate the effect of a B-cell-specific MLV
+integration site-1 (Bmi-1) RNA interference (RNAi) expression vector on the
+proliferation and invasiveness of laryngeal carcinoma. We constructed a
+lentiviral vector expressing Bmi-1-specific short hairpin RNA (shRNA), and
+transfected it into HEp-2 cells. Bmi-1 gene expression was detected by real-time 
+RT-PCR and western blot analysis. We used flow cytometry and TUNEL assay to
+analyze the apoptosis of transfected cells, and examined cellular growth in vitro
+by MTT assay. We established an animal model and evaluated the therapeutic
+effects of small interfering RNA (siRNA) against Bmi-1. siRNA against Bmi-1
+significantly knocked down Bmi-1 expression in HEp-2 cells, induced cell cycle
+arrest at the G1 phase, inhibited cell proliferation and promoted cell apoptosis.
+Lentiviral Bmi-1-shRNA vector transfection also significantly reduced cell
+migration. The formation and growth rate of xenograft tumors in mice transfected 
+with siRNA against Bmi-1 was significantly reduced. The loss of mitochondrial
+membrane potential, the release of cytochrome c from the mitochondria into the
+cytosol, and the increased activity of caspase-3, -8 and -9 occurred
+concomitantly with the inhibition of Bmi-1. Our data indicate that siRNA against 
+Bmi-1 significantly suppresses tumor growth and induces apoptosis in vitro and in
+vivo.
+
+DOI: 10.3892/ijmm.2013.1312 
+PMID: 23525303  [Indexed for MEDLINE]

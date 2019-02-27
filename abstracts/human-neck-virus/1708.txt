@@ -1,0 +1,54 @@
+
+
+1708. Zhonghua Er Bi Yan Hou Tou Jing Wai Ke Za Zhi. 2017 Dec 7;52(12):895-899. doi:
+10.3760/cma.j.issn.1673-0860.2017.12.004.
+
+[Diagnostic value of narrow-band imaging in detection of recurrent nasopharyngeal
+carcinoma].
+
+[Article in Chinese; Abstract available in Chinese from the publisher]
+
+Si JY(1), Weng JJ(1), Zhang BJ(1), Lan GP(1), Yang Y(1), Huang B(1), Wang YL(1), 
+Qin Y(1), Li B(1), Han X(1), Xiong WM(1), Si YF(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology Head and Neck Oncology, People's Hospital of
+Guangxi Zhuang Autonomous Region, 530021 Nanning, China.
+
+Objective: To evaluate the diagnostic value and feasibility of narrow-band
+imaging in detection of recurrent nasopharyngeal carcinoma (NPC). Methods: One
+thousand three hundred and sixty-four NPC patients who had completed NPC
+treatment were enrolled. All patients were followed-up with imaging, serological 
+examination of EB virus and nasopharyngeal endoscopy(WL and NBI mode), in which
+(1) both white light (WL) and NBI modes were done; (2) positive endoscopic
+patients were given nasopharyngeal biopsy; (3) using histologic finding as
+criterion standard, the sensitivity, specificity, accuracy and Yonden's index of 
+two modes were compared. Kappa index was used to evaluate the consistency between
+the two modes and pathological results respectively; (4) the positive rates of WL
+and NBI in patients with early recurrent (stage Ⅰ+ Ⅱ) were compared. Results: A
+total of 265 cases were suspected as having recurrent lesions by endoscopy in WL 
+mode and 68 cases of them were pathologically diagnosed as having NPC; and 82
+cases were suspected as having recurrent lesions by endoscopy in NBI mode and 74 
+cases of them were pathologically diagnosed as having NPC. The sensitivity,
+specificity, accuracy and Yonden's index of WL mode were 91.89%, 0, 25.09% and
+-0.0811, respectively, with a kappa of -0.045; the sensitivity, specificity,
+accuracy and Yonden's index of NBI mode were 100.00%, 95.94%, 97.05% and 0.9594, 
+respectively. Conclusion: NBI has higher sensitivity, specificity, early
+diagnosis rate and Yonden's index than WL.
+
+Publisher: 目的： 探索窄带成像(narrow band imaging，NBI)技术在鼻咽癌复发中的诊断价值及可行性。 方法：
+对广西壮族自治区人民医院耳鼻咽喉头颈肿瘤科2013年1月1日至2015年12月31日初程治疗结束后肿瘤完全消退的1
+364例鼻咽癌患者进行治疗后的复查。复查项目：鼻咽颅底MRI、胸片X线、腹部B超、EB病毒血清学检查、内镜检查(白光及NBI模式)及鼻咽部活组织检查。高清电子鼻咽
+镜检查中白光模式或NBI模式下阳性者均对镜检可疑部位取鼻咽部病理活检；以鼻咽部活检结果作为诊断的金标准，分别计算两种模式镜检的敏感性、特异性、诊断符合率(diag
+nose accordance rate, DAR)及约登指数(Yonden′s
+index)，并使用χ(2)检验进行对比；计算两种模式镜检查的Kappa指数，了解两种模式内镜检查结果与病理活检结果的一致性。计算已确诊的复发早期患者(Ⅰ期＋Ⅱ期
+)中NBI模式下及白光模式下镜检阳性例数及阳性率。 结果：
+白光模式镜检阳性265例，病理确诊鼻咽癌68例；NBI模式镜检阳性82例，病理确诊鼻咽癌74例。白光模式敏感度为91.89%，特异度为0，诊断符合率为25.09%
+，约登指数为－0.081
+1，白光模式对鼻咽癌高危人群的诊断与活检病理结果的一致性差(Kappa系数＝－0.045)；NBI模式敏感度为100.00%，特异度为95.94%，诊断符合率为9
+7.05%，约登指数为0.959
+4，NBI对鼻咽癌高危人群的诊断与活检病理结果的一致性极好(Kappa系数＝0.928)。复发早期患者31例，白光及NBI模式内镜检查阳性率分别为80.65%和1
+00.00%，差异有统计学意义，P＝0.024。 结论：
+NBI模式内镜检查相对于白光模式内镜检查具有更高的敏感度、特异度、诊断符合率及约登指数。且早期诊断率明显高于白光模式内镜。.
+DOI: 10.3760/cma.j.issn.1673-0860.2017.12.004 
+PMID: 29262446  [Indexed for MEDLINE]

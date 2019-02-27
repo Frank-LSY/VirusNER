@@ -1,0 +1,33 @@
+
+
+1812. Head Neck. 2009 Mar;31(3):318-27. doi: 10.1002/hed.20977.
+
+Cell cycle and viral and immunologic profiles of head and neck squamous cell
+carcinoma as predictable variables of tumor progression.
+
+Rittà M(1), De Andrea M, Mondini M, Mazibrada J, Giordano C, Pecorari G, Garzaro 
+M, Landolfo V, Schena M, Chiusa L, Landolfo S.
+
+Author information: 
+(1)Department of Public Health and Microbiology, Medical School of Turin, Turin, 
+Italy.
+
+BACKGROUND: The aim of this study was to determine whether the aberrant
+expression of cell-cycle or immune-response markers together with human
+papillomavirus (HPV) positivity impacts patient survival in different head and
+neck squamous cell carcinoma (HNSCC) subsets.
+METHODS: A total of 59 HNSCC specimens were analyzed for expression of cell cycle
+and proliferation markers, and macrophage infiltration. HPV was evaluated by
+polymerase chain reaction and DNA sequencing.
+RESULTS: The HPV presence in oropharynx carcinoma was associated with survival
+advantage. Low Ki67 expression was associated with favorable outcome in
+oropharynx and oral cavity carcinoma. A more favorable outcome was associated
+with low cyclin E expression in larynx carcinoma and with low p53 expression in
+squamous cell carcinoma (SCC) of the oral cavity. A direct correlation between
+macrophage infiltration and tumor proliferation index was observed irrespective
+of the tumor subset.
+CONCLUSIONS: The assessment of proliferation, viral, and immunologic profiles may
+be crucial to finding beneficial treatments for the different HNSCC subsets.
+
+DOI: 10.1002/hed.20977 
+PMID: 19072995  [Indexed for MEDLINE]

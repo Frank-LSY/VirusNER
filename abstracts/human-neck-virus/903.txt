@@ -1,0 +1,58 @@
+
+
+903. Oral Oncol. 2016 Nov;62:1-10. doi: 10.1016/j.oraloncology.2016.08.016. Epub 2016 
+Sep 13.
+
+Langerhans cell number is a strong and independent prognostic factor for head and
+neck squamous cell carcinomas.
+
+Kindt N(1), Descamps G(1), Seminerio I(1), Bellier J(1), Lechien JR(1), Pottier
+C(2), Larsimont D(3), Journé F(4), Delvenne P(2), Saussez S(5).
+
+Author information: 
+(1)Laboratory of Anatomy and Cellular Biology, Research Institute for Health
+Sciences and Technology, Faculty of Medicine and Pharmacy, University of Mons,
+7000 Mons, Belgium.
+(2)Department of Pathology, C.H.U. - SART TILMAN, University of Liège, 4000
+Liège, Belgium.
+(3)Department of Anatomopathology, Institut Jules Bordet, Université Libre de
+Bruxelles, 1000 Brussels, Belgium.
+(4)Laboratory of Anatomy and Cellular Biology, Research Institute for Health
+Sciences and Technology, Faculty of Medicine and Pharmacy, University of Mons,
+7000 Mons, Belgium; Laboratory of Oncology and Experimental Surgery, Institut
+Jules Bordet, Université Libre de Bruxelles, 1000 Brussels, Belgium.
+(5)Laboratory of Anatomy and Cellular Biology, Research Institute for Health
+Sciences and Technology, Faculty of Medicine and Pharmacy, University of Mons,
+7000 Mons, Belgium; Department of Oto-Rhino-Laryngology, Faculty of Medicine,
+Université Libre de Bruxelles, CHU Saint-Pierre, 1000 Brussels, Belgium.
+Electronic address: sven.saussez@umons.ac.be.
+
+OBJECTIVES: Head and neck squamous cell carcinomas (HNSCCs) exhibit great
+biological heterogeneity and relatively poor prognosis. Tobacco and alcohol
+consumption is involved in the cause of the majority of these cancers, but over
+the last several years, Human Papilloma Virus (HPV) infection has increased
+specifically in oropharyngeal cancers and become an additional risk factor. Here,
+we evaluated the number of Langerhans cells (LCs) in HNSCC and reporting its
+prognostic power in comparison to other risk factors.
+MATERIALS AND METHODS: Our clinical series was composed of 25 tumor-free
+peritumoral epithelium, 64 low-grade dysplasia, 54 high-grade dysplasia and 125
+carcinoma samples. HPV was detected by E6/E7 qPCR and p16 immunohistochemistry.
+CD1a-positive LCs were counted in intra-tumoral and stromal compartments as well 
+as lymph nodes. MIP-3α was assessed in carcinomas using immunohistochemistry.
+RESULTS: Univariate Cox regression analyses demonstrated that high LC number is
+associated with longer recurrence-free survival in both intra-tumoral and stromal
+compartments and longer overall survival in stromal compartment. Tobacco and
+alcohol habits, but not HPV status, are also correlated with poor prognoses in
+terms of recurrence. Multivariate analyses reported stromal LC number as a strong
+prognostic factor independent of tobacco, alcohol and HPV status. Moreover, LC
+number is higher in tumors and invaded lymph nodes than dysplastic lesions but it
+decreases in HPV-positive cancer patients. Further, LC number correlates with
+MIP-3α expression.
+CONCLUSION: These findings suggest that LC number is a significant and
+independent prognostic factor for HNSCC. LC infiltration is increased in cancer
+lesions but decrease with HPV infection.
+
+Copyright © 2016 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2016.08.016 
+PMID: 27865360  [Indexed for MEDLINE]

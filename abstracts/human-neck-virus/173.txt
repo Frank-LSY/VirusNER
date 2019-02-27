@@ -1,0 +1,39 @@
+
+
+173. Viruses. 2017 Jul 5;9(7). pii: E174. doi: 10.3390/v9070174.
+
+Virus/Host Cell Crosstalk in Hypoxic HPV-Positive Cancer Cells.
+
+Hoppe-Seyler K(1), Mändl J(2)(3), Adrian S(4), Kuhn BJ(5), Hoppe-Seyler F(6).
+
+Author information: 
+(1)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), D-69120 Heidelberg, Germany. k.hoppe-seyler@dkfz.de.
+(2)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), D-69120 Heidelberg, Germany. j.maendl@dkfz.de.
+(3)Viral Transformation Mechanisms (F030), German Cancer Research Center (DKFZ), 
+D-69120 Heidelberg, Germany. j.maendl@dkfz.de.
+(4)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), D-69120 Heidelberg, Germany. s.adrian@dkfz.de.
+(5)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), D-69120 Heidelberg, Germany. bianca.kuhn@dkfz.de.
+(6)Molecular Therapy of Virus-Associated Cancers (F065), German Cancer Research
+Center (DKFZ), D-69120 Heidelberg, Germany. hoppe-seyler@dkfz.de.
+
+Oncogenic types of human papillomaviruses (HPVs) are major human carcinogens. The
+expression of the viral E6/E7 oncogenes plays a key role for HPV-linked
+oncogenesis. It recently has been found that low oxygen concentrations
+("hypoxia"), as present in sub-regions of HPV-positive cancers, strongly affect
+the interplay between the HPV oncogenes and their transformed host cell. As a
+result, a state of dormancy is induced in hypoxic HPV-positive cancer cells,
+which is characterized by a shutdown of viral oncogene expression and a
+proliferative arrest that can be reversed by reoxygenation. In this review, these
+findings are put into the context of the current concepts of both HPV-linked
+carcinogenesis and of the effects of hypoxia on tumor biology. Moreover, we
+discuss the consequences for the phenotype of HPV-positive cancer cells as well
+as for their clinical behavior and response towards established and prospective
+therapeutic strategies.
+
+DOI: 10.3390/v9070174 
+PMCID: PMC5537666
+PMID: 28678198  [Indexed for MEDLINE]

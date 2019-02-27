@@ -1,0 +1,43 @@
+
+
+3012. Am J Otolaryngol. 2010 Mar-Apr;31(2):104-9. doi: 10.1016/j.amjoto.2008.11.010.
+Epub 2009 Mar 27.
+
+The dilemma of midline destructive lesions: a case series and diagnostic review.
+
+Parker NP(1), Pearlman AN, Conley DB, Kern RC, Chandra RK.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, University of Minnesota,
+Minneapolis, MN, USA.
+
+BACKGROUND: Midline destructive lesions (MDLs) of the nose are a diagnostic
+dilemma due to an extensive differential diagnosis and vague presenting signs and
+symptoms. Etiologies may be neoplastic, autoimmune, traumatic, infectious, or
+unknown.
+STUDY DESIGN: Case series and review of the literature were done.
+METHODS: Medical records of 8 patients presenting with an MDL were reviewed.
+RESULTS: Each patient received nasal endoscopy, computed tomography scan of the
+sinuses, laboratory workup, culture (aerobes, anaerobes, fungus, and acid-fast
+bacilli), and biopsy with flow cytometry. Laboratory tests included complete
+blood count, basic metabolic panel, erythrocyte sedimentation rate,
+angiotensin-converting enzyme, antineutrophil antibodies, rheumatoid factor,
+anti-Ro and anti-La antibodies, Epstein-Barr virus antibodies, coccidiomycosis
+serology, HIV antibodies, fluorescent treponemal antibody absorption, classic
+antineutrophil cytoplasmic antibodies, perinuclear antineutrophil cytoplasmic
+antibody, proteinase 3, and myeloperoxidase. Choice of diagnostic study was
+individualized for each patient. Two patients were diagnosed with natural
+killer/T-cell lymphoma, 2 were diagnosed with Wegener's granulomatosis, and 4
+remained idiopathic, despite the extensive workup. A diagnostic algorithm to aid 
+in the approach to MDLs is presented.
+CONCLUSIONS: The diagnosis of MDLs remains difficult but is aided by a systematic
+approach and familiarity with multiple diagnostic techniques. It is imperative to
+take multiple tissue specimens from various sites, send them fresh, and
+communicate suspicion of lymphoma. Despite diagnostic advances and improved
+understanding of the diseases underlying MDLs, an etiology is often not
+identified.
+
+Copyright (c) 2010 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.amjoto.2008.11.010 
+PMID: 20015726  [Indexed for MEDLINE]

@@ -1,0 +1,50 @@
+
+
+1445. Laryngoscope. 2018 Oct;128(10):2333-2340. doi: 10.1002/lary.27155. Epub 2018 Mar 
+9.
+
+Nodal response after 46 Gy of intensity-modulated radiotherapy is associated with
+human papillomavirus-related oropharyngeal carcinoma.
+
+Dronkers EAC(1), Koljenovic S(2), Verduijn GM(3), Baatenburg de Jong RJ(1),
+Hardillo JAU(1).
+
+Author information: 
+(1)Department of Otorhinolaryngology and Head and Neck Surgery, Rotterdam, the
+Netherlands.
+(2)Department of Pathology, Rotterdam, the Netherlands.
+(3)Department of Radiotherapy, Erasmus University Medical Center Cancer
+Institute, Rotterdam, the Netherlands.
+
+OBJECTIVES/HYPOTHESIS: This study aimed to analyze the effect of human
+papillomavirus (HPV)-associated T1-2 node-positive oropharyngeal squamous cell
+carcinoma (OPSCC) on nodal response, recurrent disease, and survival in patients 
+treated according to the Rotterdam protocol.
+STUDY DESIGN: Retrospective cohort study.
+METHODS: In total, 77 patients with T1-2 OPSCC with nodal disease, treated
+between 2000 and 2012, were included in this study. Patients were treated
+according to the Rotterdam protocol: 46 Gy of IMRT followed by a local boost
+using cyberknife or brachytherapy (22 Gy) and neck dissection. The presence of
+HPV was determined by p16INK4A immunostaining. Outcomes were overall survival,
+disease-free survival, and the extent of nodal response. Nodal stage was
+determined following the 7th and 8th American Joint Cancer Committee/Union for
+International Cancer Control classification.
+RESULTS: Overall, 68.4% of patients had p16-positive disease, and 35.4% of all
+patients achieved complete nodal response (pN0) after 46 Gy of
+intensity-modulated radiotherapy (IMRT). Based on the 7th TNM classification,
+nodal response (partial or complete) was significantly associated with HPV status
+(P = .002). Patients with p16-positive OPSCC had an odds ratio (OR) of 4.6 to
+achieve complete nodal response. However, smoking interacted with this effect.
+Applying the 8th TNM classification, complete or partial response was associated 
+with HPV status but was not significant (OR: 1.7, P = .138). Complete nodal
+response led to 100% overall survival in p16-positive OPSCC patients.
+CONCLUSIONS: HPV-related OPSCCs are associated with complete nodal response after
+46 Gy of IMRT. Patients with full regional control (pN0) after IMRT and
+subsequent neck dissection show a significantly better overall survival, but
+smoking negatively interacts with this effect.
+LEVEL OF EVIDENCE: 4. Laryngoscope, 128:2333-2340, 2018.
+
+© 2018 The American Laryngological, Rhinological and Otological Society, Inc.
+
+DOI: 10.1002/lary.27155 
+PMID: 29521420  [Indexed for MEDLINE]

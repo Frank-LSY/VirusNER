@@ -1,0 +1,58 @@
+
+
+2231. PLoS One. 2017 Jun 26;12(6):e0179520. doi: 10.1371/journal.pone.0179520.
+eCollection 2017.
+
+The economic burden of human papillomavirus-related precancers and cancers in
+Sweden.
+
+Östensson E(1)(2), Silfverschiöld M(3), Greiff L(3), Asciutto C(4), Wennerberg
+J(3), Lydrup ML(5), Håkansson U(6), Sparén P(1), Borgfeldt C(4).
+
+Author information: 
+(1)Department of Medical Epidemiology and Biostatistics, Karolinska Institutet,
+Stockholm, Sweden.
+(2)Department of Women´s and Children´s Health, Division of Obstetrics and
+Gynecology, Karolinska Institutet, Stockholm, Sweden.
+(3)Department of Otorhinolaryngology Head & Neck Surgery, Skånes University
+Hospital, Lund University, Lund, Sweden.
+(4)Department of Obstetrics and Gynecology, Skånes University Hospital, Lund
+University, Lund, Sweden.
+(5)Department of Experimental Medical Science, Lund University, Lund, Sweden.
+(6)Department of Urology, Skånes University Hospital, Lund University, Malmö,
+Sweden.
+
+Erratum in
+    PLoS One. 2018 Jul 9;13(7):e0200554.
+
+BACKGROUND: High-risk (HR) human papillomavirus (HPV) infection is an established
+cause of malignant disease. We used a societal perspective to estimate the cost
+of HR HPV-related cervical, vulvar, vaginal, anal, and penile precancer and
+cancer, and oropharyngeal cancer in Sweden in 2006, 1 year before HPV vaccination
+became available in the country.
+MATERIALS AND METHODS: This prevalence-based cost-of-illness study used
+diagnosis-specific data from national registries to determine the number of HR
+HPV-related precancers and cancers. The HR HPV-attributable fractions of these
+diseases were derived from a literature review and applied to the total burden to
+estimate HR HPV-attributable costs. Direct costs were based on health care
+utilization and indirect costs on loss of productivity due to morbidity (i.e.,
+sick leave and early retirement) and premature mortality.
+RESULTS: The total annual cost of all HR HPV-attributable precancers and cancers 
+was €94 million (€10.3/inhabitant). Direct costs accounted for €31.3 million
+(€3.4/inhabitant) of the total annual cost, and inpatient care amounted to €20.7 
+million of direct costs. Indirect costs made up €62.6 million (€6.9/inhabitant)
+of the total annual cost, and premature mortality amounted to €36 million of
+indirect costs. Cervical precancer and cancer was most costly (total annual cost 
+€58.4 million). Among cancers affecting both genders, anal precancer and cancer, 
+and oropharyngeal cancer were the most costly (€11.2 million and €11.9 million,
+respectively). For oropharyngeal cancer, males had the highest health care
+utilization and represented 71% of the total annual cost. Penile precancer and
+cancer was least costly (€2.6 million).
+CONCLUSION: The economic burden of HR HPV-related precancers and cancers is
+substantial. The disease-related management and treatment costs we report are
+relevant as a point of reference for future economic evaluations investigating
+the overall benefits of HPV vaccination in females and males in Sweden.
+
+DOI: 10.1371/journal.pone.0179520 
+PMCID: PMC5484479
+PMID: 28651012  [Indexed for MEDLINE]

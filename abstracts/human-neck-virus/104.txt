@@ -1,0 +1,49 @@
+
+
+104. Vaccine. 2017 Dec 4;35(48 Pt B):6691-6699. doi: 10.1016/j.vaccine.2017.10.018.
+Epub 2017 Oct 25.
+
+The M2 protein of live, attenuated influenza vaccine encodes a mutation that
+reduces replication in human nasal epithelial cells.
+
+Wohlgemuth N(1), Ye Y(1), Fenstermacher KJ(1), Liu H(1), Lane AP(2), Pekosz A(3).
+
+Author information: 
+(1)W. Harry Feinstone Department of Molecular Microbiology and Immunology, The
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+(2)Department of Otolaryngology - Head and Neck Surgery, Johns Hopkins Outpatient
+Center, Johns Hopkins School of Medicine, Baltimore, MD, USA.
+(3)W. Harry Feinstone Department of Molecular Microbiology and Immunology, The
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA; Department
+of Environmental Health Sciences, The Johns Hopkins Bloomberg School of Public
+Health, Baltimore, MD, USA. Electronic address: apekosz1@jhu.edu.
+
+The influenza A virus components of the live, attenuated influenza vaccine (LAIV)
+encode the HA and NA gene segments from a circulating virus strain and the
+remaining gene segments from the cold-adapted master donor virus, A/Ann
+Arbor/6/1960 (H2N2). The master donor virus imparts at least three phenotypes:
+temperature-sensitivity (ts), attenuation (att), and cold-adaption (ca). The
+genetic loci responsible for the att and ts phenotypes of LAIV were mapped to
+PB1, PB2, and NP by reverse genetics experiments using immortalized cell lines.
+However, some in vivo studies have demonstrated that the M segment, which
+acquired an alanine (Ala) to serine (Ser) mutation at M2 position 86 during cold 
+adaption - a mutation found in no other influenza A virus strain - contributes to
+the att phenotype. Prior studies have shown this region of the M2 cytoplasmic
+tail to be critical for influenza virus replication. Using reverse genetics, we
+demonstrate that certain amino acid substitutions at M2 positions 83 and 86 alter
+the replication of influenza A/Udorn/307/72 (H3N2). Importantly, substitution of 
+a Ser at M2 position 86 reduces A/Udorn/307/72 replication in differentiated
+primary human nasal epithelial cell (hNECs) cultures, but does not considerably
+affect replication in MDCK cells. When a Ser was substituted for Ala at M2 86 in 
+LAIV, the virus replicated to higher titers and with faster kinetics in hNEC
+cultures, implicating this amino acid change as contributing to LAIV attenuation.
+Increased replication also resulted in increased production of IFN-λ. These data 
+indicate the LAIV associated Ser mutation at M2 position 86 contributes to the
+att phenotype and is associated with a differential regulation of interferon in
+LAIV infection.
+
+Copyright © 2017 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.vaccine.2017.10.018 
+PMCID: PMC5696008
+PMID: 29079099  [Indexed for MEDLINE]

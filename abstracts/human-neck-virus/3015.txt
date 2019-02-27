@@ -1,0 +1,48 @@
+
+
+3015. J Pathol. 2013 Oct;231(2):158-67. doi: 10.1002/path.4240.
+
+Identification of a recurrent transforming UBR5-ZNF423 fusion gene in
+EBV-associated nasopharyngeal carcinoma.
+
+Chung GT(1), Lung RW, Hui AB, Yip KY, Woo JK, Chow C, Tong CY, Lee SD, Yuen JW,
+Lun SW, Tso KK, Wong N, Tsao SW, Yip TT, Busson P, Kim H, Seo JS, O'Sullivan B,
+Liu FF, To KF, Lo KW.
+
+Author information: 
+(1)Department of Anatomical and Cellular Pathology, State Key Laboratory in
+Oncology in South China, Prince of Wales Hospital, The Chinese University of Hong
+Kong, SAR; Li Ka Shing Institute of Health Science, The Chinese University of
+Hong Kong, SAR.
+
+Nasopharyngeal carcinoma (NPC) is a distinct type of head and neck cancer which
+is prevalent in southern China, south-east Asia and northern Africa. The
+development and stepwise progression of NPC involves accumulation of multiple
+gross genetic changes during the clonal expansion of Epstein-Barr virus
+(EBV)-infected nasopharyngeal epithelial cell population. Here, using paired-end 
+whole-transcriptome sequencing, we discovered a number of chimeric fusion
+transcripts in a panel of EBV-positive tumour lines. Among these transcripts, a
+novel fusion of ubiquitin protein ligase E3 component n-recognin 5 (UBR5) on
+8q22.3 and zinc finger protein 423 (ZNF423) on 16q12.1, identified from the NPC
+cell line C666-1, was recurrently detected in 12/144 (8.3%) of primary tumours.
+The fusion gene contains exon 1 of UBR5 and exons 7-9 of ZNF423 and produces a 94
+amino acid chimeric protein including the original C-terminal EBF binding domain 
+(ZF29-30) of ZNF423. Notably, the growth of NPC cells with UBR5-ZNF423
+rearrangement is dependent on expression of this fusion protein. Knock-down of
+UBR5-ZNF423 by fusion-specific siRNA significantly inhibited the cell
+proliferation and colony-forming ability of C666-1 cells. The transforming
+ability of UBR5-ZNF423 fusion was also confirmed in NIH3T3 fibroblasts.
+Constitutive expression of UBR5-ZNF423 in NIH3T3 fibroblasts significantly
+enhanced its anchorage-independent growth in soft agar and induced tumour
+formation in a nude mouse model. These findings suggest that expression of
+UBR5-ZNF423 protein might contribute to the transformation of a subset of NPCs,
+possibly by altering the activity of EBFs (early B cell factors). Identification 
+of the oncogenic UBR5-ZNF423 provides new potential opportunities for therapeutic
+intervention in NPC.
+
+© 2013 The Authors. Journal of Pathology published by John Wiley & Sons Ltd on
+behalf of Pathological Society of Great Britain and Ireland.
+
+DOI: 10.1002/path.4240 
+PMCID: PMC4166696
+PMID: 23878065  [Indexed for MEDLINE]

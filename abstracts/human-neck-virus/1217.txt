@@ -1,0 +1,46 @@
+
+
+1217. J Oral Pathol Med. 2014 Feb;43(2):137-42. doi: 10.1111/jop.12123. Epub 2013 Oct
+11.
+
+No evidence for active human papillomavirus (HPV) in fields surrounding
+HPV-positive oropharyngeal tumors.
+
+Rietbergen MM(1), Braakhuis BJ, Moukhtari N, Bloemena E, Brink A, Sie D, Ylstra
+B, Baatenburg de Jong RJ, Snijders PJ, Brakenhoff RH, Leemans CR.
+
+Author information: 
+(1)Department of Otolaryngology/Head and Neck Surgery, VU University Medical
+Center, Amsterdam, The Netherlands.
+
+BACKGROUND: Patients with human papillomavirus (HPV)-positive oropharyngeal
+squamous cell carcinomas (OPSCCs) have a better prognosis than patients with
+HPV-negative OPSCCs. Important factors contributing to this better prognosis are 
+relatively low numbers of local/regional recurrences (LRRs) and second primary
+tumors (SPTs) in patients with HPV-positive OPSCC. These low numbers may be
+explained in addition by the absence of a 'field cancerization' effect, which is 
+a cause of LRRs and SPTs in patients with HPV-negative OPSCC. We aimed to detect 
+a possible 'field effect' in patients with HPV-positive OPSCC. As HPV is involved
+in the early stage of carcinogenesis in OPSCCs, its presence is considered a
+reliable marker for the detection of such a field effect. Therefore, the presence
+of transcriptionally active HPV was analyzed in the mucosa surrounding
+HPV-positive OPSCCs.
+METHODS: We included 20 patients who were surgically treated for an HPV-positive 
+OPSCC in the period 2000-2006. Of each patient, the formalin-fixed
+paraffin-embedded tumor sample and all available resection margins were
+collected. In total, 97 resection margins were investigated with an average of
+five resection margins per tumor. All samples were analyzed for the presence of
+tumor and the presence of transcriptionally active HPV by HPV16-E6-mRNA
+detection.
+RESULTS: All tumors were HPV16-E6-mRNA positive. HPV16-E6-mRNA could be detected 
+in the resection margins that contained tumor (n = 6). All tumor-negative
+resection margins (n = 91) scored negative for HPV16-E6-mRNA.
+CONCLUSIONS: In conclusion, transcriptional active HPV could not be detected in
+the mucosa surrounding an HPV-positive OPSCC, which suggests the absence of field
+effect. This observation may explain the lower number of LRRs and SPTs in
+HPV-positive patients.
+
+© 2013 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd.
+
+DOI: 10.1111/jop.12123 
+PMID: 24118314  [Indexed for MEDLINE]

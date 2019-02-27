@@ -1,0 +1,47 @@
+
+
+2579. Otolaryngol Head Neck Surg. 2016 Apr;154(4):638-44. doi:
+10.1177/0194599815626147. Epub 2016 Jan 19.
+
+Educational Value of a Medical Student-Led Head and Neck Cancer Screening Event.
+
+Freiser ME(1), Desai DD(1), Azcarate PM(1), Szczupak M(1), Cohen ER(1), Raffa
+FN(1), George JS(1), Lo K(2), Nayak CS(1), Weed DT(1), Sargi ZB(3).
+
+Author information: 
+(1)Department of Otolaryngology, University of Miami Miller School of Medicine,
+Miami, Florida, USA.
+(2)Biostatistics Collaboration and Consulting Core, Division of Biostatistics,
+Department of Public Health Sciences, University of Miami, Miami, Florida, USA.
+(3)Department of Otolaryngology, University of Miami Miller School of Medicine,
+Miami, Florida, USA ZSargi@med.miami.edu.
+
+OBJECTIVE: To evaluate improvement of medical student knowledge of head and neck 
+cancer (HNC) through participation in HNC screening fairs run by medical
+students.
+STUDY DESIGN: Prospective cohort study of surveys assessing medical students'
+knowledge of HNC before and after volunteering at screening fairs.
+SETTING: Four screening fairs held at the University of Miami Miller School of
+Medicine during Oral, Head and Neck Cancer Awareness Week.
+SUBJECTS: Medical student screening fair volunteers.
+METHODS: Four HNC screening fairs were organized by medical student volunteers.
+All students completed a preevent survey assessing baseline knowledge and
+participated in an otolaryngologist-led training session about HNC and the
+screening examination. During the screening events, students educated guests
+about HNC and performed physician-guided history and physical examinations.
+Finally, students completed identical surveys 1 week and 3 months after the
+event.
+RESULTS: Thirty-four (n = 34) students completed the preevent surveys. At
+baseline, 59%, 44%, and 24% named tobacco, alcohol, and human papilloma virus as 
+risk factors, compared with 84%, 81%, and 69% on 3 month follow-up, respectively.
+Out of 6 analyzed questions, the median total number of correctly answered
+questions improved from 2 on pretest to 5 at 3 months (P < .0001).
+CONCLUSION: Volunteer participation in a HNC screening program improves medical
+students' knowledge of HNC risk factors and symptoms. This innovative approach to
+students' education via participation and organization of screening events is a
+useful method of improving their HNC knowledge.
+
+© American Academy of Otolaryngology—Head and Neck Surgery Foundation 2016.
+
+DOI: 10.1177/0194599815626147 
+PMID: 26786264  [Indexed for MEDLINE]

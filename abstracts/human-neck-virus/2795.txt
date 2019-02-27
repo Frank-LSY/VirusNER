@@ -1,0 +1,41 @@
+
+
+2795. Otolaryngol Head Neck Surg. 2012 Feb;146(2):259-65. doi:
+10.1177/0194599811429271. Epub 2011 Nov 29.
+
+High prevalence of hearing impairment in HIV-infected Peruvian children.
+
+Chao CK(1), Czechowicz JA, Messner AH, Alarcón J, Kolevic Roca L, Larragán
+Rodriguez MM, Gutiérrez Villafuerte C, Montano SM, Zunt JR.
+
+Author information: 
+(1)Department of Otolaryngology-Head and Neck Surgery, Stanford University School
+of Medicine, Stanford, California, USA.
+
+OBJECTIVES: To measure the prevalence and to identify risk factors of hearing
+impairment in human immunodeficiency virus-infected children living in Peru.
+STUDY DESIGN: Cross-sectional observational study.
+SETTING: Two public hospitals and 1 nonprofit center in Lima, Peru, between
+August 2009 and April 2010.
+SUBJECTS: A total of 139 HIV-infected children, ages 4 to 19 years.
+METHODS: Hearing impairment and otologic health were assessed with pure tone
+audiometry, tympanometry, and otoscopy. The primary outcome was hearing loss,
+defined as average threshold >25dB for 0.5, 1, 2, and 4 kHz, in one or both ears.
+Historical and socioeconomic information was obtained through parental survey and
+medical chart review. Statistical analysis included univariate analysis and
+multivariate logistic regression.
+RESULTS: Fifty-four (38.8%) of 139 children had hearing impairment. On
+multivariate analysis, risk factors included: tympanic membrane perforation (odds
+ratio [OR] 7.08; 95% confidence interval [CI], 1.65-30.5; P = .01), abnormal
+tympanometry (OR 2.71; 95% CI, 1.09-6.75; P = .03), cerebral infection (OR 11.6; 
+95% CI, 1.06-126; P = .05), seizures (OR 5.20; 95% CI, 1.21-22.4; P = .03), and
+CD4 cell count <500 cells/mm(3) (OR 3.53; 95% CI, 1.18-10.5; P = .02).
+CONCLUSIONS: The prevalence of hearing impairment in HIV-infected children in
+Lima, Peru was 38.8%. Middle ear disease, prior cerebral infection, and low CD4
+cell count were significantly associated with hearing impairment. The high
+prevalence of hearing impairment emphasizes the need for periodic hearing
+assessment in the routine clinical care of HIV-infected children.
+
+DOI: 10.1177/0194599811429271 
+PMCID: PMC3593743
+PMID: 22128111  [Indexed for MEDLINE]

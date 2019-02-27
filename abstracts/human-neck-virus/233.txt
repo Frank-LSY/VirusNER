@@ -1,0 +1,38 @@
+
+
+233. Exp Mol Pathol. 2017 Feb;102(1):47-49. doi: 10.1016/j.yexmp.2016.12.004. Epub
+2016 Dec 7.
+
+Utility of the Roche Cobas 4800 for detection of high-risk human papillomavirus
+in formalin-fixed paraffin-embedded oropharyngeal squamous cell carcinoma.
+
+Pettus JR(1), Wilson TL(1), Steinmetz HB(1), Lefferts JA(1), Tafe LJ(2).
+
+Author information: 
+(1)Department of Pathology and Laboratory Medicine, Dartmouth-Hitchcock Medical
+Center, Lebanon, NH, United States.
+(2)Department of Pathology and Laboratory Medicine, Dartmouth-Hitchcock Medical
+Center, Lebanon, NH, United States. Electronic address:
+Laura.J.Tafe@Hitchcock.org.
+
+Clinical laboratories are expected to reliably identify human papilloma virus
+(HPV) associated oropharyngeal squamous cell carcinoma (OPSCC) for prognostic and
+potential therapeutic applications. In addition to surrogate p16
+immunohistochemistry (IHC) testing, DNA-based HPV-specific testing strategies are
+widely utilized. Recognizing the efficiency of the Roche Cobas 4800 platform for 
+testing gynecological cytology specimens for high-risk HPV, we elected to
+evaluate the potential utility of this platform for testing formalin-fixed
+paraffin-embedded (FFPE) OPSCC tissue. Using the Roche Linear Array assay for
+comparison, we tested twenty-eight samples (16 primary OPSCC, 2 lymph node
+metastases from primary OPSCC, 1 oral tongue carcinoma, 3 benign squamous
+papillomas, and 3 non-oropharyngeal carcinoma tissues). Excluding two invalid
+results, the Roche Cobas 4800 testing resulted in excellent inter-assay
+concordance (25/26, 96.2%) and 100% concordance for HPV-16/HPV-18 positive
+samples. This data suggests that the Roche Cobas 4800 platform may be a
+cost-effective method for testing OPSCC FFPE tissues in a clinical molecular
+pathology laboratory setting.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.yexmp.2016.12.004 
+PMID: 27939577  [Indexed for MEDLINE]

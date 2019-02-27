@@ -1,0 +1,21 @@
+
+
+45. Microbes Infect. 2002 Feb;4(2):189-99.
+
+Nef: agent of cell subversion.
+
+Arora VK(1), Fredericksen BL, Garcia JV.
+
+Author information: 
+(1)Department of Internal Medicine, Division of Infectious Diseases Y9.206,
+University of Texas Southwestern Medical Center at Dallas, 5323 Harry Hines
+Blvd., Dallas, TX 75390-9113, USA. vivek.arora@utsouthwestern.edu
+
+Primate lentiviruses encode a small protein designated Nef that has been shown to
+be a major determinant of virus pathogenicity. Nef regulates multiple host
+factors in order to optimize the cellular environment for virus replication. The 
+mechanisms by which this small protein modulates distinct host cell properties
+provide intriguing insight into the intricate interaction between virus and host.
+
+
+PMID: 11880052  [Indexed for MEDLINE]

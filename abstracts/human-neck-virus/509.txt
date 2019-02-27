@@ -1,0 +1,33 @@
+
+
+509. Hematol Oncol Clin North Am. 2015 Dec;29(6):1045-60. doi:
+10.1016/j.hoc.2015.08.003. Epub 2015 Oct 17.
+
+Anticipation of the Impact of Human Papillomavirus on Clinical Decision Making
+for the Head and Neck Cancer Patient.
+
+Gillison ML(1), Restighini C(2).
+
+Author information: 
+(1)Cancer Control and Prevention Program, The Ohio State University Comprehensive
+Cancer Center, The Ohio State University, 420 West 12th Avenue, Room 620,
+Columbus, OH 43210, USA. Electronic address: Maura.gillison@osumc.edu.
+(2)Medical Oncology, Istituto Nazionale dei Tumori, Via G. Venezian, 1, Milano
+20133, Italy.
+
+Human papillomavirus (HPV) is the cause of a distinct subset of oropharyngeal
+cancer rising in incidence in the United States and other developed countries.
+This increased incidence, combined with the strong effect of tumor HPV status on 
+survival, has had a profound effect on the head and neck cancer discipline. The
+multidisciplinary field of head and neck cancer is in the midst of re-evaluating 
+evidence-based algorithms for clinical decision making, developed from clinical
+trials conducted in an era when HPV-negative cancer predominated. This article
+reviews relationships between tumor HPV status and gender, cancer incidence
+trends, overall survival, treatment response, racial disparities, tumor staging, 
+risk stratification, survival post disease progression, and clinical trial
+design.
+
+Copyright © 2015 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.hoc.2015.08.003 
+PMID: 26568547  [Indexed for MEDLINE]

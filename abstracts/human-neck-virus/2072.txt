@@ -1,0 +1,46 @@
+
+
+2072. Radiother Oncol. 2015 Oct;117(1):118-24. doi: 10.1016/j.radonc.2015.08.025. Epub 
+2015 Aug 29.
+
+The association of (18)F-FDG PET and glucose metabolism biomarkers GLUT1 and HK2 
+in p16 positive and negative head and neck squamous cell carcinomas.
+
+Baschnagel AM(1), Wobb JL(2), Dilworth JT(2), Williams L(3), Eskandari M(3), Wu
+D(4), Pruetz BL(5), Wilson GD(6).
+
+Author information: 
+(1)Department of Human Oncology, University of Wisconsin, Madison, USA.
+(2)Department of Radiation Oncology, William Beaumont Hospital, Royal Oak, USA.
+(3)Department of Pathology, William Beaumont Hospital, Royal Oak, USA.
+(4)Department of Nuclear Medicine, William Beaumont Hospital, Royal Oak, USA.
+(5)Beaumont Biobank, William Beaumont Hospital, Royal Oak, USA.
+(6)Department of Radiation Oncology, William Beaumont Hospital, Royal Oak, USA.
+Electronic address: George.Wilson@Beaumont.edu.
+
+OBJECTIVES: To investigate the relationship between FDG-PET maximum standard
+uptake value (SUVmax), p16, EGFR, GLUT1 and HK2 expression in head and neck
+squamous cell carcinomas (HNSCC).
+MATERIALS AND METHODS: Immunohistochemical staining of p16, EGFR, GLUT1 and HK2
+was performed on primary tumor tissue from 97 locally advanced HNSCC patients
+treated with definitive chemoradiation. SUVmax along with p16, EGFR, GLUT1 and
+HK2 expression were analyzed for associations including local control,
+locoregional control and disease free survival.
+RESULTS: Pretreatment SUVmax in primary tumors did not differ when stratified by 
+p16, EGFR or GLUT1 expression but SUVmax was significantly higher in HK2
+expressing tumors (p=0.021) and in tumors with higher T-stage (p=0.022). GLUT1
+expression was significantly higher in p16 negative (p<0.001) and EGFR positive
+tumors (p<0.01). HK2 expressing tumors were associated with EGFR positive tumors 
+(p=0.022) but not with p16 or GLUT1 expression. EGFR positive, p16 negative and
+high GLUT1 expressing tumors were associated with worse local control and disease
+free survival on univariate analyses. After adjusting for patient and treatment
+characteristics p16 status was the only factor that predicted for outcome on
+multivariate analysis.
+CONCLUSIONS: High GLUT1 expression was associated with EGFR positive and p16
+negative HNSCC tumors. GLUT1 maybe an important biomarker in HNSCC but its
+expression appears dependent on p16 status.
+
+Copyright © 2015 Elsevier Ireland Ltd. All rights reserved.
+
+DOI: 10.1016/j.radonc.2015.08.025 
+PMID: 26328941  [Indexed for MEDLINE]

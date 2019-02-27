@@ -1,0 +1,51 @@
+
+
+1389. Immunol Lett. 2017 Nov;191:31-34. doi: 10.1016/j.imlet.2017.08.026. Epub 2017 Aug
+30.
+
+Enhanced TH2-like peripheral adaptive immune responses in Juvenile-onset
+Recurrent Respiratory Papillomatosis (JORRP).
+
+Xiao Y(1), Wu X(2), Ma L(1), Gui J(2), Bai L(1), Ni X(3), Wang J(4).
+
+Author information: 
+(1)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren Hospital, 
+Capital Medical University, Beijing, China.
+(2)Key Laboratory of Major Diseases in Children, Ministry of Education, Beijing
+Children's Hospital, Capital Medical University, Beijing, China; Laboratory of
+Immunology, Beijing Pediatric Research Institute, Beijing Children's Hospital,
+Capital Medical University, Beijing, China.
+(3)Key Laboratory of Major Diseases in Children, Ministry of Education, Beijing
+Children's Hospital, Capital Medical University, Beijing, China; Beijing Key
+Laboratory for Pediatric Diseases of Otolaryngology, Head and Neck Surgery,
+Beijing Pediatric Research Institute, Beijing Children's Hospital, Capital
+Medical University, Beijing, China; Department of Otolaryngology, Head and Neck
+Surgery, Beijing Children's Hospital, Capital Medical University, Beijing.
+Electronic address: Nixin@bch.com.cn.
+(4)Department of Otolaryngology Head and Neck Surgery, Beijing Tongren Hospital, 
+Capital Medical University, Beijing, China. Electronic address: trentxy@163.com.
+
+BACKGROUND: Defects in the adaptive immune response to human papillomavirus-6 and
+-11 are among the most important mechanisms for Juvenile-onset Recurrent
+Respiratory Papillomatosis (JORRP) development. However, the percentage of CD8+ T
+cells and peripheral TH1/TH2 immune responses in Juvenile-onset Recurrent
+Respiratory Papillomatosis is still not well addressed due to limited sample
+sizes.
+METHODS: Twenty-three patients who were diagnosed with JORRP and underwent
+surgical intervention at the Beijing TongRen Hospital from October 2015 to March 
+2016 were enrolled in our study. The CD8+ T cells and CD4+ T cells in periphery
+blood were measured by flow cytometry. Intracellular staining was also performed 
+to determine IFN-γ and IL-4 secretion by CD8+ T cells and CD4+ T cells. Serum
+IFN-γ and IL-4 levels were measured by ELISA.
+RESULTS: We found that the proportions of CD4+ and CD8+ T cells in peripheral
+blood of JORRP patients were comparable to that of healthy controls. Moreover,
+after PMA stimulation, there was no significant change in IFN-γ secretion by
+either CD4+ or CD8+ T cells. The secretion of IL-4 but not IFN-γ by CD4+ T cells 
+was increased, and the serum IL-4 levels were elevated in JORRP patients.
+CONCLUSION: We conclude that only TH2 responses were enhanced but that the TH1
+responses did not change in the peripheral immunity of JORRP patients.
+
+Copyright © 2017. Published by Elsevier B.V.
+
+DOI: 10.1016/j.imlet.2017.08.026 
+PMID: 28860041  [Indexed for MEDLINE]

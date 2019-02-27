@@ -1,0 +1,26 @@
+
+
+2757. Eur J Cancer. 2018 Feb;90:149-152. doi: 10.1016/j.ejca.2017.11.007. Epub 2017 Dec
+8.
+
+Positron emission tomography/computed tomography evaluation of oncolytic virus
+therapy efficacy in melanoma.
+
+Franke V(1), van der Hiel B(2), van de Wiel BA(3), Klop WMC(4), Ter Meulen S(1), 
+van Akkooi ACJ(5).
+
+Author information: 
+(1)Department of Surgical Oncology, Netherlands Cancer Institute - Antoni van
+Leeuwenhoek, Plesmanlaan 121, NL-1066 CX Amsterdam, The Netherlands.
+(2)Department of Nuclear Medicine, Netherlands Cancer Institute - Antoni van
+Leeuwenhoek, Plesmanlaan 121, NL-1066 CX Amsterdam, The Netherlands.
+(3)Department of Pathology, Netherlands Cancer Institute - Antoni van
+Leeuwenhoek, Plesmanlaan 121, NL-1066 CX Amsterdam, The Netherlands.
+(4)Department of Head & Neck Surgery, Netherlands Cancer Institute - Antoni van
+Leeuwenhoek, Plesmanlaan 121, NL-1066 CX Amsterdam, The Netherlands.
+(5)Department of Surgical Oncology, Netherlands Cancer Institute - Antoni van
+Leeuwenhoek, Plesmanlaan 121, NL-1066 CX Amsterdam, The Netherlands. Electronic
+address: a.v.akkooi@nki.nl.
+
+DOI: 10.1016/j.ejca.2017.11.007 
+PMID: 29224902  [Indexed for MEDLINE]

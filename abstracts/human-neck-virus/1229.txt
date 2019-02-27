@@ -1,0 +1,33 @@
+
+
+1229. Head Neck. 2012 Apr;34(4):520-33. doi: 10.1002/hed.21772. Epub 2011 May 23.
+
+Prevalence of human papillomavirus, Epstein-Barr virus, p21, and p53 expression
+in sinonasal inverted papilloma, nasal polyp, and hypertrophied turbinate in Hong
+Kong patients.
+
+Sham CL(1), To KF, Chan PK, Lee DL, Tong MC, van Hasselt CA.
+
+Author information: 
+(1)Department of Otorhinolaryngology-Head and Neck Surgery, Prince of Wales
+Hospital, The Chinese University of Hong Kong, Hong Kong SAR, China.
+
+BACKGROUND: The purpose of this study of human papillomavirus (HPV), Epstein-Barr
+virus (EBV), p21, and p53 in sinonasal inverted papilloma (IP) was to help
+elucidate its pathogenesis.
+METHODS: Seventy-three IPs, 48 nasal polyps, and 85 hypertrophied turbinates were
+subjected to HPV polymerase chain reaction (PCR) study. Seventy-three IPs, 30
+nasal polyps, and 32 hypertrophied turbinates were subjected to EBV in situ
+hybridization (ISH), p21, and p53 immunohistochemical (IHC) studies.
+RESULTS: HPV was positive in 3 of 73 IPs (4.1%). All specimens were EBV negative.
+In all, 99% of IPs showed strong and diffuse p21 nuclear reactivity. Most nasal
+polyps and hypertrophied turbinates showed weak to moderate immunoreactivity of
+the basal and parabasal cells. Only focal p53 immunoreactivity of the basal and
+parabasal cells was found in 19% of IPs and 40% of nasal polyps.
+CONCLUSIONS: HPV prevalence of our IP is low. EBV is not present in IP. High p21 
+and low p53 expression in IP suggests a non-p53-dependent regulation pathway.
+
+Copyright © 2011 Wiley Periodicals, Inc.
+
+DOI: 10.1002/hed.21772 
+PMID: 21608063  [Indexed for MEDLINE]

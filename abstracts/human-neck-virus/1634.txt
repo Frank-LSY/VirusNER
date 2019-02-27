@@ -1,0 +1,42 @@
+
+
+1634. Mol Cancer Ther. 2010 Jun;9(6):1755-63. doi: 10.1158/1535-7163.MCT-09-1047. Epub 
+2010 Jun 8.
+
+Serum signature of hypoxia-regulated factors is associated with progression after
+induction therapy in head and neck squamous cell cancer.
+
+Byers LA(1), Holsinger FC, Kies MS, William WN, El-Naggar AK, Lee JJ, Hu J, Lopez
+A, Tran HT, Yan S, Du Z, Ang KK, Glisson BS, Raso MG, Wistuba II, Myers JN, Hong 
+WK, Papadimitrakopoulou V, Lippman SM, Heymach JV.
+
+Author information: 
+(1)Division of Cancer Medicine, The University of Texas M.D. Anderson Cancer
+Center, Houston, Texas 77030, USA.
+
+Tumor hypoxia regulates many cytokines and angiogenic factors (CAF) and is
+associated with worse prognosis in head and neck squamous cell cancer (HNSCC).
+Serum CAF profiling may provide information regarding the biology of the host and
+tumor, prognosis, and response to therapy. We investigated 38 CAFs in HNSCC
+patients receiving induction therapy on a phase II trial of carboplatin,
+paclitaxel, and cetuximab. CAFs were measured by multiplex bead assay and
+enzyme-linked immunosorbent assay in 32 patients. Baseline and postinduction CAF 
+levels were correlated with disease progression (PD) and human papilloma virus
+(HPV) status by Wilcoxon rank sum test. Baseline levels of eight
+hypoxia-regulated CAFs (the "high-risk signature" including vascular endothelial 
+growth factor, interleukins 4 and 8, osteopontin, growth-related oncogene-alpha, 
+eotaxin, granulocyte-colony stimulating factor, and stromal cell-derived
+factor-1alpha) were associated with subsequent PD. Elevation in >or=6 of 8
+factors was strongly associated with shorter time to progression (P = 0.001) and 
+was 73% specific and 100% sensitive for PD. Increasing growth-related
+oncogene-alpha from baseline to week 6 was also associated with PD.
+Progression-free and overall survival were shorter in patients with HPV-negative 
+tumors (P = 0.012 and 0.046, respectively), but no individual CAF was associated 
+with HPV status. However, among 14 HPV-negative patients, the high-risk CAF
+signature was seen in all 6 patients with PD, but only 2 of 14 without PD. In
+conclusion, serum CAF profiling, particularly in HPV-negative patients, may be
+useful for identifying those at highest risk for recurrence.
+
+DOI: 10.1158/1535-7163.MCT-09-1047 
+PMCID: PMC2913168
+PMID: 20530716  [Indexed for MEDLINE]

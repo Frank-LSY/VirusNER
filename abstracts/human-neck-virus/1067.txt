@@ -1,0 +1,49 @@
+
+
+1067. JAMA Otolaryngol Head Neck Surg. 2015 Jan;141(1):78-83. doi:
+10.1001/jamaoto.2014.2826.
+
+Adult-onset recurrent respiratory papillomatosis: a review of disease
+pathogenesis and implications for patient counseling.
+
+Taliercio S(1), Cespedes M(2), Born H(1), Ruiz R(1), Roof S(1), Amin MR(1),
+Branski RC(1).
+
+Author information: 
+(1)NYU Voice Center, Department of Otolaryngology-Head and Neck Surgery, New York
+University School of Medicine, New York.
+(2)Department of Medicine, New York University School of Medicine, New York, New 
+York.
+
+IMPORTANCE: A new diagnosis of adult-onset recurrent respiratory papillomatosis
+(AO-RRP) prompts many questions related to disease acquisition, course, and
+transmission. Recent attention to the human papillomavirus (HPV), along with
+emerging data on AO-RRP, provides a foundation for patient counseling.
+OBJECTIVE: To provide a framework for these discussions, including an overview of
+the current literature on HPV-mediated disease across organs.
+EVIDENCE REVIEW: The peer-reviewed literature was culled to provide a
+comprehensive review encompassing AO-RRP and anogenital papilloma, as well as
+general HPV virology and pathophysiology. PubMed and Google Scholar databases
+were searched from 1975 to July 2014.
+FINDINGS: Most HPV infections in healthy adults are cleared within 2 years
+without clinical significance. Adult-onset RRP is a rare manifestation of HPV and
+may be homologous to anogenital HPV, which is highly transmissible between sexual
+partners. Horizontal transmission of AO-RRP has not been characterized. Our
+laboratory, however, recently found that nearly 100% of patients with AO-RRP had 
+concurrent oral cavity HPV infection. Historically, an increased number of oral
+sex partners was thought to be associated with AO-RRP, but recent data from our
+group did not corroborate this finding. Recent data also question the dogma that 
+smoking and laryngopharyngeal reflux play a role in recidivistic disease.
+Management of AO-RRP is often symptom based and includes lesion excision or
+ablation with adjuvant therapies including cidofovir for refractory cases.
+CONCLUSIONS AND RELEVANCE: Recurrent respiratory papillomatosis may be related to
+a new or latent HPV infection, potentially obtained at birth, and the
+mechanism(s) underlying the progression from HPV infection to RRP remains
+unknown. Recommendations with regard to sexual practices in patients with AO-RRP 
+cannot be made at this time. Unlike human immunodeficiency virus, patients with
+AO-RRP are not obligated to discuss infection status with partners. Despite the
+nebulous nature of the disease, clinicians should be a resource to discuss the
+current state of the literature with both the patient and partner.
+
+DOI: 10.1001/jamaoto.2014.2826 
+PMID: 25393901  [Indexed for MEDLINE]

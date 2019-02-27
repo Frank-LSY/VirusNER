@@ -1,0 +1,32 @@
+
+
+2021. Chin J Cancer. 2012 Jan;31(1):36-44. doi: 10.5732/cjc.011.10317. Epub 2011 Dec
+16.
+
+Establishment and characterization of a novel nasopharyngeal carcinoma cell line 
+(SUNE2) from a Cantonese patient.
+
+Dong JQ(1), Li MZ, Liu ZG, Zhong Q, Xiong D, Xu LH, Du Y, Xia YF, Zeng MS.
+
+Author information: 
+(1)Department of Experimental Research, Sun Yat-sen University Cancer Center,
+Guangzhou, Guangdong, People's Republic of China.
+
+The undifferentiated form of nasopharyngeal carcinoma (NPC) is the most common
+malignant head and neck cancer in South China, especially in Cantonese
+populations. However, few NPC cell lines have been established from the patients 
+in this region. In this study, we established a new NPC cell line, termed SUNE2, 
+from a Cantonese patient with undifferentiated NPC. This cell line had extremely 
+low concentrations of Epstein-Barr virus (EBV) DNA in long-term culture and
+expressed low levels of latent membrane protein 1 (LMP1), latent membrane protein
+2A (LMP2A), BamH1-A right frame 1 (BARF1), EBV-encoded RNA-1 (EBER1), and
+EBV-encoded RNA-2 (EBER2) in early passages. SUNE2 cells also showed much
+stronger transforming ability than 5-8F cells in colony formation assays and
+anchorage-independent growth assays in soft agar, and they only need 2 weeks to
+form tumors in nude mice. In summary, the SUNE2 cell line is a new in vitro model
+that can be used for further research on the mechanisms underlying the occurrence
+and development of NPC.
+
+DOI: 10.5732/cjc.011.10317 
+PMCID: PMC3777465
+PMID: 22176775  [Indexed for MEDLINE]

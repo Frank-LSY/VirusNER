@@ -1,0 +1,35 @@
+
+
+44. Curr Gene Ther. 2005 Aug;5(4):387-98.
+
+Altering the tropism of lentiviral vectors through pseudotyping.
+
+Cronin J(1), Zhang XY, Reiser J.
+
+Author information: 
+(1)Gene Therapy Program, Louisiana State University Health Sciences Center, New
+Orleans, 70112, USA.
+
+Erratum in
+    Curr Gene Ther. 2005 Oct;5(5):531.
+
+The host range of retroviral vectors including lentiviral vectors can be expanded
+or altered by a process known as pseudotyping. Pseudotyped lentiviral vectors
+consist of vector particles bearing glycoproteins (GPs) derived from other
+enveloped viruses. Such particles possess the tropism of the virus from which the
+GP was derived. For example, to exploit the natural neural tropism of rabies
+virus, vectors designed to target the central nervous system have been
+pseudotyped using rabies virus-derived GPs. Among the first and still most widely
+used GPs for pseudotyping lentiviral vectors is the vesicular stomatitis virus GP
+(VSV-G), due to the very broad tropism and stability of the resulting
+pseudotypes. Pseudotypes involving VSV-G have become effectively the standard for
+evaluating the efficiency of other pseudotypes. This review samples a few of the 
+more prominent examples from the ever-expanding list of published lentiviral
+pseudotypes, noting comparisons made with pseudotypes involving VSV-G in terms of
+titer, viral particle stability, toxicity, and host-cell specificity. Particular 
+attention is paid to publications of successfully targeting a specific organ or
+cell types.
+
+
+PMCID: PMC1368960
+PMID: 16101513  [Indexed for MEDLINE]

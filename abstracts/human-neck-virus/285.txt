@@ -1,0 +1,33 @@
+
+
+285. Oral Oncol. 2014 Jun;50(6):560-4. doi: 10.1016/j.oraloncology.2013.09.015. Epub
+2013 Oct 14.
+
+Is radiation dose reduction the right answer for HPV-positive head and neck
+cancer?
+
+Kimple RJ(1), Harari PM(2).
+
+Author information: 
+(1)Department of Human Oncology, University of Wisconsin Carbone Cancer Center,
+School of Medicine and Public Health, University of Wisconsin, Madison, WI, USA. 
+Electronic address: rkimple@humonc.wisc.edu.
+(2)Department of Human Oncology, University of Wisconsin Carbone Cancer Center,
+School of Medicine and Public Health, University of Wisconsin, Madison, WI, USA. 
+Electronic address: harari@humonc.wisc.edu.
+
+Patients with head and neck squamous cell carcinoma (HNC) related to human
+papillomavirus (HPV) represent a growing and distinct patient cohort with unique 
+molecular and epidemiologic characteristics. These patients have markedly
+improved survival outcomes compared to those with traditional HNC, leading some
+to advocate for treatment dose reduction. In this article, we review ongoing
+clinical trials investigating several ways to reduce therapeutic intensity for
+patients with HPV-positive HNC, discuss the risks and benefits associated with
+these trials, and summarize the data underlying the advancement of dose reduction
+trials for patients with HPV-positive HNC.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.oraloncology.2013.09.015 
+PMCID: PMC3986346
+PMID: 24134946  [Indexed for MEDLINE]

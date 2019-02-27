@@ -1,0 +1,32 @@
+
+
+324. Expert Rev Clin Pharmacol. 2012 Sep;5(5):517-20. doi: 10.1586/ecp.12.53.
+
+Clinical trials involving the oncolytic virus, reovirus: ready for prime time?
+
+Black AJ(1), Morris DG.
+
+Author information: 
+(1)Department of Oncology and Medicine, University of Calgary, 1331 29th St NW,
+Calgary, AB T2N 4N2, Canada.
+
+The use of oncolytic viruses as a potential cancer therapeutic has been studied
+extensively over the past 15 years and is now in Phase III human clinical
+testing. One of the most promising of the viruses is the nonattenuated reovirus
+type-3 Dearing (RT3D; Reolysin(®), Oncolytics Biotech Inc., AB, Canada). The
+virus is a laboratory strain of a ubiquitous common environmental virus commonly 
+infecting the respiratory and GI tracts of humans without major sequelae. The
+Phase I/II clinical trial conducted by Karapanagiotou et al. involved dose
+escalation of Reolysin to 3 × 10(10) tissue culture infectious dose 50 (TCID(50))
+daily for 5 days in combination with paclitaxel (175 mg/m(2)) and carboplatin
+(area under the curve 5) given on day 1 every 3 weeks. Maximum tolerated dose was
+not reached in the dose-escalation phase and was only limited by manufacturing
+concentration limitation. Efficacy was suggested in this heavily pretreated head 
+and neck cancer predominate patient population with a 26.9% response rate (seven 
+out of 26 evaluable patients) of the 34 patients intended to treat. Although this
+was not a randomized trial, the fact that many of the patients (83%) had already 
+received a platinum agent and subsequently progressed and then responded is of
+interest.
+
+DOI: 10.1586/ecp.12.53 
+PMID: 23121273  [Indexed for MEDLINE]
