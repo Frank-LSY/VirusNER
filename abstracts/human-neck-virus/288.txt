@@ -1,15 +1,1 @@
-
-
-288. Oral Oncol. 2014 May;50(5):353-5. doi: 10.1016/j.oraloncology.2014.03.010.
-
-HPV and head and neck cancers: state-of-the-science.
-
-Fakhry C(1), Psyrri A(2), Chaturvedhi A(3).
-
-Author information: 
-(1)Johns Hopkins Medical Institutions, United States.
-(2)Attikon University Hospital, Athens, Greece.
-(3)National Cancer Institute, United States.
-
-DOI: 10.1016/j.oraloncology.2014.03.010 
-PMID: 24726207  [Indexed for MEDLINE]
+Recent studies have revealed an important and intriguing role for human papillomavirus (HPV) in head and neck squamous cell carcinoma (HNSCC). There are indications that the prevalence of HPV-positive HNSCC has recently increased, and genetic analyses point to a completely distinct class of HNSCCs. Most studies suggest that patients with this type of tumour have a better prognosis and some argue that an adjusted therapeutic approach is needed. One crucial point in the research of HNSCC-HPV involvement has often been neglected, which is the lack of a standardised assay to detect HPV. This has resulted in a considerable variation in the frequency of HPV-positive tumours between studies reported thus far. Especially for PCR-based tests, the risk exists that the assay is too sensitive and detects virus without implying a causal involvement in HNSCC. A reliable algorithm to detect a clinically relevant HPV infection in formalin-fixed paraffin embedded tissue has recently become available. Here, we address important biological and analytical aspects of HPV involved in the development of HNSCC and it is emphasised that a standardised HPV assay is a prerequisite for assessing the clinical importance of a HPV infection in HNSCC.

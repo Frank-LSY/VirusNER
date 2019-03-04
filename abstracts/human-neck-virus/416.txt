@@ -1,15 +1,1 @@
-
-
-416. Indian J Pathol Microbiol. 2010 Apr-Jun;53(2):368-9. doi:
-10.4103/0377-4929.64281.
-
-Plasmablastic lymphoma in a human immunodeficiency virus negative patient.
-
-Khurana A(1), Jalpota Y.
-
-Author information: 
-(1)Department of Pathology, Rajiv Gandhi Cancer Institute and Research Centre,
-Sector-5, Rohini, Delhi - 110 085, India.
-
-DOI: 10.4103/0377-4929.64281 
-PMID: 20551562  [Indexed for MEDLINE]
+Among all cancers, the incidence of nasopharyngeal carcinoma (NPC) is quite high in the endemic regions. NPC is a head and neck cancer with poor survival rate, and is rare throughout most of the world but common in certain geographic areas, like southern Asia and some regions of North East India (Nagaland, Manipur, and Mizoram). A clear understanding of its etiology is still lacking, but NPC is widely suspected to be the result of both genetic susceptibility and exposure to environmental factors or Epstein-Barr virus infection. Diagnosis in the early stages needs a high index of clinical acumen, and, although most cross-sectional imaging investigations show the tumor with precision, confirmation is dependent on histology. This article reviews all related research reports on NPC histopathological classifications worldwide that have been published within the past 20 years. Genome-wide association studies suggested that there might be common disease mechanisms between that disease and NPC. Personalized management rules, quality assessment of life in patients, and an understanding of the essential mechanisms of recurrence could be directed toward research into recurrent NPC. Hence, this literature would offer otolaryngologists a deeper insight into the etiological and management aspects of NPC.

@@ -1,16 +1,1 @@
-
-
-540. Laryngoscope. 2015 Dec;125(12):2633-4. doi: 10.1002/lary.25236. Epub 2015 Mar 16.
-
-What is the role of human papillomavirus testing in head and neck cancer?
-
-Kuan EC(1), Badran KW(1), St John MA(1)(2)(3).
-
-Author information: 
-(1)Department of Head and Neck Surgery, Los Angeles, California, U.S.A.
-(2)Jonsson Comprehensive Cancer Center, Los Angeles, California, U.S.A.
-(3)UCLA Head and Neck Cancer Program, University of California, Los Angeles
-Medical Center, Los Angeles, California, U.S.A.
-
-DOI: 10.1002/lary.25236 
-PMID: 25779218  [Indexed for MEDLINE]
+Herpes simplex virus laryngitis is rare. Clinical presentation of HSV laryngitis is variable, and its course may be indolent or fulminant. Treatment with antiviral medication tends to be highly effective.

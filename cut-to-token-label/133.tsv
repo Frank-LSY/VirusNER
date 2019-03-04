@@ -1,0 +1,15 @@
+	BIEO	IOB2
+The	O	O
+goal	O	O
+determine	O	O
+prevalence	O	O
+high-risk	B-virus	B-virus
+HPV16	E-virus	I-virus
+using	O	O
+saliva	O	O
+screening	O	O
+population	O	O
+Detroit	O	O
+,	O	O
+Michigan	O	O
+.	O	O

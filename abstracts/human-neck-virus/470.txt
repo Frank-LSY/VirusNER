@@ -1,11 +1,1 @@
-
-
-470. J Cutan Med Surg. 2013 May-Jun;17(3):151-2.
-
-Molluscum contagiosum infection in mixed martial arts fighting: molluscum
-gladiatorum.
-
-Lee SK.
-
-DOI: 10.2310/7750.2012.11140 
-PMID: 23673298  [Indexed for MEDLINE]
+Human papillomaviruses (HPVs) are small double-stranded DNA viruses that are associated with greater than 95% of cervical cancers and 20% of head and neck cancers. These cancers arise from persistent infections in which there is continued expression of the HPV E6 and E7 oncogenes, often as a consequence of integration of HPV DNA into the host genome. Such cancers represent "dead ends" for the virus as integration disrupts the viral genome and because the cancers are defective in normal epithelial differentiation, which is required for production of progeny papillomavirus. In order to study the full viral life cycle, from the establishment to maintenance to productive stages, our lab makes use of the organotypic epithelial tissue culture system. This system allows us to mimic the three-dimensional structure of epithelia whose differentiation is tightly linked to the completion of the HPV viral life cycle. In this chapter we describe how various aspects of the HPV life cycle are monitored in raft cultures making use of an immortalized keratinocyte cell line. © 2016 by John Wiley & Sons, Inc.

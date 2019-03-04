@@ -1,16 +1,1 @@
-
-
-429. BMJ Case Rep. 2013 Feb 18;2013. pii: bcr2012007829. doi: 10.1136/bcr-2012-007829.
-
-Mumps virus infection with laryngeal oedema and thoracic wall phlegmonous
-inflammation in an adult.
-
-Iizuka T(1), Kusunoki T, Ono N, Ikeda K.
-
-Author information: 
-(1)Department of Otorhinolaryngology, Juntendo University Faculty of Medicine,
-Tokyo, Japan. t-iizuka@juntendo.ac.jp
-
-DOI: 10.1136/bcr-2012-007829 
-PMCID: PMC3604284
-PMID: 23420722  [Indexed for MEDLINE]
+Radiation and chemotherapy that are commonly used to treat human cancers damage cellular DNA. DNA damage appears to be more toxic to cancer cells than normal cells, most likely due to deregulated checkpoint activation and/or deficiency in DNA repair pathways that are characteristics of many tumors. However, unwanted side effects arise as a result of DNA damage to normal cells during the treatment.Here, we show that roscovitine, a cyclin-dependent kinase (CDK) inhibitor that inhibits CDK-1, CDK-2, CDK-5, CDK-7, and CDK-9 due to competitive binding to the ATP site on the kinases, causes significant DNA damage followed by p53-dependent cell death in human papilloma virus (HPV)-positive, but not in HPV-negative, head and neck cancer cells. Since HPV positivity was a molecular marker for increased sensitivity of cells to roscovitine, we reasoned that systemic roscovitine administration would not be toxic to healthy HPV-negative tissue. Indeed, low roscovitine doses significantly inhibited the growth of HPV-associated xenografted tumors in mice without causing any detectable side effects.Given that inhibition of CDKs has been shown to inhibit replication of several viruses, we suggest that roscovitine treatment may represent a selective and safe targeted therapeutic option against HPV-positive head and neck cancer.

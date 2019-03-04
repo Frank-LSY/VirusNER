@@ -1,10 +1,1 @@
-
-
-186. Harv Mens Health Watch. 2014 Jun;18(11):8.
-
-Neck lump is common sign of throat cancer due to HPV virus.
-
-[No authors listed]
-
-
-PMID: 25029713  [Indexed for MEDLINE]
+Reduced engraftment by HPV + tumors lacking PNI likely results in selection biases in HNSCC PDX models. Formation of EBV + lymphomas in NSG mice further reduces the generation of HPV + models and must be ruled out before long-term use of PDXs. Nevertheless, the retention of distinctive pathologic traits and viral oncogene expression by HPV + PDXs provides a viable in vivo platform for basic and translational studies as well as a resource for generating advanced in vitro models.

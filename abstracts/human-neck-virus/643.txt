@@ -1,18 +1,1 @@
-
-
-643. ANZ J Surg. 2011 Sep;81(9):581-3. doi: 10.1111/j.1445-2197.2011.05829.x.
-
-Should the treatment paradigms for oral and oropharyngeal cancers be changed now:
-the role of human papilloma virus?
-
-Dwivedi RC(1), Dwivedi RC, Kazi R, Kanwar N, Nutting CM, Harrington KJ,
-Rhys-Evans PH.
-
-Author information: 
-(1)Head and Neck Unit, Royal Marsden Hospital, London, UK.
-
-Comment in
-    ANZ J Surg. 2012 Mar;82(3):189-90.
-
-DOI: 10.1111/j.1445-2197.2011.05829.x 
-PMID: 22023189  [Indexed for MEDLINE]
+To evaluate the relationship between human papillomavirus (HPV) status and known prognostic makers for head and neck cancers including tumor hypoxia, epidermal growth factor receptor (EGFR) expression and intratumoral T-cell levels and to determine the prognostic impact of these markers by HPV status.

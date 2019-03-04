@@ -1,11 +1,1 @@
-
-
-648. Eur J Dermatol. 2011 Nov-Dec;21(6):1005-6. doi: 10.1684/ejd.2011.1520.
-
-Squamous cell carcinoma of the scalp associated with human papillomavirus type
-16.
-
-Murao K, Fukumoto D, Kubo Y.
-
-DOI: 10.1684/ejd.2011.1520 
-PMID: 21896422  [Indexed for MEDLINE]
+To determine if prodrug conversion of fluorocytosine to fluorouracil by an engineered herpes virus, OncoVEX(GALV/CD), enhances oncolytic therapy of head and neck squamous cell carcinoma.

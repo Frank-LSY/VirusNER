@@ -1,16 +1,1 @@
-
-
-419. Emerg Med J. 2013 Jul;30(7):603. doi: 10.1136/emermed-2012-202049. Epub 2012 Nov 
-12.
-
-A child with severe stridor.
-
-Chen TH(1), Tseng YH, Yang SN.
-
-Author information: 
-(1)Division of Pediatric Emergency, Department of Emergency, Kaohsiung Medical
-University Hospital, Kaohsiung Medical University, Kaohsiung, Taiwan.
-taihen@kmu.edu.tw
-
-DOI: 10.1136/emermed-2012-202049 
-PMID: 23148111  [Indexed for MEDLINE]
+In total there were 94 type-specific infections detected in 10 samples with a median of 9.5, range (9 to 10) per sample. Using the LA as the gold standard, 84.4% (95% CI: 75.2-91.2) of the same anal type-specific infections detected on the NGS assay had been detected by LA. The PPV and sensitivity differed significantly for high risk (PPV: 90%, 95% CI: 79.5-96.2; sensitivity: 93.1%, 95% CI: 83.3-98.1) as compared to low risk HPV (PPV: 73%, 95% CI: 54.1-87.7; sensitivity: 61.1, 95% CI: 43.5-76.9) (all p < 0.05). The NPV for all types was 92.5% (95% CI: 88.4-95.4). The NPV and specificity were similar for high and low risk HPVs (all p > 0.05). The NGS assay detected 10 HPV genotypes that were not among the 37 genotypes found on LA (30, 32, 43, 44, 74, 86, 87, 90, 91, 114).

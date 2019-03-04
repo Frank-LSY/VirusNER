@@ -1,11 +1,1 @@
-
-
-435. Otolaryngol Clin North Am. 2012 Aug;45(4):xi-xii. doi: 10.1016/j.otc.2012.05.003.
-Epub 2012 May 16.
-
-HPV-associated head and neck cancers.
-
-Pai SI.
-
-DOI: 10.1016/j.otc.2012.05.003 
-PMID: 22793861  [Indexed for MEDLINE]
+Relative prevalence of HPV-driven tumors (14 HPV16, 1 HPV58) was 6% overall and 20% among oropharyngeal cancers. In the oropharynx the HPV-driven group showed a trend for better survival versus the HPV-negative group. The relative prevalence of HPV-driven oropharyngeal cancer is low in North-East Italy as compared to Western and Northern Europe.

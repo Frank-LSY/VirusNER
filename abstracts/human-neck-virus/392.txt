@@ -1,17 +1,1 @@
-
-
-392. Oncology (Williston Park). 2010 Sep;24(10):927, 933.
-
-Human papillomavirus and head and neck cancer.
-
-Diergaarde B(1), Grandis JR.
-
-Author information: 
-(1)University of Pittsburgh Graduate School of Public Health, University of
-Pittsburgh Cancer Institute, Pittsburgh, Pennsylvania, USA.
-
-Comment on
-    Oncology (Williston Park). 2010 Sep;24(10):915-9, 924.
-
-
-PMID: 21138174  [Indexed for MEDLINE]
+Head and neck squamous cell carcinoma (HNSCC) is the fifth most common cancer worldwide. Existing therapies for advanced tumors have high failure rates and can have severe consequences in terms of pain, disfigurement, and poor speech and swallowing function. New treatment strategies are needed to improve outcomes for patients suffering with this disease and oncolytic viruses represent a promising approach.

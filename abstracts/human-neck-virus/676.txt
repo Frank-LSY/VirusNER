@@ -1,15 +1,1 @@
-
-
-676. Biomark Med. 2015;9(3):183-5. doi: 10.2217/bmm.15.1.
-
-HPV-negative head and neck squamous cell carcinomas: how can we use the tumor
-protein signature?
-
-Kaczmar J(1), Mehra R.
-
-Author information: 
-(1)Fox Chase Cancer Center, Department of Medical Oncology, 333 Cottman Ave,
-Philadelphia, PA 19111, USA.
-
-DOI: 10.2217/bmm.15.1 
-PMID: 25731205  [Indexed for MEDLINE]
+The data offer no support for an association between HHV and the development of sporadic or NF2-associated VS in humans.

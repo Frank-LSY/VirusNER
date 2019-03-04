@@ -1,0 +1,22 @@
+	BIEO	IOB2
+Viral	O	O
+gene	O	O
+therapy	O	O
+promising	O	O
+new	O	O
+treatment	O	O
+modality	O	O
+head	O	O
+neck	O	O
+cancer	O	O
+.	O	O
+		
+This	O	O
+paper	O	O
+provides	O	O
+reader	O	O
+review	O	O
+relevant	O	O
+literature	O	O
+field	O	O
+.	O	O

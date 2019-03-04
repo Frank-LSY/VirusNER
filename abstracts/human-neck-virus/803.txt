@@ -1,15 +1,1 @@
-
-
-803. Otolaryngol Head Neck Surg. 2011 Feb;144(2):296-7. doi: 10.1177/0194599810390479.
-Epub 2011 Jan 4.
-
-Epstein Barr virus-associated lymphoepithelial carcinoma in the middle ear.
-
-Huon LK(1), Wang PC, Huang SH.
-
-Author information: 
-(1)Department of Otolaryngology, Head and Neck Surgery, Cathay General Hospital, 
-Taipei, Taiwan.
-
-DOI: 10.1177/0194599810390479 
-PMID: 21493437  [Indexed for MEDLINE]
+Head and neck squamous cell carcinoma (HNSCC) is the tenth most commonly diagnosed form of cancer in males worldwide. Although the incidence of HNSCC is relatively low in the United States, the affected population is changing from older males to young Caucasian males. High-risk strains of the human papillomavirus (HPV) already are associated with cervical, oral, and anal cancers; however, HPV DNA has been detected in about a third of head and neck malignancies. Nurses play major roles in educating the public and treating patients with HPV and HNSCC. Many possibilities for outreach and research exist that could decrease HPV and HNSCC rates.

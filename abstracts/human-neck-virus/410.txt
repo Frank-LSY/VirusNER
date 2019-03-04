@@ -1,18 +1,1 @@
-
-
-410. Am J Emerg Med. 2016 Feb;34(2):338.e1-2. doi: 10.1016/j.ajem.2015.06.020. Epub
-2015 Jun 14.
-
-Retropharyngeal air and pneumomediastinum: a rare complication of influenza A and
-asthma in an adult.
-
-Niehaus M(1), Rusgo A(1), Roth K(1), Jacoby JL(2).
-
-Author information: 
-(1)Department of Emergency Medicine, Lehigh Valley Health Network, 1240 S Cedar
-Crest Blvd, Allentown, PA 18103.
-(2)Department of Emergency Medicine, Lehigh Valley Health Network, 1240 S Cedar
-Crest Blvd, Allentown, PA 18103. Electronic address: Jeanne_L.Jacoby@lvhn.org.
-
-DOI: 10.1016/j.ajem.2015.06.020 
-PMID: 26159818  [Indexed for MEDLINE]
+This article outlines the biology of human papillomavirus (HPV) infection of human mucosa and the cellular pathways that are altered through viral infection. The article provides a conceptual framework with which to understand the 2 major immunologic strategies to address HPV-related diseases: (1) prevention of primary HPV infection through the use of prophylactic vaccines and (2) treatment of established infection and diseases through therapeutic vaccines. Nonimmunologic therapy that targets cellular dysregulation induced by HPV infection is also discussed. The challenges in actualizing these conceptually attractive therapies on both a societal and biological level are examined.

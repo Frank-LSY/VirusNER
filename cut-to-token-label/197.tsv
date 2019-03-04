@@ -1,0 +1,18 @@
+	BIEO	IOB2
+A	O	O
+retrospective	O	O
+study	O	O
+performed	O	O
+150	O	O
+samples	O	O
+patients	O	O
+diagnosed	O	O
+HNSCCs	O	O
+.	O	O
+		
+HPV	B-virus	B-virus
+status	O	O
+determined	O	O
+using	O	O
+p16INK4A	O	O
+.	O	O

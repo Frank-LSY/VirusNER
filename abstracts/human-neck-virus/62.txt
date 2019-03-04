@@ -1,15 +1,1 @@
-
-
-62. Future Oncol. 2015;11(6):889-91. doi: 10.2217/fon.15.17.
-
-Head and neck squamous cell carcinoma and human papillomavirus: epidemiology,
-treatment and future trends.
-
-Mangano A(1), Mangano A, Lianos GD, Roukos DH, Boni L, Dionigi G.
-
-Author information: 
-(1)Department of Surgical & Morphological Sciences, Insubria University, Varese, 
-Como, Italy.
-
-DOI: 10.2217/fon.15.17 
-PMID: 25760968  [Indexed for MEDLINE]
+Neck metastasis from unknown primary squamous cell carcinoma could be another virus-related malignancy in the head and neck region, along with nasopharyngeal and oropharyngeal carcinoma. An evaluation of the impact of viral infection on patient prognosis and sensitivities to different treatment modalities could modify our prognostic assessments and treatment planning. Furthermore, virus detection would have a decisive impact on diagnostic/decisional algorithms, especially if detection methods are implemented on cytologic samples (e.g., thin prep).

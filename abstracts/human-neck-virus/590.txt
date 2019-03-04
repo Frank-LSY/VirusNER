@@ -1,15 +1,1 @@
-
-
-590. Gan To Kagaku Ryoho. 2016 Jul;43(7):840-3.
-
-[Treatment of Oropharyngeal Cancer Human Papillomavirus Positive].
-
-[Article in Japanese]
-
-Saito Y(1).
-
-Author information: 
-(1)Dept. of Otolaryngology-Head and Neck Surgery, The University of Tokyo.
-
-
-PMID: 27996223  [Indexed for MEDLINE]
+The advantages of the circulating cell-free DNA (cfDNA) methodology are quick results and the possibility of repeated analysis. The main aim of our study was to establish the relationship of the total cfDNA with patients' clinical characteristics and circulating HPV DNA detection in the blood of patients with head and neck squamous cell carcinoma (HNSCC).

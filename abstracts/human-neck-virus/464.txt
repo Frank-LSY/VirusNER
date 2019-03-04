@@ -1,18 +1,1 @@
-
-
-464. J Clin Virol. 2013 Dec;58(4):601-4. doi: 10.1016/j.jcv.2013.04.005. Epub 2013 May
-17.
-
-An unusual disseminated viral primary infection: rash, hepatitis and
-polyserositis.
-
-Barazzutti H(1), Savini H, Zandotti C, Geffroy Y, Roche C, Brardjanian S, Simon
-F.
-
-Author information: 
-(1)Department of Infectious Diseases and Tropical Medicine, Laveran Military
-Teaching Hospital, Marseille, France. Electronic address:
-helene.Barazzutti@Gmail.Com.
-
-DOI: 10.1016/j.jcv.2013.04.005 
-PMID: 23684817  [Indexed for MEDLINE]
+The discovery that the human papilloma virus (HPV) is associated with a high and increasing percentage of oropharyngeal squamous cell carcinomas (SCCs) is among the most significant advances in the field of head and neck oncology. HPV-positive oropharyngeal cancer (HPVOPC) has clinical, etiologic, pathologic, and molecular features that distinguish it from HPV-negative disease. Increasingly, HPVOPC is being diagnosed in clinical practice because of the easy availability of p16 immunohistochemistry, a surrogate marker of HPV. The superior prognosis of HPVOPC has led to a reexamination of treatment approaches, and clinical trials are currently investigating strategies to deintensify treatment to reduce acute and late toxicity while preserving efficacy. This is of particular interest in low-risk patients. Unfortunately, patients with HPV-negative tumors still have high rates of locoregional failure and more efficacious treatments are required. This review of oropharyngeal SCC focuses on current and investigational treatment strategies in patients with both HPV-positive and HPV-negative oropharyngeal SCC.

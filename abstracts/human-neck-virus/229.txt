@@ -1,12 +1,1 @@
-
-
-229. Gan To Kagaku Ryoho. 2013 Jul;40(7):861-6.
-
-[III. Head and neck cancer and human papillomavirus].
-
-[Article in Japanese]
-
-Suzuki M.
-
-
-PMID: 23971132  [Indexed for MEDLINE]
+A subset of head and neck squamous cell carcinoma, which mainly arise from the crypt epithelium of the palatine and lingual tonsils, may be caused by high-risk human papillomavirus (HPV) infections. This topographical restriction together with other overlapping clinical features have led investigators to suspect that HPV plays a role in squamous cell carcinoma of unknown primary (SCCUP) site metastatic to neck lymph nodes. We performed a systematic review of articles listed in PubMed to identify studies testing HPV and/or p16(INK4a) status (p16) in tissue samples from initial and definitive SCCUP. The prevalence of HPV-related (HPV DNA-positive and/or p16 positive) SCCUP was calculated for all the SCCUP, initial SCCUP, suspected definitive SCCUP, and true definitive SCCUP whenever a minimum of 10 cases of each category was identified. In addition, data concerning patients' diagnostic work-up, the HPV detection methods, and the correlations between HPV-status, the localization of the occult primary tumor, and the clinical outcome were also extracted. Eighteen retrospective cohort studies, assessing a total of 659 patients, met the inclusion criteria. The overall median prevalences of HPV-DNA(pos), of p16(pos), and of positivity for both HPV markers were, respectively, 37.0, 48.5, and 36.0 %. Patients with diagnosis of initial SCCUP had overall median prevalences of HPV-DNA(pos), of p16(pos), and of positivity for both HPV markers, respectively, of 81.8, 86.2, and 80.8 %. The data uncovered by this systematic review confirm that SCCUP is frequently causally associated to HPV-driven oropharyngeal squamous cell carcinomas. This finding supports the view that HPV-status could be routinely assessed in SCCUP patients as it may lead to identifying the primary tumor and the decision to de-escalate treatment.

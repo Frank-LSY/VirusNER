@@ -1,13 +1,1 @@
-
-
-143. JAMA Oncol. 2016 May 1;2(5):687. doi: 10.1001/jamaoncol.2016.0970.
-
-β- and γ-Human Papillomavirus Types and Smoking in Head and Neck Cancer.
-
-Franceschi S(1).
-
-Author information: 
-(1)International Agency for Research on Cancer, Lyon, France.
-
-DOI: 10.1001/jamaoncol.2016.0970 
-PMID: 27244680  [Indexed for MEDLINE]
+Lymphoepithelial-like carcinomas (LELC) of the head and neck represent malignant neoplasms that are histologically similar to nasopharyngeal carcinoma (NPC), nonkeratinizing undifferentiated type but arise in locations other than the nasopharynx. The most common location for LELC in the head and neck is the salivary glands, in particular the parotid gland. However, LELC may arise in other sites including the oropharynx (tonsils, base of tongue), sinonasal tract, larynx, and middle ear/temporal bone. Unlike the nonkeratinizing undifferentiated type of NPC which is etiologically linked to Epstein-Barr virus (EBV), LELCs are not uniformly associated with EBV. The differential diagnosis for LELC varies per site and depending on the site of occurrence may include lymphoepithelial sialadenitis, sinonasal undifferentiated carcinoma (SNUC), and large cell neuroendocrine carcinoma. Treatment general includes combined (multimodality) therapy including surgical resection, neck dissection, radiation therapy and/or chemotherapy. The prognosis may vary per site overall favorable owing to a good response to therapy. 

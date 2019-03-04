@@ -1,0 +1,17 @@
+	BIEO	IOB2
+This	O	O
+systematic	O	O
+review	O	O
+suggests	O	O
+small	O	O
+trend	O	O
+increase	O	O
+risk	O	O
+HPV-associated	B-virus	B-virus
+cancers	O	O
+among	O	O
+spouses	O	O
+patients	O	O
+HPV-related	B-virus	B-virus
+cancer	O	O
+.	O	O

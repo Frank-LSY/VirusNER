@@ -1,16 +1,1 @@
-
-
-465. Am J Dermatopathol. 2018 Nov;40(11):857-858. doi: 10.1097/DAD.0000000000000979.
-
-Progressive, Painful Erosions of the Face, Neck, and Lips: Answer.
-
-May C(1), Shinohara M(1)(2).
-
-Author information: 
-(1)Division of Dermatology, Department of Medicine, University of Washington
-School of Medicine, Seattle, WA.
-(2)Department of Pathology, University of Washington School of Medicine, Seattle,
-WA.
-
-DOI: 10.1097/DAD.0000000000000979 
-PMID: 30339564  [Indexed for MEDLINE]
+ABSTRACT The human body plays host to a wide variety of microbes, commensal and pathogenic. In addition to interacting with their host, different microbes, such as bacteria and viruses, interact with each other, sometimes in ways that exacerbate disease. In particular, gene expression of a number of viruses, including Kaposi's sarcoma-associated herpesvirus (KSHV), Epstein-Barr virus (EBV), and human immunodeficiency virus (HIV), is known to be regulated by epigenetic modifications induced by bacteria. These viruses establish latent infection in their host cells and can be reactivated by bacterial products. Viral reactivation has been suggested to contribute to periodontal disease and AIDS. In addition, bacterium-virus interactions may play a role in cancers, such as Kaposi's sarcoma, gastric cancer, and head and neck cancer. It is important to consider the effects of coexisting bacterial infections when studying viral diseases in vivo. 

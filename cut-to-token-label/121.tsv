@@ -1,0 +1,17 @@
+	BIEO	IOB2
+This	O	O
+study	O	O
+aimed	O	O
+clarify	O	O
+local	O	O
+immune	O	O
+status	O	O
+larynx	O	O
+presence	O	O
+infection	O	O
+carcinogenesis	O	O
+associated	O	O
+human	B-virus	B-virus
+papilloma	I-virus	I-virus
+virus	E-virus	I-virus
+.	O	O

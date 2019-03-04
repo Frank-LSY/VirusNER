@@ -1,14 +1,1 @@
-
-
-636. Pharmacogenomics. 2014;15(12):1553-5. doi: 10.2217/pgs.14.122.
-
-Genetic mutations in head and neck cancer: utilizing existing treatments.
-
-Peyser ND(1), Grandis JR.
-
-Author information: 
-(1)Department of Pharmacology & Chemical Biology, University of Pittsburgh School
-of Medicine, Pittsburgh, PA 15213, USA.
-
-DOI: 10.2217/pgs.14.122 
-PMID: 25340729  [Indexed for MEDLINE]
+4.

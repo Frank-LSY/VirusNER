@@ -1,0 +1,47 @@
+	BIEO	IOB2
+Strong	O	O
+diffuse	O	O
+p16	O	O
+immunoreactivity	O	O
+found	O	O
+7	O	O
+40	O	O
+cases	O	O
+(	O	O
+17.5	O	O
+%	O	O
+)	O	O
+.	O	O
+		
+In	O	O
+situ	O	O
+hybridization	O	O
+showed	O	O
+diffuse	O	O
+episomal	O	O
+signal	O	O
+samples	O	O
+.	O	O
+		
+However	O	O
+,	O	O
+PCR	O	O
+could	O	O
+reliably	O	O
+detect	O	O
+presence	O	O
+HPV	B-virus	B-virus
+genes	O	O
+.	O	O
+		
+Furthermore	O	O
+,	O	O
+p16-expressing	O	O
+epithelial	O	O
+cells	O	O
+mostly	O	O
+negative	O	O
+proliferation	O	O
+marker	O	O
+Ki-67	O	O
+.	O	O

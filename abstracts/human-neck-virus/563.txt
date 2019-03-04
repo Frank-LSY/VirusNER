@@ -1,16 +1,1 @@
-
-
-563. Gan To Kagaku Ryoho. 2012 Jul;39(7):1055-60.
-
-[II. Molecular targeting therapy for head and neck cancer].
-
-[Article in Japanese]
-
-Tahara M(1).
-
-Author information: 
-(1)Division of Head and Neck Medical Oncology, National Cancer Center Hospital
-East, Kashiwa, Chiba, Japan.
-
-
-PMID: 22896873  [Indexed for MEDLINE]
+While the research of the viral genome in peripheral blood was negative in all patients, multiplex PCR on endolabyrinthic fluid samples was positive in three patients (two cases of CMV-DNA and one case of HSV-1 DNA).

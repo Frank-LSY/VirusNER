@@ -1,17 +1,1 @@
-
-
-712. N Engl J Med. 2013 Dec 12;369(24):2333-43. doi: 10.1056/NEJMcpc1310002.
-
-Case records of the Massachusetts General Hospital. Case 38-2013. A 30-year-old
-man with fever and lymphadenopathy.
-
-Ray A, Muse VV, Boyer DF.
-
-Comment in
-    N Engl J Med. 2014 Mar 13;370(11):1076-7.
-    N Engl J Med. 2014 Mar 13;370(11):1077.
-    N Engl J Med. 2014 Mar 13;370(11):1076.
-    N Engl J Med. 2014 Mar 13;370(11):1077.
-
-DOI: 10.1056/NEJMcpc1310002 
-PMID: 24328468  [Indexed for MEDLINE]
+Pyogenic granuloma is a non-neoplastic lesion that frequently occurs in the skin and mucous membranes of children and pregnant women. The anatomical sites of pyogenic granulomas overlap with those of wart infections caused by the human papillomavirus (HPV).

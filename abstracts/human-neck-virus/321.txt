@@ -1,17 +1,1 @@
-
-
-321. J Dermatol. 2016 Apr;43(4):445-7. doi: 10.1111/1346-8138.13216. Epub 2015 Dec 12.
-
-Case of multiple Bowen diseases associated with human papillomavirus type 16 in a
-patient with atopic dermatitis.
-
-Murao K(1), Nakasuka A(1), Keyama T(2), Hashimoto I(2), Kubo Y(1).
-
-Author information: 
-(1)Department of Dermatology, Institute of Biomedical Sciences, Tokushima
-University Graduate School, Tokushima, Japan.
-(2)Department of Plastic and Reconstructive Surgery, Institute of Biomedical
-Sciences, Tokushima University Graduate School, Tokushima, Japan.
-
-DOI: 10.1111/1346-8138.13216 
-PMID: 26662565  [Indexed for MEDLINE]
+HPV prevalence and p16(INK4a)-overexpression were highest in oropharyngeal tumours, younger patients, and non-smokers.

@@ -1,12 +1,1 @@
-
-
-377. Oral Oncol. 2013 Aug;49(8):723-5. doi: 10.1016/j.oraloncology.2013.03.453. Epub
-2013 May 1.
-
-Mission impossible: how HPV-associated head and neck cancers escape a primed
-immune response.
-
-Pai SI.
-
-DOI: 10.1016/j.oraloncology.2013.03.453 
-PMID: 23643070  [Indexed for MEDLINE]
+Epigenetic modifications leading to either transcriptional repression or activation, play an indispensable role in the development of human cancers. Epidemiological study revealed that approximately 20% of all human cancers are associated with tumor viruses. Epstein-Barr virus (EBV), the first human tumor virus, demonstrates frequent epigenetic alterations on both viral and host genomes in associated cancers-both of epithelial and lymphoid origin. The cell type-dependent different EBV latent gene expression patterns appear to be determined by the cellular epigenetic machinery and similarly viral oncoproteins recruit epigenetic regulators in order to deregulate the cellular gene expression profile resulting in several human cancers. This review elucidates the epigenetic consequences of EBV-host interactions during development of multiple EBV-induced B-cell lymphomas, which may lead to the discovery of novel therapeutic interventions against EBV-associated B-cell lymphomas by alteration of reversible patho-epigenetic markings.

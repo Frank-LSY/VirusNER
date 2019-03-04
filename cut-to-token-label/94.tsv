@@ -1,0 +1,44 @@
+	BIEO	IOB2
+The	O	O
+study	O	O
+group	O	O
+comprised	O	O
+250	O	O
+histologically	O	O
+proven	O	O
+cases	O	O
+OSCC	O	O
+.	O	O
+		
+HPV	B-virus	B-virus
+detected	O	O
+real	O	O
+time	O	O
+PCR	O	O
+tumor	O	O
+biopsy	O	O
+specimens	O	O
+confirmed	O	O
+conventional	O	O
+PCR	O	O
+PGMY09/	O	O
+PGMY11	O	O
+primers	O	O
+.	O	O
+		
+Genotyping	O	O
+high-risk	O	O
+types	O	O
+16/	O	O
+18	O	O
+conducted	O	O
+type	O	O
+specific	O	O
+PCR	O	O
+.	O	O
+		
+p16	O	O
+expression	O	O
+assessed	O	O
+immunohistochemsitry	O	O
+.	O	O

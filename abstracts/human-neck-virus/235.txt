@@ -1,17 +1,1 @@
-
-
-235. J Clin Oncol. 2016 Apr 20;34(12):1289-91. doi: 10.1200/JCO.2015.65.1414. Epub
-2016 Feb 16.
-
-Cetuximab in Human Papillomavirus-Positive Oropharynx Carcinoma.
-
-Wirth LJ(1).
-
-Author information: 
-(1)Massachusetts General Hospital, Boston, MA lwirth@partners.org.
-
-Comment on
-    J Clin Oncol. 2016 Apr 20;34(12):1300-8.
-
-DOI: 10.1200/JCO.2015.65.1414 
-PMID: 26884569  [Indexed for MEDLINE]
+Because torque teno virus (TTV) has been implicated in tumorigenesis as a cocarcinogen, we studied TTV prevalence in saliva and biopsy samples from head and neck cancer (HNCC) patients, patients with premalignant lesions of oral cancer, and controls. We also wished to determine the TTV genotypes in HNCC patients.

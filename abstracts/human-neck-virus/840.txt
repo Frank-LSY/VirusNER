@@ -1,14 +1,1 @@
-
-
-840. Lancet. 2011 Oct 15;378(9800):1438. doi: 10.1016/S0140-6736(11)61173-2.
-
-Cervical lump? The clue is in the hotspot.
-
-Cornet AD(1), Vogel JJ, Karagozoglu KH, Thijs A.
-
-Author information: 
-(1)Department of Internal Medicine, VU University Medical Center, Amsterdam,
-Netherlands. cornet@vumc.nl
-
-DOI: 10.1016/S0140-6736(11)61173-2 
-PMID: 22000140  [Indexed for MEDLINE]
+PTLD surveillance in the pediatric transplant recipient is an important component of long-term care in this population. Although PET imaging is a new modality in monitoring pediatric transplant recipients for early signs of PTLD, an association between EBV serology and PET imaging results appears to exist. With increased implementation, PET imaging will likely prove valuable in its ability to monitor the transplant recipient at risk for PTLD.

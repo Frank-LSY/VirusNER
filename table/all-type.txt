@@ -1,0 +1,161 @@
+virus
+viruses
+
+DNA viruses
+
+donor virus
+
+licensed virus
+
+human papillomavirus
+human papillomaviruses
+human papilloma virus
+human papilloma virus-related
+HPV
+HPVs
+HR-HPV
+HNSCC-HPV
+HRHPV
+LRHPV
+high risk human papilloma virus
+high risk human papillomavirus
+low risk human papilloma virus 
+'high' risk muscosal human papilloma viruses
+High-risk HPVs
+high-risk(HR)-HPV
+Low-risk HPVs
+high-low-risk-HPV
+HPV-related
+HPV-unrelated
+HPV-associated
+HPV-induced
+HPV-activated
+HPV-caused
+HPV-infection
+HPV-transmission
+HPV+
+HPV +
+HPV(+)
+HPV-
+HPV(-)
+HPV-positive
+HPV-negative
+HPV 16/18
+HPV16
+HPV-5
+HPV-9
+HPV-11
+HPV-12
+HPV-16
+HPV-19
+HPV-23
+HPV-24
+HPV-33
+HPV-38
+HPV-46
+HPV-47
+HPV-49
+HPV-96
+human papilloma virus type 16
+HPV16
+HPV18
+HPV71
+
+Alphapapillomavirus
+α-PV
+β-PV
+γ-PV
+μ-PV
+
+papillomavirus
+PV
+
+Epstein-Barr
+Epstein-Barr virus
+Epsteim-Barr virus-positive
+EBV
+EBVs
+EBV+
+EBV +
+
+human immunodeficiency virus
+HIV
+HIV-tuberculosis
+HIV-negative
+HIV-1
+
+Rhinovirus
+human rhinovirus
+RV
+
+Respiratory virus
+Human respiratory syncytial virus
+
+Human coronavirus
+
+Enterovirus
+human enterovirus
+
+Human metapneumovirus
+
+Adenovirus
+human adnovirus
+HAdV
+
+human bocavirus
+HBoV
+
+human cytomegalovirus
+HCMV
+
+polyomaviruses
+polyomaviruses KI
+polyomaviruses WU
+KIPyV
+WUPyV
+
+herpesviruses
+herpes simplex virus
+alphaherpesviruses-herpes simplex virus 
+HSV
+HSV-1
+HSV-2
+
+hepatitis B virus
+
+hepatitis C virus
+HCV
+
+Zika virus
+Zika
+
+arbovirus
+
+cytomegalovirus
+CMV
+
+torque teno virus
+TTV
+
+varicella zoster virus
+VZV
+
+vesicular stomatitis virus
+VSV
+
+vaccinia virus
+VV
+
+
+oncovirus
+Oncolytic viruses
+OV
+
+human influenza virus
+influenza A virus
+influenza virus
+A/Ann Arbor/6/1960
+H2N2
+influenza A/Udorn/307/72
+A/Udorn/307/72
+H3N2
