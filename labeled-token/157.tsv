@@ -1,0 +1,12 @@
+token	BIEO	IOB2
+Retrospective	O	O
+cohort	O	O
+study	O	O
+,	O	O
+set	O	O
+tertiary	O	O
+referral	O	O
+center	O	O
+Mexico	O	O
+City	O	O
+.	O	O

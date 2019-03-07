@@ -1,0 +1,108 @@
+Using config: {'_model_dir': '../results/model', '_tf_random_seed': None, '_save_summary_steps': 100, '_save_checkpoints_steps': None, '_save_checkpoints_secs': 120, '_session_config': allow_soft_placement: true
+graph_options {
+  rewrite_options {
+    meta_optimizer_iterations: ONE
+  }
+}
+, '_keep_checkpoint_max': 5, '_keep_checkpoint_every_n_hours': 10000, '_log_step_count_steps': 100, '_train_distribute': None, '_device_fn': None, '_protocol': None, '_eval_distribute': None, '_experimental_distribute': None, '_service': None, '_cluster_spec': <tensorflow.python.training.server_lib.ClusterSpec object at 0xb1d051748>, '_task_type': 'worker', '_task_id': 0, '_global_id_in_cluster': 0, '_master': '', '_evaluation_master': '', '_is_chief': True, '_num_ps_replicas': 0, '_num_worker_replicas': 1}
+Not using Distribute Coordinator.
+Running training and evaluation locally (non-distributed).
+Start train and evaluate loop. The evaluate will happen after every checkpoint. Checkpoint frequency is determined based on RunConfig arguments: save_checkpoints_steps None or save_checkpoints_secs 120.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/python/data/ops/dataset_ops.py:429: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, use
+    tf.py_function, which takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    
+Calling model_fn.
+From main.py:81: dropout (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dropout instead.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/python/keras/layers/core.py:143: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/contrib/rnn/python/ops/lstm_ops.py:696: to_int64 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+From main.py:95: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/contrib/crf/python/ops/crf.py:567: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/python/ops/rnn.py:626: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/python/ops/metrics_impl.py:455: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+Done calling model_fn.
+Create CheckpointSaverHook.
+Graph was finalized.
+Running local_init_op.
+Done running local_init_op.
+Saving checkpoints for 0 into ../results/model/model.ckpt.
+loss = 34.59565, step = 1
+global_step/sec: 14.1786
+loss = 2.3064582, step = 101 (7.053 sec)
+global_step/sec: 19.5833
+loss = 1.0514036, step = 201 (5.105 sec)
+global_step/sec: 19.1993
+loss = 2.8694882, step = 301 (5.209 sec)
+global_step/sec: 18.5068
+loss = 1.403931, step = 401 (5.403 sec)
+global_step/sec: 17.4505
+loss = 0.6938826, step = 501 (5.730 sec)
+global_step/sec: 17.6022
+loss = 0.9159527, step = 601 (5.683 sec)
+global_step/sec: 17.5875
+loss = 0.5164782, step = 701 (5.684 sec)
+global_step/sec: 17.5164
+loss = 0.47205895, step = 801 (5.709 sec)
+global_step/sec: 17.1185
+loss = 0.50679815, step = 901 (5.842 sec)
+global_step/sec: 17.2744
+loss = 0.6814062, step = 1001 (5.789 sec)
+global_step/sec: 18.1202
+loss = 0.26060563, step = 1101 (5.519 sec)
+global_step/sec: 17.0886
+loss = 0.3328537, step = 1201 (5.852 sec)
+Saving checkpoints for 1240 into ../results/model/model.ckpt.
+Calling model_fn.
+Done calling model_fn.
+Starting evaluation at 2019-03-07T01:07:28Z
+Graph was finalized.
+From /Users/frank-lsy/anaconda3/lib/python3.6/site-packages/tensorflow/python/training/saver.py:1266: checkpoint_exists (from tensorflow.python.training.checkpoint_management) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use standard file APIs to check for files with this prefix.
+Restoring parameters from ../results/model/model.ckpt-1240
+Running local_init_op.
+Done running local_init_op.
+Finished evaluation at 2019-03-07-01:07:28
+Saving dict for global step 1240: acc = 0.9808673, f1 = 0.8587257, global_step = 1240, loss = 0.94920933, precision = 0.8378378, recall = 0.8806818
+Saving 'checkpoint_path' summary for global step 1240: ../results/model/model.ckpt-1240
+Loss for final step: 1.1161989.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from ../results/model/model.ckpt-1240
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from ../results/model/model.ckpt-1240
+Running local_init_op.
+Done running local_init_op.
+Calling model_fn.
+Done calling model_fn.
+Graph was finalized.
+Restoring parameters from ../results/model/model.ckpt-1240
+Running local_init_op.
+Done running local_init_op.

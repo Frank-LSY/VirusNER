@@ -1,0 +1,37 @@
+token	BIEO	IOB2
+CMCSCC-1	O	O
+,	O	O
+novel	O	O
+oral	O	O
+tongue	O	O
+SCC	O	O
+cell	O	O
+line	O	O
+,	O	O
+established	O	O
+.	O	O
+		
+It	O	O
+help	O	O
+elucidation	O	O
+molecular	O	O
+pathogenesis	O	O
+HPV-negative	B-virus	B-virus
+radiosensitive	O	O
+tumors	O	O
+.	O	O
+		
+©	O	O
+2015	O	O
+Wiley	O	O
+Periodicals	O	O
+,	O	O
+Inc.	O	O
+Head	O	O
+Neck	O	O
+38	O	O
+:	O	O
+E542-E551	O	O
+,	O	O
+2015	O	O
+.	O	O

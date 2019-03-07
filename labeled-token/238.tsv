@@ -1,0 +1,26 @@
+token	BIEO	IOB2
+Our	O	O
+data	O	O
+compatible	O	O
+idea	O	O
+TTV	B-virus	B-virus
+might	O	O
+act	O	O
+cocarcinogen	O	O
+certain	O	O
+cases	O	O
+HNCC	O	O
+.	O	O
+		
+Alternatively	O	O
+,	O	O
+HNCC	O	O
+may	O	O
+facilitate	O	O
+either	O	O
+TTV	B-virus	B-virus
+replication	O	O
+TTV	B-virus	B-virus
+entry	O	O
+saliva	O	O
+.	O	O

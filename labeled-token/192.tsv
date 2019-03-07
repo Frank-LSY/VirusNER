@@ -1,0 +1,18 @@
+token	BIEO	IOB2
+data	O	O
+provides	O	O
+evidence	O	O
+presence	O	O
+DNA	B-virus	B-virus
+viruses	E-virus	I-virus
+SGTs	O	O
+.	O	O
+		
+Mechanistic	O	O
+studies	O	O
+needed	O	O
+attribute	O	O
+tumor	O	O
+formation	O	O
+viruses	B-virus	B-virus
+.	O	O

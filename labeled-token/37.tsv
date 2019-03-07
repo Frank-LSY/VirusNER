@@ -1,0 +1,24 @@
+token	BIEO	IOB2
+The	O	O
+incidence	O	O
+HPV	B-virus	B-virus
+associated	O	O
+head	O	O
+neck	O	O
+cancer	O	O
+rising	O	O
+.	O	O
+		
+Multiple	O	O
+professionals	O	O
+including	O	O
+dental	O	O
+hygienist	O	O
+work	O	O
+collaboratively	O	O
+confront	O	O
+growing	O	O
+public	O	O
+health	O	O
+concern	O	O
+.	O	O

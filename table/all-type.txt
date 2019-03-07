@@ -147,6 +147,15 @@ vaccinia virus
 VV
 
 
+BK virus
+BKV
+
+JC virus
+JCV
+
+adeno-associated virus
+AAV
+
 oncovirus
 Oncolytic viruses
 OV

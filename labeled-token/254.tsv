@@ -1,0 +1,45 @@
+token	BIEO	IOB2
+Among	O	O
+59	O	O
+patients	O	O
+,	O	O
+49	O	O
+(	O	O
+83	O	O
+%	O	O
+)	O	O
+EBV-positive/HPV-negative	B-virus	B-virus
+,	O	O
+2	O	O
+(	O	O
+3	O	O
+%	O	O
+)	O	
+EBV-positive/HPV-positive	B-virus	B-virus
+,	O	O
+8	O	O
+(	O	O
+16	O	O
+%	O	O
+)	O	O
+EBV-negative/HPV-negative	B-virus	B-virus
+.	O	O
+		
+All	O	O
+HPV-positive	B-virus	B-virus
+NPCs	O	O
+co-infected	O	O
+EBV	B-virus	B-virus
+.	O	O
+		
+There	O	O
+significant	O	O
+differences	O	O
+overall	O	O
+survival	O	O
+three	O	O
+groups	O	O
+(	O	O
+p=0.111	O	O
+)	O	O
+.	O	O

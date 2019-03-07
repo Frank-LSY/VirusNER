@@ -1,0 +1,10 @@
+token	BIEO	IOB2
+4	O	O
+.	O	O
+		
+Laryngoscope	O	O
+,	O	O
+127:2033-2037	O	O
+,	O	O
+2017	O	O
+.	O	O

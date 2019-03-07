@@ -1,0 +1,16 @@
+token	BIEO	IOB2
+In	O	O
+Japan	O	O
+,	O	O
+HPV	B-virus	B-virus
+detected	O	O
+patients	O	O
+NPC	O	O
+,	O	O
+suggest	O	O
+HPV	B-virus	B-virus
+influence	O	O
+NPC	O	O
+carcinogenesis	O	O
+population	O	O
+.	O	O

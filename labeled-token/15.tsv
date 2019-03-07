@@ -1,0 +1,12 @@
+token	BIEO	IOB2
+Superficial	O	O
+brushes	O	O
+tumor	O	O
+surface	O	O
+may	O	O
+used	O	O
+identify	O	O
+HPV	B-virus	B-virus
+positive	O	O
+HNSCC	O	O
+.	O	O

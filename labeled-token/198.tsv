@@ -1,0 +1,11 @@
+token	BIEO	IOB2
+31	O	O
+150	O	O
+(	O	O
+20.7	O	O
+%	O	O
+)	O	O
+HNSCCs	O	O
+HPV	B-virus	B-virus
+positive	O	O
+.	O	O
